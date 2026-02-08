@@ -1,0 +1,122 @@
+import path from 'path';
+import fs from 'fs';
+import fsPromises from 'fs/promises';
+import { Logger } from './utils/logger.ts';
+import chalk from 'chalk';
+import { roundToDigit } from './utils/roundToDigit.ts';
+import { readFilesRecursive } from './utils/readFilesRecursive.ts';
+import { JSDOM } from 'jsdom';
+import PQueue from 'p-queue';
+const { logInfo, logWarn, logFatalAndThrow } = new Logger();
+
+const archiveDir = "archives";
+const archiveName = "x3wiki.com_20181104113547_full";
+
+// ============
+
+
+const archivePath = path.join(archiveDir, archiveName);
+if (!fs.existsSync(archivePath))
+    logFatalAndThrow("archive path not found: " + archivePath);
+
+const runStep = async (name: string, fn: () => void | Promise<void>) => {
+    logInfo(chalk.bold(`[STEP] ${name}`));
+    await fn();
+}
+
+const runIfOnNth = (n: number, i: number, fn: () => void) => {
+    if (i > 0 && i % n === 0)
+        fn();
+}
+
+const formatPercentage = (value: number, toDigit: number = 0) => {
+    return roundToDigit(value * 100, toDigit) + '%';
+}
+
+const formatPercentageProgress = (current: number, total: number, toDigit: number = 0) => {
+    return formatPercentage(current / total, toDigit);
+}
+
+const logProcessingProgress = (description: string, i: number, total: number, onNth: number) => {
+    const log = () => logInfo(`${description} (${i} ~ ${formatPercentageProgress(i, total)})`);
+
+    runIfOnNth(onNth, i, log);
+    // log one extra time on the very last entry, but only if it wasnt the nth log (otherwise it would duplicate)
+    if (i === (total - 1) && i % onNth !== 0)
+        log();
+}
+
+const insertSubstring = (str: string, idx: number, substr: string) => {
+
+}
+
+await runStep("renaming API query pages from PHP to HTML", () => {
+    const blacklist = [
+        "load.php"
+    ]
+    const pages = fs.readdirSync(archivePath)
+        .filter(entry => {
+            const entryPath = path.join(archivePath, entry);
+            return fs.statSync(entryPath).isFile()
+                && entry.endsWith(".php")
+                && !blacklist.includes(entry)
+        });
+
+    for (const [i, page] of pages.entries()) {
+        logProcessingProgress("renaming pages", i, pages.length, 5000);
+
+        const pagePath = path.join(archivePath, page);
+
+        const newName = path.parse(page).name + ".html";
+        const newPath = path.join(archivePath, newName);
+        fs.renameSync(pagePath, newPath);
+    }
+});
+
+await runStep("adding and linking basic CSS styles", async () => {
+    // add style file
+
+    const sourceFilepath = path.resolve("src/assets/styles.css");
+    if (!fs.existsSync(sourceFilepath))
+        logFatalAndThrow("styles file not found at " + sourceFilepath);
+
+    const targetFilepath = path.join(archivePath, "styles.css");
+    fs.writeFileSync(targetFilepath, fs.readFileSync(sourceFilepath, 'utf-8'), 'utf-8');
+
+    // link from all html files
+
+    const filepaths = readFilesRecursive(archivePath)
+        .filter(fp => fp.endsWith('.html'));
+
+
+    let filesWithNoHead = 0;
+    for (const [i, relFp] of filepaths.entries()) {
+        logProcessingProgress("adding styles", i, filepaths.length, 100);
+
+        const fp = path.join(archivePath, relFp);
+        const contents = await fsPromises.readFile(fp, 'utf-8');
+        const headIdx = contents.indexOf("<head>");
+        if (headIdx === -1) {
+            filesWithNoHead++;
+            continue;
+        }
+
+        contents = contents.
+
+
+
+
+
+        // const dom = new JSDOM(contents, {
+        //     url: "http://x3wiki.com"
+        // });
+        // const doc = dom.window.document;
+
+        // doc.head.prepend('<link rel="stylesheet" href="/styles.css" />');
+        await fsPromises.writeFile(fp, contents, 'utf-8');
+    }
+
+    if(filesWithNoHead > 0)
+        logWarn(`found files with no head: ${filesWithNoHead}`);
+});
+
