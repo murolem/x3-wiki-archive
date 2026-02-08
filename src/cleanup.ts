@@ -20,8 +20,9 @@ if (!fs.existsSync(archivePath))
     logFatalAndThrow("archive path not found: " + archivePath);
 
 const runStep = async (name: string, fn: () => void | Promise<void>) => {
-    logInfo(chalk.bold(`[STEP] ${name}`));
+    logInfo(chalk.bold.bgBlue(`[STEP] ${name}`));
     await fn();
+    logInfo(chalk.bold.bgGreen(`[STEP] ${name} DONE`));
 }
 
 const runIfOnNth = (n: number, i: number, fn: () => void) => {
@@ -53,6 +54,18 @@ const insertSubstring = (str: string, idx: number, substr: string) => {
 const formatForLogAsList = (list: string[]) => {
     return list.map(e => '- ' + e).join("\n");
 }
+
+function strIndexOfAll(str: string, substring: string): string[] {
+    const indexes: string[] = [];
+    let i = -1;
+    do {
+        i = str.indexOf(substring, i + 1);
+    } while (i != -1){
+        indexes.push(i);
+    }
+    return indexes;
+}
+
 
 await runStep("renaming API query pages from PHP to HTML", () => {
     const blacklist = [
@@ -92,13 +105,13 @@ await runStep("adding and linking basic CSS styles", async () => {
     const filepaths = readFilesRecursive(archivePath)
         .filter(fp => fp.endsWith('.html'));
 
-
     let filesWithNoHead = [];
     for (const [i, relFp] of filepaths.entries()) {
         logProcessingProgress("adding styles", i, filepaths.length, 2500);
 
         const fp = path.join(archivePath, relFp);
         let contents = await fsPromises.readFile(fp, 'utf-8');
+
         const headIdx = contents.indexOf("<head>");
         if (headIdx === -1) {
             filesWithNoHead.push(fp)
@@ -116,7 +129,25 @@ await runStep("adding and linking basic CSS styles", async () => {
         // doc.head.prepend('<link rel="stylesheet" href="/styles.css" />');
     }
 
-    if(filesWithNoHead.length > 0) 
+    if (filesWithNoHead.length > 0)
         logWarn(`found files with no head (${filesWithNoHead.length}): \n${formatForLogAsList(filesWithNoHead)}`);
 });
 
+await runStep("removing dead links to the wiki", async () => {
+    const filepaths = readFilesRecursive(archivePath)
+        .filter(fp => fp.endsWith('.html'));
+
+    for (const [fpIdx, relFp] of filepaths.entries()) {
+        logProcessingProgress("removing dead links", fpIdx, filepaths.length, 2500);
+
+        const fp = path.join(archivePath, relFp);
+        let contents = await fsPromises.readFile(fp, 'utf-8');
+
+        contents = contents.split('http://x3wiki.com/').join('/');
+        contents = contents.split('https://x3wiki.com/').join('/');
+        contents = contents.split('http://www.x3wiki.com/').join('/');
+        contents = contents.split('https://www.x3wiki.com/').join('/');
+
+        await fsPromises.writeFile(fp, contents, 'utf-8');
+    }
+});
