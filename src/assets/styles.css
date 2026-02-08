@@ -3224,3 +3224,9 @@ a:lang(ur) {
     text-decoration:none
 }
 /* cache key: dailystunt_wiki:resourceloader:filter:minify-css:7:bcf2b4205b52540e110d3a777baf7453 */
+
+/* source: custom styles for improved viewing */
+
+.adsbygoogle {
+  display: none !important;
+}

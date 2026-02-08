@@ -47,7 +47,11 @@ const logProcessingProgress = (description: string, i: number, total: number, on
 }
 
 const insertSubstring = (str: string, idx: number, substr: string) => {
+    return str.slice(0, idx) + substr + str.slice(idx);
+}
 
+const formatForLogAsList = (list: string[]) => {
+    return list.map(e => '- ' + e).join("\n");
 }
 
 await runStep("renaming API query pages from PHP to HTML", () => {
@@ -89,23 +93,20 @@ await runStep("adding and linking basic CSS styles", async () => {
         .filter(fp => fp.endsWith('.html'));
 
 
-    let filesWithNoHead = 0;
+    let filesWithNoHead = [];
     for (const [i, relFp] of filepaths.entries()) {
-        logProcessingProgress("adding styles", i, filepaths.length, 100);
+        logProcessingProgress("adding styles", i, filepaths.length, 2500);
 
         const fp = path.join(archivePath, relFp);
-        const contents = await fsPromises.readFile(fp, 'utf-8');
+        let contents = await fsPromises.readFile(fp, 'utf-8');
         const headIdx = contents.indexOf("<head>");
         if (headIdx === -1) {
-            filesWithNoHead++;
+            filesWithNoHead.push(fp)
             continue;
         }
 
-        contents = contents.
-
-
-
-
+        contents = insertSubstring(contents, headIdx + "<head>".length, '\n<link rel="stylesheet" href="/styles.css" />')
+        await fsPromises.writeFile(fp, contents, 'utf-8');
 
         // const dom = new JSDOM(contents, {
         //     url: "http://x3wiki.com"
@@ -113,10 +114,9 @@ await runStep("adding and linking basic CSS styles", async () => {
         // const doc = dom.window.document;
 
         // doc.head.prepend('<link rel="stylesheet" href="/styles.css" />');
-        await fsPromises.writeFile(fp, contents, 'utf-8');
     }
 
-    if(filesWithNoHead > 0)
-        logWarn(`found files with no head: ${filesWithNoHead}`);
+    if(filesWithNoHead.length > 0) 
+        logWarn(`found files with no head (${filesWithNoHead.length}): \n${formatForLogAsList(filesWithNoHead)}`);
 });
 
