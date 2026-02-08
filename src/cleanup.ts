@@ -7,10 +7,14 @@ import { roundToDigit } from './utils/roundToDigit.ts';
 import { readFilesRecursive } from './utils/readFilesRecursive.ts';
 import { JSDOM } from 'jsdom';
 import PQueue from 'p-queue';
+import { ensureDirpath } from './utils/ensureDirpath.ts';
+import sanitizeFilename from 'sanitize-filename';
 const { logInfo, logWarn, logFatalAndThrow } = new Logger();
 
 const archiveDir = "archives";
 const archiveName = "x3wiki.com_20181104113547_full";
+// starts with 1
+const onlyRunNthStep = 4;
 
 // ============
 
@@ -19,10 +23,15 @@ const archivePath = path.join(archiveDir, archiveName);
 if (!fs.existsSync(archivePath))
     logFatalAndThrow("archive path not found: " + archivePath);
 
+let stepRunCounter = 1;
 const runStep = async (name: string, fn: () => void | Promise<void>) => {
-    logInfo(chalk.bold.bgBlue(`[STEP] ${name}`));
-    await fn();
-    logInfo(chalk.bold.bgGreen(`[STEP] ${name} DONE`));
+    if (onlyRunNthStep <= 0 || stepRunCounter === onlyRunNthStep) {
+        logInfo(chalk.bold.bgBlue(`[STEP] ${name}`));
+        await fn();
+        logInfo(chalk.bold.bgGreen(`[STEP] ${name} DONE`));
+    }
+
+    stepRunCounter++;
 }
 
 const runIfOnNth = (n: number, i: number, fn: () => void) => {
@@ -55,12 +64,34 @@ const formatForLogAsList = (list: string[]) => {
     return list.map(e => '- ' + e).join("\n");
 }
 
-function strIndexOfAll(str: string, substring: string): string[] {
-    const indexes: string[] = [];
+/**
+ * Formats filename to be valid for both linking to from the pages and legal as a filename.
+ * 
+ * Steps:
+ * 1. Decode as a URI component.
+ * 2. Sanitize.
+ * 3. Manually encode back by:
+ *     - Replacing spaces ' ' with underscores '_'.
+ */
+const formatPageNameForFsAndHyperlinking = (name: string) => {
+    const colonMarker = '@@@@@@@@@@COLON@@@@@@@@@@';
+
+    return sanitizeFilename(
+        decodeURIComponent(name)
+            .replaceAll(' ', '_')
+            .replaceAll(':', colonMarker)
+    )
+        // permit colon in filenames since so many pages use it. sorry windows users
+        .replaceAll(colonMarker, ':')
+
+}
+
+function strIndexOfAll(str: string, substring: string): number[] {
+    const indexes: number[] = [];
     let i = -1;
     do {
         i = str.indexOf(substring, i + 1);
-    } while (i != -1){
+    } while (i != -1) {
         indexes.push(i);
     }
     return indexes;
@@ -150,4 +181,61 @@ await runStep("removing dead links to the wiki", async () => {
 
         await fsPromises.writeFile(fp, contents, 'utf-8');
     }
+});
+
+await runStep('extracting wikitext', async () => {
+    const filepaths = fs.readdirSync(archivePath)
+        .filter(ep => {
+            return fs.statSync(path.join(archivePath, ep)).isFile()
+                && ep.endsWith('.html')
+        });
+
+    const outputDirpath = ensureDirpath(path.join(archivePath, "wikitext"));
+
+    // todo:
+    // - find out which pages do not have wikitext counterpart.
+    // - if theres no full wikitext counterpart, maybe look for section edits?
+
+    const isEditPageIncludingSectionRegex = /<title>Editing (.+) - X3 Wiki<\/title>/;
+    const isEditPageSectionRegex = /<title>Editing .+ \(section\) - X3 Wiki<\/title>/;
+    const pageTitleRegex = /<title>Editing (.+) - X3 Wiki<\/title>/;
+    const wikitextTextareaRegex = /<textarea.*?>([\S\s]*)<\/textarea>(?:<div class=['"]editOptions['"]>|<div id=['"]editpage-copywarn['"]>)/m;
+
+    let pagesRestored = 0;
+    let editPagesWithExtractionFailure: string[] = [];
+    for (const [fpIdx, relFp] of filepaths.entries()) {
+        logProcessingProgress("restoring edit pages", fpIdx, filepaths.length, 2500);
+
+        const fp = path.join(archivePath, relFp);
+        let contents = await fsPromises.readFile(fp, 'utf-8');
+
+        // test to see if we are on edit page
+        if (!isEditPageIncludingSectionRegex.test(contents) || isEditPageSectionRegex.test(contents))
+            continue;
+
+        let wikitext = wikitextTextareaRegex.exec(contents)?.[1];
+        if (wikitext === undefined) {
+            editPagesWithExtractionFailure.push(fp);
+            continue;
+        } else if (wikitext === '') {
+            continue;
+        }
+        wikitext = `<!-- source file: ${relFp} -->\n\n` + wikitext;
+
+        const pageTitle = pageTitleRegex.exec(contents)?.[1];
+        if (!pageTitle) {
+            editPagesWithExtractionFailure.push(fp);
+            continue;
+        }
+
+        const outputFp = path.join(outputDirpath, formatPageNameForFsAndHyperlinking(pageTitle) + ".wikitext");
+        await fsPromises.writeFile(outputFp, wikitext);
+
+        pagesRestored++;
+    }
+
+    if (editPagesWithExtractionFailure.length > 0)
+        logWarn(`failed to extract wikitext from edit pages (${editPagesWithExtractionFailure.length}): \n` + formatForLogAsList(editPagesWithExtractionFailure));
+
+    logInfo(chalk.bold("pages restored: " + pagesRestored));
 });
