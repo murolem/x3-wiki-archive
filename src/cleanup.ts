@@ -120,10 +120,17 @@ const manifest = new ManifestCtrl(
     archivePath,
     path.join(archivePath, originalManifestName),
     path.join(archivePath, processedManifestName),
+    {
+        loadProcessedManifestFromDisk: false
+    }
 );
 
 await runStep("mapping original manifest to archive structure", () => {
     manifest.mapToArchiveStructure();
+});
+
+await runStep("saving manifest", () => {
+    manifest.saveManifest();
 });
 
 // await runStep("criss crossing manifest with actual structure", () => {
