@@ -287,144 +287,6 @@ await runStep("fixing page names", () => {
     manifestCtrl.saveManifest();
 });
 
-
-// await runStep("criss crossing manifest with actual structure", () => {
-//     const manifest = getManifest();
-//     for(const e of manifest) {
-//         const pathStr = path.join(archivePath, e.file_id);
-//         if(!fs.existsSync(pathStr)) {
-//             manifest.splice(manifest.indexOf(e), 1);
-//             continue;
-//         }
-
-//         if(path.parse(e.file_id).ext === '' && fs.statSync(pathStr).isDirectory()) {
-//             e.file_id = path.join(e.file_id, "index.html");
-//         }
-//         e.file_id = path.normalize(e.file_id);
-//     }
-
-//     const actualPaths = readFilesRecursive(archivePath);
-
-//     const manifestPathsSet = new Set(manifest.map(e => e.file_id));
-//     const actualPathsSet = new Set(actualPaths);
-
-//     const missingFsPaths = manifestPathsSet.difference(actualPathsSet);
-//     const missingManifestPaths = actualPathsSet.difference(manifestPathsSet);
-
-//     if(missingFsPaths.size > 0) {
-//         logWarn(chalk.bold('paths missing from filesystem that are in manifest: \n') + formatForLogAsList([...missingFsPaths]));
-//     }
-//         if(missingManifestPaths.size > 0) {
-//         logWarn(chalk.bold('paths missing from manifest that are in filesystem: \n') + formatForLogAsList([...missingManifestPaths]));
-//     }
-// })
-
-// fix filenames of normal pages so that they are openable in browser.
-// since the filenames come fully url encoded and in browser they are queried not super url encoded this creates 404.
-// by allowing colon ':' (illegal in Windows) and comma ',' characters in filenames we resolve almost all issues with page addressing that matter
-// (at least in space of normal pages, ie excluding revisions and all that kind of stuff).
-// await runStep("fix page names", async () => {
-//     const manifest = getManifest();
-
-//     const actualPagesEntries = manifest
-//         .filter(e => e.file_id.startsWith('index.php/'));
-
-//     const allowedUnsafeUrlCharsMapToMarkers: Record<string, string> = {
-//         ':': '_-_-_-COLON-_-_-_',
-//         ',': '_-_-_-COMMA-_-_-_',
-//     };
-//     const markersToAllowedUnsafeUrlCharsMap = swapObjectKeysWithValues(allowedUnsafeUrlCharsMapToMarkers);
-
-//     const unfixablePages: { page: string, encodedFilename: string, decodedFilename: string, looslyReencodedFilename: string }[] = [];
-//     const missingPaths = [];
-//     let successfulRenameCounter = 0;
-//     for(const e of actualPagesEntries) {
-//         if(e.file_id === "") {
-//             manifest.splice(manifest.indexOf(e), 1);
-//             continue;
-//         }
-
-//         const sourcePath = path.join(archivePath, e.file_id);
-//         const pathIdParsed = path.parse(e.file_id);
-//         const nameEncoded = pathIdParsed.base;
-//         const nameDecoded = decodeURIComponent(nameEncoded);
-//         if(nameEncoded === nameDecoded) {
-//             // name already safe, do nothing
-//             continue;
-//         }
-
-//         // produce a safe name by temporarily substituting chars that are illegal
-
-//         let nameEncodedLoose = nameDecoded;
-//         for(const char in allowedUnsafeUrlCharsMapToMarkers) {
-//             // @ts-ignore what
-//             nameEncodedLoose = nameEncodedLoose.replaceAll(char, allowedUnsafeUrlCharsMapToMarkers[char]);
-//         }
-//         nameEncodedLoose = encodeURIComponent(nameEncodedLoose);
-//         for(const marker in markersToAllowedUnsafeUrlCharsMap) {
-//             nameEncodedLoose = nameEncodedLoose.replaceAll(marker, markersToAllowedUnsafeUrlCharsMap[marker]);
-//         }
-
-//         if(nameEncodedLoose === nameDecoded) {
-//             // names matched = fixed successfully
-
-//             const newFileId = path.join(pathIdParsed.dir, nameEncodedLoose);
-//             const newPath = path.join(archivePath, newFileId);
-
-//             if(fs.existsSync(newPath)) {
-//                 // already renamed previously
-//                 continue;
-//             } else if(!fs.existsSync(sourcePath)) {
-//                 // source doesn't exist
-//                 missingPaths.push(sourcePath);
-//                 continue;
-//             }
-
-//             e.file_id = newFileId;
-//             fs.renameSync(
-//                 sourcePath,
-//                 newPath
-//             );
-//             successfulRenameCounter++;
-//         } else {
-//             // filenames still not match = filename will be accessible = get rid of it
-
-//             if(!fs.existsSync(sourcePath)) {
-//                 // source doesn't exist
-//                 missingPaths.push(sourcePath);
-//                 continue;
-//             }
-
-//             unfixablePages.push({
-//                 page: e.file_url,
-//                 encodedFilename: nameEncoded,
-//                 decodedFilename: nameDecoded,
-//                 looslyReencodedFilename: nameEncodedLoose
-//             });
-//             manifest.splice(manifest.indexOf(e), 1);
-//             fs.rmSync(sourcePath, { recursive: true });
-//         }
-//     }
-
-//     if(unfixablePages.length > 0) {
-//         const unfixablePagesStrArray = unfixablePages.map(e => e.encodedFilename + ' -> ' + e.decodedFilename + ' -> ' + e.looslyReencodedFilename);
-//         logWarn(chalk.bold(`pages with names that could not be safely renamed (${unfixablePages.length}): \n`) + formatForLogAsList(unfixablePagesStrArray));
-//         // unfixablePages.forEach(n => logInfo(n[0] + "\t" + n[1]))
-//         // logInfo(chalk.bold("total mismatched: " + unfixablePages.length));
-//     }
-
-//     if(missingPaths.length > 0) {
-//         logWarn(chalk.bold(`paths that are missing but found in manifest (${missingPaths.length}): \n`) + formatForLogAsList(missingPaths));
-//     }
-
-//     logInfo(chalk.bold("successful renames: " + successfulRenameCounter));
-
-//     writeManifestCopy(manifest)
-
-//     // const pages = getNormalPages();
-// });
-
-
 // await runStep("renaming API query pages from PHP to HTML", () => {
 //     const blacklist = [
 //         "load.php"
@@ -448,67 +310,67 @@ await runStep("fixing page names", () => {
 //     }
 // });
 
-// await runStep("adding and linking basic CSS styles", async () => {
-//     // add style file
+await runStep("adding and linking basic CSS styles", async () => {
+    // add style file
 
-//     const sourceFilepath = path.resolve("src/assets/styles.css");
-//     if (!fs.existsSync(sourceFilepath))
-//         logFatalAndThrow("styles file not found at " + sourceFilepath);
+    const sourceFilepath = path.resolve("src/assets/styles.css");
+    if (!fs.existsSync(sourceFilepath))
+        logFatalAndThrow("styles file not found at " + sourceFilepath);
 
-//     const targetFilepath = path.join(archivePath, "styles.css");
-//     fs.writeFileSync(targetFilepath, fs.readFileSync(sourceFilepath, 'utf-8'), 'utf-8');
+    const targetFilepath = path.join(archivePath, "styles.css");
+    fs.writeFileSync(targetFilepath, fs.readFileSync(sourceFilepath, 'utf-8'), 'utf-8');
 
-//     // link from all html files
+    // link from all html files
 
-//     const filepaths = readFilesRecursive(archivePath)
-//         .filter(fp => fp.endsWith('.html'));
+    const filepaths = readFilesRecursive(archivePath)
+        .filter(fp => fp.endsWith('.html'));
 
-//     let filesWithNoHead = [];
-//     for (const [i, relFp] of filepaths.entries()) {
-//         logProcessingProgress("adding styles", i, filepaths.length, 2500);
+    let filesWithNoHead = [];
+    for (const [i, relFp] of filepaths.entries()) {
+        logProcessingProgress("adding styles", i, filepaths.length, 1000);
 
-//         const fp = path.join(archivePath, relFp);
-//         let contents = await fsPromises.readFile(fp, 'utf-8');
+        const fp = path.join(archivePath, relFp);
+        let contents = await fsPromises.readFile(fp, 'utf-8');
 
-//         const headIdx = contents.indexOf("<head>");
-//         if (headIdx === -1) {
-//             filesWithNoHead.push(fp)
-//             continue;
-//         }
+        const headIdx = contents.indexOf("<head>");
+        if (headIdx === -1) {
+            filesWithNoHead.push(fp)
+            continue;
+        }
 
-//         contents = insertSubstring(contents, headIdx + "<head>".length, '\n<link rel="stylesheet" href="/styles.css" />')
-//         await fsPromises.writeFile(fp, contents, 'utf-8');
+        contents = insertSubstring(contents, headIdx + "<head>".length, '\n<link rel="stylesheet" href="/styles.css" />')
+        await fsPromises.writeFile(fp, contents, 'utf-8');
 
-//         // const dom = new JSDOM(contents, {
-//         //     url: "http://x3wiki.com"
-//         // });
-//         // const doc = dom.window.document;
+        // const dom = new JSDOM(contents, {
+        //     url: "http://x3wiki.com"
+        // });
+        // const doc = dom.window.document;
 
-//         // doc.head.prepend('<link rel="stylesheet" href="/styles.css" />');
-//     }
+        // doc.head.prepend('<link rel="stylesheet" href="/styles.css" />');
+    }
 
-//     if (filesWithNoHead.length > 0)
-//         logWarn(`found files with no head (${filesWithNoHead.length}): \n${formatForLogAsList(filesWithNoHead)}`);
-// });
+    if (filesWithNoHead.length > 0)
+        logWarn(`found files with no head (${filesWithNoHead.length}): \n${formatForLogAsList(filesWithNoHead)}`);
+});
 
-// await runStep("removing dead links to the wiki", async () => {
-//     const filepaths = readFilesRecursive(archivePath)
-//         .filter(fp => fp.endsWith('.html'));
+await runStep("removing dead links to the old wiki", async () => {
+    const filepaths = readFilesRecursive(archivePath)
+        .filter(fp => fp.endsWith('.html'));
 
-//     for (const [fpIdx, relFp] of filepaths.entries()) {
-//         logProcessingProgress("removing dead links", fpIdx, filepaths.length, 2500);
+    for (const [fpIdx, relFp] of filepaths.entries()) {
+        logProcessingProgress("removing dead links", fpIdx, filepaths.length, 1000);
 
-//         const fp = path.join(archivePath, relFp);
-//         let contents = await fsPromises.readFile(fp, 'utf-8');
+        const fp = path.join(archivePath, relFp);
+        let contents = await fsPromises.readFile(fp, 'utf-8');
 
-//         contents = contents.split('http://x3wiki.com/').join('/');
-//         contents = contents.split('https://x3wiki.com/').join('/');
-//         contents = contents.split('http://www.x3wiki.com/').join('/');
-//         contents = contents.split('https://www.x3wiki.com/').join('/');
+        contents = contents.split('http://x3wiki.com/').join('/');
+        contents = contents.split('https://x3wiki.com/').join('/');
+        contents = contents.split('http://www.x3wiki.com/').join('/');
+        contents = contents.split('https://www.x3wiki.com/').join('/');
 
-//         await fsPromises.writeFile(fp, contents, 'utf-8');
-//     }
-// });
+        await fsPromises.writeFile(fp, contents, 'utf-8');
+    }
+});
 
 // await runStep('extracting wikitext', async () => {
 //     const filepaths = fs.readdirSync(archivePath)
