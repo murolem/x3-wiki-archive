@@ -49,14 +49,32 @@ export const manifestSchema = z.object({
     /** Path to the resource relative to base URL. eg `index.php/Missions` */
     urlPath: z.string(),
 }).array();
-export type Manifest = z.infer<typeof manifestSchema>;
+export type ManifestNoMethods = z.infer<typeof manifestSchema>;
+export type ManifestEntryNoMethods = ManifestNoMethods[number]
+
+export type ManifestEntry = ManifestEntryNoMethods & {
+    /** Remove this entry from the manifest. */
+    remove(): void,
+
+    /** 
+     * Set new disk path. Automatically computes the url path as well.
+     * 
+     * **Note:** for the new path to be set it must exists on disk.**
+     * @param newRelDiskPath New relative disk path.
+     * @param removeArchivePath If enabled, removed path to the archive from the given path before saving it.
+     */
+    setDiskPath(newRelDiskPath: string, removeArchivePath?: boolean): void
+}
+export type Manifest = Array<ManifestEntry>;
 
 export class ManifestCtrl {
     private originalManifestPath: string;
     private originalManifest!: OriginalManifest;
 
     private processedManifestPath: string
-    private manifest!: Manifest;
+    private _manifest!: Manifest;
+    get manifest() { return this._manifest; }
+    private set manifest(value) { this._manifest = value; }
 
     private archivePath: string;
 
@@ -81,15 +99,15 @@ export class ManifestCtrl {
      * Expects a path relative to CWD, otherwise enable {@link includesArchivePath} to add it automatically.
      * 
      * @example
-     * index.php/Megalodon
-     * // v
      * index.php/Megalodon/index.html
+     * // v
+     * index.php/Megalodon
      * @param diskPath Disk path to convert.
      * @param prependArchivePath If enabled, prepends path to the archive to the given path so that it becomes valid for `fs` operations.
      * @returns A path relative to the archive path.
      */
     convertDiskPathToUrlPath(diskPath: string, prependArchivePath?: boolean): Result<string, { reason: string }> {
-        if(prependArchivePath)
+        if (prependArchivePath)
             diskPath = path.join(this.archivePath, diskPath);
 
         if (!fs.existsSync(diskPath))
@@ -112,15 +130,15 @@ export class ManifestCtrl {
      * Expects a path relative to CWD, otherwise enable {@link prependArchivePath} to add it automatically.
      * 
      * @example
-     * index.php/Megalodon/index.html
-     * // v
      * index.php/Megalodon
+     * // v
+     * index.php/Megalodon/index.html
      * @param urlPath URL path to convert.
      * @param prependArchivePath If enabled, prepends path to the archive to the given path so that it becomes valid for `fs` operations.
      * @returns A path relative to the archive path.
      */
     convertUrlPathToDiskPath(urlPath: string, prependArchivePath?: boolean): Result<string, { reason: string }> {
-        if(prependArchivePath)
+        if (prependArchivePath)
             urlPath = path.join(this.archivePath, urlPath);
 
         if (!fs.existsSync(urlPath))
@@ -174,7 +192,7 @@ export class ManifestCtrl {
         // correct page paths that point to directory instead of index.html inside said directory
         // const renamedIndexHtmlPaths: Array<{ pathBefore: string, pathAfter: string }> = [];
         const failedPathConverts: string[] = [];
-        this.manifest.forEach(e => {
+        this._manifest.forEach(e => {
             const relDiskPathRes = this.convertUrlPathToDiskPath(e.urlPath, true);
             if (relDiskPathRes.isErr()) {
                 failedPathConverts.push(e.urlPath + '\t' + relDiskPathRes.error.reason);
@@ -191,7 +209,7 @@ export class ManifestCtrl {
 
         const diskPaths = readFilesRecursive(this.archivePath);
 
-        const manifestPathsSet = new Set(this.manifest.map(e => e.diskPath));
+        const manifestPathsSet = new Set(this._manifest.map(e => e.diskPath));
         const diskPathsSet = new Set(diskPaths);
 
         // missing on disk
@@ -203,7 +221,7 @@ export class ManifestCtrl {
             logWarn(chalk.bold('paths missing from disk that are in manifest: \n') + formatForLogAsList([...pathMissingOnDisk]));
             logWarn(chalk.bold("> removing manifest entries above"));
             // remove from manifest
-            pathMissingOnDisk.forEach(p => this.manifest.splice(this.manifest.findIndex(e => e.diskPath === p), 1));
+            pathMissingOnDisk.forEach(p => this._manifest.splice(this._manifest.findIndex(e => e.diskPath === p), 1));
         }
 
         if (pathsMissingInManifest.size > 0) {
@@ -213,9 +231,6 @@ export class ManifestCtrl {
             // add to manifest
             const ts = new Date();
             pathsMissingInManifest.forEach(relDiskPath => {
-                if(relDiskPath.includes('Category%3AShipyards'))
-                    debugger;
-
                 const relUrlPathRes = this.convertDiskPathToUrlPath(relDiskPath, true);
                 if (relUrlPathRes.isErr()) {
                     logFatalAndThrow("error while converting a path. should not happen since the path is sourced from the filesystem.");
@@ -223,12 +238,16 @@ export class ManifestCtrl {
                 }
                 const relUrlPath = relUrlPathRes.value;
 
-                this.manifest.push({
-                    originalUrl: `http://x3wiki.com/${relUrlPath}`,
-                    timestamp: ts,
-                    diskPath: relDiskPath,
-                    urlPath: relUrlPath,
-                })
+                this._manifest.push(
+                    this.populateManifestEntryWithMethods(
+                        {
+                            originalUrl: `http://x3wiki.com/${relUrlPath}`,
+                            timestamp: ts,
+                            diskPath: relDiskPath,
+                            urlPath: relUrlPath,
+                        }
+                    )
+                );
             })
         }
 
@@ -238,8 +257,22 @@ export class ManifestCtrl {
 
     saveManifest(): void {
         ensureFilepathDirpath(this.processedManifestPath);
-        fs.writeFileSync(this.processedManifestPath, JSON.stringify(manifestSchema.encode(this.manifest), null, 4));
+        fs.writeFileSync(this.processedManifestPath, JSON.stringify(manifestSchema.encode(this._manifest), null, 4));
     }
+
+
+    /**
+     * Removes entry from manifest. If it's not found, does nothing.
+     * @param entry Entry to get rid of.
+     */
+    removeEntryFromManifest(entry: ManifestEntry): void {
+        const idx = this._manifest.findIndex(e => e === entry);
+        if (idx !== -1)
+            this._manifest.splice(idx, 1);
+    }
+
+    // ==================================
+    // ==================================
 
     /** 
      * Loads original manifest from disk.
@@ -292,17 +325,46 @@ export class ManifestCtrl {
             throw ''//type guard
         }
 
-        this.manifest = parseRes.data;
+        this._manifest = parseRes.data
+            .map(this.populateManifestEntryWithMethods);
+
         return true;
     }
 
     /** Produces manifest using the original manifest. */
     private generateManifest(): void {
-        this.manifest = this.originalManifest.map(e => ({
-            originalUrl: e.file_url,
-            timestamp: e.timestamp,
-            diskPath: e.file_id,
-            urlPath: e.file_id,
-        }));
+        this._manifest = this.originalManifest.map(e => {
+            return this.populateManifestEntryWithMethods({
+                originalUrl: e.file_url,
+                timestamp: e.timestamp,
+                diskPath: e.file_id,
+                urlPath: e.file_id,
+            })
+        });
+    }
+
+    /**
+     * Adds methods to a manifest entry.
+     * @param entry 
+     * @returns 
+     */
+    private populateManifestEntryWithMethods(entry: ManifestEntryNoMethods): ManifestEntry {
+        (entry as ManifestEntry).remove = () => this.removeEntryFromManifest(entry as ManifestEntry);
+        (entry as ManifestEntry).setDiskPath = (newRelDiskPath: string, removeArchivePath?: boolean) => {
+            if (removeArchivePath)
+                newRelDiskPath = this.convertPathToRelative(newRelDiskPath);
+
+            entry.diskPath = newRelDiskPath;
+
+            const urlPathRes = this.convertDiskPathToUrlPath(newRelDiskPath, true);
+            if (urlPathRes.isErr()) {
+                logFatalAndThrow({ msg: "failed to convert path", data: { error: urlPathRes.error, newRelDiskPath } });
+                throw ''//type guard
+            }
+
+            entry.urlPath = urlPathRes.value;
+        }
+
+        return entry as ManifestEntry;
     }
 }

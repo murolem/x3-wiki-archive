@@ -10,20 +10,40 @@ import PQueue from 'p-queue';
 import { ensureDirpath, ensureFilepathDirpath } from './utils/ensureDirpath.ts';
 import sanitizeFilename from 'sanitize-filename';
 import { number, z } from 'zod';
-import { ManifestCtrl } from './Manifest.ts';
+import { ManifestCtrl, type ManifestEntry } from './Manifest.ts';
+import { isPathUnderDirectory } from './utils/isPageUnderDirectory.ts';
+import { assertPathExists } from './utils/assertPathExists.ts';
+import { formatForLogAsList } from './utils/formatForLogAsList.ts';
 const { logInfo, logWarn, logFatalAndThrow } = new Logger();
 
+// ===========================
+// ======== VARIABLES ========
+// ===========================
+
+// name of your archive.
 const archiveName = "x3wiki.com_20181104113547_full";
+
+// name of directory where your archive is.
 const archiveDirname = "archives";
+
+// name for the original manifest
 const originalManifestName = "snapshots.json";
+
+// name for the processed manifest produced by the script
 const processedManifestName = "snapshots-processed.json";
+
 // if enabled, loads up processed manifest when it's available.
-// useful for iteration as well as getting rid of first time warns via cleansing.
-const preferProcessedManifest = true;
+// useful for debugging since a lot of warning will be gone after the initial cleanup.
+const loadProcessedManifestFromDisk = true;
+
+// run only the nth step.
 // starts with 1. set to 0 to disable
 const onlyRunNthStep = 0;
 
-// ============
+
+// =============================
+// ======== DANGER ZONE ========
+// =============================
 
 const archivePath = path.join(archiveDirname, archiveName);
 if (!fs.existsSync(archivePath))
@@ -104,34 +124,169 @@ function strIndexOfAll(str: string, substring: string): number[] {
 
 
 
-const swapObjectKeysWithValues = (obj: object) => Object.fromEntries(Object.entries(obj).map(a => a.reverse()));
+const swapObjectKeysAndValues = (obj: object): unknown => {
+    return Object.fromEntries(Object.entries(obj).map(a => a.reverse()));
+}
 
 // ================
 
 
 const getGibberishNamedFiles = () => {
-    
+
 }
 
 
 // ================
 
-const manifest = new ManifestCtrl(
+const manifestCtrl = new ManifestCtrl(
     archivePath,
     path.join(archivePath, originalManifestName),
     path.join(archivePath, processedManifestName),
     {
-        loadProcessedManifestFromDisk: false
+        loadProcessedManifestFromDisk: loadProcessedManifestFromDisk
     }
 );
+const manifest = manifestCtrl.manifest;
+
+// ================
 
 await runStep("mapping original manifest to archive structure", () => {
-    manifest.mapToArchiveStructure();
+    manifestCtrl.mapToArchiveStructure();
 });
 
-await runStep("saving manifest", () => {
-    manifest.saveManifest();
+await runStep("fixing page names", () => {
+    const pages = manifest
+        .filter(e => isPathUnderDirectory('index.php', e.diskPath));
+
+    /** Maps unsafe chars to their temp safe variants.  */
+    const charEscapes: Record<string, string> = {
+        ':': '_-_-_-COLON-_-_-_',
+        ',': '_-_-_-COMMA-_-_-_',
+        '+': '_-_-_-PLUS-_-_-_',
+    };
+    const charUnescapes = swapObjectKeysAndValues(charEscapes) as Record<string, string>;
+
+    // const pendingRenames: Array<{ manifestEntry: ManifestEntry, newFilename: string }> = [];
+    let successfulRenamesCounter = 0;
+    let failedRenamesCounter = 0;
+    const failedRenamesDueTooUnsafe: Array<{ urlPath: string, newName: string }> = [];
+    for (const [i, e] of pages.entries()) {
+        logProcessingProgress("renaming pages", i, pages.length, 500);
+
+        const relDiskPath = e.diskPath;
+        const fullDiskPath = manifestCtrl.convertPathToFull(relDiskPath);
+        assertPathExists(fullDiskPath, "disk path not found but present in manifest");
+
+        // rel disk path but paths that end with index.html will instead with their directory.
+        const relUrlPathRes = manifestCtrl.convertDiskPathToUrlPath(relDiskPath, true)
+        if (relUrlPathRes.isErr()) {
+
+            logFatalAndThrow({
+                msg: "error while converting disk path to url path",
+                data: {
+                    error: relUrlPathRes.error,
+                    relDiskPath
+                }
+            });
+            throw ''//type guard   
+        }
+        const relUrlPath = relUrlPathRes.value;
+        const fullUrlPath = manifestCtrl.convertPathToFull(relUrlPath);
+
+        let korlusHit = false;
+        if (relDiskPath.includes('Korlus')) {
+            korlusHit = true;
+            debugger;
+        }
+
+        const relUrlPathParsed = path.parse(relUrlPath);
+        // file or directory name
+        const name = relUrlPathParsed.base;
+        // fully decoded name that might be fs-unsafe
+        const nameDecoded = decodeURIComponent(name);
+
+        if (name === nameDecoded)
+            continue; // name already safe, do nothing
+
+        // fully decoded name but but with select few unsafe chars present
+        // kind of fs-safe (sorry windows users) and works in URLs. 
+        let nameDecodedLoosely = nameDecoded;
+        for (const char in charEscapes) {
+            const escape = charEscapes[char]!;
+            nameDecodedLoosely = nameDecodedLoosely.replaceAll(char, escape);
+        }
+
+        nameDecodedLoosely = encodeURIComponent(nameDecodedLoosely);
+        for (const escape in charUnescapes) {
+            const char = charUnescapes[escape]!;
+            nameDecodedLoosely = nameDecodedLoosely.replaceAll(escape, char);
+        }
+
+        if (nameDecodedLoosely === nameDecoded) {
+            // both decodes match = fix successful = fs and url are the same = it should load fine.
+            // finally, do the renaming.
+
+            const newRelUrlPath = path.join(relUrlPathParsed.dir, nameDecodedLoosely);
+            fs.renameSync(fullUrlPath, manifestCtrl.convertPathToFull(newRelUrlPath));
+            successfulRenamesCounter++;
+
+            const newFullUrlPath = manifestCtrl.convertPathToFull(newRelUrlPath);
+
+            const newRelDiskPathRes = manifestCtrl.convertUrlPathToDiskPath(newRelUrlPath, true);
+            if (newRelDiskPathRes.isErr()) {
+                logFatalAndThrow({
+                    msg: "error while converting url path to disk path",
+                    data: {
+                        error: newRelDiskPathRes.error,
+                        relUrlPath: newRelUrlPath
+                    }
+                });
+                throw ''//type guard   
+            }
+            const newRelDiskPath = newRelDiskPathRes.value;
+            e.setDiskPath(newRelDiskPath);
+
+
+            if (!fs.statSync(newFullUrlPath).isDirectory())
+                continue;
+
+            // check other manifest entries - there might be some under the newly renamed directory that still have the old path.
+            // no need to rename them since they are already under a new directory - it's just the manifest that isn't up to sync.
+            for (const e2 of manifest) {
+                if(korlusHit && e2.diskPath.includes('Korlus'))
+                    debugger;
+
+                if (!isPathUnderDirectory(fullUrlPath, manifestCtrl.convertPathToFull(e2.diskPath)))
+                    continue;
+
+                const otherRelDiskPathWithinOldDir = path.relative(fullUrlPath, manifestCtrl.convertPathToFull(e2.diskPath));
+                const otherNewFullDiskPath = path.join(newFullUrlPath, otherRelDiskPathWithinOldDir);
+                e2.setDiskPath(otherNewFullDiskPath, true);
+            }
+        } else {
+            // decodes do not match = theres still some unsafe chars left that we can't decode
+            // = URLs will not be able to match the files on fs.
+            // remove offending entries.
+
+            failedRenamesDueTooUnsafe.push({ urlPath: relUrlPath, newName: nameDecodedLoosely });
+            fs.rmSync(fullUrlPath, { recursive: true });
+            e.remove();
+            failedRenamesCounter++;
+        }
+    }
+
+    if (failedRenamesDueTooUnsafe.length > 0) {
+        const listStr = formatForLogAsList(failedRenamesDueTooUnsafe
+            .map(e => `url path: ${e.urlPath} \nnew name: ${e.newName}`)
+        );
+        logWarn(chalk.bold(`failed to rename pages (new name too unsafe) (${failedRenamesDueTooUnsafe.length}): \n`) + listStr);
+        logWarn(chalk.bold("> removing above pages from disk and manifest"))
+    }
+
+    logInfo(chalk.bold(`pages checked: ${pages.length}; ${successfulRenamesCounter} renamed, ${failedRenamesCounter} failed to rename`));
+    manifestCtrl.saveManifest();
 });
+
 
 // await runStep("criss crossing manifest with actual structure", () => {
 //     const manifest = getManifest();
@@ -209,7 +364,7 @@ await runStep("saving manifest", () => {
 //         for(const marker in markersToAllowedUnsafeUrlCharsMap) {
 //             nameEncodedLoose = nameEncodedLoose.replaceAll(marker, markersToAllowedUnsafeUrlCharsMap[marker]);
 //         }
-        
+
 //         if(nameEncodedLoose === nameDecoded) {
 //             // names matched = fixed successfully
 
@@ -224,7 +379,7 @@ await runStep("saving manifest", () => {
 //                 missingPaths.push(sourcePath);
 //                 continue;
 //             }
-            
+
 //             e.file_id = newFileId;
 //             fs.renameSync(
 //                 sourcePath,
@@ -263,9 +418,9 @@ await runStep("saving manifest", () => {
 //     }
 
 //     logInfo(chalk.bold("successful renames: " + successfulRenameCounter));
-    
+
 //     writeManifestCopy(manifest)
-    
+
 //     // const pages = getNormalPages();
 // });
 
@@ -392,7 +547,7 @@ await runStep("saving manifest", () => {
 //         } else if (isEditPageSectionRegex.test(contents)) {
 //             // check for edit pages that are for sections of pages
 //             // we dont need those so we can just remove them
-            
+
 //             // await fsPromises.rm(fp);
 //             pagesWithSectionEditsRemoved++;
 //             continue;
@@ -404,7 +559,7 @@ await runStep("saving manifest", () => {
 //             continue;
 //         }
 //         wikitext = wikitext.trim();
-        
+
 //         if (wikitext === '') {
 //             continue;
 //         }
@@ -439,3 +594,7 @@ await runStep("saving manifest", () => {
 //     logInfo(chalk.bold("pages restored: " + wikitextPagesRestored));
 //     logInfo(`pages removed: ${pagesWithSectionEditsRemoved + pagesWithFullEditsRemoved} (${pagesWithFullEditsRemoved} edit pages for whole pages, ${pagesWithSectionEditsRemoved} edit pages for sections)`)
 // });
+
+await runStep("saving manifest", () => {
+    manifestCtrl.saveManifest();
+});
