@@ -10,17 +10,20 @@ import PQueue from 'p-queue';
 import { ensureDirpath, ensureFilepathDirpath } from './utils/ensureDirpath.ts';
 import sanitizeFilename from 'sanitize-filename';
 import { number, z } from 'zod';
+import { ManifestCtrl } from './Manifest.ts';
 const { logInfo, logWarn, logFatalAndThrow } = new Logger();
 
-const archiveDirname = "archives";
 const archiveName = "x3wiki.com_20181104113547_full";
-const manifestName = "snapshots.json";
-const manifestCopyName = "snapshots-processed.json";
+const archiveDirname = "archives";
+const originalManifestName = "snapshots.json";
+const processedManifestName = "snapshots-processed.json";
+// if enabled, loads up processed manifest when it's available.
+// useful for iteration as well as getting rid of first time warns via cleansing.
+const preferProcessedManifest = true;
 // starts with 1. set to 0 to disable
 const onlyRunNthStep = 0;
 
 // ============
-
 
 const archivePath = path.join(archiveDirname, archiveName);
 if (!fs.existsSync(archivePath))
@@ -63,9 +66,6 @@ const insertSubstring = (str: string, idx: number, substr: string) => {
     return str.slice(0, idx) + substr + str.slice(idx);
 }
 
-const formatForLogAsList = (list: string[]) => {
-    return list.map((e, i) => (i + 1).toString() + '. ' + e).join("\n");
-}
 
 /**
  * Formats filename to be valid for both linking to from the pages and legal as a filename.
@@ -100,175 +100,167 @@ function strIndexOfAll(str: string, substring: string): number[] {
     return indexes;
 }
 
-const assertPathExists = (pathStr: string, errorMessage?: string) => {
-    if(!fs.existsSync(pathStr))
-        logFatalAndThrow((errorMessage ?? "path doesn't exists") + " " + pathStr);
-}
 
-const stringConsumer = (str: string) => {
-    const chars = str.split('');
-    return (n: number) => {
-        const substr = chars.slice(0, n);
-        for(let i = 0; i < n; i++) {
-            chars.shift();
-        }
-        return substr.join('')
-    }
-}
+
+
 
 const swapObjectKeysWithValues = (obj: object) => Object.fromEntries(Object.entries(obj).map(a => a.reverse()));
 
 // ================
 
-const timestampSchema = z.string().transform(t => {
-    const strConsumer = stringConsumer(t);
-    return new Date(strConsumer(4) + "-" + strConsumer(2) + "-" + strConsumer(2) + "T" + strConsumer(2) + ":" + strConsumer(2) + ":" + strConsumer(2) + "Z");
-})
 
-const manifestSchema = z.object({
-    /** Source website URL, eg `http://x3wiki.com:80/index.php/Talk:Missiles` */
-    file_url: z.string(),
-    /** Timestamp, eg `20160711182212` */
-    timestamp: timestampSchema,
-    /** Path to the page or dir relative to archive path, eg `index.php/Talk%3AMissions` */
-    file_id: z.string(),
-}).array();
-type Manifest = z.infer<typeof manifestSchema>;
-
-const getManifest = (): Manifest => {
-    const filepath = path.join(archivePath, manifestName);
-    assertPathExists(filepath, "manifest not found");
-
-    let json;
-    try {
-        json = JSON.parse(fs.readFileSync(filepath, 'utf-8'));
-    } catch (err) {
-        logFatalAndThrow("failed to parse manifest (JSON) " + filepath)
-    }
-
-    const parseRes = manifestSchema.safeParse(json);
-    if(parseRes.error) {
-        logFatalAndThrow({
-            msg: "failed to parse manifest to schema " + filepath,
-            data: z.prettifyError(parseRes.error)
-        });
-        throw ''//type guard
-    }
-
-    return parseRes.data;
+const getGibberishNamedFiles = () => {
+    
 }
 
-const writeManifestCopy = (manifest: Manifest): void => {
-    const filepath = path.join(archivePath, manifestCopyName);
-    ensureFilepathDirpath(filepath);
-
-    fs.writeFileSync(filepath, JSON.stringify(manifest, null, 4));
-}
 
 // ================
+
+const manifest = new ManifestCtrl(
+    archivePath,
+    path.join(archivePath, originalManifestName),
+    path.join(archivePath, processedManifestName),
+);
+
+await runStep("mapping original manifest to archive structure", () => {
+    manifest.mapToArchiveStructure();
+});
+
+// await runStep("criss crossing manifest with actual structure", () => {
+//     const manifest = getManifest();
+//     for(const e of manifest) {
+//         const pathStr = path.join(archivePath, e.file_id);
+//         if(!fs.existsSync(pathStr)) {
+//             manifest.splice(manifest.indexOf(e), 1);
+//             continue;
+//         }
+
+//         if(path.parse(e.file_id).ext === '' && fs.statSync(pathStr).isDirectory()) {
+//             e.file_id = path.join(e.file_id, "index.html");
+//         }
+//         e.file_id = path.normalize(e.file_id);
+//     }
+
+//     const actualPaths = readFilesRecursive(archivePath);
+
+//     const manifestPathsSet = new Set(manifest.map(e => e.file_id));
+//     const actualPathsSet = new Set(actualPaths);
+
+//     const missingFsPaths = manifestPathsSet.difference(actualPathsSet);
+//     const missingManifestPaths = actualPathsSet.difference(manifestPathsSet);
+
+//     if(missingFsPaths.size > 0) {
+//         logWarn(chalk.bold('paths missing from filesystem that are in manifest: \n') + formatForLogAsList([...missingFsPaths]));
+//     }
+//         if(missingManifestPaths.size > 0) {
+//         logWarn(chalk.bold('paths missing from manifest that are in filesystem: \n') + formatForLogAsList([...missingManifestPaths]));
+//     }
+// })
 
 // fix filenames of normal pages so that they are openable in browser.
 // since the filenames come fully url encoded and in browser they are queried not super url encoded this creates 404.
 // by allowing colon ':' (illegal in Windows) and comma ',' characters in filenames we resolve almost all issues with page addressing that matter
 // (at least in space of normal pages, ie excluding revisions and all that kind of stuff).
-await runStep("fix page names", async () => {
-    const manifest = getManifest();
+// await runStep("fix page names", async () => {
+//     const manifest = getManifest();
 
-    const actualPagesEntries = manifest
-        .filter(e => e.file_id.startsWith('index.php/'));
+//     const actualPagesEntries = manifest
+//         .filter(e => e.file_id.startsWith('index.php/'));
 
-    const allowedUnsafeUrlCharsMapToMarkers: Record<string, string> = {
-        ':': '_-_-_-COLON-_-_-_',
-        ',': '_-_-_-COMMA-_-_-_',
-    };
-    const markersToAllowedUnsafeUrlCharsMap = swapObjectKeysWithValues(allowedUnsafeUrlCharsMapToMarkers);
+//     const allowedUnsafeUrlCharsMapToMarkers: Record<string, string> = {
+//         ':': '_-_-_-COLON-_-_-_',
+//         ',': '_-_-_-COMMA-_-_-_',
+//     };
+//     const markersToAllowedUnsafeUrlCharsMap = swapObjectKeysWithValues(allowedUnsafeUrlCharsMapToMarkers);
 
-    const unfixablePages: { page: string, encodedFilename: string, decodedFilename: string, looslyReencodedFilename: string }[] = [];
-    const missingPaths = [];
-    let successfulRenameCounter = 0;
-    for(const e of actualPagesEntries) {
-        if(e.file_id === "")
-            continue;
+//     const unfixablePages: { page: string, encodedFilename: string, decodedFilename: string, looslyReencodedFilename: string }[] = [];
+//     const missingPaths = [];
+//     let successfulRenameCounter = 0;
+//     for(const e of actualPagesEntries) {
+//         if(e.file_id === "") {
+//             manifest.splice(manifest.indexOf(e), 1);
+//             continue;
+//         }
 
-        const sourcePath = path.join(archivePath, e.file_id);
-        const pathIdParsed = path.parse(e.file_id);
-        const nameEncoded = pathIdParsed.base;
-        const nameDecoded = decodeURIComponent(nameEncoded);
-        if(nameEncoded === nameDecoded) {
-            // name already safe, do nothing
-            continue;
-        }
+//         const sourcePath = path.join(archivePath, e.file_id);
+//         const pathIdParsed = path.parse(e.file_id);
+//         const nameEncoded = pathIdParsed.base;
+//         const nameDecoded = decodeURIComponent(nameEncoded);
+//         if(nameEncoded === nameDecoded) {
+//             // name already safe, do nothing
+//             continue;
+//         }
 
-        // produce a safe name by temporarily substituting chars that are illegal
+//         // produce a safe name by temporarily substituting chars that are illegal
 
-        let nameEncodedLoose = nameDecoded;
-        for(const char in allowedUnsafeUrlCharsMapToMarkers) {
-            // @ts-ignore what
-            nameEncodedLoose = nameEncodedLoose.replaceAll(char, allowedUnsafeUrlCharsMapToMarkers[char]);
-        }
-        nameEncodedLoose = encodeURIComponent(nameEncodedLoose);
-        for(const marker in markersToAllowedUnsafeUrlCharsMap) {
-            nameEncodedLoose = nameEncodedLoose.replaceAll(marker, markersToAllowedUnsafeUrlCharsMap[marker]);
-        }
+//         let nameEncodedLoose = nameDecoded;
+//         for(const char in allowedUnsafeUrlCharsMapToMarkers) {
+//             // @ts-ignore what
+//             nameEncodedLoose = nameEncodedLoose.replaceAll(char, allowedUnsafeUrlCharsMapToMarkers[char]);
+//         }
+//         nameEncodedLoose = encodeURIComponent(nameEncodedLoose);
+//         for(const marker in markersToAllowedUnsafeUrlCharsMap) {
+//             nameEncodedLoose = nameEncodedLoose.replaceAll(marker, markersToAllowedUnsafeUrlCharsMap[marker]);
+//         }
         
-        if(nameEncodedLoose === nameDecoded) {
-            // names matched = fixed successfully
+//         if(nameEncodedLoose === nameDecoded) {
+//             // names matched = fixed successfully
 
-            const newFileId = path.join(pathIdParsed.dir, nameEncodedLoose);
-            const newPath = path.join(archivePath, newFileId);
+//             const newFileId = path.join(pathIdParsed.dir, nameEncodedLoose);
+//             const newPath = path.join(archivePath, newFileId);
 
-            if(fs.existsSync(newPath)) {
-                // already renamed previously
-                continue;
-            } else if(!fs.existsSync(sourcePath)) {
-                // source doesn't exist
-                missingPaths.push(sourcePath);
-                continue;
-            }
+//             if(fs.existsSync(newPath)) {
+//                 // already renamed previously
+//                 continue;
+//             } else if(!fs.existsSync(sourcePath)) {
+//                 // source doesn't exist
+//                 missingPaths.push(sourcePath);
+//                 continue;
+//             }
             
-            e.file_id = newFileId;
-            fs.renameSync(
-                sourcePath,
-                newPath
-            );
-            successfulRenameCounter++;
-        } else {
-            // filenames still not match = filename will be accessible = get rid of it
-            
-            if(!fs.existsSync(sourcePath)) {
-                // source doesn't exist
-                missingPaths.push(sourcePath);
-                continue;
-            }
+//             e.file_id = newFileId;
+//             fs.renameSync(
+//                 sourcePath,
+//                 newPath
+//             );
+//             successfulRenameCounter++;
+//         } else {
+//             // filenames still not match = filename will be accessible = get rid of it
 
-            unfixablePages.push({
-                page: e.file_url,
-                encodedFilename: nameEncoded,
-                decodedFilename: nameDecoded,
-                looslyReencodedFilename: nameEncodedLoose
-            });
-            manifest.splice(manifest.indexOf(e), 1);
-            fs.rmSync(sourcePath, { recursive: true });
-        }
-    }
+//             if(!fs.existsSync(sourcePath)) {
+//                 // source doesn't exist
+//                 missingPaths.push(sourcePath);
+//                 continue;
+//             }
 
-    if(unfixablePages.length > 0) {
-        const unfixablePagesStrArray = unfixablePages.map(e => e.encodedFilename + ' -> ' + e.decodedFilename + ' -> ' + e.looslyReencodedFilename);
-        logWarn(chalk.bold(`pages with names that could not be safely renamed (${unfixablePages.length}): \n`) + formatForLogAsList(unfixablePagesStrArray));
-        // unfixablePages.forEach(n => logInfo(n[0] + "\t" + n[1]))
-        // logInfo(chalk.bold("total mismatched: " + unfixablePages.length));
-    }
+//             unfixablePages.push({
+//                 page: e.file_url,
+//                 encodedFilename: nameEncoded,
+//                 decodedFilename: nameDecoded,
+//                 looslyReencodedFilename: nameEncodedLoose
+//             });
+//             manifest.splice(manifest.indexOf(e), 1);
+//             fs.rmSync(sourcePath, { recursive: true });
+//         }
+//     }
 
-    if(missingPaths.length > 0) {
-        logWarn(chalk.bold(`paths that are missing but found in manifest (${missingPaths.length}): \n`) + formatForLogAsList(missingPaths));
-    }
+//     if(unfixablePages.length > 0) {
+//         const unfixablePagesStrArray = unfixablePages.map(e => e.encodedFilename + ' -> ' + e.decodedFilename + ' -> ' + e.looslyReencodedFilename);
+//         logWarn(chalk.bold(`pages with names that could not be safely renamed (${unfixablePages.length}): \n`) + formatForLogAsList(unfixablePagesStrArray));
+//         // unfixablePages.forEach(n => logInfo(n[0] + "\t" + n[1]))
+//         // logInfo(chalk.bold("total mismatched: " + unfixablePages.length));
+//     }
 
-    logInfo(chalk.bold("successful renames: " + successfulRenameCounter));
+//     if(missingPaths.length > 0) {
+//         logWarn(chalk.bold(`paths that are missing but found in manifest (${missingPaths.length}): \n`) + formatForLogAsList(missingPaths));
+//     }
+
+//     logInfo(chalk.bold("successful renames: " + successfulRenameCounter));
     
-    writeManifestCopy(manifest)
+//     writeManifestCopy(manifest)
     
-    // const pages = getNormalPages();
-});
+//     // const pages = getNormalPages();
+// });
 
 
 // await runStep("renaming API query pages from PHP to HTML", () => {
