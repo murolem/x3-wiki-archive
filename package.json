@@ -4,7 +4,8 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "cleanup": "bun src/cleanup.ts"
+    "cleanup": "bun src/cleanup.ts",
+    "build:page-script": "bun build src/pageScript.ts > src/assets/script.js"
   },
   "devDependencies": {
     "@types/bun": "^1.3.8",

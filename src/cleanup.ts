@@ -14,34 +14,8 @@ import { ManifestCtrl, type ManifestEntry } from './Manifest.ts';
 import { isPathUnderDirectory } from './utils/isPageUnderDirectory.ts';
 import { assertPathExists } from './utils/assertPathExists.ts';
 import { formatForLogAsList } from './utils/formatForLogAsList.ts';
+import { logLevel, archiveDirname, archiveName, onlyRunNthStep, originalManifestName, processedManifestName, loadProcessedManifestFromDisk, browseManifestName, browseManifestDelimiter } from './preset.ts';
 const { logDebug, logInfo, logWarn, logFatalAndThrow } = new Logger();
-
-// ===========================
-// ======== VARIABLES ========
-// ===========================
-
-// name of your archive.
-const archiveName = "x3wiki.com_20181104113547_full";
-
-// name of directory where your archive is.
-const archiveDirname = "archives";
-
-// name for the original manifest
-const originalManifestName = "snapshots.json";
-
-// name for the processed manifest produced by the script
-const processedManifestName = "snapshots-processed.json";
-
-// if enabled, loads up processed manifest when it's available.
-// useful for debugging since a lot of warning will be gone after the initial cleanup.
-const loadProcessedManifestFromDisk = true;
-
-// run only the nth step.
-// starts with 1. set to 0 to disable
-const onlyRunNthStep = 0;
-
-// controls how detailed are the logs
-const logLevel: LogLevel = 'INFO';
 
 
 // =============================
@@ -243,7 +217,7 @@ await runStep("fixing page names", () => {
         logProcessingProgress("renaming pages", i, renames.length, 100);
         logDebug(`renaming \n\tfrom ${manifestCtrl.convertPathToRelative(rename.fullUrlPathBefore)} \n\t  to ${manifestCtrl.convertPathToRelative(rename.fullUrlPathAfter)}`);
 
-        if(rename.manifestEntry.urlPath === manifestCtrl.convertPathToRelative(rename.fullUrlPathAfter)) {
+        if (rename.manifestEntry.urlPath === manifestCtrl.convertPathToRelative(rename.fullUrlPathAfter)) {
             // already renamed via affected paths renaming, no need to do anything else.
             logDebug("skipping paths, already renamed (likely via affected paths renaming)");
             continue;
@@ -275,7 +249,7 @@ await runStep("fixing page names", () => {
             })
         }
 
-        if(affectedRenamedPaths.length > 0) {
+        if (affectedRenamedPaths.length > 0) {
             const listStr = affectedRenamedPaths.map(e => {
                 return `\tfrom ${e.pathBefore} \n\t  to ${e.pathAfter}`;
             });
@@ -326,7 +300,7 @@ await runStep("adding and linking basic CSS styles", async () => {
         logFatalAndThrow("styles file not found at " + sourceFilepath);
 
     const targetFilepath = path.join(archivePath, "styles.css");
-    fs.writeFileSync(targetFilepath, fs.readFileSync(sourceFilepath, 'utf-8'), 'utf-8');
+    fs.copyFileSync(sourceFilepath, targetFilepath);
 
     // link from all html files
 
@@ -359,6 +333,35 @@ await runStep("adding and linking basic CSS styles", async () => {
 
     if (filesWithNoHead.length > 0)
         logWarn(`found files with no head (${filesWithNoHead.length}): \n${formatForLogAsList(filesWithNoHead)}`);
+});
+
+await runStep("adding the script file", async () => {
+    const sourceFilepath = path.resolve("src/assets/script.js");
+    if (!fs.existsSync(sourceFilepath))
+        logFatalAndThrow("script file not found at " + sourceFilepath);
+
+    const targetFilepath = path.join(archivePath, "script.js");
+    fs.copyFileSync(sourceFilepath, targetFilepath);
+
+    // link from all html files
+
+    const filepaths = readFilesRecursive(archivePath)
+        .filter(fp => fp.endsWith('.html'));
+
+    for (const [i, relFp] of filepaths.entries()) {
+        logProcessingProgress("adding script file", i, filepaths.length, 1000);
+
+        const fp = path.join(archivePath, relFp);
+        let contents = await fsPromises.readFile(fp, 'utf-8');
+
+        const headIdx = contents.indexOf("<head>");
+        if (headIdx === -1) {
+            continue;
+        }
+
+        contents = insertSubstring(contents, headIdx + "<head>".length, '\n<script src="/script.js" type="module"></script>')
+        await fsPromises.writeFile(fp, contents, 'utf-8');
+    }
 });
 
 await runStep("removing dead links to the old wiki", async () => {
@@ -464,6 +467,38 @@ await runStep("removing dead links to the old wiki", async () => {
 //     logInfo(chalk.bold("pages restored: " + wikitextPagesRestored));
 //     logInfo(`pages removed: ${pagesWithSectionEditsRemoved + pagesWithFullEditsRemoved} (${pagesWithFullEditsRemoved} edit pages for whole pages, ${pagesWithSectionEditsRemoved} edit pages for sections)`)
 // });
+
+await runStep("generating browse manifest", () => {
+    // we only want to include the pages under index.php and only those with one level deep with /index.html in them, since those are mainline pages.
+    const mainlinePagesRegex = /index\.php\/[^\/]+\/index\.html/;
+
+    const matchingEntries = manifest
+        .filter(e => {
+            return mainlinePagesRegex.test(e.diskPath);
+        });
+
+    /** Formats name pretty for display/search. */
+    const formatPageNameForDisplay = (name: string) => name.replaceAll('_', ' ');
+
+    // contains 2 things per item:
+    // 1. display page name used in searching./
+    // 2. link to the page
+    const browseManifest: [string, string][] = matchingEntries
+        .map(e => ([
+            formatPageNameForDisplay(e.urlPath.split('/').at(-1)!),
+            '/' + e.urlPath
+        ]));
+
+    const saveFilepath = path.join(archivePath, browseManifestName)
+    fs.writeFileSync(
+        saveFilepath,
+        browseManifest
+            .map(e => e.join(browseManifestDelimiter))
+            .join("\n"),
+    )
+
+    logInfo(chalk.bold("browse entries generated: " + browseManifest.length));
+});
 
 await runStep("saving manifest", () => {
     manifestCtrl.saveManifest();

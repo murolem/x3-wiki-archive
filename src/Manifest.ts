@@ -11,6 +11,31 @@ import { ensureFilepathDirpath } from './utils/ensureDirpath';
 import { err, ok, Result } from 'neverthrow';
 const { logInfo, logWarn, logFatalAndThrow } = new Logger();
 
+// blacklist for page names. matching pages will be discarded in the manifest.
+// should cover all or almost all ad pages.
+// automatically tries variants with and without underscores.
+const pageSubstringBlacklist = [
+    "email tech support",
+    "tech support USA",
+    "Avast Antivirus",
+    "Avast_Antivirus",
+    "Brother Printer",
+    "Hp_Technical",
+    "Hp Printer",
+    "Hp printer SUpport",
+    "microsoft",
+    "customer support",
+    "Avast customer",
+    "Email Toll Free Number",
+    "Norton Antivirus",
+    "Norton_Antivirus",
+    "Skype Tech",
+    "Skype Support",
+    "Technical Support",
+    "Phone Number USA",
+    "support Phone Number"
+]
+
 export const timestampSchema = z.codec(
     z.string(),
     z.date(),
@@ -192,7 +217,8 @@ export class ManifestCtrl {
 
         // now, actually compare paths on dist vs in manifest
 
-        const diskPaths = readFilesRecursive(this.archivePath);
+        const diskPaths = readFilesRecursive(this.archivePath)
+            .filter(pathStr => !this.doesPagenameContainBlacklistedStuff(pathStr))
 
         const manifestPathsSet = new Set(this._manifest.map(e => e.diskPath));
         const diskPathsSet = new Set(diskPaths);
@@ -249,6 +275,20 @@ export class ManifestCtrl {
         const idx = this._manifest.findIndex(e => e === entry);
         if (idx !== -1)
             this._manifest.splice(idx, 1);
+    }
+
+    doesPagenameContainBlacklistedStuff(name: string): boolean {
+        const nameLc = name.toLocaleLowerCase();
+        for (const substr of pageSubstringBlacklist) {
+            const blacklistedLc = substr.toLocaleLowerCase();
+            if (nameLc.includes(blacklistedLc)
+                || nameLc.includes(blacklistedLc.replaceAll(' ', '_'))
+                || nameLc.includes(blacklistedLc.replaceAll('_', ' '))
+            ) {
+                return true;
+            }
+        }
+        return false;
     }
 
     // ==================================
@@ -313,14 +353,16 @@ export class ManifestCtrl {
 
     /** Produces manifest using the original manifest. */
     private generateManifest(): void {
-        this._manifest = this.originalManifest.map(e => {
-            return this.populateManifestEntryWithMethods({
-                originalUrl: e.file_url,
-                timestamp: e.timestamp,
-                diskPath: e.file_id,
-                urlPath: e.file_id,
-            })
-        });
+        this._manifest = this.originalManifest
+            .filter(e => !this.doesPagenameContainBlacklistedStuff(e.file_id))
+            .map(e => {
+                return this.populateManifestEntryWithMethods({
+                    originalUrl: e.file_url,
+                    timestamp: e.timestamp,
+                    diskPath: e.file_id,
+                    urlPath: e.file_id,
+                })
+            });
     }
 
     /**
