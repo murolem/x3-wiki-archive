@@ -15,6 +15,8 @@ import { isPathUnderDirectory } from './utils/isPageUnderDirectory.ts';
 import { assertPathExists } from './utils/assertPathExists.ts';
 import { formatForLogAsList } from './utils/formatForLogAsList.ts';
 import { logLevel, archiveDirname, archiveName, onlyRunNthStep, originalManifestName, processedManifestName, loadProcessedManifestFromDisk, browseManifestName, browseManifestDelimiter } from './preset.ts';
+import { replaceSubstring } from './utils/string/replaceSubstring.ts';
+import { insertSubstring } from './utils/string/insertSubstring.ts';
 const { logDebug, logInfo, logWarn, logFatalAndThrow } = new Logger();
 
 
@@ -31,11 +33,12 @@ if (!fs.existsSync(archivePath))
 let stepRunCounter = 1;
 const runStep = async (name: string, fn: () => void | Promise<void>) => {
     if (onlyRunNthStep <= 0 || stepRunCounter === onlyRunNthStep) {
-        logInfo(chalk.bold.bgBlue(`[STEP] ${name}`));
+        logInfo(chalk.bold.bgBlue(` [STEP ${stepRunCounter}] ${name} `));
         await fn();
-        logInfo(chalk.bold.bgGreen(`[STEP] ${name} DONE`));
+        logInfo(chalk.bold.bgGreen(` [STEP ${stepRunCounter}] ${name} DONE `));
     }
 
+    manifestCtrl.saveManifest();
     stepRunCounter++;
 }
 
@@ -60,11 +63,6 @@ const logProcessingProgress = (description: string, i: number, total: number, on
     if (i === (total - 1) && i % onNth !== 0)
         log();
 }
-
-const insertSubstring = (str: string, idx: number, substr: string) => {
-    return str.slice(0, idx) + substr + str.slice(idx);
-}
-
 
 /**
  * Formats filename to be valid for both linking to from the pages and legal as a filename.
@@ -132,6 +130,38 @@ const manifest = manifestCtrl.manifest;
 await runStep("mapping original manifest to archive structure", () => {
     manifestCtrl.mapToArchiveStructure();
 });
+
+await runStep("removing ad-related and other trash pages", () => {
+    // blacklist for page names. matching pages will be discarded in the manifest.
+    // should cover all or almost all ad pages.
+    // automatically tries variants with and without underscores.
+    const pageSubstringBlacklist = [
+        "email tech support",
+        "tech support USA",
+        "Avast Antivirus",
+        "Avast_Antivirus",
+        "Brother Printer",
+        "Hp_Technical",
+        "Hp Printer",
+        "Hp printer SUpport",
+        "microsoft",
+        "customer support",
+        "Avast customer",
+        "Email Toll Free Number",
+        "Norton Antivirus",
+        "Norton_Antivirus",
+        "Skype Tech",
+        "Skype Support",
+        "Technical Support",
+        "Phone Number USA",
+        "support Phone Number",
+    ];
+
+    const badEntries = manifest.filter(e => manifestCtrl.matchesCustomBlacklist(e.diskPath, pageSubstringBlacklist));
+    badEntries.forEach(e => e.remove());
+    logInfo(chalk.bold(`bad pages removed: ${badEntries.length}`));
+});
+
 
 await runStep("fixing page names", () => {
     const pages = manifest
@@ -266,7 +296,6 @@ await runStep("fixing page names", () => {
     }
 
     logInfo(chalk.bold(`pages checked: ${pages.length}; ${successfulRenamesCounter} renamed, ${failedRenamesCounter} failed to rename`));
-    manifestCtrl.saveManifest();
 });
 
 // await runStep("renaming API query pages from PHP to HTML", () => {
@@ -292,17 +321,27 @@ await runStep("fixing page names", () => {
 //     }
 // });
 
-await runStep("adding and linking basic CSS styles", async () => {
-    // add style file
+await runStep("generating and linking basic CSS styles", async () => {
+    // generate style file
 
-    const sourceFilepath = path.resolve("src/assets/styles.css");
-    if (!fs.existsSync(sourceFilepath))
-        logFatalAndThrow("styles file not found at " + sourceFilepath);
-
+    const sourceFilepath = path.resolve("src/pageStyles.css");
     const targetFilepath = path.join(archivePath, "styles.css");
-    fs.copyFileSync(sourceFilepath, targetFilepath);
+    assertPathExists(sourceFilepath, "styles file not found at " + sourceFilepath);
 
-    // link from all html files
+    const minifiedRes = await Bun.build({
+        entrypoints: [sourceFilepath],
+        minify: true
+    });
+    if (!minifiedRes.success)
+        logFatalAndThrow({
+            msg: "failed to minify css",
+            data: minifiedRes
+        });
+
+    const minified = await minifiedRes.outputs[0]!.text();
+    fs.writeFileSync(targetFilepath, minified);
+
+    // link from all html pages
 
     const filepaths = readFilesRecursive(archivePath)
         .filter(fp => fp.endsWith('.html'));
@@ -322,26 +361,29 @@ await runStep("adding and linking basic CSS styles", async () => {
 
         contents = insertSubstring(contents, headIdx + "<head>".length, '\n<link rel="stylesheet" href="/styles.css" />')
         await fsPromises.writeFile(fp, contents, 'utf-8');
-
-        // const dom = new JSDOM(contents, {
-        //     url: "http://x3wiki.com"
-        // });
-        // const doc = dom.window.document;
-
-        // doc.head.prepend('<link rel="stylesheet" href="/styles.css" />');
     }
 
     if (filesWithNoHead.length > 0)
-        logWarn(`found files with no head (${filesWithNoHead.length}): \n${formatForLogAsList(filesWithNoHead)}`);
+        logWarn(`found pages with no head (${filesWithNoHead.length}): \n${formatForLogAsList(filesWithNoHead)}`);
 });
 
-await runStep("adding the script file", async () => {
-    const sourceFilepath = path.resolve("src/assets/script.js");
-    if (!fs.existsSync(sourceFilepath))
-        logFatalAndThrow("script file not found at " + sourceFilepath);
-
+await runStep("generating and linking the script file", async () => {
+    const sourceFilepath = path.resolve("src/pageScript.ts");
     const targetFilepath = path.join(archivePath, "script.js");
-    fs.copyFileSync(sourceFilepath, targetFilepath);
+    assertPathExists(sourceFilepath, "script file not found at " + sourceFilepath);
+
+    const minifiedRes = await Bun.build({
+        entrypoints: [sourceFilepath],
+        minify: true
+    });
+    if (!minifiedRes.success)
+        logFatalAndThrow({
+            msg: "failed to minify css",
+            data: minifiedRes
+        });
+
+    const minified = await minifiedRes.outputs[0]!.text();
+    fs.writeFileSync(targetFilepath, minified);
 
     // link from all html files
 
@@ -382,6 +424,57 @@ await runStep("removing dead links to the old wiki", async () => {
         await fsPromises.writeFile(fp, contents, 'utf-8');
     }
 });
+
+await runStep("touch ups for the page script to be comfy", async () => {
+    const filepaths = readFilesRecursive(archivePath)
+        .filter(fp => fp.endsWith('.html'));
+
+    type Task = { 
+        name: string,
+        modifiedContentCounter: number,
+        fn: (contents: string, opts: { fpIdx: number, relFp: string, fp: string }) => string
+     }
+    const tasks: Task[] = [];
+    const task = (name: string, fn: Task['fn']) => tasks.push({ name, modifiedContentCounter: 0, fn });
+
+    const randomPageButtonRegex = /(id\s*=\s*"n-randompage"\s*>\s*<a\s*)(href\s*=\s*"\/index\.php\/Special:Random")(\s*title\s*=\s*"Load a random page \[x\]"\s*accesskey\s*=\s*"x"\s*>\s*Random page\s*<\/a><\/li>)/m;
+    task('patch random page button', (contents, opts) => {
+        const randomPageButtonMatch = randomPageButtonRegex.exec(contents);
+        if (randomPageButtonMatch) {
+            const replacement = 'href = "javascript:void(0)"';
+            return replaceSubstring(
+                contents, 
+                randomPageButtonMatch.index, 
+                randomPageButtonMatch.index + randomPageButtonMatch[0].length, 
+                randomPageButtonMatch[1] + replacement + randomPageButtonMatch[3]
+            );
+        }
+
+        return contents;
+    });
+
+    for (const [fpIdx, relFp] of filepaths.entries()) {
+        const fp = path.join(archivePath, relFp);
+        let contents = await fsPromises.readFile(fp, 'utf-8');
+
+        for (const task of tasks) {
+            const modifiedContent = task.fn(contents, { fpIdx, relFp, fp });
+            if(modifiedContent === contents)
+                continue;
+
+            contents = modifiedContent;
+            task.modifiedContentCounter++;
+        }
+
+        await fsPromises.writeFile(fp, contents, 'utf-8');
+    }
+
+    const tasksStrArray = tasks
+        .sort((a, b) => a.name.localeCompare(b.name))
+        .map(t => t.name + ' ~ ' + t.modifiedContentCounter + ' times');
+
+    logInfo(chalk.bold("task summary: \n") + formatForLogAsList(tasksStrArray));
+})
 
 // await runStep('extracting wikitext', async () => {
 //     const filepaths = fs.readdirSync(archivePath)
@@ -472,9 +565,21 @@ await runStep("generating browse manifest", () => {
     // we only want to include the pages under index.php and only those with one level deep with /index.html in them, since those are mainline pages.
     const mainlinePagesRegex = /index\.php\/[^\/]+\/index\.html/;
 
+    // some stuff you dont wanna see in search
+    const substringBlacklist = [
+        "Recent Changes",
+        "Special:",
+        "User:",
+        "User talk:",
+        "Template:",
+        "Talk:",
+        "MediaWiki:"
+    ];
+
     const matchingEntries = manifest
         .filter(e => {
-            return mainlinePagesRegex.test(e.diskPath);
+            return mainlinePagesRegex.test(e.diskPath)
+                && !manifestCtrl.matchesCustomBlacklist(e.diskPath, substringBlacklist);
         });
 
     /** Formats name pretty for display/search. */
@@ -498,8 +603,4 @@ await runStep("generating browse manifest", () => {
     )
 
     logInfo(chalk.bold("browse entries generated: " + browseManifest.length));
-});
-
-await runStep("saving manifest", () => {
-    manifestCtrl.saveManifest();
 });

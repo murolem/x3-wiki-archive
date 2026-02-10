@@ -14,6 +14,7 @@ const { logInfo, logWarn, logFatalAndThrow } = new Logger();
 // blacklist for page names. matching pages will be discarded in the manifest.
 // should cover all or almost all ad pages.
 // automatically tries variants with and without underscores.
+// todo: перенести в отдельный степ т.к. url encoded портит малину
 const pageSubstringBlacklist = [
     "email tech support",
     "tech support USA",
@@ -33,7 +34,16 @@ const pageSubstringBlacklist = [
     "Skype Support",
     "Technical Support",
     "Phone Number USA",
-    "support Phone Number"
+    "support Phone Number",
+
+    // other stuff
+    "Recent Changes",
+    "Special:",
+    "User:",
+    "User talk:",
+    "Template:",
+    "Talk:",
+    "MediaWiki:"
 ]
 
 export const timestampSchema = z.codec(
@@ -217,8 +227,7 @@ export class ManifestCtrl {
 
         // now, actually compare paths on dist vs in manifest
 
-        const diskPaths = readFilesRecursive(this.archivePath)
-            .filter(pathStr => !this.doesPagenameContainBlacklistedStuff(pathStr))
+        const diskPaths = readFilesRecursive(this.archivePath);
 
         const manifestPathsSet = new Set(this._manifest.map(e => e.diskPath));
         const diskPathsSet = new Set(diskPaths);
@@ -277,16 +286,25 @@ export class ManifestCtrl {
             this._manifest.splice(idx, 1);
     }
 
-    doesPagenameContainBlacklistedStuff(name: string): boolean {
+    matchesCustomBlacklist(name: string, blacklist: string[]): boolean {
+        const blVariantsLc = blacklist
+            .flatMap(blSubstr => {
+                const blSubstrLc = blSubstr.toLocaleLowerCase();
+                const baseVariants = [
+                    blSubstrLc,
+                    blSubstrLc.replaceAll(' ', '_'),
+                    blSubstrLc.replaceAll('_', ' ')
+                ];
+                const moreVariants: string[] = [];
+                baseVariants.forEach(variant => moreVariants.push(encodeURIComponent(variant)))
+                baseVariants.forEach(variant => moreVariants.push(decodeURIComponent(variant)));
+                return [...baseVariants, ...moreVariants];
+            })
+
         const nameLc = name.toLocaleLowerCase();
-        for (const substr of pageSubstringBlacklist) {
-            const blacklistedLc = substr.toLocaleLowerCase();
-            if (nameLc.includes(blacklistedLc)
-                || nameLc.includes(blacklistedLc.replaceAll(' ', '_'))
-                || nameLc.includes(blacklistedLc.replaceAll('_', ' '))
-            ) {
+        for (const blSubstrLc of blVariantsLc) {
+            if (nameLc.includes(blSubstrLc))
                 return true;
-            }
         }
         return false;
     }
@@ -354,7 +372,6 @@ export class ManifestCtrl {
     /** Produces manifest using the original manifest. */
     private generateManifest(): void {
         this._manifest = this.originalManifest
-            .filter(e => !this.doesPagenameContainBlacklistedStuff(e.file_id))
             .map(e => {
                 return this.populateManifestEntryWithMethods({
                     originalUrl: e.file_url,
