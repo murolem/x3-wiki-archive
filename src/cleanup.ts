@@ -1,7 +1,7 @@
 import path from 'path';
 import fs from 'fs';
 import fsPromises from 'fs/promises';
-import { Logger } from './utils/logger.ts';
+import { Logger, type LogLevel } from './utils/logger.ts';
 import chalk from 'chalk';
 import { roundToDigit } from './utils/roundToDigit.ts';
 import { readFilesRecursive } from './utils/readFilesRecursive.ts';
@@ -14,7 +14,7 @@ import { ManifestCtrl, type ManifestEntry } from './Manifest.ts';
 import { isPathUnderDirectory } from './utils/isPageUnderDirectory.ts';
 import { assertPathExists } from './utils/assertPathExists.ts';
 import { formatForLogAsList } from './utils/formatForLogAsList.ts';
-const { logInfo, logWarn, logFatalAndThrow } = new Logger();
+const { logDebug, logInfo, logWarn, logFatalAndThrow } = new Logger();
 
 // ===========================
 // ======== VARIABLES ========
@@ -40,10 +40,15 @@ const loadProcessedManifestFromDisk = true;
 // starts with 1. set to 0 to disable
 const onlyRunNthStep = 0;
 
+// controls how detailed are the logs
+const logLevel: LogLevel = 'INFO';
+
 
 // =============================
 // ======== DANGER ZONE ========
 // =============================
+
+Logger.setLogLevel(logLevel);
 
 const archivePath = path.join(archiveDirname, archiveName);
 if (!fs.existsSync(archivePath))
@@ -163,123 +168,126 @@ await runStep("fixing page names", () => {
         ':': '_-_-_-COLON-_-_-_',
         ',': '_-_-_-COMMA-_-_-_',
         '+': '_-_-_-PLUS-_-_-_',
+        // special case since we are processing entire paths not just segments, so it's okay to have slashes.
+        "/": '_-_-_-FSLASH-_-_-_'
     };
     const charUnescapes = swapObjectKeysAndValues(charEscapes) as Record<string, string>;
 
+    const renames: Array<{
+        manifestEntry: ManifestEntry,
+        fullUrlPathBefore: string,
+        fullUrlPathAfter: string
+    }> = [];
     // const pendingRenames: Array<{ manifestEntry: ManifestEntry, newFilename: string }> = [];
     let successfulRenamesCounter = 0;
     let failedRenamesCounter = 0;
-    const failedRenamesDueTooUnsafe: Array<{ urlPath: string, newName: string }> = [];
+    const renamesNotQueuedDueTooUnsafe: Array<{ relUrlPathBefore: string, relUrlPathAfter: string }> = [];
     for (const [i, e] of pages.entries()) {
-        logProcessingProgress("renaming pages", i, pages.length, 500);
+        logProcessingProgress("asserting pages for renaming", i, pages.length, 1000);
+        logDebug(`asserting page for renaming ${chalk.bold(e.diskPath)}`);
 
         const relDiskPath = e.diskPath;
         const fullDiskPath = manifestCtrl.convertPathToFull(relDiskPath);
         assertPathExists(fullDiskPath, "disk path not found but present in manifest");
 
-        // rel disk path but paths that end with index.html will instead with their directory.
-        const relUrlPathRes = manifestCtrl.convertDiskPathToUrlPath(relDiskPath, true)
-        if (relUrlPathRes.isErr()) {
-
-            logFatalAndThrow({
-                msg: "error while converting disk path to url path",
-                data: {
-                    error: relUrlPathRes.error,
-                    relDiskPath
-                }
-            });
-            throw ''//type guard   
-        }
-        const relUrlPath = relUrlPathRes.value;
+        // rel disk path but paths that end with index.html will instead end with their directory.
+        const relUrlPath = manifestCtrl.convertDiskPathToUrlPath(relDiskPath, true)
         const fullUrlPath = manifestCtrl.convertPathToFull(relUrlPath);
 
-        let korlusHit = false;
-        if (relDiskPath.includes('Korlus')) {
-            korlusHit = true;
-            debugger;
-        }
+        const relUrlPathDecoded = decodeURIComponent(relUrlPath);
 
-        const relUrlPathParsed = path.parse(relUrlPath);
-        // file or directory name
-        const name = relUrlPathParsed.base;
-        // fully decoded name that might be fs-unsafe
-        const nameDecoded = decodeURIComponent(name);
-
-        if (name === nameDecoded)
-            continue; // name already safe, do nothing
+        if (relUrlPath === relUrlPathDecoded)
+            continue; // already safe, do nothing
 
         // fully decoded name but but with select few unsafe chars present
         // kind of fs-safe (sorry windows users) and works in URLs. 
-        let nameDecodedLoosely = nameDecoded;
+        let relUrlPathDecodedLoosely = relUrlPathDecoded;
         for (const char in charEscapes) {
             const escape = charEscapes[char]!;
-            nameDecodedLoosely = nameDecodedLoosely.replaceAll(char, escape);
+            relUrlPathDecodedLoosely = relUrlPathDecodedLoosely.replaceAll(char, escape);
         }
 
-        nameDecodedLoosely = encodeURIComponent(nameDecodedLoosely);
+        relUrlPathDecodedLoosely = encodeURIComponent(relUrlPathDecodedLoosely);
         for (const escape in charUnescapes) {
             const char = charUnescapes[escape]!;
-            nameDecodedLoosely = nameDecodedLoosely.replaceAll(escape, char);
+            relUrlPathDecodedLoosely = relUrlPathDecodedLoosely.replaceAll(escape, char);
         }
 
-        if (nameDecodedLoosely === nameDecoded) {
+        if (relUrlPathDecodedLoosely === relUrlPathDecoded) {
             // both decodes match = fix successful = fs and url are the same = it should load fine.
-            // finally, do the renaming.
+            // enqueue the renaming.
 
-            const newRelUrlPath = path.join(relUrlPathParsed.dir, nameDecodedLoosely);
-            fs.renameSync(fullUrlPath, manifestCtrl.convertPathToFull(newRelUrlPath));
-            successfulRenamesCounter++;
+            logDebug(`rename queued; new name: ${chalk.bold(manifestCtrl.convertUrlPathToDiskPath(relUrlPathDecodedLoosely, true))}`);
 
-            const newFullUrlPath = manifestCtrl.convertPathToFull(newRelUrlPath);
-
-            const newRelDiskPathRes = manifestCtrl.convertUrlPathToDiskPath(newRelUrlPath, true);
-            if (newRelDiskPathRes.isErr()) {
-                logFatalAndThrow({
-                    msg: "error while converting url path to disk path",
-                    data: {
-                        error: newRelDiskPathRes.error,
-                        relUrlPath: newRelUrlPath
-                    }
-                });
-                throw ''//type guard   
-            }
-            const newRelDiskPath = newRelDiskPathRes.value;
-            e.setDiskPath(newRelDiskPath);
-
-
-            if (!fs.statSync(newFullUrlPath).isDirectory())
-                continue;
-
-            // check other manifest entries - there might be some under the newly renamed directory that still have the old path.
-            // no need to rename them since they are already under a new directory - it's just the manifest that isn't up to sync.
-            for (const e2 of manifest) {
-                if(korlusHit && e2.diskPath.includes('Korlus'))
-                    debugger;
-
-                if (!isPathUnderDirectory(fullUrlPath, manifestCtrl.convertPathToFull(e2.diskPath)))
-                    continue;
-
-                const otherRelDiskPathWithinOldDir = path.relative(fullUrlPath, manifestCtrl.convertPathToFull(e2.diskPath));
-                const otherNewFullDiskPath = path.join(newFullUrlPath, otherRelDiskPathWithinOldDir);
-                e2.setDiskPath(otherNewFullDiskPath, true);
-            }
+            renames.push({
+                manifestEntry: e,
+                fullUrlPathBefore: fullUrlPath,
+                fullUrlPathAfter: manifestCtrl.convertPathToFull(relUrlPathDecodedLoosely)
+            });
         } else {
             // decodes do not match = theres still some unsafe chars left that we can't decode
             // = URLs will not be able to match the files on fs.
             // remove offending entries.
 
-            failedRenamesDueTooUnsafe.push({ urlPath: relUrlPath, newName: nameDecodedLoosely });
+            logDebug("unable to rename, deleting from disk and manifest");
+
+            renamesNotQueuedDueTooUnsafe.push({ relUrlPathBefore: relUrlPath, relUrlPathAfter: relUrlPathDecodedLoosely });
             fs.rmSync(fullUrlPath, { recursive: true });
             e.remove();
             failedRenamesCounter++;
         }
     }
 
-    if (failedRenamesDueTooUnsafe.length > 0) {
-        const listStr = formatForLogAsList(failedRenamesDueTooUnsafe
-            .map(e => `url path: ${e.urlPath} \nnew name: ${e.newName}`)
+    // finally, do the rename
+    for (const [i, rename] of renames.entries()) {
+        logProcessingProgress("renaming pages", i, renames.length, 100);
+        logDebug(`renaming \n\tfrom ${manifestCtrl.convertPathToRelative(rename.fullUrlPathBefore)} \n\t  to ${manifestCtrl.convertPathToRelative(rename.fullUrlPathAfter)}`);
+
+        if(rename.manifestEntry.urlPath === manifestCtrl.convertPathToRelative(rename.fullUrlPathAfter)) {
+            // already renamed via affected paths renaming, no need to do anything else.
+            logDebug("skipping paths, already renamed (likely via affected paths renaming)");
+            continue;
+        }
+
+
+        // should work for both dirs and files
+        ensureFilepathDirpath(rename.fullUrlPathAfter);
+        fs.renameSync(rename.fullUrlPathBefore, rename.fullUrlPathAfter);
+        successfulRenamesCounter++;
+
+        // go through every manifest entity and make sure the paths are updated to reflect the renaming
+        // (only relevant for paths that contain other files or subfiles)
+        const affectedRenamedPaths: Array<{ pathBefore: string, pathAfter: string }> = [];
+        for (const otherEntry of manifest) {
+            const otherFullDiskPath = manifestCtrl.convertPathToFull(otherEntry.diskPath);
+            if (!isPathUnderDirectory(rename.fullUrlPathBefore, otherFullDiskPath))
+                continue;
+
+            const otherRelDiskPathFromDir = path.relative(rename.fullUrlPathBefore, otherFullDiskPath);
+            const otherFullDiskPathAfter = path.join(rename.fullUrlPathAfter, otherRelDiskPathFromDir);
+            const otherRelDiskPathAfter = manifestCtrl.convertPathToRelative(otherFullDiskPathAfter);
+
+            const otherRelDiskPathBefore = otherEntry.diskPath;
+            otherEntry.setDiskPath(otherRelDiskPathAfter);
+            affectedRenamedPaths.push({
+                pathBefore: otherRelDiskPathBefore,
+                pathAfter: otherRelDiskPathAfter
+            })
+        }
+
+        if(affectedRenamedPaths.length > 0) {
+            const listStr = affectedRenamedPaths.map(e => {
+                return `\tfrom ${e.pathBefore} \n\t  to ${e.pathAfter}`;
+            });
+            logDebug(`found path(-s) that were affected by renaming; updated manifest diskpaths for: \n` + formatForLogAsList(listStr));
+        }
+    }
+
+    if (renamesNotQueuedDueTooUnsafe.length > 0) {
+        const listStr = formatForLogAsList(renamesNotQueuedDueTooUnsafe
+            .map(e => `rel url path before: ${e.relUrlPathBefore} \nrel url path after: ${e.relUrlPathAfter}`)
         );
-        logWarn(chalk.bold(`failed to rename pages (new name too unsafe) (${failedRenamesDueTooUnsafe.length}): \n`) + listStr);
+        logWarn(chalk.bold(`failed to rename pages (new name too unsafe) (${renamesNotQueuedDueTooUnsafe.length}): \n`) + listStr);
         logWarn(chalk.bold("> removing above pages from disk and manifest"))
     }
 
@@ -334,7 +342,7 @@ await runStep("adding and linking basic CSS styles", async () => {
 
         const headIdx = contents.indexOf("<head>");
         if (headIdx === -1) {
-            filesWithNoHead.push(fp)
+            filesWithNoHead.push(relFp)
             continue;
         }
 

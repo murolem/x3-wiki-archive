@@ -96,7 +96,6 @@ export class ManifestCtrl {
 
     /** 
      * Converts disk path to url path using the archive structure (i.e. path needs to exist on disk).
-     * Expects a path relative to CWD, otherwise enable {@link includesArchivePath} to add it automatically.
      * 
      * @example
      * index.php/Megalodon/index.html
@@ -106,28 +105,23 @@ export class ManifestCtrl {
      * @param prependArchivePath If enabled, prepends path to the archive to the given path so that it becomes valid for `fs` operations.
      * @returns A path relative to the archive path.
      */
-    convertDiskPathToUrlPath(diskPath: string, prependArchivePath?: boolean): Result<string, { reason: string }> {
+    convertDiskPathToUrlPath(diskPath: string, prependArchivePath?: boolean): string {
         if (prependArchivePath)
             diskPath = path.join(this.archivePath, diskPath);
 
-        if (!fs.existsSync(diskPath))
-            return err({ reason: "path doesn't exist" });
-
         const parsed = path.parse(diskPath);
-        if (fs.statSync(diskPath).isFile()
-            && parsed.base === 'index.html'
+        if (parsed.base === 'index.html'
             // for case when we are in archive root and processing index.html file specifically. 
             // otherwise we would end up pointing at archive root.
             && path.relative(parsed.dir, this.archivePath) !== '.') {
-            return ok(this.convertPathToRelative(parsed.dir));
+            return this.convertPathToRelative(parsed.dir);
         }
 
-        return ok(this.convertPathToRelative(diskPath));
+        return this.convertPathToRelative(diskPath)
     }
 
     /** 
      * Converts url path to disk path using the archive structure (i.e. path needs to exist on disk).
-     * Expects a path relative to CWD, otherwise enable {@link prependArchivePath} to add it automatically.
      * 
      * @example
      * index.php/Megalodon
@@ -137,20 +131,17 @@ export class ManifestCtrl {
      * @param prependArchivePath If enabled, prepends path to the archive to the given path so that it becomes valid for `fs` operations.
      * @returns A path relative to the archive path.
      */
-    convertUrlPathToDiskPath(urlPath: string, prependArchivePath?: boolean): Result<string, { reason: string }> {
+    convertUrlPathToDiskPath(urlPath: string, prependArchivePath?: boolean): string {
         if (prependArchivePath)
             urlPath = path.join(this.archivePath, urlPath);
 
-        if (!fs.existsSync(urlPath))
-            return err({ reason: "path doesn't exist" });
-
-        if (path.parse(urlPath).ext === '' && fs.statSync(urlPath).isDirectory()) {
+        if (path.parse(urlPath).ext === '') {
             const newPath = path.join(urlPath, 'index.html');
             if (fs.existsSync(urlPath))
-                return ok(this.convertPathToRelative(newPath));
+                return this.convertPathToRelative(newPath);
         }
 
-        return ok(this.convertPathToRelative(urlPath));
+        return this.convertPathToRelative(urlPath);
     }
 
     /**
@@ -193,13 +184,7 @@ export class ManifestCtrl {
         // const renamedIndexHtmlPaths: Array<{ pathBefore: string, pathAfter: string }> = [];
         const failedPathConverts: string[] = [];
         this._manifest.forEach(e => {
-            const relDiskPathRes = this.convertUrlPathToDiskPath(e.urlPath, true);
-            if (relDiskPathRes.isErr()) {
-                failedPathConverts.push(e.urlPath + '\t' + relDiskPathRes.error.reason);
-                return;
-            }
-
-            e.diskPath = relDiskPathRes.value;
+            e.diskPath = this.convertUrlPathToDiskPath(e.urlPath, true);
         });
 
         if (failedPathConverts.length > 0)
@@ -231,12 +216,7 @@ export class ManifestCtrl {
             // add to manifest
             const ts = new Date();
             pathsMissingInManifest.forEach(relDiskPath => {
-                const relUrlPathRes = this.convertDiskPathToUrlPath(relDiskPath, true);
-                if (relUrlPathRes.isErr()) {
-                    logFatalAndThrow("error while converting a path. should not happen since the path is sourced from the filesystem.");
-                    throw ''//type guard
-                }
-                const relUrlPath = relUrlPathRes.value;
+                const relUrlPath = this.convertDiskPathToUrlPath(relDiskPath, true);
 
                 this._manifest.push(
                     this.populateManifestEntryWithMethods(
@@ -326,7 +306,7 @@ export class ManifestCtrl {
         }
 
         this._manifest = parseRes.data
-            .map(this.populateManifestEntryWithMethods);
+            .map(e => this.populateManifestEntryWithMethods(e));
 
         return true;
     }
@@ -355,14 +335,7 @@ export class ManifestCtrl {
                 newRelDiskPath = this.convertPathToRelative(newRelDiskPath);
 
             entry.diskPath = newRelDiskPath;
-
-            const urlPathRes = this.convertDiskPathToUrlPath(newRelDiskPath, true);
-            if (urlPathRes.isErr()) {
-                logFatalAndThrow({ msg: "failed to convert path", data: { error: urlPathRes.error, newRelDiskPath } });
-                throw ''//type guard
-            }
-
-            entry.urlPath = urlPathRes.value;
+            entry.urlPath = this.convertDiskPathToUrlPath(newRelDiskPath, true);
         }
 
         return entry as ManifestEntry;
