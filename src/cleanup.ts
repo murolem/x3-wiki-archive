@@ -402,6 +402,12 @@ await runStep("generating CSS styles", async () => {
 
     const minified = await minifiedRes.outputs[0]!.text();
     fs.writeFileSync(targetFilepath, minified);
+
+    // copy favicon in
+    const faviconSourceFilepath = path.resolve("src/assets/favicon.ico");
+    const faviconTargetFilepath = path.join(archivePath, "favicon.ico")
+    assertPathExists(faviconSourceFilepath, "favicon not found");
+    fs.copyFileSync(faviconSourceFilepath, faviconTargetFilepath);
 });
 
 await runStep("generating page script", async () => {
