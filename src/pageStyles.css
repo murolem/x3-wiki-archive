@@ -3185,7 +3185,7 @@ input#mw-searchButton {
     }
 
     to {
-        opacity: 0.8;
+        opacity: 1;
     }
 }
 
@@ -3200,7 +3200,6 @@ input#mw-searchButton {
     text-align: center;
     padding: 0.25rem;
     
-    opacity: 0.8;
     transition: all 400ms ease-in;
 
     z-index: 9999;

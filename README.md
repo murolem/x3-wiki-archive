@@ -1,7 +1,7 @@
 # x3-wiki-archive
 An archive of X3 Wiki.
 
-### [> CLICK THERE TO VISIT THE WIKI <](https://murolem.github.io/x3-wiki-archive)
+### [> CLICK THERE TO VISIT THE WIKI <](http://x3wiki.aliser.space/index.php/Main_Page)
 
 The wiki is hosted on Github Pages with a custom domain via `gh-pages` branch.
 
