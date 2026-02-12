@@ -3110,6 +3110,10 @@ input#mw-searchButton {
     display: none;
 }
 
+#column-one h3 {
+    margin-left: 1rem
+}
+
 /* source: custom script styles */
 
 .search-input {
@@ -3129,17 +3133,33 @@ input#mw-searchButton {
 	background-color: hsl(0, 0%, 90%);
 	display: flex;
 	flex-direction: column;
-    gap: 0.25rem;
 
     font-size: 0.9rem;
     
     &.hidden {
         display: none;
     }
+
+    &:not(:hover) {
+        & > .suggest-item:first-child {
+            background-color: hsl(220, 54.1%, 85%);
+            text-decoration: none;
+        }
+    }
+
+    &:hover {
+        & > .suggest-item:hover {
+            background-color: hsl(220, 54.1%, 85%);
+            text-decoration: none;
+        }
+    }
 }
+
 
 .search-suggest > .suggest-item {
     padding: 0.2rem;
+
+    &:first-child(:not)
 
     &:hover {
         background-color: hsl(220, 54.1%, 85%);

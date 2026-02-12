@@ -108,9 +108,51 @@ const swapObjectKeysAndValues = (obj: object): unknown => {
 // ================
 
 
-const getGibberishNamedFiles = () => {
+const tryLooselyDecodeURIComponent = (() => {
+    /** Maps unsafe chars to their temp safe variants.  */
+    const charEscapes: Record<string, string> = {
+        ':': '_-_-_-COLON-_-_-_',
+        ',': '_-_-_-COMMA-_-_-_',
+        '+': '_-_-_-PLUS-_-_-_',
+        // not sure about this one, surely it will break all on non mainside pages
+        '&': '_-_-_-AMPER-_-_-_',
+        // special case since we are processing entire paths not just segments, so it's okay to have slashes.
+        "/": '_-_-_-FSLASH-_-_-_'
+    };
+    const charUnescapes = swapObjectKeysAndValues(charEscapes) as Record<string, string>;
 
-}
+    return (comp: string): string | null => {
+        const decoded = decodeURIComponent(comp);
+
+        if (comp === decoded)
+            return comp; // already safe, do nothing
+
+        // fully decoded name but but with select few unsafe chars present
+        // kind of fs-safe (sorry windows users) and works in URLs. 
+        let decodedLoosely = decoded;
+        for (const char in charEscapes) {
+            const escape = charEscapes[char]!;
+            decodedLoosely = decodedLoosely.replaceAll(char, escape);
+        }
+
+        decodedLoosely = encodeURIComponent(decodedLoosely);
+        for (const escape in charUnescapes) {
+            const char = charUnescapes[escape]!;
+            decodedLoosely = decodedLoosely.replaceAll(escape, char);
+        }
+
+        if (decodedLoosely === decoded) {
+            // both decodes match = fix successful = fs and url are the same = it should load fine.
+
+            return decodedLoosely;
+        } else {
+            // decodes do not match = theres still some unsafe chars left that we can't decode
+            // = URLs will not be able to match the files on fs.
+
+            return null;
+        }
+    }
+})();
 
 
 // ================
@@ -159,7 +201,7 @@ await runStep("removing ad-related and other trash pages", async () => {
     ];
 
     const badEntries = manifest.filter(e => manifestCtrl.matchesCustomBlacklist(e.diskPath, pageSubstringBlacklist));
-    for(const e of badEntries) {
+    for (const e of badEntries) {
         // we can safely remove the whole url path since we don't need stuff under bad named pages anyway.
         const fullUrlDirpath = path.join(archiveDirname, e.urlPath);
         await fsPromises.rm(fullUrlDirpath, { recursive: true, force: true });
@@ -173,18 +215,6 @@ await runStep("fixing page names", () => {
     const pages = manifest
         .filter(e => isPathUnderDirectory('index.php', e.diskPath));
 
-    /** Maps unsafe chars to their temp safe variants.  */
-    const charEscapes: Record<string, string> = {
-        ':': '_-_-_-COLON-_-_-_',
-        ',': '_-_-_-COMMA-_-_-_',
-        '+': '_-_-_-PLUS-_-_-_',
-        // not sure about this one, surely it will break all on non mainside pages
-        '&': '_-_-_-AMPER-_-_-_',
-        // special case since we are processing entire paths not just segments, so it's okay to have slashes.
-        "/": '_-_-_-FSLASH-_-_-_'
-    };
-    const charUnescapes = swapObjectKeysAndValues(charEscapes) as Record<string, string>;
-
     const renames: Array<{
         manifestEntry: ManifestEntry,
         fullUrlPathBefore: string,
@@ -193,7 +223,7 @@ await runStep("fixing page names", () => {
     // const pendingRenames: Array<{ manifestEntry: ManifestEntry, newFilename: string }> = [];
     let successfulRenamesCounter = 0;
     let failedRenamesCounter = 0;
-    const renamesNotQueuedDueTooUnsafe: Array<{ relUrlPathBefore: string, relUrlPathAfter: string }> = [];
+    const renamesNotQueuedDueTooUnsafe: Array<{ relUrlPathBefore: string }> = [];
     for (const [i, e] of pages.entries()) {
         logProcessingProgress("asserting pages for renaming", i, pages.length, 1000);
         logDebug(`asserting page for renaming ${chalk.bold(e.diskPath)}`);
@@ -206,47 +236,26 @@ await runStep("fixing page names", () => {
         const relUrlPath = manifestCtrl.convertDiskPathToUrlPath(relDiskPath, true)
         const fullUrlPath = manifestCtrl.convertPathToFull(relUrlPath);
 
-        let relUrlPathDecoded = decodeURIComponent(relUrlPath);
-
-        if (relUrlPath === relUrlPathDecoded)
-            continue; // already safe, do nothing
-
-        // fully decoded name but but with select few unsafe chars present
-        // kind of fs-safe (sorry windows users) and works in URLs. 
-        let relUrlPathDecodedLoosely = relUrlPathDecoded;
-        for (const char in charEscapes) {
-            const escape = charEscapes[char]!;
-            relUrlPathDecodedLoosely = relUrlPathDecodedLoosely.replaceAll(char, escape);
-        }
-
-        relUrlPathDecodedLoosely = encodeURIComponent(relUrlPathDecodedLoosely);
-        for (const escape in charUnescapes) {
-            const char = charUnescapes[escape]!;
-            relUrlPathDecodedLoosely = relUrlPathDecodedLoosely.replaceAll(escape, char);
-        }
-
-        if (relUrlPathDecodedLoosely === relUrlPathDecoded) {
-            // both decodes match = fix successful = fs and url are the same = it should load fine.
-            // enqueue the renaming.
-
-            logDebug(`rename queued; new name: ${chalk.bold(manifestCtrl.convertUrlPathToDiskPath(relUrlPathDecodedLoosely, true))}`);
-
-            renames.push({
-                manifestEntry: e,
-                fullUrlPathBefore: fullUrlPath,
-                fullUrlPathAfter: manifestCtrl.convertPathToFull(relUrlPathDecodedLoosely)
-            });
-        } else {
-            // decodes do not match = theres still some unsafe chars left that we can't decode
-            // = URLs will not be able to match the files on fs.
+        const looselyDecodedRelUrlPath = tryLooselyDecodeURIComponent(relUrlPath);
+        if (looselyDecodedRelUrlPath === null) {
             // remove offending entries.
 
             logDebug("unable to rename, deleting from disk and manifest");
 
-            renamesNotQueuedDueTooUnsafe.push({ relUrlPathBefore: relUrlPath, relUrlPathAfter: relUrlPathDecodedLoosely });
+            renamesNotQueuedDueTooUnsafe.push({ relUrlPathBefore: relUrlPath });
             fs.rmSync(fullUrlPath, { recursive: true });
             e.remove();
             failedRenamesCounter++;
+        } else {
+            // enqueue the renaming.
+
+            logDebug(`rename queued; new name: ${chalk.bold(manifestCtrl.convertUrlPathToDiskPath(looselyDecodedRelUrlPath, true))}`);
+
+            renames.push({
+                manifestEntry: e,
+                fullUrlPathBefore: fullUrlPath,
+                fullUrlPathAfter: manifestCtrl.convertPathToFull(looselyDecodedRelUrlPath)
+            });
         }
     }
 
@@ -297,7 +306,7 @@ await runStep("fixing page names", () => {
 
     if (renamesNotQueuedDueTooUnsafe.length > 0) {
         const listStr = formatForLogAsList(renamesNotQueuedDueTooUnsafe
-            .map(e => `rel url path before: ${e.relUrlPathBefore} \nrel url path after: ${e.relUrlPathAfter}`)
+            .map(e => `rel url path before: ${e.relUrlPathBefore}`)
         );
         logWarn(chalk.bold(`failed to rename pages (new name too unsafe) (${renamesNotQueuedDueTooUnsafe.length}): \n`) + listStr);
         logWarn(chalk.bold("> removing above pages from disk and manifest"))
@@ -397,13 +406,13 @@ type DomTask<T = void> = {
 
     modifiedContentCounter: number,
 }
-const domTask = <T = void>(name: string, fn: DomTask<T>['fn'], accumInit?: T, onEnd?: (accum: T) => void) => 
+const domTask = <T = void>(name: string, fn: DomTask<T>['fn'], accumInit?: T, onEnd?: (accum: T) => void) =>
     // @ts-ignore
     domTasks.push({ name, modifiedContentCounter: 0, fn, accum: accumInit, onEnd });
 
 
 domTask('linking CSS styles', (doc, accum, opts) => {
-    if(!doc.head) {
+    if (!doc.head) {
         accum.filesWithoutHead.push(opts.relFp);
         return accum;
     } else if (doc.head.querySelector('link[href="/styles.css"]') !== null) {
@@ -422,7 +431,7 @@ domTask('linking CSS styles', (doc, accum, opts) => {
 });
 
 domTask('linking page script', (doc, accum, opts) => {
-    if(!doc.head ||doc.head.querySelector('script[src="/script.js"]') !== null)
+    if (!doc.head || doc.head.querySelector('script[src="/script.js"]') !== null)
         return;
 
     const scriptEl = doc.createElement('script') as HTMLScriptElement;
@@ -440,28 +449,44 @@ domTask('paint non-existent links red', (doc, accum, opts) => {
     const dummyBaseUrl = 'https://127.0.0.1:3000';
     for (let i = 0; i < linkEls.length; i++) {
         const el = linkEls[i]!;
+        // skips urs leading to other domains, we don't know abt them
+        if(el.href.startsWith('http'))
+            continue;
 
-        // dummy base just to get parsing to work
-        const hrefParsed = new URL(el.href, dummyBaseUrl);
+        const hrefLooselyDecoded = tryLooselyDecodeURIComponent(el.href);
+        if(hrefLooselyDecoded === null)
+            continue;
+
+        // dummy base just to get parsing to work.
+        const hrefParsed = new URL(el.href,  dummyBaseUrl);
         // if links points to page creation action, check if it actually exists 
         // since wiki pages are snapshot at different times.
-        if(hrefParsed.pathname === '/index.php' 
-            && hrefParsed.search.startsWith('?title=') 
+        if (hrefParsed.pathname === '/index.php'
+            && hrefParsed.search.startsWith('?title=')
             && hrefParsed.search.endsWith('&action=edit&redlink=1')) {
-                // link to a new page, which might exist.
-                const title = hrefParsed.searchParams.get('title');
-                const wouldBeLink = `/index.php/${title}`;
-                if(knownUrls.has(wouldBeLink)) {
-                    el.classList.remove('new')
-                    el.parentElement?.classList.remove('new');
-                    el.href = wouldBeLink;
-                    accum.linksUnturnedRedCounter++;
-                }
+            // link to a new page, which might exist.
+            const title = hrefParsed.searchParams.get('title')!;
+            const titleLooselyDecoded = tryLooselyDecodeURIComponent(title);
+            if(titleLooselyDecoded === null)
+                continue;
+            const wouldBeLink = `/index.php/${titleLooselyDecoded}`;
+            if(wouldBeLink.includes('M2'))
+                debugger;
+            if (knownUrls.has(wouldBeLink)) {
+                el.classList.remove('new')
+                el.parentElement?.classList.remove('new');
+                el.href = wouldBeLink;
+                accum.linksUnturnedRedCounter++;
+            }
         }
 
-        if (!knownUrls.has(hrefParsed.pathname + hrefParsed.search)) {
+        const pathnameLooselyDecoded = tryLooselyDecodeURIComponent(hrefParsed.pathname);
+        if(pathnameLooselyDecoded === null)
+            continue;
+
+        if (!knownUrls.has(pathnameLooselyDecoded + hrefParsed.search)) {
             el.classList.add('new');
-            if(el.parentElement!.tagName === 'LI')
+            if (el.parentElement!.tagName === 'LI')
                 el.parentElement!.classList.add('new');
 
             accum.linksTurnedRedCounter++;
@@ -471,7 +496,7 @@ domTask('paint non-existent links red', (doc, accum, opts) => {
     return accum;
 }, { linksUnturnedRedCounter: 0, linksTurnedRedCounter: 0 }, accum => {
     logInfo(chalk.bold("links turned red: " + accum.linksTurnedRedCounter));
-    if(accum.linksUnturnedRedCounter > 0)
+    if (accum.linksUnturnedRedCounter > 0)
         logInfo(chalk.bold("links turned green (were red, but actually existed): " + accum.linksUnturnedRedCounter))
 });
 
@@ -486,6 +511,31 @@ domTask('patch random page button', (doc, opts) => {
     randomPageLink.parentElement?.classList.remove('new');
 });
 
+domTask('patch search', (doc, opts) => {
+    const searchBox = doc.querySelector('div#p-search') as HTMLElement | null;
+    if (!searchBox)
+        return;
+
+    const moveSearchAboveNavbox = () => {
+        const navBox = doc.querySelector('div#p-navigation') as HTMLElement | null;
+        if (!navBox)
+            return;
+
+        navBox.before(searchBox);
+    }   
+
+    const removeAction = () => {
+        const searchForm = searchBox.querySelector('#searchform');
+        if (!searchForm)
+            return;
+
+        searchForm.removeAttribute('action');
+    }
+
+    moveSearchAboveNavbox();
+    removeAction();
+});
+
 domTask('remove edit links', (doc, opts) => {
     const linkEls = doc.querySelectorAll(`span.mw-editsection`)
         .forEach(el => el.remove());
@@ -493,7 +543,7 @@ domTask('remove edit links', (doc, opts) => {
 
 domTask('remove user bar', doc => {
     const el = doc.querySelector('div#p-personal');
-    if(!el)
+    if (!el)
         return;
 
     el.remove();
@@ -514,9 +564,9 @@ await runStep("running tasks on DOM (w/ loading & parsing)", async () => {
         const doc = parseHTML(await fsPromises.readFile(fp, 'utf-8')).document;
 
         for (const [taskIdx, task] of domTasks.entries()) {
-            if(onlyRunNthTask > 0 && taskIdx !== (onlyRunNthTask - 1))
+            if (onlyRunNthTask > 0 && taskIdx !== (onlyRunNthTask - 1))
                 continue;
-            
+
             const docStrBefore = doc.documentElement.outerHTML;
             task.fn(doc, task.accum, { fpIdx, relFp, fp });
             if (docStrBefore === doc.documentElement.outerHTML)
@@ -533,10 +583,10 @@ await runStep("running tasks on DOM (w/ loading & parsing)", async () => {
         .map(t => `${t.name} - ${t.modifiedContentCounter} pages ~ ${formatPercentage(t.modifiedContentCounter / filepaths.length)}`);
 
     logInfo(chalk.bold("task summary: \n") + formatForLogAsList(tasksStrArray));
-    
+
     logInfo(chalk.bold("running post-tasks finishers"));
-    for(const task of domTasks) {
-        if(task.onEnd)
+    for (const task of domTasks) {
+        if (task.onEnd)
             task.onEnd(task.accum);
     }
 })
@@ -625,6 +675,36 @@ await runStep("running tasks on DOM (w/ loading & parsing)", async () => {
 //     logInfo(chalk.bold("pages restored: " + wikitextPagesRestored));
 //     logInfo(`pages removed: ${pagesWithSectionEditsRemoved + pagesWithFullEditsRemoved} (${pagesWithFullEditsRemoved} edit pages for whole pages, ${pagesWithSectionEditsRemoved} edit pages for sections)`)
 // });
+
+await runStep("replace some endpoints with redirects", () => {
+    const generateHtml = (target: string): string => {
+        return `\
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="refresh" content="0; url=${target}">
+        <script type="text/javascript">
+            window.location.href = "${target}"
+        </script>
+        <title>Page Redirection</title>
+    </head>
+    <body>
+        If you are not redirected automatically, follow <a href='${target}'>this link</a>
+    </body>
+</html>`;
+    }
+
+    const urlTarget = '/index.php/Main_Page';
+    const diskSources = [
+        'index.html',
+        'index.php/index.html'
+    ]
+    for(const relDiskPath of diskSources) {
+        const fullDiskPath = manifestCtrl.convertPathToFull(relDiskPath);
+        fs.writeFileSync(fullDiskPath, generateHtml(urlTarget));
+    }
+});
 
 await runStep("generating browse manifest", () => {
     // we only want to include the pages under index.php and only those with one level deep with /index.html in them, since those are mainline pages.

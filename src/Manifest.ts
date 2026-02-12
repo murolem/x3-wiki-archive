@@ -8,43 +8,7 @@ import { readFilesRecursive } from './utils/readFilesRecursive';
 import chalk from 'chalk';
 import { formatForLogAsList } from './utils/formatForLogAsList';
 import { ensureFilepathDirpath } from './utils/ensureDirpath';
-import { err, ok, Result } from 'neverthrow';
 const { logInfo, logWarn, logFatalAndThrow } = new Logger();
-
-// blacklist for page names. matching pages will be discarded in the manifest.
-// should cover all or almost all ad pages.
-// automatically tries variants with and without underscores.
-// todo: перенести в отдельный степ т.к. url encoded портит малину
-const pageSubstringBlacklist = [
-    "email tech support",
-    "tech support USA",
-    "Avast Antivirus",
-    "Avast_Antivirus",
-    "Brother Printer",
-    "Hp_Technical",
-    "Hp Printer",
-    "Hp printer SUpport",
-    "microsoft",
-    "customer support",
-    "Avast customer",
-    "Email Toll Free Number",
-    "Norton Antivirus",
-    "Norton_Antivirus",
-    "Skype Tech",
-    "Skype Support",
-    "Technical Support",
-    "Phone Number USA",
-    "support Phone Number",
-
-    // other stuff
-    "Recent Changes",
-    "Special:",
-    "User:",
-    "User talk:",
-    "Template:",
-    "Talk:",
-    "MediaWiki:"
-]
 
 export const timestampSchema = z.codec(
     z.string(),

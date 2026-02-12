@@ -1,19 +1,11 @@
-import { browseManifestDelimiter, browseManifestName, processedManifestName } from './preset';
+import { browseManifestDelimiter, browseManifestName } from './preset';
 import { Logger } from './utils/logger';
-import MiniSearch from 'minisearch'
-import pRetry, { AbortError } from 'p-retry';
+import MiniSearch, { type SearchResult } from 'minisearch'
+import pRetry from 'p-retry';
 import { replaceSubstring } from './utils/string/replaceSubstring';
 const { logError } = new Logger();
 
-// todo: 
-// - fix search bar sometimes moving up. eg http://127.0.0.1:3000/index.php/Destroyer/ or - better - make it stay there
-// - add loading animation for search bar
-// - rewire input buttons
-// - add search bar to top?
-// - mark links that do not exist red
-// - fix random page not leaving history
-
-const matchesToDisplay = 10;
+const matchesToDisplay = 15;
 
 const manifestUrl = "/" + browseManifestName;
 
@@ -79,6 +71,7 @@ function attachSearch() {
     const searchInput = document.querySelector('input#searchInput') as HTMLInputElement | null;
     if (!searchInput || !manifest)
         return;
+    const formElement = searchInput.parentElement!;
 
     type BrowseManifestKey = keyof BrowseManifestEntry;
     const searchKeys: BrowseManifestKey[] = ['pageTitle', 'pageUrl'];
@@ -95,6 +88,9 @@ function attachSearch() {
         }))
     miniSearch.addAll(documents);
 
+    // =======
+
+    let latestSearchResults: SearchResult[] = [];
 
     searchInput.classList.add('search-input');
 
@@ -102,6 +98,14 @@ function attachSearch() {
     suggestsEl.classList.add('search-suggest', 'hidden');
     document.body.append(suggestsEl);
     searchInput.addEventListener('input', e => showSuggestForQuery(searchInput.value));
+    formElement.addEventListener('submit', e => {
+        e.preventDefault();
+
+        if(latestSearchResults.length > 0)
+            window.location.href = latestSearchResults[0]!.pageUrl;
+
+        return false;
+    });
 
     function repositionSuggestWindow() {
         const inputElRect = searchInput!.getBoundingClientRect();
@@ -116,7 +120,8 @@ function attachSearch() {
     function showSuggestForQuery(query: string) {
         repositionSuggestWindow();
 
-        const matches = miniSearch.search(query, { fuzzy: 0.5 });
+        const matches = miniSearch.search(query, { fuzzy: true });
+        latestSearchResults = matches;
 
         suggestsEl.innerHTML = '';
         if (matches.length === 0) {
@@ -154,7 +159,6 @@ function attachSearch() {
                 })
                 // sort backwards by the ending char
                 .sort((a, b) => b.end - a.end);
-            console.log(matchTermIndicesFromEnd)
 
             // replace each term substring with a span highlight
             let resInnerText = pageTitle;
