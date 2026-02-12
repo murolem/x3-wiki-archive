@@ -1,0 +1,286 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" dir="ltr">
+<head>
+<title>Marines - X3 Wiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="MediaWiki 1.16.0" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Marines&amp;action=edit" />
+<link rel="edit" title="Edit" href="/index.php?title=Marines&amp;action=edit" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)" />
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/skins/common/shared.css?270" media="screen" />
+<link rel="stylesheet" href="/skins/common/commonPrint.css?270" media="print" />
+<link rel="stylesheet" href="/skins/monobook/main.css?270" media="screen" />
+<!--[if lt IE 5.5000]><link rel="stylesheet" href="/skins/monobook/IE50Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 5.5000]><link rel="stylesheet" href="/skins/monobook/IE55Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/skins/monobook/IE60Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/skins/monobook/IE70Fixes.css?270" media="screen" /><![endif]-->
+<link rel="stylesheet" href="/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" media="print" />
+<link rel="stylesheet" href="/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" />
+<script>
+var skin="monobook",
+stylepath="/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/index.php/$1",
+wgScriptPath="",
+wgScriptExtension=".php",
+wgScript="/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://x3wiki.com",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="Marines",
+wgTitle="Marines",
+wgAction="view",
+wgArticleId=494,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=4596,
+wgVersion="1.16.0",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "X3 Wiki", "5": "X3 Wiki talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "x3_wiki": 4, "x3_wiki_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="X3 Wiki",
+wgCategories=[],
+wgRestrictionEdit=[],
+wgRestrictionMove=[];
+</script><script src="/skins/common/wikibits.js?270"></script>
+<script src="/skins/common/ajax.js?270"></script>
+<script src="/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook&amp;270"></script>
+
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Marines skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" >
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading">Marines</h1>
+	<div id="bodyContent">
+		<h3 id="siteSub">From X3 Wiki</h3>
+		<div id="contentSub">
+				<div id="mw-revision-info">Revision as of 19:06, 8 December 2010 by <a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a>  <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">Talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></div>
+
+				<div id="mw-revision-nav">(<a href="/index.php?title=Marines&amp;diff=prev&amp;oldid=4596" title="Marines">diff</a>) <a href="/index.php?title=Marines&amp;direction=prev&amp;oldid=4596" title="Marines">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div>
+			</div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<table style="background-color: WhiteSmoke; text-align: left; padding: 0.25em; border: 1px solid DarkGray; float: right; margin-left: 1em;">
+<tr><th style="background-color: LightBlue;text-align:center;" colspan="2">Ware Marines</th></tr> 
+  <tr><th><a href="/index.php/Cargo_Class" title="Cargo Class">Cargo Class</a></th><td style="text-align: right;"><a href="/index.php/Cargo_Class" title="Cargo Class">S</a></td></tr> 
+  <tr><th>Volume</th><td style="text-align: right;">4</td></tr> 
+  <tr><th>Min. Price (<a href="/index.php/Credits" title="Credits">Cr</a>)</th><td style="text-align: right;"></td></tr> 
+  <tr><th>Ave. Price (<a href="/index.php/Credits" title="Credits">Cr</a>)</th><td style="text-align: right;"></td></tr> 
+  <tr><th>Max. Price (<a href="/index.php/Credits" title="Credits">Cr</a>)</th><td style="text-align: right;"></td></tr>
+</table>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Combat"><span class="tocnumber">1.1</span> <span class="toctext">Combat</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Engineering"><span class="tocnumber">1.2</span> <span class="toctext">Engineering</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Hacking"><span class="tocnumber">1.3</span> <span class="toctext">Hacking</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Mechanical"><span class="tocnumber">1.4</span> <span class="toctext">Mechanical</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Aboard_Ship"><span class="tocnumber">2</span> <span class="toctext">Aboard Ship</span></a></li>
+</ul>
+</td></tr></table><script>if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<h2><span class="editsection">[<a href="/index.php?title=Marines&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a>]</span> <span class="mw-headline" id="Overview">Overview</span></h2>
+<p>Marines are soldiers trained in <a href="/index.php/Boarding" title="Boarding">boarding</a> and defending ships.
+</p><p>A strong marine is a major investment of time and <a href="/index.php/Credits" title="Credits">Credits</a>.
+</p><p>Marines may be recruited from Military Outposts, Military Stations, Marine Training Barracks, or Mercenary Stations. Their cost varies depending on skill ratings.
+</p><p>Marines are rated in several areas:
+</p>
+<h3><span class="editsection">[<a href="/index.php?title=Marines&amp;action=edit&amp;section=2" title="Edit section: Combat">edit</a>]</span> <span class="mw-headline" id="Combat">Combat</span></h3>
+<p>Marine combat rating indicates their fighting strength and will only increase through boarding operations.  
+</p><p>It is the most important stat as it influences the survival of the boarding team and the suppression of onboard defenses. Or on defense it dictates how effective the marine is at opposing the boarding team.
+</p>
+<h3><span class="editsection">[<a href="/index.php?title=Marines&amp;action=edit&amp;section=3" title="Edit section: Engineering">edit</a>]</span> <span class="mw-headline" id="Engineering">Engineering</span></h3>
+<p>Engineering affects how much damage the marine does as they pass through the ship. A marine with low engineering skill will cause higher hull damage during a capture. If the ship has moderate to high hull damage marines with low engineering skill may lower the hull too far and cause the boarding operation to fail.
+</p><p>It can be improved through training aboard Military Outposts and Stations.
+</p>
+<h3><span class="editsection">[<a href="/index.php?title=Marines&amp;action=edit&amp;section=4" title="Edit section: Hacking">edit</a>]</span> <span class="mw-headline" id="Hacking">Hacking</span></h3>
+<p>Hacking is important for the final stage of the boarding operation, hacking the ship's core. A successful hack will grant you control of the ship. An unsuccessful hack means the boarding operation was a failure. Of the surviving marines who reach the core some must have hacking skill in order to succeed. As you cannot determine which marines may survive to reach the core it is important that a large number of the boarding party have high hacking skill. 
+</p><p>It can be improved through training aboard Military Outposts and Stations.
+</p>
+<h3><span class="editsection">[<a href="/index.php?title=Marines&amp;action=edit&amp;section=5" title="Edit section: Mechanical">edit</a>]</span> <span class="mw-headline" id="Mechanical">Mechanical</span></h3>
+<p>The mechanical skill is the ability of the marine to cut through a ships hull, different ship classes have different minimum required mechanical skill to successfully breach the hull.
+</p><p>It can be improved through training aboard Military Outposts and Stations.
+</p>
+<h2><span class="editsection">[<a href="/index.php?title=Marines&amp;action=edit&amp;section=6" title="Edit section: Aboard Ship">edit</a>]</span> <span class="mw-headline" id="Aboard_Ship">Aboard Ship</span></h2>
+<p>To transport marines, a Cargo Lifesupport System is required.
+Ships may only carry a limited number of marines:
+</p>
+<table style="text-align:center;">
+<tr>
+<th> Ship Class </th><th> Marines Allowed
+</th></tr>
+<tr>
+<td> <a href="/index.php/M1" title="M1">M1 Carrier</a> </td><td> 20
+</td></tr>
+<tr>
+<td> <a href="/index.php/M2" title="M2">M2 Destroyer</a> </td><td> 20
+</td></tr>
+<tr>
+<td> <a href="/index.php/M6" title="M6">M6 Corvette</a> </td><td> 5
+</td></tr>
+<tr>
+<td> <a href="/index.php/M7" title="M7">M7 Frigate</a> </td><td> 20
+</td></tr>
+<tr>
+<td> <a href="/index.php/M7M" title="M7M">M7M Missile Frigate</a><sup>1</sup> </td><td> 20
+</td></tr>
+<tr>
+<td> <a href="/index.php/TM" title="TM">TM Military Transport</a> </td><td> 5
+</td></tr>
+<tr>
+<td> <a href="/index.php/TL" title="TL">TL Large Transport</a> </td><td> 20
+</td></tr>
+<tr>
+<td> <a href="/index.php/TP" title="TP">TP Personnel Transport</a> </td><td> 10
+</td></tr></table>
+<p><sup>1</sup> <a href="/index.php/M7M" title="M7M">M7M Missile Frigate</a> <a href="/index.php/Sirokos" title="Sirokos">Sirokos</a> carries 30 marines.
+</p><p>For unknown reasons the maximum boarding party is <b>one</b> more than the maximum carriage limit, with the exception of the TP class ships which cannot be boarded.
+</p><p>If the supernumerary survives the boarding attempt, that marine will leave the boarded ship to return home to the boarding ship. Boarding ships equipped with transporter devices can transport them back aboard when they pass within 5 km of the spacewalker.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 79/1000000
+Post-expand include size: 862/2097152 bytes
+Template argument size: 9/2097152 bytes
+Expensive parser function count: 0/100
+-->
+<div class="printfooter">
+Retrieved from "<a href="http://x3wiki.com/index.php/Marines">http://x3wiki.com/index.php/Marines</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				 <li id="ca-nstab-main" class="selected"><a href="/index.php/Marines" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/index.php?title=Talk:Marines&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/index.php?title=Marines&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/index.php?title=Marines&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Marines&amp;returntoquery=oldid%3D4596" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(http://www.x3wiki.com/x3.jpg);" href="/index.php/Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/index.php/Help:Contents" title="The place to find out">Help</a></li>
+				<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class='generated-sidebar portlet' id='p-X3_Terran_Conflict'>
+		<h5>X3 Terran Conflict</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+				<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+				<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+				<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+				<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+				<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+				<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+				<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+				<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+				<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+				<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class='generated-sidebar portlet' id='p-Links'>
+		<h5>Links</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-MMOServerstatus-.5BEN.5D"><a href="http://www.mmoserverstatus.com">MMOServerstatus [EN]</a></li>
+				<li id="n-Aion-trial-.5BEN.5D"><a href="http://www.aiontrial.com">Aion trial [EN]</a></li>
+				<li id="n-Guild-Wars-2-Trial-.5BEN.5D"><a href="http://www.guildwars2trial.com">Guild Wars 2 Trial [EN]</a></li>
+				<li id="n-Starcrime-.5BEN.5D"><a href="http://www.starcrime.com">Starcrime [EN]</a></li>
+				<li id="n-Gratis-rubbertjes-.5BNL.5D"><a href="http://www.gratisrubbertjes.nl">Gratis rubbertjes [NL]</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search X3 Wiki" accesskey="f" type="search" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Marines" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Marines" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/index.php?title=Marines&amp;oldid=4596&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/index.php?title=Marines&amp;oldid=4596" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+	<ul id="f-list">
+		<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+		<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.269 secs. --><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-265105-19']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body></html>

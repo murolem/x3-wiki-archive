@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>Revision history of "Dragon" - X3 Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dragon","wgTitle":"Dragon","wgCurRevisionId":15946,"wgRevisionId":0,"wgArticleId":661,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"history","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dragon","wgRelevantArticleId":661,"wgRequestId":"WXYYplkfZokAAERDd88AAAAW","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.history","mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.feedlink%2Chelplink%2CsectionAnchor%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<!--[if IE 6]><link rel="stylesheet" href="/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]-->
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Dragon&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/index.php?title=Dragon&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://www.x3wiki.com/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="&quot;Dragon&quot; Atom feed" href="/index.php?title=Dragon&amp;feed=atom&amp;action=history"/>
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Dragon rootpage-Dragon skin-monobook action-history">
+<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+									<div id="siteNotice"><!-- centralNotice loads here --></div>
+				<div class="mw-indicators">
+<div id="mw-indicator-mw-helplink" class="mw-indicator"><a href="//meta.wikimedia.org/wiki/Special:MyLanguage/Help:Page_history" target="_blank" class="mw-helplink">Help</a></div>
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7526491584299412",
+    enable_page_level_ads: true
+  });
+</script>
+
+<!-- X3 wiki -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7526491584299412"
+     data-ad-slot="4173455889"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+				<h1 id="firstHeading" class="firstHeading" lang="en">Revision history of "Dragon"</h1>
+				
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From X3 Wiki</div>
+					<div id="contentSub"><a href="/index.php?title=Special:Log&amp;page=Dragon" title="Special:Log">View logs for this page</a></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text"><form action="/index.php" method="get" id="mw-history-searchform"><fieldset id="mw-history-search">
+<legend>Browse history</legend>
+<input type="hidden" value="Dragon" name="title"/>
+<input type="hidden" value="history" name="action"/>
+<label for="year">From year (and earlier):</label> <input id="year" maxlength="4" size="7" type="number" value="2017" name="year"/> <label for="month">From month (and earlier):</label> <select name="month" id="month" class="mw-month-selector"><option value="-1">all</option>
+<option value="1">January</option>
+<option value="2">February</option>
+<option value="3">March</option>
+<option value="4">April</option>
+<option value="5">May</option>
+<option value="6">June</option>
+<option value="7">July</option>
+<option value="8">August</option>
+<option value="9">September</option>
+<option value="10">October</option>
+<option value="11">November</option>
+<option value="12">December</option></select>&#160;<input type="submit" value="Show"/>
+</fieldset></form><div class="mw-history-legend">
+<p>Diff selection: Mark the radio boxes of the revisions to compare and hit enter or the button at the bottom.<br />
+Legend: <strong>(cur)</strong> = difference with latest revision, <strong>(prev)</strong> = difference with preceding revision, <strong>m</strong> = minor edit.
+</p>
+</div>
+<form action="/index.php" id="mw-history-compare">
+<input type="hidden" value="Dragon" name="title"/>
+<input type="hidden" value="historysubmit" name="action"/>
+<input type="hidden" value="revision" name="type"/>
+<div><input class="historysubmit mw-history-compareselectedversions-button" title="See the differences between the two selected revisions of this page [v]" accesskey="v" type="submit" value="Compare selected revisions"/>
+</div><ul id="pagehistory">
+<li><span class="mw-history-histlinks">(cur | <a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=14583" title="Dragon">prev</a>)</span><input type="radio" value="15946" style="visibility:hidden" name="oldid" id="mw-oldid-null" /><input type="radio" value="15946" checked="checked" name="diff" id="mw-diff-15946" /> <a href="/index.php?title=Dragon&amp;oldid=15946" title="Dragon" class="mw-changeslist-date">11:20, 11 March 2014</a>‎ <span class='history-user'><a href="/index.php/User:Knighster35" title="User:Knighster35" class="mw-userlink">Knighster35</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Knighster35" title="User talk:Knighster35">talk</a> | <a href="/index.php/Special:Contributions/Knighster35" title="Special:Contributions/Knighster35">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,632 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,632 bytes after change">(+367)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Dragon#Availability" title="Dragon">→</a>‎<span dir="auto"><span class="autocomment">Availability: </span> add a table</span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Dragon&amp;action=edit&amp;undoafter=14583&amp;undo=15946" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=14583" title="Dragon">cur</a> | <a href="/index.php?title=Dragon&amp;diff=14583&amp;oldid=12695" title="Dragon">prev</a>)</span><input type="radio" value="14583" checked="checked" name="oldid" id="mw-oldid-14583" /><input type="radio" value="14583" name="diff" id="mw-diff-14583" /> <a href="/index.php?title=Dragon&amp;oldid=14583" title="Dragon" class="mw-changeslist-date">17:53, 24 February 2014</a>‎ <span class='history-user'><a href="/index.php/User:Knighster35" title="User:Knighster35" class="mw-userlink">Knighster35</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Knighster35" title="User talk:Knighster35">talk</a> | <a href="/index.php/Special:Contributions/Knighster35" title="Special:Contributions/Knighster35">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,265 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,265 bytes after change">(+19)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(add a Split navbox)</span> (<span class="mw-history-undo"><a href="/index.php?title=Dragon&amp;action=edit&amp;undoafter=12695&amp;undo=14583" title="Dragon">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=12695" title="Dragon">cur</a> | <a href="/index.php?title=Dragon&amp;diff=12695&amp;oldid=11622" title="Dragon">prev</a>)</span><input type="radio" value="12695" name="oldid" id="mw-oldid-12695" /><input type="radio" value="12695" name="diff" id="mw-diff-12695" /> <a href="/index.php?title=Dragon&amp;oldid=12695" title="Dragon" class="mw-changeslist-date">13:06, 11 June 2013</a>‎ <span class='history-user'><a href="/index.php/User:Gene" title="User:Gene" class="mw-userlink">Gene</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Gene" title="User talk:Gene">talk</a> | <a href="/index.php/Special:Contributions/Gene" title="Special:Contributions/Gene">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,246 bytes)</span> <span dir="ltr" class="mw-plusminus-neg" title="3,246 bytes after change">(-78)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Dragon#See_Also" title="Dragon">→</a>‎<span dir="auto"><span class="autocomment">See Also: </span> remove unrelated references - only related reference kept, the rest are listed in the template</span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Dragon&amp;action=edit&amp;undoafter=11622&amp;undo=12695" title="Dragon">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=11622" title="Dragon">cur</a> | <a href="/index.php?title=Dragon&amp;diff=11622&amp;oldid=10970" title="Dragon">prev</a>)</span><input type="radio" value="11622" name="oldid" id="mw-oldid-11622" /><input type="radio" value="11622" name="diff" id="mw-diff-11622" /> <a href="/index.php?title=Dragon&amp;oldid=11622" title="Dragon" class="mw-changeslist-date">08:57, 13 February 2013</a>‎ <span class='history-user'><a href="/index.php?title=User:Sadron&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Sadron (page does not exist)">Sadron</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Sadron&amp;action=edit&amp;redlink=1" class="new" title="User talk:Sadron (page does not exist)">talk</a> | <a href="/index.php/Special:Contributions/Sadron" title="Special:Contributions/Sadron">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,324 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,324 bytes after change">(+26)</span>‎ <span class="mw-changeslist-separator">. .</span>  (<span class="mw-history-undo"><a href="/index.php?title=Dragon&amp;action=edit&amp;undoafter=10970&amp;undo=11622" title="Dragon">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=10970" title="Dragon">cur</a> | <a href="/index.php?title=Dragon&amp;diff=10970&amp;oldid=10957" title="Dragon">prev</a>)</span><input type="radio" value="10970" name="oldid" id="mw-oldid-10970" /><input type="radio" value="10970" name="diff" id="mw-diff-10970" /> <a href="/index.php?title=Dragon&amp;oldid=10970" title="Dragon" class="mw-changeslist-date">00:10, 6 November 2012</a>‎ <span class='history-user'><a href="/index.php?title=User:Kran31&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Kran31 (page does not exist)">Kran31</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Kran31&amp;action=edit&amp;redlink=1" class="new" title="User talk:Kran31 (page does not exist)">talk</a> | <a href="/index.php/Special:Contributions/Kran31" title="Special:Contributions/Kran31">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,298 bytes)</span> <span dir="ltr" class="mw-plusminus-neg" title="3,298 bytes after change">(-59)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(Undo revision 10957 by <a href="/index.php/Special:Contributions/Soft" title="Special:Contributions/Soft">Soft</a> (<a href="/index.php?title=User_talk:Soft&amp;action=edit&amp;redlink=1" class="new" title="User talk:Soft (page does not exist)">talk</a>))</span> (<span class="mw-history-undo"><a href="/index.php?title=Dragon&amp;action=edit&amp;undoafter=10957&amp;undo=10970" title="Dragon">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=10957" title="Dragon">cur</a> | <a href="/index.php?title=Dragon&amp;diff=10957&amp;oldid=10678" title="Dragon">prev</a>)</span><input type="radio" value="10957" name="oldid" id="mw-oldid-10957" /><input type="radio" value="10957" name="diff" id="mw-diff-10957" /> <a href="/index.php?title=Dragon&amp;oldid=10957" title="Dragon" class="mw-changeslist-date">11:52, 5 November 2012</a>‎ <span class='history-user'><a href="/index.php?title=User:Soft&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Soft (page does not exist)">Soft</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Soft&amp;action=edit&amp;redlink=1" class="new" title="User talk:Soft (page does not exist)">talk</a> | <a href="/index.php/Special:Contributions/Soft" title="Special:Contributions/Soft">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,357 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,357 bytes after change">(+59)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Dragon#Overview" title="Dragon">→</a>‎<span dir="auto"><span class="autocomment">Overview</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Dragon&amp;action=edit&amp;undoafter=10678&amp;undo=10957" title="Dragon">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=10678" title="Dragon">cur</a> | <a href="/index.php?title=Dragon&amp;diff=10678&amp;oldid=10667" title="Dragon">prev</a>)</span><input type="radio" value="10678" name="oldid" id="mw-oldid-10678" /><input type="radio" value="10678" name="diff" id="mw-diff-10678" /> <a href="/index.php?title=Dragon&amp;oldid=10678" title="Dragon" class="mw-changeslist-date">04:19, 16 October 2012</a>‎ <span class='history-user'><a href="/index.php/User:Skald359" title="User:Skald359" class="mw-userlink">Skald359</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Skald359&amp;action=edit&amp;redlink=1" class="new" title="User talk:Skald359 (page does not exist)">talk</a> | <a href="/index.php/Special:Contributions/Skald359" title="Special:Contributions/Skald359">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,298 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,298 bytes after change">(+61)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(added Truelight Seeker)</span> (<span class="mw-history-undo"><a href="/index.php?title=Dragon&amp;action=edit&amp;undoafter=10667&amp;undo=10678" title="Dragon">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=10667" title="Dragon">cur</a> | <a href="/index.php?title=Dragon&amp;diff=10667&amp;oldid=10501" title="Dragon">prev</a>)</span><input type="radio" value="10667" name="oldid" id="mw-oldid-10667" /><input type="radio" value="10667" name="diff" id="mw-diff-10667" /> <a href="/index.php?title=Dragon&amp;oldid=10667" title="Dragon" class="mw-changeslist-date">04:10, 16 October 2012</a>‎ <span class='history-user'><a href="/index.php/User:Skald359" title="User:Skald359" class="mw-userlink">Skald359</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Skald359&amp;action=edit&amp;redlink=1" class="new" title="User talk:Skald359 (page does not exist)">talk</a> | <a href="/index.php/Special:Contributions/Skald359" title="Special:Contributions/Skald359">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,237 bytes)</span> <span dir="ltr" class="mw-plusminus-neg" title="3,237 bytes after change">(-305)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(added M6 category)</span> (<span class="mw-history-undo"><a href="/index.php?title=Dragon&amp;action=edit&amp;undoafter=10501&amp;undo=10667" title="Dragon">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=10501" title="Dragon">cur</a> | <a href="/index.php?title=Dragon&amp;diff=10501&amp;oldid=8686" title="Dragon">prev</a>)</span><input type="radio" value="10501" name="oldid" id="mw-oldid-10501" /><input type="radio" value="10501" name="diff" id="mw-diff-10501" /> <a href="/index.php?title=Dragon&amp;oldid=10501" title="Dragon" class="mw-changeslist-date">07:29, 15 October 2012</a>‎ <span class='history-user'><a href="/index.php/User:Skald359" title="User:Skald359" class="mw-userlink">Skald359</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Skald359&amp;action=edit&amp;redlink=1" class="new" title="User talk:Skald359 (page does not exist)">talk</a> | <a href="/index.php/Special:Contributions/Skald359" title="Special:Contributions/Skald359">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,542 bytes)</span> <strong dir="ltr" class="mw-plusminus-pos" title="3,542 bytes after change">(+571)</strong>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(added &#039;Equipment&#039; missiles)</span> (<span class="mw-history-undo"><a href="/index.php?title=Dragon&amp;action=edit&amp;undoafter=8686&amp;undo=10501" title="Dragon">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=8686" title="Dragon">cur</a> | <a href="/index.php?title=Dragon&amp;diff=8686&amp;oldid=4428" title="Dragon">prev</a>)</span><input type="radio" value="8686" name="oldid" id="mw-oldid-8686" /><input type="radio" value="8686" name="diff" id="mw-diff-8686" /> <a href="/index.php?title=Dragon&amp;oldid=8686" title="Dragon" class="mw-changeslist-date">06:16, 21 February 2012</a>‎ <span class='history-user'><a href="/index.php?title=User:Sadron&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Sadron (page does not exist)">Sadron</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Sadron&amp;action=edit&amp;redlink=1" class="new" title="User talk:Sadron (page does not exist)">talk</a> | <a href="/index.php/Special:Contributions/Sadron" title="Special:Contributions/Sadron">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,971 bytes)</span> <span dir="ltr" class="mw-plusminus-null" title="2,971 bytes after change">(0)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Dragon#Background" title="Dragon">→</a>‎<span dir="auto"><span class="autocomment">Background</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Dragon&amp;action=edit&amp;undoafter=4428&amp;undo=8686" title="Dragon">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=4428" title="Dragon">cur</a> | <a href="/index.php?title=Dragon&amp;diff=4428&amp;oldid=4427" title="Dragon">prev</a>)</span><input type="radio" value="4428" name="oldid" id="mw-oldid-4428" /><input type="radio" value="4428" name="diff" id="mw-diff-4428" /> <a href="/index.php?title=Dragon&amp;oldid=4428" title="Dragon" class="mw-changeslist-date">16:31, 28 November 2010</a>‎ <span class='history-user'><a href="/index.php/User:Spychotic" title="User:Spychotic" class="mw-userlink">Spychotic</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Spychotic" title="User talk:Spychotic">talk</a> | <a href="/index.php/Special:Contributions/Spychotic" title="Special:Contributions/Spychotic">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,971 bytes)</span> <span dir="ltr" class="mw-plusminus-neg" title="2,971 bytes after change">(-1)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Dragon#See_Also" title="Dragon">→</a>‎<span dir="auto"><span class="autocomment">See Also</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Dragon&amp;action=edit&amp;undoafter=4427&amp;undo=4428" title="Dragon">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=4427" title="Dragon">cur</a> | <a href="/index.php?title=Dragon&amp;diff=4427&amp;oldid=4204" title="Dragon">prev</a>)</span><input type="radio" value="4427" name="oldid" id="mw-oldid-4427" /><input type="radio" value="4427" name="diff" id="mw-diff-4427" /> <a href="/index.php?title=Dragon&amp;oldid=4427" title="Dragon" class="mw-changeslist-date">16:31, 28 November 2010</a>‎ <span class='history-user'><a href="/index.php/User:Spychotic" title="User:Spychotic" class="mw-userlink">Spychotic</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Spychotic" title="User talk:Spychotic">talk</a> | <a href="/index.php/Special:Contributions/Spychotic" title="Special:Contributions/Spychotic">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,972 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="2,972 bytes after change">(+43)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Dragon#See_Also" title="Dragon">→</a>‎<span dir="auto"><span class="autocomment">See Also</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Dragon&amp;action=edit&amp;undoafter=4204&amp;undo=4427" title="Dragon">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=4204" title="Dragon">cur</a> | <a href="/index.php?title=Dragon&amp;diff=4204&amp;oldid=4203" title="Dragon">prev</a>)</span><input type="radio" value="4204" name="oldid" id="mw-oldid-4204" /><input type="radio" value="4204" name="diff" id="mw-diff-4204" /> <a href="/index.php?title=Dragon&amp;oldid=4204" title="Dragon" class="mw-changeslist-date">19:42, 13 November 2010</a>‎ <span class='history-user'><a href="/index.php/User:Spychotic" title="User:Spychotic" class="mw-userlink">Spychotic</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Spychotic" title="User talk:Spychotic">talk</a> | <a href="/index.php/Special:Contributions/Spychotic" title="Special:Contributions/Spychotic">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,929 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="2,929 bytes after change">(+435)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Dragon#Background" title="Dragon">→</a>‎<span dir="auto"><span class="autocomment">Background</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Dragon&amp;action=edit&amp;undoafter=4203&amp;undo=4204" title="Dragon">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=4203" title="Dragon">cur</a> | <a href="/index.php?title=Dragon&amp;diff=4203&amp;oldid=3797" title="Dragon">prev</a>)</span><input type="radio" value="4203" name="oldid" id="mw-oldid-4203" /><input type="radio" value="4203" name="diff" id="mw-diff-4203" /> <a href="/index.php?title=Dragon&amp;oldid=4203" title="Dragon" class="mw-changeslist-date">19:38, 13 November 2010</a>‎ <span class='history-user'><a href="/index.php/User:Spychotic" title="User:Spychotic" class="mw-userlink">Spychotic</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Spychotic" title="User talk:Spychotic">talk</a> | <a href="/index.php/Special:Contributions/Spychotic" title="Special:Contributions/Spychotic">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,494 bytes)</span> <strong dir="ltr" class="mw-plusminus-neg" title="2,494 bytes after change">(-829)</strong>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Dragon#Overview" title="Dragon">→</a>‎<span dir="auto"><span class="autocomment">Overview: </span> Reduced length of Overview section; moved content around the article.</span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Dragon&amp;action=edit&amp;undoafter=3797&amp;undo=4203" title="Dragon">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=3797" title="Dragon">cur</a> | <a href="/index.php?title=Dragon&amp;diff=3797&amp;oldid=3464" title="Dragon">prev</a>)</span><input type="radio" value="3797" name="oldid" id="mw-oldid-3797" /><input type="radio" value="3797" name="diff" id="mw-diff-3797" /> <a href="/index.php?title=Dragon&amp;oldid=3797" title="Dragon" class="mw-changeslist-date">06:04, 27 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></span>‎ <abbr class="minoredit" title="This is a minor edit">m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,323 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,323 bytes after change">(+273)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(encyclopedia entry)</span> (<span class="mw-history-undo"><a href="/index.php?title=Dragon&amp;action=edit&amp;undoafter=3464&amp;undo=3797" title="Dragon">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=3464" title="Dragon">cur</a> | <a href="/index.php?title=Dragon&amp;diff=3464&amp;oldid=3438" title="Dragon">prev</a>)</span><input type="radio" value="3464" name="oldid" id="mw-oldid-3464" /><input type="radio" value="3464" name="diff" id="mw-diff-3464" /> <a href="/index.php?title=Dragon&amp;oldid=3464" title="Dragon" class="mw-changeslist-date">23:54, 20 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Spychotic" title="User:Spychotic" class="mw-userlink">Spychotic</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Spychotic" title="User talk:Spychotic">talk</a> | <a href="/index.php/Special:Contributions/Spychotic" title="Special:Contributions/Spychotic">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,050 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,050 bytes after change">(+38)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Dragon#See_Also" title="Dragon">→</a>‎<span dir="auto"><span class="autocomment">See Also</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Dragon&amp;action=edit&amp;undoafter=3438&amp;undo=3464" title="Dragon">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=3438" title="Dragon">cur</a> | <a href="/index.php?title=Dragon&amp;diff=3438&amp;oldid=3437" title="Dragon">prev</a>)</span><input type="radio" value="3438" name="oldid" id="mw-oldid-3438" /><input type="radio" value="3438" name="diff" id="mw-diff-3438" /> <a href="/index.php?title=Dragon&amp;oldid=3438" title="Dragon" class="mw-changeslist-date">23:25, 20 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Spychotic" title="User:Spychotic" class="mw-userlink">Spychotic</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Spychotic" title="User talk:Spychotic">talk</a> | <a href="/index.php/Special:Contributions/Spychotic" title="Special:Contributions/Spychotic">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,012 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,012 bytes after change">(+270)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Dragon#See_Also" title="Dragon">→</a>‎<span dir="auto"><span class="autocomment">See Also</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Dragon&amp;action=edit&amp;undoafter=3437&amp;undo=3438" title="Dragon">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=3437" title="Dragon">cur</a> | <a href="/index.php?title=Dragon&amp;diff=3437&amp;oldid=3309" title="Dragon">prev</a>)</span><input type="radio" value="3437" name="oldid" id="mw-oldid-3437" /><input type="radio" value="3437" name="diff" id="mw-diff-3437" /> <a href="/index.php?title=Dragon&amp;oldid=3437" title="Dragon" class="mw-changeslist-date">23:24, 20 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Spychotic" title="User:Spychotic" class="mw-userlink">Spychotic</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Spychotic" title="User talk:Spychotic">talk</a> | <a href="/index.php/Special:Contributions/Spychotic" title="Special:Contributions/Spychotic">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,742 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="2,742 bytes after change">(+146)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Dragon#Combat" title="Dragon">→</a>‎<span dir="auto"><span class="autocomment">Combat</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Dragon&amp;action=edit&amp;undoafter=3309&amp;undo=3437" title="Dragon">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=3309" title="Dragon">cur</a> | <a href="/index.php?title=Dragon&amp;diff=3309&amp;oldid=3227" title="Dragon">prev</a>)</span><input type="radio" value="3309" name="oldid" id="mw-oldid-3309" /><input type="radio" value="3309" name="diff" id="mw-diff-3309" /> <a href="/index.php?title=Dragon&amp;oldid=3309" title="Dragon" class="mw-changeslist-date">22:04, 19 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,596 bytes)</span> <strong dir="ltr" class="mw-plusminus-pos" title="2,596 bytes after change">(+578)</strong>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(gunslots, expanded ppc armament commentary)</span> (<span class="mw-history-undo"><a href="/index.php?title=Dragon&amp;action=edit&amp;undoafter=3227&amp;undo=3309" title="Dragon">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=3227" title="Dragon">cur</a> | <a href="/index.php?title=Dragon&amp;diff=3227&amp;oldid=2287" title="Dragon">prev</a>)</span><input type="radio" value="3227" name="oldid" id="mw-oldid-3227" /><input type="radio" value="3227" name="diff" id="mw-diff-3227" /> <a href="/index.php?title=Dragon&amp;oldid=3227" title="Dragon" class="mw-changeslist-date">17:23, 19 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Master_of_the_Blade" title="User:Master of the Blade" class="mw-userlink">Master of the Blade</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Master_of_the_Blade&amp;action=edit&amp;redlink=1" class="new" title="User talk:Master of the Blade (page does not exist)">talk</a> | <a href="/index.php/Special:Contributions/Master_of_the_Blade" title="Special:Contributions/Master of the Blade">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,018 bytes)</span> <strong dir="ltr" class="mw-plusminus-pos" title="2,018 bytes after change">(+909)</strong>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Dragon#Overview" title="Dragon">→</a>‎<span dir="auto"><span class="autocomment">Overview</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Dragon&amp;action=edit&amp;undoafter=2287&amp;undo=3227" title="Dragon">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Dragon&amp;diff=15946&amp;oldid=2287" title="Dragon">cur</a> | prev)</span><input type="radio" value="2287" name="oldid" id="mw-oldid-2287" /><input type="radio" value="2287" name="diff" id="mw-diff-2287" /> <a href="/index.php?title=Dragon&amp;oldid=2287" title="Dragon" class="mw-changeslist-date">23:08, 6 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(1,109 bytes)</span> <strong dir="ltr" class="mw-plusminus-pos" title="1,109 bytes after change">(+1,109)</strong>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(start)</span></li>
+</ul>
+<div><input class="historysubmit mw-history-compareselectedversions-button" title="See the differences between the two selected revisions of this page [v]" accesskey="v" type="submit" value="Compare selected revisions"/>
+</div></form></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://www.x3wiki.com/index.php/Dragon">http://www.x3wiki.com/index.php/Dragon</a>"</div>
+					<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+			</div>
+		</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/index.php/Dragon" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/index.php?title=Talk:Dragon&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit"><a href="/index.php?title=Dragon&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+				<li id="ca-history" class="selected"><a href="/index.php?title=Dragon&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+						<li id="pt-anonuserpage">Not logged in</li>							<li id="pt-anontalk"><a href="/index.php/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+													<li id="pt-anoncontribs"><a href="/index.php/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+													<li id="pt-createaccount"><a href="/index.php?title=Special:CreateAccount&amp;returnto=Dragon&amp;returntoquery=action%3Dhistory" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Dragon&amp;returntoquery=action%3Dhistory" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/index.php/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+											<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>
+											<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict" role="navigation">
+		<h3>X3 Terran Conflict</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+											<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+											<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+											<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+											<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+											<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+											<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+											<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+											<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+											<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+											<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Links" role="navigation">
+		<h3>Links</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-MMO-Server-Status"><a href="http://www.mmoserverstatus.com">MMO Server Status</a></li>
+											<li id="n-Compare-Everglades-Tours"><a href="http://www.compare-everglades-tours.com">Compare Everglades Tours</a></li>
+											<li id="n-Pokemon-GO-Wiki"><a href="http://www.pokemon-go-wiki.com">Pokemon GO Wiki</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/index.php" id="searchform">
+					<input type='hidden' name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Dragon" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Dragon" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="feedlinks"><a href="/index.php?title=Dragon&amp;feed=atom&amp;action=history" id="feed-atom" rel="alternate" type="application/atom+xml" class="feedlink" title="Atom feed for this page">Atom</a></li>
+											<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-info"><a href="/index.php?title=Dragon&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+			</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+									<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-265105-19', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":64});});</script></body></html>

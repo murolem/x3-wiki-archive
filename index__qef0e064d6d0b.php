@@ -1,0 +1,1185 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8" />
+<title>Reputation - X3 Wiki</title>
+<meta name="generator" content="MediaWiki 1.17.0" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Reputation&amp;action=edit" />
+<link rel="edit" title="Edit" href="/index.php?title=Reputation&amp;action=edit" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://www.x3wiki.com/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared&amp;only=styles&amp;skin=monobook&amp;*" />
+<link rel="stylesheet" href="/skins/monobook/main.css?301" media="screen" />
+<!--[if lt IE 5.5000]><link rel="stylesheet" href="/skins/monobook/IE50Fixes.css?301" media="screen" /><![endif]-->
+<!--[if IE 5.5000]><link rel="stylesheet" href="/skins/monobook/IE55Fixes.css?301" media="screen" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/skins/monobook/IE60Fixes.css?301" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/skins/monobook/IE70Fixes.css?301" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Reputation skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading">Reputation</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From X3 Wiki</div>
+		<div id="contentSub">
+				<div id="mw-revision-info">Revision as of 23:52, 9 February 2011 by <a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a>  <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">Talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></div>
+
+				<div id="mw-revision-nav">(<a href="/index.php?title=Reputation&amp;diff=prev&amp;oldid=5177" title="Reputation">diff</a>) <a href="/index.php?title=Reputation&amp;direction=prev&amp;oldid=5177" title="Reputation">← Older revision</a> | <a href="/index.php/Reputation" title="Reputation">Latest revision</a> (<a href="/index.php?title=Reputation&amp;diff=cur&amp;oldid=5177" title="Reputation">diff</a>) | <a href="/index.php?title=Reputation&amp;direction=next&amp;oldid=5177" title="Reputation">Newer revision →</a> (<a href="/index.php?title=Reputation&amp;diff=next&amp;oldid=5177" title="Reputation">diff</a>)</div>
+			</div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<p>Reputation is a reflection of how a <a href="/index.php/Races" title="Races">faction</a> views you.
+</p><p>Combat and Trade Ranks can be found <a href="/index.php/Ranks" title="Ranks">Here</a>.
+</p><p>At a race rank of -1 you may <a href="/index.php/Docking" title="Docking">dock</a> with a race's stations in border sectors and at a rank of 0 in core sectors.
+</p><p><br />
+As is shown below, 0% of the highest rank is only 333,333 points, only 1/3rd of 1 million! This means, to get from 0% to 100% you have to effectively get from the neutral rank to where you are, twice over again! This goes to show the exponential nature of the ranks.
+</p><p><br />
+</p>
+<h3> <span class="mw-headline" id="Minimum_Notoriety_Points_for_Race_Rank">Minimum Notoriety Points for Race Rank</span></h3>
+<table style="background-color:WhiteSmoke;text-align:right;">
+<tr>
+<td>10</td><td rowspan="16">&#160; &#160; </td><td>333,333 (to 1,000,000)
+</td>
+</tr><tr>
+<td>9</td><td>100,000
+</td>
+</tr><tr>
+<td>8</td><td>33,333
+</td>
+</tr><tr>
+<td>7</td><td>10,000
+</td>
+</tr><tr>
+<td>6</td><td>3,333
+</td>
+</tr><tr>
+<td>5</td><td>1,000
+</td>
+</tr><tr>
+<td>4</td><td>333
+</td>
+</tr><tr>
+<td>3</td><td>100
+</td>
+</tr><tr>
+<td>2</td><td>33
+</td>
+</tr><tr>
+<td>1</td><td>10
+</td>
+</tr><tr>
+<td>0</td><td>-10
+</td>
+</tr><tr>
+<td>-1</td><td>-100
+</td>
+</tr><tr>
+<td>-2</td><td>-1,000
+</td>
+</tr><tr>
+<td>-3</td><td>-10,000
+</td>
+</tr><tr>
+<td>-4</td><td>-100,000
+</td>
+</tr><tr>
+<td>-5</td><td>-1,000,000</td>
+</tr>
+</table>
+<p><br />
+</p><p><br />
+</p>
+<table cellpadding="10">
+<caption> <center><b>Reputation</b></center>
+<p></caption>
+</p>
+<tr style="vertical-align:top;">
+<td>
+<h3> <span class="mw-headline" id="Argon"><a href="/index.php/Argon" title="Argon">Argon</a></span></h3>
+<table style="background-color:WhiteSmoke;text-align:right;">
+<tr>
+<td>10</td><td rowspan="16">&#160; &#160; </td><td>Hero of the Federation
+</td>
+</tr><tr>
+<td>9</td><td>Protector of the Federation
+</td>
+</tr><tr>
+<td>8</td><td>Federation Overwatch
+</td>
+</tr><tr>
+<td>7</td><td>Federation Marshall
+</td>
+</tr><tr>
+<td>6</td><td>Federation Guardian
+</td>
+</tr><tr>
+<td>5</td><td>Trusted Ally
+</td>
+</tr><tr>
+<td>4</td><td>Accepted Advisor
+</td>
+</tr><tr>
+<td>3</td><td>Confirmed friend
+</td>
+</tr><tr>
+<td>2</td><td>Federation Associate
+</td>
+</tr><tr>
+<td>1</td><td>Federation Member
+</td>
+</tr><tr>
+<td>0</td><td>Citizen
+</td>
+</tr><tr>
+<td>-1</td><td>Suspected Foe
+</td>
+</tr><tr>
+<td>-2</td><td>Known antagonist
+</td>
+</tr><tr>
+<td>-3</td><td>Confirmed Insurgent
+</td>
+</tr><tr>
+<td>-4</td><td>Confirmed enemy
+</td>
+</tr><tr>
+<td>-5</td><td>Enemy of the Federation</td>
+</tr>
+</table>
+<p><br />
+</p>
+</td>
+<td>
+<h3> <span class="mw-headline" id="Boron"><a href="/index.php/Boron" title="Boron">Boron</a></span></h3>
+<table style="background-color:WhiteSmoke;text-align:right;">
+<tr>
+<td>10</td><td rowspan="16">&#160; &#160; </td><td>Knight of the Kingdom
+</td>
+</tr><tr>
+<td>9</td><td>King's Protectorate
+</td>
+</tr><tr>
+<td>8</td><td>Kings Knight
+</td>
+</tr><tr>
+<td>7</td><td>Queen's Protectorate
+</td>
+</tr><tr>
+<td>6</td><td>Queens Knight
+</td>
+</tr><tr>
+<td>5</td><td>Queen's Guard
+</td>
+</tr><tr>
+<td>4</td><td>Noble Peer
+</td>
+</tr><tr>
+<td>3</td><td>Trusted Courtier
+</td>
+</tr><tr>
+<td>2</td><td>Accepted Friend
+</td>
+</tr><tr>
+<td>1</td><td>Friend (Boron)
+</td>
+</tr><tr>
+<td>0</td><td>Acquaintance
+</td>
+</tr><tr>
+<td>-1</td><td>Antagonist
+</td>
+</tr><tr>
+<td>-2</td><td>Confirmed Adversary
+</td>
+</tr><tr>
+<td>-3</td><td>Enemy of Menelaus
+</td>
+</tr><tr>
+<td>-4</td><td>Queen's Nemesis
+</td>
+</tr><tr>
+<td>-5</td><td>Enemy of the Kingdom</td>
+</tr>
+</table>
+<p><br />
+</p>
+</td>
+<td>
+<h3> <span class="mw-headline" id="Terran"><a href="/index.php/Terran" title="Terran">Terran</a></span></h3>
+<table style="background-color:WhiteSmoke;text-align:right;">
+<tr>
+<td>10</td><td rowspan="16">&#160; &#160; </td><td>Hero of Sol
+</td>
+</tr><tr>
+<td>9</td><td>Solar Sentinel
+</td>
+</tr><tr>
+<td>8</td><td>Guardian of Earth
+</td>
+</tr><tr>
+<td>7</td><td>Planetary Senator
+</td>
+</tr><tr>
+<td>6</td><td>Servant of Terra
+</td>
+</tr><tr>
+<td>5</td><td>Warrior of Io
+</td>
+</tr><tr>
+<td>4</td><td>Marshall of Mars
+</td>
+</tr><tr>
+<td>3</td><td>Senatorial Advisor
+</td>
+</tr><tr>
+<td>2</td><td>Regional Representative
+</td>
+</tr><tr>
+<td>1</td><td>Local Councillor
+</td>
+</tr><tr>
+<td>0</td><td>Citizen
+</td>
+</tr><tr>
+<td>-1</td><td>Revolutionary
+</td>
+</tr><tr>
+<td>-2</td><td>Renegade
+</td>
+</tr><tr>
+<td>-3</td><td>Insurgent
+</td>
+</tr><tr>
+<td>-4</td><td>Terrorist
+</td>
+</tr><tr>
+<td>-5</td><td>Enemy of Sol</td>
+</tr>
+</table>
+<p><br />
+</p>
+</td>
+<td>
+<h3> <span class="mw-headline" id="Paranid"><a href="/index.php/Paranid" title="Paranid">Paranid</a></span></h3>
+<table style="background-color:WhiteSmoke;text-align:right;">
+<tr>
+<td>10</td><td rowspan="16">&#160; &#160; </td><td>Honour Guard of Xaar
+</td>
+</tr><tr>
+<td>9</td><td>Seeker of the Holy Light
+</td>
+</tr><tr>
+<td>8</td><td>Emperor's Protectorate
+</td>
+</tr><tr>
+<td>7</td><td>Friend of Emperor
+</td>
+</tr><tr>
+<td>6</td><td>Priest Protectorate
+</td>
+</tr><tr>
+<td>5</td><td>Friend of Priest King
+</td>
+</tr><tr>
+<td>4</td><td>Friend of Priest Duke
+</td>
+</tr><tr>
+<td>3</td><td>Priest Confidante
+</td>
+</tr><tr>
+<td>2</td><td>Friend of Priest
+</td>
+</tr><tr>
+<td>1</td><td>Friend
+</td>
+</tr><tr>
+<td>0</td><td>Nomad
+</td>
+</tr><tr>
+<td>-1</td><td>Unholy Nomad
+</td>
+</tr><tr>
+<td>-2</td><td>Tainted Wanderer
+</td>
+</tr><tr>
+<td>-3</td><td>Desecrator of Holy Light
+</td>
+</tr><tr>
+<td>-4</td><td>Enemy of Priest Duke
+</td>
+</tr><tr>
+<td>-5</td><td>Enemy of Priest Xaar</td>
+</tr>
+</table>
+<p><br />
+</p>
+</td></tr>
+<tr style="vertical-align:top;">
+<td>
+<h3> <span class="mw-headline" id="Split"><a href="/index.php/Split" title="Split">Split</a></span></h3>
+<table style="background-color:WhiteSmoke;text-align:right;">
+<tr>
+<td>10</td><td rowspan="16">&#160; &#160; </td><td>Honoured Strong Arm of Rhonkar
+</td>
+</tr><tr>
+<td>9</td><td>Honoured Imperator of Rhonkar
+</td>
+</tr><tr>
+<td>8</td><td>Inner Circle of Rhonkar
+</td>
+</tr><tr>
+<td>7</td><td>Privileged Associate of Rhonkar
+</td>
+</tr><tr>
+<td>6</td><td>Family Protector
+</td>
+</tr><tr>
+<td>5</td><td>Distinguished Associate
+</td>
+</tr><tr>
+<td>4</td><td>Family Friend
+</td>
+</tr><tr>
+<td>3</td><td>Comrade
+</td>
+</tr><tr>
+<td>2</td><td>Friend
+</td>
+</tr><tr>
+<td>1</td><td>Known Venturer
+</td>
+</tr><tr>
+<td>0</td><td>Creature
+</td>
+</tr><tr>
+<td>-1</td><td>Shameless Creature
+</td>
+</tr><tr>
+<td>-2</td><td>Family Outcast
+</td>
+</tr><tr>
+<td>-3</td><td>Family Enemy
+</td>
+</tr><tr>
+<td>-4</td><td>Enemy of Rhonkar
+</td>
+</tr><tr>
+<td>-5</td><td>Enemy of all Split Families</td>
+</tr>
+</table>
+<p><br />
+</p>
+</td>
+<td>
+<h3> <span class="mw-headline" id="Teladi"><a href="/index.php/Teladi" title="Teladi">Teladi</a></span></h3>
+<table style="background-color:WhiteSmoke;text-align:right;">
+<tr>
+<td>10</td><td rowspan="16">&#160; &#160; </td><td>Company Director
+</td>
+</tr><tr>
+<td>9</td><td>Venture Capitalist
+</td>
+</tr><tr>
+<td>8</td><td>Venture Profiteer
+</td>
+</tr><tr>
+<td>7</td><td>Company Owner
+</td>
+</tr><tr>
+<td>6</td><td>Company Manager
+</td>
+</tr><tr>
+<td>5</td><td>Majority Shareholder
+</td>
+</tr><tr>
+<td>4</td><td>Shareholder
+</td>
+</tr><tr>
+<td>3</td><td>Company Trader
+</td>
+</tr><tr>
+<td>2</td><td>Company Helper
+</td>
+</tr><tr>
+<td>1</td><td>Profit Opportunity
+</td>
+</tr><tr>
+<td>0</td><td>Profit Initiate
+</td>
+</tr><tr>
+<td>-1</td><td>Profit Liability
+</td>
+</tr><tr>
+<td>-2</td><td>Mercantile Rebel
+</td>
+</tr><tr>
+<td>-3</td><td>Commercial Anarchist
+</td>
+</tr><tr>
+<td>-4</td><td>Commercial Enemy
+</td>
+</tr><tr>
+<td>-5</td><td>Enemy of the Corporation</td>
+</tr>
+</table>
+<p><br />
+</p>
+</td>
+<td>
+<h3> <span class="mw-headline" id="ATF"><a href="/index.php/ATF" title="ATF">ATF</a></span></h3>
+<table style="background-color:WhiteSmoke;text-align:right;">
+<tr>
+<td>10</td><td rowspan="16">&#160; &#160; </td><td>Command Access
+</td>
+</tr><tr>
+<td>9</td><td>Operations Access
+</td>
+</tr><tr>
+<td>8</td><td>Research Access
+</td>
+</tr><tr>
+<td>7</td><td>Earth Access
+</td>
+</tr><tr>
+<td>6</td><td>Lunar Access
+</td>
+</tr><tr>
+<td>5</td><td>Mercury Access
+</td>
+</tr><tr>
+<td>4</td><td>Venus Access
+</td>
+</tr><tr>
+<td>3</td><td>Mars Access
+</td>
+</tr><tr>
+<td>2</td><td>Asteroid Belt Access
+</td>
+</tr><tr>
+<td>1</td><td>Outer System Access
+</td>
+</tr><tr>
+<td>0</td><td>System Access
+</td>
+</tr><tr>
+<td>-1</td><td>Suspect Programmer
+</td>
+</tr><tr>
+<td>-2</td><td>Tech Fugitive
+</td>
+</tr><tr>
+<td>-3</td><td>Known AGI Sympathiser
+</td>
+</tr><tr>
+<td>-4</td><td>Illegal AGI Developer
+</td>
+</tr><tr>
+<td>-5</td><td>AGI Task Force Nemesis</td>
+</tr>
+</table>
+<p><br />
+</p>
+</td>
+<td>
+<h3> <span class="mw-headline" id="Goner"><a href="/index.php/Goner" title="Goner">Goner</a></span></h3>
+<table style="background-color:WhiteSmoke;text-align:right;">
+<tr>
+<td>10</td><td rowspan="16">&#160; &#160; </td><td>Protector of the Goners
+</td>
+</tr><tr>
+<td>9</td><td>Holy Order of the Goners
+</td>
+</tr><tr>
+<td>8</td><td>Goner Evangelist
+</td>
+</tr><tr>
+<td>7</td><td>Goner Preacher
+</td>
+</tr><tr>
+<td>6</td><td>Honoured Pilgrim
+</td>
+</tr><tr>
+<td>5</td><td>Trusted Pilgrim
+</td>
+</tr><tr>
+<td>4</td><td>Faithful Believer
+</td>
+</tr><tr>
+<td>3</td><td>Believer
+</td>
+</tr><tr>
+<td>2</td><td>Follower
+</td>
+</tr><tr>
+<td>1</td><td>Accepted Member
+</td>
+</tr><tr>
+<td>0</td><td>Sceptic
+</td>
+</tr><tr>
+<td>-1</td><td>Agnostic
+</td>
+</tr><tr>
+<td>-2</td><td>Heathen
+</td>
+</tr><tr>
+<td>-3</td><td>Blasphemer
+</td>
+</tr><tr>
+<td>-4</td><td>Heretic
+</td>
+</tr><tr>
+<td>-5</td><td>Defiler of the Truth</td>
+</tr>
+</table>
+<p><br />
+</p>
+</td></tr>
+<tr style="vertical-align:top;">
+<td>
+<h3> <span class="mw-headline" id="Pirates_.2A"><a href="/index.php/Pirates" title="Pirates">Pirates</a> <sup>*</sup></span></h3>
+</td>
+<td>
+<h3> <span class="mw-headline" id="Yaki_.2A"><a href="/index.php/Yaki" title="Yaki">Yaki</a> <sup>*</sup></span></h3>
+</td>
+<td>
+<h3> <span class="mw-headline" id="Atreus"><a href="/index.php/Atreus" title="Atreus">Atreus</a></span></h3>
+<table style="background-color:WhiteSmoke;text-align:right;">
+<tr>
+<td>10</td><td rowspan="16">&#160; &#160; </td><td>Knight of Atreus
+</td>
+</tr><tr>
+<td>9</td><td>Shipbuilding Guardian
+</td>
+</tr><tr>
+<td>8</td><td>Atreus Currents Shareholder
+</td>
+</tr><tr>
+<td>7</td><td>Shipbuilding Protector
+</td>
+</tr><tr>
+<td>6</td><td>Trusted Wholesaler
+</td>
+</tr><tr>
+<td>5</td><td>Shipbuilding Specialist
+</td>
+</tr><tr>
+<td>4</td><td>Technology Broker
+</td>
+</tr><tr>
+<td>3</td><td>Specialist Supplier
+</td>
+</tr><tr>
+<td>2</td><td>Confirmed Supplier
+</td>
+</tr><tr>
+<td>1</td><td>Potential Contact
+</td>
+</tr><tr>
+<td>0</td><td>Potential Friend
+</td>
+</tr><tr>
+<td>-1</td><td>Antagonist
+</td>
+</tr><tr>
+<td>-2</td><td>Adversary
+</td>
+</tr><tr>
+<td>-3</td><td>Confirmed Enemy
+</td>
+</tr><tr>
+<td>-4</td><td>Enemy of Shipbuilding
+</td>
+</tr><tr>
+<td>-5</td><td>Enemy of Atreus</td>
+</tr>
+</table>
+<p><br />
+</p>
+</td>
+<td>
+<h3> <span class="mw-headline" id="Duke.27s"><a href="/index.php/Duke%27s" title="Duke's">Duke's</a></span></h3>
+<table style="background-color:WhiteSmoke;text-align:right;">
+<tr>
+<td>10</td><td rowspan="16">&#160; &#160; </td><td>Honour Guard of Priest Duke
+</td>
+</tr><tr>
+<td>9</td><td>Priest Duke's Guardian
+</td>
+</tr><tr>
+<td>8</td><td>Priest Duke's Warrior
+</td>
+</tr><tr>
+<td>7</td><td>Priest's Guard
+</td>
+</tr><tr>
+<td>6</td><td>Buccaneers' Specialist
+</td>
+</tr><tr>
+<td>5</td><td>Buccaneers' Assassin
+</td>
+</tr><tr>
+<td>4</td><td>Buccaneers' Professional
+</td>
+</tr><tr>
+<td>3</td><td>Duke's Buccaneer
+</td>
+</tr><tr>
+<td>2</td><td>Associate
+</td>
+</tr><tr>
+<td>1</td><td>Accomplice
+</td>
+</tr><tr>
+<td>0</td><td>Potential Contact
+</td>
+</tr><tr>
+<td>-1</td><td>Suspected Informer
+</td>
+</tr><tr>
+<td>-2</td><td>Enemy
+</td>
+</tr><tr>
+<td>-3</td><td>Confirmed Enemy
+</td>
+</tr><tr>
+<td>-4</td><td>Confirmed Insurgent
+</td>
+</tr><tr>
+<td>-5</td><td>Enemy of the Duke</td>
+</tr>
+</table>
+<p><br />
+</p>
+</td></tr>
+<tr style="vertical-align:top;">
+<td>
+<h3> <span class="mw-headline" id="Jonferco"><a href="/index.php/Jonferco" title="Jonferco">Jonferco</a></span></h3>
+<table style="background-color:WhiteSmoke;text-align:right;">
+<tr>
+<td>10</td><td rowspan="16">&#160; &#160; </td><td>Hero of Jonferson
+</td>
+</tr><tr>
+<td>9</td><td>Jonferson Crusader
+</td>
+</tr><tr>
+<td>8</td><td>JSDD Shareholder
+</td>
+</tr><tr>
+<td>7</td><td>JSDD Protector
+</td>
+</tr><tr>
+<td>6</td><td>JSDD Specialist
+</td>
+</tr><tr>
+<td>5</td><td>JSDD Broker
+</td>
+</tr><tr>
+<td>4</td><td>JSDD Professional
+</td>
+</tr><tr>
+<td>3</td><td>Capitalist
+</td>
+</tr><tr>
+<td>2</td><td>Skilled Dealer
+</td>
+</tr><tr>
+<td>1</td><td>Hired
+</td>
+</tr><tr>
+<td>0</td><td>Apprentice
+</td>
+</tr><tr>
+<td>-1</td><td>Nuisance
+</td>
+</tr><tr>
+<td>-2</td><td>Disruption
+</td>
+</tr><tr>
+<td>-3</td><td>Confirmed Enemy
+</td>
+</tr><tr>
+<td>-4</td><td>Enemy of Progress
+</td>
+</tr><tr>
+<td>-5</td><td>Enemy of Jonferson</td>
+</tr>
+</table>
+<p><br />
+</p>
+</td>
+<td>
+<h3> <span class="mw-headline" id="NMMC"><a href="/index.php/NMMC" title="NMMC">NMMC</a></span></h3>
+<table style="background-color:WhiteSmoke;text-align:right;">
+<tr>
+<td>10</td><td rowspan="16">&#160; &#160; </td><td>Hero of Profit
+</td>
+</tr><tr>
+<td>9</td><td>Profit Overlord
+</td>
+</tr><tr>
+<td>8</td><td>PTNI Shareholder
+</td>
+</tr><tr>
+<td>7</td><td>Nividium Specialist
+</td>
+</tr><tr>
+<td>6</td><td>Professional Nividium Broker
+</td>
+</tr><tr>
+<td>5</td><td>Nividium Broker
+</td>
+</tr><tr>
+<td>4</td><td>Mineral Specialist
+</td>
+</tr><tr>
+<td>3</td><td>Professional Supplier
+</td>
+</tr><tr>
+<td>2</td><td>Confirmed Supplier
+</td>
+</tr><tr>
+<td>1</td><td>Contracted Trader
+</td>
+</tr><tr>
+<td>0</td><td>Friend
+</td>
+</tr><tr>
+<td>-1</td><td>Trade Nuisance
+</td>
+</tr><tr>
+<td>-2</td><td>Mining Disruption
+</td>
+</tr><tr>
+<td>-3</td><td>Kha'ak Sympathiser
+</td>
+</tr><tr>
+<td>-4</td><td>Enemy of Nividium
+</td>
+</tr><tr>
+<td>-5</td><td>Enemy of PTNI</td>
+</tr>
+</table>
+<p><br />
+</p>
+</td>
+<td>
+<h3> <span class="mw-headline" id="OTAS"><a href="/index.php/OTAS" title="OTAS">OTAS</a></span></h3>
+<table style="background-color:WhiteSmoke;text-align:right;">
+<tr>
+<td>10</td><td rowspan="16">&#160; &#160; </td><td>OTAS Legend
+</td>
+</tr><tr>
+<td>9</td><td>OTAS Hero
+</td>
+</tr><tr>
+<td>8</td><td>OTAS Guardian
+</td>
+</tr><tr>
+<td>7</td><td>OTAS Master Chief
+</td>
+</tr><tr>
+<td>6</td><td>Combat Expert
+</td>
+</tr><tr>
+<td>5</td><td>Combat Field Agent
+</td>
+</tr><tr>
+<td>4</td><td>Armaments Professional
+</td>
+</tr><tr>
+<td>3</td><td>Security Specialist
+</td>
+</tr><tr>
+<td>2</td><td>Combat Support
+</td>
+</tr><tr>
+<td>1</td><td>Hired Security
+</td>
+</tr><tr>
+<td>0</td><td>Contracted
+</td>
+</tr><tr>
+<td>-1</td><td>Suspected Security Breach
+</td>
+</tr><tr>
+<td>-2</td><td>Known Antagonist
+</td>
+</tr><tr>
+<td>-3</td><td>Confirmed Enemy
+</td>
+</tr><tr>
+<td>-4</td><td>Confirmed Insurgent
+</td>
+</tr><tr>
+<td>-5</td><td>Enemy of OTAS</td>
+</tr>
+</table>
+<p><br />
+</p>
+</td>
+<td>
+<h3> <span class="mw-headline" id="Plutarch"><a href="/index.php/Plutarch" title="Plutarch">Plutarch</a></span></h3>
+<table style="background-color:WhiteSmoke;text-align:right;">
+<tr>
+<td>10</td><td rowspan="16">&#160; &#160; </td><td>Industrialist Legend
+</td>
+</tr><tr>
+<td>9</td><td>Trade Guardian
+</td>
+</tr><tr>
+<td>8</td><td>Plutarch Shareholder
+</td>
+</tr><tr>
+<td>7</td><td>Merchant Protector
+</td>
+</tr><tr>
+<td>6</td><td>Transportation Specialist
+</td>
+</tr><tr>
+<td>5</td><td>Merchant Miner
+</td>
+</tr><tr>
+<td>4</td><td>Mineral Specialist
+</td>
+</tr><tr>
+<td>3</td><td>Professional Supplier
+</td>
+</tr><tr>
+<td>2</td><td>Confirmed Supplier
+</td>
+</tr><tr>
+<td>1</td><td>Hired Trader
+</td>
+</tr><tr>
+<td>0</td><td>Potential Contact
+</td>
+</tr><tr>
+<td>-1</td><td>Nuisance
+</td>
+</tr><tr>
+<td>-2</td><td>Disruption
+</td>
+</tr><tr>
+<td>-3</td><td>Confirmed Enemy
+</td>
+</tr><tr>
+<td>-4</td><td>Enemy of Free Trade
+</td>
+</tr><tr>
+<td>-5</td><td>Enemy of Plutarch</td>
+</tr>
+</table>
+<p><br />
+</p>
+</td></tr>
+<tr style="vertical-align:top;">
+<td>
+<h3> <span class="mw-headline" id="Strongarms"><a href="/index.php/Strongarms" title="Strongarms" class="mw-redirect">Strongarms</a></span></h3>
+<table style="background-color:WhiteSmoke;text-align:right;">
+<tr>
+<td>10</td><td rowspan="16">&#160; &#160; </td><td>Honoured Strong Arms Legend
+</td>
+</tr><tr>
+<td>9</td><td>Imperator of Strong Arms
+</td>
+</tr><tr>
+<td>8</td><td>Strong Arms' Battlemaster
+</td>
+</tr><tr>
+<td>7</td><td>Strong Arms' Protector
+</td>
+</tr><tr>
+<td>6</td><td>Strong Arms' Assassin
+</td>
+</tr><tr>
+<td>5</td><td>Warrior Specialist
+</td>
+</tr><tr>
+<td>4</td><td>Warrior
+</td>
+</tr><tr>
+<td>3</td><td>Combat Support
+</td>
+</tr><tr>
+<td>2</td><td>Associate
+</td>
+</tr><tr>
+<td>1</td><td>Accomplice
+</td>
+</tr><tr>
+<td>0</td><td>Friend
+</td>
+</tr><tr>
+<td>-1</td><td>Outcast
+</td>
+</tr><tr>
+<td>-2</td><td>Combat Nuisance
+</td>
+</tr><tr>
+<td>-3</td><td>Confirmed Enemy
+</td>
+</tr><tr>
+<td>-4</td><td>Enemy Warrior
+</td>
+</tr><tr>
+<td>-5</td><td>Enemy of Strong Arms</td>
+</tr>
+</table>
+<p><br />
+</p>
+</td>
+<td>
+<h3> <span class="mw-headline" id="Terracorp"><a href="/index.php/Terracorp" title="Terracorp">Terracorp</a></span></h3>
+<table style="background-color:WhiteSmoke;text-align:right;">
+<tr>
+<td>10</td><td rowspan="16">&#160; &#160; </td><td>Terracorp Legend
+</td>
+</tr><tr>
+<td>9</td><td>Kho's Hero
+</td>
+</tr><tr>
+<td>8</td><td>Crusader of Getsu Fune
+</td>
+</tr><tr>
+<td>7</td><td>Security Master Chief
+</td>
+</tr><tr>
+<td>6</td><td>Terracorp Protection Specialist
+</td>
+</tr><tr>
+<td>5</td><td>Terracorp Protection Agent
+</td>
+</tr><tr>
+<td>4</td><td>Terracorp Professional
+</td>
+</tr><tr>
+<td>3</td><td>Security Specialist
+</td>
+</tr><tr>
+<td>2</td><td>Combat Support
+</td>
+</tr><tr>
+<td>1</td><td>Hired Protection
+</td>
+</tr><tr>
+<td>0</td><td>Contracted
+</td>
+</tr><tr>
+<td>-1</td><td>Potential Security Breach
+</td>
+</tr><tr>
+<td>-2</td><td>Suspected Enemy
+</td>
+</tr><tr>
+<td>-3</td><td>Confirmed Antagonist
+</td>
+</tr><tr>
+<td>-4</td><td>Confirmed Insurgent
+</td>
+</tr><tr>
+<td>-5</td><td>Enemy of Terracorp</td>
+</tr>
+</table>
+<p><br />
+</p>
+</td>
+<td>
+<h3> <span class="mw-headline" id="Operation:_Final_Fury"><a href="/index.php/Operation:_Final_Fury" title="Operation: Final Fury">Operation: Final Fury</a></span></h3>
+<table style="background-color:WhiteSmoke;text-align:right;">
+<tr>
+<td>10</td><td rowspan="16">&#160; &#160; </td><td>General
+</td>
+</tr><tr>
+<td>9</td><td>Colonel
+</td>
+</tr><tr>
+<td>8</td><td>Major
+</td>
+</tr><tr>
+<td>7</td><td>Captain
+</td>
+</tr><tr>
+<td>6</td><td>Lieutenant
+</td>
+</tr><tr>
+<td>5</td><td>Second Lieutenant
+</td>
+</tr><tr>
+<td>4</td><td>Ensign
+</td>
+</tr><tr>
+<td>3</td><td>Flight Sergeant
+</td>
+</tr><tr>
+<td>2</td><td>Specialist
+</td>
+</tr><tr>
+<td>1</td><td>Trainee
+</td>
+</tr><tr>
+<td>0</td><td>Recruit
+</td>
+</tr><tr>
+<td>-1</td><td>Disciplinary Lv1
+</td>
+</tr><tr>
+<td>-2</td><td>Disciplinary Lv2
+</td>
+</tr><tr>
+<td>-3</td><td>Disciplinary Lv3
+</td>
+</tr><tr>
+<td>-4</td><td>Expelled
+</td>
+</tr><tr>
+<td>-5</td><td>Enemy</td>
+</tr>
+</table>
+</td></tr></table>
+<p><br />
+</p><p><sup>*</sup> Note:The Pirates and Yaki both use the same setup of notoriety ranks as other races, however these are not viewable in game and therefore have no name.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 761/1000000
+Post-expand include size: 15377/2097152 bytes
+Template argument size: 4685/2097152 bytes
+Expensive parser function count: 0/100
+-->
+<div class="printfooter">
+Retrieved from "<a href="http://www.x3wiki.com/index.php/Reputation">http://www.x3wiki.com/index.php/Reputation</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				 <li id="ca-nstab-main" class="selected"><a href="/index.php/Reputation" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/index.php?title=Talk:Reputation&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/index.php?title=Reputation&amp;action=edit&amp;oldid=5177" title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/index.php?title=Reputation&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="/index.php/User:174.129.228.67" title="The user page for the IP address you are editing as [.]" accesskey="." class="new">174.129.228.67</a></li>
+				<li id="pt-anontalk"><a href="/index.php/User_talk:174.129.228.67" title="Discussion about edits from this IP address [n]" accesskey="n" class="new">Talk for this IP address</a></li>
+				<li id="pt-anonlogin"><a href="/index.php?title=Special:UserLogin&amp;returnto=Reputation&amp;returntoquery=oldid%3D5177" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(http://www.x3wiki.com/x3.jpg);" href="/index.php/Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/index.php/Help:Contents" title="The place to find out">Help</a></li>
+				<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class='generated-sidebar portlet' id='p-X3_Terran_Conflict'>
+		<h5>X3 Terran Conflict</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+				<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+				<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+				<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+				<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+				<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+				<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+				<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+				<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+				<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+				<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class='generated-sidebar portlet' id='p-Links'>
+		<h5>Links</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-MMOServerstatus-.5BEN.5D"><a href="http://www.mmoserverstatus.com">MMOServerstatus [EN]</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search X3 Wiki" accesskey="f" type="search" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&#160;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Reputation" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Reputation" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/index.php?title=Reputation&amp;oldid=5177&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/index.php?title=Reputation&amp;oldid=5177" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="http://www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+		<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li><li><a href='http://installatron.com/apps/mediawiki' target='_blank' title='MediaWiki auto-installer and auto-upgrade service'>Installed by Installatron</a></li>
+	</ul>
+</div>
+</div>
+
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook&amp;*"></script>
+<script>if ( window.mediaWiki ) {
+	mediaWiki.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Reputation", "wgTitle": "Reputation", "wgAction": "view", "wgArticleId": 254, "wgIsArticle": true, "wgUserName": null, "wgUserGroups": ["*"], "wgCurRevisionId": 7099, "wgCategories": [], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": []});
+}
+</script>
+<script>if ( window.mediaWiki ) {
+	mediaWiki.loader.load(["mediawiki.util", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+	mediaWiki.loader.go();
+}
+</script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-265105-19");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<script>if ( window.mediaWiki ) {
+	mediaWiki.user.options.set({"ccmeonemails":0,"cols":80,"contextchars":50,"contextlines":5,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"monobook","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,
+	"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mediaWiki.loader.state({"user.options":"ready"});
+}
+</script><!-- Served in 0.426 secs. --></body></html>

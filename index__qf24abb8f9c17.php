@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>Revision history of "M4" - X3 Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"M4","wgTitle":"M4","wgCurRevisionId":16421,"wgRevisionId":0,"wgArticleId":68,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"history","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"M4","wgRelevantArticleId":68,"wgRequestId":"Wh6201kfZokAAFp@6NYAAAAF","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.history","mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.feedlink%2Chelplink%2CsectionAnchor%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<!--[if IE 6]><link rel="stylesheet" href="/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]-->
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=M4&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/index.php?title=M4&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://www.x3wiki.com/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="&quot;M4&quot; Atom feed" href="/index.php?title=M4&amp;feed=atom&amp;action=history"/>
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-M4 rootpage-M4 skin-monobook action-history">
+<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+									<div id="siteNotice"><!-- centralNotice loads here --></div>
+				<div class="mw-indicators">
+<div id="mw-indicator-mw-helplink" class="mw-indicator"><a href="//meta.wikimedia.org/wiki/Special:MyLanguage/Help:Page_history" target="_blank" class="mw-helplink">Help</a></div>
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7526491584299412",
+    enable_page_level_ads: true
+  });
+</script>
+
+<!-- X3 wiki -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7526491584299412"
+     data-ad-slot="4173455889"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+				<h1 id="firstHeading" class="firstHeading" lang="en">Revision history of "M4"</h1>
+				
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From X3 Wiki</div>
+					<div id="contentSub"><a href="/index.php?title=Special:Log&amp;page=M4" title="Special:Log">View logs for this page</a></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text"><form action="/index.php" method="get" id="mw-history-searchform"><fieldset id="mw-history-search">
+<legend>Browse history</legend>
+<input type="hidden" value="M4" name="title"/>
+<input type="hidden" value="history" name="action"/>
+<label for="year">From year (and earlier):</label> <input id="year" maxlength="4" size="7" type="number" value="2017" name="year"/> <label for="month">From month (and earlier):</label> <select name="month" id="month" class="mw-month-selector"><option value="-1">all</option>
+<option value="1">January</option>
+<option value="2">February</option>
+<option value="3">March</option>
+<option value="4">April</option>
+<option value="5">May</option>
+<option value="6">June</option>
+<option value="7">July</option>
+<option value="8">August</option>
+<option value="9">September</option>
+<option value="10">October</option>
+<option value="11">November</option>
+<option value="12">December</option></select>&#160;<input type="submit" value="Show"/>
+</fieldset></form><div class="mw-history-legend">
+<p>Diff selection: Mark the radio boxes of the revisions to compare and hit enter or the button at the bottom.<br />
+Legend: <strong>(cur)</strong> = difference with latest revision, <strong>(prev)</strong> = difference with preceding revision, <strong>m</strong> = minor edit.
+</p>
+</div>
+<form action="/index.php" id="mw-history-compare">
+<input type="hidden" value="M4" name="title"/>
+<input type="hidden" value="historysubmit" name="action"/>
+<input type="hidden" value="revision" name="type"/>
+<div><input class="historysubmit mw-history-compareselectedversions-button" title="See the differences between the two selected revisions of this page [v]" accesskey="v" type="submit" value="Compare selected revisions"/>
+</div><ul id="pagehistory">
+<li><span class="mw-history-histlinks">(cur | <a href="/index.php?title=M4&amp;diff=16421&amp;oldid=16358" title="M4">prev</a>)</span><input type="radio" value="16421" style="visibility:hidden" name="oldid" id="mw-oldid-null" /><input type="radio" value="16421" checked="checked" name="diff" id="mw-diff-16421" /> <a href="/index.php?title=M4&amp;oldid=16421" title="M4" class="mw-changeslist-date">03:07, 25 August 2014</a>‎ <span class='history-user'><a href="/index.php?title=User:Osarakman88&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Osarakman88 (page does not exist)">Osarakman88</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Osarakman88&amp;action=edit&amp;redlink=1" class="new" title="User talk:Osarakman88 (page does not exist)">talk</a> | <a href="/index.php/Special:Contributions/Osarakman88" title="Special:Contributions/Osarakman88">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,010 bytes)</span> <span dir="ltr" class="mw-plusminus-null" title="3,010 bytes after change">(0)</span>‎ <span class="mw-changeslist-separator">. .</span>  (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=16358&amp;undo=16421" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=16358" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=16358&amp;oldid=13013" title="M4">prev</a>)</span><input type="radio" value="16358" checked="checked" name="oldid" id="mw-oldid-16358" /><input type="radio" value="16358" name="diff" id="mw-diff-16358" /> <a href="/index.php?title=M4&amp;oldid=16358" title="M4" class="mw-changeslist-date">10:12, 27 July 2014</a>‎ <span class='history-user'><a href="/index.php/Special:Contributions/149.172.210.55" title="Special:Contributions/149.172.210.55" class="mw-userlink mw-anonuserlink">149.172.210.55</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:149.172.210.55&amp;action=edit&amp;redlink=1" class="new" title="User talk:149.172.210.55 (page does not exist)">talk</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,010 bytes)</span> <span dir="ltr" class="mw-plusminus-null" title="3,010 bytes after change">(0)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/M4#Sortable_List" title="M4">→</a>‎<span dir="auto"><span class="autocomment">Sortable List</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=13013&amp;undo=16358" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=13013" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=13013&amp;oldid=12831" title="M4">prev</a>)</span><input type="radio" value="13013" name="oldid" id="mw-oldid-13013" /><input type="radio" value="13013" name="diff" id="mw-diff-13013" /> <a href="/index.php?title=M4&amp;oldid=13013" title="M4" class="mw-changeslist-date">22:03, 2 July 2013</a>‎ <span class='history-user'><a href="/index.php?title=User:Thedataking&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Thedataking (page does not exist)">Thedataking</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Thedataking&amp;action=edit&amp;redlink=1" class="new" title="User talk:Thedataking (page does not exist)">talk</a> | <a href="/index.php/Special:Contributions/Thedataking" title="Special:Contributions/Thedataking">contribs</a>)</span></span>‎ <abbr class="minoredit" title="This is a minor edit">m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,010 bytes)</span> <span dir="ltr" class="mw-plusminus-neg" title="3,010 bytes after change">(-24)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/M4#Sortable_List" title="M4">→</a>‎<span dir="auto"><span class="autocomment">Sortable List</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=12831&amp;undo=13013" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=12831" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=12831&amp;oldid=12830" title="M4">prev</a>)</span><input type="radio" value="12831" name="oldid" id="mw-oldid-12831" /><input type="radio" value="12831" name="diff" id="mw-diff-12831" /> <a href="/index.php?title=M4&amp;oldid=12831" title="M4" class="mw-changeslist-date">14:32, 11 June 2013</a>‎ <span class='history-user'><a href="/index.php/User:Gene" title="User:Gene" class="mw-userlink">Gene</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Gene" title="User talk:Gene">talk</a> | <a href="/index.php/Special:Contributions/Gene" title="Special:Contributions/Gene">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,034 bytes)</span> <span dir="ltr" class="mw-plusminus-null" title="3,034 bytes after change">(0)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(order list alphabetically by race)</span> (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=12830&amp;undo=12831" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=12830" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=12830&amp;oldid=12810" title="M4">prev</a>)</span><input type="radio" value="12830" name="oldid" id="mw-oldid-12830" /><input type="radio" value="12830" name="diff" id="mw-diff-12830" /> <a href="/index.php?title=M4&amp;oldid=12830" title="M4" class="mw-changeslist-date">14:32, 11 June 2013</a>‎ <span class='history-user'><a href="/index.php/User:Gene" title="User:Gene" class="mw-userlink">Gene</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Gene" title="User talk:Gene">talk</a> | <a href="/index.php/Special:Contributions/Gene" title="Special:Contributions/Gene">contribs</a>)</span></span>‎ <abbr class="minoredit" title="This is a minor edit">m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,034 bytes)</span> <span dir="ltr" class="mw-plusminus-null" title="3,034 bytes after change">(0)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(order list alphabetically by race)</span> (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=12810&amp;undo=12830" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=12810" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=12810&amp;oldid=12556" title="M4">prev</a>)</span><input type="radio" value="12810" name="oldid" id="mw-oldid-12810" /><input type="radio" value="12810" name="diff" id="mw-diff-12810" /> <a href="/index.php?title=M4&amp;oldid=12810" title="M4" class="mw-changeslist-date">13:50, 11 June 2013</a>‎ <span class='history-user'><a href="/index.php/User:Gene" title="User:Gene" class="mw-userlink">Gene</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Gene" title="User talk:Gene">talk</a> | <a href="/index.php/Special:Contributions/Gene" title="Special:Contributions/Gene">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,034 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,034 bytes after change">(+7)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(consistent header)</span> (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=12556&amp;undo=12810" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=12556" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=12556&amp;oldid=12547" title="M4">prev</a>)</span><input type="radio" value="12556" name="oldid" id="mw-oldid-12556" /><input type="radio" value="12556" name="diff" id="mw-diff-12556" /> <a href="/index.php?title=M4&amp;oldid=12556" title="M4" class="mw-changeslist-date">09:46, 11 June 2013</a>‎ <span class='history-user'><a href="/index.php/User:Gene" title="User:Gene" class="mw-userlink">Gene</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Gene" title="User talk:Gene">talk</a> | <a href="/index.php/Special:Contributions/Gene" title="Special:Contributions/Gene">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,027 bytes)</span> <span dir="ltr" class="mw-plusminus-neg" title="3,027 bytes after change">(-333)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(remove redundant list that is already present on page twice (in table as well as template). less repetition means easier to read and maintain)</span> (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=12547&amp;undo=12556" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=12547" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=12547&amp;oldid=12546" title="M4">prev</a>)</span><input type="radio" value="12547" name="oldid" id="mw-oldid-12547" /><input type="radio" value="12547" name="diff" id="mw-diff-12547" /> <a href="/index.php?title=M4&amp;oldid=12547" title="M4" class="mw-changeslist-date">09:37, 11 June 2013</a>‎ <span class='history-user'><a href="/index.php/User:Gene" title="User:Gene" class="mw-userlink">Gene</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Gene" title="User talk:Gene">talk</a> | <a href="/index.php/Special:Contributions/Gene" title="Special:Contributions/Gene">contribs</a>)</span></span>‎ <abbr class="minoredit" title="This is a minor edit">m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,360 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,360 bytes after change">(+16)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(see also)</span> (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=12546&amp;undo=12547" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=12546" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=12546&amp;oldid=12529" title="M4">prev</a>)</span><input type="radio" value="12546" name="oldid" id="mw-oldid-12546" /><input type="radio" value="12546" name="diff" id="mw-diff-12546" /> <a href="/index.php?title=M4&amp;oldid=12546" title="M4" class="mw-changeslist-date">09:36, 11 June 2013</a>‎ <span class='history-user'><a href="/index.php/User:Gene" title="User:Gene" class="mw-userlink">Gene</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Gene" title="User talk:Gene">talk</a> | <a href="/index.php/Special:Contributions/Gene" title="Special:Contributions/Gene">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,344 bytes)</span> <span dir="ltr" class="mw-plusminus-neg" title="3,344 bytes after change">(-19)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(using M4 template)</span> (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=12529&amp;undo=12546" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=12529" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=12529&amp;oldid=12527" title="M4">prev</a>)</span><input type="radio" value="12529" name="oldid" id="mw-oldid-12529" /><input type="radio" value="12529" name="diff" id="mw-diff-12529" /> <a href="/index.php?title=M4&amp;oldid=12529" title="M4" class="mw-changeslist-date">04:24, 11 June 2013</a>‎ <span class='history-user'><a href="/index.php/User:Gene" title="User:Gene" class="mw-userlink">Gene</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Gene" title="User talk:Gene">talk</a> | <a href="/index.php/Special:Contributions/Gene" title="Special:Contributions/Gene">contribs</a>)</span></span>‎ <abbr class="minoredit" title="This is a minor edit">m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,363 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,363 bytes after change">(+27)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(prominent link to class counterpart)</span> (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=12527&amp;undo=12529" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=12527" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=12527&amp;oldid=12526" title="M4">prev</a>)</span><input type="radio" value="12527" name="oldid" id="mw-oldid-12527" /><input type="radio" value="12527" name="diff" id="mw-diff-12527" /> <a href="/index.php?title=M4&amp;oldid=12527" title="M4" class="mw-changeslist-date">04:22, 11 June 2013</a>‎ <span class='history-user'><a href="/index.php/User:Gene" title="User:Gene" class="mw-userlink">Gene</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Gene" title="User talk:Gene">talk</a> | <a href="/index.php/Special:Contributions/Gene" title="Special:Contributions/Gene">contribs</a>)</span></span>‎ <abbr class="minoredit" title="This is a minor edit">m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,336 bytes)</span> <span dir="ltr" class="mw-plusminus-null" title="3,336 bytes after change">(0)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(fix typo)</span> (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=12526&amp;undo=12527" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=12526" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=12526&amp;oldid=12163" title="M4">prev</a>)</span><input type="radio" value="12526" name="oldid" id="mw-oldid-12526" /><input type="radio" value="12526" name="diff" id="mw-diff-12526" /> <a href="/index.php?title=M4&amp;oldid=12526" title="M4" class="mw-changeslist-date">04:22, 11 June 2013</a>‎ <span class='history-user'><a href="/index.php/User:Gene" title="User:Gene" class="mw-userlink">Gene</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Gene" title="User talk:Gene">talk</a> | <a href="/index.php/Special:Contributions/Gene" title="Special:Contributions/Gene">contribs</a>)</span></span>‎ <abbr class="minoredit" title="This is a minor edit">m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,336 bytes)</span> <span dir="ltr" class="mw-plusminus-null" title="3,336 bytes after change">(0)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(order list alphabetically)</span> (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=12163&amp;undo=12526" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=12163" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=12163&amp;oldid=12158" title="M4">prev</a>)</span><input type="radio" value="12163" name="oldid" id="mw-oldid-12163" /><input type="radio" value="12163" name="diff" id="mw-diff-12163" /> <a href="/index.php?title=M4&amp;oldid=12163" title="M4" class="mw-changeslist-date">13:59, 31 May 2013</a>‎ <span class='history-user'><a href="/index.php/User:EterniaLogic" title="User:EterniaLogic" class="mw-userlink">EterniaLogic</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:EterniaLogic" title="User talk:EterniaLogic">talk</a> | <a href="/index.php/Special:Contributions/EterniaLogic" title="Special:Contributions/EterniaLogic">contribs</a>)</span></span>‎ <abbr class="minoredit" title="This is a minor edit">m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,336 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,336 bytes after change">(+10)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/M4#Sortable_List" title="M4">→</a>‎<span dir="auto"><span class="autocomment">Sortable List</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=12158&amp;undo=12163" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=12158" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=12158&amp;oldid=9612" title="M4">prev</a>)</span><input type="radio" value="12158" name="oldid" id="mw-oldid-12158" /><input type="radio" value="12158" name="diff" id="mw-diff-12158" /> <a href="/index.php?title=M4&amp;oldid=12158" title="M4" class="mw-changeslist-date">04:09, 31 May 2013</a>‎ <span class='history-user'><a href="/index.php?title=User:Red_Asphalt&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Red Asphalt (page does not exist)">Red Asphalt</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Red_Asphalt&amp;action=edit&amp;redlink=1" class="new" title="User talk:Red Asphalt (page does not exist)">talk</a> | <a href="/index.php/Special:Contributions/Red_Asphalt" title="Special:Contributions/Red Asphalt">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,326 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,326 bytes after change">(+286)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/M4#Sortable_list" title="M4">→</a>‎<span dir="auto"><span class="autocomment">Sortable list: </span> Changed sort options to support commas in numbers</span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=9612&amp;undo=12158" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=9612" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=9612&amp;oldid=9590" title="M4">prev</a>)</span><input type="radio" value="9612" name="oldid" id="mw-oldid-9612" /><input type="radio" value="9612" name="diff" id="mw-diff-9612" /> <a href="/index.php?title=M4&amp;oldid=9612" title="M4" class="mw-changeslist-date">22:26, 1 October 2012</a>‎ <span class='history-user'><a href="/index.php/User:Skald359" title="User:Skald359" class="mw-userlink">Skald359</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Skald359&amp;action=edit&amp;redlink=1" class="new" title="User talk:Skald359 (page does not exist)">talk</a> | <a href="/index.php/Special:Contributions/Skald359" title="Special:Contributions/Skald359">contribs</a>)</span></span>‎ <abbr class="minoredit" title="This is a minor edit">m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,040 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,040 bytes after change">(+4)</span>‎ <span class="mw-changeslist-separator">. .</span>  (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=9590&amp;undo=9612" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=9590" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=9590&amp;oldid=9240" title="M4">prev</a>)</span><input type="radio" value="9590" name="oldid" id="mw-oldid-9590" /><input type="radio" value="9590" name="diff" id="mw-diff-9590" /> <a href="/index.php?title=M4&amp;oldid=9590" title="M4" class="mw-changeslist-date">16:51, 13 September 2012</a>‎ <span class='history-user'><a href="/index.php?title=User:Rocket_Taco&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Rocket Taco (page does not exist)">Rocket Taco</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Rocket_Taco&amp;action=edit&amp;redlink=1" class="new" title="User talk:Rocket Taco (page does not exist)">talk</a> | <a href="/index.php/Special:Contributions/Rocket_Taco" title="Special:Contributions/Rocket Taco">contribs</a>)</span></span>‎ <abbr class="minoredit" title="This is a minor edit">m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,036 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,036 bytes after change">(+10)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(Fixed #deca.deaf link)</span> (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=9240&amp;undo=9590" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=9240" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=9240&amp;oldid=8796" title="M4">prev</a>)</span><input type="radio" value="9240" name="oldid" id="mw-oldid-9240" /><input type="radio" value="9240" name="diff" id="mw-diff-9240" /> <a href="/index.php?title=M4&amp;oldid=9240" title="M4" class="mw-changeslist-date">22:25, 20 May 2012</a>‎ <span class='history-user'><a href="/index.php?title=User:Thedataking&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Thedataking (page does not exist)">Thedataking</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Thedataking&amp;action=edit&amp;redlink=1" class="new" title="User talk:Thedataking (page does not exist)">talk</a> | <a href="/index.php/Special:Contributions/Thedataking" title="Special:Contributions/Thedataking">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,026 bytes)</span> <strong dir="ltr" class="mw-plusminus-pos" title="3,026 bytes after change">(+1,999)</strong>‎ <span class="mw-changeslist-separator">. .</span>  (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=8796&amp;undo=9240" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=8796" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=8796&amp;oldid=7021" title="M4">prev</a>)</span><input type="radio" value="8796" name="oldid" id="mw-oldid-8796" /><input type="radio" value="8796" name="diff" id="mw-diff-8796" /> <a href="/index.php?title=M4&amp;oldid=8796" title="M4" class="mw-changeslist-date">01:26, 29 February 2012</a>‎ <span class='history-user'><a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></span>‎ <abbr class="minoredit" title="This is a minor edit">m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(1,027 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="1,027 bytes after change">(+2)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(this is why switching xenon (letter) to (letter) sucks)</span> (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=7021&amp;undo=8796" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=7021" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=7021&amp;oldid=2122" title="M4">prev</a>)</span><input type="radio" value="7021" name="oldid" id="mw-oldid-7021" /><input type="radio" value="7021" name="diff" id="mw-diff-7021" /> <a href="/index.php?title=M4&amp;oldid=7021" title="M4" class="mw-changeslist-date">19:39, 17 August 2011</a>‎ <span class='history-user'><a href="/index.php?title=User:Aerozap&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Aerozap (page does not exist)">Aerozap</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Aerozap&amp;action=edit&amp;redlink=1" class="new" title="User talk:Aerozap (page does not exist)">talk</a> | <a href="/index.php/Special:Contributions/Aerozap" title="Special:Contributions/Aerozap">contribs</a>)</span></span>‎ <abbr class="minoredit" title="This is a minor edit">m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(1,025 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="1,025 bytes after change">(+22)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(Added OTAS Eurus to list; despite its inaccessability by the player, it is flown by AI pilots in-game)</span> (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=2122&amp;undo=7021" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=2122" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=2122&amp;oldid=1974" title="M4">prev</a>)</span><input type="radio" value="2122" name="oldid" id="mw-oldid-2122" /><input type="radio" value="2122" name="diff" id="mw-diff-2122" /> <a href="/index.php?title=M4&amp;oldid=2122" title="M4" class="mw-changeslist-date">11:48, 6 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Spychotic" title="User:Spychotic" class="mw-userlink">Spychotic</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Spychotic" title="User talk:Spychotic">talk</a> | <a href="/index.php/Special:Contributions/Spychotic" title="Special:Contributions/Spychotic">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(1,003 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="1,003 bytes after change">(+192)</span>‎ <span class="mw-changeslist-separator">. .</span>  (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=1974&amp;undo=2122" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=1974" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=1974&amp;oldid=450" title="M4">prev</a>)</span><input type="radio" value="1974" name="oldid" id="mw-oldid-1974" /><input type="radio" value="1974" name="diff" id="mw-diff-1974" /> <a href="/index.php?title=M4&amp;oldid=1974" title="M4" class="mw-changeslist-date">19:29, 4 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(811 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="811 bytes after change">(+34)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(fighter category sortkey)</span> (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=450&amp;undo=1974" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=450" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=450&amp;oldid=214" title="M4">prev</a>)</span><input type="radio" value="450" name="oldid" id="mw-oldid-450" /><input type="radio" value="450" name="diff" id="mw-diff-450" /> <a href="/index.php?title=M4&amp;oldid=450" title="M4" class="mw-changeslist-date">20:23, 24 June 2010</a>‎ <span class='history-user'><a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(777 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="777 bytes after change">(+16)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(category)</span> (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=214&amp;undo=450" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=214" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=214&amp;oldid=213" title="M4">prev</a>)</span><input type="radio" value="214" name="oldid" id="mw-oldid-214" /><input type="radio" value="214" name="diff" id="mw-diff-214" /> <a href="/index.php?title=M4&amp;oldid=214" title="M4" class="mw-changeslist-date">19:12, 23 June 2010</a>‎ <span class='history-user'><a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></span>‎ <abbr class="minoredit" title="This is a minor edit">m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(761 bytes)</span> <span dir="ltr" class="mw-plusminus-neg" title="761 bytes after change">(-1)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(fixing same link)</span> (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=213&amp;undo=214" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=213" title="M4">cur</a> | <a href="/index.php?title=M4&amp;diff=213&amp;oldid=212" title="M4">prev</a>)</span><input type="radio" value="213" name="oldid" id="mw-oldid-213" /><input type="radio" value="213" name="diff" id="mw-diff-213" /> <a href="/index.php?title=M4&amp;oldid=213" title="M4" class="mw-changeslist-date">19:12, 23 June 2010</a>‎ <span class='history-user'><a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></span>‎ <abbr class="minoredit" title="This is a minor edit">m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(762 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="762 bytes after change">(+1)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(fixlink)</span> (<span class="mw-history-undo"><a href="/index.php?title=M4&amp;action=edit&amp;undoafter=212&amp;undo=213" title="M4">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=M4&amp;diff=16421&amp;oldid=212" title="M4">cur</a> | prev)</span><input type="radio" value="212" name="oldid" id="mw-oldid-212" /><input type="radio" value="212" name="diff" id="mw-diff-212" /> <a href="/index.php?title=M4&amp;oldid=212" title="M4" class="mw-changeslist-date">19:12, 23 June 2010</a>‎ <span class='history-user'><a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(761 bytes)</span> <strong dir="ltr" class="mw-plusminus-pos" title="761 bytes after change">(+761)</strong>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(restore from cache)</span></li>
+</ul>
+<div><input class="historysubmit mw-history-compareselectedversions-button" title="See the differences between the two selected revisions of this page [v]" accesskey="v" type="submit" value="Compare selected revisions"/>
+</div></form></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://www.x3wiki.com/index.php/M4">http://www.x3wiki.com/index.php/M4</a>"</div>
+					<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+			</div>
+		</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/index.php/M4" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/index.php?title=Talk:M4&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit"><a href="/index.php?title=M4&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+				<li id="ca-history" class="selected"><a href="/index.php?title=M4&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+						<li id="pt-anonuserpage">Not logged in</li>							<li id="pt-anontalk"><a href="/index.php/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+													<li id="pt-anoncontribs"><a href="/index.php/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+													<li id="pt-createaccount"><a href="/index.php?title=Special:CreateAccount&amp;returnto=M4&amp;returntoquery=action%3Dhistory" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=M4&amp;returntoquery=action%3Dhistory" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/index.php/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+											<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>
+											<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict" role="navigation">
+		<h3>X3 Terran Conflict</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+											<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+											<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+											<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+											<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+											<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+											<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+											<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+											<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+											<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+											<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Links" role="navigation">
+		<h3>Links</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-MMO-Server-Status"><a href="http://www.mmoserverstatus.com">MMO Server Status</a></li>
+											<li id="n-Compare-Everglades-Tours"><a href="http://www.compare-everglades-tours.com">Compare Everglades Tours</a></li>
+											<li id="n-Pokemon-GO-Wiki"><a href="http://www.pokemon-go-wiki.com">Pokemon GO Wiki</a></li>
+											<li id="n-Harry-Potter-Wizards-Unite-Wiki"><a href="http://harrypotterwizardsunite.wiki">Harry Potter Wizards Unite Wiki</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/index.php" id="searchform">
+					<input type='hidden' name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/M4" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/M4" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="feedlinks"><a href="/index.php?title=M4&amp;feed=atom&amp;action=history" id="feed-atom" rel="alternate" type="application/atom+xml" class="feedlink" title="Atom feed for this page">Atom</a></li>
+											<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-info"><a href="/index.php?title=M4&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+			</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+									<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-265105-19', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":64});});</script></body></html>

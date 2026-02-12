@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>Category:Wares - X3 Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Category","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":14,"wgPageName":"Category:Wares","wgTitle":"Wares","wgCurRevisionId":1749,"wgRevisionId":1749,"wgArticleId":548,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Category:Wares","wgRelevantArticleId":548,"wgRequestId":"WS-mN1kfZokAACFBU84AAAAJ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.view.categoryPage.styles%7Cmediawiki.helplink%2CsectionAnchor%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;printable=1&amp;skin=monobook"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;printable=1&amp;skin=monobook"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<meta name="robots" content="noindex,follow"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Category:Wares&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/index.php?title=Category:Wares&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://www.x3wiki.com/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-14 ns-subject page-Category_Wares rootpage-Category_Wares skin-monobook action-view">
+<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+									<div id="siteNotice"><!-- centralNotice loads here --></div>
+				<div class="mw-indicators">
+<div id="mw-indicator-mw-helplink" class="mw-indicator"><a href="//www.mediawiki.org/wiki/Special:MyLanguage/Help:Categories" target="_blank" class="mw-helplink">Help</a></div>
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7526491584299412",
+    enable_page_level_ads: true
+  });
+</script>
+
+<!-- X3 wiki -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7526491584299412"
+     data-ad-slot="4173455889"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+				<h1 id="firstHeading" class="firstHeading" lang="en">Category:Wares</h1>
+				
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From X3 Wiki</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>This is page will list the various wares. It may become necessary to subdivide into sub-categories or use sortkeys.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20170531164814
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.001 seconds
+Real time usage: 0.001 seconds
+Preprocessor visited node count: 1/1000000
+Preprocessor generated node count: 4/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 1/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 - -total
+-->
+
+<!-- Saved in parser cache with key dailystunt_wiki:pcache:idhash:548-0!*!*!*!*!*!* and timestamp 20170531164814 and revision id 1749
+ -->
+<div class="mw-category-generated" lang="en" dir="ltr"><div id="mw-subcategories">
+<h2>Subcategories</h2>
+<p>This category has only the following subcategory.
+</p><div lang="en" dir="ltr" class="mw-content-ltr"><h3>S</h3>
+<ul><li><a href="/index.php/Category:Ship_equipment" title="Category:Ship equipment">Ship equipment</a></li></ul></div>
+</div><div id="mw-pages">
+<h2>Pages in category "Wares"</h2>
+<p>The following 67 pages are in this category, out of 67 total.
+</p><div lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-category"><div class="mw-category-group"><h3>A</h3>
+<ul><li><a href="/index.php/Argnu_Beef" title="Argnu Beef">Argnu Beef</a></li></ul></div><div class="mw-category-group"><h3>B</h3>
+<ul><li><a href="/index.php/Best_Buys_Locator" title="Best Buys Locator">Best Buys Locator</a></li>
+<li><a href="/index.php/Best_Selling_Price_Locator" title="Best Selling Price Locator">Best Selling Price Locator</a></li>
+<li><a href="/index.php/Bioscanner" title="Bioscanner">Bioscanner</a></li>
+<li><a href="/index.php/BoFu" title="BoFu">BoFu</a></li>
+<li><a href="/index.php/BoGas" title="BoGas">BoGas</a></li></ul></div><div class="mw-category-group"><h3>C</h3>
+<ul><li><a href="/index.php/C-Ration" title="C-Ration">C-Ration</a></li>
+<li><a href="/index.php/Carbo_Cake" title="Carbo Cake">Carbo Cake</a></li>
+<li><a href="/index.php/Cargo_Bay_Shielding" title="Cargo Bay Shielding">Cargo Bay Shielding</a></li>
+<li><a href="/index.php/Chelts_Meat" title="Chelts Meat">Chelts Meat</a></li>
+<li><a href="/index.php/Cloth_Rimes" title="Cloth Rimes">Cloth Rimes</a></li>
+<li><a href="/index.php/Computer_Components" title="Computer Components">Computer Components</a></li>
+<li><a href="/index.php/Crystals" title="Crystals">Crystals</a></li></ul></div><div class="mw-category-group"><h3>D</h3>
+<ul><li><a href="/index.php/Delexian_Wheat" title="Delexian Wheat">Delexian Wheat</a></li>
+<li><a href="/index.php/Disintegrator_Rifles" title="Disintegrator Rifles">Disintegrator Rifles</a></li></ul></div><div class="mw-category-group"><h3>E</h3>
+<ul><li><a href="/index.php/Energy_Cells" title="Energy Cells">Energy Cells</a></li>
+<li><a href="/index.php/Explorer_Command_Software" title="Explorer Command Software">Explorer Command Software</a></li></ul></div><div class="mw-category-group"><h3>F</h3>
+<ul><li><a href="/index.php/Fight_Command_Software" title="Fight Command Software">Fight Command Software</a></li>
+<li><a href="/index.php/Fighter_Drone" title="Fighter Drone">Fighter Drone</a></li>
+<li><a href="/index.php/Fighter_Drone_MKII" title="Fighter Drone MKII">Fighter Drone MKII</a></li>
+<li><a href="/index.php/Flavour_Pack" title="Flavour Pack">Flavour Pack</a></li>
+<li><a href="/index.php/Freight_Drone" title="Freight Drone">Freight Drone</a></li></ul></div><div class="mw-category-group"><h3>H</h3>
+<ul><li><a href="/index.php/Hull_Plating" title="Hull Plating">Hull Plating</a></li></ul></div><div class="mw-category-group"><h3>I</h3>
+<ul><li><a href="/index.php/Ice" title="Ice">Ice</a></li>
+<li><a href="/index.php/Ion_Mine" title="Ion Mine">Ion Mine</a></li></ul></div><div class="mw-category-group"><h3>K</h3>
+<ul><li><a href="/index.php/Keris" title="Keris">Keris</a></li></ul></div><div class="mw-category-group"><h3>L</h3>
+<ul><li><a href="/index.php/Lasertower" title="Lasertower">Lasertower</a></li>
+<li><a href="/index.php/Low-yield_Sidearms" title="Low-yield Sidearms">Low-yield Sidearms</a></li></ul></div><div class="mw-category-group"><h3>M</h3>
+<ul><li><a href="/index.php/Maja_Snails" title="Maja Snails">Maja Snails</a></li>
+<li><a href="/index.php/Majaglit" title="Majaglit">Majaglit</a></li>
+<li><a href="/index.php/Massom_Powder" title="Massom Powder">Massom Powder</a></li>
+<li><a href="/index.php/Matter/Anti-Matter_Mine" title="Matter/Anti-Matter Mine">Matter/Anti-Matter Mine</a></li>
+<li><a href="/index.php/Meatsteak_Cahoonas" title="Meatsteak Cahoonas">Meatsteak Cahoonas</a></li>
+<li><a href="/index.php/Microchips" title="Microchips">Microchips</a></li></ul></div><div class="mw-category-group"><h3>N</h3>
+<ul><li><a href="/index.php/Navigation_Command_Software" title="Navigation Command Software">Navigation Command Software</a></li>
+<li><a href="/index.php/Navigation_Relay_Satellite" title="Navigation Relay Satellite">Navigation Relay Satellite</a></li>
+<li><a href="/index.php/Nividium" title="Nividium">Nividium</a></li>
+<li><a href="/index.php/Nostrop_Oil" title="Nostrop Oil">Nostrop Oil</a></li></ul></div><div class="mw-category-group"><h3>O</h3>
+<ul><li><a href="/index.php/Ore" title="Ore">Ore</a></li></ul></div><div class="mw-category-group"><h3>P</h3>
+<ul><li><a href="/index.php/Patrol_Command_Software" title="Patrol Command Software">Patrol Command Software</a></li>
+<li><a href="/index.php/Plankton" title="Plankton">Plankton</a></li>
+<li><a href="/index.php/Protein_Paste" title="Protein Paste">Protein Paste</a></li></ul></div><div class="mw-category-group"><h3>Q</h3>
+<ul><li><a href="/index.php/Quantum_Tubes" title="Quantum Tubes">Quantum Tubes</a></li></ul></div><div class="mw-category-group"><h3>R</h3>
+<ul><li><a href="/index.php/Rastar_Oil" title="Rastar Oil">Rastar Oil</a></li>
+<li><a href="/index.php/Recon_Drone" title="Recon Drone">Recon Drone</a></li></ul></div><div class="mw-category-group"><h3>S</h3>
+<ul><li><a href="/index.php/Scruffin_Fruits" title="Scruffin Fruits">Scruffin Fruits</a></li>
+<li><a href="/index.php/Shields" title="Shields">Shields</a></li>
+<li><a href="/index.php/Silicon_Wafers" title="Silicon Wafers">Silicon Wafers</a></li>
+<li><a href="/index.php/Slaves" title="Slaves">Slaves</a></li>
+<li><a href="/index.php/Soja_Beans" title="Soja Beans">Soja Beans</a></li>
+<li><a href="/index.php/Soja_Husk" title="Soja Husk">Soja Husk</a></li>
+<li><a href="/index.php/Space_Fuel" title="Space Fuel">Space Fuel</a></li>
+<li><a href="/index.php/Space_Weed" title="Space Weed">Space Weed</a></li>
+<li><a href="/index.php/Spaceflies" title="Spaceflies">Spaceflies</a></li>
+<li><a href="/index.php/SQUASH_Mine" title="SQUASH Mine">SQUASH Mine</a></li>
+<li><a href="/index.php/Stott_Spices" title="Stott Spices">Stott Spices</a></li>
+<li><a href="/index.php/Sunrise_Flowers" title="Sunrise Flowers">Sunrise Flowers</a></li>
+<li><a href="/index.php/Supply_Command_Software" title="Supply Command Software">Supply Command Software</a></li>
+<li><a href="/index.php/Swamp_Plant" title="Swamp Plant">Swamp Plant</a></li></ul></div><div class="mw-category-group"><h3>T</h3>
+<ul><li><a href="/index.php/Teladianium" title="Teladianium">Teladianium</a></li>
+<li><a href="/index.php/Terran_EMP_Rifles" title="Terran EMP Rifles">Terran EMP Rifles</a></li>
+<li><a href="/index.php/Terran_MRE" title="Terran MRE">Terran MRE</a></li>
+<li><a href="/index.php/Tracker_Mine" title="Tracker Mine">Tracker Mine</a></li>
+<li><a href="/index.php/Trading_System_Extension" title="Trading System Extension">Trading System Extension</a></li></ul></div><div class="mw-category-group"><h3>V</h3>
+<ul><li><a href="/index.php/Vita_Kai" title="Vita Kai">Vita Kai</a></li></ul></div><div class="mw-category-group"><h3>W</h3>
+<ul><li><a href="/index.php/Warheads" title="Warheads">Warheads</a></li>
+<li><a href="/index.php/Water" title="Water">Water</a></li></ul></div></div></div>
+</div></div></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://www.x3wiki.com/index.php?title=Category:Wares&amp;oldid=1749">http://www.x3wiki.com/index.php?title=Category:Wares&amp;oldid=1749</a>"</div>
+					<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+			</div>
+		</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-category" class="selected"><a href="/index.php/Category:Wares" title="View the category page [c]" accesskey="c">Category</a></li>
+				<li id="ca-talk" class="new"><a href="/index.php?title=Category_talk:Wares&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit"><a href="/index.php?title=Category:Wares&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+				<li id="ca-history"><a href="/index.php?title=Category:Wares&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+						<li id="pt-anonuserpage">Not logged in</li>							<li id="pt-anontalk"><a href="/index.php/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+													<li id="pt-anoncontribs"><a href="/index.php/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+													<li id="pt-createaccount"><a href="/index.php?title=Special:CreateAccount&amp;returnto=Category%3AWares&amp;returntoquery=printable%3Dyes" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Category%3AWares&amp;returntoquery=printable%3Dyes" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/index.php/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+											<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>
+											<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict" role="navigation">
+		<h3>X3 Terran Conflict</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+											<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+											<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+											<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+											<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+											<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+											<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+											<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+											<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+											<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+											<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Links" role="navigation">
+		<h3>Links</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-MMO-Server-Status"><a href="http://www.mmoserverstatus.com">MMO Server Status</a></li>
+											<li id="n-Compare-Everglades-Tours"><a href="http://www.compare-everglades-tours.com">Compare Everglades Tours</a></li>
+											<li id="n-Pokemon-GO-Wiki"><a href="http://www.pokemon-go-wiki.com">Pokemon GO Wiki</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/index.php" id="searchform">
+					<input type='hidden' name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Category:Wares" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Category:Wares" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-permalink"><a href="/index.php?title=Category:Wares&amp;oldid=1749" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/index.php?title=Category:Wares&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+			</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last modified on 28 September 2010, at 22:27.</li>
+									<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+									<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-265105-19', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":47});});</script></body></html>

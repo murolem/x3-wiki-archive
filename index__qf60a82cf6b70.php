@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Solar Power Plant - X3 Wiki</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.19.1" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Solar_Power_Plant&amp;action=edit" />
+<link rel="edit" title="Edit" href="/index.php?title=Solar_Power_Plant&amp;action=edit" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://www.x3wiki.com/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://www.x3wiki.com/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.monobook&amp;only=styles&amp;skin=monobook&amp;*" />
+<!--[if IE 6]><link rel="stylesheet" href="/skins/monobook/IE60Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/skins/monobook/IE70Fixes.css?303" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: dailystunt_wiki:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */
+</style>
+
+<script src="http://www.x3wiki.com/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Solar_Power_Plant","wgTitle":"Solar Power Plant","wgCurRevisionId":13033,"wgArticleId":1305,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Stations"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Solar_Power_Plant","wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"monobook","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":
+0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: dailystunt_wiki:resourceloader:filter:minify-js:7:74a832f2292f1f4d40d425d223444e78 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Solar_Power_Plant skin-monobook action-view">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=419115078139333";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+	<div id="siteNotice">
+	<script type='text/javascript'>
+<!--//<![CDATA[
+   document.MAX_ct0 ='';
+   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("zoneid=55244");document.write("&amp;nodis=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+//]]>--></script>
+	<br /><div class="fb-like" data-href="http://www.facebook.com/pages/X3-wiki/177021675675938" data-send="true" data-width="450" data-show-faces="false"></div>
+	
+	<!-- centralNotice loads here --><div id="localNotice" lang="en" dir="ltr"><p>Please support us by liking us on facebook!
+</p></div></div>
+	<h1 id="firstHeading" class="firstHeading"><span dir="auto">Solar Power Plant</span></h1>
+	<div id="bodyContent" class="mw-body">
+		<div id="siteSub">From X3 Wiki</div>
+		<div id="contentSub"><div id="mw-revision-info">Revision as of 18:05, 5 July 2013 by <a href="/index.php/User:ZacQuicksilver" title="User:ZacQuicksilver" class="mw-userlink">ZacQuicksilver</a>  <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:ZacQuicksilver&amp;action=edit&amp;redlink=1" class="new" title="User talk:ZacQuicksilver (page does not exist)">Talk</a> | <a href="/index.php/Special:Contributions/ZacQuicksilver" title="Special:Contributions/ZacQuicksilver">contribs</a>)</span></div><br />
+				<div id="mw-revision-nav">(<a href="/index.php?title=Solar_Power_Plant&amp;diff=prev&amp;oldid=13033" title="Solar Power Plant">diff</a>) <a href="/index.php?title=Solar_Power_Plant&amp;direction=prev&amp;oldid=13033" title="Solar Power Plant">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div></div>
+		<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table style="background-color: transparent; text-align: left; border: 0px; float: right; margin-left: 5px;">
+<tr style="text-align:center;"><th colspan="2" style="background-color:LightGray;"><a href="/index.php/Races" title="Races">&#160;</a> Solar Power Plant XL</th></tr>
+<tr><th><a href="/index.php/Weapons#Damage" title="Weapons">Hull</a></th><td>20,000,000</td></tr>
+<tr><th><a href="/index.php/Shields" title="Shields">Shields</a></th><td>11 <a href="/index.php/Physics#Energy" title="Physics">GJ</a></td></tr>
+<tr><th>Generator</th><td></td></tr>
+<tr><th><a href="/index.php/Docking" title="Docking">Hangar</a></th><td></td></tr>
+<tr><td colspan="2"></td></tr>
+<tr style="text-align:center;"><th colspan="2" style="background-color:LightGray;">Manufacturing</th></tr>
+<tr><th>Production Time</th><td>03:35</td></tr>
+<tr><th> Product </th><td><a href="/index.php/Energy_Cells" title="Energy Cells">Energy Cells</a> (5530)</td></tr>
+<tr style="text-align:center;"><th colspan="2" style="background-color:LightGray;">Required Resources</th></tr>
+<tr style="text-align:center;"><td colspan="2"><a href="/index.php/Crystals" title="Crystals">Crystals</a>(40)</td></tr>
+<tr style="text-align:center;"><th colspan="2" style="background-color:LightGray;">Optional Resources</th></tr>
+<tr style="text-align:center;"><td colspan="2">{{{optresources}}}</td></tr>
+<tr style="text-align:center;"><th colspan="2" style="background-color:LightGray;"><a href="/index.php/Races" title="Races">&#160;</a> Solar Power Plant L</th></tr>
+<tr><th><a href="/index.php/Weapons#Damage" title="Weapons">Hull</a></th><td></td></tr>
+<tr><th><a href="/index.php/Shields" title="Shields">Shields</a></th><td> <a href="/index.php/Physics#Energy" title="Physics">GJ</a></td></tr>
+<tr><th>Generator</th><td></td></tr>
+<tr><th><a href="/index.php/Docking" title="Docking">Hangar</a></th><td></td></tr>
+<tr><td colspan="2"></td></tr>
+<tr style="text-align:center;"><th colspan="2" style="background-color:LightGray;">Manufacturing</th></tr>
+<tr><th>Production Time</th><td></td></tr>
+<tr><th> Product </th><td><a href="/index.php/Energy_Cells" title="Energy Cells">Energy Cells</a> (2765)</td></tr>
+<tr style="text-align:center;"><th colspan="2" style="background-color:LightGray;">Required Resources</th></tr>
+<tr style="text-align:center;"><td colspan="2"><a href="/index.php/Crystals" title="Crystals">Crystals</a>(20)</td></tr>
+<tr style="text-align:center;"><th colspan="2" style="background-color:LightGray;">Optional Resources</th></tr>
+<tr style="text-align:center;"><td colspan="2">{{{optresources}}}</td></tr>
+<tr style="text-align:center;"><th colspan="2" style="background-color:LightGray;"><a href="/index.php/Races" title="Races">&#160;</a> Solar Power Plant M</th></tr>
+<tr><th><a href="/index.php/Weapons#Damage" title="Weapons">Hull</a></th><td>400,000</td></tr>
+<tr><th><a href="/index.php/Shields" title="Shields">Shields</a></th><td>8,000 MJ <a href="/index.php/Physics#Energy" title="Physics">GJ</a></td></tr>
+<tr><th>Generator</th><td></td></tr>
+<tr><th><a href="/index.php/Docking" title="Docking">Hangar</a></th><td></td></tr>
+<tr><td colspan="2"></td></tr>
+<tr style="text-align:center;"><th colspan="2" style="background-color:LightGray;">Manufacturing</th></tr>
+<tr><th>Production Time</th><td>00:03:35</td></tr>
+<tr><th> Product </th><td><a href="/index.php/Energy_Cells" title="Energy Cells">Energy Cells</a> (1106)</td></tr>
+<tr style="text-align:center;"><th colspan="2" style="background-color:LightGray;">Required Resources</th></tr>
+<tr style="text-align:center;"><td colspan="2"><a href="/index.php/Crystals" title="Crystals">Crystals</a>(8)</td></tr>
+<tr style="text-align:center;"><th colspan="2" style="background-color:LightGray;">Optional Resources</th></tr>
+<tr style="text-align:center;"><td colspan="2">{{{optresources}}}</td></tr>
+</table>
+<h2><span class="editsection">[<a href="/index.php?title=Solar_Power_Plant&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a>]</span> <span class="mw-headline" id="Overview">Overview</span></h2>
+<p>Solar Power Plants produce <a href="/index.php/Energy_Cells" title="Energy Cells">Energy Cells</a>, the basis of the X universe economy. They require <a href="/index.php/Crystals" title="Crystals">Crystals</a> to accomplish their task.
+</p><p>NPC plants buy Crystals as a secondary resource only, and do not require them to produce energy. This provides an uninterruptable stream of Energy Cells, ensuring that the X-Universe economy is unable to run down and collapse.
+</p><p>A sector's Sun rating only affects the temporal interval of Energy Cell production. Higher Sun ratings do not make a Solar Power Plant more efficient in terms of Crystals used or Energy Cells produced, only that more Energy Cells are created and more Crystals are consumed in the same amount of time.
+</p>
+<h3><span class="editsection">[<a href="/index.php?title=Solar_Power_Plant&amp;action=edit&amp;section=2" title="Edit section: Encyclopedia Entry">edit</a>]</span> <span class="mw-headline" id="Encyclopedia_Entry">Encyclopedia Entry</span></h3>
+<p>Solar Power plants produce Energy. They are found everywhere in the known universe and are operated and controlled by all races.
+</p>
+<h2><span class="editsection">[<a href="/index.php?title=Solar_Power_Plant&amp;action=edit&amp;section=3" title="Edit section: Race-specific attributes">edit</a>]</span> <span class="mw-headline" id="Race-specific_attributes">Race-specific attributes</span></h2>
+<table style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5">
+<caption><b>Solar Power Plant XL</b>
+</caption>
+<tr style="background-color:LightGray;text-align:center;">
+<th>Race</th>
+<th>Station Cost
+</th></tr>
+<tr style="background-color:#3195E3;">
+<td> <a href="/index.php/Argon" title="Argon">Argon</a> </td>
+<td> <table style="background-color: WhiteSmoke; text-align: right;width:100%;">
+<tr><th>Buy:</th><td><a href="/index.php/Reputation#Trusted_Ally" title="Reputation">Trusted Ally <b>@</b></a></td><td>19,581,044 <a href="/index.php/Credits" title="Credits">Cr</a></td></tr>
+</table>
+</td></tr>
+<tr style="background-color:#9BD832;">
+<td> <a href="/index.php/Boron" title="Boron">Boron</a> </td>
+<td> <table style="background-color: WhiteSmoke; text-align: right;width:100%;">
+<tr><th>Buy:</th><td><a href="/index.php/Reputation#Queen.27s_Guard" title="Reputation">Queen's Guard <b>@</b></a></td><td>17,607,360 <a href="/index.php/Credits" title="Credits">Cr</a></td></tr>
+</table>
+</td></tr>
+<tr style="background-color:#CA352E;">
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a> </td>
+<td> <table style="background-color: WhiteSmoke; text-align: right;width:100%;">
+<tr><th>Buy:</th><td><a href="/index.php/Reputation#Friend_of_Priest_King" title="Reputation">Friend of Priest King <b>@</b></a></td><td>20,567,888 <a href="/index.php/Credits" title="Credits">Cr</a></td></tr>
+</table>
+</td></tr>
+<tr style="background-color:#A36FD1;">
+<td> <a href="/index.php/Split" title="Split">Split</a> </td>
+<td> <table style="background-color: WhiteSmoke; text-align: right;width:100%;">
+<tr><th>Buy:</th><td><a href="/index.php/Reputation#Distinguished_Associate" title="Reputation">Distinguished Associate <b>@</b></a></td><td>21,554,732 <a href="/index.php/Credits" title="Credits">Cr</a></td></tr>
+</table>
+</td></tr>
+<tr style="background-color:#E8D368;">
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a> </td>
+<td>  <table style="background-color: WhiteSmoke; text-align: right;width:100%;">
+<tr><th>Buy:</th><td><a href="/index.php/Reputation#Majority_Shareholder" title="Reputation">Majority Shareholder <b>@</b></a></td><td>18,594,200 <a href="/index.php/Credits" title="Credits">Cr</a></td></tr>
+</table>
+</td></tr></table>
+<table style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5">
+<caption><b>Solar Power Plant L</b>
+</caption>
+<tr style="background-color:LightGray;text-align:center;">
+<th>Race</th>
+<th>Station Cost
+</th></tr>
+<tr style="background-color:#3195E3;">
+<td> <a href="/index.php/Argon" title="Argon">Argon</a> </td>
+<td> <table style="background-color: WhiteSmoke; text-align: right;width:100%;">
+<tr><th>Buy:</th><td><a href="/index.php/Reputation#Trusted_Ally" title="Reputation">Trusted Ally <b>@</b></a></td><td>11,014,336 <a href="/index.php/Credits" title="Credits">Cr</a></td></tr>
+</table>
+</td></tr>
+<tr style="background-color:#9BD832;">
+<td> <a href="/index.php/Boron" title="Boron">Boron</a> </td>
+<td> <table style="background-color: WhiteSmoke; text-align: right;width:100%;">
+<tr><th>Buy:</th><td><a href="/index.php/Reputation#Queen.27s_Guard" title="Reputation">Queen's Guard <b>@</b></a></td><td>9,904,140 <a href="/index.php/Credits" title="Credits">Cr</a></td></tr>
+</table>
+</td></tr>
+<tr style="background-color:#CA352E;">
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a> </td>
+<td> <table style="background-color: WhiteSmoke; text-align: right;width:100%;">
+<tr><th>Buy:</th><td><a href="/index.php/Reputation#Friend_of_Priest_King" title="Reputation">Friend of Priest King <b>@</b></a></td><td>11,569,436 <a href="/index.php/Credits" title="Credits">Cr</a></td></tr>
+</table>
+</td></tr>
+<tr style="background-color:#A36FD1;">
+<td> <a href="/index.php/Split" title="Split">Split</a> </td>
+<td> <table style="background-color: WhiteSmoke; text-align: right;width:100%;">
+<tr><th>Buy:</th><td><a href="/index.php/Reputation#Distinguished_Associate" title="Reputation">Distinguished Associate <b>@</b></a></td><td>12,124,536 <a href="/index.php/Credits" title="Credits">Cr</a></td></tr>
+</table>
+</td></tr>
+<tr style="background-color:#E8D368;">
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a> </td>
+<td>  <table style="background-color: WhiteSmoke; text-align: right;width:100%;">
+<tr><th>Buy:</th><td><a href="/index.php/Reputation#Majority_Shareholder" title="Reputation">Majority Shareholder <b>@</b></a></td><td>10,459,240 <a href="/index.php/Credits" title="Credits">Cr</a></td></tr>
+</table>
+</td></tr></table>
+<table style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5">
+<caption><b>Solar Power Plant M</b>
+</caption>
+<tr style="background-color:LightGray;text-align:center;">
+<th>Race</th>
+<th>Station Cost
+</th></tr>
+<tr style="background-color:#3195E3;">
+<td> <a href="/index.php/Argon" title="Argon">Argon</a> </td>
+<td> <table style="background-color: WhiteSmoke; text-align: right;width:100%;">
+<tr><th>Buy:</th><td><a href="/index.php/Reputation#Trusted_Ally" title="Reputation">Trusted Ally <b>@</b></a></td><td>4,895,260 <a href="/index.php/Credits" title="Credits">Cr</a></td></tr>
+</table>
+</td></tr>
+<tr style="background-color:#9BD832;">
+<td> <a href="/index.php/Boron" title="Boron">Boron</a> </td>
+<td> <table style="background-color: WhiteSmoke; text-align: right;width:100%;">
+<tr><th>Buy:</th><td><a href="/index.php/Reputation#Queen.27s_Guard" title="Reputation">Queen's Guard <b>@</b></a></td><td>4,401,804 <a href="/index.php/Credits" title="Credits">Cr</a></td></tr>
+</table>
+</td></tr>
+<tr style="background-color:#CA352E;">
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a> </td>
+<td> <table style="background-color: WhiteSmoke; text-align: right;width:100%;">
+<tr><th>Buy:</th><td><a href="/index.php/Reputation#Friend_of_Priest_King" title="Reputation">Friend of Priest King <b>@</b></a></td><td>5,141,972 <a href="/index.php/Credits" title="Credits">Cr</a></td></tr>
+</table>
+</td></tr>
+<tr style="background-color:#A36FD1;">
+<td> <a href="/index.php/Split" title="Split">Split</a> </td>
+<td> <table style="background-color: WhiteSmoke; text-align: right;width:100%;">
+<tr><th>Buy:</th><td><a href="/index.php/Reputation#Distinguished_Associate" title="Reputation">Distinguished Associate <b>@</b></a></td><td>5,338,684 <a href="/index.php/Credits" title="Credits">Cr</a></td></tr>
+</table>
+</td></tr>
+<tr style="background-color:#E8D368;">
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a> </td>
+<td>  <table style="background-color: WhiteSmoke; text-align: right;width:100%;">
+<tr><th>Buy:</th><td><a href="/index.php/Reputation#Majority_Shareholder" title="Reputation">Majority Shareholder <b>@</b></a></td><td>4,648,552 <a href="/index.php/Credits" title="Credits">Cr</a></td></tr>
+</table>
+</td></tr></table>
+<h2><span class="editsection">[<a href="/index.php?title=Solar_Power_Plant&amp;action=edit&amp;section=4" title="Edit section: Availability">edit</a>]</span> <span class="mw-headline" id="Availability">Availability</span></h2>
+<h3><span class="editsection">[<a href="/index.php?title=Solar_Power_Plant&amp;action=edit&amp;section=5" title="Edit section: XL-type">edit</a>]</span> <span class="mw-headline" id="XL-type">XL-type</span></h3>
+<table style="text-align:left;">
+
+<tr valign="top">
+<td> <b><a href="/index.php/Argon" title="Argon">Argon</a></b>
+<ul><li><a href="/index.php/Cloudbase_Southeast_Shipyard" title="Cloudbase Southeast Shipyard">Cloudbase Southeast</a>
+</li><li><a href="/index.php/Legend%27s_Home_Shipyard" title="Legend's Home Shipyard">Legend's Home</a>
+</li><li><a href="/index.php/Light_of_Heart_Shipyard" title="Light of Heart Shipyard">Light of Heart</a>
+</li><li><a href="/index.php/Omicron_Lyrae_Shipyard" title="Omicron Lyrae Shipyard">Omicron Lyrae</a>
+</li></ul>
+</td>
+<td> <b><a href="/index.php/Boron" title="Boron">Boron</a></b>
+<ul><li><a href="/index.php/Depths_of_Silence_Shipyard" title="Depths of Silence Shipyard">Depths of Silence</a>
+</li><li><a href="/index.php/Great_Reef_Shipyard" title="Great Reef Shipyard">Great Reef</a>
+</li><li><a href="/index.php/Kingdom_End_Shipyard" title="Kingdom End Shipyard">Kingdom End</a>
+</li><li><a href="/index.php/Lucky_Planets_Shipyard" title="Lucky Planets Shipyard">Lucky Planets</a>
+</li><li><a href="/index.php/Ocean_of_Fantasy_Shipyard" title="Ocean of Fantasy Shipyard">Ocean of Fantasy</a>
+</li><li><a href="/index.php/Queen%27s_Retribution_Shipyard" title="Queen's Retribution Shipyard">Queen's Retribution</a>
+</li></ul>
+</td>
+<td> <b><a href="/index.php/Paranid" title="Paranid">Paranid</a></b>
+<ul><li><a href="/index.php/Cardinal%27s_Domain_Shipyard" title="Cardinal's Domain Shipyard" class="mw-redirect">Cardinal's Domain</a>
+</li><li><a href="/index.php/Duke%27s_Citadel_Shipyard" title="Duke's Citadel Shipyard" class="mw-redirect">Duke's Citadel</a>
+</li><li><a href="/index.php/Heaven%27s_Assertion_Shipyard" title="Heaven's Assertion Shipyard" class="mw-redirect">Heaven's Assertion</a>
+</li><li><a href="/index.php/Paranid_Prime_Shipyard" title="Paranid Prime Shipyard" class="mw-redirect">Paranid Prime</a>
+</li><li><a href="/index.php/Third_Redemption_Shipyard" title="Third Redemption Shipyard" class="mw-redirect">Third Redemption</a>
+</li><li><a href="/index.php/Trinity_Sanctum_Shipyard" title="Trinity Sanctum Shipyard" class="mw-redirect">Trinity Sanctum</a>
+</li></ul>
+</td>
+<td> <b><a href="/index.php/Split" title="Split">Split</a></b>
+<ul><li><a href="/index.php/Cho%27s_Defeat_Shipyard" title="Cho's Defeat Shipyard">Cho's Defeat</a>
+</li><li><a href="/index.php/Family_Njy_Shipyard" title="Family Njy Shipyard">Family Njy</a>
+</li><li><a href="/index.php/Family_Pride_Shipyard" title="Family Pride Shipyard">Family Pride</a>
+</li><li><a href="/index.php/Family_Rhy_Shipyard" title="Family Rhy Shipyard">Family Rhy</a>
+</li><li><a href="/index.php/Family_Tkr_Shipyard" title="Family Tkr Shipyard">Family Tkr</a>
+</li><li><a href="/index.php/Patriarch%27s_Conclusion_Shipyard" title="Patriarch's Conclusion Shipyard">Patriarch's Conclusion</a>
+</li><li><a href="/index.php/Rhonkar%27s_Might_Shipyard" title="Rhonkar's Might Shipyard">Rhonkar's Might</a>
+</li><li><a href="/index.php/Rhonkar%27s_Trial_Shipyard" title="Rhonkar's Trial Shipyard">Rhonkar's Trial</a>
+</li><li><a href="/index.php/Zyarth%27s_Dominion_Shipyard" title="Zyarth's Dominion Shipyard">Zyarth's Dominion</a>
+</li></ul>
+</td>
+<td> <b><a href="/index.php/Teladi" title="Teladi">Teladi</a></b>
+<ul><li><a href="/index.php/Ceo%27s_Sprite_Shipyard" title="Ceo's Sprite Shipyard" class="mw-redirect">Ceo's Sprite</a>
+</li><li><a href="/index.php/Grand_Exchange_Shipyard" title="Grand Exchange Shipyard">Grand Exchange</a>
+</li><li><a href="/index.php/Ianamus_Zura_Shipyard" title="Ianamus Zura Shipyard" class="mw-redirect">Ianamus Zura</a>
+</li><li><a href="/index.php/Ministry_of_Finance_Shipyard" title="Ministry of Finance Shipyard" class="mw-redirect">Ministry of Finance</a>
+</li><li><a href="/index.php/PTNI_Headquarters_Shipyard" title="PTNI Headquarters Shipyard" class="mw-redirect">PTNI Headquarters</a>
+</li><li><a href="/index.php/Seizewell_Shipyard" title="Seizewell Shipyard" class="mw-redirect">Seizewell</a>
+</li></ul>
+</td>
+<td> <b><a href="/index.php/Terran" title="Terran">Terran</a></b>
+<ul><li><a href="/index.php/Mars_Shipyard" title="Mars Shipyard" class="mw-redirect">Mars</a> 
+</li><li><a href="/index.php/Saturn_Shipyard" title="Saturn Shipyard" class="mw-redirect">Saturn</a> 
+</li><li><a href="/index.php/The_Moon_Shipyard" title="The Moon Shipyard" class="mw-redirect">The Moon</a> 
+</li><li><a href="/index.php/Terran_Unknown_Sector_1_Shipyard" title="Terran Unknown Sector 1 Shipyard" class="mw-redirect">Terran Unknown Sector 1</a>
+</li></ul>
+</td></tr></table>
+<h3><span class="editsection">[<a href="/index.php?title=Solar_Power_Plant&amp;action=edit&amp;section=6" title="Edit section: L-type">edit</a>]</span> <span class="mw-headline" id="L-type">L-type</span></h3>
+<table style="text-align:left;">
+
+<tr valign="top">
+<td> <b><a href="/index.php/Argon" title="Argon">Argon</a></b>
+<ul><li><a href="/index.php/Argon_Sector_M148_Shipyard" title="Argon Sector M148 Shipyard">Argon Sector M148</a>
+</li><li><a href="/index.php/Legend%27s_Home_Shipyard" title="Legend's Home Shipyard">Legend's Home</a>
+</li><li><a href="/index.php/Light_of_Heart_Shipyard" title="Light of Heart Shipyard">Light of Heart</a>
+</li><li><a href="/index.php/Omicron_Lyrae_Shipyard" title="Omicron Lyrae Shipyard">Omicron Lyrae</a>
+</li></ul>
+</td>
+<td> <b><a href="/index.php/Boron" title="Boron">Boron</a></b> (checked)
+<ul><li><a href="/index.php/Depths_of_Silence_Shipyard" title="Depths of Silence Shipyard">Depths of Silence</a>
+</li><li><a href="/index.php/Great_Reef_Shipyard" title="Great Reef Shipyard">Great Reef</a>
+</li><li><a href="/index.php/Queen%27s_Retribution_Shipyard" title="Queen's Retribution Shipyard">Queen's Retribution</a>
+</li></ul>
+</td>
+<td> <b><a href="/index.php/Paranid" title="Paranid">Paranid</a></b>
+<ul><li><a href="/index.php/Cardinal%27s_Domain_Shipyard" title="Cardinal's Domain Shipyard" class="mw-redirect">Cardinal's Domain</a>
+</li><li><a href="/index.php/Duke%27s_Citadel_Shipyard" title="Duke's Citadel Shipyard" class="mw-redirect">Duke's Citadel</a>
+</li><li><a href="/index.php/Heaven%27s_Assertion_Shipyard" title="Heaven's Assertion Shipyard" class="mw-redirect">Heaven's Assertion</a>
+</li><li><a href="/index.php/Paranid_Prime_Shipyard" title="Paranid Prime Shipyard" class="mw-redirect">Paranid Prime</a>
+</li><li><a href="/index.php/Third_Redemption_Shipyard" title="Third Redemption Shipyard" class="mw-redirect">Third Redemption</a>
+</li><li><a href="/index.php/Trinity_Sanctum_Shipyard" title="Trinity Sanctum Shipyard" class="mw-redirect">Trinity Sanctum</a>
+</li></ul>
+</td>
+<td> <b><a href="/index.php/Split" title="Split">Split</a></b>
+<ul><li><a href="/index.php/Cho%27s_Defeat_Shipyard" title="Cho's Defeat Shipyard">Cho's Defeat</a>
+</li><li><a href="/index.php/Family_Njy_Shipyard" title="Family Njy Shipyard">Family Njy</a>
+</li><li><a href="/index.php/Family_Pride_Shipyard" title="Family Pride Shipyard">Family Pride</a>
+</li><li><a href="/index.php/Family_Rhy_Shipyard" title="Family Rhy Shipyard">Family Rhy</a>
+</li><li><a href="/index.php/Family_Tkr_Shipyard" title="Family Tkr Shipyard">Family Tkr</a>
+</li><li><a href="/index.php/Patriarch%27s_Conclusion_Shipyard" title="Patriarch's Conclusion Shipyard">Patriarch's Conclusion</a>
+</li><li><a href="/index.php/Rhonkar%27s_Might_Shipyard" title="Rhonkar's Might Shipyard">Rhonkar's Might</a>
+</li><li><a href="/index.php/Rhonkar%27s_Trial_Shipyard" title="Rhonkar's Trial Shipyard">Rhonkar's Trial</a>
+</li><li><a href="/index.php/Zyarth%27s_Dominion_Shipyard" title="Zyarth's Dominion Shipyard">Zyarth's Dominion</a>
+</li></ul>
+</td>
+<td> <b><a href="/index.php/Teladi" title="Teladi">Teladi</a></b>
+<ul><li><a href="/index.php/Ceo%27s_Sprite_Shipyard" title="Ceo's Sprite Shipyard" class="mw-redirect">Ceo's Sprite</a>
+</li><li><a href="/index.php/Grand_Exchange_Shipyard" title="Grand Exchange Shipyard">Grand Exchange</a>
+</li><li><a href="/index.php/Ianamus_Zura_Shipyard" title="Ianamus Zura Shipyard" class="mw-redirect">Ianamus Zura</a>
+</li><li><a href="/index.php/Ministry_of_Finance_Shipyard" title="Ministry of Finance Shipyard" class="mw-redirect">Ministry of Finance</a>
+</li><li><a href="/index.php/PTNI_Headquarters_Shipyard" title="PTNI Headquarters Shipyard" class="mw-redirect">PTNI Headquarters</a>
+</li><li><a href="/index.php/Seizewell_Shipyard" title="Seizewell Shipyard" class="mw-redirect">Seizewell</a>
+</li></ul>
+</td>
+<td> <b><a href="/index.php/Terran" title="Terran">Terran</a></b>
+<ul><li><a href="/index.php/Mars_Shipyard" title="Mars Shipyard" class="mw-redirect">Mars</a> 
+</li><li><a href="/index.php/Saturn_Shipyard" title="Saturn Shipyard" class="mw-redirect">Saturn</a> 
+</li><li><a href="/index.php/The_Moon_Shipyard" title="The Moon Shipyard" class="mw-redirect">The Moon</a> 
+</li><li><a href="/index.php/Terran_Unknown_Sector_1_Shipyard" title="Terran Unknown Sector 1 Shipyard" class="mw-redirect">Terran Unknown Sector 1</a>
+</li></ul>
+</td></tr></table>
+<h3><span class="editsection">[<a href="/index.php?title=Solar_Power_Plant&amp;action=edit&amp;section=7" title="Edit section: M-type">edit</a>]</span> <span class="mw-headline" id="M-type">M-type</span></h3>
+<table style="text-align:left;">
+
+<tr valign="top">
+<td> <b><a href="/index.php/Argon" title="Argon">Argon</a></b>
+<ul><li><a href="/index.php/Argon_Prime_Shipyard" title="Argon Prime Shipyard">Argon Prime</a>
+</li><li><a href="/index.php/Argon_Sector_M148_Shipyard" title="Argon Sector M148 Shipyard">Argon Sector M148</a>
+</li><li><a href="/index.php/Cloudbase_Southeast_Shipyard" title="Cloudbase Southeast Shipyard">Cloudbase Southeast</a>
+</li><li><a href="/index.php/Legend%27s_Home_Shipyard" title="Legend's Home Shipyard">Legend's Home</a>
+</li><li><a href="/index.php/Light_of_Heart_Shipyard" title="Light of Heart Shipyard">Light of Heart</a>
+</li><li><a href="/index.php/Omicron_Lyrae_Shipyard" title="Omicron Lyrae Shipyard">Omicron Lyrae</a>
+</li></ul>
+</td>
+<td> <b><a href="/index.php/Boron" title="Boron">Boron</a></b>
+<ul><li><a href="/index.php/Depths_of_Silence_Shipyard" title="Depths of Silence Shipyard">Depths of Silence</a>
+</li><li><a href="/index.php/Great_Reef_Shipyard" title="Great Reef Shipyard">Great Reef</a>
+</li><li><a href="/index.php/Kingdom_End_Shipyard" title="Kingdom End Shipyard">Kingdom End</a>
+</li><li><a href="/index.php/Lucky_Planets_Shipyard" title="Lucky Planets Shipyard">Lucky Planets</a>
+</li><li><a href="/index.php/Ocean_of_Fantasy_Shipyard" title="Ocean of Fantasy Shipyard">Ocean of Fantasy</a>
+</li><li><a href="/index.php/Queen%27s_Retribution_Shipyard" title="Queen's Retribution Shipyard">Queen's Retribution</a>
+</li></ul>
+</td>
+<td> <b><a href="/index.php/Paranid" title="Paranid">Paranid</a></b>
+<ul><li><a href="/index.php/Cardinal%27s_Domain_Shipyard" title="Cardinal's Domain Shipyard" class="mw-redirect">Cardinal's Domain</a>
+</li><li><a href="/index.php/Duke%27s_Citadel_Shipyard" title="Duke's Citadel Shipyard" class="mw-redirect">Duke's Citadel</a>
+</li><li><a href="/index.php/Heaven%27s_Assertion_Shipyard" title="Heaven's Assertion Shipyard" class="mw-redirect">Heaven's Assertion</a>
+</li><li><a href="/index.php/Paranid_Prime_Shipyard" title="Paranid Prime Shipyard" class="mw-redirect">Paranid Prime</a>
+</li><li><a href="/index.php/Third_Redemption_Shipyard" title="Third Redemption Shipyard" class="mw-redirect">Third Redemption</a>
+</li><li><a href="/index.php/Trinity_Sanctum_Shipyard" title="Trinity Sanctum Shipyard" class="mw-redirect">Trinity Sanctum</a>
+</li></ul>
+</td>
+<td> <b><a href="/index.php/Split" title="Split">Split</a></b>
+<ul><li><a href="/index.php/Cho%27s_Defeat_Shipyard" title="Cho's Defeat Shipyard">Cho's Defeat</a>
+</li><li><a href="/index.php/Family_Njy_Shipyard" title="Family Njy Shipyard">Family Njy</a>
+</li><li><a href="/index.php/Family_Pride_Shipyard" title="Family Pride Shipyard">Family Pride</a>
+</li><li><a href="/index.php/Family_Rhy_Shipyard" title="Family Rhy Shipyard">Family Rhy</a>
+</li><li><a href="/index.php/Family_Tkr_Shipyard" title="Family Tkr Shipyard">Family Tkr</a>
+</li><li><a href="/index.php/Patriarch%27s_Conclusion_Shipyard" title="Patriarch's Conclusion Shipyard">Patriarch's Conclusion</a>
+</li><li><a href="/index.php/Rhonkar%27s_Might_Shipyard" title="Rhonkar's Might Shipyard">Rhonkar's Might</a>
+</li><li><a href="/index.php/Rhonkar%27s_Trial_Shipyard" title="Rhonkar's Trial Shipyard">Rhonkar's Trial</a>
+</li><li><a href="/index.php/Zyarth%27s_Dominion_Shipyard" title="Zyarth's Dominion Shipyard">Zyarth's Dominion</a>
+</li></ul>
+</td>
+<td> <b><a href="/index.php/Teladi" title="Teladi">Teladi</a></b>
+<ul><li><a href="/index.php/Ceo%27s_Sprite_Shipyard" title="Ceo's Sprite Shipyard" class="mw-redirect">Ceo's Sprite</a>
+</li><li><a href="/index.php/Grand_Exchange_Shipyard" title="Grand Exchange Shipyard">Grand Exchange</a>
+</li><li><a href="/index.php/Ianamus_Zura_Shipyard" title="Ianamus Zura Shipyard" class="mw-redirect">Ianamus Zura</a>
+</li><li><a href="/index.php/Ministry_of_Finance_Shipyard" title="Ministry of Finance Shipyard" class="mw-redirect">Ministry of Finance</a>
+</li><li><a href="/index.php/PTNI_Headquarters_Shipyard" title="PTNI Headquarters Shipyard" class="mw-redirect">PTNI Headquarters</a>
+</li><li><a href="/index.php/Seizewell_Shipyard" title="Seizewell Shipyard" class="mw-redirect">Seizewell</a>
+</li></ul>
+</td>
+<td> <b><a href="/index.php/Terran" title="Terran">Terran</a></b>
+<ul><li><a href="/index.php/Mars_Shipyard" title="Mars Shipyard" class="mw-redirect">Mars</a> 
+</li><li><a href="/index.php/Saturn_Shipyard" title="Saturn Shipyard" class="mw-redirect">Saturn</a> 
+</li><li><a href="/index.php/The_Moon_Shipyard" title="The Moon Shipyard" class="mw-redirect">The Moon</a> 
+</li><li><a href="/index.php/Terran_Unknown_Sector_1_Shipyard" title="Terran Unknown Sector 1 Shipyard" class="mw-redirect">Terran Unknown Sector 1</a>
+</li></ul>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1082/1000000
+Post-expand include size: 11352/2097152 bytes
+Template argument size: 3742/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key dailystunt_wiki:pcache:idhash:1305-0!*!0!!*!*!* and timestamp 20130929154702 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://www.x3wiki.com/index.php?title=Solar_Power_Plant&amp;oldid=13033">http://www.x3wiki.com/index.php?title=Solar_Power_Plant&amp;oldid=13033</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/index.php/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/index.php/Category:Stations" title="Category:Stations">Stations</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/index.php/Solar_Power_Plant" primary="1" context="subject" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/index.php?title=Talk:Solar_Power_Plant&amp;action=edit&amp;redlink=1" primary="1" context="talk" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit"><a href="/index.php?title=Solar_Power_Plant&amp;action=edit" primary="1" title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				<li id="ca-history"><a href="/index.php?title=Solar_Power_Plant&amp;action=history" rel="archives" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Solar+Power+Plant&amp;returntoquery=oldid%3D13033" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+<a href="/index.php/Main_Page" style="background-image: url(http://www.x3wiki.com/x3.jpg);" title="Visit the main page"></a>
+	</div>
+	<div class="generated-sidebar portlet" id="p-navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/index.php/Help:Contents" title="The place to find out">Help</a></li>
+				<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict">
+		<h5>X3 Terran Conflict</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+				<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+				<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+				<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+				<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+				<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+				<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+				<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+				<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+				<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+				<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Links">
+		<h5>Links</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Buy-X3-Albion-Prelude.21"><a href="http://www.gamersgate.co.uk/DD-X3AP/x3-albion-prelude-expansion-pack?caff=4628051%7C" rel="nofollow">Buy X3 Albion Prelude!</a></li>
+				<li id="n-MMOServerstatus-.5BEN.5D"><a href="http://www.mmoserverstatus.com" rel="nofollow">MMOServerstatus [EN]</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Solar_Power_Plant" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Solar_Power_Plant" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li><a href="/index.php?title=Solar_Power_Plant&amp;oldid=13033&amp;printable=yes" rel="alternate">Printable version</a></li>
+				<li id="t-permalink"><a href="/index.php?title=Solar_Power_Plant&amp;oldid=13033" title="Permanent link to this revision of the page">Permanent link</a></li>
+			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 5 July 2013, at 18:05.</li>
+		<li id="viewcount">This page has been accessed 28,547 times.</li>
+		<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+		<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li><li><a href='http://installatron.com/apps/mediawiki' target='_blank' title='Installatron enables webmasters to instantly install and upgrade MediaWiki and other web applications.'>Powered by Installatron</a></li>
+	</ul>
+</div>
+</div>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready"], null, true);
+}</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-265105-19");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><!-- Served in 0.137 secs. --></body></html>

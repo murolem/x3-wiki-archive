@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>Stock Exchange - X3 Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Stock_Exchange","wgTitle":"Stock Exchange","wgCurRevisionId":16308,"wgRevisionId":16308,"wgArticleId":1786,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Stations"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stock_Exchange","wgRelevantArticleId":1786,"wgRequestId":"WX8FHVkfZokAAEPTri0AAAAX","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;printable=1&amp;skin=monobook"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;printable=1&amp;skin=monobook"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<meta name="robots" content="noindex,follow"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Stock_Exchange&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/index.php?title=Stock_Exchange&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://www.x3wiki.com/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Stock_Exchange rootpage-Stock_Exchange skin-monobook action-view">
+<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+									<div id="siteNotice"><!-- centralNotice loads here --></div>
+				<div class="mw-indicators">
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7526491584299412",
+    enable_page_level_ads: true
+  });
+</script>
+
+<!-- X3 wiki -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7526491584299412"
+     data-ad-slot="4173455889"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+				<h1 id="firstHeading" class="firstHeading" lang="en">Stock Exchange</h1>
+				
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From X3 Wiki</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>Following changes to galactic laws which legalized open trading of stocks and shares the Teladi company quickly established a number of these stock exchanges. Anyone with a few credits can now purchase shares in a variety of commodities, companies, and corporations. Even in the short time that these stations have been trading many fortunes have been gained and lost. Each transaction incurs a small transaction fee which the Teladi company claims for services rendered.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Local_Stock_Exchange"><span class="tocnumber">2</span> <span class="toctext">Local Stock Exchange</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Tips_for_Local_Stock_Exchange"><span class="tocnumber">3</span> <span class="toctext">Tips for Local Stock Exchange</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Corporate_.2F_Company_Index"><span class="tocnumber">4</span> <span class="toctext">Corporate / Company Index</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Tips_Corporate_.2F_Company_Index"><span class="tocnumber">5</span> <span class="toctext">Tips Corporate / Company Index</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Stock_Exchanges"><span class="tocnumber">6</span> <span class="toctext">Stock Exchanges</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span></h2>
+<p>Stock Exchanges are a part of X3: Albion Prelude. Each Stock Exchange is located in a major hub, such as Argon Prime or Kingdom End. With a trading extension installed, you can access both the Local Stock Exchange as well as the Coporate / Company Indexes without docking. This is accessed from the Personal window, or while docked, from the Station window.
+</p><p>Each Stock Exchange will also buy goods normally produced by the race that owns it. At regular intervals, the exchange will update prices from top to bottom in a tick.
+</p>
+<h2><span class="mw-headline" id="Local_Stock_Exchange">Local Stock Exchange</span></h2>
+<p>Each Category has column for what is for sold, its supply and demand, the min and max credits they are bought and sold for, an Index, what they are trading at, what you bought it at, how many shares you own, available shares, and your current net profit.
+</p><p>Categories of products:
+</p>
+<ul><li><a href="/index.php/Weapons" title="Weapons">Weapons</a></li>
+<li><a href="/index.php/Shields" title="Shields">Shields</a></li>
+<li><a href="/index.php/Missiles" title="Missiles">Missiles</a></li>
+<li><a href="/index.php/Energy_Cells" title="Energy Cells">Energy Cells</a></li>
+<li><a href="/index.php/Wares#Natural" title="Wares">Natural</a></li>
+<li><a href="/index.php/Food" title="Food" class="mw-redirect">Food</a></li>
+<li><a href="/index.php/Asteroids" title="Asteroids">Minerals</a></li>
+<li><a href="/index.php/Wares#Tech" title="Wares">Tech</a></li></ul>
+<p><br />
+To gain access to local stock exchanges, you must find them and then meet a requirement for each one:
+</p>
+<ul><li>Teladi require the payment of 10,000 credits.</li>
+<li>The Yaki require 7 <a href="/index.php/Slaves" title="Slaves">Slaves</a>, 14 <a href="/index.php/Space_Fuel" title="Space Fuel">Space Fuel</a>, or 4 <a href="/index.php/Space_Weed" title="Space Weed">Space Weed</a>.</li>
+<li>The Split require a minimum fight rank of Enlisted.</li>
+<li>The Boron require a minimum economic rank of Trader.</li>
+<li>The Argon/Terrans require 1 space station to be built in their territory.</li>
+<li>The Paranid require a faction rank of Friend of Priest.</li></ul>
+<p><br />
+The index is a ratio of the supply divided by the demand. If the supply is low, the ratio is low, so the index is low. The widgets next to the index number are a history of how the index has changed. A green /\ says the index has gone up during the last tick while a red \/ says that the index went down. Red numbers mean it has too much supply and is at the minimum price to trade. Green means it is near the lowest price, while yellow means it is near the maximum price.
+</p><p><b>Additional Calculations:</b>
+</p>
+<ul><li>Index = Supply/Demand *100</li>
+<li>Stock = 2 Supply (at least whilst Demand is Constant, I haven't seen demand fluctuate yet)</li>
+<li>Demand's Directly proportional to Max Cr (for Natural Products at least)</li>
+<li>The Fee on buying stocks is 4% of the amount paid.</li>
+<li>Therefore: Demand is the best gauge on how profitable a stock will be!</li></ul>
+<h2><span class="mw-headline" id="Tips_for_Local_Stock_Exchange">Tips for Local Stock Exchange</span></h2>
+<p>The stock exchange reflects what is made in the area. A Boron area will not likely be using meatsteaks, so there should be no demand. Know your area of space.
+</p><p>Watch fluctuations over time before buying. Some products will go from an index of 130 to 30, which is 70 points of profit. Others may go from 50 to 10 regularly. These will both gain you cash if you buy at their high points and sell at their low points. Doing this will let you know what to invest in.
+</p><p>If try to sell or buy right as a tick comes in and changes the price, you will get the new price that you can't see.
+</p><p>Home and End will help you buy and sell lots of stocks.
+</p><p>This exchange works better for someone who is a day trader, where you buy and sell constantly.
+</p>
+<h2><span class="mw-headline" id="Corporate_.2F_Company_Index">Corporate / Company Index</span></h2>
+<p>There are two categories listed. The Corporation Index and the Company Index. Corporations may require you to meet them first before they show up in the list.
+</p><p>There are two ways to view this index. From a buy perspective or from a sell perspective, which can be chosen under the view options at the top.
+</p><p>These shares are updated in the same manner that the local exchanges are except there is a good chance things will not move at all. If they do move, you will get an update via a bar on the bottom of your screen.
+</p>
+<h2><span class="mw-headline" id="Tips_Corporate_.2F_Company_Index">Tips Corporate / Company Index</span></h2>
+<p>You will get updates on your stocks if any change is made.
+</p><p>This is for buying and holding for a long time, do not expect a quick turn around.
+</p><p>Commodities don't require a lot of money to buy all the stocks. Companies and Corporations tend to have a lot more shares. If you have more money, buy shares.
+</p>
+<h2><span class="mw-headline" id="Stock_Exchanges">Stock Exchanges</span></h2>
+<p>(list is incomplete)
+</p>
+<table cellspacing="10">
+
+<tr valign="top">
+<td>
+<p><b><a href="/index.php/Argon_Stock_Exchange" title="Argon Stock Exchange">Argon Stock Exchange</a></b>
+</p>
+<ul><li><a href="/index.php/Argon_Prime" title="Argon Prime">Argon Prime</a></li>
+<li><a href="/index.php/Light_of_Heart" title="Light of Heart">Light of Heart</a></li>
+<li><a href="/index.php/Nyana%27s_Hideout" title="Nyana's Hideout">Nyana's Hideout</a></li></ul>
+</td>
+<td>
+<p><b><a href="/index.php/Boron_Stock_Exchange" title="Boron Stock Exchange">Boron Stock Exchange</a></b>
+</p>
+<ul><li><a href="/index.php/Great_Reef" title="Great Reef">Great Reef</a></li>
+<li><a href="/index.php/Kingdom_End" title="Kingdom End">Kingdom End</a></li>
+<li><a href="/index.php/Lucky_Planets" title="Lucky Planets">Lucky Planets</a></li>
+<li><a href="/index.php/Ocean_of_Fantasy" title="Ocean of Fantasy">Ocean of Fantasy</a></li>
+<li><a href="/index.php/Queen%27s_Retribution" title="Queen's Retribution">Queen's Retribution</a> </li></ul>
+</td>
+<td>
+<p><b><a href="/index.php/Teladi_Stock_Exchange" title="Teladi Stock Exchange">Teladi Stock Exchange</a></b>
+</p>
+<ul><li><a href="/index.php/Seizewell" title="Seizewell">Seizewell</a></li>
+<li><a href="/index.php/PTNI_Headquarters" title="PTNI Headquarters">PTNI Headquarters</a></li>
+<li><a href="/index.php/Ministry_of_Finance" title="Ministry of Finance" class="mw-redirect">Ministry of Finance</a></li>
+<li><a href="/index.php/Grand_Exchange" title="Grand Exchange">Grand Exchange</a></li></ul>
+</td>
+<td>
+<p><b><a href="/index.php/Terran_Stock_Exchange" title="Terran Stock Exchange" class="mw-redirect">Terran Stock Exchange</a></b>
+</p>
+<ul><li><a href="/index.php/Mars" title="Mars">Mars</a></li></ul>
+</td></tr>
+<tr valign="top">
+<td>
+<p><b><a href="/index.php/Split_Stock_Exchange" title="Split Stock Exchange" class="mw-redirect">Split Stock Exchange</a></b>
+</p>
+<ul><li><a href="/index.php/Family_Rhy" title="Family Rhy">Family Rhy</a></li>
+<li><a href="/index.php/Family_Njy" title="Family Njy">Family Njy</a></li>
+<li><a href="/index.php/Family_Pride" title="Family Pride">Family Pride</a></li>
+<li><a href="/index.php/Patriarch%27s_Conclusion" title="Patriarch's Conclusion">Patriarch's Conclusion</a></li></ul>
+</td>
+<td>
+<p><b><a href="/index.php/Paranid_Stock_Exchange" title="Paranid Stock Exchange">Paranid Stock Exchange</a></b>
+</p>
+<ul><li><a href="/index.php/Paranid_Prime" title="Paranid Prime">Paranid Prime</a></li>
+<li><a href="/index.php/Cardinal%27s_Domain" title="Cardinal's Domain">Cardinal's Domain</a></li></ul>
+</td>
+<td>
+<p><b><a href="/index.php/Yaki_Stock_Exchange" title="Yaki Stock Exchange">Yaki Stock Exchange</a></b>
+</p>
+<ul><li><a href="/index.php/Senator%27s_Badlands" title="Senator's Badlands">Senator's Badlands</a></li></ul>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20170730193739
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.008 seconds
+Real time usage: 0.008 seconds
+Preprocessor visited node count: 25/1000000
+Preprocessor generated node count: 44/1000000
+Post‐expand include size: 21/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.797      1 - Template:Stationcategory
+100.00%    0.797      1 - -total
+-->
+
+<!-- Saved in parser cache with key dailystunt_wiki:pcache:idhash:1786-0!*!0!!en!*!* and timestamp 20170730193739 and revision id 16308
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://www.x3wiki.com/index.php?title=Stock_Exchange&amp;oldid=16308">http://www.x3wiki.com/index.php?title=Stock_Exchange&amp;oldid=16308</a>"</div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/index.php/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/index.php/Category:Stations" title="Category:Stations">Stations</a></li></ul></div></div>					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+			</div>
+		</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/index.php/Stock_Exchange" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/index.php?title=Talk:Stock_Exchange&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit"><a href="/index.php?title=Stock_Exchange&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+				<li id="ca-history"><a href="/index.php?title=Stock_Exchange&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+						<li id="pt-anonuserpage">Not logged in</li>							<li id="pt-anontalk"><a href="/index.php/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+													<li id="pt-anoncontribs"><a href="/index.php/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+													<li id="pt-createaccount"><a href="/index.php?title=Special:CreateAccount&amp;returnto=Stock+Exchange&amp;returntoquery=printable%3Dyes" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Stock+Exchange&amp;returntoquery=printable%3Dyes" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/index.php/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+											<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>
+											<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict" role="navigation">
+		<h3>X3 Terran Conflict</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+											<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+											<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+											<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+											<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+											<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+											<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+											<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+											<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+											<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+											<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Links" role="navigation">
+		<h3>Links</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-MMO-Server-Status"><a href="http://www.mmoserverstatus.com">MMO Server Status</a></li>
+											<li id="n-Compare-Everglades-Tours"><a href="http://www.compare-everglades-tours.com">Compare Everglades Tours</a></li>
+											<li id="n-Pokemon-GO-Wiki"><a href="http://www.pokemon-go-wiki.com">Pokemon GO Wiki</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/index.php" id="searchform">
+					<input type='hidden' name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Stock_Exchange" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Stock_Exchange" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-permalink"><a href="/index.php?title=Stock_Exchange&amp;oldid=16308" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/index.php?title=Stock_Exchange&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+			</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last modified on 4 July 2014, at 22:53.</li>
+									<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+									<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-265105-19', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":43});});</script></body></html>

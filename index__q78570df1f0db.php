@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Revision history of "Hercules" - X3 Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.6" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Hercules&amp;action=edit" />
+<link rel="edit" title="Edit" href="/index.php?title=Hercules&amp;action=edit" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://www.x3wiki.com/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="&quot;Hercules&quot; Atom feed" href="/index.php?title=Hercules&amp;feed=atom&amp;action=history" />
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://www.x3wiki.com/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.monobook&amp;only=styles&amp;skin=monobook&amp;*" />
+<!--[if IE 6]><link rel="stylesheet" href="/skins/monobook/IE60Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/skins/monobook/IE70Fixes.css?303" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: dailystunt_wiki:resourceloader:filter:minify-css:7:bcf2b4205b52540e110d3a777baf7453 */</style>
+
+<script src="http://www.x3wiki.com/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hercules","wgTitle":"Hercules","wgCurRevisionId":16381,"wgRevisionId":0,"wgArticleId":643,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"history","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hercules","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"monobook","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0
+,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: dailystunt_wiki:resourceloader:filter:minify-js:7:68471340157e99d9e2eb390b7623161a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Hercules skin-monobook action-history">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" class="mw-body-primary" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- centralNotice loads here --></div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- X3 wiki -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7526491584299412"
+     data-ad-slot="4173455889"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+	<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Revision history of "Hercules"</span></h1>
+	<div id="bodyContent" class="mw-body">
+		<div id="siteSub">From X3 Wiki</div>
+		<div id="contentSub"><a href="/index.php?title=Special:Log&amp;page=Hercules" title="Special:Log">View logs for this page</a></div>
+		<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+		<!-- start content -->
+<div id="mw-content-text"><form action="/index.php" method="get" id="mw-history-searchform"><fieldset id="mw-history-search">
+<legend>Browse history</legend>
+<input type="hidden" value="Hercules" name="title" />
+<input type="hidden" value="history" name="action" />
+<label for="year">From year (and earlier):</label> <input id="year" maxlength="4" size="7" type="number" value="2015" name="year" /> <label for="month">From month (and earlier):</label> <select id="month" name="month" class="mw-month-selector"><option value="-1">all</option>
+<option value="1">January</option>
+<option value="2">February</option>
+<option value="3">March</option>
+<option value="4">April</option>
+<option value="5">May</option>
+<option value="6">June</option>
+<option value="7">July</option>
+<option value="8">August</option>
+<option value="9">September</option>
+<option value="10">October</option>
+<option value="11">November</option>
+<option value="12">December</option></select>&#160;<input type="submit" value="Go" />
+</fieldset></form><div class="mw-history-legend">
+<p>Diff selection: Mark the radio boxes of the revisions to compare and hit enter or the button at the bottom.<br />
+Legend: <b>(cur)</b> = difference with latest revision, <b>(prev)</b> = difference with preceding revision, <b>m</b> = minor edit.
+</p>
+</div>
+<form action="/index.php" id="mw-history-compare">
+<input type="hidden" value="Hercules" name="title" />
+<input type="hidden" value="historysubmit" name="action" />
+<div><input type="submit" value="Compare selected revisions" class="historysubmit mw-history-compareselectedversions-button" title="See the differences between the two selected revisions of this page [v]" accesskey="v" />
+</div><ul id="pagehistory">
+<li><span class="mw-history-histlinks">(cur | <a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=16380" title="Hercules">prev</a>)</span><input type="radio" value="16381" style="visibility:hidden" name="oldid" id="mw-oldid-null" /><input type="radio" value="16381" checked="checked" name="diff" id="mw-diff-16381" /> <a href="/index.php?title=Hercules&amp;oldid=16381" title="Hercules" class="mw-changeslist-date">13:30, 11 August 2014</a>‎ <span class='history-user'><a href="/index.php?title=User:Osarakman88&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Osarakman88 (page does not exist)">Osarakman88</a>  <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Osarakman88&amp;action=edit&amp;redlink=1" class="new" title="User talk:Osarakman88 (page does not exist)">Talk</a> | <a href="/index.php/Special:Contributions/Osarakman88" title="Special:Contributions/Osarakman88">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,865 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,865 bytes after change">(+89)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Hercules#Suggested_Roles" title="Hercules">→</a>‎<span dir="auto"><span class="autocomment">Suggested Roles</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Hercules&amp;action=edit&amp;undoafter=16380&amp;undo=16381" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=16380" title="Hercules">cur</a> | <a href="/index.php?title=Hercules&amp;diff=16380&amp;oldid=14723" title="Hercules">prev</a>)</span><input type="radio" value="16380" checked="checked" name="oldid" id="mw-oldid-16380" /><input type="radio" value="16380" name="diff" id="mw-diff-16380" /> <a href="/index.php?title=Hercules&amp;oldid=16380" title="Hercules" class="mw-changeslist-date">13:28, 11 August 2014</a>‎ <span class='history-user'><a href="/index.php?title=User:Osarakman88&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Osarakman88 (page does not exist)">Osarakman88</a>  <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Osarakman88&amp;action=edit&amp;redlink=1" class="new" title="User talk:Osarakman88 (page does not exist)">Talk</a> | <a href="/index.php/Special:Contributions/Osarakman88" title="Special:Contributions/Osarakman88">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,776 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,776 bytes after change">(+1)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Hercules#Combat" title="Hercules">→</a>‎<span dir="auto"><span class="autocomment">Combat</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Hercules&amp;action=edit&amp;undoafter=14723&amp;undo=16380" title="Hercules">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=14723" title="Hercules">cur</a> | <a href="/index.php?title=Hercules&amp;diff=14723&amp;oldid=13535" title="Hercules">prev</a>)</span><input type="radio" value="14723" name="oldid" id="mw-oldid-14723" /><input type="radio" value="14723" name="diff" id="mw-diff-14723" /> <a href="/index.php?title=Hercules&amp;oldid=14723" title="Hercules" class="mw-changeslist-date">07:53, 25 February 2014</a>‎ <span class='history-user'><a href="/index.php/User:Knighster35" title="User:Knighster35" class="mw-userlink">Knighster35</a>  <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Knighster35" title="User talk:Knighster35">Talk</a> | <a href="/index.php/Special:Contributions/Knighster35" title="Special:Contributions/Knighster35">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,775 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,775 bytes after change">(+21)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(add a Paranid navbox)</span> (<span class="mw-history-undo"><a href="/index.php?title=Hercules&amp;action=edit&amp;undoafter=13535&amp;undo=14723" title="Hercules">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=13535" title="Hercules">cur</a> | <a href="/index.php?title=Hercules&amp;diff=13535&amp;oldid=12042" title="Hercules">prev</a>)</span><input type="radio" value="13535" name="oldid" id="mw-oldid-13535" /><input type="radio" value="13535" name="diff" id="mw-diff-13535" /> <a href="/index.php?title=Hercules&amp;oldid=13535" title="Hercules" class="mw-changeslist-date">05:04, 14 August 2013</a>‎ <span class='history-user'><a href="/index.php/User:Korlus" title="User:Korlus" class="mw-userlink">Korlus</a>  <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Korlus&amp;action=edit&amp;redlink=1" class="new" title="User talk:Korlus (page does not exist)">Talk</a> | <a href="/index.php/Special:Contributions/Korlus" title="Special:Contributions/Korlus">contribs</a>)</span></span>‎ <abbr class='minoredit' title='This is a minor edit'>m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,754 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,754 bytes after change">(+22)</span>‎ <span class="mw-changeslist-separator">. .</span>  (<span class="mw-history-undo"><a href="/index.php?title=Hercules&amp;action=edit&amp;undoafter=12042&amp;undo=13535" title="Hercules">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=12042" title="Hercules">cur</a> | <a href="/index.php?title=Hercules&amp;diff=12042&amp;oldid=11968" title="Hercules">prev</a>)</span><input type="radio" value="12042" name="oldid" id="mw-oldid-12042" /><input type="radio" value="12042" name="diff" id="mw-diff-12042" /> <a href="/index.php?title=Hercules&amp;oldid=12042" title="Hercules" class="mw-changeslist-date">16:22, 27 May 2013</a>‎ <span class='history-user'><a href="/index.php/User:Endemantis" title="User:Endemantis" class="mw-userlink">Endemantis</a>  <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Endemantis&amp;action=edit&amp;redlink=1" class="new" title="User talk:Endemantis (page does not exist)">Talk</a> | <a href="/index.php/Special:Contributions/Endemantis" title="Special:Contributions/Endemantis">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,732 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,732 bytes after change">(+77)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Hercules#Combat" title="Hercules">→</a>‎<span dir="auto"><span class="autocomment">Combat</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Hercules&amp;action=edit&amp;undoafter=11968&amp;undo=12042" title="Hercules">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=11968" title="Hercules">cur</a> | <a href="/index.php?title=Hercules&amp;diff=11968&amp;oldid=11967" title="Hercules">prev</a>)</span><input type="radio" value="11968" name="oldid" id="mw-oldid-11968" /><input type="radio" value="11968" name="diff" id="mw-diff-11968" /> <a href="/index.php?title=Hercules&amp;oldid=11968" title="Hercules" class="mw-changeslist-date">21:25, 25 April 2013</a>‎ <span class='history-user'><a href="/index.php?title=User:Osarakman88&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Osarakman88 (page does not exist)">Osarakman88</a>  <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Osarakman88&amp;action=edit&amp;redlink=1" class="new" title="User talk:Osarakman88 (page does not exist)">Talk</a> | <a href="/index.php/Special:Contributions/Osarakman88" title="Special:Contributions/Osarakman88">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,655 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,655 bytes after change">(+81)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Hercules#Physical_Characteristics" title="Hercules">→</a>‎<span dir="auto"><span class="autocomment">Physical Characteristics</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Hercules&amp;action=edit&amp;undoafter=11967&amp;undo=11968" title="Hercules">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=11967" title="Hercules">cur</a> | <a href="/index.php?title=Hercules&amp;diff=11967&amp;oldid=11966" title="Hercules">prev</a>)</span><input type="radio" value="11967" name="oldid" id="mw-oldid-11967" /><input type="radio" value="11967" name="diff" id="mw-diff-11967" /> <a href="/index.php?title=Hercules&amp;oldid=11967" title="Hercules" class="mw-changeslist-date">21:22, 25 April 2013</a>‎ <span class='history-user'><a href="/index.php?title=User:Osarakman88&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Osarakman88 (page does not exist)">Osarakman88</a>  <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Osarakman88&amp;action=edit&amp;redlink=1" class="new" title="User talk:Osarakman88 (page does not exist)">Talk</a> | <a href="/index.php/Special:Contributions/Osarakman88" title="Special:Contributions/Osarakman88">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,574 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,574 bytes after change">(+221)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Hercules#Suggested_Roles" title="Hercules">→</a>‎<span dir="auto"><span class="autocomment">Suggested Roles</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Hercules&amp;action=edit&amp;undoafter=11966&amp;undo=11967" title="Hercules">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=11966" title="Hercules">cur</a> | <a href="/index.php?title=Hercules&amp;diff=11966&amp;oldid=11965" title="Hercules">prev</a>)</span><input type="radio" value="11966" name="oldid" id="mw-oldid-11966" /><input type="radio" value="11966" name="diff" id="mw-diff-11966" /> <a href="/index.php?title=Hercules&amp;oldid=11966" title="Hercules" class="mw-changeslist-date">21:19, 25 April 2013</a>‎ <span class='history-user'><a href="/index.php?title=User:Osarakman88&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Osarakman88 (page does not exist)">Osarakman88</a>  <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Osarakman88&amp;action=edit&amp;redlink=1" class="new" title="User talk:Osarakman88 (page does not exist)">Talk</a> | <a href="/index.php/Special:Contributions/Osarakman88" title="Special:Contributions/Osarakman88">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,353 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,353 bytes after change">(+27)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Hercules#Availability" title="Hercules">→</a>‎<span dir="auto"><span class="autocomment">Availability</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Hercules&amp;action=edit&amp;undoafter=11965&amp;undo=11966" title="Hercules">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=11965" title="Hercules">cur</a> | <a href="/index.php?title=Hercules&amp;diff=11965&amp;oldid=11964" title="Hercules">prev</a>)</span><input type="radio" value="11965" name="oldid" id="mw-oldid-11965" /><input type="radio" value="11965" name="diff" id="mw-diff-11965" /> <a href="/index.php?title=Hercules&amp;oldid=11965" title="Hercules" class="mw-changeslist-date">21:18, 25 April 2013</a>‎ <span class='history-user'><a href="/index.php?title=User:Osarakman88&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Osarakman88 (page does not exist)">Osarakman88</a>  <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Osarakman88&amp;action=edit&amp;redlink=1" class="new" title="User talk:Osarakman88 (page does not exist)">Talk</a> | <a href="/index.php/Special:Contributions/Osarakman88" title="Special:Contributions/Osarakman88">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,326 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,326 bytes after change">(+74)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Hercules#Suggested_Roles" title="Hercules">→</a>‎<span dir="auto"><span class="autocomment">Suggested Roles</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Hercules&amp;action=edit&amp;undoafter=11964&amp;undo=11965" title="Hercules">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=11964" title="Hercules">cur</a> | <a href="/index.php?title=Hercules&amp;diff=11964&amp;oldid=11012" title="Hercules">prev</a>)</span><input type="radio" value="11964" name="oldid" id="mw-oldid-11964" /><input type="radio" value="11964" name="diff" id="mw-diff-11964" /> <a href="/index.php?title=Hercules&amp;oldid=11964" title="Hercules" class="mw-changeslist-date">21:16, 25 April 2013</a>‎ <span class='history-user'><a href="/index.php?title=User:Osarakman88&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Osarakman88 (page does not exist)">Osarakman88</a>  <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Osarakman88&amp;action=edit&amp;redlink=1" class="new" title="User talk:Osarakman88 (page does not exist)">Talk</a> | <a href="/index.php/Special:Contributions/Osarakman88" title="Special:Contributions/Osarakman88">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,252 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,252 bytes after change">(+336)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Hercules#Suggested_Roles" title="Hercules">→</a>‎<span dir="auto"><span class="autocomment">Suggested Roles</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Hercules&amp;action=edit&amp;undoafter=11012&amp;undo=11964" title="Hercules">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=11012" title="Hercules">cur</a> | <a href="/index.php?title=Hercules&amp;diff=11012&amp;oldid=10829" title="Hercules">prev</a>)</span><input type="radio" value="11012" name="oldid" id="mw-oldid-11012" /><input type="radio" value="11012" name="diff" id="mw-diff-11012" /> <a href="/index.php?title=Hercules&amp;oldid=11012" title="Hercules" class="mw-changeslist-date">17:49, 16 November 2012</a>‎ <span class='history-user'><a href="/index.php/User:Bizbag" title="User:Bizbag" class="mw-userlink">Bizbag</a>  <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Bizbag&amp;action=edit&amp;redlink=1" class="new" title="User talk:Bizbag (page does not exist)">Talk</a> | <a href="/index.php/Special:Contributions/Bizbag" title="Special:Contributions/Bizbag">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,916 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="2,916 bytes after change">(+442)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Hercules#Background" title="Hercules">→</a>‎<span dir="auto"><span class="autocomment">Background</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Hercules&amp;action=edit&amp;undoafter=10829&amp;undo=11012" title="Hercules">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=10829" title="Hercules">cur</a> | <a href="/index.php?title=Hercules&amp;diff=10829&amp;oldid=10447" title="Hercules">prev</a>)</span><input type="radio" value="10829" name="oldid" id="mw-oldid-10829" /><input type="radio" value="10829" name="diff" id="mw-diff-10829" /> <a href="/index.php?title=Hercules&amp;oldid=10829" title="Hercules" class="mw-changeslist-date">10:19, 17 October 2012</a>‎ <span class='history-user'><a href="/index.php/User:Skald359" title="User:Skald359" class="mw-userlink">Skald359</a>  <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Skald359&amp;action=edit&amp;redlink=1" class="new" title="User talk:Skald359 (page does not exist)">Talk</a> | <a href="/index.php/Special:Contributions/Skald359" title="Special:Contributions/Skald359">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,474 bytes)</span> <span dir="ltr" class="mw-plusminus-neg" title="2,474 bytes after change">(-267)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(added TL template)</span> (<span class="mw-history-undo"><a href="/index.php?title=Hercules&amp;action=edit&amp;undoafter=10447&amp;undo=10829" title="Hercules">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=10447" title="Hercules">cur</a> | <a href="/index.php?title=Hercules&amp;diff=10447&amp;oldid=7998" title="Hercules">prev</a>)</span><input type="radio" value="10447" name="oldid" id="mw-oldid-10447" /><input type="radio" value="10447" name="diff" id="mw-diff-10447" /> <a href="/index.php?title=Hercules&amp;oldid=10447" title="Hercules" class="mw-changeslist-date">23:50, 10 October 2012</a>‎ <span class='history-user'><a href="/index.php/User:Skald359" title="User:Skald359" class="mw-userlink">Skald359</a>  <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Skald359&amp;action=edit&amp;redlink=1" class="new" title="User talk:Skald359 (page does not exist)">Talk</a> | <a href="/index.php/Special:Contributions/Skald359" title="Special:Contributions/Skald359">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,741 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="2,741 bytes after change">(+13)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(added to infobox)</span> (<span class="mw-history-undo"><a href="/index.php?title=Hercules&amp;action=edit&amp;undoafter=7998&amp;undo=10447" title="Hercules">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=7998" title="Hercules">cur</a> | <a href="/index.php?title=Hercules&amp;diff=7998&amp;oldid=4242" title="Hercules">prev</a>)</span><input type="radio" value="7998" name="oldid" id="mw-oldid-7998" /><input type="radio" value="7998" name="diff" id="mw-diff-7998" /> <a href="/index.php?title=Hercules&amp;oldid=7998" title="Hercules" class="mw-changeslist-date">09:02, 9 December 2011</a>‎ <span class='history-user'><a href="/index.php/Special:Contributions/118.208.2.229" title="Special:Contributions/118.208.2.229" class="mw-userlink">118.208.2.229</a>  <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:118.208.2.229&amp;action=edit&amp;redlink=1" class="new" title="User talk:118.208.2.229 (page does not exist)">Talk</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,728 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="2,728 bytes after change">(+17)</span>‎ <span class="mw-changeslist-separator">. .</span>  (<span class="mw-history-undo"><a href="/index.php?title=Hercules&amp;action=edit&amp;undoafter=4242&amp;undo=7998" title="Hercules">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=4242" title="Hercules">cur</a> | <a href="/index.php?title=Hercules&amp;diff=4242&amp;oldid=3695" title="Hercules">prev</a>)</span><input type="radio" value="4242" name="oldid" id="mw-oldid-4242" /><input type="radio" value="4242" name="diff" id="mw-diff-4242" /> <a href="/index.php?title=Hercules&amp;oldid=4242" title="Hercules" class="mw-changeslist-date">16:20, 16 November 2010</a>‎ <span class='history-user'><a href="/index.php/User:Spychotic" title="User:Spychotic" class="mw-userlink">Spychotic</a>  <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Spychotic" title="User talk:Spychotic">Talk</a> | <a href="/index.php/Special:Contributions/Spychotic" title="Special:Contributions/Spychotic">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,711 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="2,711 bytes after change">(+22)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Hercules#See_Also" title="Hercules">→</a>‎<span dir="auto"><span class="autocomment">See Also</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Hercules&amp;action=edit&amp;undoafter=3695&amp;undo=4242" title="Hercules">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=3695" title="Hercules">cur</a> | <a href="/index.php?title=Hercules&amp;diff=3695&amp;oldid=3694" title="Hercules">prev</a>)</span><input type="radio" value="3695" name="oldid" id="mw-oldid-3695" /><input type="radio" value="3695" name="diff" id="mw-diff-3695" /> <a href="/index.php?title=Hercules&amp;oldid=3695" title="Hercules" class="mw-changeslist-date">18:08, 23 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Spychotic" title="User:Spychotic" class="mw-userlink">Spychotic</a>  <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Spychotic" title="User talk:Spychotic">Talk</a> | <a href="/index.php/Special:Contributions/Spychotic" title="Special:Contributions/Spychotic">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,689 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="2,689 bytes after change">(+236)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Hercules#See_Also" title="Hercules">→</a>‎<span dir="auto"><span class="autocomment">See Also</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Hercules&amp;action=edit&amp;undoafter=3694&amp;undo=3695" title="Hercules">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=3694" title="Hercules">cur</a> | <a href="/index.php?title=Hercules&amp;diff=3694&amp;oldid=3693" title="Hercules">prev</a>)</span><input type="radio" value="3694" name="oldid" id="mw-oldid-3694" /><input type="radio" value="3694" name="diff" id="mw-diff-3694" /> <a href="/index.php?title=Hercules&amp;oldid=3694" title="Hercules" class="mw-changeslist-date">18:08, 23 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Spychotic" title="User:Spychotic" class="mw-userlink">Spychotic</a>  <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Spychotic" title="User talk:Spychotic">Talk</a> | <a href="/index.php/Special:Contributions/Spychotic" title="Special:Contributions/Spychotic">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,453 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="2,453 bytes after change">(+32)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Hercules#Combat" title="Hercules">→</a>‎<span dir="auto"><span class="autocomment">Combat</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Hercules&amp;action=edit&amp;undoafter=3693&amp;undo=3694" title="Hercules">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=3693" title="Hercules">cur</a> | <a href="/index.php?title=Hercules&amp;diff=3693&amp;oldid=3649" title="Hercules">prev</a>)</span><input type="radio" value="3693" name="oldid" id="mw-oldid-3693" /><input type="radio" value="3693" name="diff" id="mw-diff-3693" /> <a href="/index.php?title=Hercules&amp;oldid=3693" title="Hercules" class="mw-changeslist-date">18:07, 23 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Spychotic" title="User:Spychotic" class="mw-userlink">Spychotic</a>  <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Spychotic" title="User talk:Spychotic">Talk</a> | <a href="/index.php/Special:Contributions/Spychotic" title="Special:Contributions/Spychotic">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,421 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="2,421 bytes after change">(+222)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Hercules#Combat" title="Hercules">→</a>‎<span dir="auto"><span class="autocomment">Combat</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Hercules&amp;action=edit&amp;undoafter=3649&amp;undo=3693" title="Hercules">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=3649" title="Hercules">cur</a> | <a href="/index.php?title=Hercules&amp;diff=3649&amp;oldid=2234" title="Hercules">prev</a>)</span><input type="radio" value="3649" name="oldid" id="mw-oldid-3649" /><input type="radio" value="3649" name="diff" id="mw-diff-3649" /> <a href="/index.php?title=Hercules&amp;oldid=3649" title="Hercules" class="mw-changeslist-date">11:23, 23 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Master_of_the_Blade" title="User:Master of the Blade" class="mw-userlink">Master of the Blade</a>  <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Master_of_the_Blade&amp;action=edit&amp;redlink=1" class="new" title="User talk:Master of the Blade (page does not exist)">Talk</a> | <a href="/index.php/Special:Contributions/Master_of_the_Blade" title="Special:Contributions/Master of the Blade">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,199 bytes)</span> <strong dir="ltr" class="mw-plusminus-pos" title="2,199 bytes after change">(+525)</strong>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Hercules#Overview" title="Hercules">→</a>‎<span dir="auto"><span class="autocomment">Overview</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Hercules&amp;action=edit&amp;undoafter=2234&amp;undo=3649" title="Hercules">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=2234" title="Hercules">cur</a> | <a href="/index.php?title=Hercules&amp;diff=2234&amp;oldid=2233" title="Hercules">prev</a>)</span><input type="radio" value="2234" name="oldid" id="mw-oldid-2234" /><input type="radio" value="2234" name="diff" id="mw-diff-2234" /> <a href="/index.php?title=Hercules&amp;oldid=2234" title="Hercules" class="mw-changeslist-date">13:49, 6 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a>  <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">Talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></span>‎ <abbr class='minoredit' title='This is a minor edit'>m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(1,674 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="1,674 bytes after change">(+29)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(docking)</span> (<span class="mw-history-undo"><a href="/index.php?title=Hercules&amp;action=edit&amp;undoafter=2233&amp;undo=2234" title="Hercules">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Hercules&amp;diff=16381&amp;oldid=2233" title="Hercules">cur</a> | prev)</span><input type="radio" value="2233" name="oldid" id="mw-oldid-2233" /><input type="radio" value="2233" name="diff" id="mw-diff-2233" /> <a href="/index.php?title=Hercules&amp;oldid=2233" title="Hercules" class="mw-changeslist-date">13:48, 6 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a>  <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">Talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(1,645 bytes)</span> <strong dir="ltr" class="mw-plusminus-pos" title="1,645 bytes after change">(+1,645)</strong>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(start)</span></li>
+</ul>
+<div><input type="submit" value="Compare selected revisions" class="historysubmit mw-history-compareselectedversions-button" title="See the differences between the two selected revisions of this page [v]" accesskey="v" />
+</div></form></div><div class="printfooter">
+Retrieved from "<a href="http://www.x3wiki.com/index.php/Hercules">http://www.x3wiki.com/index.php/Hercules</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<h2>Navigation menu</h2>
+	<div id="p-cactions" class="portlet" role="navigation">
+		<h3>Views</h3>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/index.php/Hercules" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/index.php?title=Talk:Hercules&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit"><a href="/index.php?title=Hercules&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				<li id="ca-history" class="selected"><a href="/index.php?title=Hercules&amp;action=history" rel="archives" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal" role="navigation">
+		<h3>Personal tools</h3>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="/index.php/User:174.129.228.67" class="new" title="The user page for the IP address you are editing as [.]" accesskey=".">174.129.228.67</a></li>
+				<li id="pt-anontalk"><a href="/index.php/User_talk:174.129.228.67" class="new" title="Discussion about edits from this IP address [n]" accesskey="n">Talk for this IP address</a></li>
+				<li id="pt-createaccount"><a href="/index.php?title=Special:UserLogin&amp;returnto=Hercules&amp;returntoquery=action%3Dhistory&amp;type=signup">Create account</a></li>
+				<li id="pt-anonlogin"><a href="/index.php?title=Special:UserLogin&amp;returnto=Hercules&amp;returntoquery=action%3Dhistory" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo" role="banner">
+<a href="/index.php/Main_Page" style="background-image: url(http://www.x3wiki.com/x3.jpg);" title="Visit the main page"></a>
+	</div>
+	<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" rel="nofollow" title="The place to find out">Help</a></li>
+				<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict" role="navigation">
+		<h3>X3 Terran Conflict</h3>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+				<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+				<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+				<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+				<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+				<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+				<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+				<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+				<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+				<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+				<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="generated-sidebar portlet" id="p-Links" role="navigation">
+		<h3>Links</h3>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Wildstar-trial"><a href="http://www.wildstartrial.com" rel="nofollow">Wildstar trial</a></li>
+				<li id="n-MMO-Server-Status"><a href="http://www.mmoserverstatus.com" rel="nofollow">MMO Server Status</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div id="p-search" class="portlet" role="search">
+		<h3><label for="searchInput">Search</label></h3>
+		<div id="searchBody" class="pBody">
+			<form action="/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb" role="navigation">
+		<h3>Tools</h3>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Hercules" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Hercules" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="feedlinks"><a href="/index.php?title=Hercules&amp;feed=atom&amp;action=history" id="feed-atom" rel="alternate" type="application/atom+xml" class="feedlink" title="Atom feed for this page">Atom</a></li>
+				<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-info"><a href="/index.php?title=Hercules&amp;action=info">Page information</a></li>
+			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer" role="contentinfo">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+		<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.history","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"],null,true);
+}</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-265105-19");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script>
+<script>if(window.mw){
+mw.loader.state({"site":"ready"});
+}</script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><!-- Served in 0.289 secs. --></body></html>

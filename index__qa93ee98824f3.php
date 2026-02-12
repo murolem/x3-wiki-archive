@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>Thyn's Excavation - X3 Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Thyn's_Excavation","wgTitle":"Thyn's Excavation","wgCurRevisionId":16300,"wgRevisionId":16300,"wgArticleId":418,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Sectors","Split"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Thyn's_Excavation","wgRelevantArticleId":418,"wgRequestId":"WXDuc1kfZokAABr-LbMAAAAK","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<!--[if IE 6]><link rel="stylesheet" href="/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]-->
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Thyn%27s_Excavation&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/index.php?title=Thyn%27s_Excavation&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://x3wiki.com/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Thyn_s_Excavation rootpage-Thyn_s_Excavation skin-monobook action-view">
+<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+									<div id="siteNotice"><!-- centralNotice loads here --></div>
+				<div class="mw-indicators">
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7526491584299412",
+    enable_page_level_ads: true
+  });
+</script>
+
+<!-- X3 wiki -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7526491584299412"
+     data-ad-slot="4173455889"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+				<h1 id="firstHeading" class="firstHeading" lang="en">Thyn's Excavation</h1>
+				
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From X3 Wiki</div>
+					<div id="contentSub"><div id="mw-revision-info">Revision as of 22:30, 29 June 2014 by <a href="/index.php/User:Amraam" title="User:Amraam" class="mw-userlink">Amraam</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Amraam&amp;action=edit&amp;redlink=1" class="new" title="User talk:Amraam (page does not exist)">talk</a> | <a href="/index.php/Special:Contributions/Amraam" title="Special:Contributions/Amraam">contribs</a>)</span> <span class="comment">(<a href="#Description">→</a>‎<span dir="auto"><span class="autocomment">Description</span></span>)</span></div><br />
+				<div id="mw-revision-nav">(<a href="/index.php?title=Thyn%27s_Excavation&amp;diff=prev&amp;oldid=16300" title="Thyn's Excavation">diff</a>) <a href="/index.php?title=Thyn%27s_Excavation&amp;direction=prev&amp;oldid=16300" title="Thyn's Excavation">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table style="background-color: WhiteSmoke; text-align:left; padding: 0 em 0.25em; border: 1px solid DarkGray; float: right; margin-left: 1em;">
+<tr>
+<th style="text-align:center;background-color:#A36FD1;" colspan="2">Sector Information
+</th></tr>
+<tr>
+<th> <a href="/index.php/Races" title="Races">Race</a>
+</th>
+<td> <a href="/index.php/Split" title="Split"> Split </a>
+</td></tr>
+<tr>
+<th> <a href="/index.php/Sector_Security" title="Sector Security">Security Level</a>
+</th>
+<td> Border
+</td></tr>
+<tr>
+<th> Population
+</th>
+<td> 73,317,414
+</td></tr>
+<tr>
+<th> Planets
+</th>
+<td> 3
+</td></tr>
+<tr>
+<th> Sun Strength
+</th>
+<td> 150<b>%</b>
+</td></tr>
+<tr>
+<th> Sector Size
+</th>
+<td> 80 <b>km</b>
+</td></tr>
+<tr>
+<th style="text-align:center;background-color:#A36FD1;" colspan="2">Gates
+</th></tr>
+<tr>
+<td colspan="2"><table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+<tr><th style="text-align:left">North</th><td>0 <b>m</b></td><td>0 <b>m</b></td><td>34,000 <b>m</b></td><td style="text-align:left"><a href="/index.php/Contorted_Dominion" title="Contorted Dominion">Contorted Dominion</a></td></tr>
+</table>
+</td></tr>
+<tr>
+<td style="text-align:center;background-color:#A36FD1;" colspan="2"><a href="/index.php/Universe_map#X_Universe" title="Universe map">Universe Map</a>
+</td></tr></table>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Default_Stations"><span class="tocnumber">2</span> <span class="toctext">Default Stations</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Asteroids"><span class="tocnumber">3</span> <span class="toctext">Asteroids</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_Also"><span class="tocnumber">4</span> <span class="toctext">See Also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Thyn%27s_Excavation&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Holding the Strong Arms HQ, Thyn's Excavation provides funds and resources for the ongoing conflict in Veil of Delusion. Naturally this has extended to arms shipments wherever else they are needed. For the Split, the price of war is never too high.
+</p>
+<h2><span class="mw-headline" id="Default_Stations">Default <a href="/index.php/Stations" title="Stations">Stations</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Thyn%27s_Excavation&amp;action=edit&amp;section=2" title="Edit section: Default Stations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/index.php/Strong_Arms" title="Strong Arms">Strong Arms HQ</a></li></ul>
+<h2><span class="mw-headline" id="Asteroids"><a href="/index.php/Asteroids" title="Asteroids">Asteroids</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Thyn%27s_Excavation&amp;action=edit&amp;section=3" title="Edit section: Asteroids">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table style="text-align:right;" class="wikitable sortable" cellpadding="3">
+<tr>
+<th colspan="2" style="text-align:center;"> Asteroid
+</th>
+<th colspan="3" style="text-align:center;"> Coordinates (m)
+</th></tr>
+<tr>
+<th style="text-align:center;" width="100px"> Ware<br />
+</th>
+<th style="text-align:center;" width="80px"> Yield<br />
+</th>
+<th style="text-align:center;" width="60px"> x<br />
+</th>
+<th style="text-align:center;" width="60px"> y<br />
+</th>
+<th style="text-align:center;" width="60px"> z<br />
+</th></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Ore" title="Ore">Ore</a>
+</td>
+<td style="text-align:center;"> 25
+</td>
+<td>  -907
+</td>
+<td>  15581
+</td>
+<td>  39674
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Ore" title="Ore">Ore</a>
+</td>
+<td style="text-align:center;"> 20
+</td>
+<td>  -8591
+</td>
+<td>  -17909
+</td>
+<td>  15747
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Ore" title="Ore">Ore</a>
+</td>
+<td style="text-align:center;"> 11
+</td>
+<td>  34115
+</td>
+<td>  -8270
+</td>
+<td>  -35200
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Ore" title="Ore">Ore</a>
+</td>
+<td style="text-align:center;"> 5
+</td>
+<td>  33582
+</td>
+<td>  12783
+</td>
+<td>  37186
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Ore" title="Ore">Ore</a>
+</td>
+<td style="text-align:center;"> 5
+</td>
+<td>  -5949
+</td>
+<td>  5955
+</td>
+<td>  24981
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a>
+</td>
+<td style="text-align:center;"> 54
+</td>
+<td>  36779
+</td>
+<td>  16185
+</td>
+<td>  -30428
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a>
+</td>
+<td style="text-align:center;"> 36
+</td>
+<td>  -52142
+</td>
+<td>  11540
+</td>
+<td>  -10414
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a>
+</td>
+<td style="text-align:center;"> 36
+</td>
+<td>  -45642
+</td>
+<td>  11540
+</td>
+<td>  -20414
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a>
+</td>
+<td style="text-align:center;"> 25
+</td>
+<td>  -48823
+</td>
+<td>  -18847
+</td>
+<td>  14529
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a>
+</td>
+<td style="text-align:center;"> 9
+</td>
+<td>  11667
+</td>
+<td>  -33799
+</td>
+<td>  -21715
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a>
+</td>
+<td style="text-align:center;"> 8
+</td>
+<td>  -45999
+</td>
+<td>  10243
+</td>
+<td>  10785
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a>
+</td>
+<td style="text-align:center;"> 5
+</td>
+<td>  40352
+</td>
+<td>  20240
+</td>
+<td>  9056
+</td></tr></table>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="See_Also">See Also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Thyn%27s_Excavation&amp;action=edit&amp;section=4" title="Edit section: See Also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table width="auto" style="text-align:center; border-width:1px; border-style:solid; border-color:lightgrey;">
+<tr>
+<th colspan="3" style="background-color:#A36FD1;"> <a href="/index.php/Split" title="Split">Split</a> Navigation
+</th></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> Core <a href="/index.php/Sectors" title="Sectors">Sectors</a>
+</th>
+<td> <a href="/index.php/Family_Njy" title="Family Njy">Family Njy</a> | <a href="/index.php/Family_Pride" title="Family Pride">Family Pride</a> | <a href="/index.php/Family_Rhonkar" title="Family Rhonkar">Family Rhonkar</a> | <a href="/index.php/Family_Rhy" title="Family Rhy">Family Rhy</a> | <a href="/index.php/Family_Tkr" title="Family Tkr">Family Tkr</a> | <a href="/index.php/Family_Zein" title="Family Zein">Family Zein</a> | <a href="/index.php/Njy%27s_Deception" title="Njy's Deception">Njy's Deception</a> | <a href="/index.php/Patriarch%27s_Conclusion" title="Patriarch's Conclusion">Patriarch's Conclusion</a> | <a href="/index.php/Rhonkar%27s_Might" title="Rhonkar's Might">Rhonkar's Might</a> | <a href="/index.php/Rhy%27s_Crusade" title="Rhy's Crusade">Rhy's Crusade</a> | <a href="/index.php/Thuruk%27s_Pride" title="Thuruk's Pride">Thuruk's Pride</a>
+</td></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> <a href="/index.php/Sector_Security" title="Sector Security">Border</a> Sectors
+</th>
+<td style="background-color: #EEEEEE;"> <a href="/index.php/Cho%27s_Defeat" title="Cho's Defeat">Cho's Defeat</a> | <a href="/index.php/Contorted_Dominion" title="Contorted Dominion">Contorted Dominion</a> | <a href="/index.php/Family_Ryk" title="Family Ryk">Family Ryk</a> | <a href="/index.php/Family_Whi" title="Family Whi">Family Whi</a> | <a href="/index.php/Family_Zyarth" title="Family Zyarth">Family Zyarth</a> | <a href="/index.php/Ghinn%27s_Escape" title="Ghinn's Escape">Ghinn's Escape</a> | <a href="/index.php/Patriarch%27s_Keep" title="Patriarch's Keep">Patriarch's Keep</a> | <a href="/index.php/Patriarch%27s_Retreat" title="Patriarch's Retreat">Patriarch's Retreat</a> | <a href="/index.php/Rhonkar%27s_Clouds" title="Rhonkar's Clouds">Rhonkar's Clouds</a> | <a href="/index.php/Rhonkar%27s_Fire" title="Rhonkar's Fire">Rhonkar's Fire</a> | <a href="/index.php/Rhonkar%27s_Trial" title="Rhonkar's Trial">Rhonkar's Trial</a> | <a href="/index.php/Rhy%27s_Desire" title="Rhy's Desire">Rhy's Desire</a> | <a href="/index.php/Tharka%27s_Sun" title="Tharka's Sun">Tharka's Sun</a> | <a href="/index.php/The_Shallows" title="The Shallows">The Shallows</a> | <a href="/index.php/Thuruk%27s_Beard" title="Thuruk's Beard">Thuruk's Beard</a> | <a href="/index.php/Thyn%27s_Abyss" title="Thyn's Abyss">Thyn's Abyss</a> | <strong class="selflink">Thyn's Excavation</strong> | <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a> | <a href="/index.php/Wretched_Skies" title="Wretched Skies">Wretched Skies</a> | <a href="/index.php/Zyarth%27s_Dominion" title="Zyarth's Dominion">Zyarth's Dominion</a> | <a href="/index.php/Zyarth%27s_Stand" title="Zyarth's Stand">Zyarth's Stand</a>
+</td></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> <a href="/index.php/Category:Capital_Ships" title="Category:Capital Ships">Capital Ships</a>
+</th>
+<td> <b><a href="/index.php/M1" title="M1">M1</a>:</b> <a href="/index.php/Raptor" title="Raptor">Raptor</a> |  <b><a href="/index.php/M2" title="M2">M2</a>:</b> <a href="/index.php/Python" title="Python">Python</a> | <b><a href="/index.php/M2%2B" title="M2+">M2+</a>:</b> <a href="/index.php/Pteranodon" title="Pteranodon">Pteranodon</a> | <b><a href="/index.php/M7" title="M7">M7</a>:</b> <a href="/index.php/Tiger" title="Tiger">Tiger</a>, <a href="/index.php/Panther" title="Panther">Panther</a> | <b><a href="/index.php/M7C" title="M7C">M7C</a>:</b> None | <b><a href="/index.php/M7M" title="M7M">M7M</a>:</b> <a href="/index.php/Cobra" title="Cobra">Cobra</a>
+</td></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> <a href="/index.php/Category:Fighters" title="Category:Fighters">Fighters</a>
+</th>
+<td style="background-color: #EEEEEE;"> <b><a href="/index.php/M3" title="M3">M3</a>:</b> <a href="/index.php/Mamba" title="Mamba">Mamba</a> | <b><a href="/index.php/M3%2B" title="M3+">M3+</a>:</b> <a href="/index.php/Chimera" title="Chimera">Chimera</a> | <b><a href="/index.php/M4" title="M4">M4</a>:</b> <a href="/index.php/Scorpion" title="Scorpion">Scorpion</a> | <b><a href="/index.php/M4%2B" title="M4+">M4+</a>:</b> <a href="/index.php/Asp" title="Asp">Asp</a> | <b><a href="/index.php/M5" title="M5">M5</a>:</b> <a href="/index.php/Jaguar" title="Jaguar">Jaguar</a>
+</td></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> <a href="/index.php/Category:Escort" title="Category:Escort">Escort Ships</a>
+</th>
+<td> <b><a href="/index.php/M6" title="M6">M6</a>:</b> <a href="/index.php/Dragon" title="Dragon">Dragon</a> | <b><a href="/index.php/M6%2B" title="M6+">M6+</a>:</b> <a href="/index.php/Heavy_Dragon" title="Heavy Dragon">Heavy Dragon</a> | <b><a href="/index.php/M8" title="M8">M8</a>:</b> <a href="/index.php/Viper" title="Viper">Viper</a>
+</td></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> <a href="/index.php/Category:Transport" title="Category:Transport">Transports</a>
+</th>
+<td style="background-color: #EEEEEE;"> <b><a href="/index.php/TL" title="TL">TL</a>:</b> <a href="/index.php/Elephant" title="Elephant">Elephant</a> | <b><a href="/index.php/TM" title="TM">TM</a>:</b> <a href="/index.php/Boa" title="Boa">Boa</a> | <b><a href="/index.php/TP" title="TP">TP</a>:</b> <a href="/index.php/Iguana" title="Iguana">Iguana</a>, <a href="/index.php/Ocelot" title="Ocelot">Ocelot</a> | <b><a href="/index.php/TS" title="TS">TS</a>:</b> <a href="/index.php/Caiman" title="Caiman">Caiman</a> | <b><a href="/index.php/TS%2B" title="TS+">TS+</a>:</b> <a href="/index.php/Drake" title="Drake">Drake</a>
+</td></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> <a href="/index.php/Shipyard" title="Shipyard">Shipyards</a>
+</th>
+<td> <a href="/index.php/Cho%27s_Defeat" title="Cho's Defeat">Cho's Defeat</a> | <a href="/index.php/Family_Njy" title="Family Njy">Family Njy</a> | <a href="/index.php/Family_Pride" title="Family Pride">Family Pride</a> | <a href="/index.php/Family_Rhy" title="Family Rhy">Family Rhy</a> | <a href="/index.php/Family_Tkr" title="Family Tkr">Family Tkr</a> | <a href="/index.php/Patriarch%27s_Conclusion" title="Patriarch's Conclusion">Patriarch's Conclusion</a> | <a href="/index.php/Rhonkar%27s_Might" title="Rhonkar's Might">Rhonkar's Might</a> | <a href="/index.php/Rhonkar%27s_Trial" title="Rhonkar's Trial">Rhonkar's Trial</a> | <a href="/index.php/Zyarth%27s_Dominion" title="Zyarth's Dominion">Zyarth's Dominion</a> | <a href="/index.php/Zyarth%27s_Stand" title="Zyarth's Stand">Zyarth's Stand</a> (AP only)
+</td></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> Racial <a href="/index.php/Wares" title="Wares">Wares</a>
+</th>
+<td style="background-color: #EEEEEE;"> <a href="/index.php/Rastar_Oil" title="Rastar Oil">Rastar Oil</a> | <a href="/index.php/Chelts_Meat" title="Chelts Meat">Chelts Meat</a> | <a href="/index.php/Scruffin_Fruits" title="Scruffin Fruits">Scruffin Fruits</a> | <a href="/index.php/Spaceflies" title="Spaceflies">Spaceflies</a> | <a href="/index.php/Massom_Powder" title="Massom Powder">Massom Powder</a>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20170720004116
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.025 seconds
+Real time usage: 0.027 seconds
+Preprocessor visited node count: 250/1000000
+Preprocessor generated node count: 1078/1000000
+Post‐expand include size: 5650/2097152 bytes
+Template argument size: 683/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   12.738      1 - -total
+ 44.75%    5.700      1 - Template:Infobox_Sector
+ 22.50%    2.867     12 - Template:Asteroid/Item
+ 10.52%    1.340      1 - Template:Split_Navbox
+  8.89%    1.133      1 - Template:Gateblock/End
+  8.40%    1.070      1 - Template:Gateblock2
+  6.83%    0.870      1 - Template:Asteroid/Begin
+  6.11%    0.778      4 - Template:Colour/Split
+  5.52%    0.703      1 - Template:Gateblock/Begin
+  5.48%    0.698      1 - Template:Asteroid/End
+-->
+
+<!-- Saved in parser cache with key dailystunt_wiki:pcache:idhash:418-0!*!0!!en!*!* and timestamp 20170720004116 and revision id 16300
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://x3wiki.com/index.php?title=Thyn%27s_Excavation&amp;oldid=16300">http://x3wiki.com/index.php?title=Thyn%27s_Excavation&amp;oldid=16300</a>"</div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/index.php/Category:Sectors" title="Category:Sectors">Sectors</a></li><li><a href="/index.php/Category:Split" title="Category:Split">Split</a></li></ul></div></div>					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+			</div>
+		</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/index.php/Thyn%27s_Excavation" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/index.php?title=Talk:Thyn%27s_Excavation&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit"><a href="/index.php?title=Thyn%27s_Excavation&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+				<li id="ca-history"><a href="/index.php?title=Thyn%27s_Excavation&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+						<li id="pt-anonuserpage">Not logged in</li>							<li id="pt-anontalk"><a href="/index.php/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+													<li id="pt-anoncontribs"><a href="/index.php/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+													<li id="pt-createaccount"><a href="/index.php?title=Special:CreateAccount&amp;returnto=Thyn%27s+Excavation&amp;returntoquery=oldid%3D16300" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Thyn%27s+Excavation&amp;returntoquery=oldid%3D16300" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/index.php/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+											<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>
+											<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict" role="navigation">
+		<h3>X3 Terran Conflict</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+											<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+											<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+											<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+											<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+											<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+											<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+											<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+											<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+											<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+											<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Links" role="navigation">
+		<h3>Links</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-MMO-Server-Status"><a href="http://www.mmoserverstatus.com">MMO Server Status</a></li>
+											<li id="n-Compare-Everglades-Tours"><a href="http://www.compare-everglades-tours.com">Compare Everglades Tours</a></li>
+											<li id="n-Pokemon-GO-Wiki"><a href="http://www.pokemon-go-wiki.com">Pokemon GO Wiki</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/index.php" id="searchform">
+					<input type='hidden' name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Thyn%27s_Excavation" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Thyn%27s_Excavation" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/index.php?title=Thyn%27s_Excavation&amp;oldid=16300&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/index.php?title=Thyn%27s_Excavation&amp;oldid=16300" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/index.php?title=Thyn%27s_Excavation&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+			</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last modified on 29 June 2014, at 22:30.</li>
+									<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+									<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-265105-19', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":41});});</script></body></html>

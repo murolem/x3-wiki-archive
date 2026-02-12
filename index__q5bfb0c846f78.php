@@ -1,0 +1,249 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" dir="ltr">
+<head>
+<title>Hub Plot Walkthrough - X3 Wiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="MediaWiki 1.16.2" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Hub_Plot_Walkthrough&amp;action=edit" />
+<link rel="edit" title="Edit" href="/index.php?title=Hub_Plot_Walkthrough&amp;action=edit" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)" />
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/skins/common/shared.css?270" media="screen" />
+<link rel="stylesheet" href="/skins/common/commonPrint.css?270" media="print" />
+<link rel="stylesheet" href="/skins/monobook/main.css?270" media="screen" />
+<!--[if lt IE 5.5000]><link rel="stylesheet" href="/skins/monobook/IE50Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 5.5000]><link rel="stylesheet" href="/skins/monobook/IE55Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/skins/monobook/IE60Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/skins/monobook/IE70Fixes.css?270" media="screen" /><![endif]-->
+<link rel="stylesheet" href="/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" media="print" />
+<link rel="stylesheet" href="/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" />
+<script>
+var skin="monobook",
+stylepath="/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/index.php/$1",
+wgScriptPath="",
+wgScriptExtension=".php",
+wgScript="/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://www.x3wiki.com",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="Hub_Plot_Walkthrough",
+wgTitle="Hub Plot Walkthrough",
+wgAction="view",
+wgArticleId=1430,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=5476,
+wgVersion="1.16.2",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "X3 Wiki", "5": "X3 Wiki talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "x3_wiki": 4, "x3_wiki_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="X3 Wiki",
+wgCategories=[],
+wgRestrictionEdit=[],
+wgRestrictionMove=[];
+</script><script src="/skins/common/wikibits.js?270"></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-265105-19");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<script src="/skins/common/ajax.js?270"></script>
+<script src="/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook&amp;270"></script>
+
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Hub_Plot_Walkthrough skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" >
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading">Hub Plot Walkthrough</h1>
+	<div id="bodyContent">
+
+		<h3 id="siteSub">From X3 Wiki</h3>
+		<div id="contentSub">
+				<div id="mw-revision-info">Revision as of 23:01, 16 February 2011 by <a href="/index.php/User:Spychotic" title="User:Spychotic" class="mw-userlink">Spychotic</a>  <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Spychotic" title="User talk:Spychotic">Talk</a> | <a href="/index.php/Special:Contributions/Spychotic" title="Special:Contributions/Spychotic">contribs</a>)</span></div>
+
+				<div id="mw-revision-nav">(diff) ← Older revision | Latest revision (diff) | Newer revision → (diff)</div>
+			</div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<p><a href="http://forum.egosoft.com/viewtopic.php?p=3466606#3466606" class="external text" rel="nofollow">Check here for the Hub Plot Walkthrough on the Egosoft forums.</a>
+</p><p><br />
+This plot is regarded by most players as the most time consuming. The majority of this plot will require you to gather TONS of resources, by any means necessary. These resource amounts have changed over the times and updates, as of version 3.0, these values are accurate.  
+</p><p>Once you have met the requirements and you have arrived in a Boron sector, you should get a communication from a local Boron, named Mahi Ma. He will be flying a Boron Enhanced <a href="/index.php/Dolphin" title="Dolphin">Dolphin</a>. Com Mahi Ma up, and he will ask you to help look for his friends, specifically a Boron named <a href="/index.php?title=Bala_Gi&amp;action=edit&amp;redlink=1" class="new" title="Bala Gi (page does not exist)">Bala Gi</a>, and a Terran Companion named <a href="/index.php?title=Julian_Brennan&amp;action=edit&amp;redlink=1" class="new" title="Julian Brennan (page does not exist)">Julian Brennan</a>. Accepting this mission will direct you to <a href="/index.php/Xenon_Core_023" title="Xenon Core 023" class="mw-redirect">Xenon Core 023</a>. Personally I prefer to begin this trek, in a rather fast ship such as a <a href="/index.php/Springblossom" title="Springblossom">Springblossom</a>, or a <a href="/index.php/Spitfyre" title="Spitfyre">Spitfyre</a> it would also be wise to make sure whatever ship you use to have it outfitted with <a href="/index.php/Cargo_Life_Support_System" title="Cargo Life Support System">Cargo Life Support System</a> and a <a href="/index.php/Jumpdrive" title="Jumpdrive">Jumpdrive</a> with enough <a href="/index.php/Energy_Cells" title="Energy Cells">Energy Cells</a> to jump two or three sectors away. The trek begins either in <a href="/index.php/Grand_Exchange" title="Grand Exchange">Grand Exchange</a> or <a href="/index.php/Zyarth%27s_Dominion" title="Zyarth's Dominion">Zyarth's Dominion</a>. Each of these sectors has a gate to <a href="/index.php/Xenon_Sector_598" title="Xenon Sector 598">Xenon Sector 598</a>, once there you will head to the East gate to <a href="/index.php/Xenon_Sector_627" title="Xenon Sector 627">Xenon Sector 627</a>, again heading for the East gate, you will arrive at a Dyson sphere like sector collectively known as <a href="/index.php/Unknown_Sector_(The_Hub)" title="Unknown Sector (The Hub)">Unknown Sector (The Hub)</a>. Relatively in the very middle of the hub you should see some ship debris, and upon closer inspection you manage to download whats left of the logs within the ship. 
+</p><p>You mission director should update you to go see Mahi Ma, to bring him up to speed on the situation. Upon meeting him again he expresses GREAT interest in this "HUB" you describe to him. So much so that he will literally eject out of his Dolphin if he is still in it by the time you meet him again. Of course if you like you can simply claim the ship for yourself at this point, as a discovery like this is worth more to a Boron than any ship in the galaxy. Scoop up Mahi Ma in his space suit (requires Cargo Life Support, not included, on your ship) and head back to the Xenon Hub. Preferably using a jump drive to avoid the risk of angry robot xenon fury. Once you arrive at the HUB Mahi Ma will make several comments, clearly making him out to be one of the nerdiest Boron in existence, and proceed to hack the Xenon Hub, all the while getting so excited that he decides that it would be best if it belonged to you from now on, so long as you dock and let him peek around. 
+</p><p>Once you dock Mahi Ma will decide to take up residence at you new HUB and make some astounding observations, such as, The Hub while fantastic in design, has been in disuse for a VERY long time. How ever Mahi Ma, as generous as he is, would take Great pleasure in repairing this hub for you, there is a catch however... since he practically gave everything hes ever owned to you, he has neither the credits nor the resources to even begin the repairs required. The power generator is toast, the main interface computer is in shambles, and the power couplings to the other gates are so rotted, they need to be rebuilt from scratch practically... The good news is, if you were able to get this far, chances are you should be able to figure out a way to get these resources to Mahi Ma and bring the Hub Back to a fully functional state. 
+</p>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Required_Materials:"><span class="tocnumber">1</span> <span class="toctext">Required Materials:</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Gate_Pair_1"><span class="tocnumber">1.1</span> <span class="toctext">Gate Pair 1</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Gate_Pair_2"><span class="tocnumber">1.2</span> <span class="toctext">Gate Pair 2</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Gate_Pair_3"><span class="tocnumber">1.3</span> <span class="toctext">Gate Pair 3</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table><script>if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<h2><span class="editsection">[<a href="/index.php?title=Hub_Plot_Walkthrough&amp;action=edit&amp;section=1" title="Edit section: Required Materials:">edit</a>]</span> <span class="mw-headline" id="Required_Materials:">Required Materials:</span></h2>
+<h3><span class="editsection">[<a href="/index.php?title=Hub_Plot_Walkthrough&amp;action=edit&amp;section=2" title="Edit section: Gate Pair 1">edit</a>]</span> <span class="mw-headline" id="Gate_Pair_1">Gate Pair 1</span></h3>
+<ul><li> 400 x Computer Components
+</li><li> 500 x Microchips
+</li><li> 10,000 x Energy Cells 
+</li></ul>
+<p>These first few materials will repair the main interface computer and allow you to realign the gates you came from away from the Xenon Sectors and to a place of your choosing... Choose carefully as you will not be able to realign them again until you get the materials to repair the Generator. 
+</p>
+<h3><span class="editsection">[<a href="/index.php?title=Hub_Plot_Walkthrough&amp;action=edit&amp;section=3" title="Edit section: Gate Pair 2">edit</a>]</span> <span class="mw-headline" id="Gate_Pair_2">Gate Pair 2</span></h3>
+<ul><li> 150,000 x Teladianium
+</li><li> 450,000 x Ore
+</li><li> 500 x Nividium
+</li><li> 250,000 x Crystals 
+</li></ul>
+<p>After this ordeal, you should have a second pair of gates functioning as well as the ability to realign the first pair and second pair after a short wait. However the final gates will not function until the power couplings are rebuilt and, these kinds of things are beyond his capabilities. However Mahi Ma knows of a <a href="/index.php/Paranid" title="Paranid">Paranid</a> who is rather skilled at these sort of things and with the right price he would be willing to work with a unholy heathen such as yourself. 
+</p>
+<h3><span class="editsection">[<a href="/index.php?title=Hub_Plot_Walkthrough&amp;action=edit&amp;section=4" title="Edit section: Gate Pair 3">edit</a>]</span> <span class="mw-headline" id="Gate_Pair_3">Gate Pair 3</span></h3>
+<ul><li> 15,000,000 x Credits
+</li><li> 400,000 x Silicon Wafers
+</li><li> 75,000 x Microchips 
+</li></ul>
+<p>Once that is done and over with, you will now have a fully working Hub at your disposal, what you do with it is completely up to you... Though Mahi Ma warns, in his own words " With Great power, comes Great responsibility...", because with three pairs of gates there really is nothing stopping you from joining 4 xenon sectors and bringing them the the front door of some unfortunate home world....
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 15/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key dailystunt_wiki:pcache:idhash:1430-0!1!0!!en!2 and timestamp 20110307060302 -->
+<div class="printfooter">
+Retrieved from "<a href="http://www.x3wiki.com/index.php/Hub_Plot_Walkthrough">http://www.x3wiki.com/index.php/Hub_Plot_Walkthrough</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				 <li id="ca-nstab-main" class="selected"><a href="/index.php/Hub_Plot_Walkthrough" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/index.php?title=Talk:Hub_Plot_Walkthrough&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/index.php?title=Hub_Plot_Walkthrough&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/index.php?title=Hub_Plot_Walkthrough&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Hub_Plot_Walkthrough&amp;returntoquery=oldid%3D5476" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(http://www.x3wiki.com/x3.jpg);" href="/index.php/Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/index.php/Help:Contents" title="The place to find out">Help</a></li>
+				<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class='generated-sidebar portlet' id='p-X3_Terran_Conflict'>
+		<h5>X3 Terran Conflict</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+				<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+				<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+				<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+				<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+				<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+				<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+				<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+				<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+				<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+				<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class='generated-sidebar portlet' id='p-Links'>
+		<h5>Links</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-MMOServerstatus-.5BEN.5D"><a href="http://www.mmoserverstatus.com">MMOServerstatus [EN]</a></li>
+				<li id="n-Aion-trial-.5BEN.5D"><a href="http://www.aiontrial.com">Aion trial [EN]</a></li>
+				<li id="n-Guild-Wars-2-Trial-.5BEN.5D"><a href="http://www.guildwars2trial.com">Guild Wars 2 Trial [EN]</a></li>
+				<li id="n-Starcrime-.5BEN.5D"><a href="http://www.starcrime.com">Starcrime [EN]</a></li>
+				<li id="n-Gratis-rubbertjes-.5BNL.5D"><a href="http://www.gratisrubbertjes.nl">Gratis rubbertjes [NL]</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search X3 Wiki" accesskey="f" type="search" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Hub_Plot_Walkthrough" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Hub_Plot_Walkthrough" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/index.php?title=Hub_Plot_Walkthrough&amp;oldid=5476&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/index.php?title=Hub_Plot_Walkthrough&amp;oldid=5476" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+	<ul id="f-list">
+		<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+		<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li><li><a href='http://installatron.com/apps/mediawiki' target='_blank' title='MediaWiki auto-installer and auto-upgrade service'>Installed by Installatron</a></li>
+	</ul>
+</div>
+
+</div>
+
+
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.348 secs. --></body></html>

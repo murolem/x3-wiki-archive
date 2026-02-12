@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>Editing Ships - X3 Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ships","wgTitle":"Ships","wgCurRevisionId":14464,"wgRevisionId":0,"wgArticleId":4,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ships","wgRelevantArticleId":4,"wgRequestId":"WhZNhlkfZokAAEJbohYAAAAO","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","wgEditMessage":"editing"});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.edit","mediawiki.toolbar","mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.edit.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<!--[if IE 6]><link rel="stylesheet" href="/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]-->
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Ships&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/index.php?title=Ships&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://www.x3wiki.com/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Ships rootpage-Ships skin-monobook action-edit">
+<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+									<div id="siteNotice"><!-- centralNotice loads here --></div>
+				<div class="mw-indicators">
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7526491584299412",
+    enable_page_level_ads: true
+  });
+</script>
+
+<!-- X3 wiki -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7526491584299412"
+     data-ad-slot="4173455889"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+				<h1 id="firstHeading" class="firstHeading" lang="en">Editing Ships</h1>
+				
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From X3 Wiki</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text"><div id="mw-anon-edit-warning" class="warningbox">
+<p><strong>Warning:</strong> You are not logged in. Your IP address will be publicly visible if you make any edits. If you <strong><a class="external text" href="http://www.x3wiki.com/index.php?title=Special:UserLogin&amp;returnto=Ships">log in</a></strong> or <strong><a class="external text" href="http://www.x3wiki.com/index.php?title=Special:CreateAccount&amp;returnto=Ships">create an account</a></strong>, your edits will be attributed to your username, along with other benefits.
+</p>
+</div>
+<div id="wikiPreview" class="ontop" style="display: none;"><div lang="en" dir="ltr" class="mw-content-ltr"></div></div><form id="editform" name="editform" method="post" action="/index.php?title=Ships&amp;action=submit" enctype="multipart/form-data"><div id="antispam-container" style="display: none;"><label for="wpAntispam">Anti-spam check.
+Do <strong>not</strong> fill this in!</label><input type="text" name="wpAntispam" id="wpAntispam" value="" /></div><input type='hidden' value="" name="wpSection"/>
+<input type='hidden' value="20171123042438" name="wpStarttime" />
+<input type='hidden' value="20140221232424" name="wpEdittime" />
+<input type='hidden' value="" name="wpScrolltop" id="wpScrolltop" />
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary"/><input type="hidden" value="0" name="oldid"/><input type="hidden" value="14464" name="parentRevId"/><input type="hidden" value="text/x-wiki" name="format"/><input type="hidden" value="wikitext" name="model"/><div id="toolbar"></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="en" dir="ltr" name="wpTextbox1">Ships are vessels that transport goods and people between planets.&lt;br>
+In the [[X-universe]], they usually employ a jumpgate network to rapidly transit to distant locations. This page serves as a hub for various information about these vessels.
+
+*[[Ship List]]: Sortable table of all ships with links to detailed ship pages.
+*[[ownerless ships|Ownerless Ships]]: Generated claimable ships in the universe.
+*[[Non-Vanilla Ships]]: A list of all ships not available in Vanilla X3 games.
+
+
+== Class Groupings ==
+Ship classes are often grouped together to simplify description.
+
+The type of ships being used play the largest role in [[Combat#Combat_strategies|combat strategy]], as fights between different classes of ships can become severely lopsided in straight contests of power.
+
+Combat ships are generally categorized into 2 different groups:
+*[[:Category:Capital Ships|Capital ships]]
+*[[:Category:Fighters|Fighters]]
+
+A term coined here to describe combat ships not fitting the accepted groupings' descriptions is:
+*[[:Category:Escort|Escort]]
+
+Ships designed primarily to carry cargo can be described as:
+*[[Transports]]
+
+Ships who carry other ships can be described as:
+*[[:Category:Carrier|Carriers]]
+
+== Ship Classes ==
+{| class="wikitable" cellspacing="5"
+|-
+!
+! Capital
+! Escort
+! Fighter
+! Other
+|- valign="top"
+! Combat
+|
+*[[M1]]
+*[[M2]]/[[M2+]]
+*[[M7]]/[[M7M]]/[[M7C]]
+|
+*[[M6]]/[[M6+]]
+*[[M8]]
+|
+*[[M3]]/[[M3+]]
+*[[M4]]/[[M4+]]
+*[[M5]]
+|
+*[[M0]]
+|- valign="top"
+! Transports
+|
+*[[TL]]
+|
+*[[TM]]
+|
+|
+*[[TS]]/[[TS+]]
+*[[TP]]
+|}
+
+== Ship Repair ==
+In the course of traveling the X-Universe, ships are often damaged, be it by weapons fire, hull-eating nebulae, or collisions.
+
+=== Ordinarily: ===
+The most immediate solution is to exit the vessel and repair it with a [[Repair Laser]] which is part of standard space suit equipment.
+
+The other option is to limp back to a [[shipyard]] for more extensive repairs.
+
+Equipment lost/destroyed to damage will have to be reacquired.
+
+=== Seta Repair: ===
+The player can eject the ship's [[SETA]], eject the ship as an astronaut, and collect the seta device. The player can then use SETA when out of ship.
+
+To repair quickly, use bore fire to fire the [[Repair Laser]] while holding down the [[SETA]] key.
+
+Notes:
+*SETA will not transfer back into the ship upon reentry.
+*SETA will not stay in the astronaut suit forever. It effectively disappears upon entering a ship.
+*If the player is unable to both fire the laser and use SETA at the same time, the player may need to bind SETA to a different key. E.g., Ctrl to fire and Alt to SETA fixed this issue.
+*It is advised to use SETA repair near a shipyard or other dock at which the player can buy SETA. Otherwise, SETA is lost upon entering the ship, and it may take a long time to dock at a station that sells seta.
+*Sometimes SETA will eject several KM away. Just fly to it in the ship and eject nearby.
+*The astronaut suit has 2 hours of oxygen. SETA accelerates time. Keep this in mind. Using SETA 10x, the player can survive in space up to 12 minutes of real time.
+
+=== With game modifications: ===
+Repair Laser Factories can be added which will supply Repair Laser which can be mounted into certain ships i.e. [[M6]] or [[TL]] class ships.
+
+== Shipyard Purchase Designations ==
+Non-Capital ships sold from shipyards are designated with S, M, and L.
+
+These designations typically denote different equipment packages included in the sale. 
+*S model ships almost always are shielded with 1 MJ shields and are armed with IREs.  They are the "base model", and have few "extras", but are lower-priced if you want to equip them yourself. 
+*M model ships are in an in-between point of S and L, often sporting weaker shields or incomplete shielding, and inferior equipment that you will probably want to sell as you outfit them yourself.
+*L model ships by contrast are usually shielded with the maximum the class can hold and have heavier armaments, although not always the armaments you may want.  
+
+Both M and L models may not be available, as their availability depends upon there being an [[Equipment Dock]] with equipment in-stock to supply those ships. 
+
+As the details of each ship vary the most reliable way to determine differences is to look at the detail screens the shipyard posts. 
+
+Keep in mind that these differences are only there for convenience's sake.  You can always (and may frequently have to) outfit ships by transferring shields, upgrades, and weapons to them after purchase, and there is no advantage to buying an "L" model, other than having shields already added for you.  The game does not even remember what model you purchased past the point of purchase.
+
+You may likely wish to purchase only S model ships when you have [[stations]] of your own, or can easily purchase lower-priced weapons and shields.
+</textarea><div class='editOptions'>
+<span class="mw-summary" id="wpSummaryLabel"><label for="wpSummary">Summary:</label></span> <input class="mw-summary" id="wpSummary" maxlength="200" tabindex="1" size="60" spellcheck="true" title="Enter a short summary [b]" accesskey="b" name="wpSummary"/><div class='editCheckboxes'>
+</div>
+<div id="editpage-copywarn">
+<p>Please note that all contributions to X3 Wiki may be edited, altered, or removed by other contributors.
+If you do not want your writing to be edited mercilessly, then do not submit it here.<br />
+You are also promising us that you wrote this yourself, or copied it from a public domain or similar free resource (see <a href="/index.php?title=X3_Wiki:Copyrights&amp;action=edit&amp;redlink=1" class="new" title="X3 Wiki:Copyrights (page does not exist)">X3 Wiki:Copyrights</a> for details).
+<strong>Do not submit copyrighted work without permission!</strong>
+</p>
+</div>
+<div class='editButtons'>
+<p>To protect the wiki against automated edit spam, we kindly ask you to solve the following CAPTCHA:
+</p><div class="g-recaptcha" data-sitekey="6LedtQgUAAAAAHaU6sFesDe5_eX9uvTPkWTi-dB6"></div><noscript>
+  <div>
+    <div style="width: 302px; height: 422px; position: relative;">
+      <div style="width: 302px; height: 422px; position: absolute;">
+        <iframe src="https://www.google.com/recaptcha/api/fallback?k=6LedtQgUAAAAAHaU6sFesDe5_eX9uvTPkWTi-dB6&hl=en"
+                frameborder="0" scrolling="no"
+                style="width: 302px; height:422px; border-style: none;">
+        </iframe>
+      </div>
+    </div>
+    <div style="width: 300px; height: 60px; border-style: none;
+                bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px;
+                background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
+      <textarea id="g-recaptcha-response" name="g-recaptcha-response"
+                class="g-recaptcha-response"
+                style="width: 250px; height: 40px; border: 1px solid #c1c1c1;
+                       margin: 10px 25px; padding: 0px; resize: none;" >
+      </textarea>
+    </div>
+  </div>
+</noscript><input id="wpSave" name="wpSave" tabindex="3" title="Save your changes [s]" accesskey="s" type="submit" value="Save page"/>
+<input id="wpPreview" name="wpPreview" tabindex="4" title="Preview your changes. Please use this before saving. [p]" accesskey="p" type="submit" value="Show preview"/>
+
+<input id="wpDiff" name="wpDiff" tabindex="5" title="Show which changes you made to the text [v]" accesskey="v" type="submit" value="Show changes"/>
+	<span class='cancelLink'><a href="/index.php/Ships" title="Ships" id="mw-editform-cancel">Cancel</a><span class="mw-editButtons-pipe-separator"> | </span></span>
+	<span class='editHelp'><a target="helpwindow" href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Editing_pages">Editing help</a> (opens in new window)</span>
+</div><!-- editButtons -->
+</div><!-- editOptions -->
+
+<input type="hidden" value="+\" name="wpEditToken"/>
+<div class="mw-editTools"></div>
+<div class="templatesUsed"></div><div class="hiddencats"></div><div class="limitreport"></div><input type="hidden" value="1" name="wpUltimateParam"/>
+</form>
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://www.x3wiki.com/index.php/Ships">http://www.x3wiki.com/index.php/Ships</a>"</div>
+					<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+			</div>
+		</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/index.php/Ships" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/index.php/Talk:Ships" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit" class="selected"><a href="/index.php?title=Ships&amp;action=edit" title="Edit this page">Edit</a></li>
+				<li id="ca-history"><a href="/index.php?title=Ships&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+						<li id="pt-anonuserpage">Not logged in</li>							<li id="pt-anontalk"><a href="/index.php/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+													<li id="pt-anoncontribs"><a href="/index.php/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+													<li id="pt-createaccount"><a href="/index.php?title=Special:CreateAccount&amp;returnto=Ships&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Ships&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/index.php/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+											<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>
+											<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict" role="navigation">
+		<h3>X3 Terran Conflict</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+											<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+											<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+											<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+											<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+											<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+											<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+											<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+											<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+											<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+											<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Links" role="navigation">
+		<h3>Links</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-MMO-Server-Status"><a href="http://www.mmoserverstatus.com">MMO Server Status</a></li>
+											<li id="n-Compare-Everglades-Tours"><a href="http://www.compare-everglades-tours.com">Compare Everglades Tours</a></li>
+											<li id="n-Pokemon-GO-Wiki"><a href="http://www.pokemon-go-wiki.com">Pokemon GO Wiki</a></li>
+											<li id="n-Harry-Potter-Wizards-Unite-Wiki"><a href="http://harrypotterwizardsunite.wiki">Harry Potter Wizards Unite Wiki</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/index.php" id="searchform">
+					<input type='hidden' name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Ships" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Ships" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-info"><a href="/index.php?title=Ships&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+			</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+									<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.action.edit.editWarning","mediawiki.action.edit.stash","mediawiki.action.edit.collapsibleFooter","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.using("mediawiki.toolbar", function () {mw.toolbar.addButton(false,"Bold text","'''","'''","Bold text","mw-editbutton-bold");mw.toolbar.addButton(false,"Italic text","''","''","Italic text","mw-editbutton-italic");mw.toolbar.addButton(false,"Internal link","[[","]]","Link title","mw-editbutton-link");mw.toolbar.addButton(false,"External link (remember http:// prefix)","[","]","http://www.example.com link title","mw-editbutton-extlink");mw.toolbar.addButton(false,"Level 2 headline","\n== "," ==\n","Headline text","mw-editbutton-headline");mw.toolbar.addButton(false,"Embedded file","[[File:","]]","Example.jpg","mw-editbutton-image");mw.toolbar.addButton(false,"File link","[[Media:","]]","Example.ogg","mw-editbutton-media");mw.toolbar.addButton(false,"Ignore wiki formatting","\u003Cnowiki\u003E","\u003C/nowiki\u003E","Insert non-formatted text here","mw-editbutton-nowiki");mw.toolbar.addButton(false,"Horizontal line (use sparingly)","\n----\n","","","mw-editbutton-hr");});});</script><script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-265105-19', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":53});});</script></body></html>

@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>Editing ATF - X3 Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ATF","wgTitle":"ATF","wgCurRevisionId":13823,"wgRevisionId":0,"wgArticleId":259,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"ATF","wgRelevantArticleId":259,"wgRequestId":"WfK7r1kfZokAAH@DAJoAAAAA","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","wgEditMessage":"editing"});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.edit","mediawiki.toolbar","mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.edit.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<!--[if IE 6]><link rel="stylesheet" href="/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]-->
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=ATF&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/index.php?title=ATF&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://www.x3wiki.com/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-ATF rootpage-ATF skin-monobook action-edit">
+<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+									<div id="siteNotice"><!-- centralNotice loads here --></div>
+				<div class="mw-indicators">
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7526491584299412",
+    enable_page_level_ads: true
+  });
+</script>
+
+<!-- X3 wiki -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7526491584299412"
+     data-ad-slot="4173455889"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+				<h1 id="firstHeading" class="firstHeading" lang="en">Editing ATF</h1>
+				
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From X3 Wiki</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text"><div id="mw-anon-edit-warning" class="warningbox">
+<p><strong>Warning:</strong> You are not logged in. Your IP address will be publicly visible if you make any edits. If you <strong><a class="external text" href="http://www.x3wiki.com/index.php?title=Special:UserLogin&amp;returnto=ATF">log in</a></strong> or <strong><a class="external text" href="http://www.x3wiki.com/index.php?title=Special:CreateAccount&amp;returnto=ATF">create an account</a></strong>, your edits will be attributed to your username, along with other benefits.
+</p>
+</div>
+<div id="wikiPreview" class="ontop" style="display: none;"><div lang="en" dir="ltr" class="mw-content-ltr"></div></div><form id="editform" name="editform" method="post" action="/index.php?title=ATF&amp;action=submit" enctype="multipart/form-data"><div id="antispam-container" style="display: none;"><label for="wpAntispam">Anti-spam check.
+Do <strong>not</strong> fill this in!</label><input type="text" name="wpAntispam" id="wpAntispam" value="" /></div><input type='hidden' value="" name="wpSection"/>
+<input type='hidden' value="20171027045303" name="wpStarttime" />
+<input type='hidden' value="20130909232151" name="wpEdittime" />
+<input type='hidden' value="" name="wpScrolltop" id="wpScrolltop" />
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary"/><input type="hidden" value="0" name="oldid"/><input type="hidden" value="13823" name="parentRevId"/><input type="hidden" value="text/x-wiki" name="format"/><input type="hidden" value="wikitext" name="model"/><div id="toolbar"></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="en" dir="ltr" name="wpTextbox1">{{Infobox Faction
+|Faction='''A'''rtificial '''G'''eneral &lt;br/> '''I'''ntelligence Task Force
+|Speciestype= Human
+|Homeworld=[[Earth]]
+|Systems=
+|Population=
+|Government=Branch of the [[Terran]] military
+|Ranks= {{Rank List|Command Access
+|Operations Access
+|Research Access
+|Earth Access
+|Lunar Access
+|Mercury Access
+|Venus Access
+|Mars Access
+|Asteroid Belt Access
+|Outer System Access
+|System Access
+|Suspect Programmer
+|Tech Fugitive
+|Known AGI Sympathiser
+|Illegal AGI Developer
+|AGI Task Force Nemesis}}
+}}
+
+==General==
+{{sectstub}}
+The '''AGI Task Force''' is a branch of the [[Terran]] military tasked with protecting [[Earth]] from [[terraformer]]s and other artificial intelligence threats.  It operates its own fleet largely independent of the United Space Command.
+==Government and politics==
+{{sectstub}}
+
+==Foreign relations and military==
+{{sectstub}}
+
+==History==
+{{sectstub}}
+
+==Culture==
+{{sectstub}}
+
+==Geography and Climate==
+{{sectstub}}
+
+==Science and Technology==
+The ATF uses the same Terran technological base as its sister service the United Space Command. Generally, ATF ships have similar performance and roles to their USC counterparts, but with even better combat abilities, mainly even more shielding and firepower potential. ATF ships can't be ordinarily bought. While a [[Vidar]] is available as a mission reward in Terran Conflict, the only other ways to get ahold of a mighty ATF ship is through pilot ejection or a boarding action.
+
+The ATF possess the Valhalla, a mighty flagship that can easily outclass other capital ships, combining the capabilities of a carrier and a destroyer with 14GJ of shielding. However, it's so big that it has issues fitting through Jump Gates.
+===Ships===
+{| class="prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:right;"
+|+ '''ATF Ships'''
+ ! Name !! Race !! class !! Max shields !! Num shields !! [[Shields|Shield type]] !! Turrets !! Weapon generator !! Shield generator !! Max speed !! Max cargo !! [[Cargo Class]] !! Hangar !! Price*   
+|-
+|[[Odin]] || [[ATF]] || [[M1]] ||  || 5 || 2GJ || 6 || 105,000 || 8,500 || 85.00 || 12,500 || ST || 44 || 0
+|-
+|[[Woden]] || [[ATF]] || [[M1]] ||  || 6 || 2GJ || 6 || 107,000 || 9,000 || 90.00 || 12,000 || XL || 30 || 0
+|-
+|[[Tyr]] || [[ATF]] || [[M2]] ||  || 6 || 2GJ || 6 || 450,000 || 15,000 || 64.00 || 8,000 || XL ||  || 0
+|-
+|[[Valhalla]] || [[ATF]] || [[M2+]] ||  || 7 || 2GJ || 6 || 500,000 || 18,000 || 30.00 || 12,500 || XL || 60 || 0
+|-
+|[[Thor]] || [[ATF]] || [[M3]] ||  || 5 || 25MJ || 1 || 9,000 || 1,050 || 234.00 || 190 || L ||  || 0
+|-
+|[[Fenrir]] || [[ATF]] || [[M3+]] ||  || 6 || 25MJ || 2 || 9,000 || 1,100 || 202.00 || 500 || L ||  || 0
+|-
+|[[Mjolnir]] || [[ATF]] || [[M4]] ||  || 5 || 5MJ ||  || 2,750 || 350 || 275.00 || 300 || M ||  || 0
+|-
+|[[Valkyrie]] || [[ATF]] || [[M5]] ||  || 5 || 1MJ ||  || 1,600 || 140 || 540.70 || 140 || M ||  || 0
+|-
+|[[Vali]] || [[ATF]] || [[M6+]] ||  || 6 || 200MJ || 3 || 19,500 || 4,000 || 110.00 || 850 || L ||  || 0
+|-
+|[[Vidar]] || [[ATF]] || [[M6]] ||  || 5 || 200MJ || 2 || 19,000 || 3,800 || 128.00 || 950 || L ||  || 0
+|-
+|[[Aegir]] || [[ATF]] || [[M7]] ||  || 5 || 1GJ || 5 || 71,900 || 12,500 || 132.00 || 9,500 || XL ||  || 0
+|-
+|[[Skirnir]] || [[ATF]] || [[M7]] ||  || 4 || 2GJ || 3 || 71,900 || 12,500 || 91.00 || 9,500 || XL ||  || 0
+|}
+
+===Stations===
+In X3 and X3:TC, the ATF does not reveal any of their stations.
+
+In X3:AP:
+*Althes Orbital defense station
+*Segaris Orbital defense station
+
+==Territories==
+{{sectstub}}
+===Core Worlds===
+#[[Earth]]
+===Border Worlds===
+#
+
+==Food==
+[[MRE]]
+
+[[Category:Terran]]
+[[Category:Factions]]
+{{Races}}
+{{ATF Navbox}}
+</textarea><div class='editOptions'>
+<span class="mw-summary" id="wpSummaryLabel"><label for="wpSummary">Summary:</label></span> <input class="mw-summary" id="wpSummary" maxlength="200" tabindex="1" size="60" spellcheck="true" title="Enter a short summary [b]" accesskey="b" name="wpSummary"/><div class='editCheckboxes'>
+</div>
+<div id="editpage-copywarn">
+<p>Please note that all contributions to X3 Wiki may be edited, altered, or removed by other contributors.
+If you do not want your writing to be edited mercilessly, then do not submit it here.<br />
+You are also promising us that you wrote this yourself, or copied it from a public domain or similar free resource (see <a href="/index.php?title=X3_Wiki:Copyrights&amp;action=edit&amp;redlink=1" class="new" title="X3 Wiki:Copyrights (page does not exist)">X3 Wiki:Copyrights</a> for details).
+<strong>Do not submit copyrighted work without permission!</strong>
+</p>
+</div>
+<div class='editButtons'>
+<p>To protect the wiki against automated edit spam, we kindly ask you to solve the following CAPTCHA:
+</p><div class="g-recaptcha" data-sitekey="6LedtQgUAAAAAHaU6sFesDe5_eX9uvTPkWTi-dB6"></div><noscript>
+  <div>
+    <div style="width: 302px; height: 422px; position: relative;">
+      <div style="width: 302px; height: 422px; position: absolute;">
+        <iframe src="https://www.google.com/recaptcha/api/fallback?k=6LedtQgUAAAAAHaU6sFesDe5_eX9uvTPkWTi-dB6&hl=en"
+                frameborder="0" scrolling="no"
+                style="width: 302px; height:422px; border-style: none;">
+        </iframe>
+      </div>
+    </div>
+    <div style="width: 300px; height: 60px; border-style: none;
+                bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px;
+                background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
+      <textarea id="g-recaptcha-response" name="g-recaptcha-response"
+                class="g-recaptcha-response"
+                style="width: 250px; height: 40px; border: 1px solid #c1c1c1;
+                       margin: 10px 25px; padding: 0px; resize: none;" >
+      </textarea>
+    </div>
+  </div>
+</noscript><input id="wpSave" name="wpSave" tabindex="3" title="Save your changes [s]" accesskey="s" type="submit" value="Save page"/>
+<input id="wpPreview" name="wpPreview" tabindex="4" title="Preview your changes. Please use this before saving. [p]" accesskey="p" type="submit" value="Show preview"/>
+
+<input id="wpDiff" name="wpDiff" tabindex="5" title="Show which changes you made to the text [v]" accesskey="v" type="submit" value="Show changes"/>
+	<span class='cancelLink'><a href="/index.php/ATF" title="ATF" id="mw-editform-cancel">Cancel</a><span class="mw-editButtons-pipe-separator"> | </span></span>
+	<span class='editHelp'><a target="helpwindow" href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Editing_pages">Editing help</a> (opens in new window)</span>
+</div><!-- editButtons -->
+</div><!-- editOptions -->
+
+<input type="hidden" value="+\" name="wpEditToken"/>
+<div class="mw-editTools"></div>
+<div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/index.php/Template:ATF_Navbox" title="Template:ATF Navbox">Template:ATF Navbox</a> (<a href="/index.php?title=Template:ATF_Navbox&amp;action=edit" title="Template:ATF Navbox">edit</a>) </li><li><a href="/index.php/Template:Colour/Terran" title="Template:Colour/Terran">Template:Colour/Terran</a> (<a href="/index.php?title=Template:Colour/Terran&amp;action=edit" title="Template:Colour/Terran">edit</a>) </li><li><a href="/index.php/Template:ColourWord" title="Template:ColourWord">Template:ColourWord</a> (<a href="/index.php?title=Template:ColourWord&amp;action=edit" title="Template:ColourWord">edit</a>) </li><li><a href="/index.php/Template:Infobox_Faction" title="Template:Infobox Faction">Template:Infobox Faction</a> (<a href="/index.php?title=Template:Infobox_Faction&amp;action=edit" title="Template:Infobox Faction">edit</a>) </li><li><a href="/index.php/Template:Races" title="Template:Races">Template:Races</a> (<a href="/index.php?title=Template:Races&amp;action=edit" title="Template:Races">edit</a>) </li><li><a href="/index.php/Template:Rank_List" title="Template:Rank List">Template:Rank List</a> (<a href="/index.php?title=Template:Rank_List&amp;action=edit" title="Template:Rank List">edit</a>) </li><li><a href="/index.php/Template:Sectstub" title="Template:Sectstub">Template:Sectstub</a> (<a href="/index.php?title=Template:Sectstub&amp;action=edit" title="Template:Sectstub">edit</a>) </li></ul></div><div class="hiddencats"></div><div class="limitreport"></div><input type="hidden" value="1" name="wpUltimateParam"/>
+</form>
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://www.x3wiki.com/index.php/ATF">http://www.x3wiki.com/index.php/ATF</a>"</div>
+					<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+			</div>
+		</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/index.php/ATF" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/index.php?title=Talk:ATF&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit" class="selected"><a href="/index.php?title=ATF&amp;action=edit" title="Edit this page">Edit</a></li>
+				<li id="ca-history"><a href="/index.php?title=ATF&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+						<li id="pt-anonuserpage">Not logged in</li>							<li id="pt-anontalk"><a href="/index.php/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+													<li id="pt-anoncontribs"><a href="/index.php/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+													<li id="pt-createaccount"><a href="/index.php?title=Special:CreateAccount&amp;returnto=ATF&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=ATF&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/index.php/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+											<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>
+											<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict" role="navigation">
+		<h3>X3 Terran Conflict</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+											<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+											<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+											<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+											<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+											<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+											<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+											<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+											<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+											<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+											<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Links" role="navigation">
+		<h3>Links</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-MMO-Server-Status"><a href="http://www.mmoserverstatus.com">MMO Server Status</a></li>
+											<li id="n-Compare-Everglades-Tours"><a href="http://www.compare-everglades-tours.com">Compare Everglades Tours</a></li>
+											<li id="n-Pokemon-GO-Wiki"><a href="http://www.pokemon-go-wiki.com">Pokemon GO Wiki</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/index.php" id="searchform">
+					<input type='hidden' name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/ATF" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/ATF" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-info"><a href="/index.php?title=ATF&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+			</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+									<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.action.edit.editWarning","mediawiki.action.edit.stash","mediawiki.action.edit.collapsibleFooter","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.using("mediawiki.toolbar", function () {mw.toolbar.addButton(false,"Bold text","'''","'''","Bold text","mw-editbutton-bold");mw.toolbar.addButton(false,"Italic text","''","''","Italic text","mw-editbutton-italic");mw.toolbar.addButton(false,"Internal link","[[","]]","Link title","mw-editbutton-link");mw.toolbar.addButton(false,"External link (remember http:// prefix)","[","]","http://www.example.com link title","mw-editbutton-extlink");mw.toolbar.addButton(false,"Level 2 headline","\n== "," ==\n","Headline text","mw-editbutton-headline");mw.toolbar.addButton(false,"Embedded file","[[File:","]]","Example.jpg","mw-editbutton-image");mw.toolbar.addButton(false,"File link","[[Media:","]]","Example.ogg","mw-editbutton-media");mw.toolbar.addButton(false,"Ignore wiki formatting","\u003Cnowiki\u003E","\u003C/nowiki\u003E","Insert non-formatted text here","mw-editbutton-nowiki");mw.toolbar.addButton(false,"Horizontal line (use sparingly)","\n----\n","","","mw-editbutton-hr");});});</script><script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-265105-19', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":61});});</script></body></html>

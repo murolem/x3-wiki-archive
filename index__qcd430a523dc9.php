@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Editing User:Madned - X3 Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.6" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=User:Madned&amp;action=edit" />
+<link rel="edit" title="Edit" href="/index.php?title=User:Madned&amp;action=edit" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://x3wiki.com/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://x3wiki.com/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.edit.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.monobook&amp;only=styles&amp;skin=monobook&amp;*" />
+<!--[if IE 8]><link rel="stylesheet" href="/skins/common/IE80Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/skins/monobook/IE60Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/skins/monobook/IE70Fixes.css?303" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: dailystunt_wiki:resourceloader:filter:minify-css:7:bcf2b4205b52540e110d3a777baf7453 */</style>
+
+<script src="http://x3wiki.com/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"User","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":2,"wgPageName":"User:Madned","wgTitle":"Madned","wgCurRevisionId":9090,"wgRevisionId":0,"wgArticleId":62,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"User:Madned","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"monobook","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0
+,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: dailystunt_wiki:resourceloader:filter:minify-js:7:68471340157e99d9e2eb390b7623161a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.edit","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-2 ns-subject page-User_Madned skin-monobook action-edit">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" class="mw-body-primary" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- centralNotice loads here --></div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- X3 wiki -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7526491584299412"
+     data-ad-slot="4173455889"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+	<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Editing User:Madned</span></h1>
+	<div id="bodyContent" class="mw-body">
+		<div id="siteSub">From X3 Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+		<!-- start content -->
+<div id="mw-content-text"><div id="mw-anon-edit-warning">
+<p><b>Warning:</b> You are not logged in.
+</p>
+Your IP address will be recorded in this page's edit history.</div>
+<div id="wikiPreview" class="ontop" style="display: none;"></div><form id="editform" name="editform" method="post" action="/index.php?title=User:Madned&amp;action=submit" enctype="multipart/form-data"><div id="antispam-container" style="display: none;"><label for="wpAntiSpam">Anti-spam check.
+Do <b>NOT</b> fill this in!</label><input type="text" name="wpAntispam" id="wpAntispam" value="" /></div><input type='hidden' value="" name="wpSection" />
+<input type='hidden' value="20150425032756" name="wpStarttime" />
+<input type='hidden' value="20120423205622" name="wpEdittime" />
+<input type='hidden' value="" name="wpScrolltop" id="wpScrolltop" />
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary" /><input type="hidden" value="0" name="oldid" /><input type="hidden" value="text/x-wiki" name="format" /><input type="hidden" value="wikitext" name="model" /><div id="toolbar"></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="en" dir="ltr" name="wpTextbox1">__NOINDEX__
+
+Can you help me out on my page [[Complex]] it looks so ugly! thanks in advanced!
+
+has no life...again.
+
+[[Special:Contributions/Madned|see.]]
+
+woo 58 already [[User:Madned|Madned]] 02:25, 23 June 2010 (UTC)
+
+118, slowing down already :( [[User:Madned|Madned]] 22:20, 1 July 2010 (UTC)
+
+693 yay. [[User:Madned|Madned]] 21:57, 16 July 2010 (UTC)
+
+anyone else getting intermittent site interruptions? [[User:Madned|Madned]] 20:26, 23 September 2010 (CDT)
+
+I just checked the server logs, for some reason the server had a massive load last night. However without massive CPU or memory use, so I think it was the storage network that went a bit crazy. It was fixed by a reboot.
+----
+49 page fill-ins til wanted pages are under 500, woohoo! :P [[User:Madned|Madned]] 18:03, 4 October 2010 (CDT)
+
+Hmm most wanted pages are sectors. I think we should try to concentrate on completing all the ships first. With their weapons etc.
+A lot of work but once its done, its really good. After this we can try to concentrate on all the stations and sectors? - rexde500 5 october
+
+stations are a bit tricky, and the templates aren't quite right yet. they also naturally lead into the wares.
+sectors are straightforward, the general page layout probably needs adjustment, but the infobox looks pretty sound. they lead naturally into the stations of course. [[User:Madned|Madned]] 13:16, 5 October 2010 (CDT)
+
+yay! sub 500 wanteds. ok. that was fun. back to the grind. [[User:Madned|Madned]] 17:25, 6 October 2010 (CDT)
+
+ha! sub 100 wanteds...temporarily. [[User:Madned|Madned]] 22:38, 11 February 2011 (CST)
+
+yay, econ stations all stubbed out. [[User:Madned|Madned]] 00:52, 9 March 2011 (CST)
+
+ah x3wiki my old friend. sorry about the neglect, but well, stuff to do now so not so much the time. all in all site looks pretty good, although spam/vandals still seem to be a problem. oh yeah, *little dance* finished stubbing out the split shipyards. [[User:Madned|Madned]] 02:22, 13 August 2011 (CDT)
+
+==wikimedia spam, funny and a little sad==
+&lt;blockquote>spamming is pointless, because external links have the rel=nofollow attribute&lt;/blockquote>
+from meta.wikimedia.org/wiki/Wiki_spam &lt;br/>
+examined one of our valid external links and it appears to be true.[[User:Madned|Madned]] 15:56, 23 April 2012 (CDT)
+
+==Spoiler concept==
+spoiler concept&lt;br>
+use in the w3c s-chools test beds: (remove dashes)
+ww-w.w3s-chools.com/CSS/css_display_visibility.asp
+&lt;br> borrows heavily from css drop down menu concepts.
+&lt;pre>
+&lt;style>
+#spoil2 {visibility:hidden;}
+#spoil li:hover #spoil2 {visibility:visible;}
+&lt;/style
+&lt;ul id="spoil">
+	&lt;li>Percoidei&lt;br />
+		&lt;span id="nav2">
+			test2&lt;bR>
+			test3&lt;bR>
+			test4
+		&lt;/span>
+	&lt;/li>
+&lt;/ul>&lt;bR>
+&lt;ul id="spoil2" style="clear:left;">
+	&lt;li>&lt;a href="#">Percoidei2&lt;/a>
+		&lt;span id="nav2">
+			test3&lt;bR>
+			test4&lt;bR>
+			test5
+		&lt;/span>
+	&lt;/li>
+&lt;/ul>
+&lt;/pre>
+primary problem seems to be getting the style definition to operate, don't know how to definite a style block in wikimedia. neat, works without links.&lt;br>
+the obvious conclusion of this would be a template which essentially puts the spoiler in the span nav2 tags hidden, and some sort of anchor reveal tag which would reveal it.
+&lt;pre>
+&lt;style>
+  ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+#spoil2 {visibility:hidden;}
+#spoil li:hover #spoil2 {visibility:visible;}
+&lt;/style>
+&lt;ul id="spoil" style="clear:left;">
+	&lt;li>Hover to Reveal Spoiler&lt;br>
+		&lt;span id="spoil2">
+{{{1}}}		&lt;/span>
+	&lt;/li>
+&lt;/ul>
+&lt;/pre>
+option 2 is to switch font and link colors to white and require users to highlight to display.
+[[User:Madned|Madned]] 15:47, 17 February 2011 (CST)
+
+javascript trigger concept:  onMouseOver="document.getElementById('spoil2').style.visibility='visible'" limited by wikimedia javascript ban.
+
+alternatively as a class declaration:&lt;bR>
+&lt;pre>
+&lt;style>
+.spoiler li {height:2em;}
+.spoiler li div {visibility:hidden;}
+.spoiler li:hover div {visibility:visible;}
+&lt;/style>
+
+&lt;ul class="spoiler" style="padding: 0;margin: 0;list-style: none;clear: left;">
+	&lt;li>&lt;span style="background-color:yellow;color:red;padding:0 1em 0 1em;">Hover to Reveal Spoiler&lt;/span>&lt;br>
+		&lt;div>{{{1}}}&lt;/div>
+	&lt;/li>
+&lt;/ul>
+&lt;/pre>
+class declaration is slightly more useful as it'll work with any arrangement within the spoiler class object so a multiple array could be handled, although it's probably simpler to drop the unordered list in a template and then call repeatedly. it should be noted as defined it will reveal all div tags within the list item. also disp-lay:none/inline/block may be substituted as desired for the visibility. The difference between visibility and display is the display hides the object completely, it does not reserve space, visibility on the other hand will reserve space and merely masks the subject much like a font color, but without being able to see the text when highlighted.
+
+class for example would work with this:
+&lt;pre>
+&lt;ul class="spoiler" style="height:1em;padding: 0;margin: 0;list-style: none;clear: left;">
+	&lt;li>&lt;span style="background-color:yellow;color:red;padding:0 1em 0 1em;">Hover to Reveal Spoiler&lt;/span>&lt;br>
+		&lt;div>{{{1}}}&lt;/div>
+		&lt;div>{{{1}}}&lt;/div>
+	&lt;/li>
+	&lt;li style="position:relative;left:10em;">&lt;span style="background-color:yellow;color:red;padding:0 1em 0 1em;">Hover to Reveal Spoiler&lt;/span>&lt;br>
+		&lt;div>{{{1}}}&lt;/div>
+	&lt;/li>
+	&lt;li style="position:relative;left:20em;">
+		&lt;div>{{{1}}}&lt;/div>
+	&lt;/li>
+&lt;/ul>
+&lt;/pre>
+whereas the variant operating on ids would require each element to be appropriately id'd. also the last example
+
+==Tabbing experiment==
+&lt;span class="funkyblue">test&lt;/span>
+portions adapted from {{linky}}www.w3.org/Style/Examples/007/target.en.html#tab2
+&lt;pre>
+div.tabs > div:not(:target) > div {
+    position: absolute;
+}
+target...default (line 96)
+div.tabs > div > div {
+    background: none repeat scroll 0 0 #CCCCCC;
+    border: 0.1em outset #BBBBBB;
+    bottom: 0;
+    left: 0;
+    overflow: auto;
+    padding: 0.3em;
+    right: 0;
+    top: 1.3em;
+    z-index: -2;
+}
+&lt;/pre>
+full style.
+&lt;pre>
+div.tabs {
+min-height: 7em; /* No height: can grow if :target doesn't work */
+position: relative; /* Establish a containing block */
+line-height: 1; /* Easier to calculate with */
+z-index: 0} /* So that we can put other things behind */
+div.tabs > div {
+display: inline} /* We want the buttons all on one line */
+div.tabs > div > a {
+color: black; /* Looks more like a button than a link */
+background: #CCC; /* Active tabs are light gray */
+padding: 0.2em; /* Some breathing space */
+border: 0.1em outset #BBB; /* Make it look like a button */
+border-bottom: 0.1em solid #CCC} /* Visually connect tab and tab body */
+div.tabs > div:not(:target) > a {
+border-bottom: none; /* Make the bottom border disappear */
+background: #999} /* Inactive tabs are dark gray */
+div.tabs > div:target > a, /* Apply to the targeted item or... */
+:target #default2 > a { /* ... to the default item */
+border-bottom: 0.1em solid #CCC; /* Visually connect tab and tab body */
+background: #CCC} /* Active tab is light gray */
+div.tabs > div > div {
+background: #CCC; /* Light gray */
+z-index: -2; /* Behind, because the borders overlap */
+left: 0; top: 1.3em; /* The top needs some calculation... */
+bottom: 0; right: 0; /* Other sides flush with containing block */
+overflow: auto; /* Scroll bar if needed */
+padding: 0.3em; /* Looks better */
+border: 0.1em outset #BBB} /* 3D look */
+div.tabs > div:not(:target) > div { /* Protect CSS1 &amp; CSS2 browsers */
+position: absolute } /* All these DIVs overlap */
+div.tabs > div:target > div, :target #default2 > div {
+position: absolute; /* All these DIVs overlap */
+z-index: -1} /* Raise it above the others */
+div.tabs :target {
+outline: none} 
+&lt;/pre>
+&lt;div class="tabs">
+&lt;div id="tab1">
+[[#tab1|Tab&amp;nbsp;1]]
+&lt;div>One might well argue, that...&lt;/div>
+&lt;/div>
+&lt;div id="tab2">
+[[#tab2|Tab&amp;nbsp;2]]
+&lt;div>... 30 lines of CSS is rather a lot, and...&lt;/div>
+&lt;/div>
+&lt;div id="tab3">
+[[#tab3|Tab&amp;nbsp;3]]
+&lt;div>... that 2 should have been enough, but...&lt;/div>
+&lt;/div>
+&lt;div id="default2">
+[[#default2|Default]]
+&lt;div>... it works!&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div id="flytabs_0" class="ui-tabs ui-widget ui-widget-content ui-corner-all">&lt;ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
+&lt;li class="ui-state-default ui-corner-top">[[#ui-tabs-1|test1]]&lt;/li>
+&lt;li class="ui-state-default ui-corner-top">[[#ui-tabs-2|test2]]&lt;/li>
+&lt;li class="ui-state-default ui-corner-top">[[#ui-tabs-3|test3]]&lt;/li>
+&lt;li class="ui-state-default ui-corner-top">[[#ui-tabs-d|clear]]&lt;/li>
+&lt;/ul>
+&lt;div id="ui-tabs-1" class="ui-tabs-panel ui-widget-content ui-corner-bottom hidetab">..item1&lt;/div>
+&lt;div id="ui-tabs-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom hidetab">..item2&lt;/div>
+&lt;div id="ui-tabs-3" class="ui-tabs-panel ui-widget-content ui-corner-bottom hidetab">..item3&lt;/div>
+&lt;div id="ui-tabs-d" class="ui-tabs-panel ui-widget-content ui-corner-bottom hidetab">&lt;!--default clear-->&lt;/div>
+&lt;/div>
+bR>
+</textarea><div class='editOptions'>
+<span class="mw-summary" id="wpSummaryLabel"><label for="wpSummary">Summary:</label></span> <input class="mw-summary" id="wpSummary" maxlength="200" tabindex="1" size="60" spellcheck="true" title="Enter a short summary [b]" accesskey="b" name="wpSummary" /><div class='editCheckboxes'>
+</div>
+<div id="editpage-copywarn">
+<p>Please note that all contributions to X3 Wiki may be edited, altered, or removed by other contributors.
+If you do not want your writing to be edited mercilessly, then do not submit it here.<br />
+You are also promising us that you wrote this yourself, or copied it from a public domain or similar free resource (see <a href="/index.php?title=X3_Wiki:Copyrights&amp;action=edit&amp;redlink=1" class="new" title="X3 Wiki:Copyrights (page does not exist)">X3 Wiki:Copyrights</a> for details).
+<b>Do not submit copyrighted work without permission!</b>
+</p>
+</div>
+<div class='editButtons'>
+<input id="wpSave" name="wpSave" type="submit" tabindex="3" value="Save page" accesskey="s" title="Save your changes [s]" />
+<input id="wpPreview" name="wpPreview" type="submit" tabindex="4" value="Show preview" accesskey="p" title="Preview your changes, please use this before saving! [p]" />
+
+<input id="wpDiff" name="wpDiff" type="submit" tabindex="5" value="Show changes" accesskey="v" title="Show which changes you made to the text [v]" />
+	<span class='cancelLink'><a href="/index.php/User:Madned" title="User:Madned" id="mw-editform-cancel">Cancel</a><span class="mw-editButtons-pipe-separator"> | </span></span>
+	<span class='editHelp'><a target="helpwindow" href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Editing_pages">Editing help</a> (opens in new window)</span>
+</div><!-- editButtons -->
+</div><!-- editOptions -->
+
+<input type="hidden" value="+\" name="wpEditToken" />
+<div class="mw-editTools"></div>
+<div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Template used on this page:
+</p></div><ul>
+<li><a href="/index.php/Template:Linky" title="Template:Linky">Template:Linky</a> (<a href="/index.php?title=Template:Linky&amp;action=edit" title="Template:Linky">edit</a>) </li></ul></div><div class="hiddencats"></div><div class="limitreport"></div>
+</form>
+</div><div class="printfooter">
+Retrieved from "<a href="http://x3wiki.com/index.php/User:Madned">http://x3wiki.com/index.php/User:Madned</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<h2>Navigation menu</h2>
+	<div id="p-cactions" class="portlet" role="navigation">
+		<h3>Views</h3>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-user" class="selected"><a href="/index.php/User:Madned" title="View the user page [c]" accesskey="c">User page</a></li>
+				<li id="ca-talk"><a href="/index.php/User_talk:Madned" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit" class="selected"><a href="/index.php?title=User:Madned&amp;action=edit" title="You can edit this page. Please use the preview button before saving">Edit</a></li>
+				<li id="ca-history"><a href="/index.php?title=User:Madned&amp;action=history" rel="archives" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal" role="navigation">
+		<h3>Personal tools</h3>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="/index.php/User:207.241.237.224" class="new" title="The user page for the IP address you are editing as [.]" accesskey=".">207.241.237.224</a></li>
+				<li id="pt-anontalk"><a href="/index.php/User_talk:207.241.237.224" class="new" title="Discussion about edits from this IP address [n]" accesskey="n">Talk for this IP address</a></li>
+				<li id="pt-createaccount"><a href="/index.php?title=Special:UserLogin&amp;returnto=User%3AMadned&amp;returntoquery=action%3Dedit&amp;type=signup">Create account</a></li>
+				<li id="pt-anonlogin"><a href="/index.php?title=Special:UserLogin&amp;returnto=User%3AMadned&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo" role="banner">
+<a href="/index.php/Main_Page" style="background-image: url(http://www.x3wiki.com/x3.jpg);" title="Visit the main page"></a>
+	</div>
+	<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" rel="nofollow" title="The place to find out">Help</a></li>
+				<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict" role="navigation">
+		<h3>X3 Terran Conflict</h3>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+				<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+				<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+				<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+				<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+				<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+				<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+				<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+				<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+				<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+				<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="generated-sidebar portlet" id="p-Links" role="navigation">
+		<h3>Links</h3>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Wildstar-trial"><a href="http://www.wildstartrial.com" rel="nofollow">Wildstar trial</a></li>
+				<li id="n-MMO-Server-Status"><a href="http://www.mmoserverstatus.com" rel="nofollow">MMO Server Status</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div id="p-search" class="portlet" role="search">
+		<h3><label for="searchInput">Search</label></h3>
+		<div id="searchBody" class="pBody">
+			<form action="/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb" role="navigation">
+		<h3>Tools</h3>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/User:Madned" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/User:Madned" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-contributions"><a href="/index.php/Special:Contributions/Madned" title="A list of contributions of this user">User contributions</a></li>
+				<li id="t-log"><a href="/index.php/Special:Log/Madned">Logs</a></li>
+				<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-info"><a href="/index.php?title=User:Madned&amp;action=info">Page information</a></li>
+			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer" role="contentinfo">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+		<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.edit.editWarning","mediawiki.action.edit.collapsibleFooter","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"],null,true);
+}</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-265105-19");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<script>if(window.mw){
+mw.loader.using("mediawiki.action.edit", function() {mw.toolbar.addButton("/skins/common/images/button_bold.png","Bold text","'''","'''","Bold text","mw-editbutton-bold");mw.toolbar.addButton("/skins/common/images/button_italic.png","Italic text","''","''","Italic text","mw-editbutton-italic");mw.toolbar.addButton("/skins/common/images/button_link.png","Internal link","[[","]]","Link title","mw-editbutton-link");mw.toolbar.addButton("/skins/common/images/button_extlink.png","External link (remember http:// prefix)","[","]","http://www.example.com link title","mw-editbutton-extlink");mw.toolbar.addButton("/skins/common/images/button_headline.png","Level 2 headline","\n== "," ==\n","Headline text","mw-editbutton-headline");mw.toolbar.addButton("/skins/common/images/button_image.png","Embedded file","[[File:","]]","Example.jpg","mw-editbutton-image");mw.toolbar.addButton("/skins/common/images/button_media.png","File link","[[Media:","]]","Example.ogg","mw-editbutton-media");mw.toolbar.addButton("/skins/common/images/button_nowiki.png","Ignore wiki formatting","\u003Cnowiki\u003E","\u003C/nowiki\u003E","Insert non-formatted text here","mw-editbutton-nowiki");mw.toolbar.addButton("/skins/common/images/button_sig.png","Your signature with timestamp","--~~~~","","","mw-editbutton-signature");mw.toolbar.addButton("/skins/common/images/button_hr.png","Horizontal line (use sparingly)","\n----\n","","","mw-editbutton-hr");
+// Create button bar
+$(function() { mw.toolbar.init(); } );
+});
+}</script>
+<script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script>
+<script>if(window.mw){
+mw.loader.state({"site":"ready"});
+}</script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><!-- Served in 0.200 secs. --></body></html>

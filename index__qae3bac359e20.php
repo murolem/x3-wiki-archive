@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Docking - X3 Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.6" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Docking&amp;action=edit" />
+<link rel="edit" title="Edit" href="/index.php?title=Docking&amp;action=edit" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://x3wiki.com/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://x3wiki.com/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.monobook&amp;only=styles&amp;skin=monobook&amp;*" />
+<!--[if IE 6]><link rel="stylesheet" href="/skins/monobook/IE60Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/skins/monobook/IE70Fixes.css?303" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: dailystunt_wiki:resourceloader:filter:minify-css:7:bcf2b4205b52540e110d3a777baf7453 */</style>
+
+<script src="http://x3wiki.com/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Docking","wgTitle":"Docking","wgCurRevisionId":16168,"wgRevisionId":16168,"wgArticleId":108,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Docking","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"monobook","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0
+,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: dailystunt_wiki:resourceloader:filter:minify-js:7:68471340157e99d9e2eb390b7623161a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Docking skin-monobook action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" class="mw-body-primary" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- centralNotice loads here --></div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- X3 wiki -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7526491584299412"
+     data-ad-slot="4173455889"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+	<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Docking</span></h1>
+	<div id="bodyContent" class="mw-body">
+		<div id="siteSub">From X3 Wiki</div>
+		<div id="contentSub"><div id="mw-revision-info">Revision as of 17:44, 27 March 2014 by <a href="/index.php?title=User:ShadowPhantom&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:ShadowPhantom (page does not exist)">ShadowPhantom</a>  <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:ShadowPhantom&amp;action=edit&amp;redlink=1" class="new" title="User talk:ShadowPhantom (page does not exist)">Talk</a> | <a href="/index.php/Special:Contributions/ShadowPhantom" title="Special:Contributions/ShadowPhantom">contribs</a>)</span></div><br />
+				<div id="mw-revision-nav">(<a href="/index.php?title=Docking&amp;diff=prev&amp;oldid=16168" title="Docking">diff</a>) <a href="/index.php?title=Docking&amp;direction=prev&amp;oldid=16168" title="Docking">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div></div>
+		<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>Transfer of <a href="/index.php/Wares" title="Wares">wares</a> usually occurs when vessels dock.
+</p><p><a href="/index.php/Stations" title="Stations">Stations</a> feature both internal docking bays and external docking clamps. External docking clamps are limited in number (usually 5), whereas internal bays are functionally unlimited. Docking listings on station pages will usually reference external clamps.<br />
+External docking clamps can usually handle all non-capital ship types.<br />
+Internal bays can usually only handle smaller craft like <a href="/index.php/Category:Fighters" title="Category:Fighters">fighters</a>.
+</p><p><a href="/index.php/Category:Capital_Ships" title="Category:Capital Ships">Capital Ships</a> may only externally dock at certain stations and usually only 2 at a time.<br />
+The <a href="/index.php/Aran" title="Aran">Aran</a> class ship is an exception which may dock all types of vessels including other capital ships.
+</p><p>Some ships may also dock smaller craft, usually fighter craft and sometimes limited to small <a href="/index.php/M5" title="M5">M5 Scout</a> class vessels.
+</p><p>At a <a href="/index.php/Reputation" title="Reputation">race rank</a> of -1 you may dock with a race's stations in border sectors and at a rank of 0 in core sectors.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Docking_Methods"><span class="tocnumber">1</span> <span class="toctext">Docking Methods</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Autopilot"><span class="tocnumber">1.1</span> <span class="toctext">Autopilot</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Manually"><span class="tocnumber">1.2</span> <span class="toctext">Manually</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Docking_Computer"><span class="tocnumber">1.3</span> <span class="toctext">Docking Computer</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Available_docking_ports"><span class="tocnumber">1.4</span> <span class="toctext">Available docking ports</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Hangar_Docking_Stations"><span class="tocnumber">2</span> <span class="toctext">Hangar Docking Stations</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#.22Hook.22_Docking_Ports"><span class="tocnumber">3</span> <span class="toctext">"Hook" Docking Ports</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Capital_Ship_Docking_Stations"><span class="tocnumber">4</span> <span class="toctext">Capital Ship Docking Stations</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Docking_Methods">Docking Methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Docking&amp;action=edit&amp;section=1" title="Edit section: Docking Methods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Autopilot">Autopilot</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Docking&amp;action=edit&amp;section=2" title="Edit section: Autopilot">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Through the command menu or via hotkey, order a ship to dock to a target. The ship will perform docking procedures automatically, obeying all traffic regulations and following standard docking flight paths.
+</p><p>This is the slowest method of docking, and it is also well-noted that this form of docking is very inefficient and unreliable for larger ships such as <a href="/index.php/Category:Capital_Ships" title="Category:Capital Ships">capital ships</a>, especially with regard to the new super shipyard's model.
+</p>
+<h3><span class="mw-headline" id="Manually">Manually</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Docking&amp;action=edit&amp;section=3" title="Edit section: Manually">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>First, comm. the target station you intend on docking with. Request permission to dock with the target and pilot your vessel to the docking marker, usually a green circle with a ring of triangles rotating around it. It is important to be below the docking speed limit when you arrive at the green circle, but not important to obey the speed limit on approach. If done efficiently, Manual Docking is quicker than allowing the Autopilot to dock, since direction of approach is also irrelevant, unlike the typical "V"-shaped approach.
+</p>
+<h3><span class="mw-headline" id="Docking_Computer">Docking Computer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Docking&amp;action=edit&amp;section=4" title="Edit section: Docking Computer">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/index.php/Docking_Computer" title="Docking Computer">Docking Computer</a> software can be bought at certain stations, most notably <a href="/index.php/Paranid" title="Paranid">Paranid</a>. It can be outfitted to any class of ship (although normal docking restrictions still apply) and allows for a much more effective and quicker docking method.
+</p><p>A <a href="/index.php/Docking_Computer" title="Docking Computer">Docking Computer</a> will instantly transport your vessel to the target dock when within range. This range varies between docks. Large stations can have a range of 10 or more km. Normal stations typically are in range at 5 km. Smaller ships (like the TM) may require being within 3 or fewer km.
+</p><p>To use a Docking Computer, navigate the command controls and select the Docking Computer option. A faster way to use your docking computer is to set a hotkey from the game's options control panel, the Docking Computer has no hotkey by default, however if you hit Shift+d and you are within range of the station it will jump you to docked.
+</p><p>Approach angle and speed are unimportant when using a docking computer. This is the best docking strategy used with larger ships such as <a href="/index.php/Category:Capital_Ships" title="Category:Capital Ships">capital ships</a>, and noticeably safer for all classes of ships.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Available_docking_ports">Available docking ports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Docking&amp;action=edit&amp;section=5" title="Edit section: Available docking ports">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Fighters are defined as <a href="/index.php/M3%2B" title="M3+">M3+ Heavy Fighter</a> to <a href="/index.php/M5" title="M5">M5 Scout</a>.
+</p><p>Super Shipyards also permit unlimited hangar docking for <a href="/index.php/M6%2B" title="M6+">M6+ Heavy Corvette</a>, <a href="/index.php/M6" title="M6">M6 Corvette</a>, <a href="/index.php/TP" title="TP">TP Personnel Transport</a>, and  <a href="/index.php/TS" title="TS">TS Transport</a> ships.
+</p><p>The Hub is listed here for its high, but not unlimited capacity.
+</p>
+<table cellpadding="10">
+
+<tr valign="top">
+<td>
+<h2><span class="mw-headline" id="Hangar_Docking_Stations">Hangar Docking Stations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Docking&amp;action=edit&amp;section=6" title="Edit section: Hangar Docking Stations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>From <a rel="nofollow" class="external text" href="http://forum.egosoft.com/viewtopic.php?t=287694">forum</a>:
+</p>
+<table class="wikitable" style="text-align:center;">
+<tr>
+<th>Station</th>
+<th> Fighter Docking Limit
+</th></tr>
+<tr>
+<td> <a href="/index.php/Trading_Station" title="Trading Station">Trading Station</a> </td>
+<td> Unlimited
+</td></tr>
+<tr>
+<td> Military Outposts </td>
+<td> Unlimited
+</td></tr>
+<tr>
+<td> <a href="/index.php/Headquarters" title="Headquarters"> Personal HQ</a> </td>
+<td> Unlimited
+</td></tr>
+<tr>
+<td> <a href="/index.php/Complex_Hub" title="Complex Hub">Complex Hub</a> </td>
+<td> 25
+</td></tr>
+<tr>
+<td> Super Shipyards </td>
+<td> Unlimited
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirate_Base" title="Pirate Base">Pirate Base</a> </td>
+<td> Unlimited
+</td></tr>
+<tr>
+<td> <a href="/index.php/Orbital_Defense_Station" title="Orbital Defense Station" class="mw-redirect">Orbital Defense Station</a> </td>
+<td> Unlimited
+</td></tr>
+<tr>
+<td> <a href="/index.php/Saturn_Research_Station" title="Saturn Research Station" class="mw-redirect">Saturn Research Station</a> </td>
+<td> Unlimited
+</td></tr>
+<tr>
+<td> <a href="/index.php/Earth_Torus" title="Earth Torus">Earth Torus</a> </td>
+<td> Unlimited
+</td></tr></table>
+</td>
+<td>
+</td>
+<td>
+<h2><span class="mw-headline" id=".22Hook.22_Docking_Ports">"Hook" Docking Ports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Docking&amp;action=edit&amp;section=7" title="Edit section: &quot;Hook&quot; Docking Ports">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Corvette and medium-sized ship docks:
+</p>
+<table class="wikitable" style="text-align:center;">
+<tr>
+<th>Station</th>
+<th> TS/TP/TM/M8/M6 Docking Limit
+</th></tr>
+<tr>
+<td> <a href="/index.php/Headquarters" title="Headquarters"> Personal HQ</a> </td>
+<td> 15
+</td></tr>
+<tr>
+<td> <a href="/index.php/Shipyards" title="Shipyards" class="mw-redirect">Shipyards</a> </td>
+<td> 5
+</td></tr>
+<tr>
+<td> <a href="/index.php/Factories" title="Factories">Factories</a> S </td>
+<td> 5
+</td></tr>
+<tr>
+<td> <a href="/index.php/Factories" title="Factories">Factories</a> M </td>
+<td> 10
+</td></tr>
+<tr>
+<td> <a href="/index.php/Factories" title="Factories">Factories</a> L </td>
+<td> 15
+</td></tr>
+<tr>
+<td> <a href="/index.php/Factories" title="Factories">Factories</a> XL </td>
+<td> 25
+</td></tr>
+</table>
+</td>
+<td>
+</td>
+<td>
+<h2><span class="mw-headline" id="Capital_Ship_Docking_Stations">Capital Ship Docking Stations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Docking&amp;action=edit&amp;section=8" title="Edit section: Capital Ship Docking Stations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Capital ships are known to dock at:
+</p>
+<table class="wikitable" style="text-align:center;">
+<tr>
+<th>Station</th>
+<th> Capital Docking Limit
+</th></tr>
+<tr>
+<td> <a href="/index.php/Equipment_Dock" title="Equipment Dock">Equipment Dock</a> </td>
+<td> 2
+</td></tr>
+<tr>
+<td> <a href="/index.php/Military_Outpost" title="Military Outpost">Military Outpost</a> </td>
+<td> 2
+</td></tr>
+<tr>
+<td> <a href="/index.php/Military_Base" title="Military Base">Military Base</a> </td>
+<td> 2
+</td></tr>
+<tr>
+<td> <a href="/index.php/Shipyards" title="Shipyards" class="mw-redirect">Shipyards</a> </td>
+<td> 6
+</td></tr>
+<tr>
+<td> Super Shipyards </td>
+<td> 6+ (varies)
+</td></tr>
+<tr>
+<td> Corporate HQ </td>
+<td> 2 (if at all)
+</td></tr>
+<tr>
+<td> <a href="/index.php/Headquarters" title="Headquarters"> Personal HQ</a> </td>
+<td> 10
+</td></tr>
+<tr>
+<td> <a href="/index.php/Complex_Hub" title="Complex Hub"> Hub</a> </td>
+<td> 1
+</td></tr>
+<tr>
+<td> Terran Orbital Defense Stations </td>
+<td> 2
+</td></tr>
+<tr>
+<td> Saturn Research Facility </td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/index.php/Earth_Torus" title="Earth Torus">Earth Torus</a> </td>
+<td>
+</td></tr></table>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.056 seconds
+Real time usage: 0.062 seconds
+Preprocessor visited node count: 62/1000000
+Preprocessor generated node count: 126/1000000
+Post‐expand include size: 154/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key dailystunt_wiki:pcache:idhash:108-0!*!0!!en!*!* and timestamp 20160504101837
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://x3wiki.com/index.php?title=Docking&amp;oldid=16168">http://x3wiki.com/index.php?title=Docking&amp;oldid=16168</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<h2>Navigation menu</h2>
+	<div id="p-cactions" class="portlet" role="navigation">
+		<h3>Views</h3>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/index.php/Docking" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/index.php/Talk:Docking" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit"><a href="/index.php?title=Docking&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				<li id="ca-history"><a href="/index.php?title=Docking&amp;action=history" rel="archives" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal" role="navigation">
+		<h3>Personal tools</h3>
+		<div class="pBody">
+			<ul>
+				<li id="pt-createaccount"><a href="/index.php?title=Special:UserLogin&amp;returnto=Docking&amp;returntoquery=oldid%3D16168&amp;type=signup">Create account</a></li>
+				<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Docking&amp;returntoquery=oldid%3D16168" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo" role="banner">
+<a href="/index.php/Main_Page" style="background-image: url(http://www.x3wiki.com/x3.jpg);" title="Visit the main page"></a>
+	</div>
+	<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" rel="nofollow" title="The place to find out">Help</a></li>
+				<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict" role="navigation">
+		<h3>X3 Terran Conflict</h3>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+				<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+				<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+				<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+				<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+				<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+				<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+				<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+				<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+				<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+				<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="generated-sidebar portlet" id="p-Links" role="navigation">
+		<h3>Links</h3>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Wildstar-trial"><a href="http://www.wildstartrial.com" rel="nofollow">Wildstar trial</a></li>
+				<li id="n-MMO-Server-Status"><a href="http://www.mmoserverstatus.com" rel="nofollow">MMO Server Status</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div id="p-search" class="portlet" role="search">
+		<h3><label for="searchInput">Search</label></h3>
+		<div id="searchBody" class="pBody">
+			<form action="/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb" role="navigation">
+		<h3>Tools</h3>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Docking" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Docking" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/index.php?title=Docking&amp;oldid=16168&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/index.php?title=Docking&amp;oldid=16168" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/index.php?title=Docking&amp;action=info">Page information</a></li>
+			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer" role="contentinfo">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 27 March 2014, at 17:44.</li>
+		<li id="viewcount">This page has been accessed 58,001 times.</li>
+		<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+		<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"],null,true);
+}</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-265105-19");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script>
+<script>if(window.mw){
+mw.loader.state({"site":"ready"});
+}</script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><!-- Served in 0.131 secs. --></body></html>

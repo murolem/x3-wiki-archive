@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>X3ap quests - X3 Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"X3ap_quests","wgTitle":"X3ap quests","wgCurRevisionId":20212,"wgRevisionId":20212,"wgArticleId":2134,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Missions","Plots","X3AP"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"X3ap_quests","wgRelevantArticleId":2134,"wgRequestId":"Wlf9tFkfZokAAGn2cAQAAAAW","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<!--[if IE 6]><link rel="stylesheet" href="/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]-->
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=X3ap_quests&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/index.php?title=X3ap_quests&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://www.x3wiki.com/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-X3ap_quests rootpage-X3ap_quests skin-monobook action-view">
+<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+									<div id="siteNotice"><!-- centralNotice loads here --></div>
+				<div class="mw-indicators">
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7526491584299412",
+    enable_page_level_ads: true
+  });
+</script>
+
+<!-- X3 wiki -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7526491584299412"
+     data-ad-slot="4173455889"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+				<h1 id="firstHeading" class="firstHeading" lang="en">X3ap quests</h1>
+				
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From X3 Wiki</div>
+					<div id="contentSub"><div id="mw-revision-info">Revision as of 22:43, 24 September 2017 by <a href="/index.php?title=User:KiTA&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:KiTA (page does not exist)">KiTA</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:KiTA&amp;action=edit&amp;redlink=1" class="new" title="User talk:KiTA (page does not exist)">talk</a> | <a href="/index.php/Special:Contributions/KiTA" title="Special:Contributions/KiTA">contribs</a>)</span></div><br />
+				<div id="mw-revision-nav">(<a href="/index.php?title=X3ap_quests&amp;diff=prev&amp;oldid=20212" title="X3ap quests">diff</a>) <a href="/index.php?title=X3ap_quests&amp;direction=prev&amp;oldid=20212" title="X3ap quests">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>This is the page for the <span style="color:gray;background-color:gold; font-family:Futura;">-<a href="/index.php/X3_albion_prelude" title="X3 albion prelude" class="mw-redirect">X3: Albion Prelude</a>-</span> main plot line.
+It is available for all starts except the <a href="/index.php/Terran_Commander" title="Terran Commander" class="mw-redirect">Terran Commander</a> Start.
+</p><p>The <a href="/index.php/Terran_Commander" title="Terran Commander" class="mw-redirect">Terran Commander</a> instead gets to play through <a href="/index.php/Operation:_Loose_Ends" title="Operation: Loose Ends">Operation: Loose Ends</a>
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Starting_the_quest-line"><span class="tocnumber">1</span> <span class="toctext">Starting the quest-line</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#List_of_Quests"><span class="tocnumber">2</span> <span class="toctext">List of Quests</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Completion_Rewards"><span class="tocnumber">3</span> <span class="toctext">Completion Rewards</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Reference"><span class="tocnumber">4</span> <span class="toctext">Reference</span></a></li>
+</ul>
+</div>
+
+<h3><span class="mw-headline" id="Starting_the_quest-line">Starting the quest-line</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=X3ap_quests&amp;action=edit&amp;section=1" title="Edit section: Starting the quest-line">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Goto <a href="/index.php/Argon_Sector_M148" title="Argon Sector M148">Argon Sector M148</a>
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="List_of_Quests">List of Quests</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=X3ap_quests&amp;action=edit&amp;section=2" title="Edit section: List of Quests">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>These contain spoilers, so do not click them if you want to play them through.
+</p>
+<ol><li> <a href="/index.php/X3ap:1_Aiding_the_war_efforts" title="X3ap:1 Aiding the war efforts"> Aiding the war efforts</a></li>
+<li> <a href="/index.php/X3ap:2_Jonferco_Eavesdrop" title="X3ap:2 Jonferco Eavesdrop"> Jonferco Eavesdrop</a></li>
+<li> <a href="/index.php/X3ap:3_Highway_Patrol" title="X3ap:3 Highway Patrol"> Highway Patrol</a></li>
+<li> <a href="/index.php/X3ap:4_Jonferco_Under_Attack!" title="X3ap:4 Jonferco Under Attack!"> Jonferco Under Attack!</a></li>
+<li> <a href="/index.php/X3ap:5_Protecting_the_Heavy_load_transporter" title="X3ap:5 Protecting the Heavy load transporter"> Protecting the Heavy load transporter</a></li>
+<li> <a href="/index.php/X3ap:6_Albion_Defenceless" title="X3ap:6 Albion Defenceless"> Albion Defenceless</a></li>
+<li> <a href="/index.php/X3ap:7_The_Beryll" title="X3ap:7 The Beryll"> The Beryll</a></li>
+<li> <a href="/index.php/X3ap:8_Plutarch_Rising" title="X3ap:8 Plutarch Rising"> Plutarch Rising</a></li>
+<li> <a href="/index.php/X3ap:9_Trial_by_Fire" title="X3ap:9 Trial by Fire"> Trial by Fire</a></li>
+<li> <a href="/index.php/X3ap:10_Uncovered" title="X3ap:10 Uncovered"> Uncovered</a></li>
+<li> <a href="/index.php/X3ap:11_Albion_Pride" title="X3ap:11 Albion Pride"> Albion Pride</a></li></ol>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Completion_Rewards">Completion Rewards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=X3ap_quests&amp;action=edit&amp;section=3" title="Edit section: Completion Rewards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Here is a small list of rewards from the Albion Prelude plot:
+</p><p><span style="font-size:22px;"><b>Spoiler!</b></span>
+Highlight text to view.
+</p>
+<div id="spoiler" style="color:white;border:1px solid black; background-color:lightblue; color:lightblue;"><br />
+<p>1 x Argon Advanced Discoverer (M5)<br />1 x Argon Centaur (M6),<br />3 x #deca.cefa (M3),<br />1 x Argon Aamon Prototype (M3+),<br />Steam achievement: Albion Pride,<br />Millions of credits
+</p>
+<br /></div>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Reference">Reference</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=X3ap_quests&amp;action=edit&amp;section=4" title="Edit section: Reference">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ol><li> roguey.co.uk/x3ap/help/guides/plot/page1.php</li></ol>
+<table class="wikitable" style="text-align:center;" width="100%">
+
+<tr>
+<td style="background-color:#CCCCFF;"> List of <b><a href="/index.php/Missions" title="Missions">Missions</a></b>
+</td></tr></table>
+<table class="wikitable collapsed" cellspacing="3" style="text-align:center;" width="100%">
+
+<tr>
+<td style="background-color:grey;"> <b>Plot Missions</b>
+</td></tr>
+<tr>
+<td>  <a href="/index.php/Terran_Plot" title="Terran Plot">Terran Plot</a>  |  <a href="/index.php/Operation:_Final_Fury" title="Operation: Final Fury">Operation: Final Fury</a>  |  <a href="/index.php/Goner_Plot" title="Goner Plot">Goner Plot</a>  |  <a href="/index.php/Hub_Plot" title="Hub Plot">Hub Plot</a>  |  <a href="/index.php/HQ_Plot" title="HQ Plot">HQ Plot</a>
+</td></tr>
+<tr>
+<td>  <a href="/index.php/Treasure_Hunt" title="Treasure Hunt">Treasure Hunt</a>  |  <a href="/index.php/A_New_Home" title="A New Home">A New Home</a>  |  <a href="/index.php/Aldrin_Expansion" title="Aldrin Expansion">Aldrin Expansion</a>   |  <a href="/index.php/Balance_of_Power" title="Balance of Power">Balance of Power</a>
+</td></tr>
+<tr>
+<td>    <strong class="selflink">Albion Prelude</strong>  |  <a href="/index.php/Operation:_Loose_Ends" title="Operation: Loose Ends">Operation: Loose Ends</a>  |  <a href="/index.php/Shady_Business" title="Shady Business">Shady Business</a>  |  <a href="/index.php?title=Corporation_Troubles&amp;action=edit&amp;redlink=1" class="new" title="Corporation Troubles (page does not exist)">Corporation Troubles</a>
+</td></tr></table>
+<table class="wikitable collapsed" cellspacing="3" style="text-align:center;" width="100%">
+
+<tr>
+<td style="background-color:grey;">  <b>Other Missions</b>
+</td></tr>
+<tr>
+<td>  <a href="/index.php/Assassination" title="Assassination">Assassination</a>  |  <a href="/index.php/Transport_Passenger" title="Transport Passenger">Transport Passenger</a>  |  <a href="/index.php/Return_Ship" title="Return Ship">Return Ship</a>  |  <a href="/index.php/Follow_Ship" title="Follow Ship">Follow Ship</a>  |  <a href="/index.php/Transport_Cargo" title="Transport Cargo">Transport Cargo</a>  |  <a href="/index.php/Scan_Asteroids" title="Scan Asteroids">Scan Asteroids</a>
+</td></tr>
+<tr>
+<td>  <a href="/index.php/Escort_Convoy" title="Escort Convoy">Escort Convoy</a>  |  <a href="/index.php/Build_Stations" title="Build Stations">Build Stations</a>  |  <a href="/index.php/Deliver_Matching_Ship" title="Deliver Matching Ship">Deliver Matching Ship</a>  |  <a href="/index.php/Destroy_Convoy" title="Destroy Convoy">Destroy Convoy</a>  |  <a href="/index.php/Transport_Passengers" title="Transport Passengers">Transport Passengers</a>  |  <a href="/index.php/Freight_Scan" title="Freight Scan">Freight Scan</a>
+</td></tr>
+<tr>
+<td>  <a href="/index.php/Patrol" title="Patrol">Patrol</a>  |  <a href="/index.php/Defend_Station" title="Defend Station">Defend Station</a>  |  <a href="/index.php/Retrieve_Stolen_Ship" title="Retrieve Stolen Ship">Retrieve Stolen Ship</a>  |  <a href="/index.php/Xenon_Hold_Position" title="Xenon Hold Position">Xenon Hold Position</a>  |  <a href="/index.php/Xenon_Patrol" title="Xenon Patrol">Xenon Patrol</a>  |  <a href="/index.php/Deliver_Wares" title="Deliver Wares">Deliver Wares</a>
+</td></tr></table>
+<table class="wikitable collapsed" cellspacing="3" style="text-align:center;" width="100%">
+<tr>
+<td style="background-color:grey;">  <b>Offers</b>
+</td></tr>
+<tr>
+<td>  <a href="/index.php/Station_Hack" title="Station Hack">Station Hack</a>  |  <a href="/index.php/Buy_Asteroid_Information" title="Buy Asteroid Information">Buy Asteroid Information</a>  |  <a href="/index.php/Buy_Sector_Information" title="Buy Sector Information">Buy Sector Information</a>  |  <a href="/index.php/Buy_Used_Ship" title="Buy Used Ship">Buy Used Ship</a>  |  <a href="/index.php/Buy_Blueprints" title="Buy Blueprints">Buy Blueprints</a>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20180111051506
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.012 seconds
+Real time usage: 0.015 seconds
+Preprocessor visited node count: 38/1000000
+Preprocessor generated node count: 92/1000000
+Post‐expand include size: 3286/2097152 bytes
+Template argument size: 180/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    6.093      1 - -total
+ 60.49%    3.686      1 - Template:Missions
+ 19.73%    1.202      1 - Template:X3ap
+ 16.36%    0.997      1 - Template:Other_Missions
+ 15.41%    0.939      1 - Template:Spoiler
+ 12.87%    0.784      1 - Template:Plot_Missions
+ 12.34%    0.752      1 - Template:Offers
+-->
+
+<!-- Saved in parser cache with key dailystunt_wiki:pcache:idhash:2134-0!*!0!!en!*!* and timestamp 20180111051506 and revision id 20212
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://www.x3wiki.com/index.php?title=X3ap_quests&amp;oldid=20212">http://www.x3wiki.com/index.php?title=X3ap_quests&amp;oldid=20212</a>"</div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/index.php?title=Category:Missions&amp;action=edit&amp;redlink=1" class="new" title="Category:Missions (page does not exist)">Missions</a></li><li><a href="/index.php?title=Category:Plots&amp;action=edit&amp;redlink=1" class="new" title="Category:Plots (page does not exist)">Plots</a></li><li><a href="/index.php?title=Category:X3AP&amp;action=edit&amp;redlink=1" class="new" title="Category:X3AP (page does not exist)">X3AP</a></li></ul></div></div>					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+			</div>
+		</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/index.php/X3ap_quests" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/index.php?title=Talk:X3ap_quests&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit"><a href="/index.php?title=X3ap_quests&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+				<li id="ca-history"><a href="/index.php?title=X3ap_quests&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+						<li id="pt-anonuserpage">Not logged in</li>							<li id="pt-anontalk"><a href="/index.php/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+													<li id="pt-anoncontribs"><a href="/index.php/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+													<li id="pt-createaccount"><a href="/index.php?title=Special:CreateAccount&amp;returnto=X3ap+quests&amp;returntoquery=oldid%3D20212" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=X3ap+quests&amp;returntoquery=oldid%3D20212" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/index.php/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+											<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>
+											<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict" role="navigation">
+		<h3>X3 Terran Conflict</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+											<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+											<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+											<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+											<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+											<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+											<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+											<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+											<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+											<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+											<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Links" role="navigation">
+		<h3>Links</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-MMO-Server-Status"><a href="http://www.mmoserverstatus.com">MMO Server Status</a></li>
+											<li id="n-Compare-Everglades-Tours"><a href="http://www.compare-everglades-tours.com">Compare Everglades Tours</a></li>
+											<li id="n-Pokemon-GO-Wiki"><a href="http://www.pokemon-go-wiki.com">Pokemon GO Wiki</a></li>
+											<li id="n-Harry-Potter-Wizards-Unite-Wiki"><a href="http://harrypotterwizardsunite.wiki">Harry Potter Wizards Unite Wiki</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/index.php" id="searchform">
+					<input type='hidden' name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/X3ap_quests" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/X3ap_quests" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/index.php?title=X3ap_quests&amp;oldid=20212&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/index.php?title=X3ap_quests&amp;oldid=20212" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/index.php?title=X3ap_quests&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+			</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last modified on 24 September 2017, at 22:43.</li>
+									<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+									<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-265105-19', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":52});});</script></body></html>

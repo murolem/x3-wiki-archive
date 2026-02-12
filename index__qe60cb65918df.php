@@ -1,0 +1,12668 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Headquarters - X3 Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.6" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Headquarters&amp;action=edit" />
+<link rel="edit" title="Edit" href="/index.php?title=Headquarters&amp;action=edit" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://x3wiki.com/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://x3wiki.com/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.monobook&amp;only=styles&amp;skin=monobook&amp;*" />
+<!--[if IE 6]><link rel="stylesheet" href="/skins/monobook/IE60Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/skins/monobook/IE70Fixes.css?303" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: dailystunt_wiki:resourceloader:filter:minify-css:7:bcf2b4205b52540e110d3a777baf7453 */</style>
+
+<script src="http://x3wiki.com/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Headquarters","wgTitle":"Headquarters","wgCurRevisionId":16319,"wgRevisionId":16170,"wgArticleId":2121,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Headquarters","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"monobook","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0
+,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: dailystunt_wiki:resourceloader:filter:minify-js:7:68471340157e99d9e2eb390b7623161a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Headquarters skin-monobook action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" class="mw-body-primary" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- centralNotice loads here --></div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- X3 wiki -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7526491584299412"
+     data-ad-slot="4173455889"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+	<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Headquarters</span></h1>
+	<div id="bodyContent" class="mw-body">
+		<div id="siteSub">From X3 Wiki</div>
+		<div id="contentSub"><div id="mw-revision-info">Revision as of 17:51, 27 March 2014 by <a href="/index.php?title=User:ShadowPhantom&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:ShadowPhantom (page does not exist)">ShadowPhantom</a>  <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:ShadowPhantom&amp;action=edit&amp;redlink=1" class="new" title="User talk:ShadowPhantom (page does not exist)">Talk</a> | <a href="/index.php/Special:Contributions/ShadowPhantom" title="Special:Contributions/ShadowPhantom">contribs</a>)</span></div><br />
+				<div id="mw-revision-nav">(<a href="/index.php?title=Headquarters&amp;diff=prev&amp;oldid=16170" title="Headquarters">diff</a>) <a href="/index.php?title=Headquarters&amp;direction=prev&amp;oldid=16170" title="Headquarters">← Older revision</a> | <a href="/index.php/Headquarters" title="Headquarters">Latest revision</a> (<a href="/index.php?title=Headquarters&amp;diff=cur&amp;oldid=16170" title="Headquarters">diff</a>) | <a href="/index.php?title=Headquarters&amp;direction=next&amp;oldid=16170" title="Headquarters">Newer revision →</a> (<a href="/index.php?title=Headquarters&amp;diff=next&amp;oldid=16170" title="Headquarters">diff</a>)</div></div>
+		<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><br />
+</p>
+<table style="background-color: WhiteSmoke; text-align:left; padding: 0 em 0.25em; border: 1px solid DarkGray; float: right; margin-left: 1em;">
+<tr>
+<th style="text-align:center;background-color: lightblue;" colspan="2">Station Information
+</th></tr>
+<tr>
+<th> <a href="/index.php/Races" title="Races">Race</a>
+</th>
+<td> Any
+</td></tr>
+<tr>
+<th> <a href="/index.php/Station_Type" title="Station Type">Station Type</a>
+</th>
+<td> Dock
+</td></tr>
+<tr>
+<th> Freight Capacity
+</th>
+<td> 500,000 units
+</td></tr>
+
+<tr>
+<th style="text-align:center;background-color: lightblue;" colspan="2">Defense
+</th></tr>
+<tr>
+<th> <a href="/index.php/Hull" title="Hull" class="mw-redirect">Hull</a>
+</th>
+<td> 15,000,000
+</td></tr>
+<tr>
+<th> <a href="/index.php/Shields" title="Shields">Shields</a>
+</th>
+<td> 15 x <a href="/index.php/Shields#2_GJ" title="Shields">2 Gj</a>
+</td></tr>
+
+<tr>
+<th style="text-align:center;background-color: lightblue;" colspan="2">Production
+</th></tr>
+<tr>
+<th style="text-align:center;background-color: white;" colspan="2">Adjustable Wares
+</th></tr>
+
+<tr>
+<th style="text-align:center;background-color: lightblue;" colspan="2">Docking
+</th></tr>
+<tr>
+<th style="text-align:center;background-color: white;" colspan="2"><table class="wikitable sortable" style="width:400px;font-weight:normal;"><tr><td><b>Port</b></td><td><b>Ship Class</b></td><td><b>Number of Docking Ports</b></td></tr><tr><td>Hangar</td><td>Fighters</td><td>Unlimited</td></tr><tr><td>Hook Dock</td><td>Corvettes</td><td>15 (3*5 hooks)</td></tr><tr><td>Mega Dock</td><td>Capital Ships</td><td>10</td></tr></table>
+</th></tr>
+
+</table>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Introduction"><span class="tocnumber">1</span> <span class="toctext">Introduction</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Production.2C_Recycling_and_Reverse_Engineering"><span class="tocnumber">2</span> <span class="toctext">Production, Recycling and Reverse Engineering</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Production_Costs_.2F_Gains"><span class="tocnumber">3</span> <span class="toctext">Production Costs / Gains</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Fleet_Storage"><span class="tocnumber">4</span> <span class="toctext">Fleet Storage</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Freight_Storage"><span class="tocnumber">5</span> <span class="toctext">Freight Storage</span></a></li>
+</ul>
+</div>
+
+<h3><span class="mw-headline" id="Introduction">Introduction</span></h3>
+<p>The Headquarters is obtained by going through the <a href="/index.php/HQ_plot" title="HQ plot" class="mw-redirect">HQ plot</a>.
+</p><p>This massive station enables the player to store a massive number of wares, ships and weapons. In fact, the station's storage hold is so large that it can store TL stations.
+</p><p>The headquarters also has the ability to Repair, Decompose and Construct ships. All of these actions, however, require time and materials.
+</p>
+<h3><span class="mw-headline" id="Production.2C_Recycling_and_Reverse_Engineering">Production, Recycling and Reverse Engineering</span></h3>
+<p>The Headquarters can act as a <a href="/index.php/Shipyard" title="Shipyard">Shipyard</a>. However, the cost is not in a direct currency. Instead, you must use direct materials. The ratio of these materials is:
+</p>
+<table class="wikitable" border="1" style="float:right;">
+<caption> Approx. Production Ratio (Fig 1.1)
+</caption>
+<tr>
+<th> Component
+</th>
+<th> Value
+</th></tr>
+
+<tr>
+<td> Energy Cells </td>
+<td> 237
+</td></tr>
+<tr>
+<td> Teladiunium </td>
+<td> 7.4
+</td></tr>
+<tr>
+<td> Cloth Rimes </td>
+<td> 2.5
+</td></tr>
+<tr>
+<td> Rastar Oil </td>
+<td> 5
+</td></tr>
+<tr>
+<td> Ore </td>
+<td> 10
+</td></tr>
+<tr>
+<td> Silicon Wafers </td>
+<td> 7.4
+</td></tr>
+<tr>
+<td> Crystals </td>
+<td> 2.5
+</td></tr>
+<tr>
+<td> Quantum Tubes </td>
+<td> 2.4
+</td></tr>
+<tr>
+<td> Microchips </td>
+<td> 5
+</td></tr>
+<tr>
+<td> Computer Components </td>
+<td> 2.5
+</td></tr>
+</table>
+<p>Definitions:
+</p>
+<ul>
+<li> Recycle - Convert a ship into raw materials.
+</li>
+<li> Production - Build a ship using raw materials.
+</li>
+<li> Reverse Engineering - Sacrifice a ship to gain the ability to create another of that type. (Blueprints)
+</li>
+</ul>
+<p><br />
+Recycling will break a ship down into parts based on a special ratio. (Fig 1.1) This Ratio is expanded based on the cost of the ship. After recycling, you can make the ship again if you have a blueprint.
+</p><p><br />
+Production will enable players with vast factory empires to build ships without having to trade their <a href="/index.php/Wares" title="Wares">Wares</a> for money. Some specific wares, such as <a href="/index.php/Microchips" title="Microchips">Microchips</a> and <a href="/index.php/Quantum_Tubes" title="Quantum Tubes">Quantum Tubes</a> will be very difficult to get up the required numbers to build the ship making it very unbalanced.
+NOTE: Very large ships may be impossible to build because the materials required to build them exceed the station's freight cap. (500,000 units)
+</p><p><br />
+The Headquarters will normally spawn with the ability to make a <a href="/index.php/Buster" title="Buster">Buster</a>. The payer must sacrifice ships in Reverse Engineering to add more blueprints so that more ship types can become Producable.
+</p>
+<h3><span class="mw-headline" id="Production_Costs_.2F_Gains">Production Costs / Gains</span></h3>
+<p>Credits: <b>Carlo</b> (X3 Forums)
+</p>
+<ul>
+<li>CR - Cloth Rimes
+</li>
+<li>RO - Rastar Oil
+</li>
+<li>SW - Silicon Wafers
+</li>
+<li>QT - Quantum Tubes
+</li>
+<li>CC - Computer components
+</li>
+<li>NV - Nividium
+</li>
+</ul>
+<p><br />
+Click <b>Expand</b> to see data. This data includes every single ship in the game.
+</p>
+<table class="wikitable sortable mw-collapsible mw-collapsed" border="1">
+<tr>
+<th> Race
+</th>
+<th> Ship
+</th>
+<th> Class
+</th>
+<th data-sort-type="number"> Credits
+</th>
+<th data-sort-type="time"> Build Time
+</th>
+<th data-sort-type="number"> Energy
+</th>
+<th data-sort-type="number"> Teladianium
+</th>
+<th data-sort-type="number"> CR
+</th>
+<th data-sort-type="number"> RO
+</th>
+<th data-sort-type="number"> Ore
+</th>
+<th data-sort-type="number"> SW
+</th>
+<th data-sort-type="number"> Crystals
+</th>
+<th data-sort-type="number"> QT
+</th>
+<th data-sort-type="number"> Microchips
+</th>
+<th data-sort-type="number"> CC
+</th>
+<th data-sort-type="number"> NV
+</th></tr>
+<tr>
+<td> Argon
+</td>
+<td> Colossus
+</td>
+<td> M1
+</td>
+<td> 29344472
+</td>
+<td> 58:46:59
+</td>
+<td> 99472
+</td>
+<td> 3107
+</td>
+<td> 1035
+</td>
+<td> 2071
+</td>
+<td> 4142
+</td>
+<td> 3107
+</td>
+<td> 1035
+</td>
+<td> 1035
+</td>
+<td> 2071
+</td>
+<td> 1035
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Colossus Hauler
+</td>
+<td> M1
+</td>
+<td> 29344472
+</td>
+<td> 58:46:59
+</td>
+<td> 99472
+</td>
+<td> 3107
+</td>
+<td> 1035
+</td>
+<td> 2071
+</td>
+<td> 4142
+</td>
+<td> 3107
+</td>
+<td> 1035
+</td>
+<td> 1035
+</td>
+<td> 2071
+</td>
+<td> 1035
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Large Orbital Weapons Platform
+</td>
+<td> M1
+</td>
+<td> 9370681
+</td>
+<td> 18:46:17
+</td>
+<td> 31765
+</td>
+<td> 992
+</td>
+<td> 330
+</td>
+<td> 661
+</td>
+<td> 1322
+</td>
+<td> 992
+</td>
+<td> 330
+</td>
+<td> 330
+</td>
+<td> 661
+</td>
+<td> 330
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Medium Orbital Weapons Platform
+</td>
+<td> M1
+</td>
+<td> 8548312
+</td>
+<td> 17:7:26
+</td>
+<td> 28977
+</td>
+<td> 905
+</td>
+<td> 301
+</td>
+<td> 603
+</td>
+<td> 1206
+</td>
+<td> 905
+</td>
+<td> 301
+</td>
+<td> 301
+</td>
+<td> 603
+</td>
+<td> 301
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Small Orbital Weapons Platform
+</td>
+<td> M1
+</td>
+<td> 6946856
+</td>
+<td> 13:54:57
+</td>
+<td> 23548
+</td>
+<td> 735
+</td>
+<td> 245
+</td>
+<td> 490
+</td>
+<td> 980
+</td>
+<td> 735
+</td>
+<td> 245
+</td>
+<td> 245
+</td>
+<td> 490
+</td>
+<td> 245
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Small Orbital Weapons Platform
+</td>
+<td> M1
+</td>
+<td> 6946856
+</td>
+<td> 13:54:57
+</td>
+<td> 23548
+</td>
+<td> 735
+</td>
+<td> 245
+</td>
+<td> 490
+</td>
+<td> 980
+</td>
+<td> 735
+</td>
+<td> 245
+</td>
+<td> 245
+</td>
+<td> 490
+</td>
+<td> 245
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Boreas
+</td>
+<td> M2
+</td>
+<td> 30016478
+</td>
+<td> 60:7:45
+</td>
+<td> 101750
+</td>
+<td> 3178
+</td>
+<td> 1059
+</td>
+<td> 2118
+</td>
+<td> 4237
+</td>
+<td> 3178
+</td>
+<td> 1059
+</td>
+<td> 1059
+</td>
+<td> 2118
+</td>
+<td> 1059
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Titan
+</td>
+<td> M2
+</td>
+<td> 29736115
+</td>
+<td> 59:34:4
+</td>
+<td> 100800
+</td>
+<td> 3148
+</td>
+<td> 1049
+</td>
+<td> 2099
+</td>
+<td> 4198
+</td>
+<td> 3148
+</td>
+<td> 1049
+</td>
+<td> 1049
+</td>
+<td> 2099
+</td>
+<td> 1049
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Aquilo
+</td>
+<td> M7
+</td>
+<td> 12559418
+</td>
+<td> 25:9:33
+</td>
+<td> 42574
+</td>
+<td> 1329
+</td>
+<td> 443
+</td>
+<td> 886
+</td>
+<td> 1773
+</td>
+<td> 1329
+</td>
+<td> 443
+</td>
+<td> 443
+</td>
+<td> 886
+</td>
+<td> 443
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Astraeus Hauler
+</td>
+<td> M7
+</td>
+<td> 11930846
+</td>
+<td> 23:54:0
+</td>
+<td> 40443
+</td>
+<td> 1263
+</td>
+<td> 421
+</td>
+<td> 842
+</td>
+<td> 1684
+</td>
+<td> 1263
+</td>
+<td> 421
+</td>
+<td> 421
+</td>
+<td> 842
+</td>
+<td> 421
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Cerberus
+</td>
+<td> M7
+</td>
+<td> 11863542
+</td>
+<td> 23:45:54
+</td>
+<td> 40215
+</td>
+<td> 1256
+</td>
+<td> 418
+</td>
+<td> 837
+</td>
+<td> 1674
+</td>
+<td> 1256
+</td>
+<td> 418
+</td>
+<td> 418
+</td>
+<td> 837
+</td>
+<td> 418
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Griffon
+</td>
+<td> M7
+</td>
+<td> 11863542
+</td>
+<td> 23:45:54
+</td>
+<td> 40215
+</td>
+<td> 1256
+</td>
+<td> 418
+</td>
+<td> 837
+</td>
+<td> 1674
+</td>
+<td> 1256
+</td>
+<td> 418
+</td>
+<td> 418
+</td>
+<td> 837
+</td>
+<td> 418
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Minotaur
+</td>
+<td> M7
+</td>
+<td> 16562733
+</td>
+<td> 33:10:43
+</td>
+<td> 56144
+</td>
+<td> 1753
+</td>
+<td> 584
+</td>
+<td> 1169
+</td>
+<td> 2338
+</td>
+<td> 1753
+</td>
+<td> 584
+</td>
+<td> 584
+</td>
+<td> 1169
+</td>
+<td> 584
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Sirokos
+</td>
+<td> M7
+</td>
+<td> 12559418
+</td>
+<td> 25:9:33
+</td>
+<td> 42574
+</td>
+<td> 1329
+</td>
+<td> 443
+</td>
+<td> 886
+</td>
+<td> 1773
+</td>
+<td> 1329
+</td>
+<td> 443
+</td>
+<td> 443
+</td>
+<td> 886
+</td>
+<td> 443
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Centaur
+</td>
+<td> M6
+</td>
+<td> 2596955
+</td>
+<td> 5:12:8
+</td>
+<td> 8803
+</td>
+<td> 274
+</td>
+<td> 91
+</td>
+<td> 183
+</td>
+<td> 366
+</td>
+<td> 274
+</td>
+<td> 91
+</td>
+<td> 91
+</td>
+<td> 183
+</td>
+<td> 91
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Heavy Centaur
+</td>
+<td> M6
+</td>
+<td> 4692958
+</td>
+<td> 9:24:3
+</td>
+<td> 15908
+</td>
+<td> 496
+</td>
+<td> 165
+</td>
+<td> 331
+</td>
+<td> 662
+</td>
+<td> 496
+</td>
+<td> 165
+</td>
+<td> 165
+</td>
+<td> 331
+</td>
+<td> 165
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Heavy Centaur Prototype
+</td>
+<td> M6
+</td>
+<td> 5162249
+</td>
+<td> 10:20:27
+</td>
+<td> 17499
+</td>
+<td> 546
+</td>
+<td> 182
+</td>
+<td> 364
+</td>
+<td> 728
+</td>
+<td> 546
+</td>
+<td> 182
+</td>
+<td> 182
+</td>
+<td> 364
+</td>
+<td> 182
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Military Transport
+</td>
+<td> M6
+</td>
+<td> 28133
+</td>
+<td> 3:22
+</td>
+<td> 95
+</td>
+<td> 2
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Pirate Centaur
+</td>
+<td> M6
+</td>
+<td> 2586134
+</td>
+<td> 5:10:50
+</td>
+<td> 8766
+</td>
+<td> 273
+</td>
+<td> 91
+</td>
+<td> 182
+</td>
+<td> 365
+</td>
+<td> 273
+</td>
+<td> 91
+</td>
+<td> 91
+</td>
+<td> 182
+</td>
+<td> 91
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Skiron
+</td>
+<td> M6
+</td>
+<td> 4727541
+</td>
+<td> 9:28:12
+</td>
+<td> 16025
+</td>
+<td> 500
+</td>
+<td> 166
+</td>
+<td> 333
+</td>
+<td> 667
+</td>
+<td> 500
+</td>
+<td> 166
+</td>
+<td> 166
+</td>
+<td> 333
+</td>
+<td> 166
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Truelight Seeker
+</td>
+<td> M6
+</td>
+<td> 2055923
+</td>
+<td> 4:7:6
+</td>
+<td> 6969
+</td>
+<td> 217
+</td>
+<td> 72
+</td>
+<td> 145
+</td>
+<td> 290
+</td>
+<td> 217
+</td>
+<td> 72
+</td>
+<td> 72
+</td>
+<td> 145
+</td>
+<td> 72
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Auster Hauler
+</td>
+<td> M8
+</td>
+<td> 1486324
+</td>
+<td> 2:58:38
+</td>
+<td> 5038
+</td>
+<td> 157
+</td>
+<td> 52
+</td>
+<td> 104
+</td>
+<td> 209
+</td>
+<td> 157
+</td>
+<td> 52
+</td>
+<td> 52
+</td>
+<td> 104
+</td>
+<td> 52
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Gladiator
+</td>
+<td> M8
+</td>
+<td> 1448884
+</td>
+<td> 2:54:8
+</td>
+<td> 4911
+</td>
+<td> 153
+</td>
+<td> 51
+</td>
+<td> 102
+</td>
+<td> 204
+</td>
+<td> 153
+</td>
+<td> 51
+</td>
+<td> 51
+</td>
+<td> 102
+</td>
+<td> 51
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Aamon Prototype
+</td>
+<td> M3
+</td>
+<td> 1623097
+</td>
+<td> 4:52:38
+</td>
+<td> 5502
+</td>
+<td> 171
+</td>
+<td> 57
+</td>
+<td> 114
+</td>
+<td> 229
+</td>
+<td> 171
+</td>
+<td> 57
+</td>
+<td> 57
+</td>
+<td> 114
+</td>
+<td> 57
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Eclipse
+</td>
+<td> M3
+</td>
+<td> 1428325
+</td>
+<td> 4:17:31
+</td>
+<td> 4841
+</td>
+<td> 151
+</td>
+<td> 50
+</td>
+<td> 100
+</td>
+<td> 201
+</td>
+<td> 151
+</td>
+<td> 50
+</td>
+<td> 50
+</td>
+<td> 100
+</td>
+<td> 50
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Eclipse Prototype
+</td>
+<td> M3
+</td>
+<td> 1571158
+</td>
+<td> 4:43:16
+</td>
+<td> 5325
+</td>
+<td> 166
+</td>
+<td> 55
+</td>
+<td> 110
+</td>
+<td> 221
+</td>
+<td> 166
+</td>
+<td> 55
+</td>
+<td> 55
+</td>
+<td> 110
+</td>
+<td> 55
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Notus Hauler
+</td>
+<td> M3
+</td>
+<td> 1482428
+</td>
+<td> 4:27:16
+</td>
+<td> 5025
+</td>
+<td> 156
+</td>
+<td> 52
+</td>
+<td> 104
+</td>
+<td> 209
+</td>
+<td> 156
+</td>
+<td> 52
+</td>
+<td> 52
+</td>
+<td> 104
+</td>
+<td> 52
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Nova
+</td>
+<td> M3
+</td>
+<td> 429514
+</td>
+<td> 1:17:26
+</td>
+<td> 1455
+</td>
+<td> 45
+</td>
+<td> 15
+</td>
+<td> 30
+</td>
+<td> 60
+</td>
+<td> 45
+</td>
+<td> 15
+</td>
+<td> 15
+</td>
+<td> 30
+</td>
+<td> 15
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Nova Prototype
+</td>
+<td> M3
+</td>
+<td> 751645
+</td>
+<td> 2:15:31
+</td>
+<td> 2547
+</td>
+<td> 79
+</td>
+<td> 26
+</td>
+<td> 53
+</td>
+<td> 106
+</td>
+<td> 79
+</td>
+<td> 26
+</td>
+<td> 26
+</td>
+<td> 53
+</td>
+<td> 26
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Nova Raider
+</td>
+<td> M3
+</td>
+<td> 429514
+</td>
+<td> 1:17:26
+</td>
+<td> 1455
+</td>
+<td> 45
+</td>
+<td> 15
+</td>
+<td> 30
+</td>
+<td> 60
+</td>
+<td> 45
+</td>
+<td> 15
+</td>
+<td> 15
+</td>
+<td> 30
+</td>
+<td> 15
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Nova Sentinel
+</td>
+<td> M3
+</td>
+<td> 601325
+</td>
+<td> 1:48:25
+</td>
+<td> 2038
+</td>
+<td> 63
+</td>
+<td> 21
+</td>
+<td> 42
+</td>
+<td> 84
+</td>
+<td> 63
+</td>
+<td> 21
+</td>
+<td> 21
+</td>
+<td> 42
+</td>
+<td> 21
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Nova Vanguard
+</td>
+<td> M3
+</td>
+<td> 536898
+</td>
+<td> 1:36:48
+</td>
+<td> 1819
+</td>
+<td> 56
+</td>
+<td> 18
+</td>
+<td> 37
+</td>
+<td> 75
+</td>
+<td> 56
+</td>
+<td> 18
+</td>
+<td> 18
+</td>
+<td> 37
+</td>
+<td> 18
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Pirate Eclipse
+</td>
+<td> M3
+</td>
+<td> 1411012
+</td>
+<td> 4:14:24
+</td>
+<td> 4783
+</td>
+<td> 149
+</td>
+<td> 49
+</td>
+<td> 99
+</td>
+<td> 199
+</td>
+<td> 149
+</td>
+<td> 49
+</td>
+<td> 49
+</td>
+<td> 99
+</td>
+<td> 49
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Pirate Nova
+</td>
+<td> M3
+</td>
+<td> 429514
+</td>
+<td> 1:17:26
+</td>
+<td> 1455
+</td>
+<td> 45
+</td>
+<td> 15
+</td>
+<td> 30
+</td>
+<td> 60
+</td>
+<td> 45
+</td>
+<td> 15
+</td>
+<td> 15
+</td>
+<td> 30
+</td>
+<td> 15
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Pirate Nova Raider
+</td>
+<td> M3
+</td>
+<td> 644261
+</td>
+<td> 1:56:9
+</td>
+<td> 2183
+</td>
+<td> 68
+</td>
+<td> 22
+</td>
+<td> 45
+</td>
+<td> 90
+</td>
+<td> 68
+</td>
+<td> 22
+</td>
+<td> 22
+</td>
+<td> 45
+</td>
+<td> 22
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Venti
+</td>
+<td> M3
+</td>
+<td> 887293
+</td>
+<td> 2:39:58
+</td>
+<td> 3007
+</td>
+<td> 93
+</td>
+<td> 31
+</td>
+<td> 62
+</td>
+<td> 125
+</td>
+<td> 93
+</td>
+<td> 31
+</td>
+<td> 31
+</td>
+<td> 62
+</td>
+<td> 31
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Buster
+</td>
+<td> M4
+</td>
+<td> 108812
+</td>
+<td> 26:9
+</td>
+<td> 368
+</td>
+<td> 11
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 15
+</td>
+<td> 11
+</td>
+<td> 3
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 3
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Buster Raider
+</td>
+<td> M4
+</td>
+<td> 163240
+</td>
+<td> 39:14
+</td>
+<td> 553
+</td>
+<td> 17
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 23
+</td>
+<td> 17
+</td>
+<td> 5
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 5
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Buster Sentinel
+</td>
+<td> M4
+</td>
+<td> 171399
+</td>
+<td> 41:12
+</td>
+<td> 581
+</td>
+<td> 18
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 24
+</td>
+<td> 18
+</td>
+<td> 6
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 6
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Buster Vanguard
+</td>
+<td> M4
+</td>
+<td> 136015
+</td>
+<td> 32:41
+</td>
+<td> 461
+</td>
+<td> 14
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 19
+</td>
+<td> 14
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Elite
+</td>
+<td> M4
+</td>
+<td> 227709
+</td>
+<td> 54:44
+</td>
+<td> 771
+</td>
+<td> 24
+</td>
+<td> 8
+</td>
+<td> 16
+</td>
+<td> 32
+</td>
+<td> 24
+</td>
+<td> 8
+</td>
+<td> 8
+</td>
+<td> 16
+</td>
+<td> 8
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Enhanced Elite
+</td>
+<td> M4
+</td>
+<td> 267270
+</td>
+<td> 1:4:14
+</td>
+<td> 906
+</td>
+<td> 28
+</td>
+<td> 9
+</td>
+<td> 18
+</td>
+<td> 37
+</td>
+<td> 28
+</td>
+<td> 9
+</td>
+<td> 9
+</td>
+<td> 18
+</td>
+<td> 9
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Eurus
+</td>
+<td> M4
+</td>
+<td> 180704
+</td>
+<td> 43:26
+</td>
+<td> 612
+</td>
+<td> 19
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 25
+</td>
+<td> 19
+</td>
+<td> 6
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 6
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Pirate Buster
+</td>
+<td> M4
+</td>
+<td> 77713
+</td>
+<td> 18:40
+</td>
+<td> 263
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 10
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Pirate Buster Hauler
+</td>
+<td> M4
+</td>
+<td> 85504
+</td>
+<td> 20:33
+</td>
+<td> 289
+</td>
+<td> 9
+</td>
+<td> 3
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 9
+</td>
+<td> 3
+</td>
+<td> 3
+</td>
+<td> 6
+</td>
+<td> 3
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Pirate Elite
+</td>
+<td> M4
+</td>
+<td> 199749
+</td>
+<td> 48:1
+</td>
+<td> 677
+</td>
+<td> 21
+</td>
+<td> 7
+</td>
+<td> 14
+</td>
+<td> 28
+</td>
+<td> 21
+</td>
+<td> 7
+</td>
+<td> 7
+</td>
+<td> 14
+</td>
+<td> 7
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Solano
+</td>
+<td> M4
+</td>
+<td> 108812
+</td>
+<td> 26:9
+</td>
+<td> 368
+</td>
+<td> 11
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 15
+</td>
+<td> 11
+</td>
+<td> 3
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 3
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Advanced Discoverer
+</td>
+<td> M5
+</td>
+<td> 14413
+</td>
+<td> 4:19
+</td>
+<td> 48
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Arrow
+</td>
+<td> M5
+</td>
+<td> 432825
+</td>
+<td> 2:10:3
+</td>
+<td> 1467
+</td>
+<td> 45
+</td>
+<td> 15
+</td>
+<td> 30
+</td>
+<td> 61
+</td>
+<td> 45
+</td>
+<td> 15
+</td>
+<td> 15
+</td>
+<td> 30
+</td>
+<td> 15
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Camera Drone
+</td>
+<td> M5
+</td>
+<td> 1623
+</td>
+<td> 29
+</td>
+<td> 5
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Discoverer
+</td>
+<td> M5
+</td>
+<td> 14413
+</td>
+<td> 4:19
+</td>
+<td> 48
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Discoverer Hauler
+</td>
+<td> M5
+</td>
+<td> 15863
+</td>
+<td> 4:45
+</td>
+<td> 53
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Discoverer Raider
+</td>
+<td> M5
+</td>
+<td> 21641
+</td>
+<td> 6:30
+</td>
+<td> 73
+</td>
+<td> 2
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Discoverer Vanguard
+</td>
+<td> M5
+</td>
+<td> 18027
+</td>
+<td> 5:25
+</td>
+<td> 61
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Lasertower
+</td>
+<td> M5
+</td>
+<td> 62759
+</td>
+<td> 18:51
+</td>
+<td> 212
+</td>
+<td> 6
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 6
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Message Drone
+</td>
+<td> M5
+</td>
+<td> 21641
+</td>
+<td> 6:30
+</td>
+<td> 73
+</td>
+<td> 2
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Recon Drone
+</td>
+<td> M5
+</td>
+<td> 21641
+</td>
+<td> 6:30
+</td>
+<td> 73
+</td>
+<td> 2
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Starburst
+</td>
+<td> M5
+</td>
+<td> 216412
+</td>
+<td> 1:5:1
+</td>
+<td> 733
+</td>
+<td> 22
+</td>
+<td> 7
+</td>
+<td> 15
+</td>
+<td> 30
+</td>
+<td> 22
+</td>
+<td> 7
+</td>
+<td> 7
+</td>
+<td> 15
+</td>
+<td> 7
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> *** UNDEFINED *** Hauler
+</td>
+<td> TL
+</td>
+<td> 16359694
+</td>
+<td> 32:46:19
+</td>
+<td> 55456
+</td>
+<td> 1732
+</td>
+<td> 577
+</td>
+<td> 1154
+</td>
+<td> 2309
+</td>
+<td> 1732
+</td>
+<td> 577
+</td>
+<td> 577
+</td>
+<td> 1154
+</td>
+<td> 577
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> *** UNDEFINED *** Hauler
+</td>
+<td> TL
+</td>
+<td> 16359694
+</td>
+<td> 32:46:19
+</td>
+<td> 55456
+</td>
+<td> 1732
+</td>
+<td> 577
+</td>
+<td> 1154
+</td>
+<td> 2309
+</td>
+<td> 1732
+</td>
+<td> 577
+</td>
+<td> 577
+</td>
+<td> 1154
+</td>
+<td> 577
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> *** UNDEFINED *** Hauler
+</td>
+<td> TL
+</td>
+<td> 16359694
+</td>
+<td> 32:46:19
+</td>
+<td> 55456
+</td>
+<td> 1732
+</td>
+<td> 577
+</td>
+<td> 1154
+</td>
+<td> 2309
+</td>
+<td> 1732
+</td>
+<td> 577
+</td>
+<td> 577
+</td>
+<td> 1154
+</td>
+<td> 577
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> *** UNDEFINED *** Hauler
+</td>
+<td> TL
+</td>
+<td> 16359694
+</td>
+<td> 32:46:19
+</td>
+<td> 55456
+</td>
+<td> 1732
+</td>
+<td> 577
+</td>
+<td> 1154
+</td>
+<td> 2309
+</td>
+<td> 1732
+</td>
+<td> 577
+</td>
+<td> 577
+</td>
+<td> 1154
+</td>
+<td> 577
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> *** UNDEFINED *** Hauler
+</td>
+<td> TL
+</td>
+<td> 16359694
+</td>
+<td> 32:46:19
+</td>
+<td> 55456
+</td>
+<td> 1732
+</td>
+<td> 577
+</td>
+<td> 1154
+</td>
+<td> 2309
+</td>
+<td> 1732
+</td>
+<td> 577
+</td>
+<td> 577
+</td>
+<td> 1154
+</td>
+<td> 577
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> *** UNDEFINED *** Hauler
+</td>
+<td> TL
+</td>
+<td> 14195565
+</td>
+<td> 28:26:12
+</td>
+<td> 48120
+</td>
+<td> 1503
+</td>
+<td> 501
+</td>
+<td> 1002
+</td>
+<td> 2004
+</td>
+<td> 1503
+</td>
+<td> 501
+</td>
+<td> 501
+</td>
+<td> 1002
+</td>
+<td> 501
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Civilian Vessel Hauler
+</td>
+<td> TL
+</td>
+<td> 7599233
+</td>
+<td> 15:13:22
+</td>
+<td> 25760
+</td>
+<td> 804
+</td>
+<td> 268
+</td>
+<td> 536
+</td>
+<td> 1072
+</td>
+<td> 804
+</td>
+<td> 268
+</td>
+<td> 268
+</td>
+<td> 536
+</td>
+<td> 268
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Civilian Vessel Hauler
+</td>
+<td> TL
+</td>
+<td> 7599233
+</td>
+<td> 15:13:22
+</td>
+<td> 25760
+</td>
+<td> 804
+</td>
+<td> 268
+</td>
+<td> 536
+</td>
+<td> 1072
+</td>
+<td> 804
+</td>
+<td> 268
+</td>
+<td> 268
+</td>
+<td> 536
+</td>
+<td> 268
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Civilian Vessel Hauler
+</td>
+<td> TL
+</td>
+<td> 7599233
+</td>
+<td> 15:13:22
+</td>
+<td> 25760
+</td>
+<td> 804
+</td>
+<td> 268
+</td>
+<td> 536
+</td>
+<td> 1072
+</td>
+<td> 804
+</td>
+<td> 268
+</td>
+<td> 268
+</td>
+<td> 536
+</td>
+<td> 268
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Mammoth
+</td>
+<td> TL
+</td>
+<td> 7599233
+</td>
+<td> 15:13:22
+</td>
+<td> 25760
+</td>
+<td> 804
+</td>
+<td> 268
+</td>
+<td> 536
+</td>
+<td> 1072
+</td>
+<td> 804
+</td>
+<td> 268
+</td>
+<td> 268
+</td>
+<td> 536
+</td>
+<td> 268
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Starliner Hauler
+</td>
+<td> TL
+</td>
+<td> 7599233
+</td>
+<td> 15:13:22
+</td>
+<td> 25760
+</td>
+<td> 804
+</td>
+<td> 268
+</td>
+<td> 536
+</td>
+<td> 1072
+</td>
+<td> 804
+</td>
+<td> 268
+</td>
+<td> 268
+</td>
+<td> 536
+</td>
+<td> 268
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Troop Training Ship Hauler
+</td>
+<td> TL
+</td>
+<td> 7599233
+</td>
+<td> 15:13:22
+</td>
+<td> 25760
+</td>
+<td> 804
+</td>
+<td> 268
+</td>
+<td> 536
+</td>
+<td> 1072
+</td>
+<td> 804
+</td>
+<td> 268
+</td>
+<td> 268
+</td>
+<td> 536
+</td>
+<td> 268
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Magnetar
+</td>
+<td> TM
+</td>
+<td> 75744
+</td>
+<td> 9:6
+</td>
+<td> 256
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 10
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Zephyrus
+</td>
+<td> TM
+</td>
+<td> 85483
+</td>
+<td> 10:16
+</td>
+<td> 289
+</td>
+<td> 9
+</td>
+<td> 3
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 9
+</td>
+<td> 3
+</td>
+<td> 3
+</td>
+<td> 6
+</td>
+<td> 3
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Advanced Express
+</td>
+<td> TP
+</td>
+<td> 307522
+</td>
+<td> 3:4:48
+</td>
+<td> 1042
+</td>
+<td> 32
+</td>
+<td> 10
+</td>
+<td> 21
+</td>
+<td> 43
+</td>
+<td> 32
+</td>
+<td> 10
+</td>
+<td> 10
+</td>
+<td> 21
+</td>
+<td> 10
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Express
+</td>
+<td> TP
+</td>
+<td> 108812
+</td>
+<td> 1:5:23
+</td>
+<td> 368
+</td>
+<td> 11
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 15
+</td>
+<td> 11
+</td>
+<td> 3
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 3
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Express Hauler
+</td>
+<td> TP
+</td>
+<td> 299277
+</td>
+<td> 2:59:51
+</td>
+<td> 1014
+</td>
+<td> 31
+</td>
+<td> 10
+</td>
+<td> 21
+</td>
+<td> 42
+</td>
+<td> 31
+</td>
+<td> 10
+</td>
+<td> 10
+</td>
+<td> 21
+</td>
+<td> 10
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Enhanced Mercury
+</td>
+<td> TS
+</td>
+<td> 163608
+</td>
+<td> 1:38:19
+</td>
+<td> 554
+</td>
+<td> 17
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 23
+</td>
+<td> 17
+</td>
+<td> 5
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 5
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Mercury
+</td>
+<td> TS
+</td>
+<td> 50489
+</td>
+<td> 30:20
+</td>
+<td> 171
+</td>
+<td> 5
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 5
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 1
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Mercury Hauler
+</td>
+<td> TS
+</td>
+<td> 138850
+</td>
+<td> 1:23:26
+</td>
+<td> 470
+</td>
+<td> 14
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 19
+</td>
+<td> 14
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Mercury Prototype
+</td>
+<td> TS
+</td>
+<td> 156899
+</td>
+<td> 1:34:17
+</td>
+<td> 531
+</td>
+<td> 16
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 22
+</td>
+<td> 16
+</td>
+<td> 5
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 5
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Mercury Super Freighter
+</td>
+<td> TS
+</td>
+<td> 138850
+</td>
+<td> 1:23:26
+</td>
+<td> 470
+</td>
+<td> 14
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 19
+</td>
+<td> 14
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Mercury Super Freighter XL
+</td>
+<td> TS
+</td>
+<td> 353467
+</td>
+<td> 3:32:25
+</td>
+<td> 1198
+</td>
+<td> 37
+</td>
+<td> 12
+</td>
+<td> 24
+</td>
+<td> 49
+</td>
+<td> 37
+</td>
+<td> 12
+</td>
+<td> 12
+</td>
+<td> 24
+</td>
+<td> 12
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Mercury Tanker
+</td>
+<td> TS
+</td>
+<td> 50489
+</td>
+<td> 30:20
+</td>
+<td> 171
+</td>
+<td> 5
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 5
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 1
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Mercury Tanker XL
+</td>
+<td> TS
+</td>
+<td> 138850
+</td>
+<td> 1:23:26
+</td>
+<td> 470
+</td>
+<td> 14
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 19
+</td>
+<td> 14
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Mistral
+</td>
+<td> TS
+</td>
+<td> 77043
+</td>
+<td> 46:18
+</td>
+<td> 261
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 10
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Mistral Super Freighter
+</td>
+<td> TS
+</td>
+<td> 401662
+</td>
+<td> 4:1:23
+</td>
+<td> 1361
+</td>
+<td> 42
+</td>
+<td> 14
+</td>
+<td> 28
+</td>
+<td> 56
+</td>
+<td> 42
+</td>
+<td> 14
+</td>
+<td> 14
+</td>
+<td> 28
+</td>
+<td> 14
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Advanced Satellite
+</td>
+<td> Advanced Satellite
+</td>
+<td> 4328
+</td>
+<td> None
+</td>
+<td> 14
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Advanced Spacesuit
+</td>
+<td> Astronaut
+</td>
+<td> 10820
+</td>
+<td> None
+</td>
+<td> 36
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Advanced Spacesuit
+</td>
+<td> Astronaut
+</td>
+<td> 10820
+</td>
+<td> None
+</td>
+<td> 36
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Space Suit
+</td>
+<td> Astronaut
+</td>
+<td> 10820
+</td>
+<td> None
+</td>
+<td> 36
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Navigational Beacon
+</td>
+<td> Beacon
+</td>
+<td> 3246
+</td>
+<td> None
+</td>
+<td> 11
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Fighter Drone
+</td>
+<td> Fighter Drone
+</td>
+<td> 1623
+</td>
+<td> None
+</td>
+<td> 5
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Fighter Drone MKII
+</td>
+<td> Fighter Drone MKII
+</td>
+<td> 86565
+</td>
+<td> None
+</td>
+<td> 293
+</td>
+<td> 9
+</td>
+<td> 3
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 9
+</td>
+<td> 3
+</td>
+<td> 3
+</td>
+<td> 6
+</td>
+<td> 3
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Freight Drone
+</td>
+<td> Freight Drone
+</td>
+<td> 21641
+</td>
+<td> None
+</td>
+<td> 73
+</td>
+<td> 2
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Ion Mine
+</td>
+<td> Ion Mine
+</td>
+<td> 10820
+</td>
+<td> None
+</td>
+<td> 36
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Jump Beacon
+</td>
+<td> Jump Beacon
+</td>
+<td> 3246
+</td>
+<td> None
+</td>
+<td> 11
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Lasertower
+</td>
+<td> Lasertower
+</td>
+<td> 43282
+</td>
+<td> None
+</td>
+<td> 146
+</td>
+<td> 4
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 6
+</td>
+<td> 4
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 1
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Navigation Relay Satellite
+</td>
+<td> Navigation Relay Satellite
+</td>
+<td> 4328
+</td>
+<td> None
+</td>
+<td> 14
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Drone
+</td>
+<td> null
+</td>
+<td> 10820
+</td>
+<td> None
+</td>
+<td> 36
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Unknown Object
+</td>
+<td> null
+</td>
+<td> 1623
+</td>
+<td> None
+</td>
+<td> 5
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Unknown Object
+</td>
+<td> null
+</td>
+<td> 10820
+</td>
+<td> None
+</td>
+<td> 36
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Spaceflies
+</td>
+<td> Spacefly
+</td>
+<td> 2380
+</td>
+<td> None
+</td>
+<td> 8
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> SQUASH Mine
+</td>
+<td> SQUASH Mine
+</td>
+<td> 10820
+</td>
+<td> None
+</td>
+<td> 36
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Tracker Mine
+</td>
+<td> Tracker Mine
+</td>
+<td> 10820
+</td>
+<td> None
+</td>
+<td> 36
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Unknown Object
+</td>
+<td> UFO
+</td>
+<td> 54103
+</td>
+<td> None
+</td>
+<td> 183
+</td>
+<td> 5
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 5
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 1
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Unknown Object
+</td>
+<td> UFO
+</td>
+<td> 54103
+</td>
+<td> None
+</td>
+<td> 183
+</td>
+<td> 5
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 5
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 1
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Argon
+</td>
+<td> Unknown Object
+</td>
+<td> UFO
+</td>
+<td> 54103
+</td>
+<td> None
+</td>
+<td> 183
+</td>
+<td> 5
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 5
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 1
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> ATF
+</td>
+<td> Odin
+</td>
+<td> M1
+</td>
+<td> 29362911
+</td>
+<td> 58:49:12
+</td>
+<td> 99535
+</td>
+<td> 3109
+</td>
+<td> 1036
+</td>
+<td> 2072
+</td>
+<td> 4145
+</td>
+<td> 3109
+</td>
+<td> 1036
+</td>
+<td> 1036
+</td>
+<td> 2072
+</td>
+<td> 1036
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> ATF
+</td>
+<td> Woden
+</td>
+<td> M1
+</td>
+<td> 31589800
+</td>
+<td> 63:16:51
+</td>
+<td> 107084
+</td>
+<td> 3344
+</td>
+<td> 1114
+</td>
+<td> 2229
+</td>
+<td> 4459
+</td>
+<td> 3344
+</td>
+<td> 1114
+</td>
+<td> 1114
+</td>
+<td> 2229
+</td>
+<td> 1114
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> ATF
+</td>
+<td> Tyr
+</td>
+<td> M2
+</td>
+<td> 31524876
+</td>
+<td> 63:9:3
+</td>
+<td> 106863
+</td>
+<td> 3337
+</td>
+<td> 1112
+</td>
+<td> 2225
+</td>
+<td> 4450
+</td>
+<td> 3337
+</td>
+<td> 1112
+</td>
+<td> 1112
+</td>
+<td> 2225
+</td>
+<td> 1112
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> ATF
+</td>
+<td> Valhalla
+</td>
+<td> M2
+</td>
+<td> 69959776
+</td>
+<td> 140:8:39
+</td>
+<td> 237151
+</td>
+<td> 7407
+</td>
+<td> 2469
+</td>
+<td> 4938
+</td>
+<td> 9876
+</td>
+<td> 7407
+</td>
+<td> 2469
+</td>
+<td> 2469
+</td>
+<td> 4938
+</td>
+<td> 2469
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> ATF
+</td>
+<td> Aegir
+</td>
+<td> M7
+</td>
+<td> 12125834
+</td>
+<td> 24:17:26
+</td>
+<td> 41104
+</td>
+<td> 1283
+</td>
+<td> 427
+</td>
+<td> 855
+</td>
+<td> 1711
+</td>
+<td> 1283
+</td>
+<td> 427
+</td>
+<td> 427
+</td>
+<td> 855
+</td>
+<td> 427
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> ATF
+</td>
+<td> Skirnir
+</td>
+<td> M7
+</td>
+<td> 16923493
+</td>
+<td> 33:54:4
+</td>
+<td> 57367
+</td>
+<td> 1791
+</td>
+<td> 597
+</td>
+<td> 1194
+</td>
+<td> 2389
+</td>
+<td> 1791
+</td>
+<td> 597
+</td>
+<td> 597
+</td>
+<td> 1194
+</td>
+<td> 597
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> ATF
+</td>
+<td> Vali
+</td>
+<td> M6
+</td>
+<td> 4768659
+</td>
+<td> 9:33:9
+</td>
+<td> 16164
+</td>
+<td> 504
+</td>
+<td> 168
+</td>
+<td> 336
+</td>
+<td> 673
+</td>
+<td> 504
+</td>
+<td> 168
+</td>
+<td> 168
+</td>
+<td> 336
+</td>
+<td> 168
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> ATF
+</td>
+<td> Vidar
+</td>
+<td> M6
+</td>
+<td> 2873964
+</td>
+<td> 5:45:25
+</td>
+<td> 9742
+</td>
+<td> 304
+</td>
+<td> 101
+</td>
+<td> 202
+</td>
+<td> 405
+</td>
+<td> 304
+</td>
+<td> 101
+</td>
+<td> 101
+</td>
+<td> 202
+</td>
+<td> 101
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> ATF
+</td>
+<td> Fenrir
+</td>
+<td> M3
+</td>
+<td> 1439146
+</td>
+<td> 4:19:28
+</td>
+<td> 4878
+</td>
+<td> 152
+</td>
+<td> 50
+</td>
+<td> 101
+</td>
+<td> 203
+</td>
+<td> 152
+</td>
+<td> 50
+</td>
+<td> 50
+</td>
+<td> 101
+</td>
+<td> 50
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> ATF
+</td>
+<td> Thor
+</td>
+<td> M3
+</td>
+<td> 605956
+</td>
+<td> 1:49:15
+</td>
+<td> 2054
+</td>
+<td> 64
+</td>
+<td> 21
+</td>
+<td> 42
+</td>
+<td> 85
+</td>
+<td> 64
+</td>
+<td> 21
+</td>
+<td> 21
+</td>
+<td> 42
+</td>
+<td> 21
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> ATF
+</td>
+<td> Mjollnir
+</td>
+<td> M4
+</td>
+<td> 127467
+</td>
+<td> 30:38
+</td>
+<td> 432
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 17
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> ATF
+</td>
+<td> Valkyrie
+</td>
+<td> M5
+</td>
+<td> 9608
+</td>
+<td> 2:53
+</td>
+<td> 32
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> ATF
+</td>
+<td> Matter/Antimatter Mine
+</td>
+<td> -
+</td>
+<td> 10820
+</td>
+<td> None
+</td>
+<td> 36
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Shark
+</td>
+<td> M1
+</td>
+<td> 16520056
+</td>
+<td> 33:5:35
+</td>
+<td> 56000
+</td>
+<td> 1749
+</td>
+<td> 583
+</td>
+<td> 1166
+</td>
+<td> 2332
+</td>
+<td> 1749
+</td>
+<td> 583
+</td>
+<td> 583
+</td>
+<td> 1166
+</td>
+<td> 583
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Ray
+</td>
+<td> M2
+</td>
+<td> 23128097
+</td>
+<td> 46:19:49
+</td>
+<td> 78400
+</td>
+<td> 2448
+</td>
+<td> 816
+</td>
+<td> 1632
+</td>
+<td> 3265
+</td>
+<td> 2448
+</td>
+<td> 816
+</td>
+<td> 816
+</td>
+<td> 1632
+</td>
+<td> 816
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Kraken
+</td>
+<td> M7
+</td>
+<td> 16789317
+</td>
+<td> 33:37:57
+</td>
+<td> 56912
+</td>
+<td> 1777
+</td>
+<td> 592
+</td>
+<td> 1185
+</td>
+<td> 2370
+</td>
+<td> 1777
+</td>
+<td> 592
+</td>
+<td> 592
+</td>
+<td> 1185
+</td>
+<td> 592
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Thresher
+</td>
+<td> M7
+</td>
+<td> 12559418
+</td>
+<td> 25:9:33
+</td>
+<td> 42574
+</td>
+<td> 1329
+</td>
+<td> 443
+</td>
+<td> 886
+</td>
+<td> 1773
+</td>
+<td> 1329
+</td>
+<td> 443
+</td>
+<td> 443
+</td>
+<td> 886
+</td>
+<td> 443
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Heavy Hydra
+</td>
+<td> M6
+</td>
+<td> 8327830
+</td>
+<td> 16:40:56
+</td>
+<td> 28229
+</td>
+<td> 881
+</td>
+<td> 293
+</td>
+<td> 587
+</td>
+<td> 1175
+</td>
+<td> 881
+</td>
+<td> 293
+</td>
+<td> 293
+</td>
+<td> 587
+</td>
+<td> 293
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Hydra
+</td>
+<td> M6
+</td>
+<td> 2308390
+</td>
+<td> 4:37:27
+</td>
+<td> 7825
+</td>
+<td> 244
+</td>
+<td> 81
+</td>
+<td> 162
+</td>
+<td> 325
+</td>
+<td> 244
+</td>
+<td> 81
+</td>
+<td> 81
+</td>
+<td> 162
+</td>
+<td> 81
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Marlin Hauler
+</td>
+<td> M8
+</td>
+<td> 1411661
+</td>
+<td> 2:49:40
+</td>
+<td> 4785
+</td>
+<td> 149
+</td>
+<td> 49
+</td>
+<td> 99
+</td>
+<td> 199
+</td>
+<td> 149
+</td>
+<td> 49
+</td>
+<td> 49
+</td>
+<td> 99
+</td>
+<td> 49
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Advanced Barracuda
+</td>
+<td> M3
+</td>
+<td> 716326
+</td>
+<td> 2:9:9
+</td>
+<td> 2428
+</td>
+<td> 75
+</td>
+<td> 25
+</td>
+<td> 50
+</td>
+<td> 101
+</td>
+<td> 75
+</td>
+<td> 25
+</td>
+<td> 25
+</td>
+<td> 50
+</td>
+<td> 25
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Barracuda
+</td>
+<td> M3
+</td>
+<td> 396468
+</td>
+<td> 1:11:28
+</td>
+<td> 1343
+</td>
+<td> 41
+</td>
+<td> 13
+</td>
+<td> 27
+</td>
+<td> 55
+</td>
+<td> 41
+</td>
+<td> 13
+</td>
+<td> 13
+</td>
+<td> 27
+</td>
+<td> 13
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Barracuda Prototype
+</td>
+<td> M3
+</td>
+<td> 693841
+</td>
+<td> 2:5:5
+</td>
+<td> 2352
+</td>
+<td> 73
+</td>
+<td> 24
+</td>
+<td> 48
+</td>
+<td> 97
+</td>
+<td> 73
+</td>
+<td> 24
+</td>
+<td> 24
+</td>
+<td> 48
+</td>
+<td> 24
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Barracuda Raider
+</td>
+<td> M3
+</td>
+<td> 594702
+</td>
+<td> 1:47:13
+</td>
+<td> 2015
+</td>
+<td> 62
+</td>
+<td> 20
+</td>
+<td> 41
+</td>
+<td> 83
+</td>
+<td> 62
+</td>
+<td> 20
+</td>
+<td> 20
+</td>
+<td> 41
+</td>
+<td> 20
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Barracuda Sentinel
+</td>
+<td> M3
+</td>
+<td> 555077
+</td>
+<td> 1:40:4
+</td>
+<td> 1881
+</td>
+<td> 58
+</td>
+<td> 19
+</td>
+<td> 39
+</td>
+<td> 78
+</td>
+<td> 58
+</td>
+<td> 19
+</td>
+<td> 19
+</td>
+<td> 39
+</td>
+<td> 19
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Barracuda Vanguard
+</td>
+<td> M3
+</td>
+<td> 495585
+</td>
+<td> 1:29:21
+</td>
+<td> 1679
+</td>
+<td> 52
+</td>
+<td> 17
+</td>
+<td> 34
+</td>
+<td> 69
+</td>
+<td> 52
+</td>
+<td> 17
+</td>
+<td> 17
+</td>
+<td> 34
+</td>
+<td> 17
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Skate
+</td>
+<td> M3
+</td>
+<td> 1385042
+</td>
+<td> 4:9:43
+</td>
+<td> 4695
+</td>
+<td> 146
+</td>
+<td> 48
+</td>
+<td> 97
+</td>
+<td> 195
+</td>
+<td> 146
+</td>
+<td> 48
+</td>
+<td> 48
+</td>
+<td> 97
+</td>
+<td> 48
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Skate Prototype
+</td>
+<td> M3
+</td>
+<td> 1523547
+</td>
+<td> 4:34:41
+</td>
+<td> 5164
+</td>
+<td> 161
+</td>
+<td> 53
+</td>
+<td> 107
+</td>
+<td> 215
+</td>
+<td> 161
+</td>
+<td> 53
+</td>
+<td> 53
+</td>
+<td> 107
+</td>
+<td> 53
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Enhanced Mako
+</td>
+<td> M4
+</td>
+<td> 179536
+</td>
+<td> 43:9
+</td>
+<td> 608
+</td>
+<td> 19
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 25
+</td>
+<td> 19
+</td>
+<td> 6
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 6
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Mako
+</td>
+<td> M4
+</td>
+<td> 99485
+</td>
+<td> 23:54
+</td>
+<td> 337
+</td>
+<td> 10
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 14
+</td>
+<td> 10
+</td>
+<td> 3
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 3
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Mako Raider
+</td>
+<td> M4
+</td>
+<td> 149238
+</td>
+<td> 35:52
+</td>
+<td> 505
+</td>
+<td> 15
+</td>
+<td> 5
+</td>
+<td> 10
+</td>
+<td> 21
+</td>
+<td> 15
+</td>
+<td> 5
+</td>
+<td> 5
+</td>
+<td> 10
+</td>
+<td> 5
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Mako Sentinel
+</td>
+<td> M4
+</td>
+<td> 156682
+</td>
+<td> 37:39
+</td>
+<td> 531
+</td>
+<td> 16
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 22
+</td>
+<td> 16
+</td>
+<td> 5
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 5
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Mako Vanguard
+</td>
+<td> M4
+</td>
+<td> 124372
+</td>
+<td> 29:53
+</td>
+<td> 421
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 17
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Pike
+</td>
+<td> M4
+</td>
+<td> 212301
+</td>
+<td> 51:2
+</td>
+<td> 719
+</td>
+<td> 22
+</td>
+<td> 7
+</td>
+<td> 14
+</td>
+<td> 29
+</td>
+<td> 22
+</td>
+<td> 7
+</td>
+<td> 7
+</td>
+<td> 14
+</td>
+<td> 7
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Octopus
+</td>
+<td> M5
+</td>
+<td> 13222
+</td>
+<td> 3:58
+</td>
+<td> 44
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Octopus Raider
+</td>
+<td> M5
+</td>
+<td> 19823
+</td>
+<td> 5:57
+</td>
+<td> 67
+</td>
+<td> 2
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Octopus Sentinel
+</td>
+<td> M5
+</td>
+<td> 23134
+</td>
+<td> 6:57
+</td>
+<td> 78
+</td>
+<td> 2
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Octopus Vanguard
+</td>
+<td> M5
+</td>
+<td> 16512
+</td>
+<td> 4:57
+</td>
+<td> 55
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Orca
+</td>
+<td> TL
+</td>
+<td> 5947223
+</td>
+<td> 11:54:48
+</td>
+<td> 20160
+</td>
+<td> 629
+</td>
+<td> 209
+</td>
+<td> 419
+</td>
+<td> 839
+</td>
+<td> 629
+</td>
+<td> 209
+</td>
+<td> 209
+</td>
+<td> 419
+</td>
+<td> 209
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Pleco
+</td>
+<td> TM
+</td>
+<td> 82236
+</td>
+<td> 9:53
+</td>
+<td> 278
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Angel
+</td>
+<td> TP
+</td>
+<td> 604809
+</td>
+<td> 6:3:28
+</td>
+<td> 2050
+</td>
+<td> 64
+</td>
+<td> 21
+</td>
+<td> 42
+</td>
+<td> 85
+</td>
+<td> 64
+</td>
+<td> 21
+</td>
+<td> 21
+</td>
+<td> 42
+</td>
+<td> 21
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Manta
+</td>
+<td> TP
+</td>
+<td> 124372
+</td>
+<td> 1:14:44
+</td>
+<td> 421
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 17
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Manta Hauler
+</td>
+<td> TP
+</td>
+<td> 342019
+</td>
+<td> 3:25:32
+</td>
+<td> 1159
+</td>
+<td> 36
+</td>
+<td> 12
+</td>
+<td> 24
+</td>
+<td> 48
+</td>
+<td> 36
+</td>
+<td> 12
+</td>
+<td> 12
+</td>
+<td> 24
+</td>
+<td> 12
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Dolphin
+</td>
+<td> TS
+</td>
+<td> 66352
+</td>
+<td> 39:52
+</td>
+<td> 224
+</td>
+<td> 7
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 7
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Dolphin Hauler
+</td>
+<td> TS
+</td>
+<td> 182501
+</td>
+<td> 1:49:40
+</td>
+<td> 618
+</td>
+<td> 19
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 25
+</td>
+<td> 19
+</td>
+<td> 6
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 6
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Dolphin Super Freighter
+</td>
+<td> TS
+</td>
+<td> 182501
+</td>
+<td> 1:49:40
+</td>
+<td> 618
+</td>
+<td> 19
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 25
+</td>
+<td> 19
+</td>
+<td> 6
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 6
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Dolphin Super Freighter XL
+</td>
+<td> TS
+</td>
+<td> 464552
+</td>
+<td> 4:39:10
+</td>
+<td> 1574
+</td>
+<td> 49
+</td>
+<td> 16
+</td>
+<td> 32
+</td>
+<td> 65
+</td>
+<td> 49
+</td>
+<td> 16
+</td>
+<td> 16
+</td>
+<td> 32
+</td>
+<td> 16
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Dolphin Tanker
+</td>
+<td> TS
+</td>
+<td> 66352
+</td>
+<td> 39:52
+</td>
+<td> 224
+</td>
+<td> 7
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 7
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Dolphin Tanker XL
+</td>
+<td> TS
+</td>
+<td> 182501
+</td>
+<td> 1:49:40
+</td>
+<td> 618
+</td>
+<td> 19
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 25
+</td>
+<td> 19
+</td>
+<td> 6
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 6
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Boron
+</td>
+<td> Enhanced Dolphin
+</td>
+<td> TS
+</td>
+<td> 200744
+</td>
+<td> 2:0:38
+</td>
+<td> 680
+</td>
+<td> 21
+</td>
+<td> 7
+</td>
+<td> 14
+</td>
+<td> 28
+</td>
+<td> 21
+</td>
+<td> 7
+</td>
+<td> 7
+</td>
+<td> 14
+</td>
+<td> 7
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Goner
+</td>
+<td> Aran
+</td>
+<td> M1
+</td>
+<td> 55314028
+</td>
+<td> 110:48:20
+</td>
+<td> 187505
+</td>
+<td> 5856
+</td>
+<td> 1952
+</td>
+<td> 3904
+</td>
+<td> 7809
+</td>
+<td> 5856
+</td>
+<td> 1952
+</td>
+<td> 1952
+</td>
+<td> 3904
+</td>
+<td> 1952
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Goner
+</td>
+<td> Mobile Repair Ship
+</td>
+<td> M1
+</td>
+<td> 55314028
+</td>
+<td> 110:48:20
+</td>
+<td> 187505
+</td>
+<td> 5856
+</td>
+<td> 1952
+</td>
+<td> 3904
+</td>
+<td> 7809
+</td>
+<td> 5856
+</td>
+<td> 1952
+</td>
+<td> 1952
+</td>
+<td> 3904
+</td>
+<td> 1952
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Goner
+</td>
+<td> Ozias
+</td>
+<td> TL
+</td>
+<td> 6546492
+</td>
+<td> 13:6:50
+</td>
+<td> 22191
+</td>
+<td> 693
+</td>
+<td> 231
+</td>
+<td> 462
+</td>
+<td> 924
+</td>
+<td> 693
+</td>
+<td> 231
+</td>
+<td> 231
+</td>
+<td> 462
+</td>
+<td> 231
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Goner
+</td>
+<td> Ranger
+</td>
+<td> Goner Ship
+</td>
+<td> 1416033
+</td>
+<td> 4:15:18
+</td>
+<td> 4800
+</td>
+<td> 149
+</td>
+<td> 49
+</td>
+<td> 99
+</td>
+<td> 199
+</td>
+<td> 149
+</td>
+<td> 49
+</td>
+<td> 49
+</td>
+<td> 99
+</td>
+<td> 49
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Kha'ak
+</td>
+<td> Carrier
+</td>
+<td> M1
+</td>
+<td> 6608018
+</td>
+<td> 13:14:14
+</td>
+<td> 22400
+</td>
+<td> 699
+</td>
+<td> 233
+</td>
+<td> 466
+</td>
+<td> 932
+</td>
+<td> 699
+</td>
+<td> 233
+</td>
+<td> 233
+</td>
+<td> 466
+</td>
+<td> 233
+</td>
+<td> 116
+</td></tr>
+<tr>
+<td> Kha'ak
+</td>
+<td> Guardian
+</td>
+<td> M1
+</td>
+<td> 330397
+</td>
+<td> 39:42
+</td>
+<td> 1119
+</td>
+<td> 34
+</td>
+<td> 11
+</td>
+<td> 23
+</td>
+<td> 46
+</td>
+<td> 34
+</td>
+<td> 11
+</td>
+<td> 11
+</td>
+<td> 23
+</td>
+<td> 11
+</td>
+<td> 5
+</td></tr>
+<tr>
+<td> Kha'ak
+</td>
+<td> Hive Queen
+</td>
+<td> M1
+</td>
+<td> 6608018
+</td>
+<td> 13:14:14
+</td>
+<td> 22400
+</td>
+<td> 699
+</td>
+<td> 233
+</td>
+<td> 466
+</td>
+<td> 932
+</td>
+<td> 699
+</td>
+<td> 233
+</td>
+<td> 233
+</td>
+<td> 466
+</td>
+<td> 233
+</td>
+<td> 116
+</td></tr>
+<tr>
+<td> Kha'ak
+</td>
+<td> Destroyer
+</td>
+<td> M2
+</td>
+<td> 3303998
+</td>
+<td> 6:37:7
+</td>
+<td> 11199
+</td>
+<td> 349
+</td>
+<td> 116
+</td>
+<td> 233
+</td>
+<td> 466
+</td>
+<td> 349
+</td>
+<td> 116
+</td>
+<td> 116
+</td>
+<td> 233
+</td>
+<td> 116
+</td>
+<td> 58
+</td></tr>
+<tr>
+<td> Kha'ak
+</td>
+<td> Corvette
+</td>
+<td> M6
+</td>
+<td> 2164129
+</td>
+<td> 4:20:6
+</td>
+<td> 7336
+</td>
+<td> 229
+</td>
+<td> 76
+</td>
+<td> 152
+</td>
+<td> 305
+</td>
+<td> 229
+</td>
+<td> 76
+</td>
+<td> 76
+</td>
+<td> 152
+</td>
+<td> 76
+</td>
+<td> 38
+</td></tr>
+<tr>
+<td> Kha'ak
+</td>
+<td> Fighter
+</td>
+<td> M3
+</td>
+<td> 330397
+</td>
+<td> 59:34
+</td>
+<td> 1119
+</td>
+<td> 34
+</td>
+<td> 11
+</td>
+<td> 23
+</td>
+<td> 46
+</td>
+<td> 34
+</td>
+<td> 11
+</td>
+<td> 11
+</td>
+<td> 23
+</td>
+<td> 11
+</td>
+<td> 5
+</td></tr>
+<tr>
+<td> Kha'ak
+</td>
+<td> Interceptor
+</td>
+<td> M4
+</td>
+<td> 77713
+</td>
+<td> 18:40
+</td>
+<td> 263
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 10
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 2
+</td>
+<td> 1
+</td></tr>
+<tr>
+<td> Kha'ak
+</td>
+<td> Scout
+</td>
+<td> M5
+</td>
+<td> 9608
+</td>
+<td> 2:53
+</td>
+<td> 32
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td></tr>
+<tr>
+<td> Kha'ak
+</td>
+<td> Cluster
+</td>
+<td> Kha'ak Cluster
+</td>
+<td> 270516
+</td>
+<td> 48:46
+</td>
+<td> 917
+</td>
+<td> 28
+</td>
+<td> 9
+</td>
+<td> 19
+</td>
+<td> 38
+</td>
+<td> 28
+</td>
+<td> 9
+</td>
+<td> 9
+</td>
+<td> 19
+</td>
+<td> 9
+</td>
+<td> 4
+</td></tr>
+<tr>
+<td> Kha'ak
+</td>
+<td> Cluster
+</td>
+<td> Kha'ak Cluster
+</td>
+<td> 270516
+</td>
+<td> 48:46
+</td>
+<td> 917
+</td>
+<td> 28
+</td>
+<td> 9
+</td>
+<td> 19
+</td>
+<td> 38
+</td>
+<td> 28
+</td>
+<td> 9
+</td>
+<td> 9
+</td>
+<td> 19
+</td>
+<td> 9
+</td>
+<td> 4
+</td></tr>
+<tr>
+<td> Kha'ak
+</td>
+<td> Cluster
+</td>
+<td> Kha'ak Cluster
+</td>
+<td> 270516
+</td>
+<td> 48:46
+</td>
+<td> 917
+</td>
+<td> 28
+</td>
+<td> 9
+</td>
+<td> 19
+</td>
+<td> 38
+</td>
+<td> 28
+</td>
+<td> 9
+</td>
+<td> 9
+</td>
+<td> 19
+</td>
+<td> 9
+</td>
+<td> 4
+</td></tr>
+<tr>
+<td> Kha'ak
+</td>
+<td> Cluster
+</td>
+<td> Kha'ak Cluster
+</td>
+<td> 270516
+</td>
+<td> 48:46
+</td>
+<td> 917
+</td>
+<td> 28
+</td>
+<td> 9
+</td>
+<td> 19
+</td>
+<td> 38
+</td>
+<td> 28
+</td>
+<td> 9
+</td>
+<td> 9
+</td>
+<td> 19
+</td>
+<td> 9
+</td>
+<td> 4
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Zeus
+</td>
+<td> M1
+</td>
+<td> 23128097
+</td>
+<td> 46:19:49
+</td>
+<td> 78400
+</td>
+<td> 2448
+</td>
+<td> 816
+</td>
+<td> 1632
+</td>
+<td> 3265
+</td>
+<td> 2448
+</td>
+<td> 816
+</td>
+<td> 816
+</td>
+<td> 1632
+</td>
+<td> 816
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Odysseus
+</td>
+<td> M2
+</td>
+<td> 28084105
+</td>
+<td> 56:15:30
+</td>
+<td> 95200
+</td>
+<td> 2973
+</td>
+<td> 991
+</td>
+<td> 1982
+</td>
+<td> 3964
+</td>
+<td> 2973
+</td>
+<td> 991
+</td>
+<td> 991
+</td>
+<td> 1982
+</td>
+<td> 991
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Agamemnon
+</td>
+<td> M7
+</td>
+<td> 12569503
+</td>
+<td> 25:10:45
+</td>
+<td> 42608
+</td>
+<td> 1330
+</td>
+<td> 443
+</td>
+<td> 887
+</td>
+<td> 1774
+</td>
+<td> 1330
+</td>
+<td> 443
+</td>
+<td> 443
+</td>
+<td> 887
+</td>
+<td> 443
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Ares
+</td>
+<td> M7
+</td>
+<td> 16675701
+</td>
+<td> 33:24:17
+</td>
+<td> 56527
+</td>
+<td> 1765
+</td>
+<td> 588
+</td>
+<td> 1177
+</td>
+<td> 2354
+</td>
+<td> 1765
+</td>
+<td> 588
+</td>
+<td> 588
+</td>
+<td> 1177
+</td>
+<td> 588
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Deimos
+</td>
+<td> M7
+</td>
+<td> 12569503
+</td>
+<td> 25:10:45
+</td>
+<td> 42608
+</td>
+<td> 1330
+</td>
+<td> 443
+</td>
+<td> 887
+</td>
+<td> 1774
+</td>
+<td> 1330
+</td>
+<td> 443
+</td>
+<td> 443
+</td>
+<td> 887
+</td>
+<td> 443
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Heavy Nemesis
+</td>
+<td> M6
+</td>
+<td> 4692958
+</td>
+<td> 9:24:3
+</td>
+<td> 15908
+</td>
+<td> 496
+</td>
+<td> 165
+</td>
+<td> 331
+</td>
+<td> 662
+</td>
+<td> 496
+</td>
+<td> 165
+</td>
+<td> 165
+</td>
+<td> 331
+</td>
+<td> 165
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Hyperion Vanguard
+</td>
+<td> M6
+</td>
+<td> 10820648
+</td>
+<td> 21:40:33
+</td>
+<td> 36680
+</td>
+<td> 1145
+</td>
+<td> 381
+</td>
+<td> 763
+</td>
+<td> 1527
+</td>
+<td> 1145
+</td>
+<td> 381
+</td>
+<td> 381
+</td>
+<td> 763
+</td>
+<td> 381
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Nemesis
+</td>
+<td> M6
+</td>
+<td> 2452673
+</td>
+<td> 4:54:47
+</td>
+<td> 8314
+</td>
+<td> 259
+</td>
+<td> 86
+</td>
+<td> 173
+</td>
+<td> 346
+</td>
+<td> 259
+</td>
+<td> 86
+</td>
+<td> 86
+</td>
+<td> 173
+</td>
+<td> 86
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Hades
+</td>
+<td> M8
+</td>
+<td> 1457757
+</td>
+<td> 2:55:12
+</td>
+<td> 4941
+</td>
+<td> 154
+</td>
+<td> 51
+</td>
+<td> 102
+</td>
+<td> 205
+</td>
+<td> 154
+</td>
+<td> 51
+</td>
+<td> 51
+</td>
+<td> 102
+</td>
+<td> 51
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Advanced Perseus
+</td>
+<td> M3
+</td>
+<td> 722732
+</td>
+<td> 2:10:18
+</td>
+<td> 2449
+</td>
+<td> 76
+</td>
+<td> 25
+</td>
+<td> 51
+</td>
+<td> 102
+</td>
+<td> 76
+</td>
+<td> 25
+</td>
+<td> 25
+</td>
+<td> 51
+</td>
+<td> 25
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Medusa
+</td>
+<td> M3
+</td>
+<td> 1478814
+</td>
+<td> 4:26:37
+</td>
+<td> 5012
+</td>
+<td> 156
+</td>
+<td> 52
+</td>
+<td> 104
+</td>
+<td> 208
+</td>
+<td> 156
+</td>
+<td> 52
+</td>
+<td> 52
+</td>
+<td> 104
+</td>
+<td> 52
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Medusa Prototype
+</td>
+<td> M3
+</td>
+<td> 1626689
+</td>
+<td> 4:53:17
+</td>
+<td> 5514
+</td>
+<td> 172
+</td>
+<td> 57
+</td>
+<td> 114
+</td>
+<td> 229
+</td>
+<td> 172
+</td>
+<td> 57
+</td>
+<td> 57
+</td>
+<td> 114
+</td>
+<td> 57
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Perseus
+</td>
+<td> M3
+</td>
+<td> 412980
+</td>
+<td> 1:14:27
+</td>
+<td> 1399
+</td>
+<td> 43
+</td>
+<td> 14
+</td>
+<td> 29
+</td>
+<td> 58
+</td>
+<td> 43
+</td>
+<td> 14
+</td>
+<td> 14
+</td>
+<td> 29
+</td>
+<td> 14
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Perseus Raider
+</td>
+<td> M3
+</td>
+<td> 619482
+</td>
+<td> 1:51:41
+</td>
+<td> 2099
+</td>
+<td> 65
+</td>
+<td> 21
+</td>
+<td> 43
+</td>
+<td> 87
+</td>
+<td> 65
+</td>
+<td> 21
+</td>
+<td> 21
+</td>
+<td> 43
+</td>
+<td> 21
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Perseus Sentinel
+</td>
+<td> M3
+</td>
+<td> 578190
+</td>
+<td> 1:44:14
+</td>
+<td> 1959
+</td>
+<td> 61
+</td>
+<td> 20
+</td>
+<td> 40
+</td>
+<td> 81
+</td>
+<td> 61
+</td>
+<td> 20
+</td>
+<td> 20
+</td>
+<td> 40
+</td>
+<td> 20
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Perseus Vanguard
+</td>
+<td> M3
+</td>
+<td> 516231
+</td>
+<td> 1:33:4
+</td>
+<td> 1749
+</td>
+<td> 54
+</td>
+<td> 18
+</td>
+<td> 36
+</td>
+<td> 72
+</td>
+<td> 54
+</td>
+<td> 18
+</td>
+<td> 18
+</td>
+<td> 36
+</td>
+<td> 18
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Enhanced Pericles
+</td>
+<td> M4
+</td>
+<td> 18892
+</td>
+<td> 4:32
+</td>
+<td> 64
+</td>
+<td> 2
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Pericles
+</td>
+<td> M4
+</td>
+<td> 105717
+</td>
+<td> 25:24
+</td>
+<td> 358
+</td>
+<td> 11
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 14
+</td>
+<td> 11
+</td>
+<td> 3
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 3
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Pericles Raider
+</td>
+<td> M4
+</td>
+<td> 158565
+</td>
+<td> 38:7
+</td>
+<td> 537
+</td>
+<td> 16
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 22
+</td>
+<td> 16
+</td>
+<td> 5
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 5
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Pericles Sentinel
+</td>
+<td> M4
+</td>
+<td> 166486
+</td>
+<td> 40:1
+</td>
+<td> 564
+</td>
+<td> 17
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 23
+</td>
+<td> 17
+</td>
+<td> 5
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 5
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Pericles Vanguard
+</td>
+<td> M4
+</td>
+<td> 132141
+</td>
+<td> 31:45
+</td>
+<td> 447
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 18
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Theseus
+</td>
+<td> M4
+</td>
+<td> 220741
+</td>
+<td> 53:3
+</td>
+<td> 748
+</td>
+<td> 23
+</td>
+<td> 7
+</td>
+<td> 15
+</td>
+<td> 31
+</td>
+<td> 23
+</td>
+<td> 7
+</td>
+<td> 7
+</td>
+<td> 15
+</td>
+<td> 7
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Pegasus
+</td>
+<td> M5
+</td>
+<td> 15625
+</td>
+<td> 4:41
+</td>
+<td> 52
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Pegasus Raider
+</td>
+<td> M5
+</td>
+<td> 23437
+</td>
+<td> 7:2
+</td>
+<td> 79
+</td>
+<td> 2
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Pegasus Sentinel
+</td>
+<td> M5
+</td>
+<td> 27332
+</td>
+<td> 8:12
+</td>
+<td> 92
+</td>
+<td> 2
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Pegasus Vanguard
+</td>
+<td> M5
+</td>
+<td> 19520
+</td>
+<td> 5:51
+</td>
+<td> 66
+</td>
+<td> 2
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Hercules
+</td>
+<td> TL
+</td>
+<td> 5286406
+</td>
+<td> 10:35:23
+</td>
+<td> 17920
+</td>
+<td> 559
+</td>
+<td> 186
+</td>
+<td> 373
+</td>
+<td> 746
+</td>
+<td> 559
+</td>
+<td> 186
+</td>
+<td> 186
+</td>
+<td> 373
+</td>
+<td> 186
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Helios
+</td>
+<td> TM
+</td>
+<td> 67088
+</td>
+<td> 8:3
+</td>
+<td> 227
+</td>
+<td> 7
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 7
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Hermes
+</td>
+<td> TP
+</td>
+<td> 115131
+</td>
+<td> 1:9:11
+</td>
+<td> 390
+</td>
+<td> 12
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 16
+</td>
+<td> 12
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Hermes Hauler
+</td>
+<td> TP
+</td>
+<td> 316612
+</td>
+<td> 3:10:16
+</td>
+<td> 1073
+</td>
+<td> 33
+</td>
+<td> 11
+</td>
+<td> 22
+</td>
+<td> 44
+</td>
+<td> 33
+</td>
+<td> 11
+</td>
+<td> 11
+</td>
+<td> 22
+</td>
+<td> 11
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Demeter
+</td>
+<td> TS
+</td>
+<td> 46160
+</td>
+<td> 27:44
+</td>
+<td> 156
+</td>
+<td> 4
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 6
+</td>
+<td> 4
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 1
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Demeter Hauler
+</td>
+<td> TS
+</td>
+<td> 126947
+</td>
+<td> 1:16:17
+</td>
+<td> 430
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 17
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Demeter Miner
+</td>
+<td> TS
+</td>
+<td> 69252
+</td>
+<td> 41:37
+</td>
+<td> 234
+</td>
+<td> 7
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 7
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Demeter Prototype
+</td>
+<td> TS
+</td>
+<td> 139651
+</td>
+<td> 1:23:55
+</td>
+<td> 473
+</td>
+<td> 14
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 19
+</td>
+<td> 14
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Demeter Super Freighter
+</td>
+<td> TS
+</td>
+<td> 126947
+</td>
+<td> 1:16:17
+</td>
+<td> 430
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 17
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Demeter Super Freighter XL
+</td>
+<td> TS
+</td>
+<td> 323169
+</td>
+<td> 3:14:12
+</td>
+<td> 1095
+</td>
+<td> 34
+</td>
+<td> 11
+</td>
+<td> 22
+</td>
+<td> 45
+</td>
+<td> 34
+</td>
+<td> 11
+</td>
+<td> 11
+</td>
+<td> 22
+</td>
+<td> 11
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Paranid
+</td>
+<td> Demeter Tanker
+</td>
+<td> TS
+</td>
+<td> 46160
+</td>
+<td> 27:44
+</td>
+<td> 156
+</td>
+<td> 4
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 6
+</td>
+<td> 4
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 1
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Pirates
+</td>
+<td> Galleon
+</td>
+<td> M1
+</td>
+<td> 23108576
+</td>
+<td> 46:17:29
+</td>
+<td> 78334
+</td>
+<td> 2446
+</td>
+<td> 815
+</td>
+<td> 1631
+</td>
+<td> 3262
+</td>
+<td> 2446
+</td>
+<td> 815
+</td>
+<td> 815
+</td>
+<td> 1631
+</td>
+<td> 815
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Pirates
+</td>
+<td> Brigantine
+</td>
+<td> M2
+</td>
+<td> 25882990
+</td>
+<td> 51:50:56
+</td>
+<td> 87738
+</td>
+<td> 2740
+</td>
+<td> 913
+</td>
+<td> 1827
+</td>
+<td> 3654
+</td>
+<td> 2740
+</td>
+<td> 913
+</td>
+<td> 913
+</td>
+<td> 1827
+</td>
+<td> 913
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Pirates
+</td>
+<td> Carrack
+</td>
+<td> M7
+</td>
+<td> 9755680
+</td>
+<td> 19:32:33
+</td>
+<td> 33070
+</td>
+<td> 1032
+</td>
+<td> 344
+</td>
+<td> 688
+</td>
+<td> 1377
+</td>
+<td> 1032
+</td>
+<td> 344
+</td>
+<td> 344
+</td>
+<td> 688
+</td>
+<td> 344
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Pirates
+</td>
+<td> Marauder Hauler
+</td>
+<td> M6
+</td>
+<td> 2596955
+</td>
+<td> 5:12:8
+</td>
+<td> 8803
+</td>
+<td> 274
+</td>
+<td> 91
+</td>
+<td> 183
+</td>
+<td> 366
+</td>
+<td> 274
+</td>
+<td> 91
+</td>
+<td> 91
+</td>
+<td> 183
+</td>
+<td> 91
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Pirates
+</td>
+<td> Advanced Eclipse
+</td>
+<td> M3
+</td>
+<td> 1544106
+</td>
+<td> 4:38:23
+</td>
+<td> 5234
+</td>
+<td> 163
+</td>
+<td> 54
+</td>
+<td> 108
+</td>
+<td> 217
+</td>
+<td> 163
+</td>
+<td> 54
+</td>
+<td> 54
+</td>
+<td> 108
+</td>
+<td> 54
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Pirates
+</td>
+<td> Blastclaw
+</td>
+<td> M3
+</td>
+<td> 1413609
+</td>
+<td> 4:14:52
+</td>
+<td> 4791
+</td>
+<td> 149
+</td>
+<td> 49
+</td>
+<td> 99
+</td>
+<td> 199
+</td>
+<td> 149
+</td>
+<td> 49
+</td>
+<td> 49
+</td>
+<td> 99
+</td>
+<td> 49
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Pirates
+</td>
+<td> Blastclaw Prototype
+</td>
+<td> M3
+</td>
+<td> 1554970
+</td>
+<td> 4:40:21
+</td>
+<td> 5271
+</td>
+<td> 164
+</td>
+<td> 54
+</td>
+<td> 109
+</td>
+<td> 219
+</td>
+<td> 164
+</td>
+<td> 54
+</td>
+<td> 54
+</td>
+<td> 109
+</td>
+<td> 54
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Pirates
+</td>
+<td> Mobile Pirate Base Hauler
+</td>
+<td> TL
+</td>
+<td> 7599233
+</td>
+<td> 15:13:22
+</td>
+<td> 25760
+</td>
+<td> 804
+</td>
+<td> 268
+</td>
+<td> 536
+</td>
+<td> 1072
+</td>
+<td> 804
+</td>
+<td> 268
+</td>
+<td> 268
+</td>
+<td> 536
+</td>
+<td> 268
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Pirates
+</td>
+<td> Caravel
+</td>
+<td> TM
+</td>
+<td> 68170
+</td>
+<td> 8:11
+</td>
+<td> 231
+</td>
+<td> 7
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 7
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Pirates
+</td>
+<td> Pirate Ship
+</td>
+<td> Pirate TS
+</td>
+<td> 43282
+</td>
+<td> 26:0
+</td>
+<td> 146
+</td>
+<td> 4
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 6
+</td>
+<td> 4
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 1
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Raptor
+</td>
+<td> M1
+</td>
+<td> 21476087
+</td>
+<td> 43:1:16
+</td>
+<td> 72800
+</td>
+<td> 2273
+</td>
+<td> 757
+</td>
+<td> 1515
+</td>
+<td> 3031
+</td>
+<td> 2273
+</td>
+<td> 757
+</td>
+<td> 757
+</td>
+<td> 1515
+</td>
+<td> 757
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Python
+</td>
+<td> M2
+</td>
+<td> 24780107
+</td>
+<td> 49:38:23
+</td>
+<td> 84000
+</td>
+<td> 2623
+</td>
+<td> 874
+</td>
+<td> 1749
+</td>
+<td> 3498
+</td>
+<td> 2623
+</td>
+<td> 874
+</td>
+<td> 874
+</td>
+<td> 1749
+</td>
+<td> 874
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Cobra
+</td>
+<td> M7
+</td>
+<td> 16708163
+</td>
+<td> 33:28:12
+</td>
+<td> 56637
+</td>
+<td> 1769
+</td>
+<td> 589
+</td>
+<td> 1179
+</td>
+<td> 2358
+</td>
+<td> 1769
+</td>
+<td> 589
+</td>
+<td> 589
+</td>
+<td> 1179
+</td>
+<td> 589
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Panther
+</td>
+<td> M7
+</td>
+<td> 11983218
+</td>
+<td> 24:0:17
+</td>
+<td> 40621
+</td>
+<td> 1268
+</td>
+<td> 422
+</td>
+<td> 845
+</td>
+<td> 1691
+</td>
+<td> 1268
+</td>
+<td> 422
+</td>
+<td> 422
+</td>
+<td> 845
+</td>
+<td> 422
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Tiger
+</td>
+<td> M7
+</td>
+<td> 11983218
+</td>
+<td> 24:0:17
+</td>
+<td> 40621
+</td>
+<td> 1268
+</td>
+<td> 422
+</td>
+<td> 845
+</td>
+<td> 1691
+</td>
+<td> 1268
+</td>
+<td> 422
+</td>
+<td> 422
+</td>
+<td> 845
+</td>
+<td> 422
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Dragon
+</td>
+<td> M6
+</td>
+<td> 2019847
+</td>
+<td> 4:2:46
+</td>
+<td> 6846
+</td>
+<td> 213
+</td>
+<td> 71
+</td>
+<td> 142
+</td>
+<td> 285
+</td>
+<td> 213
+</td>
+<td> 71
+</td>
+<td> 71
+</td>
+<td> 142
+</td>
+<td> 71
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Heavy Dragon
+</td>
+<td> M6
+</td>
+<td> 5153441
+</td>
+<td> 10:19:24
+</td>
+<td> 17469
+</td>
+<td> 545
+</td>
+<td> 181
+</td>
+<td> 363
+</td>
+<td> 727
+</td>
+<td> 545
+</td>
+<td> 181
+</td>
+<td> 181
+</td>
+<td> 363
+</td>
+<td> 181
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Viper
+</td>
+<td> M8
+</td>
+<td> 1452563
+</td>
+<td> 2:54:35
+</td>
+<td> 4923
+</td>
+<td> 153
+</td>
+<td> 51
+</td>
+<td> 102
+</td>
+<td> 205
+</td>
+<td> 153
+</td>
+<td> 51
+</td>
+<td> 51
+</td>
+<td> 102
+</td>
+<td> 51
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Advanced Mamba
+</td>
+<td> M3
+</td>
+<td> 751645
+</td>
+<td> 2:15:31
+</td>
+<td> 2547
+</td>
+<td> 79
+</td>
+<td> 26
+</td>
+<td> 53
+</td>
+<td> 106
+</td>
+<td> 79
+</td>
+<td> 26
+</td>
+<td> 26
+</td>
+<td> 53
+</td>
+<td> 26
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Chimera
+</td>
+<td> M3
+</td>
+<td> 1449966
+</td>
+<td> 4:21:25
+</td>
+<td> 4915
+</td>
+<td> 153
+</td>
+<td> 51
+</td>
+<td> 102
+</td>
+<td> 204
+</td>
+<td> 153
+</td>
+<td> 51
+</td>
+<td> 51
+</td>
+<td> 102
+</td>
+<td> 51
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Enhanced Chimera
+</td>
+<td> M3
+</td>
+<td> 1594963
+</td>
+<td> 4:47:33
+</td>
+<td> 5406
+</td>
+<td> 168
+</td>
+<td> 56
+</td>
+<td> 112
+</td>
+<td> 225
+</td>
+<td> 168
+</td>
+<td> 56
+</td>
+<td> 56
+</td>
+<td> 112
+</td>
+<td> 56
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Mamba
+</td>
+<td> M3
+</td>
+<td> 429514
+</td>
+<td> 1:17:26
+</td>
+<td> 1455
+</td>
+<td> 45
+</td>
+<td> 15
+</td>
+<td> 30
+</td>
+<td> 60
+</td>
+<td> 45
+</td>
+<td> 15
+</td>
+<td> 15
+</td>
+<td> 30
+</td>
+<td> 15
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Mamba Raider
+</td>
+<td> M3
+</td>
+<td> 644261
+</td>
+<td> 1:56:9
+</td>
+<td> 2183
+</td>
+<td> 68
+</td>
+<td> 22
+</td>
+<td> 45
+</td>
+<td> 90
+</td>
+<td> 68
+</td>
+<td> 22
+</td>
+<td> 22
+</td>
+<td> 45
+</td>
+<td> 22
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Mamba Sentinel
+</td>
+<td> M3
+</td>
+<td> 601325
+</td>
+<td> 1:48:25
+</td>
+<td> 2038
+</td>
+<td> 63
+</td>
+<td> 21
+</td>
+<td> 42
+</td>
+<td> 84
+</td>
+<td> 63
+</td>
+<td> 21
+</td>
+<td> 21
+</td>
+<td> 42
+</td>
+<td> 21
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Mamba Vanguard
+</td>
+<td> M3
+</td>
+<td> 536898
+</td>
+<td> 1:36:48
+</td>
+<td> 1819
+</td>
+<td> 56
+</td>
+<td> 18
+</td>
+<td> 37
+</td>
+<td> 75
+</td>
+<td> 56
+</td>
+<td> 18
+</td>
+<td> 18
+</td>
+<td> 37
+</td>
+<td> 18
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Asp
+</td>
+<td> M4
+</td>
+<td> 185249
+</td>
+<td> 44:31
+</td>
+<td> 627
+</td>
+<td> 19
+</td>
+<td> 6
+</td>
+<td> 13
+</td>
+<td> 26
+</td>
+<td> 19
+</td>
+<td> 6
+</td>
+<td> 6
+</td>
+<td> 13
+</td>
+<td> 6
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Pirate Scorpion
+</td>
+<td> M4
+</td>
+<td> 83946
+</td>
+<td> 20:10
+</td>
+<td> 284
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Scorpion
+</td>
+<td> M4
+</td>
+<td> 83946
+</td>
+<td> 20:10
+</td>
+<td> 284
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Scorpion Prototype
+</td>
+<td> M4
+</td>
+<td> 149541
+</td>
+<td> 35:56
+</td>
+<td> 506
+</td>
+<td> 15
+</td>
+<td> 5
+</td>
+<td> 10
+</td>
+<td> 21
+</td>
+<td> 15
+</td>
+<td> 5
+</td>
+<td> 5
+</td>
+<td> 10
+</td>
+<td> 5
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Scorpion Raider
+</td>
+<td> M4
+</td>
+<td> 125909
+</td>
+<td> 30:16
+</td>
+<td> 426
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 17
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Scorpion Sentinel
+</td>
+<td> M4
+</td>
+<td> 132206
+</td>
+<td> 31:46
+</td>
+<td> 448
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 18
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Scorpion Vanguard
+</td>
+<td> M4
+</td>
+<td> 104938
+</td>
+<td> 25:13
+</td>
+<td> 355
+</td>
+<td> 11
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 14
+</td>
+<td> 11
+</td>
+<td> 3
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 3
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Enhanced Jaguar
+</td>
+<td> M5
+</td>
+<td> 18027
+</td>
+<td> 5:25
+</td>
+<td> 61
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Jaguar
+</td>
+<td> M5
+</td>
+<td> 12010
+</td>
+<td> 3:36
+</td>
+<td> 40
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Jaguar Hauler
+</td>
+<td> M5
+</td>
+<td> 13222
+</td>
+<td> 3:58
+</td>
+<td> 44
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Jaguar Raider
+</td>
+<td> M5
+</td>
+<td> 18027
+</td>
+<td> 5:25
+</td>
+<td> 61
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Jaguar Vanguard
+</td>
+<td> M5
+</td>
+<td> 15019
+</td>
+<td> 4:30
+</td>
+<td> 50
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Elephant
+</td>
+<td> TL
+</td>
+<td> 4625610
+</td>
+<td> 9:15:57
+</td>
+<td> 15680
+</td>
+<td> 489
+</td>
+<td> 163
+</td>
+<td> 326
+</td>
+<td> 653
+</td>
+<td> 489
+</td>
+<td> 163
+</td>
+<td> 163
+</td>
+<td> 326
+</td>
+<td> 163
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Boa
+</td>
+<td> TM
+</td>
+<td> 78990
+</td>
+<td> 9:29
+</td>
+<td> 267
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Iguana
+</td>
+<td> TP
+</td>
+<td> 87647
+</td>
+<td> 52:40
+</td>
+<td> 297
+</td>
+<td> 9
+</td>
+<td> 3
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 9
+</td>
+<td> 3
+</td>
+<td> 3
+</td>
+<td> 6
+</td>
+<td> 3
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Iguana Vanguard
+</td>
+<td> TP
+</td>
+<td> 131470
+</td>
+<td> 1:19:0
+</td>
+<td> 445
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 18
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Caiman
+</td>
+<td> TS
+</td>
+<td> 57695
+</td>
+<td> 34:40
+</td>
+<td> 195
+</td>
+<td> 6
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 6
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Caiman Hauler
+</td>
+<td> TS
+</td>
+<td> 158695
+</td>
+<td> 1:35:22
+</td>
+<td> 537
+</td>
+<td> 16
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 22
+</td>
+<td> 16
+</td>
+<td> 5
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 5
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Caiman Miner
+</td>
+<td> TS
+</td>
+<td> 180336
+</td>
+<td> 1:48:22
+</td>
+<td> 611
+</td>
+<td> 19
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 25
+</td>
+<td> 19
+</td>
+<td> 6
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 6
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Caiman Super Freighter
+</td>
+<td> TS
+</td>
+<td> 158695
+</td>
+<td> 1:35:22
+</td>
+<td> 537
+</td>
+<td> 16
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 22
+</td>
+<td> 16
+</td>
+<td> 5
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 5
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Caiman Super Freighter XL
+</td>
+<td> TS
+</td>
+<td> 403956
+</td>
+<td> 4:2:45
+</td>
+<td> 1369
+</td>
+<td> 42
+</td>
+<td> 14
+</td>
+<td> 28
+</td>
+<td> 57
+</td>
+<td> 42
+</td>
+<td> 14
+</td>
+<td> 14
+</td>
+<td> 28
+</td>
+<td> 14
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Caiman Tanker
+</td>
+<td> TS
+</td>
+<td> 57695
+</td>
+<td> 34:40
+</td>
+<td> 195
+</td>
+<td> 6
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 6
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Split
+</td>
+<td> Caiman Tanker XL
+</td>
+<td> TS
+</td>
+<td> 158695
+</td>
+<td> 1:35:22
+</td>
+<td> 537
+</td>
+<td> 16
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 22
+</td>
+<td> 16
+</td>
+<td> 5
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 5
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Condor
+</td>
+<td> M1
+</td>
+<td> 18172066
+</td>
+<td> 36:24:9
+</td>
+<td> 61600
+</td>
+<td> 1924
+</td>
+<td> 641
+</td>
+<td> 1282
+</td>
+<td> 2565
+</td>
+<td> 1924
+</td>
+<td> 641
+</td>
+<td> 641
+</td>
+<td> 1282
+</td>
+<td> 641
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Phoenix
+</td>
+<td> M2
+</td>
+<td> 29736115
+</td>
+<td> 59:34:4
+</td>
+<td> 100800
+</td>
+<td> 3148
+</td>
+<td> 1049
+</td>
+<td> 2099
+</td>
+<td> 4198
+</td>
+<td> 3148
+</td>
+<td> 1049
+</td>
+<td> 1049
+</td>
+<td> 2099
+</td>
+<td> 1049
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Gannet
+</td>
+<td> M7
+</td>
+<td> 16542607
+</td>
+<td> 33:8:18
+</td>
+<td> 56076
+</td>
+<td> 1751
+</td>
+<td> 583
+</td>
+<td> 1167
+</td>
+<td> 2335
+</td>
+<td> 1751
+</td>
+<td> 583
+</td>
+<td> 583
+</td>
+<td> 1167
+</td>
+<td> 583
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Shrike
+</td>
+<td> M7
+</td>
+<td> 9831749
+</td>
+<td> 19:41:42
+</td>
+<td> 33327
+</td>
+<td> 1041
+</td>
+<td> 347
+</td>
+<td> 694
+</td>
+<td> 1388
+</td>
+<td> 1041
+</td>
+<td> 347
+</td>
+<td> 347
+</td>
+<td> 694
+</td>
+<td> 347
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Tern Sentinel
+</td>
+<td> M7
+</td>
+<td> 9831749
+</td>
+<td> 19:41:42
+</td>
+<td> 33327
+</td>
+<td> 1041
+</td>
+<td> 347
+</td>
+<td> 694
+</td>
+<td> 1388
+</td>
+<td> 1041
+</td>
+<td> 347
+</td>
+<td> 347
+</td>
+<td> 694
+</td>
+<td> 347
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Heavy Osprey
+</td>
+<td> M6
+</td>
+<td> 5399287
+</td>
+<td> 10:48:57
+</td>
+<td> 18302
+</td>
+<td> 571
+</td>
+<td> 190
+</td>
+<td> 381
+</td>
+<td> 762
+</td>
+<td> 571
+</td>
+<td> 190
+</td>
+<td> 190
+</td>
+<td> 381
+</td>
+<td> 190
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Osprey
+</td>
+<td> M6
+</td>
+<td> 4039694
+</td>
+<td> 8:5:32
+</td>
+<td> 13693
+</td>
+<td> 427
+</td>
+<td> 142
+</td>
+<td> 285
+</td>
+<td> 570
+</td>
+<td> 427
+</td>
+<td> 142
+</td>
+<td> 142
+</td>
+<td> 285
+</td>
+<td> 142
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Pirate Osprey
+</td>
+<td> M6
+</td>
+<td> 4039694
+</td>
+<td> 8:5:32
+</td>
+<td> 13693
+</td>
+<td> 427
+</td>
+<td> 142
+</td>
+<td> 285
+</td>
+<td> 570
+</td>
+<td> 427
+</td>
+<td> 142
+</td>
+<td> 142
+</td>
+<td> 285
+</td>
+<td> 142
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Peregrine
+</td>
+<td> M8
+</td>
+<td> 1464899
+</td>
+<td> 2:56:4
+</td>
+<td> 4965
+</td>
+<td> 155
+</td>
+<td> 51
+</td>
+<td> 103
+</td>
+<td> 206
+</td>
+<td> 155
+</td>
+<td> 51
+</td>
+<td> 51
+</td>
+<td> 103
+</td>
+<td> 51
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Enhanced Kea
+</td>
+<td> M3
+</td>
+<td> 1583060
+</td>
+<td> 4:45:25
+</td>
+<td> 5366
+</td>
+<td> 167
+</td>
+<td> 55
+</td>
+<td> 111
+</td>
+<td> 223
+</td>
+<td> 167
+</td>
+<td> 55
+</td>
+<td> 55
+</td>
+<td> 111
+</td>
+<td> 55
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Falcon
+</td>
+<td> M3
+</td>
+<td> 505324
+</td>
+<td> 1:31:6
+</td>
+<td> 1712
+</td>
+<td> 53
+</td>
+<td> 17
+</td>
+<td> 35
+</td>
+<td> 71
+</td>
+<td> 53
+</td>
+<td> 17
+</td>
+<td> 17
+</td>
+<td> 35
+</td>
+<td> 17
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Falcon Hauler
+</td>
+<td> M3
+</td>
+<td> 555878
+</td>
+<td> 1:40:13
+</td>
+<td> 1884
+</td>
+<td> 58
+</td>
+<td> 19
+</td>
+<td> 39
+</td>
+<td> 78
+</td>
+<td> 58
+</td>
+<td> 19
+</td>
+<td> 19
+</td>
+<td> 39
+</td>
+<td> 19
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Falcon Prototype
+</td>
+<td> M3
+</td>
+<td> 631666
+</td>
+<td> 1:53:53
+</td>
+<td> 2141
+</td>
+<td> 66
+</td>
+<td> 22
+</td>
+<td> 44
+</td>
+<td> 89
+</td>
+<td> 66
+</td>
+<td> 22
+</td>
+<td> 22
+</td>
+<td> 44
+</td>
+<td> 22
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Falcon Sentinel
+</td>
+<td> M3
+</td>
+<td> 707475
+</td>
+<td> 2:7:33
+</td>
+<td> 2398
+</td>
+<td> 74
+</td>
+<td> 24
+</td>
+<td> 49
+</td>
+<td> 99
+</td>
+<td> 74
+</td>
+<td> 24
+</td>
+<td> 24
+</td>
+<td> 49
+</td>
+<td> 24
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Falcon Vanguard
+</td>
+<td> M3
+</td>
+<td> 631666
+</td>
+<td> 1:53:53
+</td>
+<td> 2141
+</td>
+<td> 66
+</td>
+<td> 22
+</td>
+<td> 44
+</td>
+<td> 89
+</td>
+<td> 66
+</td>
+<td> 22
+</td>
+<td> 22
+</td>
+<td> 44
+</td>
+<td> 22
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Kea
+</td>
+<td> M3
+</td>
+<td> 1439146
+</td>
+<td> 4:19:28
+</td>
+<td> 4878
+</td>
+<td> 152
+</td>
+<td> 50
+</td>
+<td> 101
+</td>
+<td> 203
+</td>
+<td> 152
+</td>
+<td> 50
+</td>
+<td> 50
+</td>
+<td> 101
+</td>
+<td> 50
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Pirate Falcon
+</td>
+<td> M3
+</td>
+<td> 363422
+</td>
+<td> 1:5:31
+</td>
+<td> 1231
+</td>
+<td> 38
+</td>
+<td> 12
+</td>
+<td> 25
+</td>
+<td> 51
+</td>
+<td> 38
+</td>
+<td> 12
+</td>
+<td> 12
+</td>
+<td> 25
+</td>
+<td> 12
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Pirate Falcon Vanguard
+</td>
+<td> M3
+</td>
+<td> 363422
+</td>
+<td> 1:5:31
+</td>
+<td> 1231
+</td>
+<td> 38
+</td>
+<td> 12
+</td>
+<td> 25
+</td>
+<td> 51
+</td>
+<td> 38
+</td>
+<td> 12
+</td>
+<td> 12
+</td>
+<td> 25
+</td>
+<td> 12
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Pirate Kea
+</td>
+<td> M3
+</td>
+<td> 1417504
+</td>
+<td> 4:15:34
+</td>
+<td> 4805
+</td>
+<td> 150
+</td>
+<td> 50
+</td>
+<td> 100
+</td>
+<td> 200
+</td>
+<td> 150
+</td>
+<td> 50
+</td>
+<td> 50
+</td>
+<td> 100
+</td>
+<td> 50
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Buzzard
+</td>
+<td> M4
+</td>
+<td> 115045
+</td>
+<td> 27:39
+</td>
+<td> 389
+</td>
+<td> 12
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 16
+</td>
+<td> 12
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Buzzard Hauler
+</td>
+<td> M4
+</td>
+<td> 126536
+</td>
+<td> 30:25
+</td>
+<td> 428
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 17
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Buzzard Sentinel
+</td>
+<td> M4
+</td>
+<td> 181180
+</td>
+<td> 43:33
+</td>
+<td> 614
+</td>
+<td> 19
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 25
+</td>
+<td> 19
+</td>
+<td> 6
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 6
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Buzzard Vanguard
+</td>
+<td> M4
+</td>
+<td> 143806
+</td>
+<td> 34:34
+</td>
+<td> 487
+</td>
+<td> 15
+</td>
+<td> 5
+</td>
+<td> 10
+</td>
+<td> 20
+</td>
+<td> 15
+</td>
+<td> 5
+</td>
+<td> 5
+</td>
+<td> 10
+</td>
+<td> 5
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Kite
+</td>
+<td> M4
+</td>
+<td> 245628
+</td>
+<td> 59:2
+</td>
+<td> 832
+</td>
+<td> 26
+</td>
+<td> 8
+</td>
+<td> 17
+</td>
+<td> 34
+</td>
+<td> 26
+</td>
+<td> 8
+</td>
+<td> 8
+</td>
+<td> 17
+</td>
+<td> 8
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Kite Vanguard
+</td>
+<td> M4
+</td>
+<td> 314231
+</td>
+<td> 1:15:32
+</td>
+<td> 1065
+</td>
+<td> 33
+</td>
+<td> 11
+</td>
+<td> 22
+</td>
+<td> 44
+</td>
+<td> 33
+</td>
+<td> 11
+</td>
+<td> 11
+</td>
+<td> 22
+</td>
+<td> 11
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Pirate Buzzard
+</td>
+<td> M4
+</td>
+<td> 77713
+</td>
+<td> 18:40
+</td>
+<td> 263
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 10
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Pirate Buzzard Vanguard
+</td>
+<td> M4
+</td>
+<td> 97147
+</td>
+<td> 23:21
+</td>
+<td> 329
+</td>
+<td> 10
+</td>
+<td> 3
+</td>
+<td> 6
+</td>
+<td> 13
+</td>
+<td> 10
+</td>
+<td> 3
+</td>
+<td> 3
+</td>
+<td> 6
+</td>
+<td> 3
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Advanced Kestrel
+</td>
+<td> M5
+</td>
+<td> 49774
+</td>
+<td> 14:57
+</td>
+<td> 168
+</td>
+<td> 5
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 5
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 1
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Harrier
+</td>
+<td> M5
+</td>
+<td> 16815
+</td>
+<td> 5:3
+</td>
+<td> 57
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Harrier Hauler
+</td>
+<td> M5
+</td>
+<td> 18503
+</td>
+<td> 5:33
+</td>
+<td> 62
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Harrier Sentinel
+</td>
+<td> M5
+</td>
+<td> 29453
+</td>
+<td> 8:51
+</td>
+<td> 99
+</td>
+<td> 3
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 3
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Harrier Vanguard
+</td>
+<td> M5
+</td>
+<td> 21035
+</td>
+<td> 6:19
+</td>
+<td> 71
+</td>
+<td> 2
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Kestrel
+</td>
+<td> M5
+</td>
+<td> 33760
+</td>
+<td> 10:8
+</td>
+<td> 114
+</td>
+<td> 3
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 3
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Pirate Harrier
+</td>
+<td> M5
+</td>
+<td> 12010
+</td>
+<td> 3:36
+</td>
+<td> 40
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Pirate Harrier Hauler
+</td>
+<td> M5
+</td>
+<td> 13222
+</td>
+<td> 3:58
+</td>
+<td> 44
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Pirate Harrier Raider
+</td>
+<td> M5
+</td>
+<td> 18027
+</td>
+<td> 5:25
+</td>
+<td> 61
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Pirate Harrier Vanguard
+</td>
+<td> M5
+</td>
+<td> 15019
+</td>
+<td> 4:30
+</td>
+<td> 50
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Pirate Kestrel
+</td>
+<td> M5
+</td>
+<td> 31379
+</td>
+<td> 9:25
+</td>
+<td> 106
+</td>
+<td> 3
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 3
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Albatross
+</td>
+<td> TL
+</td>
+<td> 7268813
+</td>
+<td> 14:33:39
+</td>
+<td> 24640
+</td>
+<td> 769
+</td>
+<td> 256
+</td>
+<td> 513
+</td>
+<td> 1026
+</td>
+<td> 769
+</td>
+<td> 256
+</td>
+<td> 256
+</td>
+<td> 513
+</td>
+<td> 256
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Pelican
+</td>
+<td> TM
+</td>
+<td> 84401
+</td>
+<td> 10:8
+</td>
+<td> 286
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Toucan
+</td>
+<td> TP
+</td>
+<td> 118139
+</td>
+<td> 1:10:59
+</td>
+<td> 400
+</td>
+<td> 12
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 16
+</td>
+<td> 12
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Toucan Hauler
+</td>
+<td> TP
+</td>
+<td> 324922
+</td>
+<td> 3:15:16
+</td>
+<td> 1101
+</td>
+<td> 34
+</td>
+<td> 11
+</td>
+<td> 22
+</td>
+<td> 45
+</td>
+<td> 34
+</td>
+<td> 11
+</td>
+<td> 11
+</td>
+<td> 22
+</td>
+<td> 11
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Toucan Prototype
+</td>
+<td> TP
+</td>
+<td> 357406
+</td>
+<td> 3:34:47
+</td>
+<td> 1211
+</td>
+<td> 37
+</td>
+<td> 12
+</td>
+<td> 25
+</td>
+<td> 50
+</td>
+<td> 37
+</td>
+<td> 12
+</td>
+<td> 12
+</td>
+<td> 25
+</td>
+<td> 12
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Vulture
+</td>
+<td> TS
+</td>
+<td> 60595
+</td>
+<td> 36:24
+</td>
+<td> 205
+</td>
+<td> 6
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 6
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Vulture Hauler
+</td>
+<td> TS
+</td>
+<td> 166637
+</td>
+<td> 1:40:8
+</td>
+<td> 564
+</td>
+<td> 17
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 23
+</td>
+<td> 17
+</td>
+<td> 5
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 5
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Vulture Miner
+</td>
+<td> TS
+</td>
+<td> 90893
+</td>
+<td> 54:37
+</td>
+<td> 308
+</td>
+<td> 9
+</td>
+<td> 3
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 9
+</td>
+<td> 3
+</td>
+<td> 3
+</td>
+<td> 6
+</td>
+<td> 3
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Vulture Prototype
+</td>
+<td> TS
+</td>
+<td> 99982
+</td>
+<td> 1:0:5
+</td>
+<td> 338
+</td>
+<td> 10
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 14
+</td>
+<td> 10
+</td>
+<td> 3
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 3
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Vulture Super Freighter
+</td>
+<td> TS
+</td>
+<td> 166637
+</td>
+<td> 1:40:8
+</td>
+<td> 564
+</td>
+<td> 17
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 23
+</td>
+<td> 17
+</td>
+<td> 5
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 5
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Vulture Super Freighter XL
+</td>
+<td> TS
+</td>
+<td> 424169
+</td>
+<td> 4:14:54
+</td>
+<td> 1437
+</td>
+<td> 44
+</td>
+<td> 14
+</td>
+<td> 29
+</td>
+<td> 59
+</td>
+<td> 44
+</td>
+<td> 14
+</td>
+<td> 14
+</td>
+<td> 29
+</td>
+<td> 14
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Teladi
+</td>
+<td> Vulture Tanker
+</td>
+<td> TS
+</td>
+<td> 60595
+</td>
+<td> 36:24
+</td>
+<td> 205
+</td>
+<td> 6
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 8
+</td>
+<td> 6
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 4
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> #deca
+</td>
+<td> M1
+</td>
+<td> 3303998
+</td>
+<td> 6:37:7
+</td>
+<td> 11199
+</td>
+<td> 349
+</td>
+<td> 116
+</td>
+<td> 233
+</td>
+<td> 466
+</td>
+<td> 349
+</td>
+<td> 116
+</td>
+<td> 116
+</td>
+<td> 233
+</td>
+<td> 116
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Lasertower
+</td>
+<td> M1
+</td>
+<td> 6946856
+</td>
+<td> 13:54:57
+</td>
+<td> 23548
+</td>
+<td> 735
+</td>
+<td> 245
+</td>
+<td> 490
+</td>
+<td> 980
+</td>
+<td> 735
+</td>
+<td> 245
+</td>
+<td> 245
+</td>
+<td> 490
+</td>
+<td> 245
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Tokyo
+</td>
+<td> M1
+</td>
+<td> 18193838
+</td>
+<td> 36:26:46
+</td>
+<td> 61674
+</td>
+<td> 1926
+</td>
+<td> 642
+</td>
+<td> 1284
+</td>
+<td> 2568
+</td>
+<td> 1926
+</td>
+<td> 642
+</td>
+<td> 642
+</td>
+<td> 1284
+</td>
+<td> 642
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Osaka
+</td>
+<td> M2
+</td>
+<td> 24627795
+</td>
+<td> 49:20:5
+</td>
+<td> 83484
+</td>
+<td> 2607
+</td>
+<td> 869
+</td>
+<td> 1738
+</td>
+<td> 3476
+</td>
+<td> 2607
+</td>
+<td> 869
+</td>
+<td> 869
+</td>
+<td> 1738
+</td>
+<td> 869
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Yokohama
+</td>
+<td> M7
+</td>
+<td> 11484603
+</td>
+<td> 23:0:21
+</td>
+<td> 38930
+</td>
+<td> 1216
+</td>
+<td> 405
+</td>
+<td> 810
+</td>
+<td> 1621
+</td>
+<td> 1216
+</td>
+<td> 405
+</td>
+<td> 405
+</td>
+<td> 810
+</td>
+<td> 405
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Katana
+</td>
+<td> M6
+</td>
+<td> 2089250
+</td>
+<td> 4:11:6
+</td>
+<td> 7082
+</td>
+<td> 221
+</td>
+<td> 73
+</td>
+<td> 147
+</td>
+<td> 294
+</td>
+<td> 221
+</td>
+<td> 73
+</td>
+<td> 73
+</td>
+<td> 147
+</td>
+<td> 73
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Springblossom
+</td>
+<td> M6
+</td>
+<td> 1945336
+</td>
+<td> 3:53:48
+</td>
+<td> 6594
+</td>
+<td> 205
+</td>
+<td> 68
+</td>
+<td> 137
+</td>
+<td> 274
+</td>
+<td> 205
+</td>
+<td> 68
+</td>
+<td> 68
+</td>
+<td> 137
+</td>
+<td> 68
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Claymore
+</td>
+<td> M8
+</td>
+<td> 1414042
+</td>
+<td> 2:49:57
+</td>
+<td> 4793
+</td>
+<td> 149
+</td>
+<td> 49
+</td>
+<td> 99
+</td>
+<td> 199
+</td>
+<td> 149
+</td>
+<td> 49
+</td>
+<td> 49
+</td>
+<td> 99
+</td>
+<td> 49
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> #deca.cefa
+</td>
+<td> M3
+</td>
+<td> 231280
+</td>
+<td> 41:41
+</td>
+<td> 784
+</td>
+<td> 24
+</td>
+<td> 8
+</td>
+<td> 16
+</td>
+<td> 32
+</td>
+<td> 24
+</td>
+<td> 8
+</td>
+<td> 8
+</td>
+<td> 16
+</td>
+<td> 8
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Cutlass
+</td>
+<td> M3
+</td>
+<td> 1374222
+</td>
+<td> 4:7:46
+</td>
+<td> 4658
+</td>
+<td> 145
+</td>
+<td> 48
+</td>
+<td> 97
+</td>
+<td> 194
+</td>
+<td> 145
+</td>
+<td> 48
+</td>
+<td> 48
+</td>
+<td> 97
+</td>
+<td> 48
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Scimitar
+</td>
+<td> M3
+</td>
+<td> 396035
+</td>
+<td> 1:11:24
+</td>
+<td> 1342
+</td>
+<td> 41
+</td>
+<td> 13
+</td>
+<td> 27
+</td>
+<td> 55
+</td>
+<td> 41
+</td>
+<td> 13
+</td>
+<td> 13
+</td>
+<td> 27
+</td>
+<td> 13
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Spitfyre
+</td>
+<td> M3
+</td>
+<td> 711133
+</td>
+<td> 2:8:12
+</td>
+<td> 2410
+</td>
+<td> 75
+</td>
+<td> 25
+</td>
+<td> 50
+</td>
+<td> 100
+</td>
+<td> 75
+</td>
+<td> 25
+</td>
+<td> 25
+</td>
+<td> 50
+</td>
+<td> 25
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Xperimental Shuttle
+</td>
+<td> M3
+</td>
+<td> 605956
+</td>
+<td> 1:49:15
+</td>
+<td> 2054
+</td>
+<td> 64
+</td>
+<td> 21
+</td>
+<td> 42
+</td>
+<td> 85
+</td>
+<td> 64
+</td>
+<td> 21
+</td>
+<td> 21
+</td>
+<td> 42
+</td>
+<td> 21
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> #deca.deaf
+</td>
+<td> M4
+</td>
+<td> 102601
+</td>
+<td> 24:39
+</td>
+<td> 347
+</td>
+<td> 10
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 14
+</td>
+<td> 10
+</td>
+<td> 3
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 3
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Sabre
+</td>
+<td> M4
+</td>
+<td> 77043
+</td>
+<td> 18:31
+</td>
+<td> 261
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 10
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> #deca.fade
+</td>
+<td> M5
+</td>
+<td> 9608
+</td>
+<td> 2:53
+</td>
+<td> 32
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Rapier
+</td>
+<td> M5
+</td>
+<td> 9608
+</td>
+<td> 2:53
+</td>
+<td> 32
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Terran Drone
+</td>
+<td> M5
+</td>
+<td> 21641
+</td>
+<td> 6:30
+</td>
+<td> 73
+</td>
+<td> 2
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Terran Drone
+</td>
+<td> M5
+</td>
+<td> 21641
+</td>
+<td> 6:30
+</td>
+<td> 73
+</td>
+<td> 2
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Terran Freight Drone
+</td>
+<td> M5
+</td>
+<td> 21641
+</td>
+<td> 6:30
+</td>
+<td> 73
+</td>
+<td> 2
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Terran Freight Drone
+</td>
+<td> M5
+</td>
+<td> 21641
+</td>
+<td> 6:30
+</td>
+<td> 73
+</td>
+<td> 2
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 2
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Atmospheric Lifter
+</td>
+<td> TL
+</td>
+<td> 6546492
+</td>
+<td> 13:6:50
+</td>
+<td> 22191
+</td>
+<td> 693
+</td>
+<td> 231
+</td>
+<td> 462
+</td>
+<td> 924
+</td>
+<td> 693
+</td>
+<td> 231
+</td>
+<td> 231
+</td>
+<td> 462
+</td>
+<td> 231
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Mobile Mining Base
+</td>
+<td> TL
+</td>
+<td> 6546492
+</td>
+<td> 13:6:50
+</td>
+<td> 22191
+</td>
+<td> 693
+</td>
+<td> 231
+</td>
+<td> 462
+</td>
+<td> 924
+</td>
+<td> 693
+</td>
+<td> 231
+</td>
+<td> 231
+</td>
+<td> 462
+</td>
+<td> 231
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> TL
+</td>
+<td> 7599233
+</td>
+<td> 15:13:22
+</td>
+<td> 25760
+</td>
+<td> 804
+</td>
+<td> 268
+</td>
+<td> 536
+</td>
+<td> 1072
+</td>
+<td> 804
+</td>
+<td> 268
+</td>
+<td> 268
+</td>
+<td> 536
+</td>
+<td> 268
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Scabbard
+</td>
+<td> TP
+</td>
+<td> 134176
+</td>
+<td> 1:20:38
+</td>
+<td> 454
+</td>
+<td> 14
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 18
+</td>
+<td> 14
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Baldric
+</td>
+<td> TS
+</td>
+<td> 100978
+</td>
+<td> 1:0:41
+</td>
+<td> 342
+</td>
+<td> 10
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 14
+</td>
+<td> 10
+</td>
+<td> 3
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 3
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Baldric Miner
+</td>
+<td> TS
+</td>
+<td> 100978
+</td>
+<td> 1:0:41
+</td>
+<td> 342
+</td>
+<td> 10
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 14
+</td>
+<td> 10
+</td>
+<td> 3
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 3
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Keris
+</td>
+<td> Keris
+</td>
+<td> 86565
+</td>
+<td> None
+</td>
+<td> 293
+</td>
+<td> 9
+</td>
+<td> 3
+</td>
+<td> 6
+</td>
+<td> 12
+</td>
+<td> 9
+</td>
+<td> 3
+</td>
+<td> 3
+</td>
+<td> 6
+</td>
+<td> 3
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Terran
+</td>
+<td> Lasertower
+</td>
+<td> Lasertower
+</td>
+<td> 43282
+</td>
+<td> None
+</td>
+<td> 146
+</td>
+<td> 4
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 6
+</td>
+<td> 4
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 1
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Unknown
+</td>
+<td> Unknown Biological Entity
+</td>
+<td> UFO
+</td>
+<td> 54103
+</td>
+<td> None
+</td>
+<td> 183
+</td>
+<td> 5
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 5
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 1
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Unknown
+</td>
+<td> Unknown Biological Entity
+</td>
+<td> UFO
+</td>
+<td> 54103
+</td>
+<td> None
+</td>
+<td> 183
+</td>
+<td> 5
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 5
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 3
+</td>
+<td> 1
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Xenon
+</td>
+<td> J
+</td>
+<td> M1
+</td>
+<td> 3303998
+</td>
+<td> 6:37:7
+</td>
+<td> 11199
+</td>
+<td> 349
+</td>
+<td> 116
+</td>
+<td> 233
+</td>
+<td> 466
+</td>
+<td> 349
+</td>
+<td> 116
+</td>
+<td> 116
+</td>
+<td> 233
+</td>
+<td> 116
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Xenon
+</td>
+<td> K
+</td>
+<td> M2
+</td>
+<td> 6608018
+</td>
+<td> 13:14:14
+</td>
+<td> 22400
+</td>
+<td> 699
+</td>
+<td> 233
+</td>
+<td> 466
+</td>
+<td> 932
+</td>
+<td> 699
+</td>
+<td> 233
+</td>
+<td> 233
+</td>
+<td> 466
+</td>
+<td> 233
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Xenon
+</td>
+<td> Q
+</td>
+<td> M7
+</td>
+<td> 9831749
+</td>
+<td> 19:41:42
+</td>
+<td> 33327
+</td>
+<td> 1041
+</td>
+<td> 347
+</td>
+<td> 694
+</td>
+<td> 1388
+</td>
+<td> 1041
+</td>
+<td> 347
+</td>
+<td> 347
+</td>
+<td> 694
+</td>
+<td> 347
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Xenon
+</td>
+<td> P
+</td>
+<td> M6
+</td>
+<td> 2055923
+</td>
+<td> 4:7:6
+</td>
+<td> 6969
+</td>
+<td> 217
+</td>
+<td> 72
+</td>
+<td> 145
+</td>
+<td> 290
+</td>
+<td> 217
+</td>
+<td> 72
+</td>
+<td> 72
+</td>
+<td> 145
+</td>
+<td> 72
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Xenon
+</td>
+<td> PX
+</td>
+<td> M6
+</td>
+<td> 2055923
+</td>
+<td> 4:7:6
+</td>
+<td> 6969
+</td>
+<td> 217
+</td>
+<td> 72
+</td>
+<td> 145
+</td>
+<td> 290
+</td>
+<td> 217
+</td>
+<td> 72
+</td>
+<td> 72
+</td>
+<td> 145
+</td>
+<td> 72
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Xenon
+</td>
+<td> L
+</td>
+<td> M3
+</td>
+<td> 231280
+</td>
+<td> 41:41
+</td>
+<td> 784
+</td>
+<td> 24
+</td>
+<td> 8
+</td>
+<td> 16
+</td>
+<td> 32
+</td>
+<td> 24
+</td>
+<td> 8
+</td>
+<td> 8
+</td>
+<td> 16
+</td>
+<td> 8
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Xenon
+</td>
+<td> LX
+</td>
+<td> M3
+</td>
+<td> 1504070
+</td>
+<td> 4:31:10
+</td>
+<td> 5098
+</td>
+<td> 159
+</td>
+<td> 53
+</td>
+<td> 106
+</td>
+<td> 212
+</td>
+<td> 159
+</td>
+<td> 53
+</td>
+<td> 53
+</td>
+<td> 106
+</td>
+<td> 53
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Xenon
+</td>
+<td> Unknown Object
+</td>
+<td> M3
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Xenon
+</td>
+<td> M
+</td>
+<td> M4
+</td>
+<td> 102601
+</td>
+<td> 24:39
+</td>
+<td> 347
+</td>
+<td> 10
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 14
+</td>
+<td> 10
+</td>
+<td> 3
+</td>
+<td> 3
+</td>
+<td> 7
+</td>
+<td> 3
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Xenon
+</td>
+<td> N
+</td>
+<td> M5
+</td>
+<td> 9608
+</td>
+<td> 2:53
+</td>
+<td> 32
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Hoshi
+</td>
+<td> M1
+</td>
+<td> 21330094
+</td>
+<td> 42:43:43
+</td>
+<td> 72305
+</td>
+<td> 2258
+</td>
+<td> 752
+</td>
+<td> 1505
+</td>
+<td> 3011
+</td>
+<td> 2258
+</td>
+<td> 752
+</td>
+<td> 752
+</td>
+<td> 1505
+</td>
+<td> 752
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Shuri
+</td>
+<td> M1
+</td>
+<td> 29344472
+</td>
+<td> 58:46:59
+</td>
+<td> 99472
+</td>
+<td> 3107
+</td>
+<td> 1035
+</td>
+<td> 2071
+</td>
+<td> 4142
+</td>
+<td> 3107
+</td>
+<td> 1035
+</td>
+<td> 1035
+</td>
+<td> 2071
+</td>
+<td> 1035
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Akuma
+</td>
+<td> M2
+</td>
+<td> 40166246
+</td>
+<td> 80:27:41
+</td>
+<td> 136156
+</td>
+<td> 4252
+</td>
+<td> 1417
+</td>
+<td> 2835
+</td>
+<td> 5670
+</td>
+<td> 4252
+</td>
+<td> 1417
+</td>
+<td> 1417
+</td>
+<td> 2835
+</td>
+<td> 1417
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Akurei Hauler
+</td>
+<td> M7
+</td>
+<td> 11863542
+</td>
+<td> 23:45:54
+</td>
+<td> 40215
+</td>
+<td> 1256
+</td>
+<td> 418
+</td>
+<td> 837
+</td>
+<td> 1674
+</td>
+<td> 1256
+</td>
+<td> 418
+</td>
+<td> 418
+</td>
+<td> 837
+</td>
+<td> 418
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Kariudo Hauler
+</td>
+<td> M7
+</td>
+<td> 11863542
+</td>
+<td> 23:45:54
+</td>
+<td> 40215
+</td>
+<td> 1256
+</td>
+<td> 418
+</td>
+<td> 837
+</td>
+<td> 1674
+</td>
+<td> 1256
+</td>
+<td> 418
+</td>
+<td> 418
+</td>
+<td> 837
+</td>
+<td> 418
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Senshi Hauler
+</td>
+<td> M7
+</td>
+<td> 12559418
+</td>
+<td> 25:9:33
+</td>
+<td> 42574
+</td>
+<td> 1329
+</td>
+<td> 443
+</td>
+<td> 886
+</td>
+<td> 1773
+</td>
+<td> 1329
+</td>
+<td> 443
+</td>
+<td> 443
+</td>
+<td> 886
+</td>
+<td> 443
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Washi Hauler
+</td>
+<td> M6
+</td>
+<td> 4692958
+</td>
+<td> 9:24:3
+</td>
+<td> 15908
+</td>
+<td> 496
+</td>
+<td> 165
+</td>
+<td> 331
+</td>
+<td> 662
+</td>
+<td> 496
+</td>
+<td> 165
+</td>
+<td> 165
+</td>
+<td> 331
+</td>
+<td> 165
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Susanowa
+</td>
+<td> M3
+</td>
+<td> 389543
+</td>
+<td> 1:10:13
+</td>
+<td> 1320
+</td>
+<td> 41
+</td>
+<td> 13
+</td>
+<td> 27
+</td>
+<td> 54
+</td>
+<td> 41
+</td>
+<td> 13
+</td>
+<td> 13
+</td>
+<td> 27
+</td>
+<td> 13
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Susanowa Hauler
+</td>
+<td> M3
+</td>
+<td> 422005
+</td>
+<td> 1:16:5
+</td>
+<td> 1430
+</td>
+<td> 44
+</td>
+<td> 14
+</td>
+<td> 29
+</td>
+<td> 59
+</td>
+<td> 44
+</td>
+<td> 14
+</td>
+<td> 14
+</td>
+<td> 29
+</td>
+<td> 14
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Susanowa Prototype
+</td>
+<td> M3
+</td>
+<td> 324619
+</td>
+<td> 58:31
+</td>
+<td> 1100
+</td>
+<td> 34
+</td>
+<td> 11
+</td>
+<td> 22
+</td>
+<td> 45
+</td>
+<td> 34
+</td>
+<td> 11
+</td>
+<td> 11
+</td>
+<td> 22
+</td>
+<td> 11
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Susanowa Raider
+</td>
+<td> M3
+</td>
+<td> 411184
+</td>
+<td> 1:14:8
+</td>
+<td> 1393
+</td>
+<td> 43
+</td>
+<td> 14
+</td>
+<td> 29
+</td>
+<td> 58
+</td>
+<td> 43
+</td>
+<td> 14
+</td>
+<td> 14
+</td>
+<td> 29
+</td>
+<td> 14
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Tenjin
+</td>
+<td> M3
+</td>
+<td> 1428325
+</td>
+<td> 4:17:31
+</td>
+<td> 4841
+</td>
+<td> 151
+</td>
+<td> 50
+</td>
+<td> 100
+</td>
+<td> 201
+</td>
+<td> 151
+</td>
+<td> 50
+</td>
+<td> 50
+</td>
+<td> 100
+</td>
+<td> 50
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Raijin
+</td>
+<td> M4
+</td>
+<td> 129847
+</td>
+<td> 31:12
+</td>
+<td> 440
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 18
+</td>
+<td> 13
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Raijin Raider
+</td>
+<td> M4
+</td>
+<td> 140668
+</td>
+<td> 33:48
+</td>
+<td> 476
+</td>
+<td> 14
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 19
+</td>
+<td> 14
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Raijin Sentinel
+</td>
+<td> M4
+</td>
+<td> 140668
+</td>
+<td> 33:48
+</td>
+<td> 476
+</td>
+<td> 14
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 19
+</td>
+<td> 14
+</td>
+<td> 4
+</td>
+<td> 4
+</td>
+<td> 9
+</td>
+<td> 4
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Tonbo
+</td>
+<td> M4
+</td>
+<td> 299948
+</td>
+<td> 1:12:6
+</td>
+<td> 1016
+</td>
+<td> 31
+</td>
+<td> 10
+</td>
+<td> 21
+</td>
+<td> 42
+</td>
+<td> 31
+</td>
+<td> 10
+</td>
+<td> 10
+</td>
+<td> 21
+</td>
+<td> 10
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Fujin
+</td>
+<td> M5
+</td>
+<td> 10820
+</td>
+<td> 3:15
+</td>
+<td> 36
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Fujin Raider
+</td>
+<td> M5
+</td>
+<td> 12984
+</td>
+<td> 3:54
+</td>
+<td> 44
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Fujin Sentinel
+</td>
+<td> M5
+</td>
+<td> 12984
+</td>
+<td> 3:54
+</td>
+<td> 44
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 1
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Mobile Pirate Station
+</td>
+<td> TL
+</td>
+<td> 1082064
+</td>
+<td> 2:10:3
+</td>
+<td> 3668
+</td>
+<td> 114
+</td>
+<td> 38
+</td>
+<td> 76
+</td>
+<td> 152
+</td>
+<td> 114
+</td>
+<td> 38
+</td>
+<td> 38
+</td>
+<td> 76
+</td>
+<td> 38
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Mobile Pirate Station
+</td>
+<td> TL
+</td>
+<td> 1082064
+</td>
+<td> 2:10:3
+</td>
+<td> 3668
+</td>
+<td> 114
+</td>
+<td> 38
+</td>
+<td> 76
+</td>
+<td> 152
+</td>
+<td> 114
+</td>
+<td> 38
+</td>
+<td> 38
+</td>
+<td> 76
+</td>
+<td> 38
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Ryu
+</td>
+<td> TL
+</td>
+<td> 5431965
+</td>
+<td> 10:52:52
+</td>
+<td> 18413
+</td>
+<td> 575
+</td>
+<td> 191
+</td>
+<td> 383
+</td>
+<td> 766
+</td>
+<td> 575
+</td>
+<td> 191
+</td>
+<td> 191
+</td>
+<td> 383
+</td>
+<td> 191
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Advanced Chokaro
+</td>
+<td> TM
+</td>
+<td> 81154
+</td>
+<td> 9:45
+</td>
+<td> 275
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+<tr>
+<td> Yaki
+</td>
+<td> Chokaro
+</td>
+<td> TM
+</td>
+<td> 81154
+</td>
+<td> 9:45
+</td>
+<td> 275
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 11
+</td>
+<td> 8
+</td>
+<td> 2
+</td>
+<td> 2
+</td>
+<td> 5
+</td>
+<td> 2
+</td>
+<td> 0
+</td></tr>
+</table>
+<h3><span class="mw-headline" id="Fleet_Storage">Fleet Storage</span></h3>
+<p>The Headquarters is probably one of the best stations to store all of your fleet in. With the ability to store unlimited fighters, 15 Corvettes/Freighters and 10 Capital ships, the Headquarters is probably one of the most fierce hard-points in the game. However, it is also one of the most difficult to obtain.
+</p>
+<h3><span class="mw-headline" id="Freight_Storage">Freight Storage</span></h3>
+<p>The Headquarters also boasts the largest Freight capacity in the game. With the ability to hold <b>500,000</b> units of freight, it can help any player store their armaments or trade items with ease. The headquarters also has a built-in Ware management system that allows players to increase the types of wares possible in the headquarters. Unfortunately, there is no way to get rid of a ware once it has been added without modding.
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.788 seconds
+Real time usage: 0.793 seconds
+Preprocessor visited node count: 44/1000000
+Preprocessor generated node count: 150/1000000
+Post‐expand include size: 1182/2097152 bytes
+Template argument size: 432/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+</div><div class="printfooter">
+Retrieved from "<a href="http://x3wiki.com/index.php?title=Headquarters&amp;oldid=16170">http://x3wiki.com/index.php?title=Headquarters&amp;oldid=16170</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<h2>Navigation menu</h2>
+	<div id="p-cactions" class="portlet" role="navigation">
+		<h3>Views</h3>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/index.php/Headquarters" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/index.php?title=Talk:Headquarters&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit"><a href="/index.php?title=Headquarters&amp;action=edit&amp;oldid=16170" title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				<li id="ca-history"><a href="/index.php?title=Headquarters&amp;action=history" rel="archives" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal" role="navigation">
+		<h3>Personal tools</h3>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="/index.php/User:207.241.237.233" class="new" title="The user page for the IP address you are editing as [.]" accesskey=".">207.241.237.233</a></li>
+				<li id="pt-anontalk"><a href="/index.php/User_talk:207.241.237.233" class="new" title="Discussion about edits from this IP address [n]" accesskey="n">Talk for this IP address</a></li>
+				<li id="pt-createaccount"><a href="/index.php?title=Special:UserLogin&amp;returnto=Headquarters&amp;returntoquery=oldid%3D16170&amp;type=signup">Create account</a></li>
+				<li id="pt-anonlogin"><a href="/index.php?title=Special:UserLogin&amp;returnto=Headquarters&amp;returntoquery=oldid%3D16170" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo" role="banner">
+<a href="/index.php/Main_Page" style="background-image: url(http://www.x3wiki.com/x3.jpg);" title="Visit the main page"></a>
+	</div>
+	<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" rel="nofollow" title="The place to find out">Help</a></li>
+				<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict" role="navigation">
+		<h3>X3 Terran Conflict</h3>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+				<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+				<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+				<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+				<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+				<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+				<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+				<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+				<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+				<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+				<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="generated-sidebar portlet" id="p-Links" role="navigation">
+		<h3>Links</h3>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Buy-X3-Albion-Prelude.21"><a href="http://www.gamersgate.co.uk/DD-X3AP/x3-albion-prelude-expansion-pack?caff=4628051%7C" rel="nofollow">Buy X3 Albion Prelude!</a></li>
+				<li id="n-MMOServerstatus-.5BEN.5D"><a href="http://www.mmoserverstatus.com" rel="nofollow">MMOServerstatus [EN]</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div id="p-search" class="portlet" role="search">
+		<h3><label for="searchInput">Search</label></h3>
+		<div id="searchBody" class="pBody">
+			<form action="/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb" role="navigation">
+		<h3>Tools</h3>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Headquarters" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Headquarters" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/index.php?title=Headquarters&amp;oldid=16170&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/index.php?title=Headquarters&amp;oldid=16170" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/index.php?title=Headquarters&amp;action=info">Page information</a></li>
+			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer" role="contentinfo">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+		<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"],null,true);
+}</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-265105-19");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script>
+<script>if(window.mw){
+mw.loader.state({"site":"ready"});
+}</script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><!-- Served in 0.956 secs. --></body></html>

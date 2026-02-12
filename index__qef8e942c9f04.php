@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>Editing Skiron - X3 Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Skiron","wgTitle":"Skiron","wgCurRevisionId":16530,"wgRevisionId":0,"wgArticleId":609,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Skiron","wgRelevantArticleId":609,"wgRequestId":"Wlgc@1kfZokAAFzT7lcAAAAT","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","wgEditMessage":"editing"});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.edit","mediawiki.toolbar","mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.edit.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<!--[if IE 6]><link rel="stylesheet" href="/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]-->
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Skiron&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/index.php?title=Skiron&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://www.x3wiki.com/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Skiron rootpage-Skiron skin-monobook action-edit">
+<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+									<div id="siteNotice"><!-- centralNotice loads here --></div>
+				<div class="mw-indicators">
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7526491584299412",
+    enable_page_level_ads: true
+  });
+</script>
+
+<!-- X3 wiki -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7526491584299412"
+     data-ad-slot="4173455889"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+				<h1 id="firstHeading" class="firstHeading" lang="en">Editing Skiron</h1>
+				
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From X3 Wiki</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text"><div id="mw-anon-edit-warning" class="warningbox">
+<p><strong>Warning:</strong> You are not logged in. Your IP address will be publicly visible if you make any edits. If you <strong><a class="external text" href="http://www.x3wiki.com/index.php?title=Special:UserLogin&amp;returnto=Skiron">log in</a></strong> or <strong><a class="external text" href="http://www.x3wiki.com/index.php?title=Special:CreateAccount&amp;returnto=Skiron">create an account</a></strong>, your edits will be attributed to your username, along with other benefits.
+</p>
+</div>
+<div id="wikiPreview" class="ontop" style="display: none;"><div lang="en" dir="ltr" class="mw-content-ltr"></div></div><form id="editform" name="editform" method="post" action="/index.php?title=Skiron&amp;action=submit" enctype="multipart/form-data"><div id="antispam-container" style="display: none;"><label for="wpAntispam">Anti-spam check.
+Do <strong>not</strong> fill this in!</label><input type="text" name="wpAntispam" id="wpAntispam" value="" /></div><input type='hidden' value="" name="wpSection"/>
+<input type='hidden' value="20180112022707" name="wpStarttime" />
+<input type='hidden' value="20141104202926" name="wpEdittime" />
+<input type='hidden' value="" name="wpScrolltop" id="wpScrolltop" />
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary"/><input type="hidden" value="0" name="oldid"/><input type="hidden" value="16530" name="parentRevId"/><input type="hidden" value="text/x-wiki" name="format"/><input type="hidden" value="wikitext" name="model"/><div id="toolbar"></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="en" dir="ltr" name="wpTextbox1">{{Infobox open}}
+{{Infobox variant
+|Variant=Skiron
+|Faction=OTAS
+|Class={{M6+class}}
+|Priceblock={{Priceblock|Argon|Federation Guardian 14482401}}
+|Minspeed=74.5
+|Maxspeed=149
+|Minaccel=6
+|Maxaccel=12
+|Minsteer=1.4
+|Maxsteer=2.9
+|Hull=53600 / 214,400 (AP)
+|Maxshield=200 MJ
+|Shieldslots=5
+|Maxshieldstrength=1000
+|Shieldreactor= 2800
+|Cargoclass=XL
+|Mincargo=500
+|Maxcargo=975
+|Lasercap=14500
+|Laserrecharge=435 / 1750 (AP)
+|Gunbay=&lt;table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+&lt;/table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+[[OTAS]]'s offering in the [[M6]] category is a good all-round ship with a tough hide, sharp teeth and long legs. It ranks at the top of the purchasable heavy corvette designs, and like all its OTAS stablemates is an excellent choice of ship.  It is fairly expensive for its class at over 14 million credits per unit.
+
+==Background==
+The Skiron represents a significant advance in OTAS corvette design, with most areas of its capability being enhanced compared to previous moments.
+
+==Physical Characteristics==
+The Skiron is one of the more aesthetically pleasing M6+ Heavy Corvettes. It features a long, thin and streamlined body, presenting a rather small frontal target. Unfortunately due to its cylindrical hull shape, it has a fairly large side, as well as Top/Bottom profile. The Skiron offers an excellent first person view, with the player camera situated conveniently on the nose of the vessel. The Skiron possesses 8 forward firing lasers, 2 rotating turrets located midship, and 1 turret located in the rear of the ship, between 2 of the larger engines.
+
+== Combat ==
+The Skiron's rear point defence turrets offer excellent coverage above and behind the ship, but its underside is horribly vulnerable to enemy fire. This can easily be rectified with sufficient maneuvering. With 1,000 MJ of shielding, this ship is tougher than most other M6+ Heavy Corvettes, and M6 Corvettes, though its hull is on the weak side. It is, however, not invincible. Concentrated fire WILL destroy your ship very quickly. As such, getting into a close range gunfight with heavier capital ships such as the Xenon Q can be very risky. The Skiron also has a worse turn rate than a Mercury freighter; dogfighting with large groups of fighters, particularly the devilishly quick M5s, is not recommended unless you are a skilled and experienced Skiron pilot, or a suicidal maniac. Because of its inherent weakness in the turns, you will often find yourself relying on Missiles to swat fighters from a safe distance. It partially makes up for this by having a very high speed for an M6 with a top speed of just under 150m/s, making it good at intercepting fighters and running away from powerful capital ships; it can outrun most things that it cannot outgun. It possesses a very good laser recharge rate for its class, allowing it to keep up a good barrage of fire, which comes in handy against targets like frigates and other M6 class ships. The Skiron possesses a fairly decent cargobay size and has a wide number of loadout options, allowing it to carry a variety of missiles suitable for most tasks while still having plenty of space to spare for the energy cells needed to fuel a Jumpdrive.
+
+This ship fares better with the more accurate, less energy-draining [[Particle Accelerator Cannon|PAC]] in the turrets than the energy-hungry [[Phased Repeater Gun|PRG]], cargobay-hungry [[Energy Bolt Chaingun|EBC]] or slow and inaccurate [[High Energy Plasma Thrower|HEPT]], as this allows it to score on its enemies without any serious penalty to the weapon energy on the forward batteries.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+*[[Hornet Missile]]
+|
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+*[[Hurricane Missile]]
+|
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Typhoon Missile]]
+*[[Firestorm Torpedo]]
+*[[Aurora Missile]]
+|
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+|
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+== Availability ==
+The Skiron is available from the [[OTAS]] Shipyard in [[Legend's Home]] upon the attainment of sufficient [[Argon]] notoriety, and is also given as an OTAS corporation reward.
+
+== Suggested Roles==
+&lt;nowiki>Pirate Hunting,
+Out of System Patrols,
+
+Freighter Escort,
+
+Sector Scouting,
+
+Missile Platform,
+
+Fleet Resupply Corvette
+
+&lt;/nowiki>
+
+== See Also==
+
+
+{{M6+}}
+</textarea><div class='editOptions'>
+<span class="mw-summary" id="wpSummaryLabel"><label for="wpSummary">Summary:</label></span> <input class="mw-summary" id="wpSummary" maxlength="200" tabindex="1" size="60" spellcheck="true" title="Enter a short summary [b]" accesskey="b" name="wpSummary"/><div class='editCheckboxes'>
+</div>
+<div id="editpage-copywarn">
+<p>Please note that all contributions to X3 Wiki may be edited, altered, or removed by other contributors.
+If you do not want your writing to be edited mercilessly, then do not submit it here.<br />
+You are also promising us that you wrote this yourself, or copied it from a public domain or similar free resource (see <a href="/index.php?title=X3_Wiki:Copyrights&amp;action=edit&amp;redlink=1" class="new" title="X3 Wiki:Copyrights (page does not exist)">X3 Wiki:Copyrights</a> for details).
+<strong>Do not submit copyrighted work without permission!</strong>
+</p>
+</div>
+<div class='editButtons'>
+<p>To protect the wiki against automated edit spam, we kindly ask you to solve the following CAPTCHA:
+</p><div class="g-recaptcha" data-sitekey="6LedtQgUAAAAAHaU6sFesDe5_eX9uvTPkWTi-dB6"></div><noscript>
+  <div>
+    <div style="width: 302px; height: 422px; position: relative;">
+      <div style="width: 302px; height: 422px; position: absolute;">
+        <iframe src="https://www.google.com/recaptcha/api/fallback?k=6LedtQgUAAAAAHaU6sFesDe5_eX9uvTPkWTi-dB6&hl=en"
+                frameborder="0" scrolling="no"
+                style="width: 302px; height:422px; border-style: none;">
+        </iframe>
+      </div>
+    </div>
+    <div style="width: 300px; height: 60px; border-style: none;
+                bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px;
+                background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
+      <textarea id="g-recaptcha-response" name="g-recaptcha-response"
+                class="g-recaptcha-response"
+                style="width: 250px; height: 40px; border: 1px solid #c1c1c1;
+                       margin: 10px 25px; padding: 0px; resize: none;" >
+      </textarea>
+    </div>
+  </div>
+</noscript><input id="wpSave" name="wpSave" tabindex="3" title="Save your changes [s]" accesskey="s" type="submit" value="Save page"/>
+<input id="wpPreview" name="wpPreview" tabindex="4" title="Preview your changes. Please use this before saving. [p]" accesskey="p" type="submit" value="Show preview"/>
+
+<input id="wpDiff" name="wpDiff" tabindex="5" title="Show which changes you made to the text [v]" accesskey="v" type="submit" value="Show changes"/>
+	<span class='cancelLink'><a href="/index.php/Skiron" title="Skiron" id="mw-editform-cancel">Cancel</a><span class="mw-editButtons-pipe-separator"> | </span></span>
+	<span class='editHelp'><a target="helpwindow" href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Editing_pages">Editing help</a> (opens in new window)</span>
+</div><!-- editButtons -->
+</div><!-- editOptions -->
+
+<input type="hidden" value="+\" name="wpEditToken"/>
+<div class="mw-editTools"></div>
+<div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/index.php/Template:Colour/OTAS" title="Template:Colour/OTAS">Template:Colour/OTAS</a> (<a href="/index.php?title=Template:Colour/OTAS&amp;action=edit" title="Template:Colour/OTAS">edit</a>) </li><li><a href="/index.php/Template:Factionshipcat/" title="Template:Factionshipcat/">Template:Factionshipcat/</a> (<a href="/index.php?title=Template:Factionshipcat/&amp;action=edit" title="Template:Factionshipcat/">edit</a>) </li><li><a href="/index.php/Template:Gunicon/0" title="Template:Gunicon/0">Template:Gunicon/0</a> (<a href="/index.php?title=Template:Gunicon/0&amp;action=edit" title="Template:Gunicon/0">view source</a>) (semi-protected)</li><li><a href="/index.php/Template:Gunicon/1" title="Template:Gunicon/1">Template:Gunicon/1</a> (<a href="/index.php?title=Template:Gunicon/1&amp;action=edit" title="Template:Gunicon/1">view source</a>) (semi-protected)</li><li><a href="/index.php/Template:Gunslot" title="Template:Gunslot">Template:Gunslot</a> (<a href="/index.php?title=Template:Gunslot&amp;action=edit" title="Template:Gunslot">view source</a>) (semi-protected)</li><li><a href="/index.php/Template:Infobox_close" title="Template:Infobox close">Template:Infobox close</a> (<a href="/index.php?title=Template:Infobox_close&amp;action=edit" title="Template:Infobox close">view source</a>) (semi-protected)</li><li><a href="/index.php/Template:Infobox_open" title="Template:Infobox open">Template:Infobox open</a> (<a href="/index.php?title=Template:Infobox_open&amp;action=edit" title="Template:Infobox open">view source</a>) (semi-protected)</li><li><a href="/index.php/Template:Infobox_variant" title="Template:Infobox variant">Template:Infobox variant</a> (<a href="/index.php?title=Template:Infobox_variant&amp;action=edit" title="Template:Infobox variant">view source</a>) (semi-protected)</li><li><a href="/index.php/Template:M6%2B" title="Template:M6+">Template:M6+</a> (<a href="/index.php?title=Template:M6%2B&amp;action=edit" title="Template:M6+">edit</a>) </li><li><a href="/index.php/Template:M6%2BTable" title="Template:M6+Table">Template:M6+Table</a> (<a href="/index.php?title=Template:M6%2BTable&amp;action=edit" title="Template:M6+Table">edit</a>) </li><li><a href="/index.php/Template:M6%2Bcategory" title="Template:M6+category">Template:M6+category</a> (<a href="/index.php?title=Template:M6%2Bcategory&amp;action=edit" title="Template:M6+category">edit</a>) </li><li><a href="/index.php/Template:M6%2Bclass" title="Template:M6+class">Template:M6+class</a> (<a href="/index.php?title=Template:M6%2Bclass&amp;action=edit" title="Template:M6+class">edit</a>) </li><li><a href="/index.php/Template:Priceblock" title="Template:Priceblock">Template:Priceblock</a> (<a href="/index.php?title=Template:Priceblock&amp;action=edit" title="Template:Priceblock">edit</a>) </li><li><a href="/index.php/Template:Shipbox" title="Template:Shipbox">Template:Shipbox</a> (<a href="/index.php?title=Template:Shipbox&amp;action=edit" title="Template:Shipbox">edit</a>) </li><li><a href="/index.php/Template:Shipclassbox" title="Template:Shipclassbox">Template:Shipclassbox</a> (<a href="/index.php?title=Template:Shipclassbox&amp;action=edit" title="Template:Shipclassbox">edit</a>) </li></ul></div><div class="hiddencats"><div class="mw-hiddenCategoriesExplanation"><p>This page is a member of 11 hidden categories:
+</p></div><ul>
+<li><a href="/index.php/Category:Concussion_Impulse_Generator" title="Category:Concussion Impulse Generator">Category:Concussion Impulse Generator</a></li>
+<li><a href="/index.php/Category:Energy_Bolt_Chaingun" title="Category:Energy Bolt Chaingun">Category:Energy Bolt Chaingun</a></li>
+<li><a href="/index.php/Category:High_Energy_Plasma_Thrower" title="Category:High Energy Plasma Thrower">Category:High Energy Plasma Thrower</a></li>
+<li><a href="/index.php/Category:Impulse_Ray_Emitter" title="Category:Impulse Ray Emitter">Category:Impulse Ray Emitter</a></li>
+<li><a href="/index.php/Category:Ion_Disruptor" title="Category:Ion Disruptor">Category:Ion Disruptor</a></li>
+<li><a href="/index.php/Category:Ion_Pulse_Generator" title="Category:Ion Pulse Generator">Category:Ion Pulse Generator</a></li>
+<li><a href="/index.php/Category:Mass_Driver" title="Category:Mass Driver">Category:Mass Driver</a></li>
+<li><a href="/index.php/Category:Particle_Accelerator_Cannon" title="Category:Particle Accelerator Cannon">Category:Particle Accelerator Cannon</a></li>
+<li><a href="/index.php/Category:Phased_Repeater_Gun" title="Category:Phased Repeater Gun">Category:Phased Repeater Gun</a></li>
+<li><a href="/index.php/Category:Plasma_Burst_Generator" title="Category:Plasma Burst Generator">Category:Plasma Burst Generator</a></li>
+<li><a href="/index.php/Category:Utility_Slot" title="Category:Utility Slot">Category:Utility Slot</a></li>
+</ul></div><div class="limitreport"></div><input type="hidden" value="1" name="wpUltimateParam"/>
+</form>
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://www.x3wiki.com/index.php/Skiron">http://www.x3wiki.com/index.php/Skiron</a>"</div>
+					<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+			</div>
+		</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/index.php/Skiron" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/index.php?title=Talk:Skiron&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit" class="selected"><a href="/index.php?title=Skiron&amp;action=edit" title="Edit this page">Edit</a></li>
+				<li id="ca-history"><a href="/index.php?title=Skiron&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+						<li id="pt-anonuserpage">Not logged in</li>							<li id="pt-anontalk"><a href="/index.php/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+													<li id="pt-anoncontribs"><a href="/index.php/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+													<li id="pt-createaccount"><a href="/index.php?title=Special:CreateAccount&amp;returnto=Skiron&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Skiron&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/index.php/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+											<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>
+											<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict" role="navigation">
+		<h3>X3 Terran Conflict</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+											<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+											<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+											<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+											<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+											<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+											<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+											<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+											<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+											<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+											<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Links" role="navigation">
+		<h3>Links</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-MMO-Server-Status"><a href="http://www.mmoserverstatus.com">MMO Server Status</a></li>
+											<li id="n-Compare-Everglades-Tours"><a href="http://www.compare-everglades-tours.com">Compare Everglades Tours</a></li>
+											<li id="n-Pokemon-GO-Wiki"><a href="http://www.pokemon-go-wiki.com">Pokemon GO Wiki</a></li>
+											<li id="n-Harry-Potter-Wizards-Unite-Wiki"><a href="http://harrypotterwizardsunite.wiki">Harry Potter Wizards Unite Wiki</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/index.php" id="searchform">
+					<input type='hidden' name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Skiron" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Skiron" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-info"><a href="/index.php?title=Skiron&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+			</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+									<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.action.edit.editWarning","mediawiki.action.edit.stash","mediawiki.action.edit.collapsibleFooter","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.using("mediawiki.toolbar", function () {mw.toolbar.addButton(false,"Bold text","'''","'''","Bold text","mw-editbutton-bold");mw.toolbar.addButton(false,"Italic text","''","''","Italic text","mw-editbutton-italic");mw.toolbar.addButton(false,"Internal link","[[","]]","Link title","mw-editbutton-link");mw.toolbar.addButton(false,"External link (remember http:// prefix)","[","]","http://www.example.com link title","mw-editbutton-extlink");mw.toolbar.addButton(false,"Level 2 headline","\n== "," ==\n","Headline text","mw-editbutton-headline");mw.toolbar.addButton(false,"Embedded file","[[File:","]]","Example.jpg","mw-editbutton-image");mw.toolbar.addButton(false,"File link","[[Media:","]]","Example.ogg","mw-editbutton-media");mw.toolbar.addButton(false,"Ignore wiki formatting","\u003Cnowiki\u003E","\u003C/nowiki\u003E","Insert non-formatted text here","mw-editbutton-nowiki");mw.toolbar.addButton(false,"Horizontal line (use sparingly)","\n----\n","","","mw-editbutton-hr");});});</script><script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-265105-19', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":59});});</script></body></html>

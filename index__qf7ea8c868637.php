@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>Revision history of "Pulsed Beam Emitter" - X3 Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pulsed_Beam_Emitter","wgTitle":"Pulsed Beam Emitter","wgCurRevisionId":11349,"wgRevisionId":0,"wgArticleId":228,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"history","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pulsed_Beam_Emitter","wgRelevantArticleId":228,"wgRequestId":"WN6qBFkfZokAACkOcskAAAAV","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.history","mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.feedlink%2Chelplink%2CsectionAnchor%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<!--[if IE 6]><link rel="stylesheet" href="/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]-->
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Pulsed_Beam_Emitter&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/index.php?title=Pulsed_Beam_Emitter&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://www.x3wiki.com/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="&quot;Pulsed Beam Emitter&quot; Atom feed" href="/index.php?title=Pulsed_Beam_Emitter&amp;feed=atom&amp;action=history"/>
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Pulsed_Beam_Emitter rootpage-Pulsed_Beam_Emitter skin-monobook action-history">
+<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+									<div id="siteNotice"><!-- centralNotice loads here --></div>
+				<div class="mw-indicators">
+<div id="mw-indicator-mw-helplink" class="mw-indicator"><a href="//meta.wikimedia.org/wiki/Special:MyLanguage/Help:Page_history" target="_blank" class="mw-helplink">Help</a></div>
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7526491584299412",
+    enable_page_level_ads: true
+  });
+</script>
+
+<!-- X3 wiki -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7526491584299412"
+     data-ad-slot="4173455889"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+				<h1 id="firstHeading" class="firstHeading" lang="en">Revision history of "Pulsed Beam Emitter"</h1>
+				
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From X3 Wiki</div>
+					<div id="contentSub"><a href="/index.php?title=Special:Log&amp;page=Pulsed+Beam+Emitter" title="Special:Log">View logs for this page</a></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text"><form action="/index.php" method="get" id="mw-history-searchform"><fieldset id="mw-history-search">
+<legend>Browse history</legend>
+<input type="hidden" value="Pulsed_Beam_Emitter" name="title"/>
+<input type="hidden" value="history" name="action"/>
+<label for="year">From year (and earlier):</label> <input id="year" maxlength="4" size="7" type="number" value="2017" name="year"/> <label for="month">From month (and earlier):</label> <select name="month" id="month" class="mw-month-selector"><option value="-1">all</option>
+<option value="1">January</option>
+<option value="2">February</option>
+<option value="3">March</option>
+<option value="4">April</option>
+<option value="5">May</option>
+<option value="6">June</option>
+<option value="7">July</option>
+<option value="8">August</option>
+<option value="9">September</option>
+<option value="10">October</option>
+<option value="11">November</option>
+<option value="12">December</option></select>&#160;<input type="submit" value="Show"/>
+</fieldset></form><div class="mw-history-legend">
+<p>Diff selection: Mark the radio boxes of the revisions to compare and hit enter or the button at the bottom.<br />
+Legend: <strong>(cur)</strong> = difference with latest revision, <strong>(prev)</strong> = difference with preceding revision, <strong>m</strong> = minor edit.
+</p>
+</div>
+<form action="/index.php" id="mw-history-compare">
+<input type="hidden" value="Pulsed_Beam_Emitter" name="title"/>
+<input type="hidden" value="historysubmit" name="action"/>
+<input type="hidden" value="revision" name="type"/>
+<div><input class="historysubmit mw-history-compareselectedversions-button" title="See the differences between the two selected revisions of this page [v]" accesskey="v" type="submit" value="Compare selected revisions"/>
+</div><ul id="pagehistory">
+<li><span class="mw-history-histlinks">(cur | <a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=11349&amp;oldid=8799" title="Pulsed Beam Emitter">prev</a>)</span><input type="radio" value="11349" style="visibility:hidden" name="oldid" id="mw-oldid-null" /><input type="radio" value="11349" checked="checked" name="diff" id="mw-diff-11349" /> <a href="/index.php?title=Pulsed_Beam_Emitter&amp;oldid=11349" title="Pulsed Beam Emitter" class="mw-changeslist-date">20:36, 11 December 2012</a>‎ <span class='history-user'><a href="/index.php/User:Endemantis" title="User:Endemantis" class="mw-userlink">Endemantis</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Endemantis&amp;action=edit&amp;redlink=1" class="new" title="User talk:Endemantis (page does not exist)">talk</a> | <a href="/index.php/Special:Contributions/Endemantis" title="Special:Contributions/Endemantis">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,289 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,289 bytes after change">(+282)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Pulsed_Beam_Emitter#Commentary" title="Pulsed Beam Emitter">→</a>‎<span dir="auto"><span class="autocomment">Commentary</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Pulsed_Beam_Emitter&amp;action=edit&amp;undoafter=8799&amp;undo=11349" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=11349&amp;oldid=8799" title="Pulsed Beam Emitter">cur</a> | <a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=8799&amp;oldid=7103" title="Pulsed Beam Emitter">prev</a>)</span><input type="radio" value="8799" checked="checked" name="oldid" id="mw-oldid-8799" /><input type="radio" value="8799" name="diff" id="mw-diff-8799" /> <a href="/index.php?title=Pulsed_Beam_Emitter&amp;oldid=8799" title="Pulsed Beam Emitter" class="mw-changeslist-date">02:29, 29 February 2012</a>‎ <span class='history-user'><a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></span>‎ <abbr class="minoredit" title="This is a minor edit">m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(3,007 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="3,007 bytes after change">(+18)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Pulsed_Beam_Emitter#Compatible_Ships" title="Pulsed Beam Emitter">→</a>‎<span dir="auto"><span class="autocomment">Compatible Ships: </span> this is why switching xenon (letter) to (letter) sucks</span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Pulsed_Beam_Emitter&amp;action=edit&amp;undoafter=7103&amp;undo=8799" title="Pulsed Beam Emitter">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=11349&amp;oldid=7103" title="Pulsed Beam Emitter">cur</a> | <a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=7103&amp;oldid=7098" title="Pulsed Beam Emitter">prev</a>)</span><input type="radio" value="7103" name="oldid" id="mw-oldid-7103" /><input type="radio" value="7103" name="diff" id="mw-diff-7103" /> <a href="/index.php?title=Pulsed_Beam_Emitter&amp;oldid=7103" title="Pulsed Beam Emitter" class="mw-changeslist-date">06:54, 27 August 2011</a>‎ <span class='history-user'><a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></span>‎ <abbr class="minoredit" title="This is a minor edit">m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,989 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="2,989 bytes after change">(+6)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Pulsed_Beam_Emitter#Compatible_Ships" title="Pulsed Beam Emitter">→</a>‎<span dir="auto"><span class="autocomment">Compatible Ships: </span> fixed the lx link.</span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Pulsed_Beam_Emitter&amp;action=edit&amp;undoafter=7098&amp;undo=7103" title="Pulsed Beam Emitter">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=11349&amp;oldid=7098" title="Pulsed Beam Emitter">cur</a> | <a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=7098&amp;oldid=7087" title="Pulsed Beam Emitter">prev</a>)</span><input type="radio" value="7098" name="oldid" id="mw-oldid-7098" /><input type="radio" value="7098" name="diff" id="mw-diff-7098" /> <a href="/index.php?title=Pulsed_Beam_Emitter&amp;oldid=7098" title="Pulsed Beam Emitter" class="mw-changeslist-date">06:41, 27 August 2011</a>‎ <span class='history-user'><a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></span>‎ <abbr class="minoredit" title="This is a minor edit">m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,983 bytes)</span> <strong dir="ltr" class="mw-plusminus-pos" title="2,983 bytes after change">(+688)</strong>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Pulsed_Beam_Emitter#Commentary" title="Pulsed Beam Emitter">→</a>‎<span dir="auto"><span class="autocomment">Commentary: </span> A really long list of ships.</span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Pulsed_Beam_Emitter&amp;action=edit&amp;undoafter=7087&amp;undo=7098" title="Pulsed Beam Emitter">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=11349&amp;oldid=7087" title="Pulsed Beam Emitter">cur</a> | <a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=7087&amp;oldid=6661" title="Pulsed Beam Emitter">prev</a>)</span><input type="radio" value="7087" name="oldid" id="mw-oldid-7087" /><input type="radio" value="7087" name="diff" id="mw-diff-7087" /> <a href="/index.php?title=Pulsed_Beam_Emitter&amp;oldid=7087" title="Pulsed Beam Emitter" class="mw-changeslist-date">20:01, 23 August 2011</a>‎ <span class='history-user'><a href="/index.php/Special:Contributions/64.102.249.7" title="Special:Contributions/64.102.249.7" class="mw-userlink mw-anonuserlink">64.102.249.7</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:64.102.249.7&amp;action=edit&amp;redlink=1" class="new" title="User talk:64.102.249.7 (page does not exist)">talk</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,295 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="2,295 bytes after change">(+156)</span>‎ <span class="mw-changeslist-separator">. .</span>  (<span class="mw-history-undo"><a href="/index.php?title=Pulsed_Beam_Emitter&amp;action=edit&amp;undoafter=6661&amp;undo=7087" title="Pulsed Beam Emitter">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=11349&amp;oldid=6661" title="Pulsed Beam Emitter">cur</a> | <a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=6661&amp;oldid=3769" title="Pulsed Beam Emitter">prev</a>)</span><input type="radio" value="6661" name="oldid" id="mw-oldid-6661" /><input type="radio" value="6661" name="diff" id="mw-diff-6661" /> <a href="/index.php?title=Pulsed_Beam_Emitter&amp;oldid=6661" title="Pulsed Beam Emitter" class="mw-changeslist-date">00:06, 25 July 2011</a>‎ <span class='history-user'><a href="/index.php/Special:Contributions/81.131.229.255" title="Special:Contributions/81.131.229.255" class="mw-userlink mw-anonuserlink">81.131.229.255</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:81.131.229.255&amp;action=edit&amp;redlink=1" class="new" title="User talk:81.131.229.255 (page does not exist)">talk</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,139 bytes)</span> <span dir="ltr" class="mw-plusminus-neg" title="2,139 bytes after change">(-14)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Pulsed_Beam_Emitter#Known_Compatible_Ships" title="Pulsed Beam Emitter">→</a>‎<span dir="auto"><span class="autocomment">Known Compatible Ships</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Pulsed_Beam_Emitter&amp;action=edit&amp;undoafter=3769&amp;undo=6661" title="Pulsed Beam Emitter">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=11349&amp;oldid=3769" title="Pulsed Beam Emitter">cur</a> | <a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=3769&amp;oldid=2286" title="Pulsed Beam Emitter">prev</a>)</span><input type="radio" value="3769" name="oldid" id="mw-oldid-3769" /><input type="radio" value="3769" name="diff" id="mw-diff-3769" /> <a href="/index.php?title=Pulsed_Beam_Emitter&amp;oldid=3769" title="Pulsed Beam Emitter" class="mw-changeslist-date">22:19, 26 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Spychotic" title="User:Spychotic" class="mw-userlink">Spychotic</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Spychotic" title="User talk:Spychotic">talk</a> | <a href="/index.php/Special:Contributions/Spychotic" title="Special:Contributions/Spychotic">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,153 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="2,153 bytes after change">(+2)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Pulsed_Beam_Emitter#Commentary" title="Pulsed Beam Emitter">→</a>‎<span dir="auto"><span class="autocomment">Commentary</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Pulsed_Beam_Emitter&amp;action=edit&amp;undoafter=2286&amp;undo=3769" title="Pulsed Beam Emitter">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=11349&amp;oldid=2286" title="Pulsed Beam Emitter">cur</a> | <a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=2286&amp;oldid=2283" title="Pulsed Beam Emitter">prev</a>)</span><input type="radio" value="2286" name="oldid" id="mw-oldid-2286" /><input type="radio" value="2286" name="diff" id="mw-diff-2286" /> <a href="/index.php?title=Pulsed_Beam_Emitter&amp;oldid=2286" title="Pulsed Beam Emitter" class="mw-changeslist-date">23:07, 6 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Spychotic" title="User:Spychotic" class="mw-userlink">Spychotic</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Spychotic" title="User talk:Spychotic">talk</a> | <a href="/index.php/Special:Contributions/Spychotic" title="Special:Contributions/Spychotic">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(2,151 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="2,151 bytes after change">(+230)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Pulsed_Beam_Emitter#Overview" title="Pulsed Beam Emitter">→</a>‎<span dir="auto"><span class="autocomment">Overview: </span>  New shorter section</span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Pulsed_Beam_Emitter&amp;action=edit&amp;undoafter=2283&amp;undo=2286" title="Pulsed Beam Emitter">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=11349&amp;oldid=2283" title="Pulsed Beam Emitter">cur</a> | <a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=2283&amp;oldid=2279" title="Pulsed Beam Emitter">prev</a>)</span><input type="radio" value="2283" name="oldid" id="mw-oldid-2283" /><input type="radio" value="2283" name="diff" id="mw-diff-2283" /> <a href="/index.php?title=Pulsed_Beam_Emitter&amp;oldid=2283" title="Pulsed Beam Emitter" class="mw-changeslist-date">23:05, 6 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Spychotic" title="User:Spychotic" class="mw-userlink">Spychotic</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Spychotic" title="User talk:Spychotic">talk</a> | <a href="/index.php/Special:Contributions/Spychotic" title="Special:Contributions/Spychotic">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(1,921 bytes)</span> <strong dir="ltr" class="mw-plusminus-pos" title="1,921 bytes after change">(+742)</strong>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Pulsed_Beam_Emitter#Commentary" title="Pulsed Beam Emitter">→</a>‎<span dir="auto"><span class="autocomment">Commentary: </span>  Amalgamated long overview section into this one.</span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Pulsed_Beam_Emitter&amp;action=edit&amp;undoafter=2279&amp;undo=2283" title="Pulsed Beam Emitter">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=11349&amp;oldid=2279" title="Pulsed Beam Emitter">cur</a> | <a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=2279&amp;oldid=2062" title="Pulsed Beam Emitter">prev</a>)</span><input type="radio" value="2279" name="oldid" id="mw-oldid-2279" /><input type="radio" value="2279" name="diff" id="mw-diff-2279" /> <a href="/index.php?title=Pulsed_Beam_Emitter&amp;oldid=2279" title="Pulsed Beam Emitter" class="mw-changeslist-date">23:04, 6 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Spychotic" title="User:Spychotic" class="mw-userlink">Spychotic</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Spychotic" title="User talk:Spychotic">talk</a> | <a href="/index.php/Special:Contributions/Spychotic" title="Special:Contributions/Spychotic">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(1,179 bytes)</span> <strong dir="ltr" class="mw-plusminus-neg" title="1,179 bytes after change">(-722)</strong>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Pulsed_Beam_Emitter#Overview" title="Pulsed Beam Emitter">→</a>‎<span dir="auto"><span class="autocomment">Overview</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Pulsed_Beam_Emitter&amp;action=edit&amp;undoafter=2062&amp;undo=2279" title="Pulsed Beam Emitter">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=11349&amp;oldid=2062" title="Pulsed Beam Emitter">cur</a> | <a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=2062&amp;oldid=2055" title="Pulsed Beam Emitter">prev</a>)</span><input type="radio" value="2062" name="oldid" id="mw-oldid-2062" /><input type="radio" value="2062" name="diff" id="mw-diff-2062" /> <a href="/index.php?title=Pulsed_Beam_Emitter&amp;oldid=2062" title="Pulsed Beam Emitter" class="mw-changeslist-date">20:00, 5 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></span>‎ <abbr class="minoredit" title="This is a minor edit">m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(1,901 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="1,901 bytes after change">(+8)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Pulsed_Beam_Emitter#Commentary" title="Pulsed Beam Emitter">→</a>‎<span dir="auto"><span class="autocomment">Commentary: </span> link xenon n, welp need to go make that page now :o</span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Pulsed_Beam_Emitter&amp;action=edit&amp;undoafter=2055&amp;undo=2062" title="Pulsed Beam Emitter">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=11349&amp;oldid=2055" title="Pulsed Beam Emitter">cur</a> | <a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=2055&amp;oldid=1515" title="Pulsed Beam Emitter">prev</a>)</span><input type="radio" value="2055" name="oldid" id="mw-oldid-2055" /><input type="radio" value="2055" name="diff" id="mw-diff-2055" /> <a href="/index.php?title=Pulsed_Beam_Emitter&amp;oldid=2055" title="Pulsed Beam Emitter" class="mw-changeslist-date">18:59, 5 October 2010</a>‎ <span class='history-user'><a href="/index.php/User:Master_of_the_Blade" title="User:Master of the Blade" class="mw-userlink">Master of the Blade</a> <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Master_of_the_Blade&amp;action=edit&amp;redlink=1" class="new" title="User talk:Master of the Blade (page does not exist)">talk</a> | <a href="/index.php/Special:Contributions/Master_of_the_Blade" title="Special:Contributions/Master of the Blade">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(1,893 bytes)</span> <strong dir="ltr" class="mw-plusminus-pos" title="1,893 bytes after change">(+524)</strong>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(<a href="/index.php/Pulsed_Beam_Emitter#Commentary" title="Pulsed Beam Emitter">→</a>‎<span dir="auto"><span class="autocomment">Commentary</span></span>)</span> (<span class="mw-history-undo"><a href="/index.php?title=Pulsed_Beam_Emitter&amp;action=edit&amp;undoafter=1515&amp;undo=2055" title="Pulsed Beam Emitter">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=11349&amp;oldid=1515" title="Pulsed Beam Emitter">cur</a> | <a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=1515&amp;oldid=901" title="Pulsed Beam Emitter">prev</a>)</span><input type="radio" value="1515" name="oldid" id="mw-oldid-1515" /><input type="radio" value="1515" name="diff" id="mw-diff-1515" /> <a href="/index.php?title=Pulsed_Beam_Emitter&amp;oldid=1515" title="Pulsed Beam Emitter" class="mw-changeslist-date">23:30, 24 September 2010</a>‎ <span class='history-user'><a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></span>‎ <abbr class="minoredit" title="This is a minor edit">m</abbr> <span class="mw-changeslist-separator">. .</span> <span class="history-size">(1,369 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="1,369 bytes after change">(+2)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(heh, 977 km seems a little long for such a short ranged weapon :P)</span> (<span class="mw-history-undo"><a href="/index.php?title=Pulsed_Beam_Emitter&amp;action=edit&amp;undoafter=901&amp;undo=1515" title="Pulsed Beam Emitter">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=11349&amp;oldid=901" title="Pulsed Beam Emitter">cur</a> | <a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=901&amp;oldid=656" title="Pulsed Beam Emitter">prev</a>)</span><input type="radio" value="901" name="oldid" id="mw-oldid-901" /><input type="radio" value="901" name="diff" id="mw-diff-901" /> <a href="/index.php?title=Pulsed_Beam_Emitter&amp;oldid=901" title="Pulsed Beam Emitter" class="mw-changeslist-date">19:12, 31 July 2010</a>‎ <span class='history-user'><a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(1,367 bytes)</span> <span dir="ltr" class="mw-plusminus-pos" title="1,367 bytes after change">(+277)</span>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(encyclopedia data fill)</span> (<span class="mw-history-undo"><a href="/index.php?title=Pulsed_Beam_Emitter&amp;action=edit&amp;undoafter=656&amp;undo=901" title="Pulsed Beam Emitter">undo</a></span>)</li>
+<li><span class="mw-history-histlinks">(<a href="/index.php?title=Pulsed_Beam_Emitter&amp;diff=11349&amp;oldid=656" title="Pulsed Beam Emitter">cur</a> | prev)</span><input type="radio" value="656" name="oldid" id="mw-oldid-656" /><input type="radio" value="656" name="diff" id="mw-diff-656" /> <a href="/index.php?title=Pulsed_Beam_Emitter&amp;oldid=656" title="Pulsed Beam Emitter" class="mw-changeslist-date">23:57, 1 July 2010</a>‎ <span class='history-user'><a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a> <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></span>‎ <span class="mw-changeslist-separator">. .</span> <span class="history-size">(1,090 bytes)</span> <strong dir="ltr" class="mw-plusminus-pos" title="1,090 bytes after change">(+1,090)</strong>‎ <span class="mw-changeslist-separator">. .</span>  <span class="comment">(restore from cache)</span></li>
+</ul>
+<div><input class="historysubmit mw-history-compareselectedversions-button" title="See the differences between the two selected revisions of this page [v]" accesskey="v" type="submit" value="Compare selected revisions"/>
+</div></form></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://www.x3wiki.com/index.php/Pulsed_Beam_Emitter">http://www.x3wiki.com/index.php/Pulsed_Beam_Emitter</a>"</div>
+					<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+			</div>
+		</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/index.php/Pulsed_Beam_Emitter" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/index.php?title=Talk:Pulsed_Beam_Emitter&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit"><a href="/index.php?title=Pulsed_Beam_Emitter&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+				<li id="ca-history" class="selected"><a href="/index.php?title=Pulsed_Beam_Emitter&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+						<li id="pt-anonuserpage">Not logged in</li>							<li id="pt-anontalk"><a href="/index.php/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+													<li id="pt-anoncontribs"><a href="/index.php/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+													<li id="pt-createaccount"><a href="/index.php?title=Special:CreateAccount&amp;returnto=Pulsed+Beam+Emitter&amp;returntoquery=action%3Dhistory" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Pulsed+Beam+Emitter&amp;returntoquery=action%3Dhistory" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/index.php/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+											<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>
+											<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict" role="navigation">
+		<h3>X3 Terran Conflict</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+											<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+											<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+											<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+											<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+											<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+											<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+											<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+											<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+											<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+											<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Links" role="navigation">
+		<h3>Links</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-MMO-Server-Status"><a href="http://www.mmoserverstatus.com">MMO Server Status</a></li>
+											<li id="n-Compare-Everglades-Tours"><a href="http://www.compare-everglades-tours.com">Compare Everglades Tours</a></li>
+											<li id="n-Pokemon-GO-Wiki"><a href="http://www.pokemon-go-wiki.com">Pokemon GO Wiki</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/index.php" id="searchform">
+					<input type='hidden' name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Pulsed_Beam_Emitter" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Pulsed_Beam_Emitter" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="feedlinks"><a href="/index.php?title=Pulsed_Beam_Emitter&amp;feed=atom&amp;action=history" id="feed-atom" rel="alternate" type="application/atom+xml" class="feedlink" title="Atom feed for this page">Atom</a></li>
+											<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-info"><a href="/index.php?title=Pulsed_Beam_Emitter&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+			</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+									<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-265105-19', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":59});});</script></body></html>

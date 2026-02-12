@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>Hatikvah's Faith - X3 Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hatikvah's_Faith","wgTitle":"Hatikvah's Faith","wgCurRevisionId":15457,"wgRevisionId":15457,"wgArticleId":913,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Sectors","Pirate"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hatikvah's_Faith","wgRelevantArticleId":913,"wgRequestId":"WTCEv1kfZokAAEN0Y3wAAAAQ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;printable=1&amp;skin=monobook"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;printable=1&amp;skin=monobook"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<meta name="robots" content="noindex,follow"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Hatikvah%27s_Faith&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/index.php?title=Hatikvah%27s_Faith&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://x3wiki.com/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Hatikvah_s_Faith rootpage-Hatikvah_s_Faith skin-monobook action-view">
+<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+									<div id="siteNotice"><!-- centralNotice loads here --></div>
+				<div class="mw-indicators">
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7526491584299412",
+    enable_page_level_ads: true
+  });
+</script>
+
+<!-- X3 wiki -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7526491584299412"
+     data-ad-slot="4173455889"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+				<h1 id="firstHeading" class="firstHeading" lang="en">Hatikvah's Faith</h1>
+				
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From X3 Wiki</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table style="background-color: WhiteSmoke; text-align:left; padding: 0 em 0.25em; border: 1px solid DarkGray; float: right; margin-left: 1em;">
+<tr>
+<th style="text-align:center;background-color:#B3B3B3;" colspan="2">Sector Information
+</th></tr>
+<tr>
+<th> <a href="/index.php/Races" title="Races">Race</a>
+</th>
+<td> <a href="/index.php/Pirate" title="Pirate" class="mw-redirect"> Pirate </a>
+</td></tr>
+<tr>
+<th> <a href="/index.php/Sector_Security" title="Sector Security">Security Level</a>
+</th>
+<td> Border
+</td></tr>
+<tr>
+<th> Population
+</th>
+<td> 4,142,839
+</td></tr>
+<tr>
+<th> Planets
+</th>
+<td> 3
+</td></tr>
+<tr>
+<th> Sun Strength
+</th>
+<td> 150<b>%</b>
+</td></tr>
+<tr>
+<th> Sector Size
+</th>
+<td> 70 <b>km</b>
+</td></tr>
+<tr>
+<th style="text-align:center;background-color:#B3B3B3;" colspan="2">Gates
+</th></tr>
+<tr>
+<td colspan="2"><table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+<tr><th style="text-align:left">North</th><td>0 <b>m</b></td><td>0 <b>m</b></td><td>35,280 <b>m</b></td><td style="text-align:left"><a href="/index.php/Thuruk%27s_Beard" title="Thuruk's Beard">Thuruk's Beard</a></td></tr>
+<tr><th style="text-align:left">East</th><td>35,280 <b>m</b></td><td>0 <b>m</b></td><td>0 <b>m</b></td><td style="text-align:left"><a href="/index.php/Aladna_Hill" title="Aladna Hill">Aladna Hill</a></td></tr>
+<tr><th style="text-align:left">South</th><td>0 <b>m</b></td><td>0 <b>m</b></td><td>-35,000 <b>m</b></td><td style="text-align:left"><a href="/index.php/Clarity%27s_End" title="Clarity's End">Clarity's End</a></td></tr>
+<tr><th style="text-align:left">West</th><td>-35,280 <b>m</b></td><td>0 <b>m</b></td><td>0 <b>m</b></td><td style="text-align:left"><a href="/index.php/Nopileos%27_Memorial" title="Nopileos' Memorial">Nopileos' Memorial</a></td></tr>
+</table>
+</td></tr>
+<tr>
+<td style="text-align:center;background-color:#B3B3B3;" colspan="2"><a href="/index.php/Universe_map#X_Universe" title="Universe map">Universe Map</a>
+</td></tr></table>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Commentary"><span class="tocnumber">2</span> <span class="toctext">Commentary</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Default_Stations"><span class="tocnumber">3</span> <span class="toctext">Default Stations</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Asteroids"><span class="tocnumber">4</span> <span class="toctext">Asteroids</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span></h2>
+<p>After the <a href="/index.php/Xenon_Conflict" title="Xenon Conflict">Xenon Conflict</a>, this system was abandoned. When retreating <a href="/index.php/Xenon" title="Xenon">Xenon</a> completely destroyed a neighboring system by forcing its twin suns to go nova, the colonies and factories of this system were eradicated. It is the home to many refugees of the last Xenon war and the other minor wars that came before it. The people here begin to build new lives and homes while they mourn their past and hope for their future.
+</p>
+<h2><span class="mw-headline" id="Commentary">Commentary</span></h2>
+<p>Hatikvah's Faith is a very busy sector for traders and, despite its pirate allegiance, is actually very safe. Due to the large numbers of escorted freighters and a military patrol typically stationed near one or more gates, aggressive pirates don't last very long in this sector. Even better, those military patrols happen to turn a blind eye to aggressive players, giving you an excellent opportunity to personally fill in the piracy gap. Better yet, there are at least three <i>friendly</i> <a href="/index.php/Shipyards" title="Shipyards" class="mw-redirect">Shipyards</a> and <a href="/index.php/Equipment_Dock" title="Equipment Dock">Equipment Docks</a> (four, if you consider the Xenon friendly) within three jumps, giving you plenty of variety for where to fence your newly acquired <a href="/index.php/Capping" title="Capping" class="mw-redirect">ships</a> and cargo. There are even a pair of <a href="/index.php/Ownerless_ships" title="Ownerless ships">freebies</a> nearby, in case you needed some help setting up shop.
+</p><p>Though, be aware. There is a Xenon sector nearby.
+</p>
+<h2><span class="mw-headline" id="Default_Stations">Default <a href="/index.php/Stations" title="Stations">Stations</a></span></h2>
+<h2><span class="mw-headline" id="Asteroids"><a href="/index.php/Asteroids" title="Asteroids">Asteroids</a></span></h2>
+<table style="text-align:right;" class="wikitable sortable" cellpadding="3">
+<tr>
+<th colspan="2" style="text-align:center;"> Asteroid
+</th>
+<th colspan="3" style="text-align:center;"> Coordinates (m)
+</th></tr>
+<tr>
+<th style="text-align:center;" width="100px"> Ware<br />
+</th>
+<th style="text-align:center;" width="80px"> Yield<br />
+</th>
+<th style="text-align:center;" width="60px"> x<br />
+</th>
+<th style="text-align:center;" width="60px"> y<br />
+</th>
+<th style="text-align:center;" width="60px"> z<br />
+</th></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Ore" title="Ore">Ore</a>
+</td>
+<td style="text-align:center;"> 44
+</td>
+<td>  8376
+</td>
+<td>  1308
+</td>
+<td>  4304
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Ore" title="Ore">Ore</a>
+</td>
+<td style="text-align:center;"> 32
+</td>
+<td>  -13118
+</td>
+<td>  1270
+</td>
+<td>  -7502
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Ore" title="Ore">Ore</a>
+</td>
+<td style="text-align:center;"> 25
+</td>
+<td>  -13435
+</td>
+<td>  -5897
+</td>
+<td>  19065
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Ore" title="Ore">Ore</a>
+</td>
+<td style="text-align:center;"> 21
+</td>
+<td>  -15659
+</td>
+<td>  -1873
+</td>
+<td>  5042
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Ore" title="Ore">Ore</a>
+</td>
+<td style="text-align:center;"> 20
+</td>
+<td>  5631
+</td>
+<td>  -870
+</td>
+<td>  21497
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Ore" title="Ore">Ore</a>
+</td>
+<td style="text-align:center;"> 20
+</td>
+<td>  5631
+</td>
+<td>  -870
+</td>
+<td>  21497
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Ore" title="Ore">Ore</a>
+</td>
+<td style="text-align:center;"> 20
+</td>
+<td>  295
+</td>
+<td>  -3214
+</td>
+<td>  4275
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Ore" title="Ore">Ore</a>
+</td>
+<td style="text-align:center;"> 20
+</td>
+<td>  295
+</td>
+<td>  -3214
+</td>
+<td>  4275
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Ore" title="Ore">Ore</a>
+</td>
+<td style="text-align:center;"> 18
+</td>
+<td>  -17149
+</td>
+<td>  7135
+</td>
+<td>  11809
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Ore" title="Ore">Ore</a>
+</td>
+<td style="text-align:center;"> 13
+</td>
+<td>  -5688
+</td>
+<td>  -3028
+</td>
+<td>  0
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Ore" title="Ore">Ore</a>
+</td>
+<td style="text-align:center;"> 11
+</td>
+<td>  -16993
+</td>
+<td>  6950
+</td>
+<td>  -2460
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Ore" title="Ore">Ore</a>
+</td>
+<td style="text-align:center;"> 7
+</td>
+<td>  -8455
+</td>
+<td>  -2722
+</td>
+<td>  8364
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a>
+</td>
+<td style="text-align:center;"> 26
+</td>
+<td>  -2112
+</td>
+<td>  6614
+</td>
+<td>  -16511
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a>
+</td>
+<td style="text-align:center;"> 26
+</td>
+<td>  -411
+</td>
+<td>  -2733
+</td>
+<td>  -19559
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a>
+</td>
+<td style="text-align:center;"> 13
+</td>
+<td>  7743
+</td>
+<td>  6453
+</td>
+<td>  -13532
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a>
+</td>
+<td style="text-align:center;"> 13
+</td>
+<td>  6479
+</td>
+<td>  1784
+</td>
+<td>  -19559
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a>
+</td>
+<td style="text-align:center;"> 6
+</td>
+<td>  6479
+</td>
+<td>  -3286
+</td>
+<td>  -9716
+</td></tr>
+<tr>
+<td style="text-align:left;"> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a>
+</td>
+<td style="text-align:center;"> 6
+</td>
+<td>  8088
+</td>
+<td>  -5997
+</td>
+<td>  -17127
+</td></tr></table>
+<p><br />
+</p>
+<table width="auto" style="text-align:center; border-width:1px; border-style:solid; border-color:lightgrey;">
+<tr>
+<th colspan="3" style="background-color:#B3B3B3;"> <a href="/index.php/Pirate" title="Pirate" class="mw-redirect">Pirate</a> Navigation
+</th></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> Core <a href="/index.php/Sectors" title="Sectors">Sectors</a>
+</th>
+<td> No sector known with Core security
+</td></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> <a href="/index.php/Sector_Security" title="Sector Security">Border</a> Sectors
+</th>
+<td style="background-color: #EEEEEE;"> <a href="/index.php/Acquisition_Repository" title="Acquisition Repository">Acquisition Repository</a> | <a href="/index.php/Bala_Gi%27s_Joy" title="Bala Gi's Joy">Bala Gi's Joy</a> | <a href="/index.php/Brennan%27s_Triumph" title="Brennan's Triumph">Brennan's Triumph</a> | <a href="/index.php/Danna%27s_Chance" title="Danna's Chance">Danna's Chance</a> | <a href="/index.php/Desecrated_Skies" title="Desecrated Skies">Desecrated Skies</a> |  <a href="/index.php/Farnham%27s_Legend" title="Farnham's Legend">Farnham's Legend</a> | <a href="/index.php/Gaian_Star" title="Gaian Star">Gaian Star</a> | <a href="/index.php/Gunne%27s_Crusade" title="Gunne's Crusade">Gunne's Crusade</a> | <strong class="selflink">Hatikvah's Faith</strong> | <a href="/index.php/LooManckStrat%27s_Legacy" title="LooManckStrat's Legacy">LooManckStrat's Legacy</a> | <a href="/index.php/Maelstrom" title="Maelstrom">Maelstrom</a> | <a href="/index.php/Mi_Ton%27s_Refuge" title="Mi Ton's Refuge">Mi Ton's Refuge</a> | <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a> | <a href="/index.php/Nopileos%27_Memorial" title="Nopileos' Memorial">Nopileos' Memorial</a> | <a href="/index.php/Olmancketslat%27s_Treaty" title="Olmancketslat's Treaty">Olmancketslat's Treaty</a> | <a href="/index.php/Spaceweed_Grove" title="Spaceweed Grove">Spaceweed Grove</a> | <a href="/index.php/Split_Fire" title="Split Fire">Split Fire</a> | <a href="/index.php/Unknown_Sector_(10,16)" title="Unknown Sector (10,16)">Unknown Sector (10,16)</a> | <a href="/index.php/Veil_of_Delusion" title="Veil of Delusion">Veil of Delusion</a> | <a href="/index.php/Vestibule_of_Creation" title="Vestibule of Creation">Vestibule of Creation</a> | <a href="/index.php/Void_of_Opportunity" title="Void of Opportunity">Void of Opportunity</a>
+</td></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> <a href="/index.php/Category:Capital_Ships" title="Category:Capital Ships">Capital Ships</a>
+</th>
+<td> <b><a href="/index.php/M1" title="M1">M1</a>:</b> None |  <b><a href="/index.php/M2" title="M2">M2</a>:</b> <a href="/index.php/Brigantine" title="Brigantine">Brigantine</a> | <b><a href="/index.php/M2%2B" title="M2+">M2+</a>:</b> None | <b><a href="/index.php/M7" title="M7">M7</a>:</b> <a href="/index.php/Carrack" title="Carrack">Carrack</a> | <b><a href="/index.php/M7C" title="M7C">M7C</a>:</b> None | <b><a href="/index.php/M7M" title="M7M">M7M</a>:</b> None
+</td></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> <a href="/index.php/Category:Fighters" title="Category:Fighters">Fighters</a>
+</th>
+<td style="background-color: #EEEEEE;"> <b><a href="/index.php/M3" title="M3">M3</a>:</b> <a href="/index.php/Blastclaw" title="Blastclaw">Blastclaw</a> | <b><a href="/index.php/M3%2B" title="M3+">M3+</a>:</b> None | <b><a href="/index.php/M4" title="M4">M4</a>:</b> None | <b><a href="/index.php/M4%2B" title="M4+">M4+</a>:</b> None | <b><a href="/index.php/M5" title="M5">M5</a>:</b> <a href="/index.php/Pirate_Harrier" title="Pirate Harrier">Harrier</a>
+</td></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> <a href="/index.php/Category:Escort" title="Category:Escort">Escort Ships</a>
+</th>
+<td> <b><a href="/index.php/M6" title="M6">M6</a>:</b> None | <b><a href="/index.php/M6%2B" title="M6+">M6+</a>:</b> None | <b><a href="/index.php/M8" title="M8">M8</a>:</b> None
+</td></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> <a href="/index.php/Category:Transport" title="Category:Transport">Transports</a>
+</th>
+<td style="background-color: #EEEEEE;"> <b><a href="/index.php/TL" title="TL">TL</a>:</b> None | <b><a href="/index.php/TM" title="TM">TM</a>:</b> <a href="/index.php/Caravel" title="Caravel">Caravel</a> | <b><a href="/index.php/TP" title="TP">TP</a>:</b> None | <b><a href="/index.php/TS" title="TS">TS</a>:</b> None | <b><a href="/index.php/TS%2B" title="TS+">TS+</a>:</b> None
+</td></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> Racial <a href="/index.php/Wares" title="Wares">Wares</a>
+</th>
+<td style="background-color: #EEEEEE;"> <a href="/index.php/Slaves" title="Slaves">Slaves</a>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20170601154527
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.038 seconds
+Real time usage: 0.040 seconds
+Preprocessor visited node count: 341/1000000
+Preprocessor generated node count: 1592/1000000
+Post‐expand include size: 6446/2097152 bytes
+Template argument size: 1348/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   17.243      1 - -total
+ 34.73%    5.988      1 - Template:Infobox_Sector
+ 28.47%    4.908     18 - Template:Asteroid/Item
+ 16.12%    2.779      4 - Template:Gateblock2
+  9.81%    1.692      1 - Template:Pirates_Navbox
+  7.59%    1.309      1 - Template:Asteroid/End
+  6.18%    1.065      1 - Template:Asteroid/Begin
+  5.56%    0.958      4 - Template:Colour/Pirate
+-->
+
+<!-- Saved in parser cache with key dailystunt_wiki:pcache:idhash:913-0!*!0!!en!*!* and timestamp 20170601154527 and revision id 15457
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://x3wiki.com/index.php?title=Hatikvah%27s_Faith&amp;oldid=15457">http://x3wiki.com/index.php?title=Hatikvah%27s_Faith&amp;oldid=15457</a>"</div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/index.php/Category:Sectors" title="Category:Sectors">Sectors</a></li><li><a href="/index.php/Category:Pirate" title="Category:Pirate">Pirate</a></li></ul></div></div>					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+			</div>
+		</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/index.php/Hatikvah%27s_Faith" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/index.php?title=Talk:Hatikvah%27s_Faith&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit"><a href="/index.php?title=Hatikvah%27s_Faith&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+				<li id="ca-history"><a href="/index.php?title=Hatikvah%27s_Faith&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+						<li id="pt-anonuserpage">Not logged in</li>							<li id="pt-anontalk"><a href="/index.php/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+													<li id="pt-anoncontribs"><a href="/index.php/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+													<li id="pt-createaccount"><a href="/index.php?title=Special:CreateAccount&amp;returnto=Hatikvah%27s+Faith&amp;returntoquery=printable%3Dyes" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Hatikvah%27s+Faith&amp;returntoquery=printable%3Dyes" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/index.php/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+											<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>
+											<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict" role="navigation">
+		<h3>X3 Terran Conflict</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+											<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+											<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+											<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+											<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+											<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+											<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+											<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+											<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+											<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+											<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Links" role="navigation">
+		<h3>Links</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-MMO-Server-Status"><a href="http://www.mmoserverstatus.com">MMO Server Status</a></li>
+											<li id="n-Compare-Everglades-Tours"><a href="http://www.compare-everglades-tours.com">Compare Everglades Tours</a></li>
+											<li id="n-Pokemon-GO-Wiki"><a href="http://www.pokemon-go-wiki.com">Pokemon GO Wiki</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/index.php" id="searchform">
+					<input type='hidden' name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Hatikvah%27s_Faith" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Hatikvah%27s_Faith" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-permalink"><a href="/index.php?title=Hatikvah%27s_Faith&amp;oldid=15457" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/index.php?title=Hatikvah%27s_Faith&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+			</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last modified on 3 March 2014, at 15:48.</li>
+									<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+									<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-265105-19', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":54});});</script></body></html>

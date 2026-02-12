@@ -1,0 +1,982 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Eclipse - X3 Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.6" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Eclipse&amp;action=edit" />
+<link rel="edit" title="Edit" href="/index.php?title=Eclipse&amp;action=edit" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://x3wiki.com/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://x3wiki.com/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.monobook&amp;only=styles&amp;skin=monobook&amp;*" />
+<!--[if IE 6]><link rel="stylesheet" href="/skins/monobook/IE60Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/skins/monobook/IE70Fixes.css?303" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: dailystunt_wiki:resourceloader:filter:minify-css:7:bcf2b4205b52540e110d3a777baf7453 */</style>
+
+<script src="http://x3wiki.com/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Eclipse","wgTitle":"Eclipse","wgCurRevisionId":13655,"wgRevisionId":13655,"wgArticleId":198,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Argon ships","Impulse Ray Emitter","Particle Accelerator Cannon","High Energy Plasma Thrower","Mass Driver","Phased Repeater Gun","Ion Disruptor","Plasma Burst Generator","Energy Bolt Chaingun","Pirate ships","Fragmentation Bomb Launcher","M3+","Fighters","Argon"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Eclipse","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"monobook","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0
+,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: dailystunt_wiki:resourceloader:filter:minify-js:7:68471340157e99d9e2eb390b7623161a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Eclipse skin-monobook action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" class="mw-body-primary" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- centralNotice loads here --></div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- X3 wiki -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7526491584299412"
+     data-ad-slot="4173455889"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+	<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Eclipse</span></h1>
+	<div id="bodyContent" class="mw-body">
+		<div id="siteSub">From X3 Wiki</div>
+		<div id="contentSub"><div id="mw-revision-info">Revision as of 08:38, 9 September 2013 by <a href="/index.php/User:Korlus" title="User:Korlus" class="mw-userlink">Korlus</a>  <span class="mw-usertoollinks">(<a href="/index.php?title=User_talk:Korlus&amp;action=edit&amp;redlink=1" class="new" title="User talk:Korlus (page does not exist)">Talk</a> | <a href="/index.php/Special:Contributions/Korlus" title="Special:Contributions/Korlus">contribs</a>)</span></div><br />
+				<div id="mw-revision-nav">(<a href="/index.php?title=Eclipse&amp;diff=prev&amp;oldid=13655" title="Eclipse">diff</a>) <a href="/index.php?title=Eclipse&amp;direction=prev&amp;oldid=13655" title="Eclipse">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div></div>
+		<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table style="background-color: transparent; text-align: left; border: 0px; float: right; margin-left: 5px;">
+
+<tr><td style="padding-bottom:5px;"><table cellspacing="5" style="background-color:WhiteSmoke;border-width:1px;border-style:solid;border-color:DarkGray;">
+<tr style="background-color:#3195E3; text-align:center;"><th colspan="2">Argon Eclipse</th></tr>
+<tr><th>Class</th><td><a href="/index.php/M3%2B" title="M3+">M3+ Heavy Fighter</a></td></tr>
+<tr><td colspan="2"><table style="background-color: WhiteSmoke; text-align: right;width:100%;">
+<tr><th>Buy:</th><td><a href="/index.php/Reputation#Trusted_Ally" title="Reputation">Trusted Ally <b>@</b></a></td><td>6,044,362 <a href="/index.php/Credits" title="Credits">Cr</a></td></tr>
+</table></td></tr>
+<tr><th>Speed (Min-Max)</th><td>52 - 130 <a href="/index.php/Physics#speed" title="Physics">m/s</a></td></tr>
+<tr><th>Acceleration (Min-Max)</th><td>8 - 22 <a href="/index.php/Physics#acceleration" title="Physics">m/s<sup>2</sup></a></td></tr>
+<tr><th>Steering (Min-Max)</th><td>20.31 - 50.78 <a href="/index.php/Physics#RPM" title="Physics">RPM</a></td></tr>
+<tr><th>Hull Strength</th><td>12,500</td></tr>
+<tr><th>Max. Shield (Total)</th><td>1 <a href="/index.php/Shields#200_MJ" title="Shields">x 200 MJ</a> (200 <a href="/index.php/Physics#energy" title="Physics">MJ</a>)</td></tr>
+<tr><th><a href="/index.php/Shield_Reactor" title="Shield Reactor" class="mw-redirect">Shield Reactor</a></th><td>1,250 <a href="/index.php/Physics#power" title="Physics">MW</a></td></tr>
+<tr><th><a href="/index.php/Cargo_Class" title="Cargo Class">Cargo Class</a> (Min-Max)</th><td>120 - 320 <a href="/index.php/Cargo_Class" title="Cargo Class"><b>@</b> L</a></td></tr>
+<tr><th>Laser Capacitor</th><td>8,000 <a href="/index.php/Physics#energy" title="Physics">MJ</a></td></tr>
+<tr><th>Laser Recharge</th><td>200 <a href="/index.php/Physics#power" title="Physics">MW</a></td></tr>
+<tr><td colspan="2"><table cellspacing="0" cellpadding="0">
+<tr style="height:0.4em;font-size:0.79em;">
+<td style="background-color: #181818; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Impulse Ray Emitter"><a href="/index.php/Impulse_Ray_Emitter" title="Impulse Ray Emitter">&#160;&#160;</a></td>
+<td style="background-color: #303030; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Particle Accelerator Cannon"><a href="/index.php/Particle_Accelerator_Cannon" title="Particle Accelerator Cannon">&#160;&#160;</a></td>
+<td style="background-color: #505050; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="High Energy Plasma Thrower"><a href="/index.php/High_Energy_Plasma_Thrower" title="High Energy Plasma Thrower">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Concussion Impulse Generator"><a href="/index.php/Concussion_Impulse_Generator" title="Concussion Impulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Photon Pulse Cannon"><a href="/index.php/Photon_Pulse_Cannon" title="Photon Pulse Cannon">&#160;&#160;</a></td>
+<td style="background-color: #B0B0B0; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Mass Driver"><a href="/index.php/Mass_Driver" title="Mass Driver">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Utility Slot"><a href="/index.php/Utility_Slot" title="Utility Slot">&#160;&#160;</a></td>
+<td style="background-color: #9E9E0A; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Phased Repeater Gun"><a href="/index.php/Phased_Repeater_Gun" title="Phased Repeater Gun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Cluster Flak Array"><a href="/index.php/Cluster_Flak_Array" title="Cluster Flak Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Plasma Beam Cannon"><a href="/index.php/Plasma_Beam_Cannon" title="Plasma Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: #01478E; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Ion Disruptor"><a href="/index.php/Ion_Disruptor" title="Ion Disruptor">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Pulse Generator"><a href="/index.php/Ion_Pulse_Generator" title="Ion Pulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Cannon"><a href="/index.php/Ion_Cannon" title="Ion Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Fragmentation Bomb Launcher"><a href="/index.php/Fragmentation_Bomb_Launcher" title="Fragmentation Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Shockwave Generator"><a href="/index.php/Phased_Shockwave_Generator" title="Phased Shockwave Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Tri-Beam Cannon"><a href="/index.php/Tri-Beam_Cannon" title="Tri-Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Energy Bolt Chaingun"><a href="/index.php/Energy_Bolt_Chaingun" title="Energy Bolt Chaingun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Flak Artillery Array"><a href="/index.php/Flak_Artillery_Array" title="Flak Artillery Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gauss Cannon"><a href="/index.php/Gauss_Cannon" title="Gauss Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Pulsed Beam Emitter"><a href="/index.php/Pulsed_Beam_Emitter" title="Pulsed Beam Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Shard Railgun"><a href="/index.php/Ion_Shard_Railgun" title="Ion Shard Railgun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Array Laser Cannon"><a href="/index.php/Phased_Array_Laser_Cannon" title="Phased Array Laser Cannon">&#160;&#160;</a></td>
+<td style="background-color: #890101; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Plasma Burst Generator"><a href="/index.php/Plasma_Burst_Generator" title="Plasma Burst Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Incendiary Bomb Launcher"><a href="/index.php/Incendiary_Bomb_Launcher" title="Incendiary Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Electro-Magnetic Plasma Cannon"><a href="/index.php/Electro-Magnetic_Plasma_Cannon" title="Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Matter/Anti-Matter Launcher"><a href="/index.php/Matter/Anti-Matter_Launcher" title="Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Starburst Shockwave Cannon"><a href="/index.php/Starburst_Shockwave_Cannon" title="Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Point Singularity Projector"><a href="/index.php/Point_Singularity_Projector" title="Point Singularity Projector">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Fusion Beam Cannon"><a href="/index.php/Fusion_Beam_Cannon" title="Fusion Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Alpha Kyon Emitter"><a href="/index.php/Alpha_Kyon_Emitter" title="Alpha Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Beta Kyon Emitter"><a href="/index.php/Beta_Kyon_Emitter" title="Beta Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gamma Kyon Emitter"><a href="/index.php/Gamma_Kyon_Emitter" title="Gamma Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Experimental Electro-Magnetic Plasma Cannon"><a href="/index.php/Experimental_Electro-Magnetic_Plasma_Cannon" title="Experimental Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Matter/Anti-Matter Launcher"><a href="/index.php/Prototype_Matter/Anti-Matter_Launcher" title="Prototype Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Starburst Shockwave Cannon"><a href="/index.php/Prototype_Starburst_Shockwave_Cannon" title="Prototype Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td>Main x 8</td></tr>
+<tr style="height:0.4em;font-size:0.79em;">
+<td style="background-color: #181818; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Impulse Ray Emitter"><a href="/index.php/Impulse_Ray_Emitter" title="Impulse Ray Emitter">&#160;&#160;</a></td>
+<td style="background-color: #303030; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Particle Accelerator Cannon"><a href="/index.php/Particle_Accelerator_Cannon" title="Particle Accelerator Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="High Energy Plasma Thrower"><a href="/index.php/High_Energy_Plasma_Thrower" title="High Energy Plasma Thrower">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Concussion Impulse Generator"><a href="/index.php/Concussion_Impulse_Generator" title="Concussion Impulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Photon Pulse Cannon"><a href="/index.php/Photon_Pulse_Cannon" title="Photon Pulse Cannon">&#160;&#160;</a></td>
+<td style="background-color: #B0B0B0; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Mass Driver"><a href="/index.php/Mass_Driver" title="Mass Driver">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Utility Slot"><a href="/index.php/Utility_Slot" title="Utility Slot">&#160;&#160;</a></td>
+<td style="background-color: #9E9E0A; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Phased Repeater Gun"><a href="/index.php/Phased_Repeater_Gun" title="Phased Repeater Gun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Cluster Flak Array"><a href="/index.php/Cluster_Flak_Array" title="Cluster Flak Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Plasma Beam Cannon"><a href="/index.php/Plasma_Beam_Cannon" title="Plasma Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Disruptor"><a href="/index.php/Ion_Disruptor" title="Ion Disruptor">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Pulse Generator"><a href="/index.php/Ion_Pulse_Generator" title="Ion Pulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Cannon"><a href="/index.php/Ion_Cannon" title="Ion Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Fragmentation Bomb Launcher"><a href="/index.php/Fragmentation_Bomb_Launcher" title="Fragmentation Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Shockwave Generator"><a href="/index.php/Phased_Shockwave_Generator" title="Phased Shockwave Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Tri-Beam Cannon"><a href="/index.php/Tri-Beam_Cannon" title="Tri-Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Energy Bolt Chaingun"><a href="/index.php/Energy_Bolt_Chaingun" title="Energy Bolt Chaingun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Flak Artillery Array"><a href="/index.php/Flak_Artillery_Array" title="Flak Artillery Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gauss Cannon"><a href="/index.php/Gauss_Cannon" title="Gauss Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Pulsed Beam Emitter"><a href="/index.php/Pulsed_Beam_Emitter" title="Pulsed Beam Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Shard Railgun"><a href="/index.php/Ion_Shard_Railgun" title="Ion Shard Railgun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Array Laser Cannon"><a href="/index.php/Phased_Array_Laser_Cannon" title="Phased Array Laser Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Plasma Burst Generator"><a href="/index.php/Plasma_Burst_Generator" title="Plasma Burst Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Incendiary Bomb Launcher"><a href="/index.php/Incendiary_Bomb_Launcher" title="Incendiary Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Electro-Magnetic Plasma Cannon"><a href="/index.php/Electro-Magnetic_Plasma_Cannon" title="Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Matter/Anti-Matter Launcher"><a href="/index.php/Matter/Anti-Matter_Launcher" title="Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Starburst Shockwave Cannon"><a href="/index.php/Starburst_Shockwave_Cannon" title="Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Point Singularity Projector"><a href="/index.php/Point_Singularity_Projector" title="Point Singularity Projector">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Fusion Beam Cannon"><a href="/index.php/Fusion_Beam_Cannon" title="Fusion Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Alpha Kyon Emitter"><a href="/index.php/Alpha_Kyon_Emitter" title="Alpha Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Beta Kyon Emitter"><a href="/index.php/Beta_Kyon_Emitter" title="Beta Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gamma Kyon Emitter"><a href="/index.php/Gamma_Kyon_Emitter" title="Gamma Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Experimental Electro-Magnetic Plasma Cannon"><a href="/index.php/Experimental_Electro-Magnetic_Plasma_Cannon" title="Experimental Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Matter/Anti-Matter Launcher"><a href="/index.php/Prototype_Matter/Anti-Matter_Launcher" title="Prototype Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Starburst Shockwave Cannon"><a href="/index.php/Prototype_Starburst_Shockwave_Cannon" title="Prototype Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td>Front x 1</td></tr>
+<tr style="height:0.4em;font-size:0.79em;">
+<td style="background-color: #181818; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Impulse Ray Emitter"><a href="/index.php/Impulse_Ray_Emitter" title="Impulse Ray Emitter">&#160;&#160;</a></td>
+<td style="background-color: #303030; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Particle Accelerator Cannon"><a href="/index.php/Particle_Accelerator_Cannon" title="Particle Accelerator Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="High Energy Plasma Thrower"><a href="/index.php/High_Energy_Plasma_Thrower" title="High Energy Plasma Thrower">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Concussion Impulse Generator"><a href="/index.php/Concussion_Impulse_Generator" title="Concussion Impulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Photon Pulse Cannon"><a href="/index.php/Photon_Pulse_Cannon" title="Photon Pulse Cannon">&#160;&#160;</a></td>
+<td style="background-color: #B0B0B0; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Mass Driver"><a href="/index.php/Mass_Driver" title="Mass Driver">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Utility Slot"><a href="/index.php/Utility_Slot" title="Utility Slot">&#160;&#160;</a></td>
+<td style="background-color: #9E9E0A; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Phased Repeater Gun"><a href="/index.php/Phased_Repeater_Gun" title="Phased Repeater Gun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Cluster Flak Array"><a href="/index.php/Cluster_Flak_Array" title="Cluster Flak Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Plasma Beam Cannon"><a href="/index.php/Plasma_Beam_Cannon" title="Plasma Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Disruptor"><a href="/index.php/Ion_Disruptor" title="Ion Disruptor">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Pulse Generator"><a href="/index.php/Ion_Pulse_Generator" title="Ion Pulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Cannon"><a href="/index.php/Ion_Cannon" title="Ion Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Fragmentation Bomb Launcher"><a href="/index.php/Fragmentation_Bomb_Launcher" title="Fragmentation Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Shockwave Generator"><a href="/index.php/Phased_Shockwave_Generator" title="Phased Shockwave Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Tri-Beam Cannon"><a href="/index.php/Tri-Beam_Cannon" title="Tri-Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Energy Bolt Chaingun"><a href="/index.php/Energy_Bolt_Chaingun" title="Energy Bolt Chaingun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Flak Artillery Array"><a href="/index.php/Flak_Artillery_Array" title="Flak Artillery Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gauss Cannon"><a href="/index.php/Gauss_Cannon" title="Gauss Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Pulsed Beam Emitter"><a href="/index.php/Pulsed_Beam_Emitter" title="Pulsed Beam Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Shard Railgun"><a href="/index.php/Ion_Shard_Railgun" title="Ion Shard Railgun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Array Laser Cannon"><a href="/index.php/Phased_Array_Laser_Cannon" title="Phased Array Laser Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Plasma Burst Generator"><a href="/index.php/Plasma_Burst_Generator" title="Plasma Burst Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Incendiary Bomb Launcher"><a href="/index.php/Incendiary_Bomb_Launcher" title="Incendiary Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Electro-Magnetic Plasma Cannon"><a href="/index.php/Electro-Magnetic_Plasma_Cannon" title="Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Matter/Anti-Matter Launcher"><a href="/index.php/Matter/Anti-Matter_Launcher" title="Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Starburst Shockwave Cannon"><a href="/index.php/Starburst_Shockwave_Cannon" title="Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Point Singularity Projector"><a href="/index.php/Point_Singularity_Projector" title="Point Singularity Projector">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Fusion Beam Cannon"><a href="/index.php/Fusion_Beam_Cannon" title="Fusion Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Alpha Kyon Emitter"><a href="/index.php/Alpha_Kyon_Emitter" title="Alpha Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Beta Kyon Emitter"><a href="/index.php/Beta_Kyon_Emitter" title="Beta Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gamma Kyon Emitter"><a href="/index.php/Gamma_Kyon_Emitter" title="Gamma Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Experimental Electro-Magnetic Plasma Cannon"><a href="/index.php/Experimental_Electro-Magnetic_Plasma_Cannon" title="Experimental Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Matter/Anti-Matter Launcher"><a href="/index.php/Prototype_Matter/Anti-Matter_Launcher" title="Prototype Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Starburst Shockwave Cannon"><a href="/index.php/Prototype_Starburst_Shockwave_Cannon" title="Prototype Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td>Rear x 1</td></tr>
+</table></td></tr>
+<tr><td colspan="2"></td></tr>
+</table></td></tr>
+<tr><td style="padding-bottom:5px;"><table cellspacing="5" style="background-color:WhiteSmoke;border-width:1px;border-style:solid;border-color:DarkGray;">
+<tr style="background-color:#3195E3; text-align:center;"><th colspan="2">Argon Eclipse Prototype</th></tr>
+<tr><th>Class</th><td><a href="/index.php/M3%2B" title="M3+">M3+ Heavy Fighter</a></td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><th>Speed (Min-Max)</th><td>48 - 120 <a href="/index.php/Physics#speed" title="Physics">m/s</a></td></tr>
+<tr><th>Acceleration (Min-Max)</th><td>9 - 23 <a href="/index.php/Physics#acceleration" title="Physics">m/s<sup>2</sup></a></td></tr>
+<tr><th>Steering (Min-Max)</th><td>16.9 - 42.2 <a href="/index.php/Physics#RPM" title="Physics">RPM</a></td></tr>
+<tr><th>Hull Strength</th><td>9,375 / 30,000 (AP)</td></tr>
+<tr><th>Max. Shield (Total)</th><td>5 <a href="/index.php/Shields#25_MJ" title="Shields">x 25 MJ</a> (125 <a href="/index.php/Physics#energy" title="Physics">MJ</a>)</td></tr>
+<tr><th><a href="/index.php/Shield_Reactor" title="Shield Reactor" class="mw-redirect">Shield Reactor</a></th><td>1,500 <a href="/index.php/Physics#power" title="Physics">MW</a></td></tr>
+<tr><th><a href="/index.php/Cargo_Class" title="Cargo Class">Cargo Class</a> (Min-Max)</th><td>120 - 285 / 350 (AP) <a href="/index.php/Cargo_Class" title="Cargo Class"><b>@</b> L</a></td></tr>
+<tr><th>Laser Capacitor</th><td>8,500 <a href="/index.php/Physics#energy" title="Physics">MJ</a></td></tr>
+<tr><th>Laser Recharge</th><td>205 <a href="/index.php/Physics#power" title="Physics">MW</a></td></tr>
+<tr><td colspan="2"><table cellspacing="0" cellpadding="0">
+<tr style="height:0.4em;font-size:0.79em;">
+<td style="background-color: #181818; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Impulse Ray Emitter"><a href="/index.php/Impulse_Ray_Emitter" title="Impulse Ray Emitter">&#160;&#160;</a></td>
+<td style="background-color: #303030; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Particle Accelerator Cannon"><a href="/index.php/Particle_Accelerator_Cannon" title="Particle Accelerator Cannon">&#160;&#160;</a></td>
+<td style="background-color: #505050; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="High Energy Plasma Thrower"><a href="/index.php/High_Energy_Plasma_Thrower" title="High Energy Plasma Thrower">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Concussion Impulse Generator"><a href="/index.php/Concussion_Impulse_Generator" title="Concussion Impulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Photon Pulse Cannon"><a href="/index.php/Photon_Pulse_Cannon" title="Photon Pulse Cannon">&#160;&#160;</a></td>
+<td style="background-color: #B0B0B0; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Mass Driver"><a href="/index.php/Mass_Driver" title="Mass Driver">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Utility Slot"><a href="/index.php/Utility_Slot" title="Utility Slot">&#160;&#160;</a></td>
+<td style="background-color: #9E9E0A; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Phased Repeater Gun"><a href="/index.php/Phased_Repeater_Gun" title="Phased Repeater Gun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Cluster Flak Array"><a href="/index.php/Cluster_Flak_Array" title="Cluster Flak Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Plasma Beam Cannon"><a href="/index.php/Plasma_Beam_Cannon" title="Plasma Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: #01478E; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Ion Disruptor"><a href="/index.php/Ion_Disruptor" title="Ion Disruptor">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Pulse Generator"><a href="/index.php/Ion_Pulse_Generator" title="Ion Pulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Cannon"><a href="/index.php/Ion_Cannon" title="Ion Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Fragmentation Bomb Launcher"><a href="/index.php/Fragmentation_Bomb_Launcher" title="Fragmentation Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Shockwave Generator"><a href="/index.php/Phased_Shockwave_Generator" title="Phased Shockwave Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Tri-Beam Cannon"><a href="/index.php/Tri-Beam_Cannon" title="Tri-Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: #187718; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Energy Bolt Chaingun"><a href="/index.php/Energy_Bolt_Chaingun" title="Energy Bolt Chaingun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Flak Artillery Array"><a href="/index.php/Flak_Artillery_Array" title="Flak Artillery Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gauss Cannon"><a href="/index.php/Gauss_Cannon" title="Gauss Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Pulsed Beam Emitter"><a href="/index.php/Pulsed_Beam_Emitter" title="Pulsed Beam Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Shard Railgun"><a href="/index.php/Ion_Shard_Railgun" title="Ion Shard Railgun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Array Laser Cannon"><a href="/index.php/Phased_Array_Laser_Cannon" title="Phased Array Laser Cannon">&#160;&#160;</a></td>
+<td style="background-color: #890101; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Plasma Burst Generator"><a href="/index.php/Plasma_Burst_Generator" title="Plasma Burst Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Incendiary Bomb Launcher"><a href="/index.php/Incendiary_Bomb_Launcher" title="Incendiary Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Electro-Magnetic Plasma Cannon"><a href="/index.php/Electro-Magnetic_Plasma_Cannon" title="Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Matter/Anti-Matter Launcher"><a href="/index.php/Matter/Anti-Matter_Launcher" title="Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Starburst Shockwave Cannon"><a href="/index.php/Starburst_Shockwave_Cannon" title="Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Point Singularity Projector"><a href="/index.php/Point_Singularity_Projector" title="Point Singularity Projector">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Fusion Beam Cannon"><a href="/index.php/Fusion_Beam_Cannon" title="Fusion Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Alpha Kyon Emitter"><a href="/index.php/Alpha_Kyon_Emitter" title="Alpha Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Beta Kyon Emitter"><a href="/index.php/Beta_Kyon_Emitter" title="Beta Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gamma Kyon Emitter"><a href="/index.php/Gamma_Kyon_Emitter" title="Gamma Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Experimental Electro-Magnetic Plasma Cannon"><a href="/index.php/Experimental_Electro-Magnetic_Plasma_Cannon" title="Experimental Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Matter/Anti-Matter Launcher"><a href="/index.php/Prototype_Matter/Anti-Matter_Launcher" title="Prototype Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Starburst Shockwave Cannon"><a href="/index.php/Prototype_Starburst_Shockwave_Cannon" title="Prototype Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td>Main x 8</td></tr>
+<tr style="height:0.4em;font-size:0.79em;">
+<td style="background-color: #181818; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Impulse Ray Emitter"><a href="/index.php/Impulse_Ray_Emitter" title="Impulse Ray Emitter">&#160;&#160;</a></td>
+<td style="background-color: #303030; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Particle Accelerator Cannon"><a href="/index.php/Particle_Accelerator_Cannon" title="Particle Accelerator Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="High Energy Plasma Thrower"><a href="/index.php/High_Energy_Plasma_Thrower" title="High Energy Plasma Thrower">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Concussion Impulse Generator"><a href="/index.php/Concussion_Impulse_Generator" title="Concussion Impulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Photon Pulse Cannon"><a href="/index.php/Photon_Pulse_Cannon" title="Photon Pulse Cannon">&#160;&#160;</a></td>
+<td style="background-color: #B0B0B0; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Mass Driver"><a href="/index.php/Mass_Driver" title="Mass Driver">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Utility Slot"><a href="/index.php/Utility_Slot" title="Utility Slot">&#160;&#160;</a></td>
+<td style="background-color: #9E9E0A; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Phased Repeater Gun"><a href="/index.php/Phased_Repeater_Gun" title="Phased Repeater Gun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Cluster Flak Array"><a href="/index.php/Cluster_Flak_Array" title="Cluster Flak Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Plasma Beam Cannon"><a href="/index.php/Plasma_Beam_Cannon" title="Plasma Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Disruptor"><a href="/index.php/Ion_Disruptor" title="Ion Disruptor">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Pulse Generator"><a href="/index.php/Ion_Pulse_Generator" title="Ion Pulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Cannon"><a href="/index.php/Ion_Cannon" title="Ion Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Fragmentation Bomb Launcher"><a href="/index.php/Fragmentation_Bomb_Launcher" title="Fragmentation Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Shockwave Generator"><a href="/index.php/Phased_Shockwave_Generator" title="Phased Shockwave Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Tri-Beam Cannon"><a href="/index.php/Tri-Beam_Cannon" title="Tri-Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Energy Bolt Chaingun"><a href="/index.php/Energy_Bolt_Chaingun" title="Energy Bolt Chaingun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Flak Artillery Array"><a href="/index.php/Flak_Artillery_Array" title="Flak Artillery Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gauss Cannon"><a href="/index.php/Gauss_Cannon" title="Gauss Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Pulsed Beam Emitter"><a href="/index.php/Pulsed_Beam_Emitter" title="Pulsed Beam Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Shard Railgun"><a href="/index.php/Ion_Shard_Railgun" title="Ion Shard Railgun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Array Laser Cannon"><a href="/index.php/Phased_Array_Laser_Cannon" title="Phased Array Laser Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Plasma Burst Generator"><a href="/index.php/Plasma_Burst_Generator" title="Plasma Burst Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Incendiary Bomb Launcher"><a href="/index.php/Incendiary_Bomb_Launcher" title="Incendiary Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Electro-Magnetic Plasma Cannon"><a href="/index.php/Electro-Magnetic_Plasma_Cannon" title="Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Matter/Anti-Matter Launcher"><a href="/index.php/Matter/Anti-Matter_Launcher" title="Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Starburst Shockwave Cannon"><a href="/index.php/Starburst_Shockwave_Cannon" title="Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Point Singularity Projector"><a href="/index.php/Point_Singularity_Projector" title="Point Singularity Projector">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Fusion Beam Cannon"><a href="/index.php/Fusion_Beam_Cannon" title="Fusion Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Alpha Kyon Emitter"><a href="/index.php/Alpha_Kyon_Emitter" title="Alpha Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Beta Kyon Emitter"><a href="/index.php/Beta_Kyon_Emitter" title="Beta Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gamma Kyon Emitter"><a href="/index.php/Gamma_Kyon_Emitter" title="Gamma Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Experimental Electro-Magnetic Plasma Cannon"><a href="/index.php/Experimental_Electro-Magnetic_Plasma_Cannon" title="Experimental Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Matter/Anti-Matter Launcher"><a href="/index.php/Prototype_Matter/Anti-Matter_Launcher" title="Prototype Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Starburst Shockwave Cannon"><a href="/index.php/Prototype_Starburst_Shockwave_Cannon" title="Prototype Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td>Front x 1</td></tr>
+<tr style="height:0.4em;font-size:0.79em;">
+<td style="background-color: #181818; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Impulse Ray Emitter"><a href="/index.php/Impulse_Ray_Emitter" title="Impulse Ray Emitter">&#160;&#160;</a></td>
+<td style="background-color: #303030; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Particle Accelerator Cannon"><a href="/index.php/Particle_Accelerator_Cannon" title="Particle Accelerator Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="High Energy Plasma Thrower"><a href="/index.php/High_Energy_Plasma_Thrower" title="High Energy Plasma Thrower">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Concussion Impulse Generator"><a href="/index.php/Concussion_Impulse_Generator" title="Concussion Impulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Photon Pulse Cannon"><a href="/index.php/Photon_Pulse_Cannon" title="Photon Pulse Cannon">&#160;&#160;</a></td>
+<td style="background-color: #B0B0B0; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Mass Driver"><a href="/index.php/Mass_Driver" title="Mass Driver">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Utility Slot"><a href="/index.php/Utility_Slot" title="Utility Slot">&#160;&#160;</a></td>
+<td style="background-color: #9E9E0A; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Phased Repeater Gun"><a href="/index.php/Phased_Repeater_Gun" title="Phased Repeater Gun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Cluster Flak Array"><a href="/index.php/Cluster_Flak_Array" title="Cluster Flak Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Plasma Beam Cannon"><a href="/index.php/Plasma_Beam_Cannon" title="Plasma Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Disruptor"><a href="/index.php/Ion_Disruptor" title="Ion Disruptor">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Pulse Generator"><a href="/index.php/Ion_Pulse_Generator" title="Ion Pulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Cannon"><a href="/index.php/Ion_Cannon" title="Ion Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Fragmentation Bomb Launcher"><a href="/index.php/Fragmentation_Bomb_Launcher" title="Fragmentation Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Shockwave Generator"><a href="/index.php/Phased_Shockwave_Generator" title="Phased Shockwave Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Tri-Beam Cannon"><a href="/index.php/Tri-Beam_Cannon" title="Tri-Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Energy Bolt Chaingun"><a href="/index.php/Energy_Bolt_Chaingun" title="Energy Bolt Chaingun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Flak Artillery Array"><a href="/index.php/Flak_Artillery_Array" title="Flak Artillery Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gauss Cannon"><a href="/index.php/Gauss_Cannon" title="Gauss Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Pulsed Beam Emitter"><a href="/index.php/Pulsed_Beam_Emitter" title="Pulsed Beam Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Shard Railgun"><a href="/index.php/Ion_Shard_Railgun" title="Ion Shard Railgun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Array Laser Cannon"><a href="/index.php/Phased_Array_Laser_Cannon" title="Phased Array Laser Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Plasma Burst Generator"><a href="/index.php/Plasma_Burst_Generator" title="Plasma Burst Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Incendiary Bomb Launcher"><a href="/index.php/Incendiary_Bomb_Launcher" title="Incendiary Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Electro-Magnetic Plasma Cannon"><a href="/index.php/Electro-Magnetic_Plasma_Cannon" title="Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Matter/Anti-Matter Launcher"><a href="/index.php/Matter/Anti-Matter_Launcher" title="Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Starburst Shockwave Cannon"><a href="/index.php/Starburst_Shockwave_Cannon" title="Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Point Singularity Projector"><a href="/index.php/Point_Singularity_Projector" title="Point Singularity Projector">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Fusion Beam Cannon"><a href="/index.php/Fusion_Beam_Cannon" title="Fusion Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Alpha Kyon Emitter"><a href="/index.php/Alpha_Kyon_Emitter" title="Alpha Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Beta Kyon Emitter"><a href="/index.php/Beta_Kyon_Emitter" title="Beta Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gamma Kyon Emitter"><a href="/index.php/Gamma_Kyon_Emitter" title="Gamma Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Experimental Electro-Magnetic Plasma Cannon"><a href="/index.php/Experimental_Electro-Magnetic_Plasma_Cannon" title="Experimental Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Matter/Anti-Matter Launcher"><a href="/index.php/Prototype_Matter/Anti-Matter_Launcher" title="Prototype Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Starburst Shockwave Cannon"><a href="/index.php/Prototype_Starburst_Shockwave_Cannon" title="Prototype Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td>Rear x 1</td></tr>
+</table></td></tr>
+<tr><td colspan="2"></td></tr>
+</table></td></tr>
+<tr><td style="padding-bottom:5px;"><table cellspacing="5" style="background-color:WhiteSmoke;border-width:1px;border-style:solid;border-color:DarkGray;">
+<tr style="background-color:#B3B3B3; text-align:center;"><th colspan="2">Pirate Eclipse</th></tr>
+<tr><th>Class</th><td><a href="/index.php/M3%2B" title="M3+">M3+ Heavy Fighter</a></td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><th>Speed (Min-Max)</th><td>50 - 140 <a href="/index.php/Physics#speed" title="Physics">m/s</a></td></tr>
+<tr><th>Acceleration (Min-Max)</th><td>10 - 30 <a href="/index.php/Physics#acceleration" title="Physics">m/s<sup>2</sup></a></td></tr>
+<tr><th>Steering (Min-Max)</th><td>21.3 - 53.2 <a href="/index.php/Physics#RPM" title="Physics">RPM</a></td></tr>
+<tr><th>Hull Strength</th><td>9,375</td></tr>
+<tr><th>Max. Shield (Total)</th><td>3 <a href="/index.php/Shields#25_MJ" title="Shields">x 25 MJ</a> (75 <a href="/index.php/Physics#energy" title="Physics">MJ</a>)</td></tr>
+<tr><th><a href="/index.php/Shield_Reactor" title="Shield Reactor" class="mw-redirect">Shield Reactor</a></th><td>800 <a href="/index.php/Physics#power" title="Physics">MW</a></td></tr>
+<tr><th><a href="/index.php/Cargo_Class" title="Cargo Class">Cargo Class</a> (Min-Max)</th><td>120 - 285 <a href="/index.php/Cargo_Class" title="Cargo Class"><b>@</b> L</a></td></tr>
+<tr><th>Laser Capacitor</th><td>7,800 <a href="/index.php/Physics#energy" title="Physics">MJ</a></td></tr>
+<tr><th>Laser Recharge</th><td>195 <a href="/index.php/Physics#power" title="Physics">MW</a></td></tr>
+<tr><td colspan="2"><table cellspacing="0" cellpadding="0">
+<tr style="height:0.4em;font-size:0.79em;">
+<td style="background-color: #181818; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Impulse Ray Emitter"><a href="/index.php/Impulse_Ray_Emitter" title="Impulse Ray Emitter">&#160;&#160;</a></td>
+<td style="background-color: #303030; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Particle Accelerator Cannon"><a href="/index.php/Particle_Accelerator_Cannon" title="Particle Accelerator Cannon">&#160;&#160;</a></td>
+<td style="background-color: #505050; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="High Energy Plasma Thrower"><a href="/index.php/High_Energy_Plasma_Thrower" title="High Energy Plasma Thrower">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Concussion Impulse Generator"><a href="/index.php/Concussion_Impulse_Generator" title="Concussion Impulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Photon Pulse Cannon"><a href="/index.php/Photon_Pulse_Cannon" title="Photon Pulse Cannon">&#160;&#160;</a></td>
+<td style="background-color: #B0B0B0; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Mass Driver"><a href="/index.php/Mass_Driver" title="Mass Driver">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Utility Slot"><a href="/index.php/Utility_Slot" title="Utility Slot">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Repeater Gun"><a href="/index.php/Phased_Repeater_Gun" title="Phased Repeater Gun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Cluster Flak Array"><a href="/index.php/Cluster_Flak_Array" title="Cluster Flak Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Plasma Beam Cannon"><a href="/index.php/Plasma_Beam_Cannon" title="Plasma Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Disruptor"><a href="/index.php/Ion_Disruptor" title="Ion Disruptor">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Pulse Generator"><a href="/index.php/Ion_Pulse_Generator" title="Ion Pulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Cannon"><a href="/index.php/Ion_Cannon" title="Ion Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Fragmentation Bomb Launcher"><a href="/index.php/Fragmentation_Bomb_Launcher" title="Fragmentation Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Shockwave Generator"><a href="/index.php/Phased_Shockwave_Generator" title="Phased Shockwave Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Tri-Beam Cannon"><a href="/index.php/Tri-Beam_Cannon" title="Tri-Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: #187718; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Energy Bolt Chaingun"><a href="/index.php/Energy_Bolt_Chaingun" title="Energy Bolt Chaingun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Flak Artillery Array"><a href="/index.php/Flak_Artillery_Array" title="Flak Artillery Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gauss Cannon"><a href="/index.php/Gauss_Cannon" title="Gauss Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Pulsed Beam Emitter"><a href="/index.php/Pulsed_Beam_Emitter" title="Pulsed Beam Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Shard Railgun"><a href="/index.php/Ion_Shard_Railgun" title="Ion Shard Railgun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Array Laser Cannon"><a href="/index.php/Phased_Array_Laser_Cannon" title="Phased Array Laser Cannon">&#160;&#160;</a></td>
+<td style="background-color: #890101; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Plasma Burst Generator"><a href="/index.php/Plasma_Burst_Generator" title="Plasma Burst Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Incendiary Bomb Launcher"><a href="/index.php/Incendiary_Bomb_Launcher" title="Incendiary Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Electro-Magnetic Plasma Cannon"><a href="/index.php/Electro-Magnetic_Plasma_Cannon" title="Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Matter/Anti-Matter Launcher"><a href="/index.php/Matter/Anti-Matter_Launcher" title="Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Starburst Shockwave Cannon"><a href="/index.php/Starburst_Shockwave_Cannon" title="Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Point Singularity Projector"><a href="/index.php/Point_Singularity_Projector" title="Point Singularity Projector">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Fusion Beam Cannon"><a href="/index.php/Fusion_Beam_Cannon" title="Fusion Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Alpha Kyon Emitter"><a href="/index.php/Alpha_Kyon_Emitter" title="Alpha Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Beta Kyon Emitter"><a href="/index.php/Beta_Kyon_Emitter" title="Beta Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gamma Kyon Emitter"><a href="/index.php/Gamma_Kyon_Emitter" title="Gamma Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Experimental Electro-Magnetic Plasma Cannon"><a href="/index.php/Experimental_Electro-Magnetic_Plasma_Cannon" title="Experimental Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Matter/Anti-Matter Launcher"><a href="/index.php/Prototype_Matter/Anti-Matter_Launcher" title="Prototype Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Starburst Shockwave Cannon"><a href="/index.php/Prototype_Starburst_Shockwave_Cannon" title="Prototype Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td>Main x 8</td></tr>
+<tr style="height:0.4em;font-size:0.79em;">
+<td style="background-color: #181818; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Impulse Ray Emitter"><a href="/index.php/Impulse_Ray_Emitter" title="Impulse Ray Emitter">&#160;&#160;</a></td>
+<td style="background-color: #303030; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Particle Accelerator Cannon"><a href="/index.php/Particle_Accelerator_Cannon" title="Particle Accelerator Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="High Energy Plasma Thrower"><a href="/index.php/High_Energy_Plasma_Thrower" title="High Energy Plasma Thrower">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Concussion Impulse Generator"><a href="/index.php/Concussion_Impulse_Generator" title="Concussion Impulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Photon Pulse Cannon"><a href="/index.php/Photon_Pulse_Cannon" title="Photon Pulse Cannon">&#160;&#160;</a></td>
+<td style="background-color: #B0B0B0; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Mass Driver"><a href="/index.php/Mass_Driver" title="Mass Driver">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Utility Slot"><a href="/index.php/Utility_Slot" title="Utility Slot">&#160;&#160;</a></td>
+<td style="background-color: #9E9E0A; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Phased Repeater Gun"><a href="/index.php/Phased_Repeater_Gun" title="Phased Repeater Gun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Cluster Flak Array"><a href="/index.php/Cluster_Flak_Array" title="Cluster Flak Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Plasma Beam Cannon"><a href="/index.php/Plasma_Beam_Cannon" title="Plasma Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Disruptor"><a href="/index.php/Ion_Disruptor" title="Ion Disruptor">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Pulse Generator"><a href="/index.php/Ion_Pulse_Generator" title="Ion Pulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Cannon"><a href="/index.php/Ion_Cannon" title="Ion Cannon">&#160;&#160;</a></td>
+<td style="background-color: #614500; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Fragmentation Bomb Launcher"><a href="/index.php/Fragmentation_Bomb_Launcher" title="Fragmentation Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Shockwave Generator"><a href="/index.php/Phased_Shockwave_Generator" title="Phased Shockwave Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Tri-Beam Cannon"><a href="/index.php/Tri-Beam_Cannon" title="Tri-Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Energy Bolt Chaingun"><a href="/index.php/Energy_Bolt_Chaingun" title="Energy Bolt Chaingun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Flak Artillery Array"><a href="/index.php/Flak_Artillery_Array" title="Flak Artillery Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gauss Cannon"><a href="/index.php/Gauss_Cannon" title="Gauss Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Pulsed Beam Emitter"><a href="/index.php/Pulsed_Beam_Emitter" title="Pulsed Beam Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Shard Railgun"><a href="/index.php/Ion_Shard_Railgun" title="Ion Shard Railgun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Array Laser Cannon"><a href="/index.php/Phased_Array_Laser_Cannon" title="Phased Array Laser Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Plasma Burst Generator"><a href="/index.php/Plasma_Burst_Generator" title="Plasma Burst Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Incendiary Bomb Launcher"><a href="/index.php/Incendiary_Bomb_Launcher" title="Incendiary Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Electro-Magnetic Plasma Cannon"><a href="/index.php/Electro-Magnetic_Plasma_Cannon" title="Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Matter/Anti-Matter Launcher"><a href="/index.php/Matter/Anti-Matter_Launcher" title="Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Starburst Shockwave Cannon"><a href="/index.php/Starburst_Shockwave_Cannon" title="Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Point Singularity Projector"><a href="/index.php/Point_Singularity_Projector" title="Point Singularity Projector">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Fusion Beam Cannon"><a href="/index.php/Fusion_Beam_Cannon" title="Fusion Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Alpha Kyon Emitter"><a href="/index.php/Alpha_Kyon_Emitter" title="Alpha Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Beta Kyon Emitter"><a href="/index.php/Beta_Kyon_Emitter" title="Beta Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gamma Kyon Emitter"><a href="/index.php/Gamma_Kyon_Emitter" title="Gamma Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Experimental Electro-Magnetic Plasma Cannon"><a href="/index.php/Experimental_Electro-Magnetic_Plasma_Cannon" title="Experimental Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Matter/Anti-Matter Launcher"><a href="/index.php/Prototype_Matter/Anti-Matter_Launcher" title="Prototype Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Starburst Shockwave Cannon"><a href="/index.php/Prototype_Starburst_Shockwave_Cannon" title="Prototype Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td>Front x 1</td></tr>
+<tr style="height:0.4em;font-size:0.79em;">
+<td style="background-color: #181818; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Impulse Ray Emitter"><a href="/index.php/Impulse_Ray_Emitter" title="Impulse Ray Emitter">&#160;&#160;</a></td>
+<td style="background-color: #303030; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Particle Accelerator Cannon"><a href="/index.php/Particle_Accelerator_Cannon" title="Particle Accelerator Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="High Energy Plasma Thrower"><a href="/index.php/High_Energy_Plasma_Thrower" title="High Energy Plasma Thrower">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Concussion Impulse Generator"><a href="/index.php/Concussion_Impulse_Generator" title="Concussion Impulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Photon Pulse Cannon"><a href="/index.php/Photon_Pulse_Cannon" title="Photon Pulse Cannon">&#160;&#160;</a></td>
+<td style="background-color: #B0B0B0; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Mass Driver"><a href="/index.php/Mass_Driver" title="Mass Driver">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Utility Slot"><a href="/index.php/Utility_Slot" title="Utility Slot">&#160;&#160;</a></td>
+<td style="background-color: #9E9E0A; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Phased Repeater Gun"><a href="/index.php/Phased_Repeater_Gun" title="Phased Repeater Gun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Cluster Flak Array"><a href="/index.php/Cluster_Flak_Array" title="Cluster Flak Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Plasma Beam Cannon"><a href="/index.php/Plasma_Beam_Cannon" title="Plasma Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Disruptor"><a href="/index.php/Ion_Disruptor" title="Ion Disruptor">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Pulse Generator"><a href="/index.php/Ion_Pulse_Generator" title="Ion Pulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Cannon"><a href="/index.php/Ion_Cannon" title="Ion Cannon">&#160;&#160;</a></td>
+<td style="background-color: #614500; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Fragmentation Bomb Launcher"><a href="/index.php/Fragmentation_Bomb_Launcher" title="Fragmentation Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Shockwave Generator"><a href="/index.php/Phased_Shockwave_Generator" title="Phased Shockwave Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Tri-Beam Cannon"><a href="/index.php/Tri-Beam_Cannon" title="Tri-Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Energy Bolt Chaingun"><a href="/index.php/Energy_Bolt_Chaingun" title="Energy Bolt Chaingun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Flak Artillery Array"><a href="/index.php/Flak_Artillery_Array" title="Flak Artillery Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gauss Cannon"><a href="/index.php/Gauss_Cannon" title="Gauss Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Pulsed Beam Emitter"><a href="/index.php/Pulsed_Beam_Emitter" title="Pulsed Beam Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Shard Railgun"><a href="/index.php/Ion_Shard_Railgun" title="Ion Shard Railgun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Array Laser Cannon"><a href="/index.php/Phased_Array_Laser_Cannon" title="Phased Array Laser Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Plasma Burst Generator"><a href="/index.php/Plasma_Burst_Generator" title="Plasma Burst Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Incendiary Bomb Launcher"><a href="/index.php/Incendiary_Bomb_Launcher" title="Incendiary Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Electro-Magnetic Plasma Cannon"><a href="/index.php/Electro-Magnetic_Plasma_Cannon" title="Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Matter/Anti-Matter Launcher"><a href="/index.php/Matter/Anti-Matter_Launcher" title="Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Starburst Shockwave Cannon"><a href="/index.php/Starburst_Shockwave_Cannon" title="Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Point Singularity Projector"><a href="/index.php/Point_Singularity_Projector" title="Point Singularity Projector">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Fusion Beam Cannon"><a href="/index.php/Fusion_Beam_Cannon" title="Fusion Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Alpha Kyon Emitter"><a href="/index.php/Alpha_Kyon_Emitter" title="Alpha Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Beta Kyon Emitter"><a href="/index.php/Beta_Kyon_Emitter" title="Beta Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gamma Kyon Emitter"><a href="/index.php/Gamma_Kyon_Emitter" title="Gamma Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Experimental Electro-Magnetic Plasma Cannon"><a href="/index.php/Experimental_Electro-Magnetic_Plasma_Cannon" title="Experimental Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Matter/Anti-Matter Launcher"><a href="/index.php/Prototype_Matter/Anti-Matter_Launcher" title="Prototype Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Starburst Shockwave Cannon"><a href="/index.php/Prototype_Starburst_Shockwave_Cannon" title="Prototype Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td>Rear x 1</td></tr>
+</table></td></tr>
+<tr><td colspan="2"></td></tr>
+</table></td></tr>
+<tr><td style="padding-bottom:5px;"><table cellspacing="5" style="background-color:WhiteSmoke;border-width:1px;border-style:solid;border-color:DarkGray;">
+<tr style="background-color:#B3B3B3; text-align:center;"><th colspan="2">Pirate Eclipse Advanced</th></tr>
+<tr><th>Class</th><td><a href="/index.php/M3%2B" title="M3+">M3+ Heavy Fighter</a></td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><th>Speed (Min-Max)</th><td>67.5 - 126 <a href="/index.php/Physics#speed" title="Physics">m/s</a></td></tr>
+<tr><th>Acceleration (Min-Max)</th><td>17 - 33 <a href="/index.php/Physics#acceleration" title="Physics">m/s<sup>2</sup></a></td></tr>
+<tr><th>Steering (Min-Max)</th><td>30.5 - 50.8 <a href="/index.php/Physics#RPM" title="Physics">RPM</a></td></tr>
+<tr><th>Hull Strength</th><td>11,250</td></tr>
+<tr><th>Max. Shield (Total)</th><td>4 <a href="/index.php/Shields#25_MJ" title="Shields">x 25 MJ</a> (100 <a href="/index.php/Physics#energy" title="Physics">MJ</a>)</td></tr>
+<tr><th><a href="/index.php/Shield_Reactor" title="Shield Reactor" class="mw-redirect">Shield Reactor</a></th><td>1,200 <a href="/index.php/Physics#power" title="Physics">MW</a></td></tr>
+<tr><th><a href="/index.php/Cargo_Class" title="Cargo Class">Cargo Class</a> (Min-Max)</th><td>254 - 332 <a href="/index.php/Cargo_Class" title="Cargo Class"><b>@</b> L</a></td></tr>
+<tr><th>Laser Capacitor</th><td>7,800 <a href="/index.php/Physics#energy" title="Physics">MJ</a></td></tr>
+<tr><th>Laser Recharge</th><td>195 <a href="/index.php/Physics#power" title="Physics">MW</a></td></tr>
+<tr><td colspan="2"><table cellspacing="0" cellpadding="0">
+<tr style="height:0.4em;font-size:0.79em;">
+<td style="background-color: #181818; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Impulse Ray Emitter"><a href="/index.php/Impulse_Ray_Emitter" title="Impulse Ray Emitter">&#160;&#160;</a></td>
+<td style="background-color: #303030; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Particle Accelerator Cannon"><a href="/index.php/Particle_Accelerator_Cannon" title="Particle Accelerator Cannon">&#160;&#160;</a></td>
+<td style="background-color: #505050; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="High Energy Plasma Thrower"><a href="/index.php/High_Energy_Plasma_Thrower" title="High Energy Plasma Thrower">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Concussion Impulse Generator"><a href="/index.php/Concussion_Impulse_Generator" title="Concussion Impulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Photon Pulse Cannon"><a href="/index.php/Photon_Pulse_Cannon" title="Photon Pulse Cannon">&#160;&#160;</a></td>
+<td style="background-color: #B0B0B0; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Mass Driver"><a href="/index.php/Mass_Driver" title="Mass Driver">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Utility Slot"><a href="/index.php/Utility_Slot" title="Utility Slot">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Repeater Gun"><a href="/index.php/Phased_Repeater_Gun" title="Phased Repeater Gun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Cluster Flak Array"><a href="/index.php/Cluster_Flak_Array" title="Cluster Flak Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Plasma Beam Cannon"><a href="/index.php/Plasma_Beam_Cannon" title="Plasma Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Disruptor"><a href="/index.php/Ion_Disruptor" title="Ion Disruptor">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Pulse Generator"><a href="/index.php/Ion_Pulse_Generator" title="Ion Pulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Cannon"><a href="/index.php/Ion_Cannon" title="Ion Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Fragmentation Bomb Launcher"><a href="/index.php/Fragmentation_Bomb_Launcher" title="Fragmentation Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Shockwave Generator"><a href="/index.php/Phased_Shockwave_Generator" title="Phased Shockwave Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Tri-Beam Cannon"><a href="/index.php/Tri-Beam_Cannon" title="Tri-Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: #187718; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Energy Bolt Chaingun"><a href="/index.php/Energy_Bolt_Chaingun" title="Energy Bolt Chaingun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Flak Artillery Array"><a href="/index.php/Flak_Artillery_Array" title="Flak Artillery Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gauss Cannon"><a href="/index.php/Gauss_Cannon" title="Gauss Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Pulsed Beam Emitter"><a href="/index.php/Pulsed_Beam_Emitter" title="Pulsed Beam Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Shard Railgun"><a href="/index.php/Ion_Shard_Railgun" title="Ion Shard Railgun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Array Laser Cannon"><a href="/index.php/Phased_Array_Laser_Cannon" title="Phased Array Laser Cannon">&#160;&#160;</a></td>
+<td style="background-color: #890101; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Plasma Burst Generator"><a href="/index.php/Plasma_Burst_Generator" title="Plasma Burst Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Incendiary Bomb Launcher"><a href="/index.php/Incendiary_Bomb_Launcher" title="Incendiary Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Electro-Magnetic Plasma Cannon"><a href="/index.php/Electro-Magnetic_Plasma_Cannon" title="Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Matter/Anti-Matter Launcher"><a href="/index.php/Matter/Anti-Matter_Launcher" title="Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Starburst Shockwave Cannon"><a href="/index.php/Starburst_Shockwave_Cannon" title="Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Point Singularity Projector"><a href="/index.php/Point_Singularity_Projector" title="Point Singularity Projector">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Fusion Beam Cannon"><a href="/index.php/Fusion_Beam_Cannon" title="Fusion Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Alpha Kyon Emitter"><a href="/index.php/Alpha_Kyon_Emitter" title="Alpha Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Beta Kyon Emitter"><a href="/index.php/Beta_Kyon_Emitter" title="Beta Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gamma Kyon Emitter"><a href="/index.php/Gamma_Kyon_Emitter" title="Gamma Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Experimental Electro-Magnetic Plasma Cannon"><a href="/index.php/Experimental_Electro-Magnetic_Plasma_Cannon" title="Experimental Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Matter/Anti-Matter Launcher"><a href="/index.php/Prototype_Matter/Anti-Matter_Launcher" title="Prototype Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Starburst Shockwave Cannon"><a href="/index.php/Prototype_Starburst_Shockwave_Cannon" title="Prototype Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td>Main x 8</td></tr>
+<tr style="height:0.4em;font-size:0.79em;">
+<td style="background-color: #181818; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Impulse Ray Emitter"><a href="/index.php/Impulse_Ray_Emitter" title="Impulse Ray Emitter">&#160;&#160;</a></td>
+<td style="background-color: #303030; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Particle Accelerator Cannon"><a href="/index.php/Particle_Accelerator_Cannon" title="Particle Accelerator Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="High Energy Plasma Thrower"><a href="/index.php/High_Energy_Plasma_Thrower" title="High Energy Plasma Thrower">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Concussion Impulse Generator"><a href="/index.php/Concussion_Impulse_Generator" title="Concussion Impulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Photon Pulse Cannon"><a href="/index.php/Photon_Pulse_Cannon" title="Photon Pulse Cannon">&#160;&#160;</a></td>
+<td style="background-color: #B0B0B0; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Mass Driver"><a href="/index.php/Mass_Driver" title="Mass Driver">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Utility Slot"><a href="/index.php/Utility_Slot" title="Utility Slot">&#160;&#160;</a></td>
+<td style="background-color: #9E9E0A; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Phased Repeater Gun"><a href="/index.php/Phased_Repeater_Gun" title="Phased Repeater Gun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Cluster Flak Array"><a href="/index.php/Cluster_Flak_Array" title="Cluster Flak Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Plasma Beam Cannon"><a href="/index.php/Plasma_Beam_Cannon" title="Plasma Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Disruptor"><a href="/index.php/Ion_Disruptor" title="Ion Disruptor">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Pulse Generator"><a href="/index.php/Ion_Pulse_Generator" title="Ion Pulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Cannon"><a href="/index.php/Ion_Cannon" title="Ion Cannon">&#160;&#160;</a></td>
+<td style="background-color: #614500; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Fragmentation Bomb Launcher"><a href="/index.php/Fragmentation_Bomb_Launcher" title="Fragmentation Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Shockwave Generator"><a href="/index.php/Phased_Shockwave_Generator" title="Phased Shockwave Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Tri-Beam Cannon"><a href="/index.php/Tri-Beam_Cannon" title="Tri-Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Energy Bolt Chaingun"><a href="/index.php/Energy_Bolt_Chaingun" title="Energy Bolt Chaingun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Flak Artillery Array"><a href="/index.php/Flak_Artillery_Array" title="Flak Artillery Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gauss Cannon"><a href="/index.php/Gauss_Cannon" title="Gauss Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Pulsed Beam Emitter"><a href="/index.php/Pulsed_Beam_Emitter" title="Pulsed Beam Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Shard Railgun"><a href="/index.php/Ion_Shard_Railgun" title="Ion Shard Railgun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Array Laser Cannon"><a href="/index.php/Phased_Array_Laser_Cannon" title="Phased Array Laser Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Plasma Burst Generator"><a href="/index.php/Plasma_Burst_Generator" title="Plasma Burst Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Incendiary Bomb Launcher"><a href="/index.php/Incendiary_Bomb_Launcher" title="Incendiary Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Electro-Magnetic Plasma Cannon"><a href="/index.php/Electro-Magnetic_Plasma_Cannon" title="Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Matter/Anti-Matter Launcher"><a href="/index.php/Matter/Anti-Matter_Launcher" title="Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Starburst Shockwave Cannon"><a href="/index.php/Starburst_Shockwave_Cannon" title="Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Point Singularity Projector"><a href="/index.php/Point_Singularity_Projector" title="Point Singularity Projector">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Fusion Beam Cannon"><a href="/index.php/Fusion_Beam_Cannon" title="Fusion Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Alpha Kyon Emitter"><a href="/index.php/Alpha_Kyon_Emitter" title="Alpha Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Beta Kyon Emitter"><a href="/index.php/Beta_Kyon_Emitter" title="Beta Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gamma Kyon Emitter"><a href="/index.php/Gamma_Kyon_Emitter" title="Gamma Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Experimental Electro-Magnetic Plasma Cannon"><a href="/index.php/Experimental_Electro-Magnetic_Plasma_Cannon" title="Experimental Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Matter/Anti-Matter Launcher"><a href="/index.php/Prototype_Matter/Anti-Matter_Launcher" title="Prototype Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Starburst Shockwave Cannon"><a href="/index.php/Prototype_Starburst_Shockwave_Cannon" title="Prototype Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td>Front x 1</td></tr>
+<tr style="height:0.4em;font-size:0.79em;">
+<td style="background-color: #181818; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Impulse Ray Emitter"><a href="/index.php/Impulse_Ray_Emitter" title="Impulse Ray Emitter">&#160;&#160;</a></td>
+<td style="background-color: #303030; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Particle Accelerator Cannon"><a href="/index.php/Particle_Accelerator_Cannon" title="Particle Accelerator Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="High Energy Plasma Thrower"><a href="/index.php/High_Energy_Plasma_Thrower" title="High Energy Plasma Thrower">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Concussion Impulse Generator"><a href="/index.php/Concussion_Impulse_Generator" title="Concussion Impulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Photon Pulse Cannon"><a href="/index.php/Photon_Pulse_Cannon" title="Photon Pulse Cannon">&#160;&#160;</a></td>
+<td style="background-color: #B0B0B0; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Mass Driver"><a href="/index.php/Mass_Driver" title="Mass Driver">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Utility Slot"><a href="/index.php/Utility_Slot" title="Utility Slot">&#160;&#160;</a></td>
+<td style="background-color: #9E9E0A; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Phased Repeater Gun"><a href="/index.php/Phased_Repeater_Gun" title="Phased Repeater Gun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Cluster Flak Array"><a href="/index.php/Cluster_Flak_Array" title="Cluster Flak Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Plasma Beam Cannon"><a href="/index.php/Plasma_Beam_Cannon" title="Plasma Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Disruptor"><a href="/index.php/Ion_Disruptor" title="Ion Disruptor">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Pulse Generator"><a href="/index.php/Ion_Pulse_Generator" title="Ion Pulse Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Cannon"><a href="/index.php/Ion_Cannon" title="Ion Cannon">&#160;&#160;</a></td>
+<td style="background-color: #614500; font-size: x-small; border: 0.1em solid #727272; width: 0.6em; height: 0.5em; padding: 0px;" title="Fragmentation Bomb Launcher"><a href="/index.php/Fragmentation_Bomb_Launcher" title="Fragmentation Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Shockwave Generator"><a href="/index.php/Phased_Shockwave_Generator" title="Phased Shockwave Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Tri-Beam Cannon"><a href="/index.php/Tri-Beam_Cannon" title="Tri-Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Energy Bolt Chaingun"><a href="/index.php/Energy_Bolt_Chaingun" title="Energy Bolt Chaingun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Flak Artillery Array"><a href="/index.php/Flak_Artillery_Array" title="Flak Artillery Array">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gauss Cannon"><a href="/index.php/Gauss_Cannon" title="Gauss Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Pulsed Beam Emitter"><a href="/index.php/Pulsed_Beam_Emitter" title="Pulsed Beam Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Ion Shard Railgun"><a href="/index.php/Ion_Shard_Railgun" title="Ion Shard Railgun">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Phased Array Laser Cannon"><a href="/index.php/Phased_Array_Laser_Cannon" title="Phased Array Laser Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Plasma Burst Generator"><a href="/index.php/Plasma_Burst_Generator" title="Plasma Burst Generator">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Incendiary Bomb Launcher"><a href="/index.php/Incendiary_Bomb_Launcher" title="Incendiary Bomb Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Electro-Magnetic Plasma Cannon"><a href="/index.php/Electro-Magnetic_Plasma_Cannon" title="Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Matter/Anti-Matter Launcher"><a href="/index.php/Matter/Anti-Matter_Launcher" title="Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Starburst Shockwave Cannon"><a href="/index.php/Starburst_Shockwave_Cannon" title="Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Point Singularity Projector"><a href="/index.php/Point_Singularity_Projector" title="Point Singularity Projector">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Fusion Beam Cannon"><a href="/index.php/Fusion_Beam_Cannon" title="Fusion Beam Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Alpha Kyon Emitter"><a href="/index.php/Alpha_Kyon_Emitter" title="Alpha Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Beta Kyon Emitter"><a href="/index.php/Beta_Kyon_Emitter" title="Beta Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Gamma Kyon Emitter"><a href="/index.php/Gamma_Kyon_Emitter" title="Gamma Kyon Emitter">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Experimental Electro-Magnetic Plasma Cannon"><a href="/index.php/Experimental_Electro-Magnetic_Plasma_Cannon" title="Experimental Electro-Magnetic Plasma Cannon">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Matter/Anti-Matter Launcher"><a href="/index.php/Prototype_Matter/Anti-Matter_Launcher" title="Prototype Matter/Anti-Matter Launcher">&#160;&#160;</a></td>
+<td style="background-color: WhiteSmoke; border: 0.1em solid white; width: 0.4em; height: 0.6em; padding: 0px;" title="Prototype Starburst Shockwave Cannon"><a href="/index.php/Prototype_Starburst_Shockwave_Cannon" title="Prototype Starburst Shockwave Cannon">&#160;&#160;</a></td>
+<td>Rear x 1</td></tr>
+</table></td></tr>
+<tr><td colspan="2"></td></tr>
+</table></td></tr>
+</table>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Background"><span class="tocnumber">2</span> <span class="toctext">Background</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Encyclopedia_Entry"><span class="tocnumber">2.1</span> <span class="toctext">Encyclopedia Entry</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Variants"><span class="tocnumber">3</span> <span class="toctext">Variants</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Eclipse"><span class="tocnumber">3.1</span> <span class="toctext">Eclipse</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Eclipse_Prototype"><span class="tocnumber">3.2</span> <span class="toctext">Eclipse Prototype</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Pirate_Eclipse"><span class="tocnumber">3.3</span> <span class="toctext">Pirate Eclipse</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Pirate_Eclipse_Advanced"><span class="tocnumber">3.4</span> <span class="toctext">Pirate Eclipse Advanced</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Physical_Characteristics"><span class="tocnumber">4</span> <span class="toctext">Physical Characteristics</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Combat"><span class="tocnumber">5</span> <span class="toctext">Combat</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Equipment"><span class="tocnumber">6</span> <span class="toctext">Equipment</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Availability"><span class="tocnumber">7</span> <span class="toctext">Availability</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Suggested_Roles"><span class="tocnumber">8</span> <span class="toctext">Suggested Roles</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#See_Also"><span class="tocnumber">9</span> <span class="toctext">See Also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Eclipse&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Eclipse is considered quite ugly, however, it is a well-shielded and powerful fighter in its own right, well suited to maintaining local air superiority, and has become a popular heavy fighter.
+</p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Eclipse&amp;action=edit&amp;section=2" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Eclipse was designed by Bala Gi Research Inc. in response to requests from the Argon, Paranid and Split for an improved heavy fighter. Widely regarded as the best all-rounder at the time, the Eclipse has not been updated fast enough to remain at the cutting edge.
+</p>
+<h3><span class="mw-headline" id="Encyclopedia_Entry">Encyclopedia Entry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Eclipse&amp;action=edit&amp;section=3" title="Edit section: Encyclopedia Entry">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Federal Argon Government commissioned Bala Gi Research  Inc. to develop a heavy fighter, larger than the current <a href="/index.php/Nova" title="Nova">Nova</a>, to fulfill a wider range of roles. The result, the Eclipse, enjoys a larger cargo bay than the Nova, at the expense of some speed and maneuverability.  The Argon military are glad to welcome this craft into their arsenal.
+</p>
+<h2><span class="mw-headline" id="Variants">Variants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Eclipse&amp;action=edit&amp;section=4" title="Edit section: Variants">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Eclipse">Eclipse</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Eclipse&amp;action=edit&amp;section=5" title="Edit section: Eclipse">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The standard Eclipse is the best shielded of the variants, with 200MJ of shielding. It is the only variant to mount the <a href="/index.php/Ion_Disruptor" title="Ion Disruptor">Ion Disruptor</a>.
+</p>
+<h3><span class="mw-headline" id="Eclipse_Prototype">Eclipse Prototype</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Eclipse&amp;action=edit&amp;section=6" title="Edit section: Eclipse Prototype">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This is one of the few exceptions to the general rule that prototype ships are better; it has marginally improved firepower at the expense of everything else.
+</p>
+<h3><span class="mw-headline" id="Pirate_Eclipse">Pirate Eclipse</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Eclipse&amp;action=edit&amp;section=7" title="Edit section: Pirate Eclipse">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Pirate Eclipse is faster than the standard, but has less than half the shielding and a smaller cargo bay.
+</p>
+<h3><span class="mw-headline" id="Pirate_Eclipse_Advanced">Pirate Eclipse Advanced</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Eclipse&amp;action=edit&amp;section=8" title="Edit section: Pirate Eclipse Advanced">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Advanced Pirate Eclipse has a slightly larger cargo bay than the standard, but has half its shielding and is slightly slower.
+</p>
+<h2><span class="mw-headline" id="Physical_Characteristics">Physical Characteristics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Eclipse&amp;action=edit&amp;section=9" title="Edit section: Physical Characteristics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Eclipse has a vaguely oval-shaped body which appears segmented, with a beak at the front. It is quite large for a fighter and easy to hit with weapons fire.
+</p>
+<h2><span class="mw-headline" id="Combat">Combat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Eclipse&amp;action=edit&amp;section=10" title="Edit section: Combat">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Eclipse is a decent fighter, though a little unwieldy. Because it is among the slowest fighters, it cannot chase down its targets very well, but with two turrets packing some powerful anti-fighter guns like the <a href="/index.php/Phased_Repeater_Gun" title="Phased Repeater Gun">Phased Repeater Gun</a>, its slow speed is less of a disadvantage once in combat. Nevertheless, some strategy is required when engaging multiple nimble targets, as the Eclipse's large size makes it a big target. Taking out faster targets quickly with missiles is recommended, and the Eclipse has the cargo bay to carry several kinds.
+</p>
+<h2><span class="mw-headline" id="Equipment">Equipment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Eclipse&amp;action=edit&amp;section=11" title="Edit section: Equipment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table>
+<caption> <b>Missiles</b>
+</caption>
+<tr style="vertical-align:top;">
+<td>
+<ul>
+<li><a href="/index.php/Mosquito_Missile" title="Mosquito Missile">Mosquito Missile</a>
+</li>
+<li><a href="/index.php/Wasp_Missile" title="Wasp Missile">Wasp Missile</a>
+</li>
+<li><a href="/index.php/Dragonfly_Missile" title="Dragonfly Missile">Dragonfly Missile</a>
+</li>
+<li><a href="/index.php/Silkworm_Missile" title="Silkworm Missile">Silkworm Missile</a>
+</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="/index.php/Disruptor_Missile" title="Disruptor Missile">Disruptor Missile</a>
+</li>
+<li><a href="/index.php/Firefly_Missile" title="Firefly Missile">Firefly Missile</a>
+</li>
+<li><a href="/index.php/Thunderbolt_Missile" title="Thunderbolt Missile">Thunderbolt Missile</a>
+</li>
+<li><a href="/index.php/Tempest_Missile" title="Tempest Missile">Tempest Missile</a>
+</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="/index.php/Hurricane_Missile" title="Hurricane Missile">Hurricane Missile</a>
+</li>
+<li><a href="/index.php/Cyclone_Missile" title="Cyclone Missile">Cyclone Missile</a>
+</li>
+<li><a href="/index.php/Tornado_Missile" title="Tornado Missile">Tornado Missile</a>
+</li>
+<li><a href="/index.php/Aurora_Missile" title="Aurora Missile">Aurora Missile</a>
+</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="/index.php/Remote_Guided_Warhead" title="Remote Guided Warhead">Remote Guided Warhead</a>
+</li>
+<li><a href="/index.php/Beluga_Missile" title="Beluga Missile">Beluga Missile</a>
+</li>
+<li><a href="/index.php/Hammerhead_Missile" title="Hammerhead Missile">Hammerhead Missile</a>
+</li>
+<li><a href="/index.php/Rapier_Missile" title="Rapier Missile">Rapier Missile</a>
+</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="/index.php/Firelance_Missile" title="Firelance Missile">Firelance Missile</a>
+</li>
+<li><a href="/index.php/Wildfire_Missile" title="Wildfire Missile">Wildfire Missile</a>
+</li>
+<li><a href="/index.php/Windstalker_Missile" title="Windstalker Missile">Windstalker Missile</a>
+</li>
+<li><a href="/index.php/Banshee_Missile" title="Banshee Missile">Banshee Missile</a>
+</li>
+</ul>
+</td></tr></table>
+<h2><span class="mw-headline" id="Availability">Availability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Eclipse&amp;action=edit&amp;section=12" title="Edit section: Availability">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Eclipse Prototype is not available for sale, but is received as a reward for reaching rank 10 (maximum) notoriety with <a href="/index.php/Terracorp" title="Terracorp">Terracorp</a>.
+</p><p>An Advanced Pirate Eclipse and a Pirate Eclipse are available as <a href="/index.php/Ownerless_ships" title="Ownerless ships">ownerless ships</a> in Terran Conflict.
+</p>
+<table style="text-align:center;" cellpadding="3">
+<caption> <b>Availability</b>
+</caption>
+<tr style="background-color:lightblue;">
+<th> Variant </th>
+<th> <a href="/index.php/Argon_Prime" title="Argon Prime">Argon Prime</a> </th>
+<th>  <a href="/index.php/Cloudbase_South_East" title="Cloudbase South East">Cloudbase South East</a> </th>
+<th> <a href="/index.php/Omicron_Lyrae" title="Omicron Lyrae">Omicron Lyrae</a> </th>
+<th> <a href="/index.php/Light_of_Heart" title="Light of Heart">Light of Heart</a> </th>
+<th> <a href="/index.php/Legend%27s_Home" title="Legend's Home">Legend's Home</a> </th>
+<th> <a href="/index.php/Argon_Sector_M148" title="Argon Sector M148">Argon Sector M148</a>
+</th></tr>
+<tr>
+<th> Eclipse </th>
+<th> x </th>
+<th> </th>
+<th> x </th>
+<th> x </th>
+<th> </th>
+<th> x
+</th></tr></table>
+<h2><span class="mw-headline" id="Suggested_Roles">Suggested Roles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Eclipse&amp;action=edit&amp;section=13" title="Edit section: Suggested Roles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Eclipse's slow speed makes it most useful in defensive roles. It is best when defending other slow ships like <a href="/index.php/M1" title="M1">Carriers</a> or <a href="/index.php/TS" title="TS">Freighters</a>, or defending stations against Pirate fighters.  Like other M3+ ships, it is relatively expensive, so it is not usually recommended for mass-use.
+</p><p>It can also be fairly well suited as a light escort for trading vessels or as a cheap way to deal with frequent pirate fighter raiding in a sector; it is about as slow as any trade ship it needs to protect while having strong weaponry and shielding, allowing it to hold the area around it well.
+</p>
+<h2><span class="mw-headline" id="See_Also">See Also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Eclipse&amp;action=edit&amp;section=14" title="Edit section: See Also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><br />
+</p>
+<table>
+<table cellspacing="0" width="280px" style="background-color:white;border-width:1px;border-style:solid solid none solid;border-color:#CCCCCC;padding-top:3px;padding-left:3px;padding-right:3px;">
+<tr>
+<th style="background-color:#CCCCFF"><a href="/index.php/Ships" title="Ships">Ships</a> by Class</th>
+</tr>
+<table cellspacing="3" width="280px" style="background-color:white;border-width:1px;border-style:none solid solid solid;border-color:#CCCCCC;">
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%"><a href="/index.php/Category:Capital_Ships" title="Category:Capital Ships">Capital</a>&#160;&#160;</td><td><a href="/index.php/M1" title="M1">M1</a> • <a href="/index.php/M2" title="M2">M2</a> / <a href="/index.php/M2%2B" title="M2+">M2+</a> • <a href="/index.php/M7" title="M7">M7</a> / <a href="/index.php/M7M" title="M7M">M7M</a> / <a href="/index.php/M7C" title="M7C">M7C</a></td>
+</tr>
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%"><a href="/index.php/Category:Escort" title="Category:Escort">Escort</a>&#160;&#160;</td><td style="background-color:#F7F7F7"><a href="/index.php/M6" title="M6">M6</a> / <a href="/index.php/M6%2B" title="M6+">M6+</a> • <a href="/index.php/M8" title="M8">M8</a></td>
+</tr>
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%"><a href="/index.php/Category:Fighters" title="Category:Fighters">Fighter</a>&#160;&#160;</td><td><a href="/index.php/M3" title="M3">M3</a> / <a href="/index.php/M3%2B" title="M3+">M3+</a> • <a href="/index.php/M4" title="M4">M4</a> / <a href="/index.php/M4%2B" title="M4+">M4+</a> • <a href="/index.php/M5" title="M5">M5</a></td>
+</tr>
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%"><a href="/index.php/Transports" title="Transports">Transport</a>&#160;&#160;</td><td style="background-color:#F7F7F7"><a href="/index.php/TL" title="TL">TL</a> • <a href="/index.php/TS" title="TS">TS</a> / <a href="/index.php/TS%2B" title="TS+">TS+</a> • <a href="/index.php/TP" title="TP">TP</a> • <a href="/index.php/TM" title="TM">TM</a></td>
+</tr>
+</table>
+</table>
+<tr><td></td></tr></table>
+<table>
+<table cellspacing="0" width="725px" style="background-color:white;border-width:1px;border-style:solid solid none solid;border-color:#CCCCCC;padding-top:3px;padding-left:3px;padding-right:3px;">
+<tr>
+<th style="background-color:#CCCCFF"><a href="/index.php/M3%2B" title="M3+">M3+ Ships</a></th>
+</tr>
+<table cellspacing="3" width="725px" style="background-color:white;border-width:1px;border-style:none solid solid solid;border-color:#CCCCCC;">
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%"><a href="/index.php/Argon" title="Argon">Argon</a>&#160;&#160;</td><td><strong class="selflink">Eclipse</strong> (<a href="/index.php/Eclipse#Eclipse_Prototype" title="Eclipse">Prototype</a>)</td>
+</tr>
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%"><a href="/index.php/ATF" title="ATF">ATF</a>&#160;&#160;</td><td style="background-color:#F7F7F7"><a href="/index.php/Fenrir" title="Fenrir">Fenrir</a></td>
+</tr>
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%"><a href="/index.php/Boron" title="Boron">Boron</a>&#160;&#160;</td><td><a href="/index.php/Skate" title="Skate">Skate</a> (<a href="/index.php/Skate#Skate_Prototype" title="Skate">Prototype</a>)</td>
+</tr>
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%"><a href="/index.php/Goner" title="Goner">Goner</a>&#160;&#160;</td><td style="background-color:#F7F7F7">none</td>
+</tr>
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%"><a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a>&#160;&#160;</td><td>none</td>
+</tr>
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%"><a href="/index.php/OTAS" title="OTAS">OTAS</a>&#160;&#160;</td><td style="background-color:#F7F7F7"><a href="/index.php/Notus_Hauler" title="Notus Hauler">Notus Hauler</a></td>
+</tr>
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%"><a href="/index.php/Paranid" title="Paranid">Paranid</a>&#160;&#160;</td><td><a href="/index.php/Medusa" title="Medusa">Medusa</a> (<a href="/index.php/Medusa#Medusa_Prototype" title="Medusa">Prototype</a>)</td><td>
+</tr>
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%"><a href="/index.php/Pirate" title="Pirate" class="mw-redirect">Pirate</a>&#160;&#160;</td><td style="background-color:#F7F7F7"><a href="/index.php/Eclipse#Pirate_Eclipse" title="Eclipse">Eclipse</a> (<a href="/index.php/Eclipse#Pirate_Eclipse_Advanced" title="Eclipse">Advanced</a>) • <a href="/index.php/Kea#Pirate_Kea" title="Kea">Kea</a></td>
+</tr>
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%"><a href="/index.php/Split" title="Split">Split</a>&#160;&#160;</td><td><a href="/index.php/Chimera" title="Chimera">Chimera</a> (<a href="/index.php/Chimera#Chimera_Enhanced" title="Chimera">Enhanced</a>)</td>
+</tr>
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%"><a href="/index.php/Teladi" title="Teladi">Teladi</a>&#160;&#160;</td><td style="background-color:#F7F7F7"><a href="/index.php/Kea" title="Kea">Kea</a> (<a href="/index.php/Kea#Kea_Enhanced" title="Kea">Enhanced</a>)</td>
+</tr>
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%"><a href="/index.php/Terran" title="Terran">Terran</a>&#160;&#160;</td><td><a href="/index.php/Cutlass" title="Cutlass">Cutlass</a></td>
+</tr>
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%"><a href="/index.php/Xenon" title="Xenon">Xenon</a>&#160;&#160;</td><td style="background-color:#F7F7F7"><a href="/index.php/LX" title="LX">LX</a></td>
+</tr>
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%"><a href="/index.php/Yaki" title="Yaki">Yaki</a>&#160;&#160;</td><td><a href="/index.php/Tenjin" title="Tenjin">Tenjin</a></td>
+</tr>
+</table>
+</table>
+<tr><td></td></tr></table>
+<table width="auto" style="text-align:center; border-width:1px; border-style:solid; border-color:lightgrey;">
+<tr>
+<th colspan="3" style="background-color:#3195E3;"> <a href="/index.php/Argon" title="Argon">Argon</a> Navigation
+</th></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> Core <a href="/index.php/Sectors" title="Sectors">Sectors</a>
+</th>
+<td> <a href="/index.php/Argon_Prime" title="Argon Prime">Argon Prime</a> | <a href="/index.php/Herron%27s_Nebula" title="Herron's Nebula">Herron's Nebula</a> | <a href="/index.php/Home_of_Light" title="Home of Light">Home of Light</a> | <a href="/index.php/Legend%27s_Home" title="Legend's Home">Legend's Home</a> | <a href="/index.php/Light_of_Heart" title="Light of Heart">Light of Heart</a> | <a href="/index.php/Montalaar" title="Montalaar">Montalaar</a> | <a href="/index.php/Omicron_Lyrae" title="Omicron Lyrae">Omicron Lyrae</a> | <a href="/index.php/Red_Light" title="Red Light">Red Light</a> | <a href="/index.php/Ringo_Moon" title="Ringo Moon">Ringo Moon</a> | <a href="/index.php/The_Wall" title="The Wall">The Wall</a>
+</td></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> <a href="/index.php/Sector_Security" title="Sector Security">Border</a> Sectors
+</th>
+<td style="background-color: #EEEEEE;"> <a href="/index.php/Aladna_Hill" title="Aladna Hill">Aladna Hill</a> | <a href="/index.php/Albion_Alpha" title="Albion Alpha">Albion Alpha</a> | <a href="/index.php/Albion_Beta" title="Albion Beta">Albion Beta</a> | <a href="/index.php/Albion_Delta" title="Albion Delta">Albion Delta</a> | <a href="/index.php/Albion_Gamma" title="Albion Gamma">Albion Gamma</a> | <a href="/index.php/Akeela%27s_Beacon" title="Akeela's Beacon">Akeela's Beacon</a> | <a href="/index.php/Antigone_Memorial" title="Antigone Memorial">Antigone Memorial</a> | <a href="/index.php/Argon_Sector_M148" title="Argon Sector M148">Argon Sector M148</a> | <a href="/index.php/Belt_of_Aguilar" title="Belt of Aguilar">Belt of Aguilar</a> | <a href="/index.php/Black_Hole_Sun" title="Black Hole Sun">Black Hole Sun</a> | <a href="/index.php/Cloudbase_North_West" title="Cloudbase North West">Cloudbase North West</a> | <a href="/index.php/Cloudbase_South_East" title="Cloudbase South East">Cloudbase South East</a> | <a href="/index.php/Cloudbase_South_West" title="Cloudbase South West">Cloudbase South West</a> | <a href="/index.php/Circle_Of_Labour" title="Circle Of Labour">Circle Of Labour</a> | <a href="/index.php/Elena%27s_Fortune" title="Elena's Fortune">Elena's Fortune</a> | <a href="/index.php/Elysium_of_Light" title="Elysium of Light">Elysium of Light</a> | <a href="/index.php/Interworlds" title="Interworlds">Interworlds</a> | <a href="/index.php/Getsu_Fune" title="Getsu Fune">Getsu Fune</a> | <a href="/index.php/Midnight_Star" title="Midnight Star">Midnight Star</a> | <a href="/index.php/Nathan%27s_Voyage" title="Nathan's Voyage">Nathan's Voyage</a> | <a href="/index.php/Nyana%27s_Hideout" title="Nyana's Hideout">Nyana's Hideout</a> | <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a> | <a href="/index.php/Power_Circle" title="Power Circle">Power Circle</a> | <a href="/index.php/President%27s_End" title="President's End">President's End</a> | <a href="/index.php/The_Hole" title="The Hole">The Hole</a> | <a href="/index.php/Three_Worlds" title="Three Worlds">Three Worlds</a> | <a href="/index.php/Treasure_Chest" title="Treasure Chest">Treasure Chest</a> | <a href="/index.php/Wastelands" title="Wastelands">Wastelands</a>
+</td></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> <a href="/index.php/Category:Capital_Ships" title="Category:Capital Ships">Capital Ships</a>
+</th>
+<td> <b><a href="/index.php/M1" title="M1">M1</a>:</b> <a href="/index.php/Colossus" title="Colossus">Colossus</a> |  <b><a href="/index.php/M2" title="M2">M2</a>:</b> <a href="/index.php/Titan_(ship)" title="Titan (ship)">Titan</a> | <b><a href="/index.php/M2%2B" title="M2+">M2+</a>:</b> None | <b><a href="/index.php/M7" title="M7">M7</a>:</b> <a href="/index.php/Cerberus" title="Cerberus">Cerberus</a> | <b><a href="/index.php/M7C" title="M7C">M7C</a>:</b> <a href="/index.php/Griffon" title="Griffon">Griffon</a> | <b><a href="/index.php/M7M" title="M7M">M7M</a>:</b> <a href="/index.php/Minotaur" title="Minotaur">Minotaur</a>
+</td></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> <a href="/index.php/Category:Fighters" title="Category:Fighters">Fighters</a>
+</th>
+<td style="background-color: #EEEEEE;"> <b><a href="/index.php/M3" title="M3">M3</a>:</b> <a href="/index.php/Nova" title="Nova">Nova</a> | <b><a href="/index.php/M3%2B" title="M3+">M3+</a>:</b> <strong class="selflink">Eclipse</strong> | <b><a href="/index.php/M4" title="M4">M4</a>:</b> <a href="/index.php/Buster" title="Buster">Buster</a> | <b><a href="/index.php/M4%2B" title="M4+">M4+</a>:</b> <a href="/index.php/Elite" title="Elite">Elite</a> | <b><a href="/index.php/M5" title="M5">M5</a>:</b> <a href="/index.php/Arrow" title="Arrow">Arrow</a>, <a href="/index.php/Discoverer" title="Discoverer">Discoverer</a>, <a href="/index.php/Starburst" title="Starburst">Starburst</a>
+</td></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> <a href="/index.php/Category:Escort" title="Category:Escort">Escort Ships</a>
+</th>
+<td> <b><a href="/index.php/M6" title="M6">M6</a>:</b> <a href="/index.php/Centaur" title="Centaur">Centaur</a> | <b><a href="/index.php/M6%2B" title="M6+">M6+</a>:</b> <a href="/index.php/Heavy_Centaur" title="Heavy Centaur">Heavy Centaur</a> | <b><a href="/index.php/M8" title="M8">M8</a>:</b> <a href="/index.php/Gladiator" title="Gladiator">Gladiator</a>
+</td></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> <a href="/index.php/Category:Transport" title="Category:Transport">Transports</a>
+</th>
+<td style="background-color: #EEEEEE;"> <b><a href="/index.php/TL" title="TL">TL</a>:</b> <a href="/index.php/Mammoth" title="Mammoth">Mammoth</a> | <b><a href="/index.php/TM" title="TM">TM</a>:</b> <a href="/index.php/Magnetar" title="Magnetar">Magnetar</a> | <b><a href="/index.php/TP" title="TP">TP</a>:</b> <a href="/index.php/Express" title="Express">Express</a>, <a href="/index.php/Phantom" title="Phantom">Phantom</a> | <b><a href="/index.php/TS" title="TS">TS</a>:</b> <a href="/index.php/Mercury_(ship)" title="Mercury (ship)">Mercury</a> | <b><a href="/index.php/TS%2B" title="TS+">TS+</a>:</b> <a href="/index.php/Lotan" title="Lotan">Lotan</a>
+</td></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> <a href="/index.php/Shipyard" title="Shipyard">Shipyards</a>
+</th>
+<td> <a href="/index.php/Argon_Prime" title="Argon Prime">Argon Prime</a> | <a href="/index.php/Argon_Sector_M148" title="Argon Sector M148">Argon Sector M148</a> | <a href="/index.php/Cloudbase_South_East" title="Cloudbase South East">Cloudbase South East</a> | <a href="/index.php/Legend%27s_Home" title="Legend's Home">Legend's Home</a> | <a href="/index.php/Light_of_Heart" title="Light of Heart">Light of Heart</a> | <a href="/index.php/Omicron_Lyrae" title="Omicron Lyrae">Omicron Lyrae</a>
+</td></tr>
+<tr>
+<th width="10em" style="background-color: #CCCCFF;"> Racial <a href="/index.php/Wares" title="Wares">Wares</a>
+</th>
+<td style="background-color: #EEEEEE;"> <a href="/index.php/Argnu_Beef" title="Argnu Beef">Argnu Beef</a> | <a href="/index.php/Cloth_Rimes" title="Cloth Rimes">Cloth Rimes</a> | <a href="/index.php/Meatsteak_Cahoonas" title="Meatsteak Cahoonas">Meatsteak Cahoonas</a> | <a href="/index.php/Space_Fuel" title="Space Fuel">Space Fuel</a>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+CPU time usage: 1.092 seconds
+Real time usage: 1.107 seconds
+Preprocessor visited node count: 4654/1000000
+Preprocessor generated node count: 8918/1000000
+Post‐expand include size: 268279/2097152 bytes
+Template argument size: 104697/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key dailystunt_wiki:pcache:idhash:198-0!*!0!!en!*!* and timestamp 20160611233441
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://x3wiki.com/index.php?title=Eclipse&amp;oldid=13655">http://x3wiki.com/index.php?title=Eclipse&amp;oldid=13655</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/index.php/Category:Argon_ships" title="Category:Argon ships">Argon ships</a></li><li><a href="/index.php/Category:Pirate_ships" title="Category:Pirate ships">Pirate ships</a></li><li><a href="/index.php/Category:M3%2B" title="Category:M3+">M3+</a></li><li><a href="/index.php/Category:Fighters" title="Category:Fighters">Fighters</a></li><li><a href="/index.php/Category:Argon" title="Category:Argon">Argon</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/index.php/Category:Impulse_Ray_Emitter" title="Category:Impulse Ray Emitter">Impulse Ray Emitter</a></li><li><a href="/index.php/Category:Particle_Accelerator_Cannon" title="Category:Particle Accelerator Cannon">Particle Accelerator Cannon</a></li><li><a href="/index.php/Category:High_Energy_Plasma_Thrower" title="Category:High Energy Plasma Thrower">High Energy Plasma Thrower</a></li><li><a href="/index.php/Category:Mass_Driver" title="Category:Mass Driver">Mass Driver</a></li><li><a href="/index.php/Category:Phased_Repeater_Gun" title="Category:Phased Repeater Gun">Phased Repeater Gun</a></li><li><a href="/index.php/Category:Ion_Disruptor" title="Category:Ion Disruptor">Ion Disruptor</a></li><li><a href="/index.php/Category:Plasma_Burst_Generator" title="Category:Plasma Burst Generator">Plasma Burst Generator</a></li><li><a href="/index.php/Category:Energy_Bolt_Chaingun" title="Category:Energy Bolt Chaingun">Energy Bolt Chaingun</a></li><li><a href="/index.php/Category:Fragmentation_Bomb_Launcher" title="Category:Fragmentation Bomb Launcher">Fragmentation Bomb Launcher</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<h2>Navigation menu</h2>
+	<div id="p-cactions" class="portlet" role="navigation">
+		<h3>Views</h3>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/index.php/Eclipse" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/index.php?title=Talk:Eclipse&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit"><a href="/index.php?title=Eclipse&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				<li id="ca-history"><a href="/index.php?title=Eclipse&amp;action=history" rel="archives" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal" role="navigation">
+		<h3>Personal tools</h3>
+		<div class="pBody">
+			<ul>
+				<li id="pt-createaccount"><a href="/index.php?title=Special:UserLogin&amp;returnto=Eclipse&amp;returntoquery=oldid%3D13655&amp;type=signup">Create account</a></li>
+				<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Eclipse&amp;returntoquery=oldid%3D13655" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo" role="banner">
+<a href="/index.php/Main_Page" style="background-image: url(http://www.x3wiki.com/x3.jpg);" title="Visit the main page"></a>
+	</div>
+	<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" rel="nofollow" title="The place to find out">Help</a></li>
+				<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict" role="navigation">
+		<h3>X3 Terran Conflict</h3>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+				<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+				<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+				<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+				<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+				<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+				<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+				<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+				<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+				<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+				<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="generated-sidebar portlet" id="p-Links" role="navigation">
+		<h3>Links</h3>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Wildstar-trial"><a href="http://www.wildstartrial.com" rel="nofollow">Wildstar trial</a></li>
+				<li id="n-MMO-Server-Status"><a href="http://www.mmoserverstatus.com" rel="nofollow">MMO Server Status</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div id="p-search" class="portlet" role="search">
+		<h3><label for="searchInput">Search</label></h3>
+		<div id="searchBody" class="pBody">
+			<form action="/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb" role="navigation">
+		<h3>Tools</h3>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Eclipse" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Eclipse" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/index.php?title=Eclipse&amp;oldid=13655&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/index.php?title=Eclipse&amp;oldid=13655" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/index.php?title=Eclipse&amp;action=info">Page information</a></li>
+			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer" role="contentinfo">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 9 September 2013, at 08:38.</li>
+		<li id="viewcount">This page has been accessed 151,405 times.</li>
+		<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+		<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"],null,true);
+}</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-265105-19");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script>
+<script>if(window.mw){
+mw.loader.state({"site":"ready"});
+}</script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><!-- Served in 0.148 secs. --></body></html>

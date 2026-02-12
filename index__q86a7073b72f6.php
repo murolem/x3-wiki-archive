@@ -1,0 +1,8970 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Silicon asteroid list - X3 Wiki</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.19.1" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Silicon_asteroid_list&amp;action=edit" />
+<link rel="edit" title="Edit" href="/index.php?title=Silicon_asteroid_list&amp;action=edit" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://x3wiki.com/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://x3wiki.com/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.monobook&amp;only=styles&amp;skin=monobook&amp;*" />
+<!--[if IE 6]><link rel="stylesheet" href="/skins/monobook/IE60Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/skins/monobook/IE70Fixes.css?303" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: dailystunt_wiki:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */
+</style>
+
+<script src="http://x3wiki.com/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Silicon_asteroid_list","wgTitle":"Silicon asteroid list","wgCurRevisionId":613,"wgArticleId":15,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Silicon_asteroid_list","wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"monobook","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":
+0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: dailystunt_wiki:resourceloader:filter:minify-js:7:74a832f2292f1f4d40d425d223444e78 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Silicon_asteroid_list skin-monobook action-view">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=419115078139333";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+	<div id="siteNotice">
+	<script type='text/javascript'>
+<!--//<![CDATA[
+   document.MAX_ct0 ='';
+   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("zoneid=55244");document.write("&amp;nodis=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+//]]>--></script>
+	<br /><div class="fb-like" data-href="http://www.facebook.com/pages/X3-wiki/177021675675938" data-send="true" data-width="450" data-show-faces="false"></div>
+	
+	<!-- centralNotice loads here --><div id="localNotice" lang="en" dir="ltr"><p>Please support us by liking us on facebook!
+</p></div></div>
+	<h1 id="firstHeading" class="firstHeading"><span dir="auto">Silicon asteroid list</span></h1>
+	<div id="bodyContent" class="mw-body">
+		<div id="siteSub">From X3 Wiki</div>
+		<div id="contentSub"><div id="mw-revision-info">Revision as of 16:50, 28 June 2010 by <a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a>  <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">Talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></div><br />
+				<div id="mw-revision-nav">(<a href="/index.php?title=Silicon_asteroid_list&amp;diff=prev&amp;oldid=613" title="Silicon asteroid list">diff</a>) <a href="/index.php?title=Silicon_asteroid_list&amp;direction=prev&amp;oldid=613" title="Silicon asteroid list">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div></div>
+		<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="prettytable sortable" border="1" cellpadding="5" cellspacing="0">
+<caption> Known silicon asteroids
+</caption>
+<tr>
+<th>Race </th>
+<th> Sector </th>
+<th> Type </th>
+<th>Yield </th>
+<th> X Coordinate </th>
+<th> Y Coordinate </th>
+<th> Z Coordinate
+</th></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Aladna_Hill" title="Aladna Hill">Aladna Hill</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>25</td>
+<td>-11426</td>
+<td>-1144</td>
+<td>1112
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Aladna_Hill" title="Aladna Hill">Aladna Hill</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-19746</td>
+<td>727</td>
+<td>6049
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Aladna_Hill" title="Aladna Hill">Aladna Hill</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-4675</td>
+<td>4269</td>
+<td>-1713
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Aladna_Hill" title="Aladna Hill">Aladna Hill</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-20991</td>
+<td>5863</td>
+<td>11730
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>54</td>
+<td>50035</td>
+<td>5364</td>
+<td>227434
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>52</td>
+<td>-326446</td>
+<td>18979</td>
+<td>78858
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>52</td>
+<td>-272668</td>
+<td>-19441</td>
+<td>-32285
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>50</td>
+<td>83527</td>
+<td>-37380</td>
+<td>115950
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>50</td>
+<td>-261451</td>
+<td>-19</td>
+<td>115555
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>50</td>
+<td>-288333</td>
+<td>-56456</td>
+<td>52969
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>50</td>
+<td>21332</td>
+<td>45230</td>
+<td>20393
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>48</td>
+<td>-204385</td>
+<td>-32118</td>
+<td>207163
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>46</td>
+<td>-168265</td>
+<td>28755</td>
+<td>-99832
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>40</td>
+<td>-183001</td>
+<td>37595</td>
+<td>266357
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>40</td>
+<td>13597</td>
+<td>-18037</td>
+<td>192829
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>40</td>
+<td>-236456</td>
+<td>29242</td>
+<td>174603
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>36</td>
+<td>-85947</td>
+<td>52823</td>
+<td>262245
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>36</td>
+<td>-4589</td>
+<td>55524</td>
+<td>-54199
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>32</td>
+<td>-131143</td>
+<td>36281</td>
+<td>244061
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>32</td>
+<td>-263779</td>
+<td>-15008</td>
+<td>21921
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>30</td>
+<td>-154039</td>
+<td>-33834</td>
+<td>277725
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>28</td>
+<td>-139299</td>
+<td>-38354</td>
+<td>-82572
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-337783</td>
+<td>-4182</td>
+<td>89193
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>20</td>
+<td>-202059</td>
+<td>10946</td>
+<td>-73932
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-247601</td>
+<td>21896</td>
+<td>166937
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>8155</td>
+<td>-5251</td>
+<td>-3085
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>14</td>
+<td>39397</td>
+<td>-35310</td>
+<td>123256
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>-218396</td>
+<td>13806</td>
+<td>-47126
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>-29773</td>
+<td>-22959</td>
+<td>-69500
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>-198657</td>
+<td>11745</td>
+<td>-76007
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>44847</td>
+<td>33481</td>
+<td>111169
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>4</td>
+<td>26809</td>
+<td>-1988</td>
+<td>198820
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>4</td>
+<td>30324</td>
+<td>-2065</td>
+<td>41168
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>2</td>
+<td>36860</td>
+<td>55267</td>
+<td>-51672
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>2</td>
+<td>-68128</td>
+<td>8742</td>
+<td>-75967
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Aldrin" title="Aldrin">Aldrin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>2</td>
+<td>-108058</td>
+<td>-41810</td>
+<td>-92119
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Antigone_Memorial" title="Antigone Memorial">Antigone Memorial</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>61</td>
+<td>13254</td>
+<td>-1135</td>
+<td>17569
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Antigone_Memorial" title="Antigone Memorial">Antigone Memorial</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>61</td>
+<td>13254</td>
+<td>-1135</td>
+<td>17569
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Antigone_Memorial" title="Antigone Memorial">Antigone Memorial</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-16007</td>
+<td>2685</td>
+<td>6529
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Antigone_Memorial" title="Antigone Memorial">Antigone Memorial</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>8942</td>
+<td>3316</td>
+<td>14262
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Argon_Sector_M148" title="Argon Sector M148">Argon Sector M148</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>40</td>
+<td>-11013</td>
+<td>-829</td>
+<td>22163
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Asteroid_Belt" title="Asteroid Belt">Asteroid Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>70</td>
+<td>-4260</td>
+<td>3833</td>
+<td>-52787
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Asteroid_Belt" title="Asteroid Belt">Asteroid Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>64</td>
+<td>-52037</td>
+<td>9520</td>
+<td>-10576
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Asteroid_Belt" title="Asteroid Belt">Asteroid Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-24832</td>
+<td>4488</td>
+<td>35758
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Asteroid_Belt" title="Asteroid Belt">Asteroid Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-48909</td>
+<td>9054</td>
+<td>30055
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Asteroid_Belt" title="Asteroid Belt">Asteroid Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-12734</td>
+<td>1995</td>
+<td>27975
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Asteroid_Belt" title="Asteroid Belt">Asteroid Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-60103</td>
+<td>946</td>
+<td>8881
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Asteroid_Belt" title="Asteroid Belt">Asteroid Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>21351</td>
+<td>-6360</td>
+<td>-15746
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Asteroid_Belt" title="Asteroid Belt">Asteroid Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-62014</td>
+<td>7462</td>
+<td>35710
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Asteroid_Belt" title="Asteroid Belt">Asteroid Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>14556</td>
+<td>-6048</td>
+<td>-60627
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>56</td>
+<td>13764</td>
+<td>10212</td>
+<td>17760
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>40</td>
+<td>12975</td>
+<td>5772</td>
+<td>27118
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>38</td>
+<td>-3996</td>
+<td>11988</td>
+<td>26640
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>38</td>
+<td>18204</td>
+<td>9768</td>
+<td>12432
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>36</td>
+<td>-7548</td>
+<td>9324</td>
+<td>22644
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>32</td>
+<td>-2752</td>
+<td>6216</td>
+<td>11626
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>30</td>
+<td>-18880</td>
+<td>8880</td>
+<td>16376
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>28</td>
+<td>4764</td>
+<td>5328</td>
+<td>28614
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>27</td>
+<td>1154</td>
+<td>10656</td>
+<td>19092
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>7548</td>
+<td>4884</td>
+<td>15096
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>24</td>
+<td>3241</td>
+<td>10656</td>
+<td>11988
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>20</td>
+<td>-11988</td>
+<td>11100</td>
+<td>17316
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>17</td>
+<td>-8289</td>
+<td>8436</td>
+<td>12135
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>-12087</td>
+<td>11544</td>
+<td>24420
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>9949</td>
+<td>7992</td>
+<td>22299
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>970</td>
+<td>7548</td>
+<td>9652
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>-21312</td>
+<td>9670</td>
+<td>23088
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>-10212</td>
+<td>6660</td>
+<td>19980
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>15984</td>
+<td>2886</td>
+<td>11544
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>9324</td>
+<td>4351</td>
+<td>4307
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>4884</td>
+<td>4528</td>
+<td>8221
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>14587</td>
+<td>3330</td>
+<td>6872
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-11687</td>
+<td>7770</td>
+<td>29765
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-17548</td>
+<td>7903</td>
+<td>24174
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>6660</td>
+<td>3818</td>
+<td>22200
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>15164</td>
+<td>6438</td>
+<td>22135
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>13019</td>
+<td>5106</td>
+<td>18648
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>-15096</td>
+<td>8702</td>
+<td>20868
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>-1332</td>
+<td>7192</td>
+<td>20424
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>-8948</td>
+<td>6038</td>
+<td>8385
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-44</td>
+<td>6438</td>
+<td>27528
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-8306</td>
+<td>5061</td>
+<td>26230
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>3043</td>
+<td>5994</td>
+<td>23713
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>4884</td>
+<td>4617</td>
+<td>18501
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-7015</td>
+<td>7414</td>
+<td>16872
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>7</td>
+<td>19358</td>
+<td>7326</td>
+<td>16937
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Barren_Shores" title="Barren Shores">Barren Shores</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>23532</td>
+<td>7326</td>
+<td>7104
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Black_Hole_Sun" title="Black Hole Sun">Black Hole Sun</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>25</td>
+<td>3748</td>
+<td>3726</td>
+<td>-4147
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Black_Hole_Sun" title="Black Hole Sun">Black Hole Sun</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>20</td>
+<td>10809</td>
+<td>-2046</td>
+<td>-12483
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Black_Hole_Sun" title="Black Hole Sun">Black Hole Sun</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>2457</td>
+<td>-3195</td>
+<td>-5592
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Black_Hole_Sun" title="Black Hole Sun">Black Hole Sun</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>28968</td>
+<td>0</td>
+<td>-31524
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Bluish_Snout" title="Bluish Snout">Bluish Snout</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>42</td>
+<td>-18785</td>
+<td>-1096</td>
+<td>-7086
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Bluish_Snout" title="Bluish Snout">Bluish Snout</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>31</td>
+<td>-14523</td>
+<td>4843</td>
+<td>4835
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Bluish_Snout" title="Bluish Snout">Bluish Snout</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>20</td>
+<td>-11572</td>
+<td>-2706</td>
+<td>7224
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Bluish_Snout" title="Bluish Snout">Bluish Snout</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>20</td>
+<td>-10332</td>
+<td>-4083</td>
+<td>-6311
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Bluish_Snout" title="Bluish Snout">Bluish Snout</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-17125</td>
+<td>-6488</td>
+<td>-3150
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Brennan%27s_Triumph" title="Brennan's Triumph">Brennan's Triumph</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-7396</td>
+<td>-3580</td>
+<td>-6678
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Brennan%27s_Triumph" title="Brennan's Triumph">Brennan's Triumph</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-12393</td>
+<td>1585</td>
+<td>-9812
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Brennan%27s_Triumph" title="Brennan's Triumph">Brennan's Triumph</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-1073</td>
+<td>4712</td>
+<td>6854
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Brennan%27s_Triumph" title="Brennan's Triumph">Brennan's Triumph</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-10273</td>
+<td>-1092</td>
+<td>703
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Cardinal%27s_Domain" title="Cardinal's Domain">Cardinal's Domain</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-14370</td>
+<td>12012</td>
+<td>-6414
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Ceo%27s_Doubt" title="Ceo's Doubt">Ceo's Doubt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-17592</td>
+<td>-60</td>
+<td>14644
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Ceo%27s_Doubt" title="Ceo's Doubt">Ceo's Doubt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>4880</td>
+<td>-1227</td>
+<td>17974
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Cho%27s_Defeat" title="Cho's Defeat">Cho's Defeat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>70</td>
+<td>20206</td>
+<td>-10499</td>
+<td>11091
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Cho%27s_Defeat" title="Cho's Defeat">Cho's Defeat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>70</td>
+<td>20206</td>
+<td>-10499</td>
+<td>11091
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Cho%27s_Defeat" title="Cho's Defeat">Cho's Defeat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-10611</td>
+<td>5428</td>
+<td>-2579
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Cho%27s_Defeat" title="Cho's Defeat">Cho's Defeat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>20</td>
+<td>-11128</td>
+<td>-364</td>
+<td>-12618
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Cho%27s_Defeat" title="Cho's Defeat">Cho's Defeat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>19</td>
+<td>-11684</td>
+<td>-5027</td>
+<td>3339
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Cho%27s_Defeat" title="Cho's Defeat">Cho's Defeat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-14700</td>
+<td>3882</td>
+<td>-10938
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Cho%27s_Defeat" title="Cho's Defeat">Cho's Defeat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>5373</td>
+<td>-11342</td>
+<td>-5959
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Cho%27s_Defeat" title="Cho's Defeat">Cho's Defeat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-15466</td>
+<td>-7449</td>
+<td>-14103
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Cho%27s_Defeat" title="Cho's Defeat">Cho's Defeat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>7</td>
+<td>-5933</td>
+<td>-2042</td>
+<td>-12897
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Cho%27s_Defeat" title="Cho's Defeat">Cho's Defeat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-17424</td>
+<td>-5219</td>
+<td>5102
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Cho%27s_Defeat" title="Cho's Defeat">Cho's Defeat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-11504</td>
+<td>-59</td>
+<td>-5949
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Cho%27s_Defeat" title="Cho's Defeat">Cho's Defeat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-7690</td>
+<td>3614</td>
+<td>-10391
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Cho%27s_Defeat" title="Cho's Defeat">Cho's Defeat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>-10848</td>
+<td>2237</td>
+<td>6495
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Circle_Of_Labour" title="Circle Of Labour">Circle Of Labour</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>3232</td>
+<td>808</td>
+<td>-11188
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Circle_Of_Labour" title="Circle Of Labour">Circle Of Labour</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>-15415</td>
+<td>-2113</td>
+<td>-2486
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Clarity%27s_End" title="Clarity's End">Clarity's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>40</td>
+<td>-3472</td>
+<td>3742</td>
+<td>34759
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Clarity%27s_End" title="Clarity's End">Clarity's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>30</td>
+<td>9462</td>
+<td>-22871</td>
+<td>-30264
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Clarity%27s_End" title="Clarity's End">Clarity's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>20</td>
+<td>-1734</td>
+<td>-10165</td>
+<td>-32682
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Clarity%27s_End" title="Clarity's End">Clarity's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>20</td>
+<td>19654</td>
+<td>-9601</td>
+<td>-39581
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Clarity%27s_End" title="Clarity's End">Clarity's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>-8746</td>
+<td>24692</td>
+<td>-33194
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Clarity%27s_End" title="Clarity's End">Clarity's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-33347</td>
+<td>-7746</td>
+<td>23867
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Clarity%27s_End" title="Clarity's End">Clarity's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-20208</td>
+<td>32310</td>
+<td>-14592
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Clarity%27s_End" title="Clarity's End">Clarity's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-18992</td>
+<td>-6488</td>
+<td>-32853
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Clarity%27s_End" title="Clarity's End">Clarity's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>7</td>
+<td>-2021</td>
+<td>7995</td>
+<td>20676
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Clarity%27s_End" title="Clarity's End">Clarity's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>7</td>
+<td>-27418</td>
+<td>-7608</td>
+<td>13753
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Clarity%27s_End" title="Clarity's End">Clarity's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>7</td>
+<td>-5434</td>
+<td>12408</td>
+<td>-1268
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Clarity%27s_End" title="Clarity's End">Clarity's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>2</td>
+<td>27460</td>
+<td>-10436</td>
+<td>-36080
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Clarity%27s_End" title="Clarity's End">Clarity's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>1</td>
+<td>-16092</td>
+<td>-4920</td>
+<td>-17418
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Clarity%27s_End" title="Clarity's End">Clarity's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>1</td>
+<td>5434</td>
+<td>3351</td>
+<td>-25723
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Cloudbase_South_West" title="Cloudbase South West">Cloudbase South West</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-11877</td>
+<td>5786</td>
+<td>-4559
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Company_Strength" title="Company Strength">Company Strength</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>33</td>
+<td>11652</td>
+<td>-10881</td>
+<td>6325
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Company_Strength" title="Company Strength">Company Strength</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-17786</td>
+<td>10094</td>
+<td>5719
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Company_Strength" title="Company Strength">Company Strength</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>17</td>
+<td>19237</td>
+<td>-433</td>
+<td>21
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Company_Strength" title="Company Strength">Company Strength</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>22114</td>
+<td>3603</td>
+<td>20178
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Company_Strength" title="Company Strength">Company Strength</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>5554</td>
+<td>11007</td>
+<td>5483
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Company_Strength" title="Company Strength">Company Strength</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>5554</td>
+<td>11007</td>
+<td>5483
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Company_Strength" title="Company Strength">Company Strength</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>-445</td>
+<td>-7590</td>
+<td>12232
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Company_Strength" title="Company Strength">Company Strength</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>5626</td>
+<td>-7723</td>
+<td>6555
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Company_Strength" title="Company Strength">Company Strength</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-26079</td>
+<td>-11327</td>
+<td>12466
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Company_Strength" title="Company Strength">Company Strength</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-21543</td>
+<td>-22980</td>
+<td>-36306
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Danna%27s_Chance" title="Danna's Chance">Danna's Chance</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>30</td>
+<td>2528</td>
+<td>2583</td>
+<td>-1335
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Danna%27s_Chance" title="Danna's Chance">Danna's Chance</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>6955</td>
+<td>-792</td>
+<td>-6397
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Dark_Waters" title="Dark Waters">Dark Waters</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>58</td>
+<td>6660</td>
+<td>-11721</td>
+<td>7104
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Depths_Of_Silence" title="Depths Of Silence">Depths Of Silence</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>32</td>
+<td>1110</td>
+<td>222</td>
+<td>36630
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Depths_Of_Silence" title="Depths Of Silence">Depths Of Silence</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>22</td>
+<td>-23474</td>
+<td>0</td>
+<td>-1810
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Depths_Of_Silence" title="Depths Of Silence">Depths Of Silence</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>-14020</td>
+<td>0</td>
+<td>17760
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Depths_Of_Silence" title="Depths Of Silence">Depths Of Silence</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>17</td>
+<td>-19980</td>
+<td>-444</td>
+<td>-36630
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Depths_Of_Silence" title="Depths Of Silence">Depths Of Silence</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>16650</td>
+<td>0</td>
+<td>4440
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Depths_Of_Silence" title="Depths Of Silence">Depths Of Silence</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-11655</td>
+<td>222</td>
+<td>-26640
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Desecrated_Skies" title="Desecrated Skies">Desecrated Skies</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>30</td>
+<td>-3313</td>
+<td>-25251</td>
+<td>-19932
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Desecrated_Skies" title="Desecrated Skies">Desecrated Skies</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>31268</td>
+<td>5362</td>
+<td>-34802
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Desecrated_Skies" title="Desecrated Skies">Desecrated Skies</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>27961</td>
+<td>-21537</td>
+<td>-34494
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Desecrated_Skies" title="Desecrated Skies">Desecrated Skies</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>7</td>
+<td>11285</td>
+<td>-4433</td>
+<td>-34018
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Desecrated_Skies" title="Desecrated Skies">Desecrated Skies</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-43165</td>
+<td>6603</td>
+<td>14737
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Desecrated_Skies" title="Desecrated Skies">Desecrated Skies</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>4836</td>
+<td>2982</td>
+<td>-22893
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Desecrated_Skies" title="Desecrated Skies">Desecrated Skies</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>4</td>
+<td>-33645</td>
+<td>17180</td>
+<td>-14387
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Desecrated_Skies" title="Desecrated Skies">Desecrated Skies</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>1</td>
+<td>-9371</td>
+<td>-9371</td>
+<td>6216
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Desecrated_Skies" title="Desecrated Skies">Desecrated Skies</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>1</td>
+<td>-16903</td>
+<td>-6220</td>
+<td>-29239
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Duke%27s_Vision" title="Duke's Vision">Duke's Vision</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>56</td>
+<td>2635</td>
+<td>-91548</td>
+<td>-13117
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Duke%27s_Vision" title="Duke's Vision">Duke's Vision</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>6940</td>
+<td>-8901</td>
+<td>-9193
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Eighteen_Billion" title="Eighteen Billion">Eighteen Billion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>11605</td>
+<td>3407</td>
+<td>370
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Eighteen_Billion" title="Eighteen Billion">Eighteen Billion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>2276</td>
+<td>-1707</td>
+<td>-3034
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Eighteen_Billion" title="Eighteen Billion">Eighteen Billion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>14049</td>
+<td>-4240</td>
+<td>-3445
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Elena%27s_Fortune" title="Elena's Fortune">Elena's Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>64</td>
+<td>-5419</td>
+<td>-7734</td>
+<td>1404
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Elena%27s_Fortune" title="Elena's Fortune">Elena's Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>7045</td>
+<td>6908</td>
+<td>4216
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Elena%27s_Fortune" title="Elena's Fortune">Elena's Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>22191</td>
+<td>-4277</td>
+<td>-655
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Elena%27s_Fortune" title="Elena's Fortune">Elena's Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>14116</td>
+<td>-11706</td>
+<td>-2500
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Elena%27s_Fortune" title="Elena's Fortune">Elena's Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-15805</td>
+<td>3276</td>
+<td>-11810
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Elena%27s_Fortune" title="Elena's Fortune">Elena's Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-11743</td>
+<td>-4001</td>
+<td>-14901
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Elena%27s_Fortune" title="Elena's Fortune">Elena's Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-3612</td>
+<td>4468</td>
+<td>-16870
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Elena%27s_Fortune" title="Elena's Fortune">Elena's Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>813</td>
+<td>-4693</td>
+<td>-18416
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Elena%27s_Fortune" title="Elena's Fortune">Elena's Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>3898</td>
+<td>-36</td>
+<td>-26319
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Elena%27s_Fortune" title="Elena's Fortune">Elena's Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>6323</td>
+<td>-7869</td>
+<td>10261
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Elena%27s_Fortune" title="Elena's Fortune">Elena's Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-11108</td>
+<td>588</td>
+<td>16729
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Emperor_Mines" title="Emperor Mines">Emperor Mines</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>17</td>
+<td>-25117</td>
+<td>302</td>
+<td>-22885
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Emperor_Mines" title="Emperor Mines">Emperor Mines</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>-15364</td>
+<td>604</td>
+<td>-19601
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Emperor_Mines" title="Emperor Mines">Emperor Mines</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-7141</td>
+<td>471</td>
+<td>7979
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Emperor_Mines" title="Emperor Mines">Emperor Mines</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>8291</td>
+<td>967</td>
+<td>-3840
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Emperor_Mines" title="Emperor Mines">Emperor Mines</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>4</td>
+<td>6510</td>
+<td>-7114</td>
+<td>-3531
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Emperor%27s_Wisdom" title="Emperor's Wisdom">Emperor's Wisdom</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>45</td>
+<td>151516</td>
+<td>924</td>
+<td>-59749
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Emperor%27s_Wisdom" title="Emperor's Wisdom">Emperor's Wisdom</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>19</td>
+<td>125365</td>
+<td>5392</td>
+<td>28114
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Emperor%27s_Wisdom" title="Emperor's Wisdom">Emperor's Wisdom</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>163249</td>
+<td>2520</td>
+<td>-9274
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Emperor%27s_Wisdom" title="Emperor's Wisdom">Emperor's Wisdom</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>146554</td>
+<td>-57230</td>
+<td>-50962
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Emperor%27s_Wisdom" title="Emperor's Wisdom">Emperor's Wisdom</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>135092</td>
+<td>-37670</td>
+<td>3698
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Emperor%27s_Wisdom" title="Emperor's Wisdom">Emperor's Wisdom</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>127962</td>
+<td>-64963</td>
+<td>-745
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Njy" title="Family Njy">Family Njy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>22</td>
+<td>-139</td>
+<td>5357</td>
+<td>82942
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Njy" title="Family Njy">Family Njy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>22</td>
+<td>-139</td>
+<td>5357</td>
+<td>82942
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Njy" title="Family Njy">Family Njy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>17</td>
+<td>-8934</td>
+<td>-10377</td>
+<td>-14527
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Njy" title="Family Njy">Family Njy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>-19132</td>
+<td>5978</td>
+<td>5412
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Njy" title="Family Njy">Family Njy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-25050</td>
+<td>2719</td>
+<td>11072
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Njy" title="Family Njy">Family Njy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>-14147</td>
+<td>488</td>
+<td>8734
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Njy" title="Family Njy">Family Njy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>4</td>
+<td>-11990</td>
+<td>11622</td>
+<td>5740
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Pride" title="Family Pride">Family Pride</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>10754</td>
+<td>5544</td>
+<td>3060
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Pride" title="Family Pride">Family Pride</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>4</td>
+<td>14902</td>
+<td>6466</td>
+<td>22799
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Pride" title="Family Pride">Family Pride</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>4</td>
+<td>26082</td>
+<td>-6759</td>
+<td>-22538
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Rhy" title="Family Rhy">Family Rhy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>32</td>
+<td>-5935</td>
+<td>3774</td>
+<td>-12454
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Rhy" title="Family Rhy">Family Rhy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>7170</td>
+<td>905</td>
+<td>18870
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Rhy" title="Family Rhy">Family Rhy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-44</td>
+<td>1434</td>
+<td>-8721
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Rhy" title="Family Rhy">Family Rhy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>7543</td>
+<td>-4830</td>
+<td>-3880
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Ryk" title="Family Ryk">Family Ryk</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>32</td>
+<td>18528</td>
+<td>-21942</td>
+<td>-9177
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Ryk" title="Family Ryk">Family Ryk</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>23</td>
+<td>10389</td>
+<td>-2597</td>
+<td>14199
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Ryk" title="Family Ryk">Family Ryk</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-18181</td>
+<td>2251</td>
+<td>-2424
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Ryk" title="Family Ryk">Family Ryk</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>40346</td>
+<td>-5541</td>
+<td>7445
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Ryk" title="Family Ryk">Family Ryk</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>37748</td>
+<td>8658</td>
+<td>-9177
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Tkr" title="Family Tkr">Family Tkr</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>38</td>
+<td>-33566</td>
+<td>-7459</td>
+<td>-8880
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Tkr" title="Family Tkr">Family Tkr</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>32</td>
+<td>-15806</td>
+<td>5328</td>
+<td>-22200
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Tkr" title="Family Tkr">Family Tkr</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>10212</td>
+<td>4795</td>
+<td>-4262
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Tkr" title="Family Tkr">Family Tkr</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>18648</td>
+<td>2131</td>
+<td>10656
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Whi" title="Family Whi">Family Whi</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-23845</td>
+<td>6142</td>
+<td>4636
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Whi" title="Family Whi">Family Whi</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>3</td>
+<td>-24568</td>
+<td>-6958</td>
+<td>-6162
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Zein" title="Family Zein">Family Zein</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>42</td>
+<td>-2372</td>
+<td>-1594</td>
+<td>4252
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Zein" title="Family Zein">Family Zein</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>42</td>
+<td>-2372</td>
+<td>-1594</td>
+<td>4252
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Family_Zein" title="Family Zein">Family Zein</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-18189</td>
+<td>1799</td>
+<td>-29098
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Farnham%27s_Legend" title="Farnham's Legend">Farnham's Legend</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-947</td>
+<td>3165</td>
+<td>10755
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Farnham%27s_Legend" title="Farnham's Legend">Farnham's Legend</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-165</td>
+<td>2852</td>
+<td>-16824
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Farnham%27s_Legend" title="Farnham's Legend">Farnham's Legend</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>12550</td>
+<td>2197</td>
+<td>13710
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Farnham%27s_Legend" title="Farnham's Legend">Farnham's Legend</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>7723</td>
+<td>-6264</td>
+<td>11070
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Freedom%27s_Reach" title="Freedom's Reach">Freedom's Reach</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>1308</td>
+<td>-1468</td>
+<td>14616
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Freedom%27s_Reach" title="Freedom's Reach">Freedom's Reach</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-8604</td>
+<td>-587</td>
+<td>13331
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Freedom%27s_Reach" title="Freedom's Reach">Freedom's Reach</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-14341</td>
+<td>3262</td>
+<td>9785
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Freedom%27s_Reach" title="Freedom's Reach">Freedom's Reach</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-13119</td>
+<td>1620</td>
+<td>1149
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Freedom%27s_Reach" title="Freedom's Reach">Freedom's Reach</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-5013</td>
+<td>2417</td>
+<td>-5178
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Freedom%27s_Reach" title="Freedom's Reach">Freedom's Reach</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-9657</td>
+<td>1351</td>
+<td>21998
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Freedom%27s_Reach" title="Freedom's Reach">Freedom's Reach</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-8958</td>
+<td>-361</td>
+<td>10396
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Freedom%27s_Reach" title="Freedom's Reach">Freedom's Reach</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>11150</td>
+<td>-2630</td>
+<td>-8990
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Freedom%27s_Reach" title="Freedom's Reach">Freedom's Reach</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-4557</td>
+<td>1667</td>
+<td>-11374
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Freedom%27s_Reach" title="Freedom's Reach">Freedom's Reach</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-25403</td>
+<td>-3442</td>
+<td>-12794
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Freedom%27s_Reach" title="Freedom's Reach">Freedom's Reach</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>14811</td>
+<td>1289</td>
+<td>-14960
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Freedom%27s_Reach" title="Freedom's Reach">Freedom's Reach</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>11664</td>
+<td>2319</td>
+<td>8316
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Friar%27s_Retreat" title="Friar's Retreat">Friar's Retreat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>10541</td>
+<td>35165</td>
+<td>331
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Friar%27s_Retreat" title="Friar's Retreat">Friar's Retreat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>3036</td>
+<td>29464</td>
+<td>7251
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Gaian_Star" title="Gaian Star">Gaian Star</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>28</td>
+<td>33648</td>
+<td>18711</td>
+<td>-29641
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Gaian_Star" title="Gaian Star">Gaian Star</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>32363</td>
+<td>22262</td>
+<td>-20313
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Gaian_Star" title="Gaian Star">Gaian Star</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>43278</td>
+<td>15495</td>
+<td>-19334
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Gaian_Star" title="Gaian Star">Gaian Star</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>35264</td>
+<td>13632</td>
+<td>-34794
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Gaian_Star" title="Gaian Star">Gaian Star</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>15266</td>
+<td>-5464</td>
+<td>-19588
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Gaian_Star" title="Gaian Star">Gaian Star</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>4527</td>
+<td>14514</td>
+<td>-15676
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Getsu_Fune" title="Getsu Fune">Getsu Fune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>25</td>
+<td>-17233</td>
+<td>-7972</td>
+<td>-790
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Ghinn%27s_Escape" title="Ghinn's Escape">Ghinn's Escape</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>24</td>
+<td>10801</td>
+<td>4383</td>
+<td>5011
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Ghinn%27s_Escape" title="Ghinn's Escape">Ghinn's Escape</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>17</td>
+<td>5712</td>
+<td>2343</td>
+<td>3394
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Ghinn%27s_Escape" title="Ghinn's Escape">Ghinn's Escape</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>7</td>
+<td>7998</td>
+<td>-1640</td>
+<td>-1132
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Great_Reef" title="Great Reef">Great Reef</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>36</td>
+<td>26640</td>
+<td>-12862</td>
+<td>-21756
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Gunne%27s_Crusade" title="Gunne's Crusade">Gunne's Crusade</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>72</td>
+<td>16050</td>
+<td>4154</td>
+<td>15042
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Gunne%27s_Crusade" title="Gunne's Crusade">Gunne's Crusade</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>40</td>
+<td>-18388</td>
+<td>-1688</td>
+<td>22128
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Gunne%27s_Crusade" title="Gunne's Crusade">Gunne's Crusade</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>24632</td>
+<td>997</td>
+<td>16987
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Gunne%27s_Crusade" title="Gunne's Crusade">Gunne's Crusade</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>1800</td>
+<td>-11155</td>
+<td>6073
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Gunne%27s_Crusade" title="Gunne's Crusade">Gunne's Crusade</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>6082</td>
+<td>0</td>
+<td>3729
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Gunne%27s_Crusade" title="Gunne's Crusade">Gunne's Crusade</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>27920</td>
+<td>1863</td>
+<td>-8347
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Gunne%27s_Crusade" title="Gunne's Crusade">Gunne's Crusade</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>-368</td>
+<td>6263</td>
+<td>1770
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Gunne%27s_Crusade" title="Gunne's Crusade">Gunne's Crusade</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>19954</td>
+<td>-9736</td>
+<td>21262
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Gunne%27s_Crusade" title="Gunne's Crusade">Gunne's Crusade</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>12830</td>
+<td>-6518</td>
+<td>-2355
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Gunne%27s_Crusade" title="Gunne's Crusade">Gunne's Crusade</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>4786</td>
+<td>2666</td>
+<td>9559
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Hatikvah%27s_Faith" title="Hatikvah's Faith">Hatikvah's Faith</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-2112</td>
+<td>6614</td>
+<td>-16511
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Hatikvah%27s_Faith" title="Hatikvah's Faith">Hatikvah's Faith</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-411</td>
+<td>-2733</td>
+<td>-19559
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Hatikvah%27s_Faith" title="Hatikvah's Faith">Hatikvah's Faith</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>7743</td>
+<td>6453</td>
+<td>-13532
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Hatikvah%27s_Faith" title="Hatikvah's Faith">Hatikvah's Faith</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>6479</td>
+<td>1784</td>
+<td>-19559
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Hatikvah%27s_Faith" title="Hatikvah's Faith">Hatikvah's Faith</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>6479</td>
+<td>-3286</td>
+<td>-9716
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Hatikvah%27s_Faith" title="Hatikvah's Faith">Hatikvah's Faith</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>8088</td>
+<td>-5997</td>
+<td>-17127
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Heaven%27s_Assertion" title="Heaven's Assertion">Heaven's Assertion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>40</td>
+<td>-36776</td>
+<td>-8876</td>
+<td>44256
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Heaven%27s_Assertion" title="Heaven's Assertion">Heaven's Assertion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-27007</td>
+<td>-3339</td>
+<td>21510
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Heaven%27s_Assertion" title="Heaven's Assertion">Heaven's Assertion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-27007</td>
+<td>-3339</td>
+<td>21510
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Heaven%27s_Assertion" title="Heaven's Assertion">Heaven's Assertion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-30159</td>
+<td>3726</td>
+<td>5305
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Heaven%27s_Assertion" title="Heaven's Assertion">Heaven's Assertion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>1263</td>
+<td>-9127</td>
+<td>53975
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Heaven%27s_Assertion" title="Heaven's Assertion">Heaven's Assertion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-1898</td>
+<td>2963</td>
+<td>45961
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Heaven%27s_Assertion" title="Heaven's Assertion">Heaven's Assertion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>-24927</td>
+<td>5332</td>
+<td>14118
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Herron%27s_Nebula" title="Herron's Nebula">Herron's Nebula</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>43</td>
+<td>11322</td>
+<td>-1962</td>
+<td>11342
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Herron%27s_Nebula" title="Herron's Nebula">Herron's Nebula</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>43</td>
+<td>11322</td>
+<td>-1962</td>
+<td>11342
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Herron%27s_Nebula" title="Herron's Nebula">Herron's Nebula</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-29694</td>
+<td>9664</td>
+<td>-11071
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Herron%27s_Nebula" title="Herron's Nebula">Herron's Nebula</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>8467</td>
+<td>6341</td>
+<td>-12301
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Hila%27s_Joy" title="Hila's Joy">Hila's Joy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-19538</td>
+<td>3951</td>
+<td>8367
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Hila%27s_Joy" title="Hila's Joy">Hila's Joy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>-12044</td>
+<td>-24</td>
+<td>11515
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Hila%27s_Joy" title="Hila's Joy">Hila's Joy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>17258</td>
+<td>994</td>
+<td>-8071
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Hollow_Infinity" title="Hollow Infinity">Hollow Infinity</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>60</td>
+<td>-47241</td>
+<td>17760</td>
+<td>-50527
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Hollow_Infinity" title="Hollow Infinity">Hollow Infinity</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>32</td>
+<td>12139</td>
+<td>-3062</td>
+<td>18155
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Hollow_Infinity" title="Hollow Infinity">Hollow Infinity</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>25</td>
+<td>-1419</td>
+<td>2651</td>
+<td>-11455
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Hollow_Infinity" title="Hollow Infinity">Hollow Infinity</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>23</td>
+<td>-17258</td>
+<td>-3573</td>
+<td>-14761
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Hollow_Infinity" title="Hollow Infinity">Hollow Infinity</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>17551</td>
+<td>-4741</td>
+<td>13449
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Hollow_Infinity" title="Hollow Infinity">Hollow Infinity</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>-26320</td>
+<td>-7962</td>
+<td>-10365
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Hollow_Infinity" title="Hollow Infinity">Hollow Infinity</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-4560</td>
+<td>-4187</td>
+<td>14877
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Hollow_Infinity" title="Hollow Infinity">Hollow Infinity</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>4</td>
+<td>14733</td>
+<td>3400</td>
+<td>31152
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Ianamus_Zura" title="Ianamus Zura">Ianamus Zura</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-15976</td>
+<td>-9538</td>
+<td>3689
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Ianamus_Zura" title="Ianamus Zura">Ianamus Zura</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>932</td>
+<td>-11988</td>
+<td>4453
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Interworlds" title="Interworlds">Interworlds</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>30</td>
+<td>-11322</td>
+<td>199</td>
+<td>14652
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Interworlds" title="Interworlds">Interworlds</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>7992</td>
+<td>0</td>
+<td>-17982
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Jupiter_3" title="Jupiter 3">Jupiter 3</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>56</td>
+<td>14105</td>
+<td>-6015</td>
+<td>36744
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Jupiter_3" title="Jupiter 3">Jupiter 3</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-19505</td>
+<td>-6254</td>
+<td>16133
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Jupiter_3" title="Jupiter 3">Jupiter 3</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-7790</td>
+<td>4918</td>
+<td>-16083
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>70</td>
+<td>-3727</td>
+<td>3354</td>
+<td>-46189
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>64</td>
+<td>-45532</td>
+<td>1111</td>
+<td>-9254
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>56</td>
+<td>18675</td>
+<td>-7017</td>
+<td>25284
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>40</td>
+<td>-32179</td>
+<td>-2954</td>
+<td>38724
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-15804</td>
+<td>1746</td>
+<td>21370
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>1896</td>
+<td>3927</td>
+<td>20788
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-28847</td>
+<td>6562</td>
+<td>19683
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-23631</td>
+<td>-2922</td>
+<td>18821
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-7350</td>
+<td>-2022</td>
+<td>16361
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-26389</td>
+<td>3260</td>
+<td>4642
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-39063</td>
+<td>-1181</td>
+<td>-42337
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>-27977</td>
+<td>-4448</td>
+<td>-17346
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-46310</td>
+<td>-1237</td>
+<td>69835
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>3239</td>
+<td>-4789</td>
+<td>27186
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>-12330</td>
+<td>-6538</td>
+<td>40710
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-33559</td>
+<td>-726</td>
+<td>12365
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-3062</td>
+<td>0</td>
+<td>-10101
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-66694</td>
+<td>6529</td>
+<td>31246
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>1105</td>
+<td>-7111</td>
+<td>47228
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>8376</td>
+<td>4665</td>
+<td>16728
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_841" title="Kha'ak Sector 841">Kha'ak Sector 841</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>12737</td>
+<td>-5292</td>
+<td>-59264
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_931" title="Kha'ak Sector 931">Kha'ak Sector 931</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>72</td>
+<td>20318</td>
+<td>7270</td>
+<td>22439
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_931" title="Kha'ak Sector 931">Kha'ak Sector 931</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>64</td>
+<td>-38539</td>
+<td>1111</td>
+<td>-11585
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_931" title="Kha'ak Sector 931">Kha'ak Sector 931</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>40</td>
+<td>-32179</td>
+<td>-2954</td>
+<td>38724
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_931" title="Kha'ak Sector 931">Kha'ak Sector 931</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>1896</td>
+<td>3927</td>
+<td>20788
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_931" title="Kha'ak Sector 931">Kha'ak Sector 931</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-7350</td>
+<td>-2022</td>
+<td>14030
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_931" title="Kha'ak Sector 931">Kha'ak Sector 931</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-50195</td>
+<td>-1237</td>
+<td>56626
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_931" title="Kha'ak Sector 931">Kha'ak Sector 931</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-33559</td>
+<td>-726</td>
+<td>6149
+</td></tr>
+<tr>
+<td> <a href="/index.php/Kha%27ak" title="Kha'ak">Kha'ak</a></td>
+<td> <a href="/index.php/Kha%27ak_Sector_931" title="Kha'ak Sector 931">Kha'ak Sector 931</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>0</td>
+<td>0</td>
+<td>-10101
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Kuiper_Belt" title="Kuiper Belt">Kuiper Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-15050</td>
+<td>9746</td>
+<td>18981
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Kuiper_Belt" title="Kuiper Belt">Kuiper Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>25</td>
+<td>-29818</td>
+<td>-10104</td>
+<td>-25355
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Kuiper_Belt" title="Kuiper Belt">Kuiper Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>25</td>
+<td>-22818</td>
+<td>-10104</td>
+<td>-25855
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Kuiper_Belt" title="Kuiper Belt">Kuiper Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>-27480</td>
+<td>-5312</td>
+<td>-15868
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Kuiper_Belt" title="Kuiper Belt">Kuiper Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-34445</td>
+<td>-14122</td>
+<td>-4075
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Legend%27s_Home" title="Legend's Home">Legend's Home</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-25664</td>
+<td>-1300</td>
+<td>-13194
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Light_of_Heart" title="Light of Heart">Light of Heart</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>16410</td>
+<td>3456</td>
+<td>28136
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Light_of_Heart" title="Light of Heart">Light of Heart</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>17</td>
+<td>37362</td>
+<td>670</td>
+<td>12078
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Light_of_Heart" title="Light of Heart">Light of Heart</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>33715</td>
+<td>-1219</td>
+<td>15778
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Light_of_Heart" title="Light of Heart">Light of Heart</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-21135</td>
+<td>4498</td>
+<td>15710
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Light_Water" title="Light Water">Light Water</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>60</td>
+<td>-47241</td>
+<td>17760</td>
+<td>-50527
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Light_Water" title="Light Water">Light Water</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>25</td>
+<td>8080</td>
+<td>-4848</td>
+<td>-11455
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/LooManckStrat%27s_Legacy" title="LooManckStrat's Legacy">LooManckStrat's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>72</td>
+<td>16050</td>
+<td>4154</td>
+<td>15042
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/LooManckStrat%27s_Legacy" title="LooManckStrat's Legacy">LooManckStrat's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>70</td>
+<td>-2130</td>
+<td>1916</td>
+<td>-26393
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/LooManckStrat%27s_Legacy" title="LooManckStrat's Legacy">LooManckStrat's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>40</td>
+<td>-18388</td>
+<td>-1688</td>
+<td>22128
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/LooManckStrat%27s_Legacy" title="LooManckStrat's Legacy">LooManckStrat's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>40</td>
+<td>-3108</td>
+<td>-155</td>
+<td>-31701
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/LooManckStrat%27s_Legacy" title="LooManckStrat's Legacy">LooManckStrat's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-6367</td>
+<td>997</td>
+<td>13987
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/LooManckStrat%27s_Legacy" title="LooManckStrat's Legacy">LooManckStrat's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-19148</td>
+<td>3749</td>
+<td>11247
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/LooManckStrat%27s_Legacy" title="LooManckStrat's Legacy">LooManckStrat's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-4200</td>
+<td>-1155</td>
+<td>7573
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/LooManckStrat%27s_Legacy" title="LooManckStrat's Legacy">LooManckStrat's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>6082</td>
+<td>0</td>
+<td>3729
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/LooManckStrat%27s_Legacy" title="LooManckStrat's Legacy">LooManckStrat's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-15079</td>
+<td>1863</td>
+<td>2652
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/LooManckStrat%27s_Legacy" title="LooManckStrat's Legacy">LooManckStrat's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-27028</td>
+<td>-675</td>
+<td>-17088
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/LooManckStrat%27s_Legacy" title="LooManckStrat's Legacy">LooManckStrat's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>-368</td>
+<td>-2736</td>
+<td>1770
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/LooManckStrat%27s_Legacy" title="LooManckStrat's Legacy">LooManckStrat's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>-7045</td>
+<td>-3736</td>
+<td>23262
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/LooManckStrat%27s_Legacy" title="LooManckStrat's Legacy">LooManckStrat's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-4252</td>
+<td>-4063</td>
+<td>32315
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/LooManckStrat%27s_Legacy" title="LooManckStrat's Legacy">LooManckStrat's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>7</td>
+<td>27632</td>
+<td>-3956</td>
+<td>24365
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/LooManckStrat%27s_Legacy" title="LooManckStrat's Legacy">LooManckStrat's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-2709</td>
+<td>2788</td>
+<td>41959
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/LooManckStrat%27s_Legacy" title="LooManckStrat's Legacy">LooManckStrat's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-3169</td>
+<td>1481</td>
+<td>25644
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/LooManckStrat%27s_Legacy" title="LooManckStrat's Legacy">LooManckStrat's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>4786</td>
+<td>2666</td>
+<td>9559
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/LooManckStrat%27s_Legacy" title="LooManckStrat's Legacy">LooManckStrat's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>1</td>
+<td>10287</td>
+<td>-401</td>
+<td>28993
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Lucky_Planets" title="Lucky Planets">Lucky Planets</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>14</td>
+<td>-17470</td>
+<td>5130</td>
+<td>-13214
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Lucky_Planets" title="Lucky Planets">Lucky Planets</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>-11244</td>
+<td>-7610</td>
+<td>-4112
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Lucky_Planets" title="Lucky Planets">Lucky Planets</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-7863</td>
+<td>3006</td>
+<td>-2976
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Menelaus%27_Paradise" title="Menelaus' Paradise">Menelaus' Paradise</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-17172</td>
+<td>7522</td>
+<td>158
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Menelaus%27_Paradise" title="Menelaus' Paradise">Menelaus' Paradise</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-11990</td>
+<td>-6036</td>
+<td>-291
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Menelaus%27_Paradise" title="Menelaus' Paradise">Menelaus' Paradise</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-7314</td>
+<td>5484</td>
+<td>-2260
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Menelaus%27_Paradise" title="Menelaus' Paradise">Menelaus' Paradise</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-17256</td>
+<td>-3073</td>
+<td>-10200
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Mi_Ton%27s_Refuge" title="Mi Ton's Refuge">Mi Ton's Refuge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>-1994</td>
+<td>-37832</td>
+<td>-29997
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Mi_Ton%27s_Refuge" title="Mi Ton's Refuge">Mi Ton's Refuge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>15696</td>
+<td>-26127</td>
+<td>26215
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Mi_Ton%27s_Refuge" title="Mi Ton's Refuge">Mi Ton's Refuge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>1836</td>
+<td>16085</td>
+<td>14029
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Mi_Ton%27s_Refuge" title="Mi Ton's Refuge">Mi Ton's Refuge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>7</td>
+<td>42331</td>
+<td>-54177</td>
+<td>-25446
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Mi_Ton%27s_Refuge" title="Mi Ton's Refuge">Mi Ton's Refuge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>13256</td>
+<td>22455</td>
+<td>-19856
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Midnight_Star" title="Midnight Star">Midnight Star</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>32</td>
+<td>-20238</td>
+<td>-12666</td>
+<td>-26640
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Midnight_Star" title="Midnight Star">Midnight Star</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>-14574</td>
+<td>15000</td>
+<td>-18648
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>72</td>
+<td>32100</td>
+<td>8309</td>
+<td>30085
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>70</td>
+<td>-4260</td>
+<td>3833</td>
+<td>-52787
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>64</td>
+<td>-52037</td>
+<td>1270</td>
+<td>-10576
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>56</td>
+<td>1807</td>
+<td>-9796</td>
+<td>43992
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>40</td>
+<td>-36776</td>
+<td>-3376</td>
+<td>44256
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-12734</td>
+<td>1995</td>
+<td>27975
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>2167</td>
+<td>4488</td>
+<td>23758
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-32968</td>
+<td>7499</td>
+<td>22495
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-27007</td>
+<td>-3339</td>
+<td>21510
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-8400</td>
+<td>-2311</td>
+<td>18698
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-30159</td>
+<td>9054</td>
+<td>5305
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-44644</td>
+<td>-1350</td>
+<td>-48385
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>-37973</td>
+<td>-5083</td>
+<td>-30824
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-48486</td>
+<td>-1414</td>
+<td>46956
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>3702</td>
+<td>-5473</td>
+<td>31069
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>-14091</td>
+<td>-7472</td>
+<td>46525
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-38353</td>
+<td>946</td>
+<td>14131
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-62014</td>
+<td>7462</td>
+<td>35710
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>1263</td>
+<td>-8127</td>
+<td>53975
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>7</td>
+<td>-3014</td>
+<td>-7912</td>
+<td>63826
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-5419</td>
+<td>5577</td>
+<td>83919
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-3433</td>
+<td>-9711</td>
+<td>76329
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-1898</td>
+<td>2963</td>
+<td>45961
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>9572</td>
+<td>7108</td>
+<td>19118
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>14556</td>
+<td>-6048</td>
+<td>-60627
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Mines_Of_Fortune" title="Mines Of Fortune">Mines Of Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>1</td>
+<td>20574</td>
+<td>-803</td>
+<td>67754
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Ministry_Of_Finance" title="Ministry Of Finance">Ministry Of Finance</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-13551</td>
+<td>-12562</td>
+<td>1970
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Ministry_Of_Finance" title="Ministry Of Finance">Ministry Of Finance</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>25</td>
+<td>-679</td>
+<td>-14584</td>
+<td>-40694
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Ministry_Of_Finance" title="Ministry Of Finance">Ministry Of Finance</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>24</td>
+<td>70924</td>
+<td>15438</td>
+<td>-17488
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Ministry_Of_Finance" title="Ministry Of Finance">Ministry Of Finance</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>23</td>
+<td>7702</td>
+<td>8536</td>
+<td>-60233
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Ministry_Of_Finance" title="Ministry Of Finance">Ministry Of Finance</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>48186</td>
+<td>10653</td>
+<td>-27239
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Ministry_Of_Finance" title="Ministry Of Finance">Ministry Of Finance</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-17653</td>
+<td>-5985</td>
+<td>-18128
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Ministry_Of_Finance" title="Ministry Of Finance">Ministry Of Finance</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>14</td>
+<td>18964</td>
+<td>14740</td>
+<td>-31915
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Ministry_Of_Finance" title="Ministry Of Finance">Ministry Of Finance</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>55923</td>
+<td>-17737</td>
+<td>-11519
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Ministry_Of_Finance" title="Ministry Of Finance">Ministry Of Finance</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>30352</td>
+<td>-24373</td>
+<td>-55366
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Ministry_Of_Finance" title="Ministry Of Finance">Ministry Of Finance</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>32856</td>
+<td>-5751</td>
+<td>-60633
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Ministry_Of_Finance" title="Ministry Of Finance">Ministry Of Finance</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>28656</td>
+<td>-6892</td>
+<td>-37958
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Ministry_Of_Finance" title="Ministry Of Finance">Ministry Of Finance</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>4</td>
+<td>25482</td>
+<td>27759</td>
+<td>-17237
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Montalaar" title="Montalaar">Montalaar</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>20</td>
+<td>-22785</td>
+<td>3819</td>
+<td>7600
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Montalaar" title="Montalaar">Montalaar</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>14026</td>
+<td>3021</td>
+<td>12329
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Montalaar" title="Montalaar">Montalaar</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>17</td>
+<td>7817</td>
+<td>-6691</td>
+<td>10569
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Montalaar" title="Montalaar">Montalaar</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>-5932</td>
+<td>3465</td>
+<td>18727
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Montalaar" title="Montalaar">Montalaar</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>5599</td>
+<td>1300</td>
+<td>17984
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Montalaar" title="Montalaar">Montalaar</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>-13527</td>
+<td>-207</td>
+<td>13441
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Montalaar" title="Montalaar">Montalaar</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-17740</td>
+<td>-5945</td>
+<td>17430
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Montalaar" title="Montalaar">Montalaar</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-19182</td>
+<td>6722</td>
+<td>21879
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>56</td>
+<td>29277</td>
+<td>5020</td>
+<td>-32586
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>34</td>
+<td>3094</td>
+<td>4858</td>
+<td>24648
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>9202</td>
+<td>12268</td>
+<td>34654
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>-4528</td>
+<td>10340</td>
+<td>-1056
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>20</td>
+<td>7413</td>
+<td>748</td>
+<td>20409
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>7052</td>
+<td>-18064</td>
+<td>28939
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-8774</td>
+<td>-8774</td>
+<td>5820
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-12522</td>
+<td>-20418</td>
+<td>1055
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>-30318</td>
+<td>10123</td>
+<td>4033
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>-15826</td>
+<td>-5824</td>
+<td>-27377
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>14</td>
+<td>-5206</td>
+<td>10964</td>
+<td>22210
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>1742</td>
+<td>7503</td>
+<td>-26219
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>8562</td>
+<td>20927</td>
+<td>-18977
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>-2893</td>
+<td>3118</td>
+<td>28966
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>-9208</td>
+<td>6793</td>
+<td>16605
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>-40417</td>
+<td>6183</td>
+<td>13799
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>-35612</td>
+<td>16931</td>
+<td>5169
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>-9350</td>
+<td>-14964</td>
+<td>-8699
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>28585</td>
+<td>-6655</td>
+<td>-26427
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>-1445</td>
+<td>-8471</td>
+<td>-27235
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>21699</td>
+<td>-14552</td>
+<td>-34153
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-36123</td>
+<td>-6455</td>
+<td>19889
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-5870</td>
+<td>13870</td>
+<td>10064
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-13410</td>
+<td>-4100</td>
+<td>-14515
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-7289</td>
+<td>20577</td>
+<td>-27661
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>7</td>
+<td>-1684</td>
+<td>6662</td>
+<td>17230
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>931</td>
+<td>-4207</td>
+<td>-13229
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>22883</td>
+<td>-8696</td>
+<td>-30066
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>16379</td>
+<td>-8000</td>
+<td>-32984
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>4</td>
+<td>-8774</td>
+<td>-18214</td>
+<td>6876
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>4</td>
+<td>-41514</td>
+<td>11850</td>
+<td>6793
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>3</td>
+<td>13683</td>
+<td>537</td>
+<td>-17089
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>2</td>
+<td>-33966</td>
+<td>680</td>
+<td>-6490
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Moo-Kye%27s_Revenge" title="Moo-Kye's Revenge">Moo-Kye's Revenge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>1</td>
+<td>-17992</td>
+<td>8319</td>
+<td>-20738
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/New_Income" title="New Income">New Income</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>-17404</td>
+<td>4351</td>
+<td>-43512
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/New_Income" title="New Income">New Income</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>20</td>
+<td>-40660</td>
+<td>4287</td>
+<td>-51822
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/New_Income" title="New Income">New Income</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>12833</td>
+<td>-7915</td>
+<td>-1205
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/New_Income" title="New Income">New Income</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-32219</td>
+<td>11675</td>
+<td>1033
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/New_Income" title="New Income">New Income</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-22572</td>
+<td>-74</td>
+<td>-8096
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Njy%27s_Deception" title="Njy's Deception">Njy's Deception</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>54</td>
+<td>-7714</td>
+<td>-5772</td>
+<td>9729
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Njy%27s_Deception" title="Njy's Deception">Njy's Deception</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-154</td>
+<td>4440</td>
+<td>10184
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Njy%27s_Deception" title="Njy's Deception">Njy's Deception</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>12838</td>
+<td>-8269</td>
+<td>-20700
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Njy%27s_Deception" title="Njy's Deception">Njy's Deception</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>-8713</td>
+<td>-3885</td>
+<td>-15484
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Nopileos%27_Memorial" title="Nopileos' Memorial">Nopileos' Memorial</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>32</td>
+<td>9092</td>
+<td>5560</td>
+<td>-4523
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Nopileos%27_Memorial" title="Nopileos' Memorial">Nopileos' Memorial</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>24</td>
+<td>-745</td>
+<td>-2785</td>
+<td>19367
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Nopileos%27_Memorial" title="Nopileos' Memorial">Nopileos' Memorial</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>24</td>
+<td>2458</td>
+<td>5413</td>
+<td>-13338
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Nopileos%27_Memorial" title="Nopileos' Memorial">Nopileos' Memorial</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>-5738</td>
+<td>-5014</td>
+<td>-812
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Nopileos%27_Memorial" title="Nopileos' Memorial">Nopileos' Memorial</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>-14455</td>
+<td>5909</td>
+<td>11018
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Nopileos%27_Memorial" title="Nopileos' Memorial">Nopileos' Memorial</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>-22952</td>
+<td>-504</td>
+<td>6031
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Nopileos%27_Memorial" title="Nopileos' Memorial">Nopileos' Memorial</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-27420</td>
+<td>6223</td>
+<td>-7539
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Nopileos%27_Memorial" title="Nopileos' Memorial">Nopileos' Memorial</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>4</td>
+<td>-11509</td>
+<td>-12282</td>
+<td>19292
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Nyana%27s_Hideout" title="Nyana's Hideout">Nyana's Hideout</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-5883</td>
+<td>22755</td>
+<td>52170
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Ocean_of_Fantasy" title="Ocean of Fantasy">Ocean of Fantasy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>32</td>
+<td>12139</td>
+<td>-3062</td>
+<td>18155
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Ocean_of_Fantasy" title="Ocean of Fantasy">Ocean of Fantasy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>23</td>
+<td>-17258</td>
+<td>-3573</td>
+<td>-14761
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Ocean_of_Fantasy" title="Ocean of Fantasy">Ocean of Fantasy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>4551</td>
+<td>-4741</td>
+<td>13449
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Ocean_of_Fantasy" title="Ocean of Fantasy">Ocean of Fantasy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>-19820</td>
+<td>-7962</td>
+<td>4134
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Ocean_of_Fantasy" title="Ocean of Fantasy">Ocean of Fantasy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-4560</td>
+<td>-4187</td>
+<td>14877
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Ocean_of_Fantasy" title="Ocean of Fantasy">Ocean of Fantasy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>8251</td>
+<td>6452</td>
+<td>20222
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Ocean_of_Fantasy" title="Ocean of Fantasy">Ocean of Fantasy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>500</td>
+<td>3034</td>
+<td>16286
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Ocean_of_Fantasy" title="Ocean of Fantasy">Ocean of Fantasy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>4</td>
+<td>14733</td>
+<td>3400</td>
+<td>31152
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Ocracoke%27s_Storm" title="Ocracoke's Storm">Ocracoke's Storm</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>32</td>
+<td>-7250</td>
+<td>3250</td>
+<td>-250
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Ocracoke%27s_Storm" title="Ocracoke's Storm">Ocracoke's Storm</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>32</td>
+<td>-7250</td>
+<td>3250</td>
+<td>-250
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Ocracoke%27s_Storm" title="Ocracoke's Storm">Ocracoke's Storm</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>32</td>
+<td>-7250</td>
+<td>3250</td>
+<td>-250
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Ocracoke%27s_Storm" title="Ocracoke's Storm">Ocracoke's Storm</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>24</td>
+<td>-10292</td>
+<td>-7035</td>
+<td>4685
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Ocracoke%27s_Storm" title="Ocracoke's Storm">Ocracoke's Storm</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>24</td>
+<td>-10292</td>
+<td>-7035</td>
+<td>4685
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Ocracoke%27s_Storm" title="Ocracoke's Storm">Ocracoke's Storm</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>24</td>
+<td>-10292</td>
+<td>-7035</td>
+<td>4685
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Olmancketslat%27s_Treaty" title="Olmancketslat's Treaty">Olmancketslat's Treaty</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-16243</td>
+<td>-5471</td>
+<td>14264
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Olmancketslat%27s_Treaty" title="Olmancketslat's Treaty">Olmancketslat's Treaty</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>-21311</td>
+<td>-507</td>
+<td>-7074
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Olmancketslat%27s_Treaty" title="Olmancketslat's Treaty">Olmancketslat's Treaty</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>8346</td>
+<td>-2187</td>
+<td>-17050
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Olmancketslat%27s_Treaty" title="Olmancketslat's Treaty">Olmancketslat's Treaty</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-8717</td>
+<td>-5513</td>
+<td>3015
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Omicron_Lyrae" title="Omicron Lyrae">Omicron Lyrae</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>31</td>
+<td>15415</td>
+<td>-3052</td>
+<td>-8561
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Omicron_Lyrae" title="Omicron Lyrae">Omicron Lyrae</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-18512</td>
+<td>4885</td>
+<td>8703
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Omicron_Lyrae" title="Omicron Lyrae">Omicron Lyrae</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-9408</td>
+<td>-5538</td>
+<td>1002
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Omicron_Lyrae" title="Omicron Lyrae">Omicron Lyrae</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>7902</td>
+<td>3130</td>
+<td>-6592
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Omicron_Lyrae" title="Omicron Lyrae">Omicron Lyrae</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>14475</td>
+<td>265</td>
+<td>-15100
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Omicron_Lyrae" title="Omicron Lyrae">Omicron Lyrae</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>3</td>
+<td>7208</td>
+<td>-747</td>
+<td>-18579
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Oort_Cloud" title="Oort Cloud">Oort Cloud</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>40</td>
+<td>23421</td>
+<td>2795</td>
+<td>-47619
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Oort_Cloud" title="Oort Cloud">Oort Cloud</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>28</td>
+<td>33648</td>
+<td>18711</td>
+<td>-31641
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Oort_Cloud" title="Oort Cloud">Oort Cloud</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>56363</td>
+<td>22262</td>
+<td>-15313
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Oort_Cloud" title="Oort Cloud">Oort Cloud</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-51558</td>
+<td>2930</td>
+<td>-19187
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Oort_Cloud" title="Oort Cloud">Oort Cloud</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-47558</td>
+<td>2930</td>
+<td>-24187
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Oort_Cloud" title="Oort Cloud">Oort Cloud</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-19857</td>
+<td>2875</td>
+<td>-32610
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Oort_Cloud" title="Oort Cloud">Oort Cloud</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>34679</td>
+<td>3999</td>
+<td>38338
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Oort_Cloud" title="Oort Cloud">Oort Cloud</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>2</td>
+<td>35346</td>
+<td>13977</td>
+<td>-42870
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>64</td>
+<td>-29838</td>
+<td>952</td>
+<td>24662
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>64</td>
+<td>-8058</td>
+<td>2930</td>
+<td>-12187
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>56</td>
+<td>14105</td>
+<td>-6015</td>
+<td>36744
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>11027</td>
+<td>-10855</td>
+<td>30802
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-26085</td>
+<td>2736</td>
+<td>30484
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-17206</td>
+<td>5596</td>
+<td>26782
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-24252</td>
+<td>-2532</td>
+<td>25200
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-18644</td>
+<td>11481</td>
+<td>22564
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-11050</td>
+<td>9746</td>
+<td>20981
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>1625</td>
+<td>11616</td>
+<td>17818
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-24726</td>
+<td>5624</td>
+<td>16871
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-19505</td>
+<td>-6254</td>
+<td>16133
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-9300</td>
+<td>-1733</td>
+<td>12898
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-22619</td>
+<td>2794</td>
+<td>3979
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-30290</td>
+<td>4918</td>
+<td>1416
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>25</td>
+<td>-24818</td>
+<td>-10104</td>
+<td>40144
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>-25480</td>
+<td>-5312</td>
+<td>-14868
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-25960</td>
+<td>-1810</td>
+<td>35217
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-13945</td>
+<td>-14122</td>
+<td>10424
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>947</td>
+<td>-6095</td>
+<td>40481
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-4064</td>
+<td>4183</td>
+<td>62939
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-2575</td>
+<td>-9908</td>
+<td>57246
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>10277</td>
+<td>7647</td>
+<td>50815
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-10510</td>
+<td>-5934</td>
+<td>44869
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>7576</td>
+<td>8222</td>
+<td>38971
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>19007</td>
+<td>-3756</td>
+<td>9806
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>7587</td>
+<td>-4536</td>
+<td>-15500
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-7857</td>
+<td>2875</td>
+<td>-19610
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ore_Belt" title="Ore Belt">Ore Belt</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>7179</td>
+<td>3999</td>
+<td>14338
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Conclusion" title="Patriarch's Conclusion">Patriarch's Conclusion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>-22132</td>
+<td>-8521</td>
+<td>22912
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Conclusion" title="Patriarch's Conclusion">Patriarch's Conclusion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-30050</td>
+<td>2719</td>
+<td>11072
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Conclusion" title="Patriarch's Conclusion">Patriarch's Conclusion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>-24147</td>
+<td>488</td>
+<td>-3765
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Conclusion" title="Patriarch's Conclusion">Patriarch's Conclusion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>4</td>
+<td>-9490</td>
+<td>11622</td>
+<td>21240
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Keep" title="Patriarch's Keep">Patriarch's Keep</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-2895</td>
+<td>-5786</td>
+<td>-10193
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Keep" title="Patriarch's Keep">Patriarch's Keep</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-9145</td>
+<td>-1969</td>
+<td>-10193
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Keep" title="Patriarch's Keep">Patriarch's Keep</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>10048</td>
+<td>4294</td>
+<td>3515
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Keep" title="Patriarch's Keep">Patriarch's Keep</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>658</td>
+<td>4202</td>
+<td>-14586
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Keep" title="Patriarch's Keep">Patriarch's Keep</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>7528</td>
+<td>-2036</td>
+<td>2196
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Keep" title="Patriarch's Keep">Patriarch's Keep</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>-9540</td>
+<td>4720</td>
+<td>-6327
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Keep" title="Patriarch's Keep">Patriarch's Keep</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>442</td>
+<td>6074</td>
+<td>12564
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Keep" title="Patriarch's Keep">Patriarch's Keep</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-12814</td>
+<td>-4819</td>
+<td>-13267
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Keep" title="Patriarch's Keep">Patriarch's Keep</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>3847</td>
+<td>3526</td>
+<td>16256
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Keep" title="Patriarch's Keep">Patriarch's Keep</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-7245</td>
+<td>10304</td>
+<td>-4392
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Keep" title="Patriarch's Keep">Patriarch's Keep</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>3</td>
+<td>10273</td>
+<td>-10751</td>
+<td>10279
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Keep" title="Patriarch's Keep">Patriarch's Keep</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>3</td>
+<td>-13505</td>
+<td>8918</td>
+<td>-8181
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Retreat" title="Patriarch's Retreat">Patriarch's Retreat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>54</td>
+<td>36779</td>
+<td>16185</td>
+<td>-30428
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Retreat" title="Patriarch's Retreat">Patriarch's Retreat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>36</td>
+<td>-36642</td>
+<td>11540</td>
+<td>-10414
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Retreat" title="Patriarch's Retreat">Patriarch's Retreat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>12949</td>
+<td>-5443</td>
+<td>48047
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Retreat" title="Patriarch's Retreat">Patriarch's Retreat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>25</td>
+<td>-48823</td>
+<td>-18847</td>
+<td>14529
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Retreat" title="Patriarch's Retreat">Patriarch's Retreat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>25</td>
+<td>-18324</td>
+<td>25269</td>
+<td>-583
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Retreat" title="Patriarch's Retreat">Patriarch's Retreat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>-6021</td>
+<td>-10228</td>
+<td>-59792
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Retreat" title="Patriarch's Retreat">Patriarch's Retreat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>11667</td>
+<td>-33799</td>
+<td>-21715
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Retreat" title="Patriarch's Retreat">Patriarch's Retreat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-45999</td>
+<td>10243</td>
+<td>10785
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Patriarch%27s_Retreat" title="Patriarch's Retreat">Patriarch's Retreat</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>40352</td>
+<td>20240</td>
+<td>9056
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Perdition%27s_End" title="Perdition's End">Perdition's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>50</td>
+<td>8724</td>
+<td>21322</td>
+<td>-19335
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Perdition%27s_End" title="Perdition's End">Perdition's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>30</td>
+<td>-8584</td>
+<td>-4238</td>
+<td>-3186
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Perdition%27s_End" title="Perdition's End">Perdition's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-8033</td>
+<td>18123</td>
+<td>-18371
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Perdition%27s_End" title="Perdition's End">Perdition's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>14294</td>
+<td>-26864</td>
+<td>-9949
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Perdition%27s_End" title="Perdition's End">Perdition's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>10766</td>
+<td>-4229</td>
+<td>-32453
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Perdition%27s_End" title="Perdition's End">Perdition's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>7</td>
+<td>-39085</td>
+<td>-9784</td>
+<td>-3635
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Perdition%27s_End" title="Perdition's End">Perdition's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-42297</td>
+<td>12073</td>
+<td>6921
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Perdition%27s_End" title="Perdition's End">Perdition's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-36285</td>
+<td>17251</td>
+<td>5267
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Perdition%27s_End" title="Perdition's End">Perdition's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>-8940</td>
+<td>-18557</td>
+<td>7006
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Perdition%27s_End" title="Perdition's End">Perdition's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>-32097</td>
+<td>16390</td>
+<td>-13725
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Perdition%27s_End" title="Perdition's End">Perdition's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>-8672</td>
+<td>-6782</td>
+<td>-25608
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Perdition%27s_End" title="Perdition's End">Perdition's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>3</td>
+<td>-36804</td>
+<td>-6576</td>
+<td>20265
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Perdition%27s_End" title="Perdition's End">Perdition's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>3</td>
+<td>-5981</td>
+<td>14131</td>
+<td>10254
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Perdition%27s_End" title="Perdition's End">Perdition's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>2</td>
+<td>-4614</td>
+<td>10535</td>
+<td>-1076
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Perpetual_Sin" title="Perpetual Sin">Perpetual Sin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>57</td>
+<td>4724</td>
+<td>11106</td>
+<td>13493
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Perpetual_Sin" title="Perpetual Sin">Perpetual Sin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>43</td>
+<td>-2081</td>
+<td>5581</td>
+<td>24126
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Perpetual_Sin" title="Perpetual Sin">Perpetual Sin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>30</td>
+<td>11081</td>
+<td>-1014</td>
+<td>-18552
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Perpetual_Sin" title="Perpetual Sin">Perpetual Sin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>-17227</td>
+<td>6596</td>
+<td>12389
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Perpetual_Sin" title="Perpetual Sin">Perpetual Sin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>18544</td>
+<td>1522</td>
+<td>-14894
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Perpetual_Sin" title="Perpetual Sin">Perpetual Sin</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>14</td>
+<td>0</td>
+<td>1014</td>
+<td>10059
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Pluto" title="Pluto">Pluto</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>64</td>
+<td>-18558</td>
+<td>6680</td>
+<td>-34687
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Pluto" title="Pluto">Pluto</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>8027</td>
+<td>7647</td>
+<td>38065
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Pluto" title="Pluto">Pluto</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>19007</td>
+<td>-10756</td>
+<td>-13443
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Pluto" title="Pluto">Pluto</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>8337</td>
+<td>10464</td>
+<td>-24500
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Pontifex%27_Realm" title="Pontifex' Realm" class="mw-redirect">Pontifex' Realm</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>45</td>
+<td>-21679</td>
+<td>-8000</td>
+<td>14715
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Pontifex%27_Realm" title="Pontifex' Realm" class="mw-redirect">Pontifex' Realm</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>45</td>
+<td>-14632</td>
+<td>-5100</td>
+<td>-1827
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Pontifex%27_Realm" title="Pontifex' Realm" class="mw-redirect">Pontifex' Realm</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>32</td>
+<td>29356</td>
+<td>7264</td>
+<td>16309
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Pontifex%27_Realm" title="Pontifex' Realm" class="mw-redirect">Pontifex' Realm</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>27</td>
+<td>-29422</td>
+<td>-4673</td>
+<td>7452
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Pontifex%27_Realm" title="Pontifex' Realm" class="mw-redirect">Pontifex' Realm</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>27</td>
+<td>-16401</td>
+<td>2348</td>
+<td>-9405
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Pontifex%27_Realm" title="Pontifex' Realm" class="mw-redirect">Pontifex' Realm</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>13063</td>
+<td>-9027</td>
+<td>13776
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Pontifex%27_Realm" title="Pontifex' Realm" class="mw-redirect">Pontifex' Realm</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>-11833</td>
+<td>90</td>
+<td>5060
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Pontifex%27_Realm" title="Pontifex' Realm" class="mw-redirect">Pontifex' Realm</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>-13597</td>
+<td>-8121</td>
+<td>-10654
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Pontifex%27_Realm" title="Pontifex' Realm" class="mw-redirect">Pontifex' Realm</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>32932</td>
+<td>7025</td>
+<td>6280
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Pontifex%27_Realm" title="Pontifex' Realm" class="mw-redirect">Pontifex' Realm</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>-21856</td>
+<td>5658</td>
+<td>-2671
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Pontifex%27_Realm" title="Pontifex' Realm" class="mw-redirect">Pontifex' Realm</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>-26103</td>
+<td>-7943</td>
+<td>-1545
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Pontifex%27_Seclusion" title="Pontifex' Seclusion" class="mw-redirect">Pontifex' Seclusion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>42</td>
+<td>-9822</td>
+<td>-9046</td>
+<td>-7934
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Pontifex%27_Seclusion" title="Pontifex' Seclusion" class="mw-redirect">Pontifex' Seclusion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-19686</td>
+<td>1617</td>
+<td>5149
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Pontifex%27_Seclusion" title="Pontifex' Seclusion" class="mw-redirect">Pontifex' Seclusion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-14225</td>
+<td>-10164</td>
+<td>5104
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Pontifex%27_Seclusion" title="Pontifex' Seclusion" class="mw-redirect">Pontifex' Seclusion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-7531</td>
+<td>6933</td>
+<td>-1470
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Pontifex%27_Seclusion" title="Pontifex' Seclusion" class="mw-redirect">Pontifex' Seclusion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>-6841</td>
+<td>-3785</td>
+<td>2406
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Pontifex%27_Seclusion" title="Pontifex' Seclusion" class="mw-redirect">Pontifex' Seclusion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-12643</td>
+<td>5474</td>
+<td>2027
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Power_Circle" title="Power Circle">Power Circle</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>6840</td>
+<td>1252</td>
+<td>-18005
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Preacher%27s_Refuge" title="Preacher's Refuge">Preacher's Refuge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>42</td>
+<td>-10805</td>
+<td>304</td>
+<td>-19717
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Preacher%27s_Refuge" title="Preacher's Refuge">Preacher's Refuge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-18702</td>
+<td>1779</td>
+<td>9277
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Preacher%27s_Refuge" title="Preacher's Refuge">Preacher's Refuge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-18122</td>
+<td>-5370</td>
+<td>8040
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Preacher%27s_Refuge" title="Preacher's Refuge">Preacher's Refuge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>-4479</td>
+<td>3963</td>
+<td>-20351
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Preacher%27s_Refuge" title="Preacher's Refuge">Preacher's Refuge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-13822</td>
+<td>-571</td>
+<td>-11455
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Preacher%27s_Void" title="Preacher's Void">Preacher's Void</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>40</td>
+<td>-97</td>
+<td>-10230</td>
+<td>16222
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Preacher%27s_Void" title="Preacher's Void">Preacher's Void</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>19</td>
+<td>-8231</td>
+<td>4599</td>
+<td>9766
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Preacher%27s_Void" title="Preacher's Void">Preacher's Void</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>5286</td>
+<td>11657</td>
+<td>-12770
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Preacher%27s_Void" title="Preacher's Void">Preacher's Void</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-10613</td>
+<td>1868</td>
+<td>18237
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Preacher%27s_Void" title="Preacher's Void">Preacher's Void</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>-11756</td>
+<td>-4825</td>
+<td>7053
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Preacher%27s_Void" title="Preacher's Void">Preacher's Void</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>-3016</td>
+<td>8644</td>
+<td>15094
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Preacher%27s_Void" title="Preacher's Void">Preacher's Void</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>3</td>
+<td>1585</td>
+<td>-4617</td>
+<td>6624
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/President%27s_End" title="President's End">President's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>45</td>
+<td>6375</td>
+<td>-5625</td>
+<td>-9375
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/President%27s_End" title="President's End">President's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-13648</td>
+<td>-3459</td>
+<td>1791
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/President%27s_End" title="President's End">President's End</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-14960</td>
+<td>-4117</td>
+<td>12559
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Priest_Refuge" title="Priest Refuge">Priest Refuge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>-17194</td>
+<td>14680</td>
+<td>-21433
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Priest_Refuge" title="Priest Refuge">Priest Refuge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>-36901</td>
+<td>3764</td>
+<td>-2873
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Priest_Refuge" title="Priest Refuge">Priest Refuge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>7</td>
+<td>-18118</td>
+<td>12276</td>
+<td>-10004
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Priest_Refuge" title="Priest Refuge">Priest Refuge</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>3</td>
+<td>-23781</td>
+<td>3754</td>
+<td>-16028
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Priest_Rings" title="Priest Rings">Priest Rings</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-11620</td>
+<td>-5509</td>
+<td>25610
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Priest_Rings" title="Priest Rings">Priest Rings</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>-10898</td>
+<td>10432</td>
+<td>30980
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Priest_Rings" title="Priest Rings">Priest Rings</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>4</td>
+<td>-17477</td>
+<td>-10359</td>
+<td>32155
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Priest_Rings" title="Priest Rings">Priest Rings</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>3</td>
+<td>-3472</td>
+<td>-1363</td>
+<td>22392
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Profit_Center_Alpha" title="Profit Center Alpha">Profit Center Alpha</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>33</td>
+<td>11652</td>
+<td>-10881</td>
+<td>6325
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Profit_Center_Alpha" title="Profit Center Alpha">Profit Center Alpha</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>22114</td>
+<td>3603</td>
+<td>20178
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Profit_Center_Alpha" title="Profit Center Alpha">Profit Center Alpha</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>5554</td>
+<td>11007</td>
+<td>5483
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Profit_Center_Alpha" title="Profit Center Alpha">Profit Center Alpha</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>-445</td>
+<td>-7590</td>
+<td>12232
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Profit_Center_Alpha" title="Profit Center Alpha">Profit Center Alpha</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>5626</td>
+<td>-7723</td>
+<td>6555
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Profit_Center_Alpha" title="Profit Center Alpha">Profit Center Alpha</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>5626</td>
+<td>-7723</td>
+<td>6555
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/PTNI_Headquarters" title="PTNI Headquarters">PTNI Headquarters</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>23</td>
+<td>-548</td>
+<td>-1626</td>
+<td>5504
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/PTNI_Headquarters" title="PTNI Headquarters">PTNI Headquarters</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>12192</td>
+<td>4082</td>
+<td>9584
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/PTNI_Headquarters" title="PTNI Headquarters">PTNI Headquarters</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>14023</td>
+<td>-2776</td>
+<td>4554
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/PTNI_Headquarters" title="PTNI Headquarters">PTNI Headquarters</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>10058</td>
+<td>3590</td>
+<td>2562
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/PTNI_Headquarters" title="PTNI Headquarters">PTNI Headquarters</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>7</td>
+<td>-5840</td>
+<td>-3740</td>
+<td>1520
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Red_Light" title="Red Light">Red Light</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>1585</td>
+<td>-1300</td>
+<td>-9506
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhonkar%27s_Clouds" title="Rhonkar's Clouds">Rhonkar's Clouds</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>56</td>
+<td>-16843</td>
+<td>-1710</td>
+<td>-36676
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhonkar%27s_Clouds" title="Rhonkar's Clouds">Rhonkar's Clouds</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-6051</td>
+<td>-2681</td>
+<td>17011
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhonkar%27s_Clouds" title="Rhonkar's Clouds">Rhonkar's Clouds</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>9213</td>
+<td>-4858</td>
+<td>2530
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhonkar%27s_Clouds" title="Rhonkar's Clouds">Rhonkar's Clouds</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-10193</td>
+<td>6276</td>
+<td>-5201
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhonkar%27s_Clouds" title="Rhonkar's Clouds">Rhonkar's Clouds</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-1263</td>
+<td>6263</td>
+<td>-6468
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhonkar%27s_Clouds" title="Rhonkar's Clouds">Rhonkar's Clouds</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-25634</td>
+<td>-11738</td>
+<td>-7094
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhonkar%27s_Clouds" title="Rhonkar's Clouds">Rhonkar's Clouds</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-26993</td>
+<td>-3407</td>
+<td>-15042
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhonkar%27s_Clouds" title="Rhonkar's Clouds">Rhonkar's Clouds</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>14901</td>
+<td>-7613</td>
+<td>-15466
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhonkar%27s_Clouds" title="Rhonkar's Clouds">Rhonkar's Clouds</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-22016</td>
+<td>10484</td>
+<td>-27273
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhonkar%27s_Clouds" title="Rhonkar's Clouds">Rhonkar's Clouds</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-29715</td>
+<td>-3215</td>
+<td>-4640
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhonkar%27s_Clouds" title="Rhonkar's Clouds">Rhonkar's Clouds</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-14179</td>
+<td>-4653</td>
+<td>-27975
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhonkar%27s_Clouds" title="Rhonkar's Clouds">Rhonkar's Clouds</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>14451</td>
+<td>4939</td>
+<td>-1404
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhonkar%27s_Might" title="Rhonkar's Might">Rhonkar's Might</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>64</td>
+<td>-19056</td>
+<td>920</td>
+<td>21302
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhonkar%27s_Might" title="Rhonkar's Might">Rhonkar's Might</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-39538</td>
+<td>-2421</td>
+<td>15595
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhonkar%27s_Might" title="Rhonkar's Might">Rhonkar's Might</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-7595</td>
+<td>2779</td>
+<td>-18956
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhonkar%27s_Trial" title="Rhonkar's Trial">Rhonkar's Trial</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>72</td>
+<td>16050</td>
+<td>4154</td>
+<td>15042
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhonkar%27s_Trial" title="Rhonkar's Trial">Rhonkar's Trial</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-6367</td>
+<td>997</td>
+<td>13987
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhonkar%27s_Trial" title="Rhonkar's Trial">Rhonkar's Trial</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-15079</td>
+<td>1863</td>
+<td>2652
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhonkar%27s_Trial" title="Rhonkar's Trial">Rhonkar's Trial</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>7</td>
+<td>27632</td>
+<td>-3956</td>
+<td>24365
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhy%27s_Crusade" title="Rhy's Crusade">Rhy's Crusade</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>43</td>
+<td>23945</td>
+<td>0</td>
+<td>-7396
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhy%27s_Crusade" title="Rhy's Crusade">Rhy's Crusade</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>25540</td>
+<td>-206</td>
+<td>-12849
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhy%27s_Desire" title="Rhy's Desire">Rhy's Desire</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>64</td>
+<td>-19056</td>
+<td>920</td>
+<td>21302
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhy%27s_Desire" title="Rhy's Desire">Rhy's Desire</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>64</td>
+<td>-7789</td>
+<td>2832</td>
+<td>-11781
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhy%27s_Desire" title="Rhy's Desire">Rhy's Desire</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>56</td>
+<td>-41180</td>
+<td>-5814</td>
+<td>-6089
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhy%27s_Desire" title="Rhy's Desire">Rhy's Desire</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-23444</td>
+<td>-2448</td>
+<td>24360
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhy%27s_Desire" title="Rhy's Desire">Rhy's Desire</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-23902</td>
+<td>5437</td>
+<td>16309
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhy%27s_Desire" title="Rhy's Desire">Rhy's Desire</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-39538</td>
+<td>-2421</td>
+<td>15595
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhy%27s_Desire" title="Rhy's Desire">Rhy's Desire</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-24824</td>
+<td>3254</td>
+<td>8211
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhy%27s_Desire" title="Rhy's Desire">Rhy's Desire</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-34903</td>
+<td>1446</td>
+<td>4830
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhy%27s_Desire" title="Rhy's Desire">Rhy's Desire</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-36530</td>
+<td>4029</td>
+<td>1369
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhy%27s_Desire" title="Rhy's Desire">Rhy's Desire</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-16095</td>
+<td>2253</td>
+<td>14163
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhy%27s_Desire" title="Rhy's Desire">Rhy's Desire</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-7453</td>
+<td>-5892</td>
+<td>28831
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhy%27s_Desire" title="Rhy's Desire">Rhy's Desire</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-44488</td>
+<td>4043</td>
+<td>31226
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhy%27s_Desire" title="Rhy's Desire">Rhy's Desire</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-7814</td>
+<td>2148</td>
+<td>28815
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhy%27s_Desire" title="Rhy's Desire">Rhy's Desire</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-3013</td>
+<td>-730</td>
+<td>6216
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Rhy%27s_Desire" title="Rhy's Desire">Rhy's Desire</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>6940</td>
+<td>3865</td>
+<td>13860
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Ringo_Moon" title="Ringo Moon">Ringo Moon</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>14360</td>
+<td>-8087</td>
+<td>-26671
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Rolk%27s_Legacy" title="Rolk's Legacy">Rolk's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>23</td>
+<td>6097</td>
+<td>6717</td>
+<td>-21952
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Rolk%27s_Legacy" title="Rolk's Legacy">Rolk's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>23</td>
+<td>-880</td>
+<td>-6403</td>
+<td>-23050
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Rolk%27s_Legacy" title="Rolk's Legacy">Rolk's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>19</td>
+<td>3454</td>
+<td>-4766</td>
+<td>-14076
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Rolk%27s_Legacy" title="Rolk's Legacy">Rolk's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>19</td>
+<td>-6181</td>
+<td>-8784</td>
+<td>-15185
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Rolk%27s_Legacy" title="Rolk's Legacy">Rolk's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>-4795</td>
+<td>529</td>
+<td>4061
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Rolk%27s_Legacy" title="Rolk's Legacy">Rolk's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>26933</td>
+<td>3716</td>
+<td>-14185
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Rolk%27s_Legacy" title="Rolk's Legacy">Rolk's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>4</td>
+<td>22489</td>
+<td>480</td>
+<td>-4269
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Rolk%27s_Legacy" title="Rolk's Legacy">Rolk's Legacy</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>4</td>
+<td>13816</td>
+<td>12866</td>
+<td>-33530
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Sacred_Relic" title="Sacred Relic">Sacred Relic</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>48</td>
+<td>-44090</td>
+<td>-8288</td>
+<td>34014
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Sacred_Relic" title="Sacred Relic">Sacred Relic</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>42</td>
+<td>-15826</td>
+<td>-13000</td>
+<td>34365
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Sacred_Relic" title="Sacred Relic">Sacred Relic</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>30</td>
+<td>47704</td>
+<td>11804</td>
+<td>26502
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Sacred_Relic" title="Sacred Relic">Sacred Relic</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>29</td>
+<td>-1719</td>
+<td>-7594</td>
+<td>27983
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Sacred_Relic" title="Sacred Relic">Sacred Relic</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>32732</td>
+<td>-1326</td>
+<td>7020
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Sacred_Relic" title="Sacred Relic">Sacred Relic</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>-14355</td>
+<td>147</td>
+<td>49536
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Sacred_Relic" title="Sacred Relic">Sacred Relic</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>18050</td>
+<td>262</td>
+<td>37253
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Sacred_Relic" title="Sacred Relic">Sacred Relic</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>7</td>
+<td>12148</td>
+<td>-12907</td>
+<td>42136
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Saturn_3" title="Saturn 3">Saturn 3</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>4924</td>
+<td>-9908</td>
+<td>11746
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>40</td>
+<td>23421</td>
+<td>2795</td>
+<td>-33619
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>40</td>
+<td>23421</td>
+<td>2795</td>
+<td>-33619
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>40</td>
+<td>23421</td>
+<td>2795</td>
+<td>-33619
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>31</td>
+<td>66061</td>
+<td>18583</td>
+<td>-20013
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>31</td>
+<td>66061</td>
+<td>18583</td>
+<td>-20013
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>31</td>
+<td>66061</td>
+<td>18583</td>
+<td>-20013
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>28</td>
+<td>33648</td>
+<td>18711</td>
+<td>-29641
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>28</td>
+<td>33648</td>
+<td>18711</td>
+<td>-29641
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>28</td>
+<td>33648</td>
+<td>18711</td>
+<td>-29641
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>23</td>
+<td>29604</td>
+<td>-2392</td>
+<td>12887
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>23</td>
+<td>29604</td>
+<td>-2392</td>
+<td>12887
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>23</td>
+<td>29604</td>
+<td>-2392</td>
+<td>12887
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>29448</td>
+<td>-5439</td>
+<td>1568
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>29448</td>
+<td>-5439</td>
+<td>1568
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>29448</td>
+<td>-5439</td>
+<td>1568
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>32363</td>
+<td>22262</td>
+<td>-20313
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>32363</td>
+<td>22262</td>
+<td>-20313
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>32363</td>
+<td>22262</td>
+<td>-20313
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>43278</td>
+<td>15495</td>
+<td>-19334
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>43278</td>
+<td>15495</td>
+<td>-19334
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>43278</td>
+<td>15495</td>
+<td>-19334
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>35264</td>
+<td>13632</td>
+<td>-34794
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>35264</td>
+<td>13632</td>
+<td>-34794
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>35264</td>
+<td>13632</td>
+<td>-34794
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>17</td>
+<td>37767</td>
+<td>2450</td>
+<td>-23992
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>17</td>
+<td>37767</td>
+<td>2450</td>
+<td>-23992
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>17</td>
+<td>37767</td>
+<td>2450</td>
+<td>-23992
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>27955</td>
+<td>11665</td>
+<td>-29743
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>27955</td>
+<td>11665</td>
+<td>-29743
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>27955</td>
+<td>11665</td>
+<td>-29743
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>14976</td>
+<td>1688</td>
+<td>-14595
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>14976</td>
+<td>1688</td>
+<td>-14595
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>14976</td>
+<td>1688</td>
+<td>-14595
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>15266</td>
+<td>-5464</td>
+<td>-19588
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>15266</td>
+<td>-5464</td>
+<td>-19588
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>15266</td>
+<td>-5464</td>
+<td>-19588
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>4527</td>
+<td>14514</td>
+<td>-15676
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>4527</td>
+<td>14514</td>
+<td>-15676
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>4527</td>
+<td>14514</td>
+<td>-15676
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>2</td>
+<td>21346</td>
+<td>13977</td>
+<td>-36870
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>2</td>
+<td>21346</td>
+<td>13977</td>
+<td>-36870
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>2</td>
+<td>21346</td>
+<td>13977</td>
+<td>-36870
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>1</td>
+<td>26580</td>
+<td>-15359</td>
+<td>-11639
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>1</td>
+<td>26580</td>
+<td>-15359</td>
+<td>-11639
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>1</td>
+<td>26580</td>
+<td>-15359</td>
+<td>-11639
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>0</td>
+<td>14162</td>
+<td>5590</td>
+<td>-23334
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>0</td>
+<td>14162</td>
+<td>5590</td>
+<td>-23334
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Savage_Spur" title="Savage Spur">Savage Spur</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>0</td>
+<td>14162</td>
+<td>5590</td>
+<td>-23334
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Scale_Plate_Green" title="Scale Plate Green">Scale Plate Green</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>29</td>
+<td>15799</td>
+<td>-6775</td>
+<td>7309
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Scale_Plate_Green" title="Scale Plate Green">Scale Plate Green</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>17</td>
+<td>-7168</td>
+<td>8114</td>
+<td>6658
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Scale_Plate_Green" title="Scale Plate Green">Scale Plate Green</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>17</td>
+<td>-3524</td>
+<td>275</td>
+<td>-9234
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Scale_Plate_Green" title="Scale Plate Green">Scale Plate Green</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>1298</td>
+<td>227</td>
+<td>-2020
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Scale_Plate_Green" title="Scale Plate Green">Scale Plate Green</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-22915</td>
+<td>-56</td>
+<td>4348
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Scale_Plate_Green" title="Scale Plate Green">Scale Plate Green</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-17272</td>
+<td>3970</td>
+<td>1956
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Scale_Plate_Green" title="Scale Plate Green">Scale Plate Green</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>1222</td>
+<td>-5624</td>
+<td>-7016
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Scale_Plate_Green" title="Scale Plate Green">Scale Plate Green</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-11842</td>
+<td>-3589</td>
+<td>-8443
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Seizewell" title="Seizewell">Seizewell</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>9094</td>
+<td>5564</td>
+<td>8674
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Seizewell" title="Seizewell">Seizewell</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>4626</td>
+<td>15876</td>
+<td>5904
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Seizewell" title="Seizewell">Seizewell</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-17786</td>
+<td>10094</td>
+<td>5719
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Seizewell" title="Seizewell">Seizewell</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-1531</td>
+<td>-12177</td>
+<td>4983
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Seizewell" title="Seizewell">Seizewell</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>15483</td>
+<td>7338</td>
+<td>19499
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Seizewell" title="Seizewell">Seizewell</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-26079</td>
+<td>-11327</td>
+<td>12466
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Seizewell" title="Seizewell">Seizewell</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-21543</td>
+<td>-22980</td>
+<td>-36306
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Senator%27s_Badlands" title="Senator's Badlands">Senator's Badlands</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>37</td>
+<td>11405</td>
+<td>21908</td>
+<td>6352
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Senator%27s_Badlands" title="Senator's Badlands">Senator's Badlands</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>28</td>
+<td>-51552</td>
+<td>-689</td>
+<td>16096
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Senator%27s_Badlands" title="Senator's Badlands">Senator's Badlands</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>27</td>
+<td>15057</td>
+<td>26621</td>
+<td>9402
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Senator%27s_Badlands" title="Senator's Badlands">Senator's Badlands</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>27</td>
+<td>-42189</td>
+<td>15947</td>
+<td>-28296
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Senator%27s_Badlands" title="Senator's Badlands">Senator's Badlands</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>23</td>
+<td>38908</td>
+<td>-22579</td>
+<td>3221
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Senator%27s_Badlands" title="Senator's Badlands">Senator's Badlands</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>17</td>
+<td>-10606</td>
+<td>1770</td>
+<td>13272
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Senator%27s_Badlands" title="Senator's Badlands">Senator's Badlands</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>14</td>
+<td>-6011</td>
+<td>17352</td>
+<td>29184
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Senator%27s_Badlands" title="Senator's Badlands">Senator's Badlands</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>32313</td>
+<td>-25831</td>
+<td>5903
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Senator%27s_Badlands" title="Senator's Badlands">Senator's Badlands</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>-36244</td>
+<td>25545</td>
+<td>-13654
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Senator%27s_Badlands" title="Senator's Badlands">Senator's Badlands</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>15645</td>
+<td>-33867</td>
+<td>19233
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Shareholder%27s_Fortune" title="Shareholder's Fortune">Shareholder's Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>-3047</td>
+<td>-11000</td>
+<td>8547
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Shareholder%27s_Fortune" title="Shareholder's Fortune">Shareholder's Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>13288</td>
+<td>16789</td>
+<td>20757
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Shareholder%27s_Fortune" title="Shareholder's Fortune">Shareholder's Fortune</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>4279</td>
+<td>12375</td>
+<td>29612
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Shore_of_Infinity" title="Shore of Infinity">Shore of Infinity</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>23</td>
+<td>19369</td>
+<td>3132</td>
+<td>14863
+</td></tr>
+<tr>
+<td> <a href="/index.php/Boron" title="Boron">Boron</a></td>
+<td> <a href="/index.php/Shore_of_Infinity" title="Shore of Infinity">Shore of Infinity</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>22900</td>
+<td>-2591</td>
+<td>17015
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Split_Fire" title="Split Fire">Split Fire</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>25</td>
+<td>-6024</td>
+<td>5697</td>
+<td>19161
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Split_Fire" title="Split Fire">Split Fire</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>6002</td>
+<td>2979</td>
+<td>-8200
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Split_Fire" title="Split Fire">Split Fire</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>4453</td>
+<td>-389</td>
+<td>12128
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Split_Fire" title="Split Fire">Split Fire</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-14117</td>
+<td>-5974</td>
+<td>-6114
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Spring_Of_Belief" title="Spring Of Belief">Spring Of Belief</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>72</td>
+<td>32100</td>
+<td>8309</td>
+<td>30085
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Spring_Of_Belief" title="Spring Of Belief">Spring Of Belief</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>70</td>
+<td>-4260</td>
+<td>3833</td>
+<td>-52787
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Spring_Of_Belief" title="Spring Of Belief">Spring Of Belief</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>40</td>
+<td>-36776</td>
+<td>-3376</td>
+<td>44256
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Spring_Of_Belief" title="Spring Of Belief">Spring Of Belief</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-12734</td>
+<td>1995</td>
+<td>27975
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Spring_Of_Belief" title="Spring Of Belief">Spring Of Belief</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-32968</td>
+<td>7499</td>
+<td>22495
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Spring_Of_Belief" title="Spring Of Belief">Spring Of Belief</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-27007</td>
+<td>-3339</td>
+<td>21510
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Spring_Of_Belief" title="Spring Of Belief">Spring Of Belief</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-30159</td>
+<td>3726</td>
+<td>5305
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Spring_Of_Belief" title="Spring Of Belief">Spring Of Belief</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>-31973</td>
+<td>-5083</td>
+<td>-19824
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Spring_Of_Belief" title="Spring Of Belief">Spring Of Belief</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-48486</td>
+<td>-1414</td>
+<td>46956
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Spring_Of_Belief" title="Spring Of Belief">Spring Of Belief</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>-14091</td>
+<td>-7472</td>
+<td>46525
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Spring_Of_Belief" title="Spring Of Belief">Spring Of Belief</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-38353</td>
+<td>-829</td>
+<td>14131
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Spring_Of_Belief" title="Spring Of Belief">Spring Of Belief</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>-62014</td>
+<td>7462</td>
+<td>35710
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Spring_Of_Belief" title="Spring Of Belief">Spring Of Belief</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>7</td>
+<td>1985</td>
+<td>-7912</td>
+<td>63826
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Spring_Of_Belief" title="Spring Of Belief">Spring Of Belief</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-5419</td>
+<td>5577</td>
+<td>83919
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Spring_Of_Belief" title="Spring Of Belief">Spring Of Belief</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-1898</td>
+<td>2963</td>
+<td>45961
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Spring_Of_Belief" title="Spring Of Belief">Spring Of Belief</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>9572</td>
+<td>5332</td>
+<td>19118
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Spring_Of_Belief" title="Spring Of Belief">Spring Of Belief</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>14556</td>
+<td>-6048</td>
+<td>-60627
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Tears_of_Greed" title="Tears of Greed">Tears of Greed</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>70</td>
+<td>-4260</td>
+<td>3833</td>
+<td>-52787
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Tears_of_Greed" title="Tears of Greed">Tears of Greed</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>56</td>
+<td>1807</td>
+<td>-9796</td>
+<td>43992
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Tears_of_Greed" title="Tears of Greed">Tears of Greed</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-8400</td>
+<td>-2311</td>
+<td>18698
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Tears_of_Greed" title="Tears of Greed">Tears of Greed</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-8400</td>
+<td>-2311</td>
+<td>18698
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Tears_of_Greed" title="Tears of Greed">Tears of Greed</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-30159</td>
+<td>9054</td>
+<td>5305
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Tears_of_Greed" title="Tears of Greed">Tears of Greed</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-44644</td>
+<td>-1350</td>
+<td>-48385
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Tears_of_Greed" title="Tears of Greed">Tears of Greed</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>-37973</td>
+<td>-5083</td>
+<td>-30824
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Tears_of_Greed" title="Tears of Greed">Tears of Greed</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-5419</td>
+<td>5577</td>
+<td>83919
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Tears_of_Greed" title="Tears of Greed">Tears of Greed</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-5419</td>
+<td>5577</td>
+<td>83919
+</td></tr>
+<tr>
+<td> <a href="/index.php/Teladi" title="Teladi">Teladi</a></td>
+<td> <a href="/index.php/Tears_of_Greed" title="Tears of Greed">Tears of Greed</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-3433</td>
+<td>-9711</td>
+<td>76329
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Third_Redemption" title="Third Redemption">Third Redemption</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>40</td>
+<td>23823</td>
+<td>-5034</td>
+<td>15513
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Third_Redemption" title="Third Redemption">Third Redemption</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>20</td>
+<td>27974</td>
+<td>4822</td>
+<td>10763
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Third_Redemption" title="Third Redemption">Third Redemption</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>17079</td>
+<td>-18441</td>
+<td>-14557
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Third_Redemption" title="Third Redemption">Third Redemption</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>13127</td>
+<td>-4945</td>
+<td>-4709
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Third_Redemption" title="Third Redemption">Third Redemption</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>27655</td>
+<td>457</td>
+<td>-21354
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Third_Redemption" title="Third Redemption">Third Redemption</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>20275</td>
+<td>1759</td>
+<td>-25728
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Third_Redemption" title="Third Redemption">Third Redemption</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>4</td>
+<td>14165</td>
+<td>18560</td>
+<td>7372
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Three_Worlds" title="Three Worlds">Three Worlds</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-14415</td>
+<td>-1767</td>
+<td>-3468
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Thuruk%27s_Pride" title="Thuruk's Pride">Thuruk's Pride</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>10871</td>
+<td>-6123</td>
+<td>6365
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Thyn%27s_Abyss" title="Thyn's Abyss">Thyn's Abyss</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>31</td>
+<td>3250</td>
+<td>5028</td>
+<td>15310
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Thyn%27s_Abyss" title="Thyn's Abyss">Thyn's Abyss</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>25</td>
+<td>7154</td>
+<td>123</td>
+<td>-3417
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Thyn%27s_Abyss" title="Thyn's Abyss">Thyn's Abyss</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>6504</td>
+<td>-8440</td>
+<td>11388
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Thyn%27s_Abyss" title="Thyn's Abyss">Thyn's Abyss</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>13991</td>
+<td>-5727</td>
+<td>-13271
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Thyn%27s_Excavation" title="Thyn's Excavation">Thyn's Excavation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>54</td>
+<td>36779</td>
+<td>16185</td>
+<td>-30428
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Thyn%27s_Excavation" title="Thyn's Excavation">Thyn's Excavation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>36</td>
+<td>-52142</td>
+<td>11540</td>
+<td>-10414
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Thyn%27s_Excavation" title="Thyn's Excavation">Thyn's Excavation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>36</td>
+<td>-45642</td>
+<td>11540</td>
+<td>-20414
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Thyn%27s_Excavation" title="Thyn's Excavation">Thyn's Excavation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>25</td>
+<td>-48823</td>
+<td>-18847</td>
+<td>14529
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Thyn%27s_Excavation" title="Thyn's Excavation">Thyn's Excavation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>11667</td>
+<td>-33799</td>
+<td>-21715
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Thyn%27s_Excavation" title="Thyn's Excavation">Thyn's Excavation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-45999</td>
+<td>10243</td>
+<td>10785
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Thyn%27s_Excavation" title="Thyn's Excavation">Thyn's Excavation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>40352</td>
+<td>20240</td>
+<td>9056
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>64</td>
+<td>-65046</td>
+<td>1587</td>
+<td>-13221
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>56</td>
+<td>2259</td>
+<td>-10025</td>
+<td>54990
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-45970</td>
+<td>-4221</td>
+<td>55320
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-77517</td>
+<td>9328</td>
+<td>44637
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-371</td>
+<td>-10591</td>
+<td>38837
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>37626</td>
+<td>14136</td>
+<td>37606
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-10918</td>
+<td>2494</td>
+<td>37469
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>2709</td>
+<td>5611</td>
+<td>29698
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-33710</td>
+<td>9374</td>
+<td>28119
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-51259</td>
+<td>-4174</td>
+<td>25638
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-10500</td>
+<td>-2889</td>
+<td>23373
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-26449</td>
+<td>4657</td>
+<td>1631
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-55805</td>
+<td>-1688</td>
+<td>-60481
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>25</td>
+<td>-11364</td>
+<td>-9340</td>
+<td>61907
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>-44967</td>
+<td>-6354</td>
+<td>-29780
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>-60607</td>
+<td>-1768</td>
+<td>58695
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>-54191</td>
+<td>-1037</td>
+<td>12664
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>1579</td>
+<td>-10159</td>
+<td>67468
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-6774</td>
+<td>6972</td>
+<td>104899
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-4292</td>
+<td>-3389</td>
+<td>95411
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>25718</td>
+<td>-1003</td>
+<td>84693
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>17482</td>
+<td>1359</td>
+<td>76033
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-2373</td>
+<td>3704</td>
+<td>57451
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-5325</td>
+<td>4792</td>
+<td>-65984
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>18196</td>
+<td>-7560</td>
+<td>-75784
+</td></tr>
+<tr>
+<td> <a href="/index.php/Split" title="Split">Split</a></td>
+<td> <a href="/index.php/Tkr%27s_Deprivation" title="Tkr's Deprivation">Tkr's Deprivation</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>11965</td>
+<td>6665</td>
+<td>23898
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Treasure_Chest" title="Treasure Chest">Treasure Chest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>7</td>
+<td>10207</td>
+<td>6271</td>
+<td>9680
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Treasure_Chest" title="Treasure Chest">Treasure Chest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>17481</td>
+<td>-2909</td>
+<td>-6016
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Treasure_Chest" title="Treasure Chest">Treasure Chest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>-23060</td>
+<td>-1653</td>
+<td>5336
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Trinity_Sanctum" title="Trinity Sanctum">Trinity Sanctum</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>19</td>
+<td>-1721</td>
+<td>391</td>
+<td>-15860
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Trinity_Sanctum" title="Trinity Sanctum">Trinity Sanctum</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>-22928</td>
+<td>4689</td>
+<td>4621
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Trinity_Sanctum" title="Trinity Sanctum">Trinity Sanctum</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>-16596</td>
+<td>5365</td>
+<td>9840
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Trinity_Sanctum" title="Trinity Sanctum">Trinity Sanctum</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>9987</td>
+<td>-7092</td>
+<td>11541
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Trinity_Sanctum" title="Trinity Sanctum">Trinity Sanctum</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-22461</td>
+<td>761</td>
+<td>12465
+</td></tr>
+<tr>
+<td> <a href="/index.php/Paranid" title="Paranid">Paranid</a></td>
+<td> <a href="/index.php/Trinity_Sanctum" title="Trinity Sanctum">Trinity Sanctum</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>-19521</td>
+<td>-2278</td>
+<td>4183
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(14,7)" title="Unknown Sector (14,7)">Unknown Sector (14,7)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>3</td>
+<td>-17563</td>
+<td>-5657</td>
+<td>3376
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(14,7)" title="Unknown Sector (14,7)">Unknown Sector (14,7)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>3</td>
+<td>23143</td>
+<td>-13581</td>
+<td>-11206
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(14,7)" title="Unknown Sector (14,7)">Unknown Sector (14,7)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>3</td>
+<td>-57493</td>
+<td>-30394</td>
+<td>-64072
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(14,7)" title="Unknown Sector (14,7)">Unknown Sector (14,7)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>2</td>
+<td>-59782</td>
+<td>2953</td>
+<td>30147
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(14,7)" title="Unknown Sector (14,7)">Unknown Sector (14,7)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>2</td>
+<td>79521</td>
+<td>113</td>
+<td>-20549
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(14,7)" title="Unknown Sector (14,7)">Unknown Sector (14,7)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>2</td>
+<td>48974</td>
+<td>-17054</td>
+<td>-49741
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(14,7)" title="Unknown Sector (14,7)">Unknown Sector (14,7)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>2</td>
+<td>33717</td>
+<td>21629</td>
+<td>-63038
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(16,0)" title="Unknown Sector (16,0)">Unknown Sector (16,0)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>57</td>
+<td>-1991</td>
+<td>9718</td>
+<td>3056
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(16,0)" title="Unknown Sector (16,0)">Unknown Sector (16,0)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>57</td>
+<td>-1991</td>
+<td>9718</td>
+<td>3056
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(16,0)" title="Unknown Sector (16,0)">Unknown Sector (16,0)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>43</td>
+<td>-4884</td>
+<td>4884</td>
+<td>7548
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(16,0)" title="Unknown Sector (16,0)">Unknown Sector (16,0)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>30</td>
+<td>4884</td>
+<td>-888</td>
+<td>-3108
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(16,0)" title="Unknown Sector (16,0)">Unknown Sector (16,0)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>-15074</td>
+<td>5772</td>
+<td>8216
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(16,0)" title="Unknown Sector (16,0)">Unknown Sector (16,0)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>7914</td>
+<td>1332</td>
+<td>-8220
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(16,0)" title="Unknown Sector (16,0)">Unknown Sector (16,0)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>14</td>
+<td>0</td>
+<td>888</td>
+<td>3552
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,10)" title="Unknown Sector (18,10)">Unknown Sector (18,10)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>45</td>
+<td>-8601</td>
+<td>-11226</td>
+<td>24105
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,10)" title="Unknown Sector (18,10)">Unknown Sector (18,10)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>-8112</td>
+<td>-4282</td>
+<td>-1450
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,10)" title="Unknown Sector (18,10)">Unknown Sector (18,10)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>2</td>
+<td>24905</td>
+<td>-4076</td>
+<td>-6426
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,10)" title="Unknown Sector (18,10)">Unknown Sector (18,10)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>0</td>
+<td>-67</td>
+<td>8261</td>
+<td>7643
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,10)" title="Unknown Sector (18,10)">Unknown Sector (18,10)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>0</td>
+<td>-23873</td>
+<td>-6693</td>
+<td>2223
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,10)" title="Unknown Sector (18,10)">Unknown Sector (18,10)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>0</td>
+<td>-24351</td>
+<td>-538</td>
+<td>-10769
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,10)" title="Unknown Sector (18,10)">Unknown Sector (18,10)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>0</td>
+<td>-24351</td>
+<td>-538</td>
+<td>-10769
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,10)" title="Unknown Sector (18,10)">Unknown Sector (18,10)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>0</td>
+<td>-8112</td>
+<td>-907</td>
+<td>-11575
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,10)" title="Unknown Sector (18,10)">Unknown Sector (18,10)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>0</td>
+<td>-8112</td>
+<td>-907</td>
+<td>-11575
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,10)" title="Unknown Sector (18,10)">Unknown Sector (18,10)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>0</td>
+<td>4093</td>
+<td>14486</td>
+<td>-12051
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,10)" title="Unknown Sector (18,10)">Unknown Sector (18,10)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>0</td>
+<td>4093</td>
+<td>14486</td>
+<td>-12051
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,10)" title="Unknown Sector (18,10)">Unknown Sector (18,10)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>0</td>
+<td>-20498</td>
+<td>-10630</td>
+<td>-22526
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,10)" title="Unknown Sector (18,10)">Unknown Sector (18,10)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>0</td>
+<td>-20498</td>
+<td>-10630</td>
+<td>-22526
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,10)" title="Unknown Sector (18,10)">Unknown Sector (18,10)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>0</td>
+<td>-3442</td>
+<td>11074</td>
+<td>-27794
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,10)" title="Unknown Sector (18,10)">Unknown Sector (18,10)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>0</td>
+<td>-3442</td>
+<td>11074</td>
+<td>-27794
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,16)" title="Unknown Sector (18,16)">Unknown Sector (18,16)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>57</td>
+<td>-31491</td>
+<td>9718</td>
+<td>17556
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,16)" title="Unknown Sector (18,16)">Unknown Sector (18,16)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>43</td>
+<td>-24384</td>
+<td>10384</td>
+<td>6048
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,16)" title="Unknown Sector (18,16)">Unknown Sector (18,16)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>30</td>
+<td>29384</td>
+<td>-888</td>
+<td>5892
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,16)" title="Unknown Sector (18,16)">Unknown Sector (18,16)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>-15074</td>
+<td>5772</td>
+<td>31216
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,16)" title="Unknown Sector (18,16)">Unknown Sector (18,16)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>15914</td>
+<td>2832</td>
+<td>23780
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(18,16)" title="Unknown Sector (18,16)">Unknown Sector (18,16)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>14</td>
+<td>20000</td>
+<td>4888</td>
+<td>16052
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(20,5)" title="Unknown Sector (20,5)">Unknown Sector (20,5)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>30</td>
+<td>-10661</td>
+<td>7930</td>
+<td>-10662
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(20,5)" title="Unknown Sector (20,5)">Unknown Sector (20,5)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>30</td>
+<td>-10661</td>
+<td>7930</td>
+<td>-10662
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(20,5)" title="Unknown Sector (20,5)">Unknown Sector (20,5)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>30</td>
+<td>-10661</td>
+<td>7930</td>
+<td>-10662
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(20,5)" title="Unknown Sector (20,5)">Unknown Sector (20,5)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>3</td>
+<td>-7312</td>
+<td>-7875</td>
+<td>-12937
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(20,5)" title="Unknown Sector (20,5)">Unknown Sector (20,5)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>3</td>
+<td>-7312</td>
+<td>-7875</td>
+<td>-12937
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(20,5)" title="Unknown Sector (20,5)">Unknown Sector (20,5)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>3</td>
+<td>-7312</td>
+<td>-7875</td>
+<td>-12937
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,15)" title="Unknown Sector (7,15)">Unknown Sector (7,15)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>2278</td>
+<td>15495</td>
+<td>-9834
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,15)" title="Unknown Sector (7,15)">Unknown Sector (7,15)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>17</td>
+<td>8267</td>
+<td>2450</td>
+<td>-12992
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,15)" title="Unknown Sector (7,15)">Unknown Sector (7,15)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>13266</td>
+<td>-5464</td>
+<td>-17588
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,15)" title="Unknown Sector (7,15)">Unknown Sector (7,15)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>4527</td>
+<td>14514</td>
+<td>-15676
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,15)" title="Unknown Sector (7,15)">Unknown Sector (7,15)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>0</td>
+<td>14162</td>
+<td>5590</td>
+<td>-23334
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,16)" title="Unknown Sector (7,16)">Unknown Sector (7,16)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>64</td>
+<td>77500</td>
+<td>100000</td>
+<td>90000
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,16)" title="Unknown Sector (7,16)">Unknown Sector (7,16)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>64</td>
+<td>22500</td>
+<td>100000</td>
+<td>60000
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,16)" title="Unknown Sector (7,16)">Unknown Sector (7,16)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>64</td>
+<td>107500</td>
+<td>100000</td>
+<td>52500
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,16)" title="Unknown Sector (7,16)">Unknown Sector (7,16)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>64</td>
+<td>50000</td>
+<td>100000</td>
+<td>50000
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,16)" title="Unknown Sector (7,16)">Unknown Sector (7,16)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>64</td>
+<td>50000</td>
+<td>100000</td>
+<td>50000
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,16)" title="Unknown Sector (7,16)">Unknown Sector (7,16)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>-13048</td>
+<td>65067</td>
+<td>36901
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,16)" title="Unknown Sector (7,16)">Unknown Sector (7,16)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>24451</td>
+<td>65067</td>
+<td>24401
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,16)" title="Unknown Sector (7,16)">Unknown Sector (7,16)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>24451</td>
+<td>65067</td>
+<td>24401
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,16)" title="Unknown Sector (7,16)">Unknown Sector (7,16)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>79451</td>
+<td>65067</td>
+<td>14401
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,16)" title="Unknown Sector (7,16)">Unknown Sector (7,16)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>26951</td>
+<td>65067</td>
+<td>-38098
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,4)" title="Unknown Sector (7,4)">Unknown Sector (7,4)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-18706</td>
+<td>5596</td>
+<td>26782
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,4)" title="Unknown Sector (7,4)">Unknown Sector (7,4)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-18644</td>
+<td>11481</td>
+<td>22564
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,4)" title="Unknown Sector (7,4)">Unknown Sector (7,4)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-33005</td>
+<td>-6254</td>
+<td>16133
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,4)" title="Unknown Sector (7,4)">Unknown Sector (7,4)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>25</td>
+<td>-32318</td>
+<td>-10104</td>
+<td>42394
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,4)" title="Unknown Sector (7,4)">Unknown Sector (7,4)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>20</td>
+<td>17855</td>
+<td>-6015</td>
+<td>26244
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,5)" title="Unknown Sector (7,5)">Unknown Sector (7,5)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>64</td>
+<td>-18558</td>
+<td>6680</td>
+<td>-34687
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,5)" title="Unknown Sector (7,5)">Unknown Sector (7,5)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>8027</td>
+<td>7647</td>
+<td>38065
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,5)" title="Unknown Sector (7,5)">Unknown Sector (7,5)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>16576</td>
+<td>8222</td>
+<td>23221
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,5)" title="Unknown Sector (7,5)">Unknown Sector (7,5)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>19007</td>
+<td>-3756</td>
+<td>-13443
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Unknown_Sector_(7,5)" title="Unknown Sector (7,5)">Unknown Sector (7,5)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>8337</td>
+<td>-4536</td>
+<td>-24500
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Unknown_Sector_(8,4)" title="Unknown Sector (8,4)">Unknown Sector (8,4)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>64</td>
+<td>25691</td>
+<td>2930</td>
+<td>-13687
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Unknown_Sector_(8,4)" title="Unknown Sector (8,4)">Unknown Sector (8,4)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-25040</td>
+<td>4918</td>
+<td>26166
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Unknown_Sector_(8,4)" title="Unknown Sector (8,4)">Unknown Sector (8,4)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>29777</td>
+<td>-10855</td>
+<td>6802
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Unknown_Sector_(8,4)" title="Unknown Sector (8,4)">Unknown Sector (8,4)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>25</td>
+<td>-24818</td>
+<td>-10104</td>
+<td>-46855
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Unknown_Sector_(8,4)" title="Unknown Sector (8,4)">Unknown Sector (8,4)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>37697</td>
+<td>-6095</td>
+<td>5981
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Unknown_Sector_(8,5)" title="Unknown Sector (8,5)">Unknown Sector (8,5)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>6875</td>
+<td>11616</td>
+<td>-22681
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Unknown_Sector_(8,5)" title="Unknown Sector (8,5)">Unknown Sector (8,5)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>25</td>
+<td>-21818</td>
+<td>-10104</td>
+<td>-26605
+</td></tr>
+<tr>
+<td> <a href="/index.php/Terran" title="Terran">Terran</a></td>
+<td> <a href="/index.php/Unknown_Sector_(8,5)" title="Unknown Sector (8,5)">Unknown Sector (8,5)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>11447</td>
+<td>-6095</td>
+<td>29231
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(8,8)" title="Unknown Sector (8,8)">Unknown Sector (8,8)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>55</td>
+<td>20701</td>
+<td>-3513</td>
+<td>-51596
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(8,8)" title="Unknown Sector (8,8)">Unknown Sector (8,8)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>22</td>
+<td>23877</td>
+<td>-8311</td>
+<td>-39035
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(8,8)" title="Unknown Sector (8,8)">Unknown Sector (8,8)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>3859</td>
+<td>2312</td>
+<td>-24912
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(8,8)" title="Unknown Sector (8,8)">Unknown Sector (8,8)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>11807</td>
+<td>8434</td>
+<td>-31421
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(8,8)" title="Unknown Sector (8,8)">Unknown Sector (8,8)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>29649</td>
+<td>-1032</td>
+<td>-46649
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(8,8)" title="Unknown Sector (8,8)">Unknown Sector (8,8)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>6</td>
+<td>-10175</td>
+<td>-7536</td>
+<td>-40350
+</td></tr>
+<tr>
+<td> <a href="/index.php/Unknown" title="Unknown">Unknown</a></td>
+<td> <a href="/index.php/Unknown_Sector_(8,8)" title="Unknown Sector (8,8)">Unknown Sector (8,8)</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>5</td>
+<td>22456</td>
+<td>8534</td>
+<td>-31188
+</td></tr>
+<tr>
+<td> <a href="/index.php/Pirates" title="Pirates">Pirates</a></td>
+<td> <a href="/index.php/Veil_of_Delusion" title="Veil of Delusion">Veil of Delusion</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>30</td>
+<td>-412</td>
+<td>7066</td>
+<td>-4477
+</td></tr>
+<tr>
+<td> <a href="/index.php/Argon" title="Argon">Argon</a></td>
+<td> <a href="/index.php/Wastelands" title="Wastelands">Wastelands</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>10878</td>
+<td>5250</td>
+<td>26107
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>29</td>
+<td>13468</td>
+<td>28280</td>
+<td>10385
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>27</td>
+<td>49800</td>
+<td>-21005</td>
+<td>-26023
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-38662</td>
+<td>39064</td>
+<td>20132
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>-28129</td>
+<td>-36439</td>
+<td>-26660
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>24</td>
+<td>-9076</td>
+<td>917</td>
+<td>-3137
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>24</td>
+<td>45054</td>
+<td>4195</td>
+<td>-30774
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>23</td>
+<td>17002</td>
+<td>-31112</td>
+<td>-2381
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>23</td>
+<td>-42661</td>
+<td>-17113</td>
+<td>-10511
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>23</td>
+<td>43102</td>
+<td>36813</td>
+<td>-35494
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>21</td>
+<td>57615</td>
+<td>-35226</td>
+<td>9627
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>20</td>
+<td>-30411</td>
+<td>40194</td>
+<td>22007
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>20</td>
+<td>48903</td>
+<td>6637</td>
+<td>1980
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>19</td>
+<td>-31425</td>
+<td>39046</td>
+<td>22413
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>19</td>
+<td>52378</td>
+<td>3981</td>
+<td>9471
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>131</td>
+<td>-14564</td>
+<td>-20386
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>18</td>
+<td>17383</td>
+<td>-38393</td>
+<td>-35711
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>17</td>
+<td>-1524</td>
+<td>-21085</td>
+<td>17664
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>17</td>
+<td>21741</td>
+<td>-18349</td>
+<td>-4883
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>17</td>
+<td>47372</td>
+<td>26036</td>
+<td>-18489
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>35024</td>
+<td>23944</td>
+<td>-13650
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>29226</td>
+<td>23546</td>
+<td>-32890
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>16</td>
+<td>-6757</td>
+<td>-26188</td>
+<td>-37163
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>15</td>
+<td>-9629</td>
+<td>-2299</td>
+<td>32411
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>14</td>
+<td>-42679</td>
+<td>-14225</td>
+<td>-36233
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>13</td>
+<td>54696</td>
+<td>37936</td>
+<td>-37818
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>48343</td>
+<td>-35460</td>
+<td>-10764
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>12</td>
+<td>-49557</td>
+<td>-18981</td>
+<td>-22848
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>11</td>
+<td>-29510</td>
+<td>35567</td>
+<td>10711
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>1149</td>
+<td>-21850</td>
+<td>26275
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>10</td>
+<td>48321</td>
+<td>26107</td>
+<td>15446
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>-31001</td>
+<td>30282</td>
+<td>-8779
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-25544</td>
+<td>37535</td>
+<td>-13616
+</td></tr>
+<tr>
+<td> <a href="/index.php/Yaki" title="Yaki">Yaki</a></td>
+<td> <a href="/index.php/Weaver%27s_Tempest" title="Weaver's Tempest">Weaver's Tempest</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>7</td>
+<td>15179</td>
+<td>27125</td>
+<td>-7830
+</td></tr>
+<tr>
+<td> <a href="/index.php/Xenon" title="Xenon">Xenon</a></td>
+<td> <a href="/index.php/Xenon_Core_023" title="Xenon Core 023" class="mw-redirect">Xenon Core 023</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>36</td>
+<td>-47635</td>
+<td>15002</td>
+<td>-13538
+</td></tr>
+<tr>
+<td> <a href="/index.php/Xenon" title="Xenon">Xenon</a></td>
+<td> <a href="/index.php/Xenon_Core_023" title="Xenon Core 023" class="mw-redirect">Xenon Core 023</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>16833</td>
+<td>-7076</td>
+<td>62461
+</td></tr>
+<tr>
+<td> <a href="/index.php/Xenon" title="Xenon">Xenon</a></td>
+<td> <a href="/index.php/Xenon_Core_023" title="Xenon Core 023" class="mw-redirect">Xenon Core 023</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>25</td>
+<td>-18470</td>
+<td>-24501</td>
+<td>40888
+</td></tr>
+<tr>
+<td> <a href="/index.php/Xenon" title="Xenon">Xenon</a></td>
+<td> <a href="/index.php/Xenon_Core_023" title="Xenon Core 023" class="mw-redirect">Xenon Core 023</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>15167</td>
+<td>-43939</td>
+<td>-28230
+</td></tr>
+<tr>
+<td> <a href="/index.php/Xenon" title="Xenon">Xenon</a></td>
+<td> <a href="/index.php/Xenon_Core_023" title="Xenon Core 023" class="mw-redirect">Xenon Core 023</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-59798</td>
+<td>13316</td>
+<td>14021
+</td></tr>
+<tr>
+<td> <a href="/index.php/Xenon" title="Xenon">Xenon</a></td>
+<td> <a href="/index.php/Xenon_Sector_534" title="Xenon Sector 534">Xenon Sector 534</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>67</td>
+<td>-29751</td>
+<td>-948</td>
+<td>-5030
+</td></tr>
+<tr>
+<td> <a href="/index.php/Xenon" title="Xenon">Xenon</a></td>
+<td> <a href="/index.php/Xenon_Sector_534" title="Xenon Sector 534">Xenon Sector 534</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>7</td>
+<td>-1864</td>
+<td>31507</td>
+<td>-10881
+</td></tr>
+<tr>
+<td> <a href="/index.php/Xenon" title="Xenon">Xenon</a></td>
+<td> <a href="/index.php/Xenon_Sector_627" title="Xenon Sector 627">Xenon Sector 627</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>36</td>
+<td>-16210</td>
+<td>5105</td>
+<td>-4607
+</td></tr>
+<tr>
+<td> <a href="/index.php/Xenon" title="Xenon">Xenon</a></td>
+<td> <a href="/index.php/Xenon_Sector_627" title="Xenon Sector 627">Xenon Sector 627</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>26</td>
+<td>5728</td>
+<td>-2408</td>
+<td>21256
+</td></tr>
+<tr>
+<td> <a href="/index.php/Xenon" title="Xenon">Xenon</a></td>
+<td> <a href="/index.php/Xenon_Sector_627" title="Xenon Sector 627">Xenon Sector 627</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>25</td>
+<td>-21599</td>
+<td>-8337</td>
+<td>6427
+</td></tr>
+<tr>
+<td> <a href="/index.php/Xenon" title="Xenon">Xenon</a></td>
+<td> <a href="/index.php/Xenon_Sector_627" title="Xenon Sector 627">Xenon Sector 627</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>24661</td>
+<td>-14952</td>
+<td>-15106
+</td></tr>
+<tr>
+<td> <a href="/index.php/Xenon" title="Xenon">Xenon</a></td>
+<td> <a href="/index.php/Xenon_Sector_627" title="Xenon Sector 627">Xenon Sector 627</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>8</td>
+<td>-20349</td>
+<td>4531</td>
+<td>4771
+</td></tr>
+<tr>
+<td> <a href="/index.php/Xenon" title="Xenon">Xenon</a></td>
+<td> <a href="/index.php/Xenon_Sector_695" title="Xenon Sector 695">Xenon Sector 695</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>36</td>
+<td>-31146</td>
+<td>9809</td>
+<td>-8852
+</td></tr>
+<tr>
+<td> <a href="/index.php/Xenon" title="Xenon">Xenon</a></td>
+<td> <a href="/index.php/Xenon_Sector_695" title="Xenon Sector 695">Xenon Sector 695</a></td>
+<td> <a href="/index.php/Silicon" title="Silicon" class="mw-redirect">Silicon</a> </td>
+<td>9</td>
+<td>9917</td>
+<td>-28729</td>
+<td>-18458
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key dailystunt_wiki:pcache:idhash:15-0!*!0!*!*!*!* and timestamp 20130308030055 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://x3wiki.com/index.php?title=Silicon_asteroid_list&amp;oldid=613">http://x3wiki.com/index.php?title=Silicon_asteroid_list&amp;oldid=613</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/index.php/Silicon_asteroid_list" primary="1" context="subject" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/index.php?title=Talk:Silicon_asteroid_list&amp;action=edit&amp;redlink=1" primary="1" context="talk" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit"><a href="/index.php?title=Silicon_asteroid_list&amp;action=edit" primary="1" title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				<li id="ca-history"><a href="/index.php?title=Silicon_asteroid_list&amp;action=history" rel="archives" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="/index.php/User:207.241.237.237" class="new" title="The user page for the IP address you are editing as [.]" accesskey=".">207.241.237.237</a></li>
+				<li id="pt-anontalk"><a href="/index.php/User_talk:207.241.237.237" class="new" title="Discussion about edits from this IP address [n]" accesskey="n">Talk for this IP address</a></li>
+				<li id="pt-anonlogin"><a href="/index.php?title=Special:UserLogin&amp;returnto=Silicon+asteroid+list&amp;returntoquery=oldid%3D613" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+<a href="/index.php/Main_Page" style="background-image: url(http://www.x3wiki.com/x3.jpg);" title="Visit the main page"></a>
+	</div>
+	<div class="generated-sidebar portlet" id="p-navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/index.php/Help:Contents" title="The place to find out">Help</a></li>
+				<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict">
+		<h5>X3 Terran Conflict</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+				<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+				<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+				<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+				<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+				<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+				<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+				<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+				<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+				<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+				<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Links">
+		<h5>Links</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Buy-X3-Albion-Prelude.21"><a href="http://www.gamersgate.co.uk/DD-X3AP/x3-albion-prelude-expansion-pack?caff=4628051%7C" rel="nofollow">Buy X3 Albion Prelude!</a></li>
+				<li id="n-MMOServerstatus-.5BEN.5D"><a href="http://www.mmoserverstatus.com" rel="nofollow">MMOServerstatus [EN]</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Silicon_asteroid_list" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Silicon_asteroid_list" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li><a href="/index.php?title=Silicon_asteroid_list&amp;oldid=613&amp;printable=yes" rel="alternate">Printable version</a></li>
+				<li id="t-permalink"><a href="/index.php?title=Silicon_asteroid_list&amp;oldid=613" title="Permanent link to this revision of the page">Permanent link</a></li>
+			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 28 June 2010, at 16:50.</li>
+		<li id="viewcount">This page has been accessed 11,454 times.</li>
+		<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+		<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li><li><a href='http://installatron.com/apps/mediawiki' target='_blank' title='Installatron enables webmasters to instantly install and upgrade MediaWiki and other web applications.'>Installed by Installatron</a></li>
+	</ul>
+</div>
+</div>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready"], null, true);
+}</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-265105-19");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><!-- Served in 0.131 secs. --></body></html>

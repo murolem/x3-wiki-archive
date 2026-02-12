@@ -1,0 +1,1027 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Federal Argon Shipyard - X3 Wiki</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.19.1" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Federal_Argon_Shipyard&amp;action=edit" />
+<link rel="edit" title="Edit" href="/index.php?title=Federal_Argon_Shipyard&amp;action=edit" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://www.x3wiki.com/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://www.x3wiki.com/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.monobook&amp;only=styles&amp;skin=monobook&amp;*" />
+<!--[if IE 6]><link rel="stylesheet" href="/skins/monobook/IE60Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/skins/monobook/IE70Fixes.css?303" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: dailystunt_wiki:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */
+</style>
+
+<script src="http://www.x3wiki.com/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Federal_Argon_Shipyard","wgTitle":"Federal Argon Shipyard","wgCurRevisionId":11714,"wgArticleId":1321,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Shipyards"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Federal_Argon_Shipyard","wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"monobook","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":
+0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: dailystunt_wiki:resourceloader:filter:minify-js:7:74a832f2292f1f4d40d425d223444e78 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Federal_Argon_Shipyard skin-monobook action-view">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=419115078139333";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+	<div id="siteNotice">
+	<script type='text/javascript'>
+<!--//<![CDATA[
+   document.MAX_ct0 ='';
+   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("zoneid=55244");document.write("&amp;nodis=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+//]]>--></script>
+	<br /><div class="fb-like" data-href="http://www.facebook.com/pages/X3-wiki/177021675675938" data-send="true" data-width="450" data-show-faces="false"></div>
+	
+	<!-- centralNotice loads here --><div id="localNotice" lang="en" dir="ltr"><p>Please support us by liking us on facebook!
+</p></div></div>
+	<h1 id="firstHeading" class="firstHeading"><span dir="auto">Federal Argon Shipyard</span></h1>
+	<div id="bodyContent" class="mw-body">
+		<div id="siteSub">From X3 Wiki</div>
+		<div id="contentSub"><div id="mw-revision-info">Revision as of 16:28, 11 March 2013 by <a href="/index.php/User:Madned" title="User:Madned" class="mw-userlink">Madned</a>  <span class="mw-usertoollinks">(<a href="/index.php/User_talk:Madned" title="User talk:Madned">Talk</a> | <a href="/index.php/Special:Contributions/Madned" title="Special:Contributions/Madned">contribs</a>)</span></div><br />
+				<div id="mw-revision-nav">(<a href="/index.php?title=Federal_Argon_Shipyard&amp;diff=prev&amp;oldid=11714" title="Federal Argon Shipyard">diff</a>) <a href="/index.php?title=Federal_Argon_Shipyard&amp;direction=prev&amp;oldid=11714" title="Federal Argon Shipyard">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div></div>
+		<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table style="background-color: transparent; text-align: left; border: 0px; float: right; margin-left: 5px;">
+<tr style="text-align:center;"><th colspan="2" style="background-color:#3195E3;"><a href="/index.php/Races#Argon" title="Races">&#160;Argon</a> Federal Argon Shipyard</th></tr>
+<tr><th><a href="/index.php/Weapons#Damage" title="Weapons">Hull</a></th><td></td></tr>
+<tr><th><a href="/index.php/Shields" title="Shields">Shields</a></th><td> <a href="/index.php/Physics#Energy" title="Physics">GJ</a></td></tr>
+<tr><th>Generator</th><td></td></tr>
+<tr><th><a href="/index.php/Docking" title="Docking">Hangar</a></th><td></td></tr>
+<tr><td colspan="2"><table style="background-color: WhiteSmoke; text-align: right;width:100%;">
+<tr><th>Buy:</th><td><a href="/index.php/Reputation" title="Reputation"> <b>@</b></a></td><td>649,240 <a href="/index.php/Credits" title="Credits">Cr</a></td></tr>
+</table></td></tr>
+</table>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Encyclopedia_Entry"><span class="tocnumber">1.1</span> <span class="toctext">Encyclopedia Entry</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Products"><span class="tocnumber">2</span> <span class="toctext">Products</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Stations"><span class="tocnumber">2.1</span> <span class="toctext">Stations</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Ships"><span class="tocnumber">2.2</span> <span class="toctext">Ships</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table>
+<h2><span class="editsection">[<a href="/index.php?title=Federal_Argon_Shipyard&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a>]</span> <span class="mw-headline" id="Overview">Overview</span></h2>
+<p>The <a href="/index.php/Shipyard" title="Shipyard">Shipyards</a> of the Argon Federation are where all <a href="/index.php/Argon" title="Argon">Argon</a> ships and stations are crafted.
+</p><p>These facilites combine the best of Argon automation and engineering know-how to produce ships that are considered generally to be the most well-rounded on offer.
+</p>
+<h3><span class="editsection">[<a href="/index.php?title=Federal_Argon_Shipyard&amp;action=edit&amp;section=2" title="Edit section: Encyclopedia Entry">edit</a>]</span> <span class="mw-headline" id="Encyclopedia_Entry">Encyclopedia Entry</span></h3>
+<p>Shipyards are the heart and soul of modern societies. They are factories of gigantic dimension, built to manufacture all the space vehicles and even build and sell whole construction kits for new factories. Because of immense resources and labour required to build as well as run a factory like this, shipyards are rare to encounter. Argon shipyards are large, automated industrial plants, dedicated to the construction of the entire range of Argon space ships. In addition to the valuable raw materials and technology, these factories also contain experimental areas where new designs and ship improvements are always being developed and tested, and as a result are heavily guarded. Therefore all Argon shipyards should be approached with great caution.
+</p>
+<h2><span class="editsection">[<a href="/index.php?title=Federal_Argon_Shipyard&amp;action=edit&amp;section=3" title="Edit section: Products">edit</a>]</span> <span class="mw-headline" id="Products">Products</span></h2>
+<h3><span class="editsection">[<a href="/index.php?title=Federal_Argon_Shipyard&amp;action=edit&amp;section=4" title="Edit section: Stations">edit</a>]</span> <span class="mw-headline" id="Stations">Stations</span></h3>
+<table style="text-align:right;" class="wikitable sortable" cellpadding="3">
+<tr>
+<th> Available Stations<br /></th>
+<th> Cost<br /> </th>
+<th> <a href="/index.php/Argon_Prime_Shipyard" title="Argon Prime Shipyard">Argon Prime</a><br /></th>
+<th>  <a href="/index.php/Cloudbase_Southeast_Shipyard" title="Cloudbase Southeast Shipyard">Cloudbase<br /> South East</a><br /> </th>
+<th> <a href="/index.php/Omicron_Lyrae_Shipyard" title="Omicron Lyrae Shipyard">Omicron Lyrae</a><br /> </th>
+<th> <a href="/index.php/Light_of_Heart_Shipyard" title="Light of Heart Shipyard">Light of Heart</a><br /> </th>
+<th> <a href="/index.php/Legend%27s_Home_Shipyard" title="Legend's Home Shipyard">Legend's Home</a><br /> </th>
+<th> <a href="/index.php/Argon_Sector_M148_Shipyard" title="Argon Sector M148 Shipyard">Argon Sector M148</a><br />
+</th></tr>
+<tr>
+<td><a href="/index.php/Free_Argon_Trading_Station" title="Free Argon Trading Station">Free Argon Trading Station</a> </td>
+<td>29,929,912 </td>
+<td> X </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Argon_Equipment_Dock" title="Argon Equipment Dock">Argon Equipment Dock</a> </td>
+<td>51,160,024 </td>
+<td> X </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Weapon_Component_Factory" title="Weapon Component Factory">Weapon Component Factory</a> </td>
+<td>720,656 </td>
+<td> X </td>
+<td> X </td>
+<td> </td>
+<td> </td>
+<td> X </td>
+<td> X
+</td></tr>
+<tr>
+<td><a href="/index.php/Crystal_Fab_M" title="Crystal Fab M" class="mw-redirect">Crystal Fab M</a> </td>
+<td>3,129,332 </td>
+<td> X </td>
+<td> X </td>
+<td> X </td>
+<td> X </td>
+<td> X </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Crystal_Fab_L" title="Crystal Fab L" class="mw-redirect">Crystal Fab L</a> </td>
+<td>6,492,388 </td>
+<td> X </td>
+<td> X </td>
+<td> X </td>
+<td> X </td>
+<td> X </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Chip_Plant" title="Chip Plant">Chip Plant</a> </td>
+<td>5,599,036 </td>
+<td> X </td>
+<td> X </td>
+<td> </td>
+<td>  </td>
+<td> X </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Computer_Plant" title="Computer Plant">Computer Plant</a> </td>
+<td>5,599,036 </td>
+<td>  </td>
+<td>  </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Quantum_Tube_Fab" title="Quantum Tube Fab">Quantum Tube Fab</a> </td>
+<td>4,135,652 </td>
+<td>  </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Mosquito_Missile_Factory" title="Mosquito Missile Factory">Mosquito Missile Factory</a> </td>
+<td>603,792 </td>
+<td> X </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Wasp_Missile_Factory" title="Wasp Missile Factory">Wasp Missile Factory</a> </td>
+<td>1,525,712 </td>
+<td>  </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Silkworm_Missile_Factory" title="Silkworm Missile Factory">Silkworm Missile Factory</a> </td>
+<td> 2,876,128 </td>
+<td>  </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Lasertower_Factory" title="Lasertower Factory">Lasertower Factory</a> </td>
+<td> 1,220,568 </td>
+<td>  </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Drone_Factory" title="Drone Factory">Drone Factory</a> </td>
+<td> 2,898,204 </td>
+<td>  </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Advanced_Satellite_Factory" title="Advanced Satellite Factory">Advanced Satellite Factory</a> </td>
+<td> 3,233,208 </td>
+<td>  </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Particle_Accelerator_Cannon_Forge" title="Particle Accelerator Cannon Forge">Particle Accelerator Cannon Forge</a> </td>
+<td>4,196,680 </td>
+<td> X </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/High_Energy_Plasma_Thrower_Forge" title="High Energy Plasma Thrower Forge">High Energy Plasma Thrower Forge</a> </td>
+<td>6,850,768 </td>
+<td> X </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Photon_Pulse_Cannon_Forge" title="Photon Pulse Cannon Forge">Photon Pulse Cannon Forge</a> </td>
+<td> 12,777,020 </td>
+<td>  </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Ammunition_Factory" title="Ammunition Factory">Ammunition Factory</a> </td>
+<td>2,830,680 </td>
+<td> X </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Cluster_Flak_Array_Forge" title="Cluster Flak Array Forge">Cluster Flak Array Forge</a></td>
+<td>12,039,488 </td>
+<td>  </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Phased_Repeater_Gun_Forge" title="Phased Repeater Gun Forge">Phased Repeater Gun Forge</a></td>
+<td>4,856,308 </td>
+<td> X </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Shield_Production_Facility_1MJ" title="Shield Production Facility 1MJ">Shield Production Facility 1MJ</a></td>
+<td>1,630,888 </td>
+<td> X </td>
+<td> X  </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Shield_Production_Facility_200MJ" title="Shield Production Facility 200MJ" class="mw-redirect">Shield Production Facility 200MJ</a></td>
+<td>6,336,572 </td>
+<td>  </td>
+<td> X  </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Shield_Production_Facility_2GJ" title="Shield Production Facility 2GJ" class="mw-redirect">Shield Production Facility 2GJ</a></td>
+<td>12,268,020 </td>
+<td>  </td>
+<td> X  </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Wheat_Farm_M" title="Wheat Farm M" class="mw-redirect">Wheat Farm M</a></td>
+<td>367,016 </td>
+<td> X </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Wheat_Farm_L" title="Wheat Farm L" class="mw-redirect">Wheat Farm L</a></td>
+<td>917,504 </td>
+<td>  </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Cattle_Ranch_M" title="Cattle Ranch M" class="mw-redirect">Cattle Ranch M</a></td>
+<td>275,016 </td>
+<td> X </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td> X </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Cattle_Ranch_L" title="Cattle Ranch L" class="mw-redirect">Cattle Ranch L</a></td>
+<td>687,480</td>
+<td>  </td>
+<td> X </td>
+<td> X </td>
+<td> X </td>
+<td> X </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Rimes_Fact_M" title="Rimes Fact M" class="mw-redirect">Rimes Fact M</a></td>
+<td>799,992 </td>
+<td> X </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Rimes_Fact_L" title="Rimes Fact L" class="mw-redirect">Rimes Fact L</a></td>
+<td>1,999,980 </td>
+<td>  </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Cahoona_Bakery_M" title="Cahoona Bakery M">Cahoona Bakery M</a></td>
+<td>874,980 </td>
+<td> X </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td> X </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Cahoona_Bakery_L" title="Cahoona Bakery L" class="mw-redirect">Cahoona Bakery L</a></td>
+<td>2,187,480 </td>
+<td> X </td>
+<td> X </td>
+<td>  </td>
+<td> X </td>
+<td> X </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Space_Fuel_Distillery_M" title="Space Fuel Distillery M" class="mw-redirect">Space Fuel Distillery M</a></td>
+<td>1,999,920 </td>
+<td>  </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Space_Fuel_Distillery_L" title="Space Fuel Distillery L" class="mw-redirect">Space Fuel Distillery L</a></td>
+<td>5,500,028 </td>
+<td> X </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Solar_Power_Plant_M" title="Solar Power Plant M" class="mw-redirect">Solar Power Plant M</a></td>
+<td>4,895,260 </td>
+<td> X </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Solar_Power_Plant_XL" title="Solar Power Plant XL" class="mw-redirect">Solar Power Plant XL</a></td>
+<td>19,584,044 </td>
+<td>  </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Ore_Mine_M" title="Ore Mine M" class="mw-redirect">Ore Mine M</a></td>
+<td>449,988 </td>
+<td> X </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Ore_Mine_L" title="Ore Mine L" class="mw-redirect">Ore Mine L</a></td>
+<td>905,688 </td>
+<td>  </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Silicon_Mine_L" title="Silicon Mine L" class="mw-redirect">Silicon Mine L</a></td>
+<td>1,139,416 </td>
+<td> X </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Complex_Construction_Kit" title="Complex Construction Kit">Complex Construction Kit</a></td>
+<td>359,696 </td>
+<td> X </td>
+<td> X </td>
+<td> X </td>
+<td> X </td>
+<td> X </td>
+<td> X
+</td></tr>
+<tr>
+<td><a href="/index.php/Firefly_Missile_Factory" title="Firefly Missile Factory">Firefly Missile Factory</a></td>
+<td>714,164 </td>
+<td> X </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Firestorm_Torpedo_Factory" title="Firestorm Torpedo Factory">Firestorm Torpedo Factory</a></td>
+<td>10,952,260 </td>
+<td>  </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Tomahawk_Missile_Manufacturing_Plant" title="Tomahawk Missile Manufacturing Plant">Tomahawk Missile Manufacturing Plant</a></td>
+<td>2,876,128 </td>
+<td>  </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Hammer_Torpedo_Fabrication_Facility" title="Hammer Torpedo Fabrication Facility">Hammer Torpedo Fabrication Facility</a></td>
+<td>2,876,128 </td>
+<td>  </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Flail_Missile_Production_Facility" title="Flail Missile Production Facility">Flail Missile Production Facility</a></td>
+<td>2,876,128 </td>
+<td>  </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Low-yield_Sidearms_Fab" title="Low-yield Sidearms Fab">Low-yield Sidearms Fab</a></td>
+<td>2,246,368 </td>
+<td> X </td>
+<td> </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Advanced_Drone_Factory" title="Advanced Drone Factory">Advanced Drone Factory</a></td>
+<td>2,898,204 </td>
+<td> X </td>
+<td> X </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr></table>
+<h3><span class="editsection">[<a href="/index.php?title=Federal_Argon_Shipyard&amp;action=edit&amp;section=5" title="Edit section: Ships">edit</a>]</span> <span class="mw-headline" id="Ships">Ships</span></h3>
+<table style="text-align:right;" class="wikitable sortable" cellpadding="3">
+<tr>
+<th> Available Ships<br /></th>
+<th> Cost<br /> </th>
+<th> <a href="/index.php/Argon_Prime" title="Argon Prime">Argon Prime</a><br /></th>
+<th>  <a href="/index.php/Cloudbase_South_East" title="Cloudbase South East">Cloudbase South East</a><br /> </th>
+<th> <a href="/index.php/Omicron_Lyrae" title="Omicron Lyrae">Omicron Lyrae</a><br /> </th>
+<th> <a href="/index.php/Light_of_Heart" title="Light of Heart">Light of Heart</a><br /> </th>
+<th> <a href="/index.php/Legend%27s_Home" title="Legend's Home">Legend's Home</a><br /> </th>
+<th> <a href="/index.php/Argon_Sector_M148" title="Argon Sector M148">Argon Sector M148</a><br />
+</th></tr>
+<tr>
+<td><a href="/index.php/Colossus" title="Colossus">Colossus</a></td>
+<td> 67,823,098</td>
+<td> x </td>
+<td> x </td>
+<td>x </td>
+<td> x</td>
+<td> x </td>
+<td> x
+</td></tr>
+<tr>
+<td><a href="/index.php/Titan_(ship)" title="Titan (ship)">Titan (ship)</a></td>
+<td> 69,283,911</td>
+<td> x </td>
+<td> x </td>
+<td> x </td>
+<td> x </td>
+<td> x </td>
+<td> x
+</td></tr>
+<tr>
+<td><a href="/index.php/Nova" title="Nova">Nova</a></td>
+<td> 2,420,118</td>
+<td> x </td>
+<td> x </td>
+<td> </td>
+<td> </td>
+<td> x </td>
+<td> x
+</td></tr>
+<tr>
+<td><a href="/index.php/Nova_Raider" title="Nova Raider" class="mw-redirect">Nova Raider</a></td>
+<td> 2,420,118</td>
+<td>   </td>
+<td>  </td>
+<td> x </td>
+<td> </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Nova_Sentinel" title="Nova Sentinel" class="mw-redirect">Nova Sentinel</a></td>
+<td> 3,066,889</td>
+<td>  </td>
+<td> x </td>
+<td> </td>
+<td> x </td>
+<td> x </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Nova_Vanguard" title="Nova Vanguard" class="mw-redirect">Nova Vanguard</a></td>
+<td> 2,820,656</td>
+<td> x </td>
+<td> x </td>
+<td>  </td>
+<td> </td>
+<td> x </td>
+<td> x
+</td></tr>
+<tr>
+<td><a href="/index.php/Eclipse" title="Eclipse">Eclipse</a></td>
+<td> 6,044,362</td>
+<td>x  </td>
+<td>  </td>
+<td>x </td>
+<td>x </td>
+<td>  </td>
+<td> x
+</td></tr>
+<tr>
+<td><a href="/index.php/Buster" title="Buster">Buster</a></td>
+<td> 916,944</td>
+<td> x </td>
+<td> x </td>
+<td>  </td>
+<td>  </td>
+<td> x </td>
+<td> x
+</td></tr>
+<tr>
+<td><a href="/index.php/Buster_Raider" title="Buster Raider" class="mw-redirect">Buster Raider</a></td>
+<td> 1,099,183</td>
+<td>  </td>
+<td> x </td>
+<td> x </td>
+<td>  </td>
+<td> x </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Buster_Vanguard" title="Buster Vanguard" class="mw-redirect">Buster Vanguard</a></td>
+<td> 1,018,414</td>
+<td>   </td>
+<td> x </td>
+<td>  </td>
+<td> x </td>
+<td> x </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Elite" title="Elite">Elite</a></td>
+<td> 1,619,083</td>
+<td> x </td>
+<td>   </td>
+<td> x </td>
+<td> x </td>
+<td>   </td>
+<td> x
+</td></tr>
+<tr>
+<td><a href="/index.php/Discoverer" title="Discoverer">Discoverer</a></td>
+<td> 88,041</td>
+<td> x </td>
+<td> x </td>
+<td> </td>
+<td> </td>
+<td> x </td>
+<td> x
+</td></tr>
+<tr>
+<td><a href="/index.php/Discoverer_Hauler" title="Discoverer Hauler" class="mw-redirect">Discoverer Hauler</a></td>
+<td> 93,447</td>
+<td> x </td>
+<td> x </td>
+<td> </td>
+<td> </td>
+<td> x </td>
+<td> x
+</td></tr>
+<tr>
+<td><a href="/index.php/Discoverer_Raider" title="Discoverer Raider" class="mw-redirect">Discoverer Raider</a></td>
+<td> 130,753</td>
+<td>  </td>
+<td> x </td>
+<td> </td>
+<td> x </td>
+<td> x </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Discoverer_Vanguard" title="Discoverer Vanguard" class="mw-redirect">Discoverer Vanguard</a></td>
+<td> 101,518</td>
+<td>  </td>
+<td>  </td>
+<td> x </td>
+<td> </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Centaur" title="Centaur">Centaur</a></td>
+<td> 9,842,368</td>
+<td>  x </td>
+<td> x </td>
+<td> x </td>
+<td> x </td>
+<td> x </td>
+<td> x
+</td></tr>
+<tr>
+<td><a href="/index.php/Heavy_Centaur" title="Heavy Centaur">Heavy Centaur</a></td>
+<td> 14,377,642</td>
+<td>  </td>
+<td>  </td>
+<td> </td>
+<td> </td>
+<td> x </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Cerberus" title="Cerberus">Cerberus</a></td>
+<td> 36,098,766</td>
+<td>  </td>
+<td>  </td>
+<td> </td>
+<td> </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Minotaur" title="Minotaur">Minotaur</a></td>
+<td> 50,333,548</td>
+<td>  </td>
+<td> x </td>
+<td> </td>
+<td> </td>
+<td> x </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Gladiator" title="Gladiator">Gladiator</a></td>
+<td> 5,409,482</td>
+<td>  </td>
+<td> x </td>
+<td> </td>
+<td> </td>
+<td> x </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Mammoth" title="Mammoth">Mammoth</a></td>
+<td> 28,506,608</td>
+<td> x </td>
+<td> x </td>
+<td> x </td>
+<td> x </td>
+<td> x </td>
+<td> x
+</td></tr>
+<tr>
+<td><a href="/index.php/Magnetar" title="Magnetar">Magnetar</a></td>
+<td> 438,338</td>
+<td> x </td>
+<td>  </td>
+<td> x </td>
+<td> x </td>
+<td>  </td>
+<td> x
+</td></tr>
+<tr>
+<td><a href="/index.php/Express" title="Express">Express</a></td>
+<td> 665,772</td>
+<td> x </td>
+<td> x </td>
+<td> x</td>
+<td> x </td>
+<td> x </td>
+<td> x
+</td></tr>
+<tr>
+<td> <a href="/index.php/Express_Hauler" title="Express Hauler" class="mw-redirect">Express Hauler</a></td>
+<td> 665,772 </td>
+<td>  </td>
+<td> x </td>
+<td>  </td>
+<td>  </td>
+<td> x </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Mercury(ship)" title="Mercury(ship)" class="mw-redirect">Mercury(ship)</a></td>
+<td> 451,347</td>
+<td> x </td>
+<td> x </td>
+<td> </td>
+<td> </td>
+<td> x </td>
+<td> x
+</td></tr>
+<tr>
+<td><a href="/index.php/Mercury_Hauler" title="Mercury Hauler" class="mw-redirect">Mercury Hauler</a></td>
+<td> </td>
+<td>  </td>
+<td> x </td>
+<td> </td>
+<td> x </td>
+<td> x </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Mercury_Super_Freighter_1" title="Mercury Super Freighter 1" class="mw-redirect">Mercury Super Freighter 1</a></td>
+<td> 952,331</td>
+<td>  </td>
+<td> x </td>
+<td> </td>
+<td> x </td>
+<td> x </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Mercury_Super_Freighter_2" title="Mercury Super Freighter 2" class="mw-redirect">Mercury Super Freighter 2</a></td>
+<td> 1,752,841</td>
+<td>  </td>
+<td> x </td>
+<td> </td>
+<td> x </td>
+<td> x </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Mercury_Tanker_1" title="Mercury Tanker 1" class="mw-redirect">Mercury Tanker 1</a></td>
+<td> 451,347</td>
+<td>  </td>
+<td> </td>
+<td> x </td>
+<td> </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php/Mercury_Tanker_2" title="Mercury Tanker 2" class="mw-redirect">Mercury Tanker 2</a></td>
+<td> 952,331</td>
+<td> x </td>
+<td> x </td>
+<td> </td>
+<td> </td>
+<td> x </td>
+<td> x
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 133/1000000
+Post-expand include size: 1307/2097152 bytes
+Template argument size: 351/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key dailystunt_wiki:pcache:idhash:1321-0!*!0!!en!*!* and timestamp 20130511012147 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://www.x3wiki.com/index.php?title=Federal_Argon_Shipyard&amp;oldid=11714">http://www.x3wiki.com/index.php?title=Federal_Argon_Shipyard&amp;oldid=11714</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/index.php/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/index.php/Category:Shipyards" title="Category:Shipyards">Shipyards</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/index.php/Federal_Argon_Shipyard" primary="1" context="subject" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/index.php/Talk:Federal_Argon_Shipyard" primary="1" context="talk" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit"><a href="/index.php?title=Federal_Argon_Shipyard&amp;action=edit" primary="1" title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				<li id="ca-history"><a href="/index.php?title=Federal_Argon_Shipyard&amp;action=history" rel="archives" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="/index.php/User:174.129.228.67" class="new" title="The user page for the IP address you are editing as [.]" accesskey=".">174.129.228.67</a></li>
+				<li id="pt-anontalk"><a href="/index.php/User_talk:174.129.228.67" class="new" title="Discussion about edits from this IP address [n]" accesskey="n">Talk for this IP address</a></li>
+				<li id="pt-anonlogin"><a href="/index.php?title=Special:UserLogin&amp;returnto=Federal+Argon+Shipyard&amp;returntoquery=oldid%3D11714" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+<a href="/index.php/Main_Page" style="background-image: url(http://www.x3wiki.com/x3.jpg);" title="Visit the main page"></a>
+	</div>
+	<div class="generated-sidebar portlet" id="p-navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/index.php/Help:Contents" title="The place to find out">Help</a></li>
+				<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict">
+		<h5>X3 Terran Conflict</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+				<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+				<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+				<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+				<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+				<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+				<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+				<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+				<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+				<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+				<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Links">
+		<h5>Links</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Buy-X3-Albion-Prelude.21"><a href="http://www.gamersgate.co.uk/DD-X3AP/x3-albion-prelude-expansion-pack?caff=4628051%7C" rel="nofollow">Buy X3 Albion Prelude!</a></li>
+				<li id="n-MMOServerstatus-.5BEN.5D"><a href="http://www.mmoserverstatus.com" rel="nofollow">MMOServerstatus [EN]</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Federal_Argon_Shipyard" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Federal_Argon_Shipyard" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li><a href="/index.php?title=Federal_Argon_Shipyard&amp;oldid=11714&amp;printable=yes" rel="alternate">Printable version</a></li>
+				<li id="t-permalink"><a href="/index.php?title=Federal_Argon_Shipyard&amp;oldid=11714" title="Permanent link to this revision of the page">Permanent link</a></li>
+			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 11 March 2013, at 16:28.</li>
+		<li id="viewcount">This page has been accessed 9,561 times.</li>
+		<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+		<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li><li><a href='http://installatron.com/apps/mediawiki' target='_blank' title='Installatron enables webmasters to instantly install and upgrade MediaWiki and other web applications.'>Powered by Installatron</a></li>
+	</ul>
+</div>
+</div>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready"], null, true);
+}</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-265105-19");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><!-- Served in 0.125 secs. --></body></html>

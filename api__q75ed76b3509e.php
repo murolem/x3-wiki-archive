@@ -1,0 +1,1 @@
+["Te",["Tears of Greed","Teladi","Teladi Company Security License","Teladi Equipment Dock","Teladi Gain","Teladi Shipyard","Teladi Space Equipment Dock","Teladi Stock Exchange","Teladi Trading Station","Teladianium"]]

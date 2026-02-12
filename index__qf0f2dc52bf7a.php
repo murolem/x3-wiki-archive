@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>Editing Weapons - X3 Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Weapons","wgTitle":"Weapons","wgCurRevisionId":16826,"wgRevisionId":0,"wgArticleId":26,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Weapons","wgRelevantArticleId":26,"wgRequestId":"Wc13Q1kfZokAACcHPP8AAAAP","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","wgEditMessage":"editing"});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.edit","mediawiki.toolbar","mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.edit.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<!--[if IE 6]><link rel="stylesheet" href="/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]-->
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Weapons&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/index.php?title=Weapons&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://x3wiki.com/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Weapons rootpage-Weapons skin-monobook action-edit">
+<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+									<div id="siteNotice"><!-- centralNotice loads here --></div>
+				<div class="mw-indicators">
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7526491584299412",
+    enable_page_level_ads: true
+  });
+</script>
+
+<!-- X3 wiki -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7526491584299412"
+     data-ad-slot="4173455889"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+				<h1 id="firstHeading" class="firstHeading" lang="en">Editing Weapons</h1>
+				
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From X3 Wiki</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text"><div id="mw-anon-edit-warning" class="warningbox">
+<p><strong>Warning:</strong> You are not logged in. Your IP address will be publicly visible if you make any edits. If you <strong><a class="external text" href="http://x3wiki.com/index.php?title=Special:UserLogin&amp;returnto=Weapons">log in</a></strong> or <strong><a class="external text" href="http://x3wiki.com/index.php?title=Special:CreateAccount&amp;returnto=Weapons">create an account</a></strong>, your edits will be attributed to your username, along with other benefits.
+</p>
+</div>
+<div id="wikiPreview" class="ontop" style="display: none;"><div lang="en" dir="ltr" class="mw-content-ltr"></div></div><form id="editform" name="editform" method="post" action="/index.php?title=Weapons&amp;action=submit" enctype="multipart/form-data"><div id="antispam-container" style="display: none;"><label for="wpAntispam">Anti-spam check.
+Do <strong>not</strong> fill this in!</label><input type="text" name="wpAntispam" id="wpAntispam" value="" /></div><input type='hidden' value="" name="wpSection"/>
+<input type='hidden' value="20170928222715" name="wpStarttime" />
+<input type='hidden' value="20161125105127" name="wpEdittime" />
+<input type='hidden' value="" name="wpScrolltop" id="wpScrolltop" />
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary"/><input type="hidden" value="0" name="oldid"/><input type="hidden" value="16826" name="parentRevId"/><input type="hidden" value="text/x-wiki" name="format"/><input type="hidden" value="wikitext" name="model"/><div id="toolbar"></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="en" dir="ltr" name="wpTextbox1">{{See also|Missiles}}
+
+
+Weapons are primarily designed to inflict damage on other ships.  They play an obvious role in altering [[Combat#Combat_strategies|one's combat strategies]], as they largely determine your ship's strengths and weaknesses in [[combat]].
+
+They may however be used to break up space debris, intercept missiles, and repair ships (with repair lasers).
+
+Some weapons are very energy efficient, usually a result of requiring ammunition.
+
+Direct fire weapons like those listed below can be characterized as either a beam, area of effect, or a bolt. 
+
+== Weapon Types ==
+===Bolt weapons===
+*Fire discrete projectiles which travel through space at the listed speed.
+*May fire repeatedly at the specified rate of fire.
+*Accuracy depends on the bullet speed, which ranges from slow capital ship cannons to Flak that exceeds the speed of beam weapons.
+*Most weapons fit into this category.
+
+===Beam weapons===
+*Are virtually impossible to evade because all beam weapons have a very high propagation speed.
+*Generate a beam until the trigger is released or energy is depleted.
+*Few Beam Weapons commonly seen in-game: The [[Alpha Kyon Emitter|Alpha]], [[Beta Kyon Emitter|Beta]] and [[Gamma Kyon Emitter|Gamma]] Kyon Emitters, the [[Pulsed Beam Emitter]] and the [[Ion Disruptor]].
+
+===Shockwave weapons===
+*Are almost impossible to evade since some can cover an area that is over 1 km wide.
+*Fire a cone of destruction hitting victims multiple times, inflicting a huge multiplier on large targets.
+*Often a source of friendly fire.
+*Few Shockwave weapons available: Only the [[Phased Shockwave Generator]] and the [[Plasma Burst Generator]] are available.
+
+===Flak weapons===
+*Are primarily designed as anti-fighter weapons.
+*Create a large damage area capable of seriously damaging fighters.
+*Very few Flak Weapons are available: The [[Fragmentation Bomb Launcher]], [[Flak Artillery Array]], [[Starburst Shockwave Cannon]] and [[Cluster Flak Array]]
+
+=== Ammunition Based Weapons ===
+*Far more energy efficient than their equivalents, they require constant supplies of ammunition to fire.
+*Each ammunition crate holds 200 rounds of ammunition. This means certain weapons use ammunition faster than others.
+*Storing and re-equipping becomes a matter of logistics. [[OOS]] combat uses ammunition very quickly.
+*Few Ammunition Based Weapons Available: The [[Mass Driver]], [[Energy Bolt Chaingun]], [[Matter/Anti-Matter Launcher]] (and  [[Prototype Matter/Anti-Matter Launcher|P-M/AML]]) and the [[Gauss Cannon]] are the only weapons requiring Ammunition.
+*Available Ammunition Types: [[Mass Driver Ammunition]], [[Energy Bolt Chaingun Ammunition]], [[Gauss Cannon Ammunition]] and [[ Matter/Anti-Matter Warhead]]s
+
+==Damage==
+Damage is inflicted in two ways.
+
+====Hull====
+Hulls are the outer shells of ships, they usually protect the equipment that makes a ship a ship rather than a blasted out derelict.
+Damage to the hull directly damages the ship and its equipment.
+
+====Shield====
+[[Shields]] are a protective energy field which primarily keeps micrometeorites and other debris from harming the hull in the course of normal navigation. They also protect the hull from weapons fire. Typically the shields must first be overcome to damage a ship.
+
+==Weapons List==
+A graphical table can be found at public.tableausoftware.com/views/X3Weapons/X3WeaponReport
+
+{| class="prettytable wikitable sortable" border="1" cellpadding="5" cellspacing="0"
+
+!Name !!Shield Damage(Per second) !!Shield (per&amp;nbsp;MJ)!!Hull Damage(Per second) !!Hull (per&amp;nbsp;MJ)!! Energy (MJ/s)!! Range (Km)!! Speed (m/s)!! Required ammo !! Cargo type !!Cargo Space
+|-
+| [[Fusion Beam Cannon]] ||9000 ||32 ||12800 ||46 ||278 ||6.63 ||2660 ||no ||L ||30
+|-
+| [[SPARE LASER 1]]||12000 ||182 ||1800 ||27 ||66 ||100 ||25000 ||no ||L ||33
+|-
+| [[SPARE LASER 2]]||2300 ||41 ||1100 ||20 ||56 ||1.79 ||5993 ||no ||S ||1
+|-
+| [[Matter/Anti-Matter Launcher]] ||10000 ||10000 ||3700 ||3700 ||1 ||3.62 ||445 || [[Matter/Anti-Matter Warhead]]||M || 21
+|-
+| [[Electro-Magnetic Plasma Cannon]]||5200 ||64 ||2000 ||25 ||81 ||2.0 ||588 ||no ||S ||5
+|-
+| [[Prototype Starburst Shockwave Cannon]]||11700 ||17 ||1900 ||3 ||679 ||2.0 ||2000 ||no ||XL ||28
+|-
+| [[Point Singularity Projector]] **||25200 ||101 ||9500 ||38 ||250 ||6.42 ||321 ||no ||XL ||200
+|-
+| [[Starburst Shockwave Cannon]]||13100 ||17 ||2100 ||3 ||759 ||2.0 ||2000 ||no ||L ||28
+|-
+| [[Gamma Kyon Emitter]]||10700 ||15 ||6400 ||9 ||714 ||4.85 ||12143 ||no ||XL ||25
+|-
+| [[Beta Kyon Emitter]]||5000 ||17 ||3000 ||10 ||300 ||3.41 ||9765 ||no ||M ||5
+|-
+| [[Alpha Kyon Emitter]]||2300 ||41 ||1100 ||20 ||56 ||1.79 ||5993 ||no ||S ||1
+|-
+| [[Experimental Electro-Magnetic Plasma Cannon]]||4600 ||64 ||1800 ||25 ||72 ||2.0 ||588 ||no ||S ||5
+|-
+| [[Prototype Matter/Anti-Matter Launcher]]||8900 ||8900 ||3300 ||3300 ||1 ||3.62 ||445 ||[[Matter/Anti-Matter Warhead]]||M ||21
+|-
+| [[Phased Array Laser Cannon]]||9400 ||34 ||7000 ||25 ||278 ||6.37 ||2561 ||no ||L ||32
+|-
+| [[Phased Shockwave Generator]] *||2500 ||4 ||134 ||0.2 ||569 ||1.44 ||254 ||no ||L ||28
+|-
+| [[Cluster Flak Array]]||12000 ||17 ||1800 ||3 ||692 ||1.98 ||2200 ||no ||L ||33
+|-
+| [[Repair Laser]]||0 ||0 ||100 ||1 ||100 ||2.2 ||4400 ||no ||- ||1
+|-
+| [[Incendiary Bomb Launcher]] ** / ***||46200 ||97 ||8100 ||17 ||478 ||5.14 ||312 ||no ||XL ||110
+|-
+| [[Phased Repeater Gun]]||7200 ||52 ||765 ||6 ||138 ||2.32 ||1560 ||no ||S ||4
+|-
+| [[High Energy Plasma Thrower]]||9400 ||50 ||1500 ||8 ||188 ||2.31 ||431 ||no ||S ||6
+|-
+| [[Tractor Beam]]||0 ||0 ||0 ||0 ||2000 ||2.0 ||4000 ||no ||S ||50
+|-
+| [[Particle Accelerator Cannon]]||6000 ||50 ||748 ||6 ||120 ||1.92 ||703 ||no ||S ||3
+|-
+| [[Mobile Drilling System]]||118 ||6 ||325 ||16 ||20 ||4.83 ||84 ||no ||XL ||100
+|-
+| [[Ion Pulse Generator]]||13000 ||27 ||544 ||1 ||475 ||3.88 ||347 ||no ||M ||28
+|-
+| [[Energy Bolt Chaingun]]||8900 ||1483 ||1400 ||233 ||6 ||2.81 ||604 ||[[Energy Bolt Chaingun Ammunition]]||S ||1
+|-
+| [[Plasma Beam Cannon]]||11900 ||35 ||4500 ||13 ||336 ||5.85 ||10644 ||no ||XL ||120
+|-
+| [[Flak Artillery Array]]||12800 ||20 ||1900 ||3 ||629 ||2.11 ||7051 ||no ||L ||30
+|-
+| [[Fragmentation Bomb Launcher]]||8800 ||46 ||1400 ||7 ||192 ||1.97 ||359 ||no ||S ||5
+|-
+| [[Ion Shard Railgun]]||10200 ||21 ||3700 ||8 ||476 ||3.33 ||498 ||no ||M ||22
+|-
+| [[Pulsed Beam Emitter]]||18100 ||67 ||673 ||3 ||269 ||0.977 ||6980 ||no ||M ||8
+|-
+| [[Concussion Impulse Generator]]||9800 ||32 ||3200 ||10 ||307 ||3.46 ||420 ||no ||M ||25
+|-
+| [[Plasma Burst Generator]] *||427 ||9 ||109 ||2 ||50 ||0.787 ||375 ||no ||S ||7
+|-
+| [[Gauss Cannon]]||42200 ||42200 ||17900 ||17900 ||1 ||4.78 ||353 ||[[Gauss Cannon Ammunition]]||XL ||55
+|-
+| [[Ion Cannon]]**||66100 ||131 ||3800 ||8 ||503 ||5.12 ||387 ||no ||XL ||150
+|-
+| [[Photon Pulse Cannon]] **||46500 ||111 ||8200 ||20 ||420 ||6.62 ||333 ||no ||XL ||100
+|-
+| [[Ion Disruptor]]||3300 ||20 ||10 ||0.1 ||164 ||0.938 ||2027 ||no ||M ||10
+|-
+| [[Mass Driver]]||0 ||0 ||185 ||15 ||12 ||0.997 ||739 ||[[Mass Driver Ammunition]]||S ||1
+|-
+| [[Impulse Ray Emitter]]||1400 ||54 ||140 ||5 ||26 ||1.39 ||1162 ||no ||S ||1
+|-
+| [[Tri-Beam Cannon]]||11100 ||30 ||7800 ||21 ||374 ||6.19 || 5630 ||no ||XL ||135
+|}
+
+&lt;nowiki>*&lt;/nowiki> Actual damage much higher, an area of effect weapon. Will hit several/many targets and each many times. Very energy efficient.
+
+&lt;nowiki>**&lt;/nowiki> Capital weapon which can be charged up, using more energy but dealing more damage. For further details check out [[charging]].
+
+&lt;nowiki>***&lt;/nowiki> IBL "set the target on fire", adding burn damage. For 3 seconds, about 3000 damage per second are inflicted. This is not cumulative with multiple IBL hitting the target so it's barely noticable when firing 4-8 IBL simultaneously.
+
+== See Also ==
+*[[Missiles]]
+*[[Fleets]]
+*[[Wings]]
+</textarea><div class='editOptions'>
+<span class="mw-summary" id="wpSummaryLabel"><label for="wpSummary">Summary:</label></span> <input class="mw-summary" id="wpSummary" maxlength="200" tabindex="1" size="60" spellcheck="true" title="Enter a short summary [b]" accesskey="b" name="wpSummary"/><div class='editCheckboxes'>
+</div>
+<div id="editpage-copywarn">
+<p>Please note that all contributions to X3 Wiki may be edited, altered, or removed by other contributors.
+If you do not want your writing to be edited mercilessly, then do not submit it here.<br />
+You are also promising us that you wrote this yourself, or copied it from a public domain or similar free resource (see <a href="/index.php?title=X3_Wiki:Copyrights&amp;action=edit&amp;redlink=1" class="new" title="X3 Wiki:Copyrights (page does not exist)">X3 Wiki:Copyrights</a> for details).
+<strong>Do not submit copyrighted work without permission!</strong>
+</p>
+</div>
+<div class='editButtons'>
+<p>To protect the wiki against automated edit spam, we kindly ask you to solve the following CAPTCHA:
+</p><div class="g-recaptcha" data-sitekey="6LedtQgUAAAAAHaU6sFesDe5_eX9uvTPkWTi-dB6"></div><noscript>
+  <div>
+    <div style="width: 302px; height: 422px; position: relative;">
+      <div style="width: 302px; height: 422px; position: absolute;">
+        <iframe src="https://www.google.com/recaptcha/api/fallback?k=6LedtQgUAAAAAHaU6sFesDe5_eX9uvTPkWTi-dB6&hl=en"
+                frameborder="0" scrolling="no"
+                style="width: 302px; height:422px; border-style: none;">
+        </iframe>
+      </div>
+    </div>
+    <div style="width: 300px; height: 60px; border-style: none;
+                bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px;
+                background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
+      <textarea id="g-recaptcha-response" name="g-recaptcha-response"
+                class="g-recaptcha-response"
+                style="width: 250px; height: 40px; border: 1px solid #c1c1c1;
+                       margin: 10px 25px; padding: 0px; resize: none;" >
+      </textarea>
+    </div>
+  </div>
+</noscript><input id="wpSave" name="wpSave" tabindex="3" title="Save your changes [s]" accesskey="s" type="submit" value="Save page"/>
+<input id="wpPreview" name="wpPreview" tabindex="4" title="Preview your changes. Please use this before saving. [p]" accesskey="p" type="submit" value="Show preview"/>
+
+<input id="wpDiff" name="wpDiff" tabindex="5" title="Show which changes you made to the text [v]" accesskey="v" type="submit" value="Show changes"/>
+	<span class='cancelLink'><a href="/index.php/Weapons" title="Weapons" id="mw-editform-cancel">Cancel</a><span class="mw-editButtons-pipe-separator"> | </span></span>
+	<span class='editHelp'><a target="helpwindow" href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Editing_pages">Editing help</a> (opens in new window)</span>
+</div><!-- editButtons -->
+</div><!-- editOptions -->
+
+<input type="hidden" value="+\" name="wpEditToken"/>
+<div class="mw-editTools"></div>
+<div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Template used on this page:
+</p></div><ul>
+<li><a href="/index.php/Template:See_also" title="Template:See also">Template:See also</a> (<a href="/index.php?title=Template:See_also&amp;action=edit" title="Template:See also">edit</a>) </li></ul></div><div class="hiddencats"></div><div class="limitreport"></div><input type="hidden" value="1" name="wpUltimateParam"/>
+</form>
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://x3wiki.com/index.php/Weapons">http://x3wiki.com/index.php/Weapons</a>"</div>
+					<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+			</div>
+		</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/index.php/Weapons" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/index.php/Talk:Weapons" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit" class="selected"><a href="/index.php?title=Weapons&amp;action=edit" title="Edit this page">Edit</a></li>
+				<li id="ca-history"><a href="/index.php?title=Weapons&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+						<li id="pt-anonuserpage">Not logged in</li>							<li id="pt-anontalk"><a href="/index.php/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+													<li id="pt-anoncontribs"><a href="/index.php/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+													<li id="pt-createaccount"><a href="/index.php?title=Special:CreateAccount&amp;returnto=Weapons&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Weapons&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/index.php/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+											<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>
+											<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict" role="navigation">
+		<h3>X3 Terran Conflict</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+											<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+											<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+											<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+											<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+											<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+											<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+											<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+											<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+											<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+											<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Links" role="navigation">
+		<h3>Links</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-MMO-Server-Status"><a href="http://www.mmoserverstatus.com">MMO Server Status</a></li>
+											<li id="n-Compare-Everglades-Tours"><a href="http://www.compare-everglades-tours.com">Compare Everglades Tours</a></li>
+											<li id="n-Pokemon-GO-Wiki"><a href="http://www.pokemon-go-wiki.com">Pokemon GO Wiki</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/index.php" id="searchform">
+					<input type='hidden' name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Weapons" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Weapons" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-info"><a href="/index.php?title=Weapons&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+			</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+									<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.action.edit.editWarning","mediawiki.action.edit.stash","mediawiki.action.edit.collapsibleFooter","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.using("mediawiki.toolbar", function () {mw.toolbar.addButton(false,"Bold text","'''","'''","Bold text","mw-editbutton-bold");mw.toolbar.addButton(false,"Italic text","''","''","Italic text","mw-editbutton-italic");mw.toolbar.addButton(false,"Internal link","[[","]]","Link title","mw-editbutton-link");mw.toolbar.addButton(false,"External link (remember http:// prefix)","[","]","http://www.example.com link title","mw-editbutton-extlink");mw.toolbar.addButton(false,"Level 2 headline","\n== "," ==\n","Headline text","mw-editbutton-headline");mw.toolbar.addButton(false,"Embedded file","[[File:","]]","Example.jpg","mw-editbutton-image");mw.toolbar.addButton(false,"File link","[[Media:","]]","Example.ogg","mw-editbutton-media");mw.toolbar.addButton(false,"Ignore wiki formatting","\u003Cnowiki\u003E","\u003C/nowiki\u003E","Insert non-formatted text here","mw-editbutton-nowiki");mw.toolbar.addButton(false,"Horizontal line (use sparingly)","\n----\n","","","mw-editbutton-hr");});});</script><script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-265105-19', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":124});});</script></body></html>

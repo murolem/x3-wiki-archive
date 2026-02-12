@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>Category:Boarding Ship - X3 Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Category","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":14,"wgPageName":"Category:Boarding_Ship","wgTitle":"Boarding Ship","wgCurRevisionId":12983,"wgRevisionId":12983,"wgArticleId":490,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Piracy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Category:Boarding_Ship","wgRelevantArticleId":490,"wgRequestId":"V-1d8VkfZokAAA6hDPQAAAAM","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.view.categoryPage.styles%7Cmediawiki.helplink%2CsectionAnchor%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;printable=1&amp;skin=monobook"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;printable=1&amp;skin=monobook"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<meta name="robots" content="noindex,follow"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Category:Boarding_Ship&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/index.php?title=Category:Boarding_Ship&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://www.x3wiki.com/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-14 ns-subject page-Category_Boarding_Ship rootpage-Category_Boarding_Ship skin-monobook action-view">
+<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+									<div id="siteNotice"><!-- centralNotice loads here --></div>
+				<div class="mw-indicators">
+<div id="mw-indicator-mw-helplink" class="mw-indicator"><a href="//www.mediawiki.org/wiki/Special:MyLanguage/Help:Categories" target="_blank" class="mw-helplink">Help</a></div>
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- X3 wiki -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7526491584299412"
+     data-ad-slot="4173455889"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+				<h1 id="firstHeading" class="firstHeading" lang="en">Category:Boarding Ship</h1>
+				
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From X3 Wiki</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>Boarding ships are vessels capable of taking on marines and then launching them to <a href="/index.php/Boarding" title="Boarding">board</a> other vessels.
+</p><p><a href="/index.php/M7M" title="M7M">M7M Missile Frigate</a> ships are the only vessels in the <a href="/index.php/X-universe" title="X-universe" class="mw-redirect">X-universe</a> that may use <a href="/index.php/Boarding_pods" title="Boarding pods">boarding pods</a>, and some of them are not compatible with the missile.
+</p><p>Other boarding ships may only deploy marines in a 'space walk' maneuver.
+</p><p>Boarding ships may be generally classified as:
+</p>
+<ul><li><a href="/index.php/TP" title="TP">TP Personnel Transport</a></li>
+<li><a href="/index.php/M6" title="M6">M6 Corvette</a></li>
+<li><a href="/index.php/M6%2B" title="M6+">M6+ Heavy Corvette</a></li>
+<li><a href="/index.php/M7M" title="M7M">M7M Missile Frigate</a></li></ul>
+<p><a href="/index.php/TP" title="TP">TP Personnel Transports</a> are unusual as they are boarding ships that can bear marines, but cannot be boarded themselves and are instead vulnerable to <a href="/index.php/Bail" title="Bail">bail</a> and <a href="/index.php/Claim" title="Claim">claim</a> mechanics.
+</p>
+<table>
+<table cellspacing="0" width="600px" style="background-color:white;border-width:1px;border-style:solid solid none solid;border-color:#CCCCCC;padding-top:3px;padding-left:3px;padding-right:3px;">
+<tr>
+<th style="background-color:#CCCCFF"><a href="/index.php/Piracy" title="Piracy">Piracy</a></th>
+</tr>
+<table cellspacing="3" width="600px" style="background-color:white;border-width:1px;border-style:none solid solid solid;border-color:#CCCCCC;">
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="15%">Small&#160;Ships&#160;&#160;</td><td><a href="/index.php/Bail" title="Bail">Bailing</a> • <a href="/index.php/Claim" title="Claim">Claiming</a></td>
+</tr>
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="15%">Large&#160;Ships&#160;&#160;</td><td style="background-color:#F7F7F7"><a href="/index.php/Boarding" title="Boarding">Boarding</a> • <a href="/index.php/Boarding_pods" title="Boarding pods">Boarding Pods</a> • <a href="/index.php/Category:Board_to_Capture" title="Category:Board to Capture">Boardable Ships</a> • <strong class="selflink">Boarding Ships</strong></td>
+</tr>
+<tr>
+</tr><tr>
+<td style="background-color:#DDDDFF;text-align:right" width="15%">Marines&#160;&#160;</td><td style="background-color:#F7F7F7"><a href="/index.php/Marine" title="Marine" class="mw-redirect">Marine</a>  •  <a href="/index.php/Marine_Training_Barracks" title="Marine Training Barracks">Marine Training Barracks</a> • <a href="/index.php/Military_Outpost" title="Military Outpost">Military Outpost</a> • <a href="/index.php/Rehabilitation_Facility" title="Rehabilitation Facility">Rehabilitation Facility</a></td>
+</tr>
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="15%">Related&#160;&#160;</td><td style="background-color:#F7F7F7"><a href="/index.php/Return_Ship" title="Return Ship">Return Ship</a></td>
+</tr>
+</table>
+</table>
+<tr><td></td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20161011180952
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.007 seconds
+Real time usage: 0.008 seconds
+Preprocessor visited node count: 23/1000000
+Preprocessor generated node count: 98/1000000
+Post‐expand include size: 1471/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    4.236      1 - -total
+ 19.76%    0.837      1 - Template:Piracy
+ 17.88%    0.757      2 - Template:M7Mclass
+ 17.21%    0.729      2 - Template:TPclass
+ 16.88%    0.715      1 - Template:M6+class
+ 16.24%    0.688      1 - Template:M6class
+-->
+
+<!-- Saved in parser cache with key dailystunt_wiki:pcache:idhash:490-0!*!0!*!*!*!* and timestamp 20161011180952 and revision id 12983
+ -->
+<div class="mw-category-generated" lang="en" dir="ltr"><div id="mw-pages">
+<h2>Pages in category "Boarding Ship"</h2>
+<p>The following 36 pages are in this category, out of 36 total.
+</p><div lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-category"><div class="mw-category-group"><h3>A</h3>
+<ul><li><a href="/index.php/Angel" title="Angel">Angel</a></li>
+<li><a href="/index.php/Aquilo" title="Aquilo">Aquilo</a></li>
+<li><a href="/index.php/Ares" title="Ares">Ares</a></li></ul></div><div class="mw-category-group"><h3>C</h3>
+<ul><li><a href="/index.php/Centaur" title="Centaur">Centaur</a></li>
+<li><a href="/index.php/Cobra" title="Cobra">Cobra</a></li></ul></div><div class="mw-category-group"><h3>D</h3>
+<ul><li><a href="/index.php/Dragon" title="Dragon">Dragon</a></li></ul></div><div class="mw-category-group"><h3>E</h3>
+<ul><li><a href="/index.php/Express" title="Express">Express</a></li></ul></div><div class="mw-category-group"><h3>G</h3>
+<ul><li><a href="/index.php/Gannet" title="Gannet">Gannet</a></li>
+<li><a href="/index.php/Geochen" title="Geochen">Geochen</a></li></ul></div><div class="mw-category-group"><h3>H</h3>
+<ul><li><a href="/index.php/Hermes" title="Hermes">Hermes</a></li>
+<li><a href="/index.php/Hydra" title="Hydra">Hydra</a></li></ul></div><div class="mw-category-group"><h3>I</h3>
+<ul><li><a href="/index.php/Iguana" title="Iguana">Iguana</a></li></ul></div><div class="mw-category-group"><h3>K</h3>
+<ul><li><a href="/index.php/Katana" title="Katana">Katana</a></li>
+<li><a href="/index.php/Kha%27ak_Corvette" title="Kha'ak Corvette">Kha'ak Corvette</a></li>
+<li><a href="/index.php/Kraken" title="Kraken">Kraken</a></li></ul></div><div class="mw-category-group"><h3>M</h3>
+<ul><li><a href="/index.php/M6" title="M6">M6</a></li>
+<li><a href="/index.php/M7M" title="M7M">M7M</a></li>
+<li><a href="/index.php/Mani" title="Mani">Mani</a></li>
+<li><a href="/index.php/Manta" title="Manta">Manta</a></li>
+<li><a href="/index.php/Marauder_Hauler" title="Marauder Hauler">Marauder Hauler</a></li>
+<li><a href="/index.php/Military_Transport" title="Military Transport">Military Transport</a></li>
+<li><a href="/index.php/Minotaur" title="Minotaur">Minotaur</a></li></ul></div><div class="mw-category-group"><h3>N</h3>
+<ul><li><a href="/index.php/Nemesis" title="Nemesis">Nemesis</a></li></ul></div><div class="mw-category-group"><h3>O</h3>
+<ul><li><a href="/index.php/Ocelot" title="Ocelot">Ocelot</a></li>
+<li><a href="/index.php/Osprey" title="Osprey">Osprey</a></li></ul></div><div class="mw-category-group"><h3>P</h3>
+<ul><li><a href="/index.php/P" title="P">P</a></li>
+<li><a href="/index.php/Phantom" title="Phantom">Phantom</a></li></ul></div><div class="mw-category-group"><h3>S</h3>
+<ul><li><a href="/index.php/Scabbard" title="Scabbard">Scabbard</a></li>
+<li><a href="/index.php/Senshi" title="Senshi">Senshi</a></li>
+<li><a href="/index.php/Sirokos" title="Sirokos">Sirokos</a></li>
+<li><a href="/index.php/Skirnir" title="Skirnir">Skirnir</a></li>
+<li><a href="/index.php/Springblossom" title="Springblossom">Springblossom</a></li></ul></div><div class="mw-category-group"><h3>T</h3>
+<ul><li><a href="/index.php/Toucan" title="Toucan">Toucan</a></li>
+<li><a href="/index.php/TP" title="TP">TP</a></li>
+<li><a href="/index.php/Truelight_Seeker" title="Truelight Seeker">Truelight Seeker</a></li></ul></div><div class="mw-category-group"><h3>V</h3>
+<ul><li><a href="/index.php/Vidar" title="Vidar">Vidar</a></li></ul></div></div></div>
+</div></div></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://www.x3wiki.com/index.php?title=Category:Boarding_Ship&amp;oldid=12983">http://www.x3wiki.com/index.php?title=Category:Boarding_Ship&amp;oldid=12983</a>"</div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/index.php/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/index.php/Category:Piracy" title="Category:Piracy">Piracy</a></li></ul></div></div>					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+			</div>
+		</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-category" class="selected"><a href="/index.php/Category:Boarding_Ship" title="View the category page [c]" accesskey="c">Category</a></li>
+				<li id="ca-talk" class="new"><a href="/index.php?title=Category_talk:Boarding_Ship&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit"><a href="/index.php?title=Category:Boarding_Ship&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+				<li id="ca-history"><a href="/index.php?title=Category:Boarding_Ship&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+						<li id="pt-anonuserpage">Not logged in</li>							<li id="pt-anontalk"><a href="/index.php/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+													<li id="pt-anoncontribs"><a href="/index.php/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+													<li id="pt-createaccount"><a href="/index.php?title=Special:CreateAccount&amp;returnto=Category%3ABoarding+Ship&amp;returntoquery=printable%3Dyes" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Category%3ABoarding+Ship&amp;returntoquery=printable%3Dyes" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/index.php/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+											<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>
+											<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict" role="navigation">
+		<h3>X3 Terran Conflict</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+											<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+											<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+											<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+											<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+											<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+											<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+											<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+											<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+											<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+											<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Links" role="navigation">
+		<h3>Links</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-MMO-Server-Status"><a href="http://www.mmoserverstatus.com">MMO Server Status</a></li>
+											<li id="n-Compare-Everglades-Tours"><a href="http://www.compare-everglades-tours.com">Compare Everglades Tours</a></li>
+											<li id="n-Pokemon-GO-Wiki"><a href="http://www.pokemon-go-wiki.com">Pokemon GO Wiki</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/index.php" id="searchform">
+					<input type='hidden' name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Category:Boarding_Ship" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Category:Boarding_Ship" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-permalink"><a href="/index.php?title=Category:Boarding_Ship&amp;oldid=12983" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/index.php?title=Category:Boarding_Ship&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+			</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last modified on 2 July 2013, at 04:29.</li>
+									<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+									<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-265105-19', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":39});});</script></body></html>

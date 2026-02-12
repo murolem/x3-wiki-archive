@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>Editing Barracuda - X3 Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Barracuda","wgTitle":"Barracuda","wgCurRevisionId":16812,"wgRevisionId":0,"wgArticleId":213,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Barracuda","wgRelevantArticleId":213,"wgRequestId":"WfUV5lkfZokAABuf-4gAAAAI","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","wgEditMessage":"editing"});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.edit","mediawiki.toolbar","mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.edit.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<!--[if IE 6]><link rel="stylesheet" href="/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]-->
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Barracuda&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/index.php?title=Barracuda&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://x3wiki.com/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Barracuda rootpage-Barracuda skin-monobook action-edit">
+<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+									<div id="siteNotice"><!-- centralNotice loads here --></div>
+				<div class="mw-indicators">
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7526491584299412",
+    enable_page_level_ads: true
+  });
+</script>
+
+<!-- X3 wiki -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7526491584299412"
+     data-ad-slot="4173455889"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+				<h1 id="firstHeading" class="firstHeading" lang="en">Editing Barracuda</h1>
+				
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From X3 Wiki</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text"><div id="mw-anon-edit-warning" class="warningbox">
+<p><strong>Warning:</strong> You are not logged in. Your IP address will be publicly visible if you make any edits. If you <strong><a class="external text" href="http://x3wiki.com/index.php?title=Special:UserLogin&amp;returnto=Barracuda">log in</a></strong> or <strong><a class="external text" href="http://x3wiki.com/index.php?title=Special:CreateAccount&amp;returnto=Barracuda">create an account</a></strong>, your edits will be attributed to your username, along with other benefits.
+</p>
+</div>
+<div id="wikiPreview" class="ontop" style="display: none;"><div lang="en" dir="ltr" class="mw-content-ltr"></div></div><form id="editform" name="editform" method="post" action="/index.php?title=Barracuda&amp;action=submit" enctype="multipart/form-data"><div id="antispam-container" style="display: none;"><label for="wpAntispam">Anti-spam check.
+Do <strong>not</strong> fill this in!</label><input type="text" name="wpAntispam" id="wpAntispam" value="" /></div><input type='hidden' value="" name="wpSection"/>
+<input type='hidden' value="20171028234230" name="wpStarttime" />
+<input type='hidden' value="20161016145206" name="wpEdittime" />
+<input type='hidden' value="" name="wpScrolltop" id="wpScrolltop" />
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary"/><input type="hidden" value="0" name="oldid"/><input type="hidden" value="16812" name="parentRevId"/><input type="hidden" value="text/x-wiki" name="format"/><input type="hidden" value="wikitext" name="model"/><div id="toolbar"></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="en" dir="ltr" name="wpTextbox1">{{Infobox open}}
+{{Infobox variant
+|Variant= Barracuda
+|Faction=Boron
+|Class={{M3class}}
+|Priceblock={{Priceblock|Noble Peer| 2211155 }}
+|Minspeed=72.0
+|Maxspeed=180.0
+|Minaccel=15
+|Maxaccel=38
+|Minsteer=20.9
+|Maxsteer=52.2
+|Hull=9000 / 18000 (AP)
+|Maxshield=25 MJ
+|Shieldslots=2
+|Maxshieldstrength=50
+|Shieldreactor= 570 
+|Cargoclass=M
+|Mincargo=63
+|Maxcargo= 208
+|Lasercap= 3400 
+|Laserrecharge=85
+|Gunbay=&lt;table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+&lt;/table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Advanced Barracuda
+|Faction=Boron
+|Class={{M3class}}
+|Priceblock=
+|Minspeed=91.0
+|Maxspeed= 227.5
+|Minaccel=19
+|Maxaccel=48
+|Minsteer=24.4
+|Maxsteer=61.1
+|Hull=9000 / 18000 (AP)
+|Maxshield=25 MJ
+|Shieldslots=3
+|Maxshieldstrength=75
+|Shieldreactor= 627
+|Cargoclass=M
+|Mincargo=59
+|Maxcargo= 197
+|Lasercap= 4080
+|Laserrecharge=102
+|Gunbay=&lt;table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+&lt;/table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Barracuda Prototype
+|Faction=Boron
+|Class={{M3class}}
+|Priceblock=
+|Minspeed=76.0
+|Maxspeed=190.0
+|Minaccel=17
+|Maxaccel=42
+|Minsteer=17.0
+|Maxsteer=42.5
+|Hull=9000 / 18000 (AP)
+|Maxshield=25 MJ
+|Shieldslots=3
+|Maxshieldstrength=75
+|Shieldreactor= 750
+|Cargoclass=M
+|Mincargo=59
+|Maxcargo= 208
+|Lasercap= 5600
+|Laserrecharge=120
+|Gunbay=&lt;table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+&lt;/table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Barracuda Raider
+|Faction=Boron
+|Class={{M3class}}
+|Priceblock={{Priceblock|Noble Peer| 2864863}}
+|Minspeed=91.4
+|Maxspeed=228.6
+|Minaccel=19
+|Maxaccel=48
+|Minsteer=24.4
+|Maxsteer=61.1
+|Hull= 8,550 / 17100
+|Maxshield=25 MJ
+|Shieldslots=1
+|Maxshieldstrength=25
+|Shieldreactor= 627
+|Cargoclass=M
+|Mincargo= 56
+|Maxcargo= 187
+|Lasercap= 3400
+|Laserrecharge=85
+|Gunbay=&lt;table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+&lt;/table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Barracuda Sentinel
+|Faction=Boron
+|Class={{M3class}}
+|Priceblock={{Priceblock|Noble Peer| 2894386}}
+|Minspeed=59.0
+|Maxspeed=147.6
+|Minaccel=12
+|Maxaccel=31
+|Minsteer=17.1
+|Maxsteer=42.8
+|Hull=9000 / 18000
+|Maxshield=25 MJ
+|Shieldslots=3
+|Maxshieldstrength=75
+|Shieldreactor= 627
+|Cargoclass=M
+|Mincargo=56
+|Maxcargo= 187
+|Lasercap= 3400 
+|Laserrecharge=85
+|Gunbay=&lt;table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+&lt;/table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Barracuda Vanguard
+|Faction=Boron
+|Class={{M3class}}
+|Priceblock={{Priceblock|Noble Peer| 2580859}}
+|Minspeed=79.2
+|Maxspeed=198.0
+|Minaccel=16
+|Maxaccel=42
+|Minsteer=21.9
+|Maxsteer=54.8
+|Hull=8550 / 17100 (AP)
+|Maxshield=25 MJ
+|Shieldslots=2
+|Maxshieldstrength=50
+|Shieldreactor= 627
+|Cargoclass=M
+|Mincargo=59
+|Maxcargo= 197
+|Lasercap= 4080
+|Laserrecharge=102
+|Gunbay=&lt;table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+&lt;/table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The Barracuda is the [[Boron]] staple [[M3]] fighter. It is is a sleek, fast craft with low shielding and small weapon variety (apart from the [[Plasma Burst Generator]]). It is often considered to be the least useful M3 available, although they are (to some) some of the best-looking ships around. This Boron fighter is generally outclassed by the [[Nova]], which exceeds it in all statistics except for a slight advantage in speed. The Barracuda is able to use the [[Ion Disruptor]], a weapon which is useful for stripping targets of their equipment. It is also the fastest purchasable M3 ship able to mount the [[Phased Repeater Gun]], a highly accurate and long-range fighter-level weapon. This, combined with its relative high speed allows players to exploit a range advantage against many other M3s.
+
+==Background==
+===Encyclopedia Entry===
+The Barracuda is a new development to replace the Eel. When the plans for the Barracuda were developed, it was made clear that the Eel was too out-dated. The Barracuda improved on the design with a new power generator. This then allowed for the weaponry to be upgraded and room for slightly increased cargo space and improved acceleration. As the Barracuda is now in service the Eel is no longer supported by the Boron Navy.
+
+==Variants==
+===Barracuda===
+The standard Barracuda is a satisfactory fighter at best. It has decent speed, which helps it to intercept the [[M4]]s and [[M5]]s it generally has superiority over. It has below average shields, a poor laser generator, and average loadout options and cargo capacity.
+
+===Barracuda Advanced===
+The Advanced Barracuda improves in almost every way on the standard Barracuda, with improved shielding, speed and laser generators, but at the price of not being able to mount the PBG. Its gains are not as pronounced as the dedicated variants: it is slightly slower than the Raider, but has the shielding of the Sentinel and weapon regeneration and reserves of the Vanguard, whose model it uses. The Advanced Barracuda makes an excellent player ship, and is available in X3:TC to early game players as an [[Ownerless ships|ownerless ship]].
+
+===Barracuda Prototype===
+The Prototype model has respectable performance, bringing it up to similar levels with other [[M3]]s. It features even greater speed and the addition of an extra 25MJ shield slot brings its protection up to acceptable standards. It also has improved shield regeneration and has about a 50% larger laser capacity and recharge rate over the standard model, giving it some decent firepower and combat endurance. The Prototype, like the Advanced, improves on the standard Barracuda in almost every way except for lacking the PBG, but the Prototype is more tuned to stand off tactics.
+
+===Barracuda Raider===
+The advantage of the Barracuda Raider is its very high speed for an [[M3]], competitive with many [[M4]]s. It is faster than the standard model and has better shield regeneration, but it has half the shielding, significantly inhibiting the Raider's survivability. The Raider is essentially an M4 with enhanced weapons capabilities, but its high cost limits its practical capabilities.
+
+===Barracuda Sentinel===
+The Sentinel trades the advantages of the original model for improved protection. It can mount an extra shield generator and has slightly improved shield recharge rates. It still has the same poor firepower of the original model, and its lowered speed mitigates the advantage the standard Barracuda had.
+
+===Barracuda Vanguard===
+The Vanguard version is better than the standard model in nearly every way. It has a very slight reduction in cargo space, but has moderately improved firepower and speed, along with the same shield recharge rates of the Sentinel version.
+
+==Physical Characteristics==
+== Combat ==
+The Barracuda cannot effectively combat rival M3 ships toe-to-toe, so special tactics should be employed if the player intends to use this ship. The ship makes an excellent user of the [[Plasma Burst Generator]], as the weapon's low power draw mitigates the Barracuda's poor laser generator.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+|
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+|
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Aurora Missile]]
+|
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+|
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+== Availability ==
+{| style="text-align:center;" cellpadding="3"
+|+ '''Availability'''
+|- style="{{Colour/Boron}}"
+! Variant !! [[Kingdom End]] !!  [[Lucky Planets]] !! [[Great Reef]] !! [[Depths Of Silence]] !! [[Queen's Retribution]] !! [[Ocean of Fantasy]] 
+|-
+! Barracuda || || || || || x || x || 
+|-
+! Barracuda Raider || x || || x || || x || ||
+|-
+! Barracuda Sentinel || || || || x || x || ||
+|-
+! Barracuda Vanguard || || x || || || x || ||
+|-
+! Advanced Barracuda || || || || || x || || ||
+|}
+
+The Advanced Barracuda is available at shipyards only in Albion Prelude.  In Terran Conflict, it is available as an [[Ownerless ships|ownerless ship]].  The Prototype variant is not sold in Boron Shipyards.
+
+== Suggested Roles==
+The Barracuda is one of the few M3s able to mount the Ion Disruptor. It is useful for assisting the player in preparation for boarding operations.
+== See Also==
+
+{{M3}}
+{{Boron Navbox}}
+</textarea><div class='editOptions'>
+<span class="mw-summary" id="wpSummaryLabel"><label for="wpSummary">Summary:</label></span> <input class="mw-summary" id="wpSummary" maxlength="200" tabindex="1" size="60" spellcheck="true" title="Enter a short summary [b]" accesskey="b" name="wpSummary"/><div class='editCheckboxes'>
+</div>
+<div id="editpage-copywarn">
+<p>Please note that all contributions to X3 Wiki may be edited, altered, or removed by other contributors.
+If you do not want your writing to be edited mercilessly, then do not submit it here.<br />
+You are also promising us that you wrote this yourself, or copied it from a public domain or similar free resource (see <a href="/index.php?title=X3_Wiki:Copyrights&amp;action=edit&amp;redlink=1" class="new" title="X3 Wiki:Copyrights (page does not exist)">X3 Wiki:Copyrights</a> for details).
+<strong>Do not submit copyrighted work without permission!</strong>
+</p>
+</div>
+<div class='editButtons'>
+<p>To protect the wiki against automated edit spam, we kindly ask you to solve the following CAPTCHA:
+</p><div class="g-recaptcha" data-sitekey="6LedtQgUAAAAAHaU6sFesDe5_eX9uvTPkWTi-dB6"></div><noscript>
+  <div>
+    <div style="width: 302px; height: 422px; position: relative;">
+      <div style="width: 302px; height: 422px; position: absolute;">
+        <iframe src="https://www.google.com/recaptcha/api/fallback?k=6LedtQgUAAAAAHaU6sFesDe5_eX9uvTPkWTi-dB6&hl=en"
+                frameborder="0" scrolling="no"
+                style="width: 302px; height:422px; border-style: none;">
+        </iframe>
+      </div>
+    </div>
+    <div style="width: 300px; height: 60px; border-style: none;
+                bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px;
+                background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
+      <textarea id="g-recaptcha-response" name="g-recaptcha-response"
+                class="g-recaptcha-response"
+                style="width: 250px; height: 40px; border: 1px solid #c1c1c1;
+                       margin: 10px 25px; padding: 0px; resize: none;" >
+      </textarea>
+    </div>
+  </div>
+</noscript><input id="wpSave" name="wpSave" tabindex="3" title="Save your changes [s]" accesskey="s" type="submit" value="Save page"/>
+<input id="wpPreview" name="wpPreview" tabindex="4" title="Preview your changes. Please use this before saving. [p]" accesskey="p" type="submit" value="Show preview"/>
+
+<input id="wpDiff" name="wpDiff" tabindex="5" title="Show which changes you made to the text [v]" accesskey="v" type="submit" value="Show changes"/>
+	<span class='cancelLink'><a href="/index.php/Barracuda" title="Barracuda" id="mw-editform-cancel">Cancel</a><span class="mw-editButtons-pipe-separator"> | </span></span>
+	<span class='editHelp'><a target="helpwindow" href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Editing_pages">Editing help</a> (opens in new window)</span>
+</div><!-- editButtons -->
+</div><!-- editOptions -->
+
+<input type="hidden" value="+\" name="wpEditToken"/>
+<div class="mw-editTools"></div>
+<div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/index.php/Template:Boron_Navbox" title="Template:Boron Navbox">Template:Boron Navbox</a> (<a href="/index.php?title=Template:Boron_Navbox&amp;action=edit" title="Template:Boron Navbox">edit</a>) </li><li><a href="/index.php/Template:Colour/Boron" title="Template:Colour/Boron">Template:Colour/Boron</a> (<a href="/index.php?title=Template:Colour/Boron&amp;action=edit" title="Template:Colour/Boron">edit</a>) </li><li><a href="/index.php/Template:Factionshipcat/" title="Template:Factionshipcat/">Template:Factionshipcat/</a> (<a href="/index.php?title=Template:Factionshipcat/&amp;action=edit" title="Template:Factionshipcat/">edit</a>) </li><li><a href="/index.php/Template:Gunicon/0" title="Template:Gunicon/0">Template:Gunicon/0</a> (<a href="/index.php?title=Template:Gunicon/0&amp;action=edit" title="Template:Gunicon/0">view source</a>) (semi-protected)</li><li><a href="/index.php/Template:Gunicon/1" title="Template:Gunicon/1">Template:Gunicon/1</a> (<a href="/index.php?title=Template:Gunicon/1&amp;action=edit" title="Template:Gunicon/1">view source</a>) (semi-protected)</li><li><a href="/index.php/Template:Gunslot" title="Template:Gunslot">Template:Gunslot</a> (<a href="/index.php?title=Template:Gunslot&amp;action=edit" title="Template:Gunslot">view source</a>) (semi-protected)</li><li><a href="/index.php/Template:Infobox_close" title="Template:Infobox close">Template:Infobox close</a> (<a href="/index.php?title=Template:Infobox_close&amp;action=edit" title="Template:Infobox close">view source</a>) (semi-protected)</li><li><a href="/index.php/Template:Infobox_open" title="Template:Infobox open">Template:Infobox open</a> (<a href="/index.php?title=Template:Infobox_open&amp;action=edit" title="Template:Infobox open">view source</a>) (semi-protected)</li><li><a href="/index.php/Template:Infobox_variant" title="Template:Infobox variant">Template:Infobox variant</a> (<a href="/index.php?title=Template:Infobox_variant&amp;action=edit" title="Template:Infobox variant">view source</a>) (semi-protected)</li><li><a href="/index.php/Template:M3" title="Template:M3">Template:M3</a> (<a href="/index.php?title=Template:M3&amp;action=edit" title="Template:M3">edit</a>) </li><li><a href="/index.php/Template:M3Table" title="Template:M3Table">Template:M3Table</a> (<a href="/index.php?title=Template:M3Table&amp;action=edit" title="Template:M3Table">edit</a>) </li><li><a href="/index.php/Template:M3category" title="Template:M3category">Template:M3category</a> (<a href="/index.php?title=Template:M3category&amp;action=edit" title="Template:M3category">edit</a>) </li><li><a href="/index.php/Template:M3class" title="Template:M3class">Template:M3class</a> (<a href="/index.php?title=Template:M3class&amp;action=edit" title="Template:M3class">edit</a>) </li><li><a href="/index.php/Template:Priceblock" title="Template:Priceblock">Template:Priceblock</a> (<a href="/index.php?title=Template:Priceblock&amp;action=edit" title="Template:Priceblock">edit</a>) </li><li><a href="/index.php/Template:Shipbox" title="Template:Shipbox">Template:Shipbox</a> (<a href="/index.php?title=Template:Shipbox&amp;action=edit" title="Template:Shipbox">edit</a>) </li><li><a href="/index.php/Template:Shipclassbox" title="Template:Shipclassbox">Template:Shipclassbox</a> (<a href="/index.php?title=Template:Shipclassbox&amp;action=edit" title="Template:Shipclassbox">edit</a>) </li></ul></div><div class="hiddencats"><div class="mw-hiddenCategoriesExplanation"><p>This page is a member of 6 hidden categories:
+</p></div><ul>
+<li><a href="/index.php/Category:High_Energy_Plasma_Thrower" title="Category:High Energy Plasma Thrower">Category:High Energy Plasma Thrower</a></li>
+<li><a href="/index.php/Category:Impulse_Ray_Emitter" title="Category:Impulse Ray Emitter">Category:Impulse Ray Emitter</a></li>
+<li><a href="/index.php/Category:Ion_Disruptor" title="Category:Ion Disruptor">Category:Ion Disruptor</a></li>
+<li><a href="/index.php/Category:Particle_Accelerator_Cannon" title="Category:Particle Accelerator Cannon">Category:Particle Accelerator Cannon</a></li>
+<li><a href="/index.php/Category:Phased_Repeater_Gun" title="Category:Phased Repeater Gun">Category:Phased Repeater Gun</a></li>
+<li><a href="/index.php/Category:Plasma_Burst_Generator" title="Category:Plasma Burst Generator">Category:Plasma Burst Generator</a></li>
+</ul></div><div class="limitreport"></div><input type="hidden" value="1" name="wpUltimateParam"/>
+</form>
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://x3wiki.com/index.php/Barracuda">http://x3wiki.com/index.php/Barracuda</a>"</div>
+					<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+			</div>
+		</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/index.php/Barracuda" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/index.php?title=Talk:Barracuda&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit" class="selected"><a href="/index.php?title=Barracuda&amp;action=edit" title="Edit this page">Edit</a></li>
+				<li id="ca-history"><a href="/index.php?title=Barracuda&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+						<li id="pt-anonuserpage">Not logged in</li>							<li id="pt-anontalk"><a href="/index.php/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+													<li id="pt-anoncontribs"><a href="/index.php/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+													<li id="pt-createaccount"><a href="/index.php?title=Special:CreateAccount&amp;returnto=Barracuda&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Barracuda&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/index.php/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+											<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>
+											<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict" role="navigation">
+		<h3>X3 Terran Conflict</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+											<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+											<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+											<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+											<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+											<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+											<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+											<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+											<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+											<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+											<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Links" role="navigation">
+		<h3>Links</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-MMO-Server-Status"><a href="http://www.mmoserverstatus.com">MMO Server Status</a></li>
+											<li id="n-Compare-Everglades-Tours"><a href="http://www.compare-everglades-tours.com">Compare Everglades Tours</a></li>
+											<li id="n-Pokemon-GO-Wiki"><a href="http://www.pokemon-go-wiki.com">Pokemon GO Wiki</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/index.php" id="searchform">
+					<input type='hidden' name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Barracuda" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Barracuda" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-info"><a href="/index.php?title=Barracuda&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+			</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+									<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.action.edit.editWarning","mediawiki.action.edit.stash","mediawiki.action.edit.collapsibleFooter","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.using("mediawiki.toolbar", function () {mw.toolbar.addButton(false,"Bold text","'''","'''","Bold text","mw-editbutton-bold");mw.toolbar.addButton(false,"Italic text","''","''","Italic text","mw-editbutton-italic");mw.toolbar.addButton(false,"Internal link","[[","]]","Link title","mw-editbutton-link");mw.toolbar.addButton(false,"External link (remember http:// prefix)","[","]","http://www.example.com link title","mw-editbutton-extlink");mw.toolbar.addButton(false,"Level 2 headline","\n== "," ==\n","Headline text","mw-editbutton-headline");mw.toolbar.addButton(false,"Embedded file","[[File:","]]","Example.jpg","mw-editbutton-image");mw.toolbar.addButton(false,"File link","[[Media:","]]","Example.ogg","mw-editbutton-media");mw.toolbar.addButton(false,"Ignore wiki formatting","\u003Cnowiki\u003E","\u003C/nowiki\u003E","Insert non-formatted text here","mw-editbutton-nowiki");mw.toolbar.addButton(false,"Horizontal line (use sparingly)","\n----\n","","","mw-editbutton-hr");});});</script><script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-265105-19', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":79});});</script></body></html>

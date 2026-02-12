@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>Shady Business - X3 Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Shady_Business","wgTitle":"Shady Business","wgCurRevisionId":16366,"wgRevisionId":16366,"wgArticleId":2299,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Stub","Missions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Shady_Business","wgRelevantArticleId":2299,"wgRequestId":"WXREWFkfZokAAAOM@8UAAAAY","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;printable=1&amp;skin=monobook"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;printable=1&amp;skin=monobook"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<meta name="robots" content="noindex,follow"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Shady_Business&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/index.php?title=Shady_Business&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://x3wiki.com/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Shady_Business rootpage-Shady_Business skin-monobook action-view">
+<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+									<div id="siteNotice"><!-- centralNotice loads here --></div>
+				<div class="mw-indicators">
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7526491584299412",
+    enable_page_level_ads: true
+  });
+</script>
+
+<!-- X3 wiki -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7526491584299412"
+     data-ad-slot="4173455889"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+				<h1 id="firstHeading" class="firstHeading" lang="en">Shady Business</h1>
+				
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From X3 Wiki</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="notice metadata plainlinks" id="stub" style="margin-left:auto;margin-right:auto;clear:both;background-color:gray;border:2px solid black;color:white;width:27em;font-weight:bold;"><i>This article is a <a href="/index.php/Category:Stub" title="Category:Stub">stub</a>. You can help out by  expanding it. </i></div>
+<p>The Shady Business Plotline is a mission added to <a href="/index.php/Albion_Prelude" title="Albion Prelude" class="mw-redirect">Albion Prelude</a> by the version 3.0 patch, continuing the main story.
+</p><p><br />
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Starting_Conditions"><span class="tocnumber">1</span> <span class="toctext">Starting Conditions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Walkthrough"><span class="tocnumber">2</span> <span class="toctext">Walkthrough</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Spoilers"><span class="tocnumber">3</span> <span class="toctext">Spoilers</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_Also"><span class="tocnumber">4</span> <span class="toctext">See Also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Starting_Conditions">Starting Conditions</span></h2>
+<ul><li> <a href="/index.php/X3ap_quests" title="X3ap quests">Albion Prelude Main Plot</a> or <a href="/index.php/Loose_Ends" title="Loose Ends" class="mw-redirect">Loose Ends</a> Complete.</li>
+<li> <a href="/index.php/Unfocused_Jumpdrive" title="Unfocused Jumpdrive" class="mw-redirect">Unfocused Jumpdrive</a></li>
+<li> Highest Split <a href="/index.php/Rank" title="Rank" class="mw-redirect">Rank</a> (Honored strong arm of Rhonkar)</li></ul>
+<h2><span class="mw-headline" id="Walkthrough">Walkthrough</span></h2>
+<p>TBD
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Spoilers">Spoilers</span></h2>
+<p><a href="/index.php?title=Shady_Business_Spoilers&amp;action=edit&amp;redlink=1" class="new" title="Shady Business Spoilers (page does not exist)">Click here to be taken to a separate page with the plot rewards listed.</a>
+</p>
+<table class="wikitable" style="text-align:center;" width="100%">
+
+<tr>
+<td style="background-color:#CCCCFF;"> List of <b><a href="/index.php/Missions" title="Missions">Missions</a></b>
+</td></tr></table>
+<table class="wikitable collapsed" cellspacing="3" style="text-align:center;" width="100%">
+
+<tr>
+<td style="background-color:grey;"> <b>Plot Missions</b>
+</td></tr>
+<tr>
+<td>  <a href="/index.php/Terran_Plot" title="Terran Plot">Terran Plot</a>  |  <a href="/index.php/Operation:_Final_Fury" title="Operation: Final Fury">Operation: Final Fury</a>  |  <a href="/index.php/Goner_Plot" title="Goner Plot">Goner Plot</a>  |  <a href="/index.php/Hub_Plot" title="Hub Plot">Hub Plot</a>  |  <a href="/index.php/HQ_Plot" title="HQ Plot">HQ Plot</a>
+</td></tr>
+<tr>
+<td>  <a href="/index.php/Treasure_Hunt" title="Treasure Hunt">Treasure Hunt</a>  |  <a href="/index.php/A_New_Home" title="A New Home">A New Home</a>  |  <a href="/index.php/Aldrin_Expansion" title="Aldrin Expansion">Aldrin Expansion</a>   |  <a href="/index.php/Balance_of_Power" title="Balance of Power">Balance of Power</a>
+</td></tr>
+<tr>
+<td>    <a href="/index.php/X3ap_quests" title="X3ap quests">Albion Prelude</a>  |  <a href="/index.php/Operation:_Loose_Ends" title="Operation: Loose Ends">Operation: Loose Ends</a>  |  <strong class="selflink">Shady Business</strong>  |  <a href="/index.php?title=Corporation_Troubles&amp;action=edit&amp;redlink=1" class="new" title="Corporation Troubles (page does not exist)">Corporation Troubles</a>
+</td></tr></table>
+<table class="wikitable collapsed" cellspacing="3" style="text-align:center;" width="100%">
+
+<tr>
+<td style="background-color:grey;">  <b>Other Missions</b>
+</td></tr>
+<tr>
+<td>  <a href="/index.php/Assassination" title="Assassination">Assassination</a>  |  <a href="/index.php/Transport_Passenger" title="Transport Passenger">Transport Passenger</a>  |  <a href="/index.php/Return_Ship" title="Return Ship">Return Ship</a>  |  <a href="/index.php/Follow_Ship" title="Follow Ship">Follow Ship</a>  |  <a href="/index.php/Transport_Cargo" title="Transport Cargo">Transport Cargo</a>  |  <a href="/index.php/Scan_Asteroids" title="Scan Asteroids">Scan Asteroids</a>
+</td></tr>
+<tr>
+<td>  <a href="/index.php/Escort_Convoy" title="Escort Convoy">Escort Convoy</a>  |  <a href="/index.php/Build_Stations" title="Build Stations">Build Stations</a>  |  <a href="/index.php/Deliver_Matching_Ship" title="Deliver Matching Ship">Deliver Matching Ship</a>  |  <a href="/index.php/Destroy_Convoy" title="Destroy Convoy">Destroy Convoy</a>  |  <a href="/index.php/Transport_Passengers" title="Transport Passengers">Transport Passengers</a>  |  <a href="/index.php/Freight_Scan" title="Freight Scan">Freight Scan</a>
+</td></tr>
+<tr>
+<td>  <a href="/index.php/Patrol" title="Patrol">Patrol</a>  |  <a href="/index.php/Defend_Station" title="Defend Station">Defend Station</a>  |  <a href="/index.php/Retrieve_Stolen_Ship" title="Retrieve Stolen Ship">Retrieve Stolen Ship</a>  |  <a href="/index.php/Xenon_Hold_Position" title="Xenon Hold Position">Xenon Hold Position</a>  |  <a href="/index.php/Xenon_Patrol" title="Xenon Patrol">Xenon Patrol</a>  |  <a href="/index.php/Deliver_Wares" title="Deliver Wares">Deliver Wares</a>
+</td></tr></table>
+<table class="wikitable collapsed" cellspacing="3" style="text-align:center;" width="100%">
+<tr>
+<td style="background-color:grey;">  <b>Offers</b>
+</td></tr>
+<tr>
+<td>  <a href="/index.php/Station_Hack" title="Station Hack">Station Hack</a>  |  <a href="/index.php/Buy_Asteroid_Information" title="Buy Asteroid Information">Buy Asteroid Information</a>  |  <a href="/index.php/Buy_Sector_Information" title="Buy Sector Information">Buy Sector Information</a>  |  <a href="/index.php/Buy_Used_Ship" title="Buy Used Ship">Buy Used Ship</a>  |  <a href="/index.php/Buy_Blueprints" title="Buy Blueprints">Buy Blueprints</a>
+</td></tr></table>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="See_Also">See Also</span></h2>
+<ul><li><a class="external free" href="http://roguey.co.uk/x3ap/help/guides/shady-business/">http://roguey.co.uk/x3ap/help/guides/shady-business/</a></li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20170723043127
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.011 seconds
+Real time usage: 0.015 seconds
+Preprocessor visited node count: 32/1000000
+Preprocessor generated node count: 80/1000000
+Post‐expand include size: 3095/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    7.157      1 - -total
+ 52.65%    3.768      1 - Template:Missions
+ 35.25%    2.523      1 - Template:Stub
+ 13.79%    0.987      1 - Template:Other_Missions
+ 13.02%    0.932      1 - Template:Plot_Missions
+  9.84%    0.704      1 - Template:Offers
+  8.90%    0.637      1 - Template:Linky
+-->
+
+<!-- Saved in parser cache with key dailystunt_wiki:pcache:idhash:2299-0!*!0!!en!*!* and timestamp 20170723043127 and revision id 16366
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://x3wiki.com/index.php?title=Shady_Business&amp;oldid=16366">http://x3wiki.com/index.php?title=Shady_Business&amp;oldid=16366</a>"</div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/index.php/Category:Stub" title="Category:Stub">Stub</a></li><li><a href="/index.php?title=Category:Missions&amp;action=edit&amp;redlink=1" class="new" title="Category:Missions (page does not exist)">Missions</a></li></ul></div></div>					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+			</div>
+		</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/index.php/Shady_Business" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/index.php?title=Talk:Shady_Business&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-edit"><a href="/index.php?title=Shady_Business&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+				<li id="ca-history"><a href="/index.php?title=Shady_Business&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+						<li id="pt-anonuserpage">Not logged in</li>							<li id="pt-anontalk"><a href="/index.php/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+													<li id="pt-anoncontribs"><a href="/index.php/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+													<li id="pt-createaccount"><a href="/index.php?title=Special:CreateAccount&amp;returnto=Shady+Business&amp;returntoquery=printable%3Dyes" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Shady+Business&amp;returntoquery=printable%3Dyes" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/index.php/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+											<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>
+											<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-X3_Terran_Conflict" role="navigation">
+		<h3>X3 Terran Conflict</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-Ships"><a href="/index.php/Ships">Ships</a></li>
+											<li id="n-Stations"><a href="/index.php/Stations">Stations</a></li>
+											<li id="n-Sectors"><a href="/index.php/Sectors">Sectors</a></li>
+											<li id="n-Races"><a href="/index.php/Races">Races</a></li>
+											<li id="n-Missions"><a href="/index.php/Missions">Missions</a></li>
+											<li id="n-Missiles"><a href="/index.php/Missiles">Missiles</a></li>
+											<li id="n-Weapons"><a href="/index.php/Weapons">Weapons</a></li>
+											<li id="n-Ranks"><a href="/index.php/Ranks">Ranks</a></li>
+											<li id="n-Wares"><a href="/index.php/Wares">Wares</a></li>
+											<li id="n-Asteroids"><a href="/index.php/Asteroids">Asteroids</a></li>
+											<li id="n-Scripts-.26-Mods"><a href="/index.php/Scripts_%26_Mods">Scripts &amp; Mods</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Links" role="navigation">
+		<h3>Links</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-MMO-Server-Status"><a href="http://www.mmoserverstatus.com">MMO Server Status</a></li>
+											<li id="n-Compare-Everglades-Tours"><a href="http://www.compare-everglades-tours.com">Compare Everglades Tours</a></li>
+											<li id="n-Pokemon-GO-Wiki"><a href="http://www.pokemon-go-wiki.com">Pokemon GO Wiki</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/index.php" id="searchform">
+					<input type='hidden' name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search" title="Search X3 Wiki [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Shady_Business" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Shady_Business" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-permalink"><a href="/index.php?title=Shady_Business&amp;oldid=16366" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/index.php?title=Shady_Business&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+			</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last modified on 28 July 2014, at 22:55.</li>
+									<li id="privacy"><a href="/index.php/X3_Wiki:Privacy_policy" title="X3 Wiki:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/index.php/X3_Wiki:About" title="X3 Wiki:About">About X3 Wiki</a></li>
+									<li id="disclaimer"><a href="/index.php/X3_Wiki:General_disclaimer" title="X3 Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<script src="/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-265105-19', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script type="text/javascript" src="//geoiplookup.wikimedia.org/"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":38});});</script></body></html>
