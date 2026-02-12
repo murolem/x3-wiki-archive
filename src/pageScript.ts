@@ -106,8 +106,8 @@ function attachSearch() {
     function repositionSuggestWindow() {
         const inputElRect = searchInput!.getBoundingClientRect();
 
-        suggestsEl.style.top = inputElRect.top + inputElRect.height + 'px';
-        suggestsEl.style.left = inputElRect.left + 'px';
+        suggestsEl.style.top = window.scrollY + inputElRect.top + inputElRect.height + 'px';
+        suggestsEl.style.left = window.scrollX + inputElRect.left + 'px';
     }
 
     function show() { suggestsEl.classList.remove('hidden'); }
@@ -154,7 +154,7 @@ function attachSearch() {
                 })
                 // sort backwards by the ending char
                 .sort((a, b) => b.end - a.end);
-                console.log(matchTermIndicesFromEnd)
+            console.log(matchTermIndicesFromEnd)
 
             // replace each term substring with a span highlight
             let resInnerText = pageTitle;
@@ -174,24 +174,23 @@ function attachSearch() {
 
 
 function attachRandomPage() {
-    const randomPageLinkEl = document.querySelector('#n-randompage > a') as HTMLLinkElement | null;
-    if (!randomPageLinkEl)
+    const el = document.querySelector('#n-randompage > a') as HTMLLinkElement | null;
+    if (!el)
         return;
 
-
-    randomPageLinkEl.href = 'javascript:void(0)';
-    randomPageLinkEl.addEventListener('click', navigateToRandomPage);
-
-    function randomIndex(arr: any[]): number {
-        return arr.length === 0 ? -1 : Math.floor(Math.random() * arr.length);
-    }
-
-    function navigateToRandomPage() {
+    el.href = 'javascript:void(0)';
+    const listener = () => {
         if (!manifest || manifest.length === 0)
             return;
 
         const page = manifest[randomIndex(manifest)]!;
-        window.location.assign(page.pageUrl);
-        // window.open(page.pageUrl, "_self");
+        el.href = page.pageUrl;
+        el.removeEventListener('click', listener);
+        el.click();
+    };
+    el.addEventListener('click', listener);
+
+    function randomIndex(arr: any[]): number {
+        return arr.length === 0 ? -1 : Math.floor(Math.random() * arr.length);
     }
 }

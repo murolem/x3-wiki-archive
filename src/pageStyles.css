@@ -2459,7 +2459,7 @@ body.wm-modal #donato #donato-base {
         width:11.6em;
         overflow:hidden
     }
-    .portlet h3 {
+    /* .portlet h3 {
         background:transparent;
         padding:0 1em 0 .5em;
         display:inline;
@@ -2468,7 +2468,7 @@ body.wm-modal #donato #donato-base {
         font-size:91%;
         font-weight:normal;
         white-space:nowrap
-    }
+    } */
     .pBody {
         font-size:95%;
         background-color:white;
@@ -2477,14 +2477,14 @@ body.wm-modal #donato #donato-base {
         border:1px solid #aaa;
         padding:0 .8em .3em .5em
     }
-    .portlet ul {
+    /* .portlet ul {
         line-height:1.5em;
         font-size:95%
     }
     .portlet li {
         padding:0;
         margin:0
-    }
+    } */
     #p-logo {
     top:0;
     left:0;
@@ -3089,8 +3089,25 @@ a:lang(ur) {
   display: none !important;
 }
 
+a.new:visited {
+    /* same as new link */
+    color: #ba0000 !important;
+}
+
 .mw-wiki-logo {
     background-image: url(./assets/x3.jpg);
+}
+
+#toc, .toc {
+    display: table !important;
+}
+
+input#searchGoButton {
+    display: none;
+}
+
+input#mw-searchButton {
+    display: none;
 }
 
 /* source: custom script styles */

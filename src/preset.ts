@@ -30,5 +30,9 @@ export const loadProcessedManifestFromDisk = true;
 // starts with 1. set to 0 to disable
 export const onlyRunNthStep = 0;
 
+// run only the nth task in the tasks step.
+// starts with 1. set to 0 to disable
+export const onlyRunNthTask = 0;
+
 // controls how detailed are the logs
 export const logLevel: LogLevel = 'INFO';

@@ -5,7 +5,7 @@ import { Logger, type LogLevel } from './utils/logger.ts';
 import chalk from 'chalk';
 import { roundToDigit } from './utils/roundToDigit.ts';
 import { readFilesRecursive } from './utils/readFilesRecursive.ts';
-import { JSDOM } from 'jsdom';
+import { DOMParser, parseHTML } from 'linkedom';
 import PQueue from 'p-queue';
 import { ensureDirpath, ensureFilepathDirpath } from './utils/ensureDirpath.ts';
 import sanitizeFilename from 'sanitize-filename';
@@ -14,7 +14,7 @@ import { ManifestCtrl, type ManifestEntry } from './Manifest.ts';
 import { isPathUnderDirectory } from './utils/isPageUnderDirectory.ts';
 import { assertPathExists } from './utils/assertPathExists.ts';
 import { formatForLogAsList } from './utils/formatForLogAsList.ts';
-import { logLevel, archiveDirname, archiveName, onlyRunNthStep, originalManifestName, processedManifestName, loadProcessedManifestFromDisk, browseManifestName, browseManifestDelimiter } from './preset.ts';
+import { logLevel, archiveDirname, archiveName, onlyRunNthStep, originalManifestName, processedManifestName, loadProcessedManifestFromDisk, browseManifestName, browseManifestDelimiter, onlyRunNthTask } from './preset.ts';
 import { replaceSubstring } from './utils/string/replaceSubstring.ts';
 import { insertSubstring } from './utils/string/insertSubstring.ts';
 const { logDebug, logInfo, logWarn, logFatalAndThrow } = new Logger();
@@ -131,7 +131,7 @@ await runStep("mapping original manifest to archive structure", () => {
     manifestCtrl.mapToArchiveStructure();
 });
 
-await runStep("removing ad-related and other trash pages", () => {
+await runStep("removing ad-related and other trash pages", async () => {
     // blacklist for page names. matching pages will be discarded in the manifest.
     // should cover all or almost all ad pages.
     // automatically tries variants with and without underscores.
@@ -155,10 +155,16 @@ await runStep("removing ad-related and other trash pages", () => {
         "Technical Support",
         "Phone Number USA",
         "support Phone Number",
+        "phone number",
     ];
 
     const badEntries = manifest.filter(e => manifestCtrl.matchesCustomBlacklist(e.diskPath, pageSubstringBlacklist));
-    badEntries.forEach(e => e.remove());
+    for(const e of badEntries) {
+        // we can safely remove the whole url path since we don't need stuff under bad named pages anyway.
+        const fullUrlDirpath = path.join(archiveDirname, e.urlPath);
+        await fsPromises.rm(fullUrlDirpath, { recursive: true, force: true });
+        e.remove();
+    }
     logInfo(chalk.bold(`bad pages removed: ${badEntries.length}`));
 });
 
@@ -172,6 +178,8 @@ await runStep("fixing page names", () => {
         ':': '_-_-_-COLON-_-_-_',
         ',': '_-_-_-COMMA-_-_-_',
         '+': '_-_-_-PLUS-_-_-_',
+        // not sure about this one, surely it will break all on non mainside pages
+        '&': '_-_-_-AMPER-_-_-_',
         // special case since we are processing entire paths not just segments, so it's okay to have slashes.
         "/": '_-_-_-FSLASH-_-_-_'
     };
@@ -198,7 +206,7 @@ await runStep("fixing page names", () => {
         const relUrlPath = manifestCtrl.convertDiskPathToUrlPath(relDiskPath, true)
         const fullUrlPath = manifestCtrl.convertPathToFull(relUrlPath);
 
-        const relUrlPathDecoded = decodeURIComponent(relUrlPath);
+        let relUrlPathDecoded = decodeURIComponent(relUrlPath);
 
         if (relUrlPath === relUrlPathDecoded)
             continue; // already safe, do nothing
@@ -321,7 +329,7 @@ await runStep("fixing page names", () => {
 //     }
 // });
 
-await runStep("generating and linking basic CSS styles", async () => {
+await runStep("generating CSS styles", async () => {
     // generate style file
 
     const sourceFilepath = path.resolve("src/pageStyles.css");
@@ -340,34 +348,9 @@ await runStep("generating and linking basic CSS styles", async () => {
 
     const minified = await minifiedRes.outputs[0]!.text();
     fs.writeFileSync(targetFilepath, minified);
-
-    // link from all html pages
-
-    const filepaths = readFilesRecursive(archivePath)
-        .filter(fp => fp.endsWith('.html'));
-
-    let filesWithNoHead = [];
-    for (const [i, relFp] of filepaths.entries()) {
-        logProcessingProgress("adding styles", i, filepaths.length, 1000);
-
-        const fp = path.join(archivePath, relFp);
-        let contents = await fsPromises.readFile(fp, 'utf-8');
-
-        const headIdx = contents.indexOf("<head>");
-        if (headIdx === -1) {
-            filesWithNoHead.push(relFp)
-            continue;
-        }
-
-        contents = insertSubstring(contents, headIdx + "<head>".length, '\n<link rel="stylesheet" href="/styles.css" />')
-        await fsPromises.writeFile(fp, contents, 'utf-8');
-    }
-
-    if (filesWithNoHead.length > 0)
-        logWarn(`found pages with no head (${filesWithNoHead.length}): \n${formatForLogAsList(filesWithNoHead)}`);
 });
 
-await runStep("generating and linking the script file", async () => {
+await runStep("generating page script", async () => {
     const sourceFilepath = path.resolve("src/pageScript.ts");
     const targetFilepath = path.join(archivePath, "script.js");
     assertPathExists(sourceFilepath, "script file not found at " + sourceFilepath);
@@ -384,26 +367,6 @@ await runStep("generating and linking the script file", async () => {
 
     const minified = await minifiedRes.outputs[0]!.text();
     fs.writeFileSync(targetFilepath, minified);
-
-    // link from all html files
-
-    const filepaths = readFilesRecursive(archivePath)
-        .filter(fp => fp.endsWith('.html'));
-
-    for (const [i, relFp] of filepaths.entries()) {
-        logProcessingProgress("adding script file", i, filepaths.length, 1000);
-
-        const fp = path.join(archivePath, relFp);
-        let contents = await fsPromises.readFile(fp, 'utf-8');
-
-        const headIdx = contents.indexOf("<head>");
-        if (headIdx === -1) {
-            continue;
-        }
-
-        contents = insertSubstring(contents, headIdx + "<head>".length, '\n<script src="/script.js" type="module"></script>')
-        await fsPromises.writeFile(fp, contents, 'utf-8');
-    }
 });
 
 await runStep("removing dead links to the old wiki", async () => {
@@ -425,55 +388,157 @@ await runStep("removing dead links to the old wiki", async () => {
     }
 });
 
-await runStep("touch ups for the page script to be comfy", async () => {
-    const filepaths = readFilesRecursive(archivePath)
-        .filter(fp => fp.endsWith('.html'));
+const domTasks: DomTask[] = []
+type DomTask<T = void> = {
+    name: string,
+    fn: (doc: Document, accum: T, opts: { fpIdx: number, relFp: string, fp: string }) => T
+    accum?: T,
+    onEnd?: (accum: T) => void,
 
-    type Task = { 
-        name: string,
-        modifiedContentCounter: number,
-        fn: (contents: string, opts: { fpIdx: number, relFp: string, fp: string }) => string
-     }
-    const tasks: Task[] = [];
-    const task = (name: string, fn: Task['fn']) => tasks.push({ name, modifiedContentCounter: 0, fn });
+    modifiedContentCounter: number,
+}
+const domTask = <T = void>(name: string, fn: DomTask<T>['fn'], accumInit?: T, onEnd?: (accum: T) => void) => 
+    // @ts-ignore
+    domTasks.push({ name, modifiedContentCounter: 0, fn, accum: accumInit, onEnd });
 
-    const randomPageButtonRegex = /(id\s*=\s*"n-randompage"\s*>\s*<a\s*)(href\s*=\s*"\/index\.php\/Special:Random")(\s*title\s*=\s*"Load a random page \[x\]"\s*accesskey\s*=\s*"x"\s*>\s*Random page\s*<\/a><\/li>)/m;
-    task('patch random page button', (contents, opts) => {
-        const randomPageButtonMatch = randomPageButtonRegex.exec(contents);
-        if (randomPageButtonMatch) {
-            const replacement = 'href = "javascript:void(0)"';
-            return replaceSubstring(
-                contents, 
-                randomPageButtonMatch.index, 
-                randomPageButtonMatch.index + randomPageButtonMatch[0].length, 
-                randomPageButtonMatch[1] + replacement + randomPageButtonMatch[3]
-            );
+
+domTask('linking CSS styles', (doc, accum, opts) => {
+    if(!doc.head) {
+        accum.filesWithoutHead.push(opts.relFp);
+        return accum;
+    } else if (doc.head.querySelector('link[href="/styles.css"]') !== null) {
+        return accum;
+    }
+
+    const linkEl = doc.createElement('link');
+    linkEl.rel = 'stylesheet';
+    linkEl.href = '/styles.css';
+    doc.head.prepend(linkEl);
+
+    return accum;
+}, { filesWithoutHead: [] } as { filesWithoutHead: string[] }, accum => {
+    if (accum.filesWithoutHead.length > 0)
+        logWarn(`found pages with no head (${accum.filesWithoutHead.length}): \n${formatForLogAsList(accum.filesWithoutHead)}`);
+});
+
+domTask('linking page script', (doc, accum, opts) => {
+    if(!doc.head ||doc.head.querySelector('script[src="/script.js"]') !== null)
+        return;
+
+    const scriptEl = doc.createElement('script') as HTMLScriptElement;
+    scriptEl.setAttribute('type', 'module');
+    scriptEl.src = '/script.js';
+    doc.head.prepend(scriptEl);
+});
+
+domTask('paint non-existent links red', (doc, accum, opts) => {
+    const knownUrls = new Set(
+        manifest.map(e => "/" + e.urlPath)
+    );
+
+    const linkEls = doc.querySelectorAll<HTMLLinkElement>(`a`);
+    const dummyBaseUrl = 'https://127.0.0.1:3000';
+    for (let i = 0; i < linkEls.length; i++) {
+        const el = linkEls[i]!;
+
+        // dummy base just to get parsing to work
+        const hrefParsed = new URL(el.href, dummyBaseUrl);
+        // if links points to page creation action, check if it actually exists 
+        // since wiki pages are snapshot at different times.
+        if(hrefParsed.pathname === '/index.php' 
+            && hrefParsed.search.startsWith('?title=') 
+            && hrefParsed.search.endsWith('&action=edit&redlink=1')) {
+                // link to a new page, which might exist.
+                const title = hrefParsed.searchParams.get('title');
+                const wouldBeLink = `/index.php/${title}`;
+                if(knownUrls.has(wouldBeLink)) {
+                    el.classList.remove('new')
+                    el.parentElement?.classList.remove('new');
+                    el.href = wouldBeLink;
+                    accum.linksUnturnedRedCounter++;
+                }
         }
 
-        return contents;
-    });
+        if (!knownUrls.has(hrefParsed.pathname + hrefParsed.search)) {
+            el.classList.add('new');
+            if(el.parentElement!.tagName === 'LI')
+                el.parentElement!.classList.add('new');
+
+            accum.linksTurnedRedCounter++;
+        }
+    }
+
+    return accum;
+}, { linksUnturnedRedCounter: 0, linksTurnedRedCounter: 0 }, accum => {
+    logInfo(chalk.bold("links turned red: " + accum.linksTurnedRedCounter));
+    if(accum.linksUnturnedRedCounter > 0)
+        logInfo(chalk.bold("links turned green (were red, but actually existed): " + accum.linksUnturnedRedCounter))
+});
+
+domTask('patch random page button', (doc, opts) => {
+    const randomPageLink = doc.querySelector('li#n-randompage > a') as HTMLLinkElement | null;
+    if (!randomPageLink)
+        return;
+
+    randomPageLink.href = 'javascript:void(0)';
+    // unred my boy
+    randomPageLink.classList.remove('new');
+    randomPageLink.parentElement?.classList.remove('new');
+});
+
+domTask('remove edit links', (doc, opts) => {
+    const linkEls = doc.querySelectorAll(`span.mw-editsection`)
+        .forEach(el => el.remove());
+});
+
+domTask('remove user bar', doc => {
+    const el = doc.querySelector('div#p-personal');
+    if(!el)
+        return;
+
+    el.remove();
+})
+
+await runStep("running tasks on DOM (w/ loading & parsing)", async () => {
+    const pagesDirpath = path.join(archivePath, "index.php");
+    assertPathExists(pagesDirpath, "path containing mainline pages doesn't exist");
+
+    const filepaths = readFilesRecursive(pagesDirpath)
+        .filter(fp => fp.endsWith('.html'));
+
+    // ====================
 
     for (const [fpIdx, relFp] of filepaths.entries()) {
-        const fp = path.join(archivePath, relFp);
-        let contents = await fsPromises.readFile(fp, 'utf-8');
+        logProcessingProgress("running tasks on pages", fpIdx, filepaths.length, 100);
+        const fp = path.join(pagesDirpath, relFp);
+        const doc = parseHTML(await fsPromises.readFile(fp, 'utf-8')).document;
 
-        for (const task of tasks) {
-            const modifiedContent = task.fn(contents, { fpIdx, relFp, fp });
-            if(modifiedContent === contents)
+        for (const [taskIdx, task] of domTasks.entries()) {
+            if(onlyRunNthTask > 0 && taskIdx !== (onlyRunNthTask - 1))
+                continue;
+            
+            const docStrBefore = doc.documentElement.outerHTML;
+            task.fn(doc, task.accum, { fpIdx, relFp, fp });
+            if (docStrBefore === doc.documentElement.outerHTML)
                 continue;
 
-            contents = modifiedContent;
             task.modifiedContentCounter++;
         }
 
-        await fsPromises.writeFile(fp, contents, 'utf-8');
+        await fsPromises.writeFile(fp, doc.toString(), 'utf-8');
     }
 
-    const tasksStrArray = tasks
+    const tasksStrArray = domTasks
         .sort((a, b) => a.name.localeCompare(b.name))
-        .map(t => t.name + ' ~ ' + t.modifiedContentCounter + ' times');
+        .map(t => `${t.name} - ${t.modifiedContentCounter} pages ~ ${formatPercentage(t.modifiedContentCounter / filepaths.length)}`);
 
     logInfo(chalk.bold("task summary: \n") + formatForLogAsList(tasksStrArray));
+    
+    logInfo(chalk.bold("running post-tasks finishers"));
+    for(const task of domTasks) {
+        if(task.onEnd)
+            task.onEnd(task.accum);
+    }
 })
 
 // await runStep('extracting wikitext', async () => {
