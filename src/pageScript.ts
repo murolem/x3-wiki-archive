@@ -107,6 +107,10 @@ function attachSearch() {
 
         return false;
     });
+    document.addEventListener('click', e => {
+        if(e.currentTarget !== suggestsEl)
+            hide();
+    })
 
     function repositionSuggestWindow() {
         const inputElRect = searchInput!.getBoundingClientRect();
