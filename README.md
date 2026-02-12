@@ -3,11 +3,17 @@ An archive of X3 Wiki.
 
 ### [> CLICK THERE TO VISIT THE WIKI <](https://murolem.github.io/x3-wiki-archive)
 
+The wiki is hosted on Github Pages with a custom domain via `gh-pages` branch.
+
+If you want to download the wiki, there are multiple ways:
+- If you want a version from Wayback Machine, head to [its release page](https://github.com/murolem/x3-wiki-archive/releases/tag/archive-20181104113547). Please note that it's barely functional.
+- If you want the working version that's being hosted, simply clone the `gh-pages` branch. Alternatively, run the fixes yourself (see [Fixing Wayback Version of the Wiki](#Fixing_Wayback_Version_of_the_Wiki) section). 
+
 ## Downloading from the Wayback Machine
 
 For the download, I used [wayback-machine-downloader by StrawberryMaster](https://github.com/StrawberryMaster/wayback-machine-downloader).
 
-The last snapshot of the wiki that I've found before it was gone was `20181104113547`.
+The last snapshot of the wiki that I've found before it was gone was `20181104113547`. You can download it from [its release page](https://github.com/murolem/x3-wiki-archive/releases/tag/archive-20181104113547). 
 
 ### Prerequisites
 
@@ -41,7 +47,7 @@ ruby wayback_machine_downloader http://x3wiki.com --snapshot-at 20181104113547 -
 This will take some time and produce a directory containing the archived wiki.
 
 > [!NOTE]  
-> The archive is only partially viewable as a website (if viewed with something like live server). This is due to how the wiki was archies. To fix a bunch of stuff we will need to run cleanup scripts (see below).
+> The archive is only partially viewable as a website (if viewed with something like live server). This is due to how the wiki was archies. To fix a bunch of stuff we will need to run cleanup scripts (see (see [Fixing Wayback Version of the Wiki](#Fixing_Wayback_Version_of_the_Wiki) section for details).
 
 ### Step 2: Downloading manifest (snapshot metadata)
 
@@ -55,14 +61,16 @@ ruby wayback_machine_downloader http://x3wiki.com --snapshot-at 20181104113547 -
 
 Then open the file and remove logs that were produced while downloading. That will leave us with a JSON file. Rename it to `snapshots.json` and place inside the archive.
 
-### Step 3: Running cleanup scripts
+## Fixing Wayback Version of the Wiki
+
+### Step 1: Running cleanup scripts
 
 Copy the archive to `archives` folder (create it if it's missing). 
 
 > [!NOTE]  
-> The cleanup scripts **are destructive** and will delete and rename files in your archive. Retain the original copy in case of errors.
+> The cleanup scripts **are destructive** and will **delete, rename and modify files** in your archive. Retain the original copy in case of errors.
 
-Navigate to `src/cleanup.ts` and tweak the variables. At the minimum, you must specify the name of the archive directory you've just copied so that the script could find it.
+Navigate to `src/preset.ts` and tweak the variables. At the minimum, you must specify the name of the archive directory you've just copied so that the script could find it.
 
 Run the cleanup scripts with:
 
@@ -75,12 +83,20 @@ This will run multiple steps of cleaning, such as renaming files, correcting lin
 > [!NOTE]  
 > You will see a lot of warnings. Feel free to investigate them if something ends up not working. It is generally safe to rerun the cleanup scripts to see the warning that stay, but that might have some side effects such as duplicating of styles added to pages, so use this only for debugging purposes.
 
-### Step 4: Viewing the wiki
-
-At this point, all normal wiki pages should be viewable. The cleanup script aims to restore the following pages as the very least:
+The cleanup script aims to restore the following pages as the very least:
 - Regular pages
 - Category pages
 - Template pages
-- Edit pages containing wikitext
+<!-- - Source pages (pages containing wikitext) -->
 
-As well as restoring pages, a search functionality is added to the wiki, allowing to search pages like on regular wiki.
+In additions, a few more things are added:
+- **Search functionality**. Simply type in the search bar and a list of suggestion will pop up.
+- **Random page**. Exploring random stuff is fun, so the magic button has been restored as well!
+
+### Step 2: Viewing the wiki
+
+At this point, all normal wiki pages should be viewable. Use any software that allows to create a live server to view the wiki. For example, with Python installed, navigate to your archive and run:
+
+```python
+python3 -m http.server 3000
+```

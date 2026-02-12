@@ -1,24 +1,28 @@
 import path from 'path';
 import fs from 'fs';
 import fsPromises from 'fs/promises';
-import { Logger, type LogLevel } from './utils/logger.ts';
+import { Logger } from './utils/logger.ts';
 import chalk from 'chalk';
 import { roundToDigit } from './utils/roundToDigit.ts';
 import { readFilesRecursive } from './utils/readFilesRecursive.ts';
-import { DOMParser, parseHTML } from 'linkedom';
-import PQueue from 'p-queue';
-import { ensureDirpath, ensureFilepathDirpath } from './utils/ensureDirpath.ts';
+import { parseHTML } from 'linkedom';
+import { ensureFilepathDirpath } from './utils/ensureDirpath.ts';
 import sanitizeFilename from 'sanitize-filename';
-import { number, z } from 'zod';
 import { ManifestCtrl, type ManifestEntry } from './Manifest.ts';
 import { isPathUnderDirectory } from './utils/isPageUnderDirectory.ts';
 import { assertPathExists } from './utils/assertPathExists.ts';
 import { formatForLogAsList } from './utils/formatForLogAsList.ts';
-import { logLevel, archiveDirname, archiveName, onlyRunNthStep, originalManifestName, processedManifestName, loadProcessedManifestFromDisk, browseManifestName, browseManifestDelimiter, onlyRunNthTask } from './preset.ts';
-import { replaceSubstring } from './utils/string/replaceSubstring.ts';
-import { insertSubstring } from './utils/string/insertSubstring.ts';
+import { logLevel, archiveDirname as archiveDirnamePreset, archiveName as archiveNamePreset, onlyRunNthStep, originalManifestName, processedManifestName, loadProcessedManifestFromDisk, browseManifestName, browseManifestDelimiter, onlyRunNthTask } from './preset.ts';
 const { logDebug, logInfo, logWarn, logFatalAndThrow } = new Logger();
 
+const args = process.argv.slice(2);
+// @ts-ignore
+const autoArchivePath = args.includes('--auto-archive-path');
+// @ts-ignore
+const renameArchiveDirTo = args
+    .find(str => str.startsWith('--rename-archive-dir'))
+    ?.split('=')
+    ?.[1];
 
 // =============================
 // ======== DANGER ZONE ========
@@ -26,9 +30,50 @@ const { logDebug, logInfo, logWarn, logFatalAndThrow } = new Logger();
 
 Logger.setLogLevel(logLevel);
 
-const archivePath = path.join(archiveDirname, archiveName);
-if (!fs.existsSync(archivePath))
-    logFatalAndThrow("archive path not found: " + archivePath);
+let archiveDirname: string;
+let archiveName: string;
+let archivePath: string;
+if(autoArchivePath) {
+    logInfo(chalk.bgBlue('# AUTO ARCHIVE PATH MODE #'));
+
+    archiveDirname = archiveDirnamePreset;
+    if(!fs.existsSync(archiveDirname))
+        logFatalAndThrow("archives dir doesn't exist: " + archiveDirname);
+
+    const dirs = fs.readdirSync(archiveDirname)
+        .filter(entry => {
+            const fullPath = path.join(archiveDirname, entry);
+            return fs.statSync(fullPath).isDirectory();
+        })
+        // sort desc
+        .sort((a, b) => fs.statSync(b).birthtime.getTime() - fs.statSync(a).birthtime.getTime())
+    archiveName = dirs[0]!;
+    if(!archiveName)
+        logFatalAndThrow("no archives found in archives dir: " + archiveDirname);
+} else {
+    archiveDirname = archiveDirnamePreset;
+    archiveName = archiveNamePreset;
+}
+
+archivePath = path.join(archiveDirname, archiveName);
+logInfo("archive dirpath: " + archivePath);
+assertPathExists(archivePath, "archive path not found");
+
+if(renameArchiveDirTo) {
+    const oldArchivePath = archivePath;
+
+    archiveName = renameArchiveDirTo;
+    archivePath = path.join(archiveDirname, archiveName);
+    logInfo("requested rename, new archive dirpath: " + archivePath);
+    
+    if(fs.existsSync(archivePath))
+        await fsPromises.rm(archivePath, { recursive: true, force: true });
+
+    fs.renameSync(oldArchivePath, archivePath);
+}
+
+
+// ==========
 
 let stepRunCounter = 1;
 const runStep = async (name: string, fn: () => void | Promise<void>) => {
@@ -547,7 +592,7 @@ domTask('remove user bar', doc => {
         return;
 
     el.remove();
-})
+});
 
 await runStep("running tasks on DOM (w/ loading & parsing)", async () => {
     const pagesDirpath = path.join(archivePath, "index.php");
@@ -714,10 +759,10 @@ await runStep("generating browse manifest", () => {
     const substringBlacklist = [
         "Recent Changes",
         "Special:",
-        "User:",
-        "User talk:",
-        "Template:",
-        "Talk:",
+        // "User:",
+        // "User talk:",
+        // "Template:",
+        // "Talk:",
         "MediaWiki:"
     ];
 
