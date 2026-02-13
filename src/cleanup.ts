@@ -600,6 +600,14 @@ domTask('remove user bar', doc => {
     el.remove();
 });
 
+domTask('append "Archive" to title', doc => {
+    const el = doc.querySelector('title');
+    if (!el)
+        return;
+
+    el.innerHTML = el.innerHTML + ' | Archive';
+});
+
 await runStep("running tasks on DOM (w/ loading & parsing)", async () => {
     const pagesDirpath = path.join(archivePath, "index.php");
     assertPathExists(pagesDirpath, "path containing mainline pages doesn't exist");
