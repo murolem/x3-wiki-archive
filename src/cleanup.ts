@@ -12,7 +12,9 @@ import { ManifestCtrl, type ManifestEntry } from './Manifest.ts';
 import { isPathUnderDirectory } from './utils/isPageUnderDirectory.ts';
 import { assertPathExists } from './utils/assertPathExists.ts';
 import { formatForLogAsList } from './utils/formatForLogAsList.ts';
-import { logLevel, archiveDirname as archiveDirnamePreset, archiveName as archiveNamePreset, onlyRunNthStep, originalManifestName, processedManifestName, loadProcessedManifestFromDisk, browseManifestName, browseManifestDelimiter, onlyRunNthTask } from './preset.ts';
+import { logLevel, archiveDirname as archiveDirnamePreset, archiveName as archiveNamePreset, onlyRunNthStep, originalManifestName, processedManifestName, loadProcessedManifestFromDisk, browseManifestName, browseManifestDelimiter, onlyRunNthTask, deployHostname } from './preset.ts';
+import { SitemapStream, streamToPromise } from 'sitemap'
+import { Readable } from 'stream'
 const { logDebug, logInfo, logWarn, logFatalAndThrow } = new Logger();
 
 const args = process.argv.slice(2);
@@ -223,12 +225,12 @@ await runStep("removing ad-related and other trash pages", async () => {
     // should cover all or almost all ad pages.
     // automatically tries variants with and without underscores.
     const pageSubstringBlacklist = [
+        "Technical Support",
         "email tech support",
         "tech support USA",
         "Avast Antivirus",
-        "Avast_Antivirus",
         "Brother Printer",
-        "Hp_Technical",
+        "Hp Technical",
         "Hp Printer",
         "Hp printer SUpport",
         "microsoft",
@@ -236,16 +238,21 @@ await runStep("removing ad-related and other trash pages", async () => {
         "Avast customer",
         "Email Toll Free Number",
         "Norton Antivirus",
-        "Norton_Antivirus",
         "Skype Tech",
         "Skype Support",
-        "Technical Support",
         "Phone Number USA",
         "support Phone Number",
         "phone number",
+        "email customer",
+        "support number",
+        "email tech",
+        'email helpline',
+        "email customer",
+        "icloud email",
+        "appleid"
     ];
 
-    const badEntries = manifest.filter(e => manifestCtrl.matchesCustomBlacklist(e.diskPath, pageSubstringBlacklist));
+    const badEntries = manifest.filter(e => manifestCtrl.matchesCustomBlacklist(e.originalUrl, pageSubstringBlacklist));
     for (const e of badEntries) {
         // we can safely remove the whole url path since we don't need stuff under bad named pages anyway.
         const fullUrlDirpath = path.join(archiveDirname, e.urlPath);
@@ -253,6 +260,8 @@ await runStep("removing ad-related and other trash pages", async () => {
         e.remove();
     }
     logInfo(chalk.bold(`bad pages removed: ${badEntries.length}`));
+
+    fs.writeFileSync('manifest.json', JSON.stringify(manifest, null, 4));
 });
 
 
@@ -383,6 +392,12 @@ await runStep("fixing page names", () => {
 //     }
 // });
 
+await runStep("copying assets", async () => {
+    const sourceDirpath = path.join("src", "assets");
+    assertPathExists(sourceDirpath, "assets dir not found");
+    await fsPromises.cp(sourceDirpath, archivePath, { recursive: true });
+});
+
 await runStep("generating CSS styles", async () => {
     // generate style file
 
@@ -402,12 +417,6 @@ await runStep("generating CSS styles", async () => {
 
     const minified = await minifiedRes.outputs[0]!.text();
     fs.writeFileSync(targetFilepath, minified);
-
-    // copy favicon in
-    const faviconSourceFilepath = path.resolve("src/assets/favicon.ico");
-    const faviconTargetFilepath = path.join(archivePath, "favicon.ico")
-    assertPathExists(faviconSourceFilepath, "favicon not found");
-    fs.copyFileSync(faviconSourceFilepath, faviconTargetFilepath);
 });
 
 await runStep("generating page script", async () => {
@@ -765,7 +774,28 @@ await runStep("replace some endpoints with redirects", () => {
     }
 });
 
-await runStep("generating browse manifest", () => {
+
+await runStep("generate sitemap", async () => {
+    // Create a stream to write to
+    const stream = new SitemapStream( { hostname: deployHostname } );
+
+    const tsIso = new Date().toISOString();
+    const links = manifest
+    .filter(e => e.urlPath.startsWith('index.php'))
+    .map(e => ({ 
+        url: '/' + e.urlPath,
+        lastmod: tsIso,
+        changefreq: 'weekly',
+    }));
+    
+    // Return a promise that resolves with your XML string
+    const sitemap = await streamToPromise(Readable.from(links).pipe(stream))
+        .then((data) => data.toString());
+
+    await fsPromises.writeFile(path.join(archivePath, 'sitemap.xml'), sitemap);
+});
+
+await runStep("generate browse manifest", () => {
     // we only want to include the pages under index.php and only those with one level deep with /index.html in them, since those are mainline pages.
     const mainlinePagesRegex = /index\.php\/[^\/]+\/index\.html/;
 

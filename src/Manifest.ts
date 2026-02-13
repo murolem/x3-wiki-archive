@@ -257,13 +257,14 @@ export class ManifestCtrl {
                 const baseVariants = [
                     blSubstrLc,
                     blSubstrLc.replaceAll(' ', '_'),
-                    blSubstrLc.replaceAll('_', ' ')
+                    blSubstrLc.replaceAll('_', ' '),
+                    blSubstrLc.replaceAll(' ', '+')
                 ];
                 const moreVariants: string[] = [];
                 baseVariants.forEach(variant => moreVariants.push(encodeURIComponent(variant)))
                 baseVariants.forEach(variant => moreVariants.push(decodeURIComponent(variant)));
-                return [...baseVariants, ...moreVariants];
-            })
+                return [baseVariants, moreVariants].flat(5)
+            });
 
         const nameLc = name.toLocaleLowerCase();
         for (const blSubstrLc of blVariantsLc) {

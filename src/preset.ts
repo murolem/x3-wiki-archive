@@ -7,6 +7,9 @@ import type { LogLevel } from './utils/logger';
 // name of your archive.
 export const archiveName = "x3wiki.com_20181104113547_full";
 
+// deploy url hostname
+export const deployHostname = 'https://x3wiki.aliser.space';
+
 // name of directory where your archive is.
 export const archiveDirname = "archives";
 
