@@ -43,10 +43,12 @@ export const manifestSchema = z.object({
     originalUrl: z.string(),
     /** Timestamp, datetime. */
     timestamp: z.coerce.date(),
-    /** Path to the resource on disk, eg `index.php/Missions` */
+    /** Path to the resource on disk, eg `index.php/Missions/index.php` */
     diskPath: z.string(),
     /** Path to the resource relative to base URL. eg `index.php/Missions` */
     urlPath: z.string(),
+    /** Whether this entry originates from the original manifest. */
+    inOriginalManifest: z.boolean()
 }).array();
 export type ManifestNoMethods = z.infer<typeof manifestSchema>;
 export type ManifestEntryNoMethods = ManifestNoMethods[number]
@@ -182,9 +184,13 @@ export class ManifestCtrl {
         // correct page paths that point to directory instead of index.html inside said directory
         // const renamedIndexHtmlPaths: Array<{ pathBefore: string, pathAfter: string }> = [];
         const failedPathConverts: string[] = [];
-        this._manifest.forEach(e => {
-            e.diskPath = this.convertUrlPathToDiskPath(e.urlPath, true);
-        });
+        this._manifest
+            .forEach(e => {
+                e.diskPath = this.convertUrlPathToDiskPath(e.urlPath, true);
+            });
+        const emptyPathEntry = this.manifest.find(e => e.diskPath === "");
+        if(emptyPathEntry)
+            this.removeEntryFromManifest(emptyPathEntry);
 
         if (failedPathConverts.length > 0)
             logWarn(chalk.bold(`failed to generate disk paths from url paths: \n`) + formatForLogAsList(failedPathConverts));
@@ -224,6 +230,7 @@ export class ManifestCtrl {
                             timestamp: ts,
                             diskPath: relDiskPath,
                             urlPath: relUrlPath,
+                            inOriginalManifest: false
                         }
                     )
                 );
@@ -273,6 +280,42 @@ export class ManifestCtrl {
         }
         return false;
     }
+
+    private blacklistBadPageName = [
+        "Technical Support",
+        "email tech support",
+        "tech support USA",
+        "Avast Antivirus",
+        "Brother Printer",
+        "Hp Technical",
+        "Hp Printer",
+        "Hp printer SUpport",
+        "microsoft",
+        "customer support",
+        "Avast customer",
+        "Email Toll Free Number",
+        "Norton Antivirus",
+        "Skype Tech",
+        "Skype Support",
+        "Phone Number USA",
+        "support Phone Number",
+        "phone number",
+        "email customer",
+        "support number",
+        "email tech",
+        'email helpline',
+        "email customer",
+        "email technical",
+        "icloud email",
+        "appleid"
+    ];
+
+    // blacklist for page names. matching pages will be discarded in the manifest.
+    // should cover all or almost all ad pages.
+    // automatically tries variants with and without underscores.
+    matchesBadPageNameBlacklist(name: string): boolean {
+        return this.matchesCustomBlacklist(name, this.blacklistBadPageName);
+    } 
 
     // ==================================
     // ==================================
@@ -343,6 +386,7 @@ export class ManifestCtrl {
                     timestamp: e.timestamp,
                     diskPath: e.file_id,
                     urlPath: e.file_id,
+                    inOriginalManifest: true
                 })
             });
     }

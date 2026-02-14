@@ -28,13 +28,14 @@ bun install
 
 ### Terminology
 
-- Disk path - path to a directory or file in the archive.
-  - Relative disk path - disk path that's relative to the archive directory.
-  - Full disk path - disk path that's relative to current working directory (project directory).
+- Mainline Page - Page within `index.php` directory. Those are pages like `Falcon Prototype`, `Ryu`, etc - "main" content pages. Excludes majority of pages with gibberish names in archive root that the Wayback crawler was unable to name properly (edit pages, api pages, history pages, etc.).
+- Disk path - Path to a directory or file in the archive.
+  - Relative disk path - Disk path that's relative to the archive directory.
+  - Full disk path - Disk path that's relative to current working directory (project directory).
 
-- URL path - path to a directory or file in the archive to use in URLs. Main difference is URL paths point to directories (eg `index.php/Barren_Shores`), while disk paths point to actual HTML pages (eg `index.php/Barren_Shores/index.html`).
-  - Relative URL path - url path that's relative to the archive directory.
-  - Full URL path - url path that's relative to current working directory (project directory).
+- URL path - Path to a directory or file in the archive to use in URLs. Main difference is URL paths point to directories (eg `index.php/Barren_Shores`), while disk paths point to actual HTML pages (eg `index.php/Barren_Shores/index.html`).
+  - Relative URL path - Url path that's relative to the archive directory.
+  - Full URL path - Url path that's relative to current working directory (project directory).
 
 ### Step 1: Downloading wiki archive
 
