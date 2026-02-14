@@ -1,0 +1,3 @@
+<!-- source file: index__qd3ff5065d0a8.html -->
+
+Damage per second, often abbreviated to DPS, is a weapon statistic commonly used to compare different arms. Usually only the shield-damaging statistics are considered, as objects in the X-Universe typically have considerably more shielding than hull strength. It requires calculation from other given weapon statistics, namely the damage per shot and [[Rate of Fire|ROF]], and does not account for the weapon's accuracy (or lack of).

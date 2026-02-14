@@ -1,0 +1,3 @@
+<!-- source file: index__qa7743b519b86.html -->
+
+{{Infobox Sector |Race=Teladi |SecLevel=Border |Population=64,584,524 |Planets=3 |SunLevel=150 |GateDist=140 |Gates={{Gateblock/Begin}} {{Gateblock2|South|0| 0| -70560|[[Profit Center Alpha]]}} {{Gateblock2|West|-70560| 0| 0|[[Patriarch's Keep]]}} {{Gateblock/End}} }} ==Description== Established at the same time as '[[New Income]]', this well organised Teladi system supports most of the ships travelling through newly colonised Teladi space. The inhospitable, rocky moon of the fringes of this system is used as a survival training ground for Teladi Profit-Protection troops. ==Default [[Stations]]== *Teladi [[Equipment Dock]] ==[[Asteroids]]== == See Also == {{Teladi Navbox}}

@@ -1,0 +1,3 @@
+<!-- source file: index__qa089b71ebf6f.html -->
+
+{| class="wikitable collapsed" cellspacing="3" style="text-align:center;" width="100%" |- | style="background-color:grey;" | '''Other Missions''' |- | [[Assassination]] | [[Transport Passenger]] | [[Return Ship]] | [[Follow Ship]] | [[Transport Cargo]] | [[Scan Asteroids]] |- | [[Escort Convoy]] | [[Build Stations]] | [[Deliver Matching Ship]] | [[Destroy Convoy]] | [[Transport Passengers]] | [[Freight Scan]] |- | [[Patrol]] | [[Defend Station]] | [[Retrieve Stolen Ship]] | [[Xenon Hold Position]] | [[Xenon Patrol]] | [[Deliver Wares]] |}

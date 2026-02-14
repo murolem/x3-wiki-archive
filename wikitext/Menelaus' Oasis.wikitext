@@ -1,0 +1,3 @@
+<!-- source file: index__q5ac9a3cde1ee.html -->
+
+{{Infobox Sector |Race=Boron |SecLevel=Border |Population=86,709,952 |Planets=1 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|South|0| 0| -34000|[[Unknown Sector (18,16)]]}} {{Gateblock2|West|-34000| 0| 0|[[Queen's Harbour]]}} {{Gateblock/End}} }} ==Description== Once a haven for the Queen herself, Menelaus no longer retreats here in time of trouble. Conflict in nearby sector has borne a wealth of agriculture, high-tech goods and military hardware needed to supply the war front. ==Default [[Stations]]== ==[[Asteroids]]== == See Also == {{Boron Navbox}}

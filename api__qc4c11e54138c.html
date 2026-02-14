@@ -1,0 +1,202 @@
+<!DOCTYPE HTML>
+<html>
+<head><script src="/script.js" type="module"></script><link href="/styles.css" rel="stylesheet">
+	<title>MediaWiki API Result | Archive</title>
+</head>
+<body>
+<br>
+<small>
+You are looking at the HTML representation of the XML format.<br>
+HTML is good for debugging, but probably is not suitable for your application.<br>
+See <a href="https://www.mediawiki.org/wiki/API">complete documentation</a>, or
+<a class="new" href="/api.php">API help</a> for more information.
+</small>
+<pre>
+<span style="color:blue;">&lt;?xml version="1.0"?&gt;</span>
+<span style="color:blue;">&lt;api&gt;</span>
+  <span style="color:blue;">&lt;paraminfo&gt;</span>
+    <span style="color:blue;">&lt;modules&gt;</span>
+      <span style="color:blue;">&lt;module classname="ApiParse" description="Parses wikitext and returns parser output" examples="<a href="api.php?action=parse&amp;text={{Project:Sandbox}}&quot;">api.php?action=parse&amp;amp;text={{Project:Sandbox}}"</a> version="ApiParse: $Id$" prefix="" readrights="" name="parse"&gt;</span>
+        <span style="color:blue;">&lt;helpurls&gt;</span>
+          <span style="color:blue;">&lt;helpurl&gt;</span><a href="https://www.mediawiki.org/wiki/API:Parsing_wikitext#parse">https://www.mediawiki.org/wiki/API:Parsing_wikitext#parse</a><span style="color:blue;">&lt;/helpurl&gt;</span>
+        <span style="color:blue;">&lt;/helpurls&gt;</span>
+        <span style="color:blue;">&lt;allexamples&gt;</span>
+          <span style="color:blue;">&lt;example xml:space="preserve"&gt;</span><a href="api.php?action=parse&amp;text={{Project:Sandbox}}">api.php?action=parse&amp;amp;text={{Project:Sandbox}}</a><span style="color:blue;">&lt;/example&gt;</span>
+        <span style="color:blue;">&lt;/allexamples&gt;</span>
+        <span style="color:blue;">&lt;parameters&gt;</span>
+          <span style="color:blue;">&lt;param name="title" description="Title of page the text belongs to" default="API" type="string" /&gt;</span>
+          <span style="color:blue;">&lt;param name="text" description="Wikitext to parse" type="string" /&gt;</span>
+          <span style="color:blue;">&lt;param name="summary" description="Summary to parse" type="string" /&gt;</span>
+          <span style="color:blue;">&lt;param name="page" description="Parse the content of this page. Cannot be used together with text and title" type="string" /&gt;</span>
+          <span style="color:blue;">&lt;param name="pageid" description="Parse the content of this page. Overrides page" type="integer" /&gt;</span>
+          <span style="color:blue;">&lt;param name="redirects" description="If the page or the pageid parameter is set to a redirect, resolve it" default="false" type="boolean" /&gt;</span>
+          <span style="color:blue;">&lt;param name="oldid" description="Parse the content of this revision. Overrides page and pageid" type="integer" /&gt;</span>
+          <span style="color:blue;">&lt;param name="prop" description="Which pieces of information to get&amp;#10; text           - Gives the parsed text of the wikitext&amp;#10; langlinks      - Gives the language links in the parsed wikitext&amp;#10; categories     - Gives the categories in the parsed wikitext&amp;#10; categorieshtml - Gives the HTML version of the categories&amp;#10; languageshtml  - Gives the HTML version of the language links&amp;#10; links          - Gives the internal links in the parsed wikitext&amp;#10; templates      - Gives the templates in the parsed wikitext&amp;#10; images         - Gives the images in the parsed wikitext&amp;#10; externallinks  - Gives the external links in the parsed wikitext&amp;#10; sections       - Gives the sections in the parsed wikitext&amp;#10; revid          - Adds the revision ID of the parsed page&amp;#10; displaytitle   - Adds the title of the parsed wikitext&amp;#10; headitems      - Gives items to put in the &amp;lt;head&amp;gt; of the page&amp;#10; headhtml       - Gives parsed &amp;lt;head&amp;gt; of the page&amp;#10; iwlinks        - Gives interwiki links in the parsed wikitext&amp;#10; wikitext       - Gives the original wikitext that was parsed" default="text|langlinks|categories|links|templates|images|externallinks|sections|revid|displaytitle" multi="" limit="50" lowlimit="50" highlimit="500"&gt;</span>
+            <span style="color:blue;">&lt;type&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>text<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>langlinks<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>languageshtml<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>categories<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>categorieshtml<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>links<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>templates<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>images<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>externallinks<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>sections<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>revid<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>displaytitle<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>headitems<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>headhtml<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>iwlinks<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>wikitext<span style="color:blue;">&lt;/t&gt;</span>
+            <span style="color:blue;">&lt;/type&gt;</span>
+          <span style="color:blue;">&lt;/param&gt;</span>
+          <span style="color:blue;">&lt;param name="pst" description="Do a pre-save transform on the input before parsing it&amp;#10;Ignored if page, pageid or oldid is used" default="false" type="boolean" /&gt;</span>
+          <span style="color:blue;">&lt;param name="onlypst" description="Do a pre-save transform (PST) on the input, but don&amp;#039;t parse it&amp;#10;Returns the same wikitext, after a PST has been applied. Ignored if page, pageid or oldid is used" default="false" type="boolean" /&gt;</span>
+          <span style="color:blue;">&lt;param name="uselang" description="Which language to parse the request in" type="string" /&gt;</span>
+          <span style="color:blue;">&lt;param name="section" description="Only retrieve the content of this section number" type="string" /&gt;</span>
+          <span style="color:blue;">&lt;param name="disablepp" description="Disable the PP Report from the parser output" default="false" type="boolean" /&gt;</span>
+        <span style="color:blue;">&lt;/parameters&gt;</span>
+        <span style="color:blue;">&lt;errors&gt;</span>
+          <span style="color:blue;">&lt;error code="readapidenied" info="You need read permission to use this module" /&gt;</span>
+          <span style="color:blue;">&lt;error code="params" info="The page parameter cannot be used together with the text and title parameters" /&gt;</span>
+          <span style="color:blue;">&lt;error code="params" info="The text parameter should be passed with the title parameter. Should you be using the &amp;quot;page&amp;quot; parameter instead?" /&gt;</span>
+          <span style="color:blue;">&lt;error code="missingrev" info="There is no revision ID oldid" /&gt;</span>
+          <span style="color:blue;">&lt;error code="permissiondenied" info="You don&amp;#039;t have permission to view deleted revisions" /&gt;</span>
+          <span style="color:blue;">&lt;error code="missingtitle" info="The page you specified doesn&amp;#039;t exist" /&gt;</span>
+          <span style="color:blue;">&lt;error code="nosuchsection" info="There is no section sectionnumber in page" /&gt;</span>
+          <span style="color:blue;">&lt;error code="nosuchpageid" info="There is no page with ID $1" /&gt;</span>
+          <span style="color:blue;">&lt;error code="invalidtitle" info="Bad title &amp;quot;title&amp;quot;" /&gt;</span>
+        <span style="color:blue;">&lt;/errors&gt;</span>
+      <span style="color:blue;">&lt;/module&gt;</span>
+    <span style="color:blue;">&lt;/modules&gt;</span>
+    <span style="color:blue;">&lt;querymodules&gt;</span>
+      <span style="color:blue;">&lt;module classname="ApiQueryAllpages" description="Enumerate all pages sequentially in a given namespace" examples="Simple Use&amp;#10;Show a list of pages starting at the letter &amp;quot;B&amp;quot; <a class="new" href="api.php?action=query&amp;list=allpages&amp;apfrom=B">api.php?action=query&amp;amp;list=allpages&amp;amp;apfrom=B</a> Using as Generator&amp;#10;Show info about 4 pages starting at the letter &amp;quot;T&amp;quot; <a class="new" href="api.php?action=query&amp;generator=allpages&amp;gaplimit=4&amp;gapfrom=T&amp;prop=info">api.php?action=query&amp;amp;generator=allpages&amp;amp;gaplimit=4&amp;amp;gapfrom=T&amp;amp;prop=info</a> Show content of first 2 non-redirect pages begining at &amp;quot;Re&amp;quot; <a href="api.php?action=query&amp;generator=allpages&amp;gaplimit=2&amp;gapfilterredir=nonredirects&amp;gapfrom=Re&amp;prop=revisions&amp;rvprop=content&quot;">api.php?action=query&amp;amp;generator=allpages&amp;amp;gaplimit=2&amp;amp;gapfilterredir=nonredirects&amp;amp;gapfrom=Re&amp;amp;prop=revisions&amp;amp;rvprop=content"</a> version="ApiQueryAllpages: $Id$" prefix="ap" readrights="" generator="" name="allpages" querytype="list"&gt;</span>
+        <span style="color:blue;">&lt;helpurls&gt;</span>
+          <span style="color:blue;">&lt;helpurl&gt;</span><a href="https://www.mediawiki.org/wiki/API:Allpages">https://www.mediawiki.org/wiki/API:Allpages</a><span style="color:blue;">&lt;/helpurl&gt;</span>
+        <span style="color:blue;">&lt;/helpurls&gt;</span>
+        <span style="color:blue;">&lt;allexamples&gt;</span>
+          <span style="color:blue;">&lt;example description="Simple Use&amp;#10;Show a list of pages starting at the letter &amp;quot;B&amp;quot;" xml:space="preserve"&gt;</span><a class="new" href="api.php?action=query&amp;list=allpages&amp;apfrom=B">api.php?action=query&amp;amp;list=allpages&amp;amp;apfrom=B</a><span style="color:blue;">&lt;/example&gt;</span>
+          <span style="color:blue;">&lt;example description="Using as Generator&amp;#10;Show info about 4 pages starting at the letter &amp;quot;T&amp;quot;" xml:space="preserve"&gt;</span><a class="new" href="api.php?action=query&amp;generator=allpages&amp;gaplimit=4&amp;gapfrom=T&amp;prop=info">api.php?action=query&amp;amp;generator=allpages&amp;amp;gaplimit=4&amp;amp;gapfrom=T&amp;amp;prop=info</a><span style="color:blue;">&lt;/example&gt;</span>
+          <span style="color:blue;">&lt;example description="Show content of first 2 non-redirect pages begining at &amp;quot;Re&amp;quot;" xml:space="preserve"&gt;</span><a class="new" href="api.php?action=query&amp;generator=allpages&amp;gaplimit=2&amp;gapfilterredir=nonredirects&amp;gapfrom=Re&amp;prop=revisions&amp;rvprop=content">api.php?action=query&amp;amp;generator=allpages&amp;amp;gaplimit=2&amp;amp;gapfilterredir=nonredirects&amp;amp;gapfrom=Re&amp;amp;prop=revisions&amp;amp;rvprop=content</a><span style="color:blue;">&lt;/example&gt;</span>
+        <span style="color:blue;">&lt;/allexamples&gt;</span>
+        <span style="color:blue;">&lt;parameters&gt;</span>
+          <span style="color:blue;">&lt;param name="from" description="The page title to start enumerating from" type="string" /&gt;</span>
+          <span style="color:blue;">&lt;param name="to" description="The page title to stop enumerating at" type="string" /&gt;</span>
+          <span style="color:blue;">&lt;param name="prefix" description="Search for all page titles that begin with this value" type="string" /&gt;</span>
+          <span style="color:blue;">&lt;param name="namespace" description="The namespace to enumerate" default="0" type="namespace" /&gt;</span>
+          <span style="color:blue;">&lt;param name="filterredir" description="Which pages to list" default="all"&gt;</span>
+            <span style="color:blue;">&lt;type&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>all<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>redirects<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>nonredirects<span style="color:blue;">&lt;/t&gt;</span>
+            <span style="color:blue;">&lt;/type&gt;</span>
+          <span style="color:blue;">&lt;/param&gt;</span>
+          <span style="color:blue;">&lt;param name="minsize" description="Limit to pages with at least this many bytes" type="integer" /&gt;</span>
+          <span style="color:blue;">&lt;param name="maxsize" description="Limit to pages with at most this many bytes" type="integer" /&gt;</span>
+          <span style="color:blue;">&lt;param name="prtype" description="Limit to protected pages only" multi="" limit="50" lowlimit="50" highlimit="500"&gt;</span>
+            <span style="color:blue;">&lt;type&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>edit<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>move<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>upload<span style="color:blue;">&lt;/t&gt;</span>
+            <span style="color:blue;">&lt;/type&gt;</span>
+          <span style="color:blue;">&lt;/param&gt;</span>
+          <span style="color:blue;">&lt;param name="prlevel" description="The protection level (must be used with apprtype= parameter)" multi="" limit="50" lowlimit="50" highlimit="500"&gt;</span>
+            <span style="color:blue;">&lt;type&gt;</span>
+              <span style="color:blue;">&lt;t /&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>autoconfirmed<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>sysop<span style="color:blue;">&lt;/t&gt;</span>
+            <span style="color:blue;">&lt;/type&gt;</span>
+          <span style="color:blue;">&lt;/param&gt;</span>
+          <span style="color:blue;">&lt;param name="prfiltercascade" description="Filter protections based on cascadingness (ignored when apprtype isn&amp;#039;t set)" default="all"&gt;</span>
+            <span style="color:blue;">&lt;type&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>cascading<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>noncascading<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>all<span style="color:blue;">&lt;/t&gt;</span>
+            <span style="color:blue;">&lt;/type&gt;</span>
+          <span style="color:blue;">&lt;/param&gt;</span>
+          <span style="color:blue;">&lt;param name="limit" description="How many total pages to return." default="10" type="limit" max="500" highmax="5000" min="1" /&gt;</span>
+          <span style="color:blue;">&lt;param name="dir" description="The direction in which to list" default="ascending"&gt;</span>
+            <span style="color:blue;">&lt;type&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>ascending<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>descending<span style="color:blue;">&lt;/t&gt;</span>
+            <span style="color:blue;">&lt;/type&gt;</span>
+          <span style="color:blue;">&lt;/param&gt;</span>
+          <span style="color:blue;">&lt;param name="filterlanglinks" description="Filter based on whether a page has langlinks" default="all"&gt;</span>
+            <span style="color:blue;">&lt;type&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>withlanglinks<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>withoutlanglinks<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>all<span style="color:blue;">&lt;/t&gt;</span>
+            <span style="color:blue;">&lt;/type&gt;</span>
+          <span style="color:blue;">&lt;/param&gt;</span>
+          <span style="color:blue;">&lt;param name="prexpiry" description="Which protection expiry to filter the page on&amp;#10; indefinite - Get only pages with indefinite protection expiry&amp;#10; definite - Get only pages with a definite (specific) protection expiry&amp;#10; all - Get pages with any protections expiry" default="all"&gt;</span>
+            <span style="color:blue;">&lt;type&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>indefinite<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>definite<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>all<span style="color:blue;">&lt;/t&gt;</span>
+            <span style="color:blue;">&lt;/type&gt;</span>
+          <span style="color:blue;">&lt;/param&gt;</span>
+        <span style="color:blue;">&lt;/parameters&gt;</span>
+        <span style="color:blue;">&lt;errors&gt;</span>
+          <span style="color:blue;">&lt;error code="readapidenied" info="You need read permission to use this module" /&gt;</span>
+          <span style="color:blue;">&lt;error code="invalidtitle" info="Bad title &amp;quot;title&amp;quot;" /&gt;</span>
+          <span style="color:blue;">&lt;error code="invalidtitle" info="Bad title &amp;quot;key&amp;quot;" /&gt;</span>
+          <span style="color:blue;">&lt;error code="params" info="Use &amp;quot;gapfilterredir=nonredirects&amp;quot; option instead of &amp;quot;redirects&amp;quot; when using allpages as a generator" /&gt;</span>
+          <span style="color:blue;">&lt;error code="params" info="prlevel may not be used without prtype" /&gt;</span>
+        <span style="color:blue;">&lt;/errors&gt;</span>
+      <span style="color:blue;">&lt;/module&gt;</span>
+      <span style="color:blue;">&lt;module classname="ApiQuerySiteinfo" description="Return general information about the site" examples="<a href="api.php?action=query&amp;meta=siteinfo&amp;siprop=general|namespaces|namespacealiases|statistics">api.php?action=query&amp;amp;meta=siteinfo&amp;amp;siprop=general|namespaces|namespacealiases|statistics</a> <a class="new" href="api.php?action=query&amp;meta=siteinfo&amp;siprop=interwikimap&amp;sifilteriw=local">api.php?action=query&amp;amp;meta=siteinfo&amp;amp;siprop=interwikimap&amp;amp;sifilteriw=local</a> <a href="api.php?action=query&amp;meta=siteinfo&amp;siprop=dbrepllag&amp;sishowalldb=&quot;">api.php?action=query&amp;amp;meta=siteinfo&amp;amp;siprop=dbrepllag&amp;amp;sishowalldb="</a> version="ApiQuerySiteinfo: $Id$" prefix="si" readrights="" name="siteinfo" querytype="meta"&gt;</span>
+        <span style="color:blue;">&lt;helpurls&gt;</span>
+          <span style="color:blue;">&lt;helpurl&gt;</span><a href="https://www.mediawiki.org/wiki/API:Meta#siteinfo_.2F_si">https://www.mediawiki.org/wiki/API:Meta#siteinfo_.2F_si</a><span style="color:blue;">&lt;/helpurl&gt;</span>
+        <span style="color:blue;">&lt;/helpurls&gt;</span>
+        <span style="color:blue;">&lt;allexamples&gt;</span>
+          <span style="color:blue;">&lt;example xml:space="preserve"&gt;</span><a href="api.php?action=query&amp;meta=siteinfo&amp;siprop=general|namespaces|namespacealiases|statistics">api.php?action=query&amp;amp;meta=siteinfo&amp;amp;siprop=general|namespaces|namespacealiases|statistics</a><span style="color:blue;">&lt;/example&gt;</span>
+          <span style="color:blue;">&lt;example xml:space="preserve"&gt;</span><a class="new" href="api.php?action=query&amp;meta=siteinfo&amp;siprop=interwikimap&amp;sifilteriw=local">api.php?action=query&amp;amp;meta=siteinfo&amp;amp;siprop=interwikimap&amp;amp;sifilteriw=local</a><span style="color:blue;">&lt;/example&gt;</span>
+          <span style="color:blue;">&lt;example xml:space="preserve"&gt;</span><a class="new" href="api.php?action=query&amp;meta=siteinfo&amp;siprop=dbrepllag&amp;sishowalldb=">api.php?action=query&amp;amp;meta=siteinfo&amp;amp;siprop=dbrepllag&amp;amp;sishowalldb=</a><span style="color:blue;">&lt;/example&gt;</span>
+        <span style="color:blue;">&lt;/allexamples&gt;</span>
+        <span style="color:blue;">&lt;parameters&gt;</span>
+          <span style="color:blue;">&lt;param name="prop" description="Which sysinfo properties to get:&amp;#10; general               - Overall system information&amp;#10; namespaces            - List of registered namespaces and their canonical names&amp;#10; namespacealiases      - List of registered namespace aliases&amp;#10; specialpagealiases    - List of special page aliases&amp;#10; magicwords            - List of magic words and their aliases&amp;#10; statistics            - Returns site statistics&amp;#10; interwikimap          - Returns interwiki map (optionally filtered, (optionally localised by using siinlanguagecode))&amp;#10; dbrepllag             - Returns database server with the highest replication lag&amp;#10; usergroups            - Returns user groups and the associated permissions&amp;#10; extensions            - Returns extensions installed on the wiki&amp;#10; fileextensions        - Returns list of file extensions allowed to be uploaded&amp;#10; rightsinfo            - Returns wiki rights (license) information if available&amp;#10; languages             - Returns a list of languages MediaWiki supports (optionally localised by using siinlanguagecode)&amp;#10; skins                 - Returns a list of all enabled skins&amp;#10; extensiontags         - Returns a list of parser extension tags&amp;#10; functionhooks         - Returns a list of parser function hooks&amp;#10; showhooks             - Returns a list of all subscribed hooks (contents of $wgHooks)" default="general" multi="" limit="50" lowlimit="50" highlimit="500"&gt;</span>
+            <span style="color:blue;">&lt;type&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>general<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>namespaces<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>namespacealiases<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>specialpagealiases<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>magicwords<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>interwikimap<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>dbrepllag<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>statistics<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>usergroups<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>extensions<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>fileextensions<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>rightsinfo<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>languages<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>skins<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>extensiontags<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>functionhooks<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>showhooks<span style="color:blue;">&lt;/t&gt;</span>
+            <span style="color:blue;">&lt;/type&gt;</span>
+          <span style="color:blue;">&lt;/param&gt;</span>
+          <span style="color:blue;">&lt;param name="filteriw" description="Return only local or only nonlocal entries of the interwiki map"&gt;</span>
+            <span style="color:blue;">&lt;type&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>local<span style="color:blue;">&lt;/t&gt;</span>
+              <span style="color:blue;">&lt;t&gt;</span>!local<span style="color:blue;">&lt;/t&gt;</span>
+            <span style="color:blue;">&lt;/type&gt;</span>
+          <span style="color:blue;">&lt;/param&gt;</span>
+          <span style="color:blue;">&lt;param name="showalldb" description="List all database servers, not just the one lagging the most" default="false" type="boolean" /&gt;</span>
+          <span style="color:blue;">&lt;param name="numberingroup" description="Lists the number of users in user groups" default="false" type="boolean" /&gt;</span>
+          <span style="color:blue;">&lt;param name="inlanguagecode" description="Language code for localised language names (best effort, use CLDR extension)" type="string" /&gt;</span>
+        <span style="color:blue;">&lt;/parameters&gt;</span>
+        <span style="color:blue;">&lt;errors&gt;</span>
+          <span style="color:blue;">&lt;error code="readapidenied" info="You need read permission to use this module" /&gt;</span>
+          <span style="color:blue;">&lt;error code="invalidtitle" info="Bad title &amp;quot;title&amp;quot;" /&gt;</span>
+          <span style="color:blue;">&lt;error code="invalidtitle" info="Bad title &amp;quot;key&amp;quot;" /&gt;</span>
+          <span style="color:blue;">&lt;error code="includeAllDenied" info="Cannot view all servers info unless $wgShowHostnames is true" /&gt;</span>
+        <span style="color:blue;">&lt;/errors&gt;</span>
+      <span style="color:blue;">&lt;/module&gt;</span>
+    <span style="color:blue;">&lt;/querymodules&gt;</span>
+  <span style="color:blue;">&lt;/paraminfo&gt;</span>
+<span style="color:blue;">&lt;/api&gt;</span>
+</pre>
+</body>
+</html>
+<!-- Served in 0.075 secs. -->

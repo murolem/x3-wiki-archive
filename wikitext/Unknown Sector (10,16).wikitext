@@ -1,0 +1,3 @@
+<!-- source file: index__q4059dca7a552.html -->
+
+{{Infobox Sector |Race=Pirates |SecLevel=Border |Population=Unknown |Planets=3 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0| 0| 34000|[[Heaven's Assertion]]}} {{Gateblock/End}} }} ==Description== ===Encyclopedy Entry=== Sector is not recognised in the database. ===Information=== Be aware this sector is strongly guarded and you must be friend with Duke before entering it. This sector is renamed '''Lasting Vengeance''' in Albion Prelude. ==Default [[Stations]]== *Duke's Haven HQ ==[[Asteroids]]== ==See Also== {{Pirates Navbox}}

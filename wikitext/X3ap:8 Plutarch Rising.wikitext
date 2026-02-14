@@ -1,0 +1,3 @@
+<!-- source file: index__q9b79014948f9.html -->
+
+Questline: [[x3ap_quests | X3:AP Quests]] Help construct the highway system in [[Albion Beta]] # Fly to [[Albion Beta]] # Fly to the Ships near highway # Defend against the M3s # Go back to [[Argon Sector M148]] ===Completion Rewards=== (?) {{MoveBox|X3ap:7 The Beryll|X3ap:9 Trial by Fire}}

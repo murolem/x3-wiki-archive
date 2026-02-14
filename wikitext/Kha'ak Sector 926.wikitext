@@ -1,0 +1,3 @@
+<!-- source file: index__q6c46ccb16116.html -->
+
+{{Infobox Sector |Race=Kha'ak |SecLevel=Border |Population= |Planets= |SunLevel=100 |GateDist= |Gates= }} ==Description== ==Default [[Stations]]== ==[[Asteroids]]==

@@ -1,0 +1,3 @@
+<!-- source file: index__q55b94fdde335.html -->
+
+The Terran [[Missions|Plot]] focuses on new [[AGI]] activity in home [[Terran]] sectors. As it progresses you will discover [[Aldrin]]. This plotline is available in all versions of Terran Conflict. ==Starting Conditions== *Omicron Lyrae (or your starting sector if you're Terran) *Argon [[rank]] 1 (Federation Member) *Terran rank 0 (Citizen) ==Walkthrough== See the [[Terran Plot Walkthrough]] page for walkthroughs. ==Spoilers== [[Terran Plot Spoilers|Click here to be taken to a separate page with the plot rewards listed.]] {{Missions}}

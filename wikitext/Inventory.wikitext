@@ -1,0 +1,3 @@
+<!-- source file: index__q9b4d086642d9.html -->
+
+{{Stub}} The Player's Inventory is a small, infrequently used storage area for items unique to the player. Currently, the only examples include: * [[Unfocused Jumpdrive]] * [[Salvage Insurance]] * [[Police License]]s == See Also == * [[Wares]]

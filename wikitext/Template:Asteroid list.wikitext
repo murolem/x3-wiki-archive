@@ -1,0 +1,3 @@
+<!-- source file: index__q822e15056eea.html -->
+
+&lt;includeonly> {| class="wikitable" cellspacing="3" style="text-align:center;" width="500px" |- | colspan="4" style="background-color:#CCCCFF;" | [[Asteroids]] Lists |- | [[Silicon asteroid list|Silicon]] || [[Ore asteroid list|Ore]] || [[Ice asteroid list|Ice]] || [[Nividium asteroid list|Nvidium]] |} [[Category:Asteroid List]] &lt;/includeonly> &lt;noinclude> __NOINDEX__ Sets categories for Asteroid Lists {{asteroid list}} &lt;/noinclude>

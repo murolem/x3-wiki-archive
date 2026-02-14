@@ -1,0 +1,3 @@
+<!-- source file: index__qb55f487a1e73.html -->
+
+{{Infobox open}} {{Infobox ware |ware=Salvage Insurance |cargoclass=- |volume=1 |minprice=510 |aveprice=560 |maxprice=610 }} {{Infobox close}} ==Official Description== Salvage Insurance allows a recoverable programme to be put into operation that will enable the pilot to retrieve vital data and credits they have amassed so far. ==Overview== You can buy Salvage Insurance at several stations. Each one gives you a single quicksave, i.d. it allows you to save without being docked at a station. ==Availability== *[[Terracorp HQ]] *[[Goner]] Temple *[[OTAS HQ]] * some Orbital Defence Stations (Terran)

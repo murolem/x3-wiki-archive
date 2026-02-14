@@ -1,0 +1,3 @@
+<!-- source file: index__qfaeb86cfaf41.html -->
+
+__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Terran |station=Matter/Anti-Matter Mine Fab |hull=1000000 |shield=9 |generator=1500 |hangar=10 |cycle=00:12:00 |productnum=[[Matter/Anti-Matter Mine]] (1) |stationprice= |reqresources=[[Energy Cells]] (170)&lt;br>[[C-Ration]] (114)&lt;br>[[Ore]] (29) |optresources=[[Hull Plating]]&lt;br>[[Matter/Anti-Matter Warhead]]&lt;br>[[Water]] }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== Matter/Anti-Matter Mine Fabs produce these devastatingly destructive devices primarily for military customers. {{Stationcategory}}

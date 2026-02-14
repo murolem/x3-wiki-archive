@@ -1,0 +1,3 @@
+<!-- source file: index__q3100f2acec03.html -->
+
+&lt;noinclude>The template for [[M1]] ship listing.[[category:Ship List Templates]]&lt;/noinclude> &lt;includeonly>{{M1category}}{{M1Table}}&lt;/includeonly>

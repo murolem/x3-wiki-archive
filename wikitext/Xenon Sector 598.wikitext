@@ -1,0 +1,3 @@
+<!-- source file: index__q2f83414ace1d.html -->
+
+{{Infobox Sector |Race=Xenon |SecLevel=Border |Population=89,204,714 |Planets=2 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|North|3500| 0| 38400|[[Zyarth's Dominion]]}} {{Gateblock2|East|40000| 0| 0|[[Xenon Sector 627]]}} {{Gateblock2|South|0| 0| -40900|[[Grand Exchange]]}} {{Gateblock/End}} }} ==Description== This newly discovered system shows that the Xenon are still concern; the sector houses a secondary production facility for Xenon vessels and is home of a large defense force. Some speculate that a Xenon core system is nearby. ==Default [[Stations]]== ==[[Asteroids]]==

@@ -1,0 +1,3 @@
+<!-- source file: index__qf385589d1bcd.html -->
+
+The word 'efficiency' refers to weapon energy efficiency, or how much damage a weapon will do for a given unit of energy. [[:Category:Capital Ships|Capital ship]] weapons tend to be the most efficient, smaller fighter weapons tend to be the least efficient and each weapon lies roughly in a line depending on its price and power. Notably efficient weapons include the [[Plasma Burst Generator|PBG]], which uses a tiny amount of energy for its class.

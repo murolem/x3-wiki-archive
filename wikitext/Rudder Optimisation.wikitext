@@ -1,0 +1,3 @@
+<!-- source file: index__qc28f7fbf1992.html -->
+
+{{Infobox open}} {{Infobox ware |ware= Rudder Optimisation |cargoclass=- |volume=1 |minprice=77 |aveprice=84 |maxprice=91 }} {{Infobox close}} ==Overview== Rudder Optimisation improves the turning rate of a ship. ==Encyclopedia Entry== This service is a time-limited special available only now. Specialists in rudder control, will hand optimise your ship's manoeuvre engine to make it easier to control as ever before. Allowing for complicated manoevres and advanced tactics. ==Availability== All Equipment Docks and most Trading Stations.

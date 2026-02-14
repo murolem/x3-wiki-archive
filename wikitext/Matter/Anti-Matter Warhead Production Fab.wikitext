@@ -1,0 +1,3 @@
+<!-- source file: index__q4647bdd25d2a.html -->
+
+__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Terran |station=M/A-M Warhead Production Fab |hull=2000000 |shield=15 |generator=1500 |hangar=10 |cycle=00:01:35 |productnum=[[Matter/Anti-Matter Warhead]] (6) |stationprice={{priceblock||3129332}} |reqresources=[[Energy Cells]] (54)&lt;br>[[Terran MRE]] (9)&lt;br>[[Ore]] (9) |optresources=[[Hull Plating]] }} {{Infobox close}} ==Overview== Makes [[Matter/Anti-Matter_Launcher|MAML]] ammo. ===Encyclopedia Entry=== This production fab manufactures Matter/Anti-Matter Warheads. ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Terran#Shipyards|Terran]]''' *{{sa|Mars}} *{{sa|Saturn}} *{{sa|The Moon}} *{{sa|Terran Unknown Sector 1}} |} {{Stationcategory}}

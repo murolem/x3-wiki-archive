@@ -1,0 +1,3 @@
+<!-- source file: index__q0389e607f855.html -->
+
+"Rate of Fire" or ROF is a measure of the repeat-firing properties of a weapon. Some, like the [[Point Singularity Projector|PSP]], have a very low ROF; others like the [[Phased Repeater Gun|PRG]] have a very high refire rate.

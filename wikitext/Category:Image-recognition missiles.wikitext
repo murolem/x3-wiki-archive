@@ -1,0 +1,3 @@
+<!-- source file: index__qf01591e1720a.html -->
+
+[[Missiles]] that seek by means of optical scanners and image-recognition technology. For categorization purposes on this Wiki, missiles with no expressly stated guidance technology are assumed to be Image-recognition missiles. [[Category:Missiles by guidance type| Image-recognition missiles]]

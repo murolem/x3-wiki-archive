@@ -1,0 +1,3 @@
+<!-- source file: index__q42d31bc318e6.html -->
+
+Flak weapons are [[capital]] ship weapons designed to suppress nearby fighter activity. They are characterised by having a very high projectile velocity, giving them excellent accuracy against fast fighters, but only mediocre range. Flying into a flak cloud is extremely damaging and disorienting for fighters, and all fighters should be kept well clear of flak-equipped capital ships. There are three flak weapons available; *[[Flak Artillery Array]] *[[Cluster Flak Array]] *[[Starburst Shockwave Cannon]]

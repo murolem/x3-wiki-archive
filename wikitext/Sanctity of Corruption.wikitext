@@ -1,0 +1,3 @@
+<!-- source file: index__q8af8165ece59.html -->
+
+{{Infobox Sector |Race=Teladi |SecLevel=Border |Population=65,055,497 |Planets=1 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|East|34000| 0| 0|[[Company Strength]]}} {{Gateblock2|South|0| 0| -39000|[[Queen's Retribution]]}} {{Gateblock/End}} }} ==Description== The Teladi who settled this region chose to do so not entirely out of the desire of profit. Knowing all to many sectors flourished from under-handed deals and kick-backs, business here remains both noble and honest, for now at least. ==Default [[Stations]]== *[[Pirate Base]] ==[[Asteroids]]== == See Also == {{Teladi Navbox}}

@@ -1,0 +1,3 @@
+<!-- source file: index__qf70ff51f6beb.html -->
+
+==note== No I really mean that it appears that 1GJ shields look like the recharge more quickly (assuming that the number is some sort of energy value) if it's time then yes, 2 GJ will recharge more quickly, but then by the same token 200 MJ shields complete recharge more quickly (although very slowly on an energy level) Consider, 1 GJ Recharge 5400 vs 2 GJ charge 5100. Assuming the units are MJ/minute then it may be advantageous to take 1 GJ shields for faster recharging, if some sort of time measure then 2 GJ shields clearly dominate. if you have evidence of how it actually works then please do share it. [[User:Madned|Madned]] 03:32, 5 September 2011 (CDT)

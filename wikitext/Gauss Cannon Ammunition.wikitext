@@ -1,0 +1,3 @@
+<!-- source file: index__q50d700258a57.html -->
+
+{{Infobox open}} {{Infobox ware |ware= Gauss Cannon Ammunition |cargoclass=L |volume=25 |minprice= |aveprice= |maxprice= }} {{Infobox close}} ==Overview== Each crate contains 200 rounds of ammunition. ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Gauss Cannon Ammunition Forge]] *Teladi [[Heavy Weapons Complex]] | *List of Race Factories where this ware is a primary resource | *List of Race Factories where this ware is a secondary resource | *List of Trading Stations where this ware is traded (sector only) |}

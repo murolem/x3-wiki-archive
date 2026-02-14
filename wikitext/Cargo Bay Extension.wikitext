@@ -1,0 +1,3 @@
+<!-- source file: index__qe7a291ba428c.html -->
+
+{{Infobox open}} {{Infobox ware |ware= Cargo Bay Extension |cargoclass=- |volume=1 |minprice=51 |aveprice=56 |maxprice=61 }} {{Infobox close}} ==Overview== Cargo Bay Extension increases cargo bay capacity. ==Encyclopedia Entry== Your cargo bay will be extended by a certain amount of cargo units using sub space compression technology. This extension will be more expensive every time you use it because of the increasing complexity of the used technology. ==Availability== All Equipment Docks and most Trading Stations.

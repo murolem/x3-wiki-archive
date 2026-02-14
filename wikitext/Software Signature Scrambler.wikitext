@@ -1,0 +1,3 @@
+<!-- source file: index__qf2ab9fd40963.html -->
+
+A [[Wares#Ship Equipment|device]] usually used in combination with [[System Override Software]]. This device prevents police scans from detecting illegal software, currently only applicable to SOS.

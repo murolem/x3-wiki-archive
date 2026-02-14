@@ -1,0 +1,3 @@
+<!-- source file: index__q39ddca4f280c.html -->
+
+&lt;table style="text-align:center;width:100%;background-color:WhiteSmoke;" cellspacing="0" cellpadding="0" >&lt;tr>&lt;th style="background-color: LightBlue;">[[Docking]]&lt;/th>&lt;/tr> &lt;tr>&lt;td>{{{1}}}&lt;/td>&lt;/tr> &lt;/table>&lt;noinclude> template for docking bays.&lt;br> simple table which will accept one parameter and place it in a row under a standard header.&lt;br> this should be fleshed out as docking rules are better understood.&lt;br> recommended format for the parameter at current is something like: &lt;nowiki>40 [[M3+]]-[[M5]]&lt;/nowiki>&lt;br> where you'd separate docking classes as with stations with line breaks. {{Shipinfoboxtool}} &lt;/noinclude>

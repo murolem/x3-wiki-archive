@@ -1,0 +1,3 @@
+<!-- source file: index__q9b22d7b77c7c.html -->
+
+__NOTOC__ {{Infobox open}} {{Infobox basicstation |faction=Paranid |station=Stock Exchange |hull= |shield= |generator= |hangar= |stationprice= }} {{Infobox close}} The High Priest Duke has authorised individuals of Paranid Notoriety Friend of Priest to gain access to the Paranid Stock Exchanges (update this with other locations) This stock exchange is located in [[Paranid Prime]]. This station buys or sells the following: *[[Advanced Satellite]] *[[Computer Components]] *[[Crystals]] *[[Majaglit]] *[[Quantum Tubes]] *[[Soja Husk]] Upgrades at this station are: *[[Cargo Bay Extension]] *[[Engine Tuning]] *[[Rudder Optimisation]] *[[Paranid Police License]] *[[Singularity Engine Time Accelerator]] {{Stationcategory}}

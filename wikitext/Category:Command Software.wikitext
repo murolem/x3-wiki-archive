@@ -1,0 +1,3 @@
+<!-- source file: index__q61bb7802950a.html -->
+
+Command software provides new functions to the on board [[autopilot]]. Each subsequent type adds new functionality but does not replace the functionality in lower types.

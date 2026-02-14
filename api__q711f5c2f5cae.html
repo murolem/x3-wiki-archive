@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+<head><script src="/script.js" type="module"></script><link href="/styles.css" rel="stylesheet">
+	<title>MediaWiki API | Archive</title>
+</head>
+<body>
+<pre>
+<span style="color:blue;">&lt;?xml version="1.0"?&gt;</span>
+<span style="color:blue;">&lt;api&gt;</span>
+  <span style="color:blue;">&lt;error code="internal_api_error_DBConnectionError" info="Exception Caught: DB connection error: Too many connections (localhost)" xml:space="preserve"&gt;</span>
+
+#0 /home/dailystunt/domains/x3wiki.com/public_html/includes/db/LoadBalancer.php(734): DatabaseBase-&gt;reportConnectionError('Unknown error (...')
+#1 /home/dailystunt/domains/x3wiki.com/public_html/includes/db/LoadBalancer.php(494): LoadBalancer-&gt;reportConnectionError(Object(DatabaseMysql))
+#2 /home/dailystunt/domains/x3wiki.com/public_html/includes/GlobalFunctions.php(3474): LoadBalancer-&gt;getConnection(-1, 'contributions', false)
+#3 /home/dailystunt/domains/x3wiki.com/public_html/includes/api/ApiQuery.php(162): wfGetDB(-1, 'contributions')
+#4 /home/dailystunt/domains/x3wiki.com/public_html/includes/api/ApiQueryBase.php(398): ApiQuery-&gt;getNamedDB('contributions', -1, 'contributions')
+#5 /home/dailystunt/domains/x3wiki.com/public_html/includes/api/ApiQueryUserContributions.php(59): ApiQueryBase-&gt;selectNamedDB('contributions', -1, 'contributions')
+#6 /home/dailystunt/domains/x3wiki.com/public_html/includes/api/ApiQuery.php(266): ApiQueryContributions-&gt;execute()
+#7 /home/dailystunt/domains/x3wiki.com/public_html/includes/api/ApiMain.php(711): ApiQuery-&gt;execute()
+#8 /home/dailystunt/domains/x3wiki.com/public_html/includes/api/ApiMain.php(360): ApiMain-&gt;executeAction()
+#9 /home/dailystunt/domains/x3wiki.com/public_html/includes/api/ApiMain.php(344): ApiMain-&gt;executeActionWithErrorHandling()
+#10 /home/dailystunt/domains/x3wiki.com/public_html/api.php(117): ApiMain-&gt;execute()
+#11 {main}
+
+<span style="color:blue;">&lt;/error&gt;</span>
+<span style="color:blue;">&lt;/api&gt;</span>
+</pre>
+</body>
+</html>
+<!-- Served in 0.057 secs. -->

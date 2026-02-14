@@ -1,0 +1,3 @@
+<!-- source file: index__q7687cc88ea72.html -->
+
+{{Infobox Sector |Race=Split |SecLevel=Border |Population=61,829,471 |Planets=1 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|North|49500| 3500| 56000|[[Rhonkar's Trial]]}} {{Gateblock2|West|-36500| 0| 0|[[Wretched Skies]]}} {{Gateblock/End}} }} ==Description== Originally deemed to be impossible to settle due to deeply drifting nebulae, The Shallows remained largely unpopulated. With recent solar flares having helped to clear the nebulae, building has continued at greater depths. Both [[Split]] and [[Boron]] forces currently contest this area, both eager to regain lost ground. ==Default [[Stations]]== ==[[Asteroids]]== == See Also == {{Split Navbox}}

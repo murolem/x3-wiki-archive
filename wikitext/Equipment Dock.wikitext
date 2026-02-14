@@ -1,0 +1,3 @@
+<!-- source file: index__qc563228ffc80.html -->
+
+==Overview== Equipment Docks are the place where ships get refitted and upgraded after being produced at a shipyard. There is usually an equipment dock located whereever there is a shipyard and they work in concert to produce fully equipped ships. ==Faction Docks== All factions maintain Equipment docks. *[[Argon Equipment Dock]] *[[Boron Equipment Dock]] *[[Paranid Equipment Dock]] *[[Split Equipment Dock]] *[[Teladi Space Equipment Dock]] *[[Orbital Defence Station]] ==Standard Services== ===Ship Upgrades=== These upgrades increase a ship's general performance. *[[Engine Tuning]] *[[Cargo Bay Extension]] *[[Rudder Optimisation]] {{Stationcategory}}

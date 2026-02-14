@@ -1,0 +1,3 @@
+<!-- source file: index__qd29dd011a945.html -->
+
+[[M8|M8 Bomber]]&lt;noinclude> creates link and label for the M8 class{{catShipclasstmplt}}&lt;/noinclude>

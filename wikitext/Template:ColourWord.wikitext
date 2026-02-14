@@ -1,0 +1,3 @@
+<!-- source file: index__qa4c5403c56a1.html -->
+
+&lt;noinclude> == Usage == Use as: &lt;pre> {{ColourWord|Word|Colour}} &lt;/pre> This makes it a clickable link of the colour listed. ===Example=== &lt;Pre> {{ColourWord|Commonwealth|orange}} &lt;/Pre> Will give: {{ColourWord|Commonwealth|orange}} &lt;/noinclude>&lt;includeonly>[[{{{1}}}|&lt;font color="{{{2}}}">{{{1}}}&lt;/font color>]]&lt;/includeonly>

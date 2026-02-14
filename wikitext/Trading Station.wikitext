@@ -1,0 +1,3 @@
+<!-- source file: index__qdb263a0b55a2.html -->
+
+==Overview== Trading Stations are the place where pilots can get basic civil services. There is usually at least one trade station per sector in faction space. ==Faction Docks== All factions maintain Trading Stations. {| class="wikitable" |Faction |Hock Docks |Hangar |- |[[Argon Trading Station]] |2 |yes |- |[[Boron Trading Station]] |1 |no |- |[[Paranid Trading Station]] |1 |no |- |[[Split Trading Station]] |3 |no |- |[[Teladi Trading Station]] |1 |yes |- |[[USC Orbital Supply Base]] |? |? |} ==Standard Services== Trading Stations offer: *[[Police license]]s *[[Cargo Bay Extension]] *[[Engine Tuning]] *[[Rudder Optimisation]] as well as some assorted trade goods dependent on faction. {{Stationcategory}} {{stub}}

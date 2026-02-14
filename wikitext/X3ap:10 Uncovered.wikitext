@@ -1,0 +1,3 @@
+<!-- source file: index__q14b44f528444.html -->
+
+Questline: [[x3ap_quests | X3:AP Quests]] # Fly to [[Harmony of Perpetuity]] # Protect Task Force [[Cerberus]] ===Completion Rewards=== (?) {{MoveBox|X3ap:9 Trial by Fire|X3ap:11 Albion Pride}}

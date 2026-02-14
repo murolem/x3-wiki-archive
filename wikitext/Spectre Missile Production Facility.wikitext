@@ -1,0 +1,3 @@
+<!-- source file: index__q8aed0b0f67b1.html -->
+
+__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Terran |station=Spectre Missile Production Facility |hull=1000000 |shield=9 |generator=2000 |hangar=10 |cycle=00:14:00 |productnum=[[Spectre Missile]] (1) |stationprice= |reqresources=[[Energy Cells]] (210)&lt;br>[[Ore]] (35)&lt;br>[[Terran MRE]] (35) |optresources=[[Matter/Anti-Matter Warhead]] }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== This facility produces the Spectre Missile. ==Availability== This factory is the only [[Terran]] weapons facility that is not for sale at [[Terran Unknown Sector 1]]. {{Stationcategory}}

@@ -1,0 +1,3 @@
+<!-- source file: index__q9aa125ae85bf.html -->
+
+The Global Decision Engine, affectionately misnomered [[Abbreviations#General|GoD]]. The Global Decision Engine helps keep the game running smoothly by removing and replacing objects in the game. Replacement of destroyed stations can be attributed to GoD although it now does it through intermediaries. Respawning Xenon Stations can be also attributed to GoD, in which case no intermediaries (TLs) are used. GoD also removes unused stations, which is how many Terran weapon factories disappear. '''Note:''' The engine only affects NPC stations, and will not affect any player-owned stations. The engine can and will remove player-placed stations from station building missions.

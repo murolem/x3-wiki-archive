@@ -1,0 +1,3 @@
+<!-- source file: index__q254c26b2ef1b.html -->
+
+{{Infobox open}} {{Infobox basicstation |faction=Argon |station=Equipment Dock |hull= |shield= |generator= |hangar= |stationprice={{priceblock||51160024}} }} {{Infobox close}} ==Overview== ==Encyclopedia Entry== ===Text=== Argon Space Equipment Docks are the places in the Argon territory to upgrade space vehicles. ===Voice Over=== Argon Space Equipment Docks are the locations in Argon territory for upgrading space vehicles. ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Argon#Shipyards|Argon]]''' *{{sa|Argon Prime}} *{{sa|Argon Sector M148}} *{{sa|Cloudbase Southeast}} *{{sa|Legend's Home}} |} {{Stationcategory}}

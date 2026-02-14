@@ -1,0 +1,3 @@
+<!-- source file: index__q9940e99126a8.html -->
+
+__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Teladi |station=Gauss Cannon Ammunition Forge |hull= |shield= |generator= |hangar= |cycle=00:00:00 |productnum=[[Gauss Cannon Ammunition]] () |stationprice={{Priceblock|Majority Shareholder|4187592}} |reqresources=[[Energy Cells]] ()&lt;br>[[Ore]] ()&lt;br>[[Nostrop Oil]] () |optresources=[[Teladianium]] }} {{Infobox close}} ==Overview== Makes Gauss Cannon Ammo. ===Encyclopedia Entry=== This weapons forge produces the Gauss Cannon Ammunition. ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Teladi#Shipyards|Teladi]]''' *{{sa|Grand Exchange}} *{{sa|Ianamus Zura}} *{{sa|Ministry of Finance}} *{{sa|PTNI Headquarters}} |} {{Stationcategory}}

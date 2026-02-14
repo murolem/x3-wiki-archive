@@ -1,0 +1,3 @@
+<!-- source file: index__q0aedef34f25b.html -->
+
+[[M1|M1 Carrier]]&lt;noinclude> template creates a link with full class name{{catShipclasstmplt}} &lt;/noinclude>

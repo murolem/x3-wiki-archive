@@ -1,0 +1,3 @@
+<!-- source file: index__q0ac3d49c8b2a.html -->
+
+{{Stub}} The Mk3 Blacklist Manager is a small addition, added by the official [[Bonus Pack]] for [[Albion Prelude]], allowing the player to add Sectors to a [[Universe Trader]]'s "blacklist" - preventing them from targetting them for trade. Note that they may still travel through these sectors to reach other destinations, so you should use them wisely. == See Also == *[[Bonus Pack]] [[Category: Bonus Package]]

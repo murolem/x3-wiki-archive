@@ -1,0 +1,3 @@
+<!-- source file: index__qb45c58be6432.html -->
+
+__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Boron |station=Ion Mine Factory |hull= |shield= |generator= |hangar= |cycle=00:00:00 |productnum=[[Tracker Mine]] () |stationprice={{Priceblock|Queen's Guard|2246368}} |reqresources=[[Energy Cells]] ()&lt;br>[[Ore]] ()&lt;br>[[Bofu]] () }} {{Infobox close}} ==Overview== Should make [[Ion Mine]]s, but the pedia may list tracker mines. NPC stations accept the following as secondary resources: *[[Quantum Tubes]] *[[Warheads]] ===Encyclopedia Entry=== Ion Mine Fabs produce these shield-sapping area-denial weapons. ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Boron#Shipyards|Boron]]''' *{{sa|Queen's Retribution}} |} {{Stationcategory}}

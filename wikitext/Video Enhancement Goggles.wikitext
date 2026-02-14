@@ -1,0 +1,3 @@
+<!-- source file: index__q67c77992c278.html -->
+
+{{Infobox open}} {{Infobox ware |ware=Video Enhancement Goggles |cargoclass=- |volume=1 |minprice=4,856 |aveprice=5,336 |maxprice=5,816 }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== Invented by the [[Argon]] during the [[Boron]] campaign, they gave their fighter pilots an advantage by enabling them to spot fighter craft from long distances. Since then this product has been adapted by the commercial sector and is now widely available in its recent shape, fitted specifically to the various races.

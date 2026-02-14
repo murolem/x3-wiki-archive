@@ -1,0 +1,3 @@
+<!-- source file: index__q844add32f449.html -->
+
+{{Infobox Sector |Race=Teladi |SecLevel=Core |Population=89,569,635 |Planets=1 |SunLevel=100 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|South|33000| 0| -46500|[[Acquisition Repository]]}} {{Gateblock2|West|-35000| 0| 0|[[Ianamus Zura]]}} {{Gateblock/End}} }} ==Description== The eternal story, of growth and development, profit and expansion; all of these things are the very essence of Teladi commerce. This Core sector specialises in high-tech goods and energy production. There are rumours that the story does not end within this region. Many will attest to the Teladi proverd that there is profit in exploration. ==Default [[Stations]]== ==[[Asteroids]]== == See Also == {{Teladi Navbox}}

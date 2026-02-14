@@ -1,0 +1,3 @@
+<!-- source file: index__q98ed5b186694.html -->
+
+&lt;includeonly>&lt;div class="notice metadata plainlinks" id="stub" style="margin-left:auto;margin-right:auto;clear:both;background-color:gray;border:2px solid black;color:white;width:27em;font-weight:bold;">''This article is a [[:Category:stub|stub]]. You can help out by expanding it. ''&lt;/div>[[Category:Stub|{{{1}}}]]&lt;/includeonly>&lt;noinclude>This is a category template for stubs. Intended to mark pages which need a little TLC to make great. usage &lt;pre>{{Stub|(sort name)}}&lt;/pre> a sort name will permit stubs to be grouped together.&lt;/noinclude>

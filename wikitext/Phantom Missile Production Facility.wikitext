@@ -1,0 +1,3 @@
+<!-- source file: index__qb23720f4db8d.html -->
+
+__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Terran |station=Phantom Missile Production Facility |hull= |shield= |generator= |hangar= |cycle=00:00:00 |productnum=[[Phantom Missile]] () |stationprice= |reqresources=[[C-Ration]] ()&lt;br>[[Energy Cells]] ()&lt;br>[[Ore]] ()&lt;br>[[Water]] () |optresources=[[Matter/Anti-Matter Warhead]] }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== This facility produces the Phantom Missile. {{Stationcategory}}

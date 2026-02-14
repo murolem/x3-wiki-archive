@@ -1,0 +1,3 @@
+<!-- source file: index__qa1af0eea877d.html -->
+
+{{Infobox Station |Name=Goner Temple |Race=Goner |Type=Dock |Capacity=0 |Hull=15,000,000 |Shield=30 x [[2 GJ Shield]] |Production=none |Docking=15 x [[M3+]]-[[M5]] / [[TS]]/[[TP]]/[[M6]]/[[M8]] }} The Goner Temple is the only known Station that the Goner own and use. {| class="wikitable sortable" |+Items |- !Name !Volume !Container Size !Max Stock |- |[[Police license|Law Enforcement License]] | | - |Upgrade |- |[[Salvage Insurance]] | | - |Upgrade |- |} {| class="wikitable sortable" |+Equipment |- !Name !Volume !Container Size !Max Stock |- |[[Jumpdrive]] | | - |Upgrade |- |[[Transporter device]] | | - |Upgrade |- |}

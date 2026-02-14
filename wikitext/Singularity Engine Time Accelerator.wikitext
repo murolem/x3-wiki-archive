@@ -1,0 +1,3 @@
+<!-- source file: index__q97c07d6bce39.html -->
+
+{{Infobox open}} {{Infobox ware |ware=Cargo Life Support System |cargoclass=- |volume=1 |minprice=230 |aveprice=252 |maxprice=274 }} {{Infobox close}} Singularity Engine Time Accelerator, also known as SETA, is a [[Wares#Ship Equipment|device]] that shortens the perceived time pilots experience. Players may employ SETA as a fast forward button causing the game's time to accelerate. This is useful for pilots experiencing long travel times or tycoons to increase economic processing.

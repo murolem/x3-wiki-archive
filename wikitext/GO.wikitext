@@ -1,0 +1,3 @@
+<!-- source file: index__q0518cea6a4b9.html -->
+
+The {{GOclass}} class is used only by the [[Goner]]s. These are unarmed vessels of roughly [[M3]] size. To capture a GO, you must make the pilot [[bail]]. The only vanilla member of the class is the [[Ranger|Goner Ranger]]. [[Category:Ship]] [[Category:Goner]]

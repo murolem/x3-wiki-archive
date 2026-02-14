@@ -1,0 +1,3 @@
+<!-- source file: index__qba433e35c3a4.html -->
+
+Questline: [[x3ap_quests | X3:AP Quests]] # Patrol [[Treasure Chest]] # Get 3 Kills ===Completion Rewards=== 1 x [[Advanced Discoverer]] {{MoveBox|X3ap_quests|X3ap:2_Jonferco_Eavesdrop}}

@@ -1,0 +1,3 @@
+<!-- source file: index__qfe643aa76a5a.html -->
+
+AKA Kha'ak Plot Take the fight to the Kha'ak sectors in this [[Missions|plot]]. ==Starting Conditions== *Omicron Lyrae *Fight 333 (~Veteran 42%), or Argon Patriot start *Argon notoriety 10 (Federation Member 0%) *Split notoriety -10 (Creature 0%) ==Walkthrough== [{{linky}}forum.egosoft.com/viewtopic.php?p=3465923#3465923 Link to the Operation Final Fury plot walkthrough on the Egosoft forums.] ==Spoilers== [[Operation: Final Fury Spoilers|Click here to be taken to a seperate page with the plot rewards listed]] {{Missions}}

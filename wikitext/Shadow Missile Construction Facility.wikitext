@@ -1,0 +1,3 @@
+<!-- source file: index__qe166494e1901.html -->
+
+__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Terran |station=Shadow Missile Construction Facility |hull=1000000 |shield=9 |generator=2000 |hangar=10 |cycle=00:30:00 |productnum=[[Shadow Missile]] (2) |stationprice={{Priceblock|Terran Servant of Terra|2934560}} |reqresources=[[Energy Cells]] (450)&lt;br>[[Ore]] (75)&lt;br>[[Terran MRE]] (75) |optresources=[[Matter/Anti-Matter Warhead]] }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== This facility produces the [[Shadow Missile]]. ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Terran#Shipyards|Terran]]''' *{{sa|Terran Unknown Sector 1}} |} {{Stationcategory}}

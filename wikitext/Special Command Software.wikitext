@@ -1,0 +1,3 @@
+<!-- source file: index__q368865c43dda.html -->
+
+{{Infobox open}} {{Infobox ware |ware=Special Command Software |cargoclass=- |volume=1 |minprice=4,170 |aveprice=4,212 |maxprice=4,254 }} {{Infobox close}} Special Command Software is a [[Wares#Ship Equipment|ship upgrade]] that allows a wide range of miscellaneous commands to be issued to the vessel it is equipped with. The options added to the [[autopilot]] depend on the ship type. ==See Also== *[[Autopilot]] [[Category:Command Software]]

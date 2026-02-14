@@ -1,0 +1,3 @@
+<!-- source file: index__q0cdbf9f73274.html -->
+
+{{see also|Universe Map}} Gate Distance is one of the values which appears on [[sectors|Sector]] details in the [[Universe map]] of [[X3: Terran Conflict]]. Gate Distance (also sometimes referred to as "Sector Size") is an indication of the area of the sector that you can expect to find content (meaning ships, stations, asteroids etc.) Gate Distance is approximately equal to: The visible radius (half the diameter) in Km of the Sector when zoomed out in sector view. So effectively it is the radius from the sector centre that you would reasonable expect to find anything, and can be used in conjunction with the explore command.

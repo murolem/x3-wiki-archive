@@ -1,0 +1,3 @@
+<!-- source file: index__q8344e1f9708d.html -->
+
+__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Terran |station=Phantom Missile Fabrication Facility |hull=1000000 |shield=9 |generator=2000 |hangar=10 |cycle=00:20:00 |productnum=[[Phantom Missile]] (3) |stationprice={{Priceblock|Terran Warrior of Io|2889112}} |reqresources=[[Energy Cells]] (300)&lt;br>[[Ore]] (50)&lt;br>[[Terran MRE]] (50) |optresources=[[Matter/Anti-Matter Warhead]] }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== This facility produces the [[Phantom Missile]]. ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Terran#Shipyards|Terran]]''' *{{sa|Terran Unknown Sector 1}} |} {{Stationcategory}}

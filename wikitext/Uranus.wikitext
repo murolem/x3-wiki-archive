@@ -1,0 +1,3 @@
+<!-- source file: index__q17d36b747e6f.html -->
+
+{{Infobox Sector |Race=Terran |SecLevel=Core |Population=55,711,517 |Planets=0 |SunLevel=150 |GateDist=100 |Gates={{Gateblock/Begin}} {{Gateblock2|North|5500| 25000| 46500|[[Uranus 2]]}} {{Gateblock2|East|41875| 0| 0|[[Saturn]]}} {{Gateblock2|South|-22500| -22000| -50000|[[Uranus 3]]}} {{Gateblock2|West|-37500| 0| 500|[[Neptune]]}} {{Gateblock/End}} }} ==Description== Without feature or feeling, Uranus stands torn between the grip of the inner system and the hopes of those who have made this silent behemoth their home. ==Default [[Stations]]== *Orbital Defense Station ==[[Asteroids]]== No asteroid known in this sector ==See Also== {{Terran Navbox}}
