@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
-<head>
-	<title>MediaWiki API</title>
+<head><script src="/script.js" type="module"></script><link href="/styles.css" rel="stylesheet">
+	<title>MediaWiki API | Archive</title>
 </head>
 <body>
 <pre>
@@ -83,7 +83,7 @@ Parameters:
   lgdomain            - Domain (optional)
   lgtoken             - Login token obtained in first request
 Example:
-  <a href="api.php?action=login&lgname=user&lgpassword=password">api.php?action=login&amp;lgname=user&amp;lgpassword=password</a>
+  <a class="new" href="api.php?action=login&lgname=user&lgpassword=password">api.php?action=login&amp;lgname=user&amp;lgpassword=password</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Login">https://www.mediawiki.org/wiki/API:Login</a>
 
@@ -91,7 +91,7 @@ Help page:
   Log out and clear session data
 Example:
   Log the current user out:
-    <a href="api.php?action=logout">api.php?action=logout</a>
+    <a class="new" href="api.php?action=logout">api.php?action=logout</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Logout">https://www.mediawiki.org/wiki/API:Logout</a>
 
@@ -131,7 +131,7 @@ Parameters:
   iwurl               - Whether to get the full URL if the title is an interwiki link
 Examples:
   <a href="api.php?action=query&prop=revisions&meta=siteinfo&titles=Main%20Page&rvprop=user|comment">api.php?action=query&amp;prop=revisions&amp;meta=siteinfo&amp;titles=Main%20Page&amp;rvprop=user|comment</a>
-  <a href="api.php?action=query&generator=allpages&gapprefix=API/&prop=revisions">api.php?action=query&amp;generator=allpages&amp;gapprefix=API/&amp;prop=revisions</a>
+  <a class="new" href="api.php?action=query&generator=allpages&gapprefix=API/&prop=revisions">api.php?action=query&amp;generator=allpages&amp;gapprefix=API/&amp;prop=revisions</a>
 Help pages:
   <a href="https://www.mediawiki.org/wiki/API:Meta">https://www.mediawiki.org/wiki/API:Meta</a>
   <a href="https://www.mediawiki.org/wiki/API:Properties">https://www.mediawiki.org/wiki/API:Properties</a>
@@ -393,7 +393,7 @@ Parameters:
                         might use 'page15-100px'. siiurlwidth must be used and be consistent with siiurlparam
                         Default: 
 Examples:
-  <a href="api.php?action=query&prop=stashimageinfo&siifilekey=124sd34rsdf567">api.php?action=query&amp;prop=stashimageinfo&amp;siifilekey=124sd34rsdf567</a>
+  <a class="new" href="api.php?action=query&prop=stashimageinfo&siifilekey=124sd34rsdf567">api.php?action=query&amp;prop=stashimageinfo&amp;siifilekey=124sd34rsdf567</a>
   <a href="api.php?action=query&prop=stashimageinfo&siifilekey=b34edoe3|bceffd4&siiurlwidth=120&siiprop=url">api.php?action=query&amp;prop=stashimageinfo&amp;siifilekey=b34edoe3|bceffd4&amp;siiurlwidth=120&amp;siiprop=url</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Properties#imageinfo_.2F_ii">https://www.mediawiki.org/wiki/API:Properties#imageinfo_.2F_ii</a>
@@ -500,8 +500,8 @@ Parameters:
                         One value: ascending, descending
                         Default: ascending
 Examples:
-  <a href="api.php?action=query&titles=File:Albert_Einstein_Head.jpg&prop=duplicatefiles">api.php?action=query&amp;titles=File:Albert_Einstein_Head.jpg&amp;prop=duplicatefiles</a>
-  <a href="api.php?action=query&generator=allimages&prop=duplicatefiles">api.php?action=query&amp;generator=allimages&amp;prop=duplicatefiles</a>
+  <a class="new" href="api.php?action=query&titles=File:Albert_Einstein_Head.jpg&prop=duplicatefiles">api.php?action=query&amp;titles=File:Albert_Einstein_Head.jpg&amp;prop=duplicatefiles</a>
+  <a class="new" href="api.php?action=query&generator=allimages&prop=duplicatefiles">api.php?action=query&amp;generator=allimages&amp;prop=duplicatefiles</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Properties#duplicatefiles_.2F_df">https://www.mediawiki.org/wiki/API:Properties#duplicatefiles_.2F_df</a>
 Generator:
@@ -515,7 +515,7 @@ Parameters:
   ppcontinue          - When more results are available, use this to continue
   ppprop              - Page prop to look on the page for. Useful for checking whether a certain page uses a certain page prop.
 Example:
-  <a href="api.php?action=query&prop=pageprops&titles=Category:Foo">api.php?action=query&amp;prop=pageprops&amp;titles=Category:Foo</a>
+  <a class="new" href="api.php?action=query&prop=pageprops&titles=Category:Foo">api.php?action=query&amp;prop=pageprops&amp;titles=Category:Foo</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Properties#pageprops_.2F_pp">https://www.mediawiki.org/wiki/API:Properties#pageprops_.2F_pp</a>
 
@@ -560,9 +560,9 @@ Parameters:
   aimime              - What MIME type to search for. e.g. image/jpeg. Disabled in Miser Mode
 Examples:
   Array:
-    <a href="api.php?action=query&list=allimages&aifrom=B">api.php?action=query&amp;list=allimages&amp;aifrom=B</a>
+    <a class="new" href="api.php?action=query&list=allimages&aifrom=B">api.php?action=query&amp;list=allimages&amp;aifrom=B</a>
   Array:
-    <a href="api.php?action=query&generator=allimages&gailimit=4&gaifrom=T&prop=imageinfo">api.php?action=query&amp;generator=allimages&amp;gailimit=4&amp;gaifrom=T&amp;prop=imageinfo</a>
+    <a class="new" href="api.php?action=query&generator=allimages&gailimit=4&gaifrom=T&prop=imageinfo">api.php?action=query&amp;generator=allimages&amp;gailimit=4&amp;gaifrom=T&amp;prop=imageinfo</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Allimages">https://www.mediawiki.org/wiki/API:Allimages</a>
 Generator:
@@ -608,11 +608,11 @@ Parameters:
                         Default: all
 Examples:
   Array:
-    <a href="api.php?action=query&list=allpages&apfrom=B">api.php?action=query&amp;list=allpages&amp;apfrom=B</a>
+    <a class="new" href="api.php?action=query&list=allpages&apfrom=B">api.php?action=query&amp;list=allpages&amp;apfrom=B</a>
   Array:
-    <a href="api.php?action=query&generator=allpages&gaplimit=4&gapfrom=T&prop=info">api.php?action=query&amp;generator=allpages&amp;gaplimit=4&amp;gapfrom=T&amp;prop=info</a>
+    <a class="new" href="api.php?action=query&generator=allpages&gaplimit=4&gapfrom=T&prop=info">api.php?action=query&amp;generator=allpages&amp;gaplimit=4&amp;gapfrom=T&amp;prop=info</a>
   Array:
-    <a href="api.php?action=query&generator=allpages&gaplimit=2&gapfilterredir=nonredirects&gapfrom=Re&prop=revisions&rvprop=content">api.php?action=query&amp;generator=allpages&amp;gaplimit=2&amp;gapfilterredir=nonredirects&amp;gapfrom=Re&amp;prop=revisions&amp;rvprop=content</a>
+    <a class="new" href="api.php?action=query&generator=allpages&gaplimit=2&gapfilterredir=nonredirects&gapfrom=Re&prop=revisions&rvprop=content">api.php?action=query&amp;generator=allpages&amp;gaplimit=2&amp;gapfilterredir=nonredirects&amp;gapfrom=Re&amp;prop=revisions&amp;rvprop=content</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Allpages">https://www.mediawiki.org/wiki/API:Allpages</a>
 Generator:
@@ -640,7 +640,7 @@ Parameters:
                         No more than 500 (5000 for bots) allowed
                         Default: 10
 Example:
-  <a href="api.php?action=query&list=alllinks&alunique=&alfrom=B">api.php?action=query&amp;list=alllinks&amp;alunique=&amp;alfrom=B</a>
+  <a class="new" href="api.php?action=query&list=alllinks&alunique=&alfrom=B">api.php?action=query&amp;list=alllinks&amp;alunique=&amp;alfrom=B</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Alllinks">https://www.mediawiki.org/wiki/API:Alllinks</a>
 Generator:
@@ -668,8 +668,8 @@ Parameters:
                         Values (separate with '|'): size, hidden
                         Default: 
 Examples:
-  <a href="api.php?action=query&list=allcategories&acprop=size">api.php?action=query&amp;list=allcategories&amp;acprop=size</a>
-  <a href="api.php?action=query&generator=allcategories&gacprefix=List&prop=info">api.php?action=query&amp;generator=allcategories&amp;gacprefix=List&amp;prop=info</a>
+  <a class="new" href="api.php?action=query&list=allcategories&acprop=size">api.php?action=query&amp;list=allcategories&amp;acprop=size</a>
+  <a class="new" href="api.php?action=query&generator=allcategories&gacprefix=List&prop=info">api.php?action=query&amp;generator=allcategories&amp;gacprefix=List&amp;prop=info</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Allcategories">https://www.mediawiki.org/wiki/API:Allcategories</a>
 Generator:
@@ -713,7 +713,7 @@ Parameters:
   auwitheditsonly     - Only list users who have made edits
   auactiveusers       - Only list users active in the last 30 days(s)
 Example:
-  <a href="api.php?action=query&list=allusers&aufrom=Y">api.php?action=query&amp;list=allusers&amp;aufrom=Y</a>
+  <a class="new" href="api.php?action=query&list=allusers&aufrom=Y">api.php?action=query&amp;list=allusers&amp;aufrom=Y</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Allusers">https://www.mediawiki.org/wiki/API:Allusers</a>
 
@@ -780,7 +780,7 @@ Parameters:
                         For example, to see only indefinite blocks on IPs, set bkshow=ip|!temp
                         Values (separate with '|'): account, !account, temp, !temp, ip, !ip, range, !range
 Examples:
-  <a href="api.php?action=query&list=blocks">api.php?action=query&amp;list=blocks</a>
+  <a class="new" href="api.php?action=query&list=blocks">api.php?action=query&amp;list=blocks</a>
   <a href="api.php?action=query&list=blocks&bkusers=Alice|Bob">api.php?action=query&amp;list=blocks&amp;bkusers=Alice|Bob</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Blocks">https://www.mediawiki.org/wiki/API:Blocks</a>
@@ -825,9 +825,9 @@ Parameters:
   cmendsortkeyprefix  - Sortkey prefix to end listing BEFORE (not at, if this value occurs it will not be included!). Can only be used with cmsort=sortkey. Overrides cmendsortkey
 Examples:
   Get first 10 pages in [[Category:Physics]]:
-    <a href="api.php?action=query&list=categorymembers&cmtitle=Category:Physics">api.php?action=query&amp;list=categorymembers&amp;cmtitle=Category:Physics</a>
+    <a class="new" href="api.php?action=query&list=categorymembers&cmtitle=Category:Physics">api.php?action=query&amp;list=categorymembers&amp;cmtitle=Category:Physics</a>
   Get page info about first 10 pages in [[Category:Physics]]:
-    <a href="api.php?action=query&generator=categorymembers&gcmtitle=Category:Physics&prop=info">api.php?action=query&amp;generator=categorymembers&amp;gcmtitle=Category:Physics&amp;prop=info</a>
+    <a class="new" href="api.php?action=query&generator=categorymembers&gcmtitle=Category:Physics&prop=info">api.php?action=query&amp;generator=categorymembers&amp;gcmtitle=Category:Physics&amp;prop=info</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Categorymembers">https://www.mediawiki.org/wiki/API:Categorymembers</a>
 Generator:
@@ -882,11 +882,11 @@ Examples:
   List the last deleted revisions of Main Page and Talk:Main Page, with content (mode 1):
     <a href="api.php?action=query&list=deletedrevs&titles=Main%20Page|Talk:Main%20Page&drprop=user|comment|content">api.php?action=query&amp;list=deletedrevs&amp;titles=Main%20Page|Talk:Main%20Page&amp;drprop=user|comment|content</a>
   List the last 50 deleted contributions by Bob (mode 2):
-    <a href="api.php?action=query&list=deletedrevs&druser=Bob&drlimit=50">api.php?action=query&amp;list=deletedrevs&amp;druser=Bob&amp;drlimit=50</a>
+    <a class="new" href="api.php?action=query&list=deletedrevs&druser=Bob&drlimit=50">api.php?action=query&amp;list=deletedrevs&amp;druser=Bob&amp;drlimit=50</a>
   List the first 50 deleted revisions in the main namespace (mode 3):
-    <a href="api.php?action=query&list=deletedrevs&drdir=newer&drlimit=50">api.php?action=query&amp;list=deletedrevs&amp;drdir=newer&amp;drlimit=50</a>
+    <a class="new" href="api.php?action=query&list=deletedrevs&drdir=newer&drlimit=50">api.php?action=query&amp;list=deletedrevs&amp;drdir=newer&amp;drlimit=50</a>
   List the first 50 deleted pages in the Talk namespace (mode 3)::
-    <a href="api.php?action=query&list=deletedrevs&drdir=newer&drlimit=50&drnamespace=1&drunique=">api.php?action=query&amp;list=deletedrevs&amp;drdir=newer&amp;drlimit=50&amp;drnamespace=1&amp;drunique=</a>
+    <a class="new" href="api.php?action=query&list=deletedrevs&drdir=newer&drlimit=50&drnamespace=1&drunique=">api.php?action=query&amp;list=deletedrevs&amp;drdir=newer&amp;drlimit=50&amp;drnamespace=1&amp;drunique=</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Deletedrevs">https://www.mediawiki.org/wiki/API:Deletedrevs</a>
 
@@ -908,8 +908,8 @@ Parameters:
                         No more than 500 (5000 for bots) allowed
                         Default: 10
 Examples:
-  <a href="api.php?action=query&list=embeddedin&eititle=Template:Stub">api.php?action=query&amp;list=embeddedin&amp;eititle=Template:Stub</a>
-  <a href="api.php?action=query&generator=embeddedin&geititle=Template:Stub&prop=info">api.php?action=query&amp;generator=embeddedin&amp;geititle=Template:Stub&amp;prop=info</a>
+  <a class="new" href="api.php?action=query&list=embeddedin&eititle=Template:Stub">api.php?action=query&amp;list=embeddedin&amp;eititle=Template:Stub</a>
+  <a class="new" href="api.php?action=query&generator=embeddedin&geititle=Template:Stub&prop=info">api.php?action=query&amp;generator=embeddedin&amp;geititle=Template:Stub&amp;prop=info</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Embeddedin">https://www.mediawiki.org/wiki/API:Embeddedin</a>
 Generator:
@@ -946,7 +946,7 @@ Parameters:
                         Default: timestamp
 Example:
   Array:
-    <a href="api.php?action=query&list=filearchive">api.php?action=query&amp;list=filearchive</a>
+    <a class="new" href="api.php?action=query&list=filearchive">api.php?action=query&amp;list=filearchive</a>
 
 <b>* list=imageusage (iu) *</b>
   Find all pages that use the given image title.
@@ -994,8 +994,8 @@ Parameters:
                         Values (separate with '|'): iwprefix, iwtitle
                         Default: 
 Examples:
-  <a href="api.php?action=query&list=iwbacklinks&iwbltitle=Test&iwblprefix=wikibooks">api.php?action=query&amp;list=iwbacklinks&amp;iwbltitle=Test&amp;iwblprefix=wikibooks</a>
-  <a href="api.php?action=query&generator=iwbacklinks&giwbltitle=Test&iwblprefix=wikibooks&prop=info">api.php?action=query&amp;generator=iwbacklinks&amp;giwbltitle=Test&amp;iwblprefix=wikibooks&amp;prop=info</a>
+  <a class="new" href="api.php?action=query&list=iwbacklinks&iwbltitle=Test&iwblprefix=wikibooks">api.php?action=query&amp;list=iwbacklinks&amp;iwbltitle=Test&amp;iwblprefix=wikibooks</a>
+  <a class="new" href="api.php?action=query&generator=iwbacklinks&giwbltitle=Test&iwblprefix=wikibooks&prop=info">api.php?action=query&amp;generator=iwbacklinks&amp;giwbltitle=Test&amp;iwblprefix=wikibooks&amp;prop=info</a>
 Generator:
   This module may be used as a generator
 
@@ -1019,8 +1019,8 @@ Parameters:
                         Values (separate with '|'): lllang, lltitle
                         Default: 
 Examples:
-  <a href="api.php?action=query&list=langbacklinks&lbltitle=Test&lbllang=fr">api.php?action=query&amp;list=langbacklinks&amp;lbltitle=Test&amp;lbllang=fr</a>
-  <a href="api.php?action=query&generator=langbacklinks&glbltitle=Test&lbllang=fr&prop=info">api.php?action=query&amp;generator=langbacklinks&amp;glbltitle=Test&amp;lbllang=fr&amp;prop=info</a>
+  <a class="new" href="api.php?action=query&list=langbacklinks&lbltitle=Test&lbllang=fr">api.php?action=query&amp;list=langbacklinks&amp;lbltitle=Test&amp;lbllang=fr</a>
+  <a class="new" href="api.php?action=query&generator=langbacklinks&glbltitle=Test&lbllang=fr&prop=info">api.php?action=query&amp;generator=langbacklinks&amp;glbltitle=Test&amp;lbllang=fr&amp;prop=info</a>
 Generator:
   This module may be used as a generator
 
@@ -1063,7 +1063,7 @@ Parameters:
                         No more than 500 (5000 for bots) allowed
                         Default: 10
 Example:
-  <a href="api.php?action=query&list=logevents">api.php?action=query&amp;list=logevents</a>
+  <a class="new" href="api.php?action=query&list=logevents">api.php?action=query&amp;list=logevents</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Logevents">https://www.mediawiki.org/wiki/API:Logevents</a>
 
@@ -1114,7 +1114,7 @@ Parameters:
                         Values (separate with '|'): edit, new, log
   rctoponly           - Only list changes which are the latest revision
 Example:
-  <a href="api.php?action=query&list=recentchanges">api.php?action=query&amp;list=recentchanges</a>
+  <a class="new" href="api.php?action=query&list=recentchanges">api.php?action=query&amp;list=recentchanges</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Recentchanges">https://www.mediawiki.org/wiki/API:Recentchanges</a>
 Generator:
@@ -1158,9 +1158,9 @@ Parameters:
                         No more than 50 (500 for bots) allowed
                         Default: 10
 Examples:
-  <a href="api.php?action=query&list=search&srsearch=meaning">api.php?action=query&amp;list=search&amp;srsearch=meaning</a>
-  <a href="api.php?action=query&list=search&srwhat=text&srsearch=meaning">api.php?action=query&amp;list=search&amp;srwhat=text&amp;srsearch=meaning</a>
-  <a href="api.php?action=query&generator=search&gsrsearch=meaning&prop=info">api.php?action=query&amp;generator=search&amp;gsrsearch=meaning&amp;prop=info</a>
+  <a class="new" href="api.php?action=query&list=search&srsearch=meaning">api.php?action=query&amp;list=search&amp;srsearch=meaning</a>
+  <a class="new" href="api.php?action=query&list=search&srwhat=text&srsearch=meaning">api.php?action=query&amp;list=search&amp;srwhat=text&amp;srsearch=meaning</a>
+  <a class="new" href="api.php?action=query&generator=search&gsrsearch=meaning&prop=info">api.php?action=query&amp;generator=search&amp;gsrsearch=meaning&amp;prop=info</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Search">https://www.mediawiki.org/wiki/API:Search</a>
 Generator:
@@ -1224,8 +1224,8 @@ Parameters:
   uctag               - Only list revisions tagged with this tag
   uctoponly           - Only list changes which are the latest revision
 Examples:
-  <a href="api.php?action=query&list=usercontribs&ucuser=YurikBot">api.php?action=query&amp;list=usercontribs&amp;ucuser=YurikBot</a>
-  <a href="api.php?action=query&list=usercontribs&ucuserprefix=217.121.114.">api.php?action=query&amp;list=usercontribs&amp;ucuserprefix=217.121.114.</a>
+  <a class="new" href="api.php?action=query&list=usercontribs&ucuser=YurikBot">api.php?action=query&amp;list=usercontribs&amp;ucuser=YurikBot</a>
+  <a class="new" href="api.php?action=query&list=usercontribs&ucuserprefix=217.121.114.">api.php?action=query&amp;list=usercontribs&amp;ucuserprefix=217.121.114.</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Usercontribs">https://www.mediawiki.org/wiki/API:Usercontribs</a>
 
@@ -1272,12 +1272,12 @@ Parameters:
   wlowner             - The name of the user whose watchlist you'd like to access
   wltoken             - Give a security token (settable in preferences) to allow access to another user's watchlist
 Examples:
-  <a href="api.php?action=query&list=watchlist">api.php?action=query&amp;list=watchlist</a>
+  <a class="new" href="api.php?action=query&list=watchlist">api.php?action=query&amp;list=watchlist</a>
   <a href="api.php?action=query&list=watchlist&wlprop=ids|title|timestamp|user|comment">api.php?action=query&amp;list=watchlist&amp;wlprop=ids|title|timestamp|user|comment</a>
   <a href="api.php?action=query&list=watchlist&wlallrev=&wlprop=ids|title|timestamp|user|comment">api.php?action=query&amp;list=watchlist&amp;wlallrev=&amp;wlprop=ids|title|timestamp|user|comment</a>
-  <a href="api.php?action=query&generator=watchlist&prop=info">api.php?action=query&amp;generator=watchlist&amp;prop=info</a>
+  <a class="new" href="api.php?action=query&generator=watchlist&prop=info">api.php?action=query&amp;generator=watchlist&amp;prop=info</a>
   <a href="api.php?action=query&generator=watchlist&gwlallrev=&prop=revisions&rvprop=timestamp|user">api.php?action=query&amp;generator=watchlist&amp;gwlallrev=&amp;prop=revisions&amp;rvprop=timestamp|user</a>
-  <a href="api.php?action=query&list=watchlist&wlowner=Bob_Smith&wltoken=d8d562e9725ea1512894cdab28e5ceebc7f20237">api.php?action=query&amp;list=watchlist&amp;wlowner=Bob_Smith&amp;wltoken=d8d562e9725ea1512894cdab28e5ceebc7f20237</a>
+  <a class="new" href="api.php?action=query&list=watchlist&wlowner=Bob_Smith&wltoken=d8d562e9725ea1512894cdab28e5ceebc7f20237">api.php?action=query&amp;list=watchlist&amp;wlowner=Bob_Smith&amp;wltoken=d8d562e9725ea1512894cdab28e5ceebc7f20237</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Watchlist">https://www.mediawiki.org/wiki/API:Watchlist</a>
 Generator:
@@ -1303,8 +1303,8 @@ Parameters:
   wrowner             - The name of the user whose watchlist you'd like to access
   wrtoken             - Give a security token (settable in preferences) to allow access to another user's watchlist
 Examples:
-  <a href="api.php?action=query&list=watchlistraw">api.php?action=query&amp;list=watchlistraw</a>
-  <a href="api.php?action=query&generator=watchlistraw&gwrshow=changed&prop=revisions">api.php?action=query&amp;generator=watchlistraw&amp;gwrshow=changed&amp;prop=revisions</a>
+  <a class="new" href="api.php?action=query&list=watchlistraw">api.php?action=query&amp;list=watchlistraw</a>
+  <a class="new" href="api.php?action=query&generator=watchlistraw&gwrshow=changed&prop=revisions">api.php?action=query&amp;generator=watchlistraw&amp;gwrshow=changed&amp;prop=revisions</a>
 Generator:
   This module may be used as a generator
 
@@ -1332,7 +1332,7 @@ Parameters:
                         No more than 500 (5000 for bots) allowed
                         Default: 10
 Example:
-  <a href="api.php?action=query&list=exturlusage&euquery=www.mediawiki.org">api.php?action=query&amp;list=exturlusage&amp;euquery=www.mediawiki.org</a>
+  <a class="new" href="api.php?action=query&list=exturlusage&euquery=www.mediawiki.org">api.php?action=query&amp;list=exturlusage&amp;euquery=www.mediawiki.org</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Exturlusage">https://www.mediawiki.org/wiki/API:Exturlusage</a>
 Generator:
@@ -1377,7 +1377,7 @@ Parameters:
                         Default: 1
   rnredirect          - Load a random redirect instead of a random page
 Example:
-  <a href="api.php?action=query&list=random&rnnamespace=0&rnlimit=2">api.php?action=query&amp;list=random&amp;rnnamespace=0&amp;rnlimit=2</a>
+  <a class="new" href="api.php?action=query&list=random&rnnamespace=0&rnlimit=2">api.php?action=query&amp;list=random&amp;rnnamespace=0&amp;rnlimit=2</a>
 Generator:
   This module may be used as a generator
 
@@ -1412,7 +1412,7 @@ Parameters:
                         Values (separate with '|'): timestamp, user, userid, comment, parsedcomment, expiry, level
                         Default: timestamp|level
 Example:
-  <a href="api.php?action=query&list=protectedtitles">api.php?action=query&amp;list=protectedtitles</a>
+  <a class="new" href="api.php?action=query&list=protectedtitles">api.php?action=query&amp;list=protectedtitles</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Protectedtitles">https://www.mediawiki.org/wiki/API:Protectedtitles</a>
 Generator:
@@ -1437,7 +1437,7 @@ Parameters:
                         No more than 500 (5000 for bots) allowed
                         Default: 10
 Example:
-  <a href="api.php?action=query&list=querypage&qppage=Ancientpages">api.php?action=query&amp;list=querypage&amp;qppage=Ancientpages</a>
+  <a class="new" href="api.php?action=query&list=querypage&qppage=Ancientpages">api.php?action=query&amp;list=querypage&amp;qppage=Ancientpages</a>
 Generator:
   This module may be used as a generator
 
@@ -1477,8 +1477,8 @@ Parameters:
   siinlanguagecode    - Language code for localised language names (best effort, use CLDR extension)
 Examples:
   <a href="api.php?action=query&meta=siteinfo&siprop=general|namespaces|namespacealiases|statistics">api.php?action=query&amp;meta=siteinfo&amp;siprop=general|namespaces|namespacealiases|statistics</a>
-  <a href="api.php?action=query&meta=siteinfo&siprop=interwikimap&sifilteriw=local">api.php?action=query&amp;meta=siteinfo&amp;siprop=interwikimap&amp;sifilteriw=local</a>
-  <a href="api.php?action=query&meta=siteinfo&siprop=dbrepllag&sishowalldb=">api.php?action=query&amp;meta=siteinfo&amp;siprop=dbrepllag&amp;sishowalldb=</a>
+  <a class="new" href="api.php?action=query&meta=siteinfo&siprop=interwikimap&sifilteriw=local">api.php?action=query&amp;meta=siteinfo&amp;siprop=interwikimap&amp;sifilteriw=local</a>
+  <a class="new" href="api.php?action=query&meta=siteinfo&siprop=dbrepllag&sishowalldb=">api.php?action=query&amp;meta=siteinfo&amp;siprop=dbrepllag&amp;sishowalldb=</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Meta#siteinfo_.2F_si">https://www.mediawiki.org/wiki/API:Meta#siteinfo_.2F_si</a>
 
@@ -1505,7 +1505,7 @@ Parameters:
                         Values (separate with '|'): blockinfo, hasmsg, groups, implicitgroups, rights, changeablegroups, options, preferencestoken,
                             editcount, ratelimits, email, realname, acceptlang, registrationdate
 Examples:
-  <a href="api.php?action=query&meta=userinfo">api.php?action=query&amp;meta=userinfo</a>
+  <a class="new" href="api.php?action=query&meta=userinfo">api.php?action=query&amp;meta=userinfo</a>
   <a href="api.php?action=query&meta=userinfo&uiprop=blockinfo|groups|rights|hasmsg">api.php?action=query&amp;meta=userinfo&amp;uiprop=blockinfo|groups|rights|hasmsg</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Meta#userinfo_.2F_ui">https://www.mediawiki.org/wiki/API:Meta#userinfo_.2F_ui</a>
@@ -1535,7 +1535,7 @@ Parameters:
   amtitle             - Page name to use as context when parsing message (for enableparser option)
   amprefix            - Return messages with this prefix
 Examples:
-  <a href="api.php?action=query&meta=allmessages&amprefix=ipb-">api.php?action=query&amp;meta=allmessages&amp;amprefix=ipb-</a>
+  <a class="new" href="api.php?action=query&meta=allmessages&amprefix=ipb-">api.php?action=query&amp;meta=allmessages&amp;amprefix=ipb-</a>
   <a href="api.php?action=query&meta=allmessages&ammessages=august|mainpage&amlang=de">api.php?action=query&amp;meta=allmessages&amp;ammessages=august|mainpage&amp;amlang=de</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Meta#allmessages_.2F_am">https://www.mediawiki.org/wiki/API:Meta#allmessages_.2F_am</a>
@@ -1620,7 +1620,7 @@ Parameters:
                         Default: 0
   suggest             - Do nothing if $wgEnableOpenSearchSuggest is false
 Example:
-  <a href="api.php?action=opensearch&search=Te">api.php?action=opensearch&amp;search=Te</a>
+  <a class="new" href="api.php?action=opensearch&search=Te">api.php?action=opensearch&amp;search=Te</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Opensearch">https://www.mediawiki.org/wiki/API:Opensearch</a>
 
@@ -1646,7 +1646,7 @@ Parameters:
   toponly             - Only show edits that are latest revisions
   showsizediff        - Show the size difference between revisions. Disabled in Miser Mode
 Example:
-  <a href="api.php?action=feedcontributions&user=Reedy">api.php?action=feedcontributions&amp;user=Reedy</a>
+  <a class="new" href="api.php?action=feedcontributions&user=Reedy">api.php?action=feedcontributions&amp;user=Reedy</a>
 
 <b>* action=feedwatchlist *</b>
   Returns a watchlist feed
@@ -1665,8 +1665,8 @@ Parameters:
   wlexcludeuser       - A user whose edits should not be shown in the watchlist
   linktodiffs         - Link to change differences instead of article pages
 Examples:
-  <a href="api.php?action=feedwatchlist">api.php?action=feedwatchlist</a>
-  <a href="api.php?action=feedwatchlist&allrev=&linktodiffs=&hours=6">api.php?action=feedwatchlist&amp;allrev=&amp;linktodiffs=&amp;hours=6</a>
+  <a class="new" href="api.php?action=feedwatchlist">api.php?action=feedwatchlist</a>
+  <a class="new" href="api.php?action=feedwatchlist&allrev=&linktodiffs=&hours=6">api.php?action=feedwatchlist&amp;allrev=&amp;linktodiffs=&amp;hours=6</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Watchlist_feed">https://www.mediawiki.org/wiki/API:Watchlist_feed</a>
 
@@ -1677,15 +1677,15 @@ Parameters:
   querymodules        - List of query module names (value of prop=, meta= or list= parameter)
 Examples:
   Whole help page:
-    <a href="api.php?action=help">api.php?action=help</a>
+    <a class="new" href="api.php?action=help">api.php?action=help</a>
   Module (action) help page:
-    <a href="api.php?action=help&modules=protect">api.php?action=help&amp;modules=protect</a>
+    <a class="new" href="api.php?action=help&modules=protect">api.php?action=help&amp;modules=protect</a>
   Query (list) modules help page:
-    <a href="api.php?action=help&querymodules=categorymembers">api.php?action=help&amp;querymodules=categorymembers</a>
+    <a class="new" href="api.php?action=help&querymodules=categorymembers">api.php?action=help&amp;querymodules=categorymembers</a>
   Query (prop) modules help page:
-    <a href="api.php?action=help&querymodules=info">api.php?action=help&amp;querymodules=info</a>
+    <a class="new" href="api.php?action=help&querymodules=info">api.php?action=help&amp;querymodules=info</a>
   Query (meta) modules help page:
-    <a href="api.php?action=help&querymodules=siteinfo">api.php?action=help&amp;querymodules=siteinfo</a>
+    <a class="new" href="api.php?action=help&querymodules=siteinfo">api.php?action=help&amp;querymodules=siteinfo</a>
 Help pages:
   <a href="https://www.mediawiki.org/wiki/API:Main_page">https://www.mediawiki.org/wiki/API:Main_page</a>
   <a href="https://www.mediawiki.org/wiki/API:FAQ">https://www.mediawiki.org/wiki/API:FAQ</a>
@@ -1719,7 +1719,7 @@ Help page:
 
 This module requires read rights
 Example:
-  <a href="api.php?action=rsd">api.php?action=rsd</a>
+  <a class="new" href="api.php?action=rsd">api.php?action=rsd</a>
 
 <b>* action=compare *</b>
   Get the difference between 2 pages
@@ -1733,7 +1733,7 @@ Parameters:
   torev               - Second revision to compare
 Example:
   Create a diff between revision 1 and 2:
-    <a href="api.php?action=compare&fromrev=1&torev=2">api.php?action=compare&amp;fromrev=1&amp;torev=2</a>
+    <a class="new" href="api.php?action=compare&fromrev=1&torev=2">api.php?action=compare&amp;fromrev=1&amp;torev=2</a>
 
 <b>* action=purge *</b>
   Purge the cache for the given titles.
@@ -1880,7 +1880,7 @@ Parameters:
   watchuser           - Watch the user/IP's user and talk pages
 Examples:
   <a href="api.php?action=block&user=123.5.5.12&expiry=3%20days&reason=First%20strike">api.php?action=block&amp;user=123.5.5.12&amp;expiry=3%20days&amp;reason=First%20strike</a>
-  <a href="api.php?action=block&user=Vandal&expiry=never&reason=Vandalism&nocreate=&autoblock=&noemail=">api.php?action=block&amp;user=Vandal&amp;expiry=never&amp;reason=Vandalism&amp;nocreate=&amp;autoblock=&amp;noemail=</a>
+  <a class="new" href="api.php?action=block&user=Vandal&expiry=never&reason=Vandalism&nocreate=&autoblock=&noemail=">api.php?action=block&amp;user=Vandal&amp;expiry=never&amp;reason=Vandalism&amp;nocreate=&amp;autoblock=&amp;noemail=</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Block">https://www.mediawiki.org/wiki/API:Block</a>
 
@@ -1897,7 +1897,7 @@ Parameters:
   gettoken            - If set, an unblock token will be returned, and no other action will be taken
   reason              - Reason for unblock (optional)
 Examples:
-  <a href="api.php?action=unblock&id=105">api.php?action=unblock&amp;id=105</a>
+  <a class="new" href="api.php?action=unblock&id=105">api.php?action=unblock&amp;id=105</a>
   <a href="api.php?action=unblock&user=Bob&reason=Sorry%20Bob">api.php?action=unblock&amp;user=Bob&amp;reason=Sorry%20Bob</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Block">https://www.mediawiki.org/wiki/API:Block</a>
@@ -2015,7 +2015,7 @@ Examples:
   Upload from a URL:
     <a href="api.php?action=upload&filename=Wiki.png&url=http%3A//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png">api.php?action=upload&amp;filename=Wiki.png&amp;url=http%3A//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png</a>
   Complete an upload that failed due to warnings:
-    <a href="api.php?action=upload&filename=Wiki.png&filekey=filekey&ignorewarnings=1">api.php?action=upload&amp;filename=Wiki.png&amp;filekey=filekey&amp;ignorewarnings=1</a>
+    <a class="new" href="api.php?action=upload&filename=Wiki.png&filekey=filekey&ignorewarnings=1">api.php?action=upload&amp;filename=Wiki.png&amp;filekey=filekey&amp;ignorewarnings=1</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Upload">https://www.mediawiki.org/wiki/API:Upload</a>
 
@@ -2053,7 +2053,7 @@ Parameters:
   ccme                - Send a copy of this mail to me
 Example:
   Send an email to the User "WikiSysop" with the text "Content":
-    <a href="api.php?action=emailuser&target=WikiSysop&text=Content">api.php?action=emailuser&amp;target=WikiSysop&amp;text=Content</a>
+    <a class="new" href="api.php?action=emailuser&target=WikiSysop&text=Content">api.php?action=emailuser&amp;target=WikiSysop&amp;text=Content</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:E-mail">https://www.mediawiki.org/wiki/API:E-mail</a>
 
@@ -2070,9 +2070,9 @@ Parameters:
   token               - A token previously acquired via prop=info
 Examples:
   Watch the page "Main Page":
-    <a href="api.php?action=watch&title=Main_Page">api.php?action=watch&amp;title=Main_Page</a>
+    <a class="new" href="api.php?action=watch&title=Main_Page">api.php?action=watch&amp;title=Main_Page</a>
   Unwatch the page "Main Page":
-    <a href="api.php?action=watch&title=Main_Page&unwatch=">api.php?action=watch&amp;title=Main_Page&amp;unwatch=</a>
+    <a class="new" href="api.php?action=watch&title=Main_Page&unwatch=">api.php?action=watch&amp;title=Main_Page&amp;unwatch=</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Watch">https://www.mediawiki.org/wiki/API:Watch</a>
 
@@ -2087,7 +2087,7 @@ Parameters:
   rcid                - Recentchanges ID to patrol
                         This parameter is required
 Example:
-  <a href="api.php?action=patrol&token=123abc&rcid=230672766">api.php?action=patrol&amp;token=123abc&amp;rcid=230672766</a>
+  <a class="new" href="api.php?action=patrol&token=123abc&rcid=230672766">api.php?action=patrol&amp;token=123abc&amp;rcid=230672766</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Patrol">https://www.mediawiki.org/wiki/API:Patrol</a>
 
@@ -2112,7 +2112,7 @@ Parameters:
                         One value: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15
 Example:
   Import [[meta:Help:Parserfunctions]] to namespace 100 with full history:
-    <a href="api.php?action=import&interwikisource=meta&interwikipage=Help:ParserFunctions&namespace=100&fullhistory=&token=123ABC">api.php?action=import&amp;interwikisource=meta&amp;interwikipage=Help:ParserFunctions&amp;namespace=100&amp;fullhistory=&amp;token=123ABC</a>
+    <a class="new" href="api.php?action=import&interwikisource=meta&interwikipage=Help:ParserFunctions&namespace=100&fullhistory=&token=123ABC">api.php?action=import&amp;interwikisource=meta&amp;interwikipage=Help:ParserFunctions&amp;namespace=100&amp;fullhistory=&amp;token=123ABC</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Import">https://www.mediawiki.org/wiki/API:Import</a>
 
@@ -2161,7 +2161,7 @@ Parameters:
   callback            - If specified, wraps the output into a given function call. For safety, all user-specific data will be restricted.
 Example:
   Format the query result in the json format:
-    <a href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=json">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=json</a>
+    <a class="new" href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=json">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=json</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Data_formats">https://www.mediawiki.org/wiki/API:Data_formats</a>
 
@@ -2173,7 +2173,7 @@ Parameters:
   callback            - If specified, wraps the output into a given function call. For safety, all user-specific data will be restricted.
 Example:
   Format the query result in the jsonfm format:
-    <a href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=jsonfm">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=jsonfm</a>
+    <a class="new" href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=jsonfm">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=jsonfm</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Data_formats">https://www.mediawiki.org/wiki/API:Data_formats</a>
 
@@ -2183,7 +2183,7 @@ Help page:
 This module requires read rights
 Example:
   Format the query result in the php format:
-    <a href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=php">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=php</a>
+    <a class="new" href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=php">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=php</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Data_formats">https://www.mediawiki.org/wiki/API:Data_formats</a>
 
@@ -2193,7 +2193,7 @@ Help page:
 This module requires read rights
 Example:
   Format the query result in the phpfm format:
-    <a href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=phpfm">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=phpfm</a>
+    <a class="new" href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=phpfm">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=phpfm</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Data_formats">https://www.mediawiki.org/wiki/API:Data_formats</a>
 
@@ -2203,7 +2203,7 @@ Help page:
 This module requires read rights
 Example:
   Format the query result in the wddx format:
-    <a href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=wddx">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=wddx</a>
+    <a class="new" href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=wddx">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=wddx</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Data_formats">https://www.mediawiki.org/wiki/API:Data_formats</a>
 
@@ -2213,7 +2213,7 @@ Help page:
 This module requires read rights
 Example:
   Format the query result in the wddxfm format:
-    <a href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=wddxfm">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=wddxfm</a>
+    <a class="new" href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=wddxfm">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=wddxfm</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Data_formats">https://www.mediawiki.org/wiki/API:Data_formats</a>
 
@@ -2227,7 +2227,7 @@ Parameters:
   includexmlnamespace - If specified, adds an XML namespace
 Example:
   Format the query result in the xml format:
-    <a href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=xml">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=xml</a>
+    <a class="new" href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=xml">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=xml</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Data_formats">https://www.mediawiki.org/wiki/API:Data_formats</a>
 
@@ -2241,7 +2241,7 @@ Parameters:
   includexmlnamespace - If specified, adds an XML namespace
 Example:
   Format the query result in the xmlfm format:
-    <a href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=xmlfm">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=xmlfm</a>
+    <a class="new" href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=xmlfm">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=xmlfm</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Data_formats">https://www.mediawiki.org/wiki/API:Data_formats</a>
 
@@ -2253,7 +2253,7 @@ Parameters:
   callback            - If specified, wraps the output into a given function call. For safety, all user-specific data will be restricted.
 Example:
   Format the query result in the yaml format:
-    <a href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=yaml">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=yaml</a>
+    <a class="new" href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=yaml">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=yaml</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Data_formats">https://www.mediawiki.org/wiki/API:Data_formats</a>
 
@@ -2265,7 +2265,7 @@ Parameters:
   callback            - If specified, wraps the output into a given function call. For safety, all user-specific data will be restricted.
 Example:
   Format the query result in the yamlfm format:
-    <a href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=yamlfm">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=yamlfm</a>
+    <a class="new" href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=yamlfm">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=yamlfm</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Data_formats">https://www.mediawiki.org/wiki/API:Data_formats</a>
 
@@ -2277,7 +2277,7 @@ Parameters:
   callback            - If specified, wraps the output into a given function call. For safety, all user-specific data will be restricted.
 Example:
   Format the query result in the rawfm format:
-    <a href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=rawfm">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=rawfm</a>
+    <a class="new" href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=rawfm">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=rawfm</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Data_formats">https://www.mediawiki.org/wiki/API:Data_formats</a>
 
@@ -2287,7 +2287,7 @@ Help page:
 This module requires read rights
 Example:
   Format the query result in the txt format:
-    <a href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=txt">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=txt</a>
+    <a class="new" href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=txt">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=txt</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Data_formats">https://www.mediawiki.org/wiki/API:Data_formats</a>
 
@@ -2297,7 +2297,7 @@ Help page:
 This module requires read rights
 Example:
   Format the query result in the txtfm format:
-    <a href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=txtfm">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=txtfm</a>
+    <a class="new" href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=txtfm">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=txtfm</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Data_formats">https://www.mediawiki.org/wiki/API:Data_formats</a>
 
@@ -2307,7 +2307,7 @@ Help page:
 This module requires read rights
 Example:
   Format the query result in the dbg format:
-    <a href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=dbg">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=dbg</a>
+    <a class="new" href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=dbg">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=dbg</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Data_formats">https://www.mediawiki.org/wiki/API:Data_formats</a>
 
@@ -2317,7 +2317,7 @@ Help page:
 This module requires read rights
 Example:
   Format the query result in the dbgfm format:
-    <a href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=dbgfm">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=dbgfm</a>
+    <a class="new" href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=dbgfm">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=dbgfm</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Data_formats">https://www.mediawiki.org/wiki/API:Data_formats</a>
 
@@ -2327,7 +2327,7 @@ Help page:
 This module requires read rights
 Example:
   Format the query result in the dump format:
-    <a href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=dump">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=dump</a>
+    <a class="new" href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=dump">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=dump</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Data_formats">https://www.mediawiki.org/wiki/API:Data_formats</a>
 
@@ -2337,7 +2337,7 @@ Help page:
 This module requires read rights
 Example:
   Format the query result in the dumpfm format:
-    <a href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=dumpfm">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=dumpfm</a>
+    <a class="new" href="api.php?action=query&meta=siteinfo&siprop=namespaces&format=dumpfm">api.php?action=query&amp;meta=siteinfo&amp;siprop=namespaces&amp;format=dumpfm</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Data_formats">https://www.mediawiki.org/wiki/API:Data_formats</a>
 

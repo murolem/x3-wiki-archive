@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-<head>
+<head><script src="/script.js" type="module"></script><link href="/styles.css" rel="stylesheet">
 <meta charset="UTF-8">
-<title>Editing Talk:X-universe - X3 Wiki</title>
+<title>Editing Talk:X-universe - X3 Wiki | Archive</title>
 <meta name="generator" content="MediaWiki 1.17.0">
 <meta name="robots" content="noindex,nofollow">
 <link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Talk:X-universe&action=edit">
 <link rel="edit" title="Edit" href="/index.php?title=Talk:X-universe&action=edit">
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)">
-<link rel="EditURI" type="application/rsd+xml" href="http://www.x3wiki.com/api.php?action=rsd">
+<link rel="EditURI" type="application/rsd+xml" href="/api.php?action=rsd">
 <link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&feed=atom">
 <link rel="stylesheet" href="/load.php?debug=false&lang=en&modules=mediawiki.legacy.commonPrint%2Cshared&only=styles&skin=monobook&*">
 <!--[if IE 8]><link rel="stylesheet" href="/skins/common/IE80Fixes.css?301" media="screen" /><![endif]-->
@@ -62,7 +62,7 @@ You are also promising us that you wrote this yourself, or copied it from a publ
 <input id="wpPreview" name="wpPreview" type="submit" tabindex="4" value="Show preview" accesskey="p" title="Preview your changes, please use this before saving! [p]">
 
 <input id="wpDiff" name="wpDiff" type="submit" tabindex="5" value="Show changes" accesskey="v" title="Show which changes you made to the text [v]">
-	<span class="editHelp"><a href="/index.php/Talk:X-universe" title="Talk:X-universe" id="mw-editform-cancel">Cancel</a> | <a target="helpwindow" href="/index.php/Help:Editing">Editing help</a> (opens in new window)</span>
+	<span class="editHelp"><a class="new" href="/index.php/Talk:X-universe" title="Talk:X-universe" id="mw-editform-cancel">Cancel</a> | <a class="new" target="helpwindow" href="/index.php/Help:Editing">Editing help</a> (opens in new window)</span>
 </div><!-- editButtons -->
 </div><!-- editOptions -->
 
@@ -75,7 +75,7 @@ You are also promising us that you wrote this yourself, or copied it from a publ
 
 </div></form>
 <div class="printfooter">
-Retrieved from "<a href="http://www.x3wiki.com/index.php/Talk:X-universe">http://www.x3wiki.com/index.php/Talk:X-universe</a>"</div>
+Retrieved from "<a class="new" href="/index.php/Talk:X-universe">/index.php/Talk:X-universe</a>"</div>
 		<div id="catlinks" class="catlinks catlinks-allhidden"></div>		<!-- end content -->
 				<div class="visualClear"></div>
 	</div>
@@ -86,33 +86,34 @@ Retrieved from "<a href="http://www.x3wiki.com/index.php/Talk:X-universe">http:/
 		<div class="pBody">
 			<ul>
 				 <li id="ca-nstab-main"><a href="/index.php/X-universe" title="View the content page [c]" accesskey="c">Page</a></li>
-				 <li id="ca-talk" class="selected new"><a href="/index.php?title=Talk:X-universe&action=edit&redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
-				 <li id="ca-edit" class="selected istalk"><a href="/index.php?title=Talk:X-universe&action=edit" title="You can edit this page. Please use the preview button before saving">Create</a></li>
-				 <li id="ca-addsection"><a href="/index.php?title=Talk:X-universe&action=edit&section=new" title="Start a new section [+]" accesskey="+">+</a></li>
+				 <li id="ca-talk" class="selected new"><a class="new" href="/index.php?title=Talk:X-universe&action=edit&redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit" class="selected istalk new"><a class="new" href="/index.php?title=Talk:X-universe&action=edit" title="You can edit this page. Please use the preview button before saving">Create</a></li>
+				 <li class="new" id="ca-addsection"><a class="new" href="/index.php?title=Talk:X-universe&action=edit&section=new" title="Start a new section [+]" accesskey="+">+</a></li>
 			</ul>
 		</div>
 	</div>
-	<div class="portlet" id="p-personal">
-		<h5>Personal tools</h5>
-		<div class="pBody">
-			<ul>
-				<li id="pt-anonuserpage"><a href="/index.php/User:174.129.228.67" title="The user page for the IP address you are editing as [.]" accesskey="." class="new">174.129.228.67</a></li>
-				<li id="pt-anontalk"><a href="/index.php/User_talk:174.129.228.67" title="Discussion about edits from this IP address [n]" accesskey="n" class="new">Talk for this IP address</a></li>
-				<li id="pt-anonlogin"><a href="/index.php?title=Special:UserLogin&returnto=Talk:X-universe&returntoquery=action%3Dedit%26redlink%3D1" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
-			</ul>
-		</div>
-	</div>
+	
 	<div class="portlet" id="p-logo">
-		<a style="background-image: url(http://www.x3wiki.com/x3.jpg);" href="/index.php/Main_Page" title="Visit the main page"></a>
+		<a style="background-image: url(/x3.jpg);" href="/index.php/Main_Page" title="Visit the main page"></a>
 	</div>
 	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
-	<div class="generated-sidebar portlet" id="p-navigation">
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form id="searchform">
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="searchInput" title="Search X3 Wiki" accesskey="f" type="search" name="search">
+				<input type="submit" name="go" class="searchButton" id="searchGoButton" value="Go" title="Go to a page with this exact name if exists">&#160;
+				<input type="submit" name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text">
+			</form>
+		</div>
+	</div><div class="generated-sidebar portlet" id="p-navigation">
 		<h5>Navigation</h5>
 		<div class="pBody">
 			<ul>
 				<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
 				<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
-				<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-randompage"><a href="javascript:void(0)" title="Load a random page [x]" accesskey="x">Random page</a></li>
 				<li id="n-help"><a href="/index.php/Help:Contents" title="The place to find out">Help</a></li>
 				<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
 			</ul>
@@ -144,22 +145,12 @@ Retrieved from "<a href="http://www.x3wiki.com/index.php/Talk:X-universe">http:/
 			</ul>
 		</div>
 	</div>
-	<div id="p-search" class="portlet">
-		<h5><label for="searchInput">Search</label></h5>
-		<div id="searchBody" class="pBody">
-			<form action="/index.php" id="searchform">
-				<input type="hidden" name="title" value="Special:Search">
-				<input id="searchInput" title="Search X3 Wiki" accesskey="f" type="search" name="search">
-				<input type="submit" name="go" class="searchButton" id="searchGoButton" value="Go" title="Go to a page with this exact name if exists">&#160;
-				<input type="submit" name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text">
-			</form>
-		</div>
-	</div>
+	
 	<div class="portlet" id="p-tb">
 		<h5>Toolbox</h5>
 		<div class="pBody">
 			<ul>
-				<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Talk:X-universe" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li class="new" id="t-whatlinkshere"><a class="new" href="/index.php/Special:WhatLinksHere/Talk:X-universe" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
 <li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
 			</ul>
 		</div>

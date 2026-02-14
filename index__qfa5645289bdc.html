@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-<head>
+<head><script src="/script.js" type="module"></script><link href="/styles.css" rel="stylesheet">
 <meta charset="UTF-8">
-<title>Kha'ak Destroyer - X3 Wiki</title>
+<title>Kha'ak Destroyer - X3 Wiki | Archive</title>
 <meta name="generator" content="MediaWiki 1.17.0">
 <meta name="robots" content="noindex,follow">
 <link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Kha%27ak_Destroyer&action=edit">
 <link rel="edit" title="Edit" href="/index.php?title=Kha%27ak_Destroyer&action=edit">
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)">
-<link rel="EditURI" type="application/rsd+xml" href="http://www.x3wiki.com/api.php?action=rsd">
+<link rel="EditURI" type="application/rsd+xml" href="/api.php?action=rsd">
 <link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&feed=atom">
 <link rel="stylesheet" href="/load.php?debug=false&lang=en&modules=mediawiki.legacy.commonPrint%2Cshared&only=styles&printable=1&skin=monobook&*">
 <meta name="ResourceLoaderDynamicStyles" content="">
@@ -328,7 +328,7 @@ Expensive parser function count: 0/100
 
 <!-- Saved in parser cache with key dailystunt_wiki:pcache:idhash:278-0!*!0!!en!*!edit=0 and timestamp 20110909211700 -->
 <div class="printfooter">
-Retrieved from "<a href="http://www.x3wiki.com/index.php/Kha%27ak_Destroyer">http://www.x3wiki.com/index.php/Kha%27ak_Destroyer</a>"</div>
+Retrieved from "<a href="/index.php/Kha%27ak_Destroyer">/index.php/Kha%27ak_Destroyer</a>"</div>
 		<div id="catlinks" class="catlinks"><div id="mw-normal-catlinks"><a href="/index.php/Special:Categories" title="Special:Categories">Categories</a>: <span dir="ltr"><a href="/index.php/Category:M2" title="Category:M2">M2</a></span> | <span dir="ltr"><a href="/index.php/Category:Capital_Ships" title="Category:Capital Ships">Capital Ships</a></span> | <span dir="ltr"><a href="/index.php/Category:Board_to_Capture" title="Category:Board to Capture">Board to Capture</a></span></div><div id="mw-hidden-catlinks" class="mw-hidden-cats-hidden">Hidden categories: <span dir="ltr"><a href="/index.php/Category:Alpha_Kyon_Emitter" title="Category:Alpha Kyon Emitter">Alpha Kyon Emitter</a></span> | <span dir="ltr"><a href="/index.php/Category:Beta_Kyon_Emitter" title="Category:Beta Kyon Emitter">Beta Kyon Emitter</a></span> | <span dir="ltr"><a href="/index.php/Category:Gamma_Kyon_Emitter" title="Category:Gamma Kyon Emitter">Gamma Kyon Emitter</a></span></div></div>		<!-- end content -->
 				<div class="visualClear"></div>
 	</div>
@@ -339,31 +339,34 @@ Retrieved from "<a href="http://www.x3wiki.com/index.php/Kha%27ak_Destroyer">htt
 		<div class="pBody">
 			<ul>
 				 <li id="ca-nstab-main" class="selected"><a href="/index.php/Kha%27ak_Destroyer" title="View the content page [c]" accesskey="c">Page</a></li>
-				 <li id="ca-talk" class="new"><a href="/index.php?title=Talk:Kha%27ak_Destroyer&action=edit&redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
-				 <li id="ca-edit"><a href="/index.php?title=Kha%27ak_Destroyer&action=edit" title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
-				 <li id="ca-history"><a href="/index.php?title=Kha%27ak_Destroyer&action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				 <li id="ca-talk" class="new"><a class="new" href="/index.php?title=Talk:Kha%27ak_Destroyer&action=edit&redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li class="new" id="ca-edit"><a class="new" href="/index.php?title=Kha%27ak_Destroyer&action=edit" title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li class="new" id="ca-history"><a class="new" href="/index.php?title=Kha%27ak_Destroyer&action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
 			</ul>
 		</div>
 	</div>
-	<div class="portlet" id="p-personal">
-		<h5>Personal tools</h5>
-		<div class="pBody">
-			<ul>
-				<li id="pt-login"><a href="/index.php?title=Special:UserLogin&returnto=Kha%27ak_Destroyer&returntoquery=printable%3Dyes" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
-			</ul>
-		</div>
-	</div>
+	
 	<div class="portlet" id="p-logo">
-		<a style="background-image: url(http://www.x3wiki.com/x3.jpg);" href="/index.php/Main_Page" title="Visit the main page"></a>
+		<a style="background-image: url(/x3.jpg);" href="/index.php/Main_Page" title="Visit the main page"></a>
 	</div>
 	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
-	<div class="generated-sidebar portlet" id="p-navigation">
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form id="searchform">
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="searchInput" title="Search X3 Wiki" accesskey="f" type="search" name="search">
+				<input type="submit" name="go" class="searchButton" id="searchGoButton" value="Go" title="Go to a page with this exact name if exists">&#160;
+				<input type="submit" name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text">
+			</form>
+		</div>
+	</div><div class="generated-sidebar portlet" id="p-navigation">
 		<h5>Navigation</h5>
 		<div class="pBody">
 			<ul>
 				<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
 				<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
-				<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-randompage"><a href="javascript:void(0)" title="Load a random page [x]" accesskey="x">Random page</a></li>
 				<li id="n-help"><a href="/index.php/Help:Contents" title="The place to find out">Help</a></li>
 				<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
 			</ul>
@@ -395,17 +398,7 @@ Retrieved from "<a href="http://www.x3wiki.com/index.php/Kha%27ak_Destroyer">htt
 			</ul>
 		</div>
 	</div>
-	<div id="p-search" class="portlet">
-		<h5><label for="searchInput">Search</label></h5>
-		<div id="searchBody" class="pBody">
-			<form action="/index.php" id="searchform">
-				<input type="hidden" name="title" value="Special:Search">
-				<input id="searchInput" title="Search X3 Wiki" accesskey="f" type="search" name="search">
-				<input type="submit" name="go" class="searchButton" id="searchGoButton" value="Go" title="Go to a page with this exact name if exists">&#160;
-				<input type="submit" name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text">
-			</form>
-		</div>
-	</div>
+	
 	<div class="portlet" id="p-tb">
 		<h5>Toolbox</h5>
 		<div class="pBody">
@@ -413,7 +406,7 @@ Retrieved from "<a href="http://www.x3wiki.com/index.php/Kha%27ak_Destroyer">htt
 				<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Kha%27ak_Destroyer" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
 				<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Kha%27ak_Destroyer" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
 <li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
-				<li id="t-permalink"><a href="/index.php?title=Kha%27ak_Destroyer&oldid=4132" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+				<li class="new" id="t-permalink"><a class="new" href="/index.php?title=Kha%27ak_Destroyer&oldid=4132" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
 		</div>
 	</div>
 </div><!-- end of the left (by default at least) column -->
