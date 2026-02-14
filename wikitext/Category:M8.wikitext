@@ -1,3 +1,6 @@
-<!-- source file: index__qa201ea240cff.html -->
+This page holds links to pages categorized M8.
 
-This page holds links to pages categorized M8. M8 ships are the bombers of the X universe. {{Shipcategory}} [[Category:Escort]]
+M8 ships are the bombers of the X universe.
+
+{{Shipcategory}}
+[[Category:Escort]]

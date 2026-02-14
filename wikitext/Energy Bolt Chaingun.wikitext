@@ -1,3 +1,116 @@
-<!-- source file: index__q8a6ec5c9d6a5.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Energy Bolt Chaingun
+|hulldam= 1400
+|shielddam= 8900
+|range= 2.81 
+|rof= 394 
+|shotspeed= 604 
+|maxweapenergy= 900 
+|shotcost= 6
+}}
+{{Infobox ware
+|ware=Energy Bolt Chaingun
+|cargoclass=S
+|volume=1
+|minprice= 129984
+|aveprice= 151144
+|maxprice= 172304
+}}
+{{Infobox close}}
+==Overview==
+The ammunition based Energy Bolt Chaingun, or [[Abbreviations|EBC]], is roughly equivalent on terms of damage potential to the [[High Energy Plasma Thrower|HEPT]], and plays the similar heavy fighter/medium corvette weapon role.
 
-{{Infobox open}} {{Infobox weapon |weapon=Energy Bolt Chaingun |hulldam= 1400 |shielddam= 8900 |range= 2.81 |rof= 394 |shotspeed= 604 |maxweapenergy= 900 |shotcost= 6 }} {{Infobox ware |ware=Energy Bolt Chaingun |cargoclass=S |volume=1 |minprice= 129984 |aveprice= 151144 |maxprice= 172304 }} {{Infobox close}} ==Overview== The ammunition based Energy Bolt Chaingun, or [[Abbreviations|EBC]], is roughly equivalent on terms of damage potential to the [[High Energy Plasma Thrower|HEPT]], and plays the similar heavy fighter/medium corvette weapon role. ==Encyclopedia Entry== This laser is used in larger weapon systems and by many small to medium fighters. The Energy Bolt Chaingun was designed by the Teladi as an ammo-based alternative to the energy-hungry HEPT and [[PBE]]. It fires "bolts" of stored energy designed to damage enemy ships as effectively as any energy or plasma based weapon, while putting less strain on the ship's generator. This weapon requires special [[Weapons#Ammunition Based Weapons|ammunition]]. ==Commentary== Despite dealing slightly less damage per second than the ubiquitous [[High Energy Plasma Thrower|HEPT]] it boasts slightly higher accuracy due to its better shot speed and frequency, more than making up for slightly inferior damage, and can even result in the EBC dealing more dps to a moving target. &lt;br/> Featuring 0.6km more range than the HEPT, it can be fired earlier, helping you get hits on incoming fighters before they can fire back. &lt;br/> Being an ammo-based weapon, it does not drain a ship's energy reserves, allowing the EBC-equipped ship to keep its non-ammo-based weapons firing for longer. Ammunition does however demand additional cargo space and logistical capacity/micromanagement, especially for significant EBC deployment given the rapidity with which ammunition is depleted. Like most ammo based weapons the EBC is [[Teladi]]an in origin. Also like any ammo-based weapon it is emphatically not recommended for OOS duty; a [[PAC]]/[[HEPT]]/[[IPG]] loadout would make a much better choice, especially in turrets. one round of OOS combat depletes an entire ammo crate as a rule. Ammo: [[Energy Bolt Chaingun Ammunition]] ==Known Compatible Ships== {| cellpadding="5" |- valign="top" | *[[Agamemnon]] *[[Akuma]] *[[Aquilo]] *[[Auster Hauler]] *[[Blastclaw]] *[[Boreas]] *[[Brigantine]] *[[Carrack]] *[[Centaur]] *[[Cerberus]] *[[Chimera]] *[[Cobra]] | *[[Colossus]] *[[Condor]] *[[Deimos]] *[[Dragon]] *[[Eclipse]] *[[Elephant]] *[[Falcon]] *[[Galleon]] *[[Gannet]] *[[Gladiator]] *[[Griffon]] *[[Hades]] | *[[Heavy Centaur]] *[[Heavy Dragon]] *[[Heavy Hydra]] *[[Heavy Nemesis]] *[[Heavy Osprey]] *[[Hoshi]] *[[Hydra]] *[[Hyperion]] *[[Kea]] *[[Mamba]] *[[Mammoth]] *[[Medusa]] | *[[Mobile Pirate Base Hauler]] *[[Nemesis]] *[[Notus Hauler]] *[[Nova]] *[[Odysseus]] *[[Orca]] *[[Osprey]] *[[Panther]] *[[Peregrine]] *[[Perseus]] *[[Phoenix]] *[[Python]] | *[[Raptor]] *[[Ryu]] *[[Shark]] *[[Shrike]] *[[Shuri]] *[[Sirokos]] *[[Skate]] *[[Skiron]] *[[Tenjin]] *[[Thresher]] *[[Tiger]] *[[Titan (ship)]] | *[[Truelight Seeker]] *[[Venti]] *[[Viper]] *[[Xenon J]] *[[Xenon K]] *[[Xenon Q]] *[[Zeus]] |} ==Available at Known Docks== [[Light Weapons Complex|Teladi Light Weapons Complex]] [[Energy Bolt Chaingun Forge]] available to purchase by players in some [[Teladi Shipyard| Teladi Shipyards]].
+==Encyclopedia Entry==
+This laser is used in larger weapon systems and by many small to medium fighters. The Energy Bolt Chaingun was designed by the Teladi as an ammo-based alternative to the energy-hungry HEPT and [[PBE]]. It fires "bolts" of stored energy designed to damage enemy ships as effectively as any energy or plasma based weapon, while putting less strain on the ship's generator. This weapon requires special [[Weapons#Ammunition Based Weapons|ammunition]].
+==Commentary==
+Despite dealing slightly less damage per second than the ubiquitous [[High Energy Plasma Thrower|HEPT]] it boasts slightly higher accuracy due to its better shot speed and frequency, more than making up for slightly inferior damage, and can even result in the EBC dealing more dps to a moving target. <br/>
+Featuring 0.6km more range than the HEPT, it can be fired earlier, helping you get hits on incoming fighters before they can fire back. <br/>
+Being an ammo-based weapon, it does not drain a ship's energy reserves, allowing the EBC-equipped ship to keep its non-ammo-based weapons firing for longer. Ammunition does however demand additional cargo space and logistical capacity/micromanagement, especially for significant EBC deployment given the rapidity with which ammunition is depleted.
+
+Like most ammo based weapons the EBC is [[Teladi]]an in origin. Also like any ammo-based weapon it is emphatically not recommended for OOS duty; a [[PAC]]/[[HEPT]]/[[IPG]] loadout would make a much better choice, especially in turrets. one round of OOS combat depletes an entire ammo crate as a rule.
+
+Ammo: [[Energy Bolt Chaingun Ammunition]]
+
+==Known Compatible Ships==
+{| cellpadding="5"
+|- valign="top"
+|
+*[[Agamemnon]]
+*[[Akuma]]
+*[[Aquilo]]
+*[[Auster Hauler]]
+*[[Blastclaw]]
+*[[Boreas]]
+*[[Brigantine]]
+*[[Carrack]]
+*[[Centaur]]
+*[[Cerberus]]
+*[[Chimera]]
+*[[Cobra]]
+|
+*[[Colossus]]
+*[[Condor]]
+*[[Deimos]]
+*[[Dragon]]
+*[[Eclipse]]
+*[[Elephant]]
+*[[Falcon]]
+*[[Galleon]]
+*[[Gannet]]
+*[[Gladiator]]
+*[[Griffon]]
+*[[Hades]]
+|
+*[[Heavy Centaur]]
+*[[Heavy Dragon]]
+*[[Heavy Hydra]]
+*[[Heavy Nemesis]]
+*[[Heavy Osprey]]
+*[[Hoshi]]
+*[[Hydra]]
+*[[Hyperion]]
+*[[Kea]]
+*[[Mamba]]
+*[[Mammoth]]
+*[[Medusa]]
+|
+*[[Mobile Pirate Base Hauler]]
+*[[Nemesis]]
+*[[Notus Hauler]]
+*[[Nova]]
+*[[Odysseus]]
+*[[Orca]]
+*[[Osprey]]
+*[[Panther]]
+*[[Peregrine]]
+*[[Perseus]]
+*[[Phoenix]]
+*[[Python]]
+|
+*[[Raptor]]
+*[[Ryu]]
+*[[Shark]]
+*[[Shrike]]
+*[[Shuri]]
+*[[Sirokos]]
+*[[Skate]]
+*[[Skiron]]
+*[[Tenjin]]
+*[[Thresher]]
+*[[Tiger]]
+*[[Titan (ship)]]
+|
+*[[Truelight Seeker]]
+*[[Venti]]
+*[[Viper]]
+*[[Xenon J]]
+*[[Xenon K]]
+*[[Xenon Q]]
+*[[Zeus]]
+|}
+
+==Available at Known Docks==
+[[Light Weapons Complex|Teladi Light Weapons Complex]]
+
+[[Energy Bolt Chaingun Forge]] available to purchase by players in some [[Teladi Shipyard| Teladi Shipyards]].

@@ -1,3 +1,45 @@
-<!-- source file: index__qb0bc420e7eef.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station= Heavy Shield Production Complex
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=Varies
+|productnum=[[Shields#2 GJ|2 GJ Shield]] <br>[[Shields#1 GJ|1 GJ Shield]]
+|stationprice=
+|reqresources=[[Energy Cells]] <br>[[Ore]] <br>[[Food]] by Race
+|optresources=[[Quantum Tubes]]
+}}
+{{Infobox close}}
+==Overview==
+Heavy Shield Production Complex are NPC factories that produce heavy shields from [[Energy Cells]], [[Ore]] and [[Food]]. 
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction= |station= Heavy Shield Production Complex |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=Varies |productnum=[[Shields#2 GJ|2 GJ Shield]] &lt;br>[[Shields#1 GJ|1 GJ Shield]] |stationprice= |reqresources=[[Energy Cells]] &lt;br>[[Ore]] &lt;br>[[Food]] by Race |optresources=[[Quantum Tubes]] }} {{Infobox close}} ==Overview== Heavy Shield Production Complex are NPC factories that produce heavy shields from [[Energy Cells]], [[Ore]] and [[Food]]. These stations will buy [[Quantum Tubes]] as a secondary resource. ===Encyclopedia Entry=== This production complex manufactures heavy shields. ==Race-specific attributes== {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |+ |-style="background-color:LightGray;text-align:center;" !Race!!Food |- style="{{Colour/Argon}}" | [[Argon]] || [[Meatsteak Cahoonas]] |- style="{{Colour/Boron}}" | [[Boron]] || [[Bofu]] |- style="{{Colour/Paranid}}" | [[Paranid]] || [[Soja Husk]] |- style="{{Colour/Split}}" | [[Split]] || [[Rastar Oil]] |- style="{{Colour/Teladi}}" | [[Teladi]] || [[Nostrop Oil]] |} ==Availability== Not for sale. {{Stationcategory}}
+These stations will buy [[Quantum Tubes]] as a secondary resource.
+
+===Encyclopedia Entry===
+This production complex manufactures heavy shields.
+
+==Race-specific attributes==
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|+
+|-style="background-color:LightGray;text-align:center;"
+!Race!!Food
+|- style="{{Colour/Argon}}"
+| [[Argon]] || [[Meatsteak Cahoonas]]
+|- style="{{Colour/Boron}}"
+| [[Boron]] || [[Bofu]]
+|- style="{{Colour/Paranid}}"
+| [[Paranid]] || [[Soja Husk]]
+|- style="{{Colour/Split}}"
+| [[Split]] || [[Rastar Oil]]
+|- style="{{Colour/Teladi}}"
+| [[Teladi]] || [[Nostrop Oil]]
+|}
+
+==Availability==
+Not for sale.
+
+{{Stationcategory}}

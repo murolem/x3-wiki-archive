@@ -1,3 +1,155 @@
-<!-- source file: index__q25e1e50b4d51.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= I
+|Faction=Xenon
+|Class={{M2+class}}
+|Priceblock={{Priceblock|| 85240440 }}
+|Minspeed= 32.6
+|Maxspeed= 48.9
+|Minaccel= 3
+|Maxaccel= 5
+|Minsteer= 0.3
+|Maxsteer= 0.5
+|Hull= 7000000
+|Maxshield=2 GJ
+|Shieldslots=6
+|Maxshieldstrength=12000
+|Shieldreactor= 21000
+|Cargoclass=XL
+|Mincargo= 7500
+|Maxcargo= 12000
+|Lasercap= 515000
+|Laserrecharge=10994
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Missileturret|Slot=Rear|Lcount=3}}
+{{Gunslot
+|Slot=Front
+|Guncount=10
+|ire=0|pac=0|hept=0|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=1|pbe=0|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=0|psp=1|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=8
+|ire=0|pac=0|hept=0|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=1|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=1|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=8
+|ire=0|pac=0|hept=0|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=1|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=1|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Top
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=1|
+cfaa=1|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Bottom
+|Guncount=6
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=1|
+cfaa=1|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
 
-{{Infobox open}} {{Infobox variant |Variant= I |Faction=Xenon |Class={{M2+class}} |Priceblock={{Priceblock|| 85240440 }} |Minspeed= 32.6 |Maxspeed= 48.9 |Minaccel= 3 |Maxaccel= 5 |Minsteer= 0.3 |Maxsteer= 0.5 |Hull= 7000000 |Maxshield=2 GJ |Shieldslots=6 |Maxshieldstrength=12000 |Shieldreactor= 21000 |Cargoclass=XL |Mincargo= 7500 |Maxcargo= 12000 |Lasercap= 515000 |Laserrecharge=10994 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Missileturret|Slot=Rear|Lcount=3}} {{Gunslot |Slot=Front |Guncount=10 |ire=0|pac=0|hept=0| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=1|pbe=0| isr=1|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=0|psp=1| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Right |Guncount=8 |ire=0|pac=0|hept=0| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=1|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=1| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Left |Guncount=8 |ire=0|pac=0|hept=0| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=1|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=1| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Top |Guncount=8 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=1| cfaa=1|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Bottom |Guncount=6 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=1| cfaa=1|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The Xenon I may be the most powerful [[M2+]] in Albion Prelude. This ship's power rivals the [[Valhalla|ATF Valhalla]], with massive forward firepower and massive shielding. Its introduction came concurrently with the [[Megalodon|Boron Megalodon]], the [[Kyoto|Terran Kyoto]] and the [[Valhalla|ATF Valhalla]] [[M2+|Super Heavy Destroyers]]. ==Background== This powerful destroyer has not been seen anywhere before. It closely follows the standard Xenon design principles, and appears to be a direct response to recent developments in the super-heavy destroyer field. The exact power and threat levels of this ship are not known, but it is advised to run as far away as possible at the first sight of this ship. Like all other Xenon ships, it still contains a redundant crew deck, theoretically enabling living creatures to pilot it. ==Physical Characteristics== The basic shape of the Xenon I is similar to the [[K|Xenon K]]. It is a long flat destroyer, but its shiny black hull with its various red lights make it stand out compared to the other Xenon capital ships. The I's engine exhaust fumes are a unique pink color, not seen on any other capital ship. A screenshot showing the I Xenon is available [{{linky}}image.noelshack.com/fichiers/2012/20/1337199730-2012-05-11_00001.jpg here]. == Combat == The I has some of the strongest shields of any destroyer in Albion Prelude, at 12 GJ, and backed by the most powerful shield generators available, capable of recharging the shields effectively. In addition, the ship has incredible forward firepower, capable of bringing 10 PPCs or PSPs to bear on its front turret, backed up by the game's strongest laser generator. In addition, it is the only ship other than [[M7M]]s capable of a Missile Barrage, which it can do with any of its compatible missiles. The I has only 3 launch tubes to a Missile Frigate's 16, but the additional firepower and wider missile selection makes the I a monster. This turret can also be used defensively if equiped with mosquito missiles to provide an extremely effective anti-missile defence. The I lacks rear turrets, but it is flat enough that this blind spot is not completely safe to fly in. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Hornet Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] *[[Cyclone Missile]] | *[[Tornado Missile]] *[[Typhoon Missile]] *[[Firestorm Torpedo]] *[[Beluga Missile]] | *[[Hammerhead Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] *[[Poltergeist Missile]] |} == Availability == Like other Xenon ships, it is possible to see the ship available for "sale" at Xenon shipyards, but it is never possible to actually land and purchase them, so the I must be boarded to capture. == Suggested Roles== If you manage to capture a Xenon I, you have one of the strongest M2+ destroyers in your hands. Like other Xenon ships, it is frequently more useful in player hands than the AI, but it is deadly no matter its pilot. == See Also== {{M2+}} [[Category:Xenon ships]]
+The Xenon I may be the most powerful [[M2+]] in Albion Prelude.  This ship's power rivals the [[Valhalla|ATF Valhalla]], with massive forward firepower and massive shielding.  Its introduction came concurrently with the [[Megalodon|Boron Megalodon]], the [[Kyoto|Terran Kyoto]] and the [[Valhalla|ATF Valhalla]] [[M2+|Super Heavy Destroyers]].
+
+==Background==
+This powerful destroyer has not been seen anywhere before. It closely follows the standard Xenon design principles, and appears to be a direct response to recent developments in the super-heavy destroyer field. The exact power and threat levels of this ship are not known, but it is advised to run as far away as possible at the first sight of this ship. Like all other Xenon ships, it still contains a redundant crew deck, theoretically enabling living creatures to pilot it.
+
+==Physical Characteristics==
+
+The basic shape of the Xenon I is similar to the [[K|Xenon K]]. It is a long flat destroyer, but its shiny black hull with its various red lights make it stand out compared to the other Xenon capital ships.
+The I's engine exhaust fumes are a unique pink color, not seen on any other capital ship.
+
+A screenshot showing the I Xenon is available [{{linky}}image.noelshack.com/fichiers/2012/20/1337199730-2012-05-11_00001.jpg here].
+
+== Combat ==
+
+The I has some of the strongest shields of any destroyer in Albion Prelude, at 12 GJ, and backed by the most powerful shield generators available, capable of recharging the shields effectively. In addition, the ship has incredible forward firepower, capable of bringing 10 PPCs or PSPs to bear on its front turret, backed up by the game's strongest laser generator.  In addition, it is the only ship other than [[M7M]]s capable of a Missile Barrage, which it can do with any of its compatible missiles.  The I has only 3 launch tubes to a Missile Frigate's 16, but the additional firepower and wider missile selection makes the I a monster. This turret can also be used defensively if equiped with mosquito missiles to provide an extremely effective anti-missile defence.
+
+The I lacks rear turrets, but it is flat enough that this blind spot is not completely safe to fly in.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;" 
+|
+*[[Mosquito Missile]]
+*[[Hornet Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+*[[Cyclone Missile]]
+|
+*[[Tornado Missile]]
+*[[Typhoon Missile]]
+*[[Firestorm Torpedo]]
+*[[Beluga Missile]]
+|
+*[[Hammerhead Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+*[[Poltergeist Missile]]
+|}
+
+== Availability ==
+Like other Xenon ships, it is possible to see the ship available for "sale" at Xenon shipyards, but it is never possible to actually land and purchase them, so the I must be boarded to capture.
+
+== Suggested Roles==
+
+If you manage to capture a Xenon I, you have one of the strongest M2+ destroyers in your hands.  Like other Xenon ships, it is frequently more useful in player hands than the AI, but it is deadly no matter its pilot.
+
+== See Also==
+{{M2+}}
+[[Category:Xenon ships]]

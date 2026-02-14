@@ -1,3 +1,3 @@
-<!-- source file: index__q2d17b6b3d89b.html -->
+The objects listed here can be owned by the player, but cannot be purchased anywhere in the unmodified game, so they must be obtained by other means. For ships, they must be captured, either by making the pilot bail, or by boarding. The game may also randomly add owner-less ships which can be claimed. Some unpurchasable weapons and missiles can be found as floating wares after destroying enemies. 
 
-The objects listed here can be owned by the player, but cannot be purchased anywhere in the unmodified game, so they must be obtained by other means. For ships, they must be captured, either by making the pilot bail, or by boarding. The game may also randomly add owner-less ships which can be claimed. Some unpurchasable weapons and missiles can be found as floating wares after destroying enemies. {{Shipcategory}}
+{{Shipcategory}}

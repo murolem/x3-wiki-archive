@@ -1,3 +1,125 @@
-<!-- source file: index__qc085f6840120.html -->
+{{Infobox Sector
+|Race=Split
+|SecLevel=Border
+|Population=83,210,674
+|Planets=1
+|SunLevel=150
+|GateDist=80
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|South|6000|0|-32500|[[The Shallows]]}}
+{{Gateblock/End}}
+}}
+==Description==
+Originally held by the Boron, there remains an uneasy truce here. Several high-renking members of Family Rhonkar, accused of unauthorised attempts to purge the sector of all Boron occupation, were placed on trial and summarily executed for genocide. While time has eased the pain of those who remember, forgiveness is far from forthcoming.
 
-{{Infobox Sector |Race=Split |SecLevel=Border |Population=83,210,674 |Planets=1 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|South|6000|0|-32500|[[The Shallows]]}} {{Gateblock/End}} }} ==Description== Originally held by the Boron, there remains an uneasy truce here. Several high-renking members of Family Rhonkar, accused of unauthorised attempts to purge the sector of all Boron occupation, were placed on trial and summarily executed for genocide. While time has eased the pain of those who remember, forgiveness is far from forthcoming. ==Shipyard Availability== Concealed in a remote corner of Split Space, this [[Split Shipyard|Split Super Shipyard]] provides a surprising wealth of options. {{Shipyard/Begin|Station|ST Size|Cost}} {{Shipyard/Station|Split Trading Port||10000|29,215,752}} {{Shipyard/Station|Split Equipment Dock||9500|48,043,676}} {{Shipyard/Station|Advanced Drone Factory||14500|3,035,320}} {{Shipyard/Station|Advanced Satellite Factory||18000|3,389,028}} {{Shipyard/Station|Ammunition Factory||12000|2,830,680}} {{Shipyard/Station|Chelt Space Aquarium|L|18750|592,496}} {{Shipyard/Station|Chelt Space Aquarium|M|12500|236,972}} {{Shipyard/Station|Chip Plant||16000|6,487,196}} {{Shipyard/Station|Complex Construction Kit||4250|259,696}} {{Shipyard/Station|Computer Plant||14000|1,655,560}} {{Shipyard/Station|Crystal Fab|L|20500|6,583,284}} {{Shipyard/Station|Crystal Fab|M|15000|3,285,148}} {{Shipyard/Station|Disintegrator Rifles Fab||15000|2,246,368}} {{Shipyard/Station|Dragonfly Missile Factory||11000|954,380}} {{Shipyard/Station|Drone Factory||14500|3,035,320}} {{Shipyard/Station|Flail Missile Production Facility||13000|2,876,128}} {{Shipyard/Station|Hammer Torpedo Fabrication Facility||13000|2,876,128}} {{Shipyard/Station|High Energy Plasma Thrower Forge||17500|6,987,760}} {{Shipyard/Station|Impulse Ray Emitter Forge||15000|2,362,060}} {{Shipyard/Station|Ion Shard Railgun Forge||13500|10,065,800}} {{Shipyard/Station|Lasertower Factory||18500|1,103,708}} {{Shipyard/Station|Mass Driver Forge||17500|4,212,260}} {{Shipyard/Station|Massom Mill|L|16500|2,012,512}} {{Shipyard/Station|Massom Mill|M|11000|804,992}} {{Shipyard/Station|Ore Mine|L|12000|818,040}} {{Shipyard/Station|Ore Mine|M|8000|409,020}} {{Shipyard/Station|Photon Pulse Cannon Forge||23000|13,032,560}} {{Shipyard/Station|Pulsed Beam Emitter Forge||18000|9,068,568}} {{Shipyard/Station|Quantum Tube Fab||13500|4,590,120}} {{Shipyard/Station|Rastar Refinery|L|20250|2,512,556}} {{Shipyard/Station|Rastar Refinery|M|13500|1,116,692}} {{Shipyard/Station|Satellite Factory||16500|967,364}} {{Shipyard/Station|Scruffin Farm|L|15000|799,992}} {{Shipyard/Station|Scruffin Farm|M|10000|320,008}} {{Shipyard/Station|Shield Prod. Facility 1GJ||19500|9,063,376}} {{Shipyard/Station|Shield Prod. Facility 25 MJ||14000|3,427,980}} {{Shipyard/Station|Silicon Mine|L|14250|1,022,552}} {{Shipyard/Station|Silicon Mine|M|9500|499,980}} {{Shipyard/Station|Silkworm Missile Factory||13000|3,012,468}} {{Shipyard/Station|Solar Power Plant|L|15750|12,124,536}} {{Shipyard/Station|Solar Power Plant|M|10500|5,388,684}} {{Shipyard/Station|Solar Power Plant|XL|22000|21,554,732}} {{Shipyard/Station|SQUASH Mine Factory||15000|2,019,132}} {{Shipyard/Station|Thunderbolt Missile Factory||16500|3,025,452}} {{Shipyard/Station|Tomahawk Missile Manufacturing Plant||13000|2,876,128}} {{Shipyard/Station|Tornado Missile Factory||18000|5,810,688}} {{Shipyard/Station|Tracker Mine Fab||15000|2,246,368}} {{Shipyard/Station|Wasp Missile Factory||11500|1,675,036}} {{Shipyard/Station|Weapon Component Factory||12000|688,192}} {{Shipyard/End}} {{Shipyard/Begin|Ship|Class|Cost}} {{Shipyard/Ship1|Elephant|TL|17,415,102}} {{Shipyard/Ship1|Caiman|TS|215,203}} {{Shipyard/Ship2|Caiman|Tanker|TS|215,203}} {{Shipyard/Ship2|Caiman|Hauler|TS|591,930}} {{Shipyard/Ship2|Caiman|Tanker XL|TS|591,930}} {{Shipyard/Ship2|Caiman|Super Freighter|TS|591,930}} {{Shipyard/Ship2|Caiman|Super Freighter XL|TS|1,506,741}} {{Shipyard/Ship2|Caiman|Miner|TS|672,651}} {{Shipyard/Ship1|Iguana|TP|326,918}} {{Shipyard/Ship1|Raptor|M1|80,105,036}} {{Shipyard/Ship1|Python|M2|92,428,912}} {{Shipyard/Ship1|Mamba|M3|1,602,074}} {{Shipyard/Ship2|Mamba|Raider|M3|2,403,071}} {{Shipyard/Ship2|Mamba|Vanguard|M3|2,002,612}} {{Shipyard/Ship1|Scorpion|M4|313,117}} {{Shipyard/Ship2|Scorpion|Vanguard|M4|391,417}} {{Shipyard/Ship2|Scorpion|Sentinel|M4|493,126}} {{Shipyard/Ship1|Jaguar|M5|44,799}} {{Shipyard/Ship2|Jaguar|Raider|M5|67,328}} {{Shipyard/Ship2|Jaguar|Hauler|M5|49,320}} {{Shipyard/Ship2|Jaguar|Vanguard|M5|56,019}} {{Shipyard/Ship1|Dragon|M6|7,533,955}} {{Shipyard/Ship1|Heavy Dragon|M6+|15,610,796}} {{Shipyard/Ship1|Cobra|M7M|50,612,341}} {{Shipyard/Ship1|Viper|M8|5,418,011}} {{Shipyard/Ship1|Panther|M7|36,299,548}} {{Shipyard/End}} ==Default [[Stations]]== *[[Split Shipyard|Split Super Shipyard]] *[[Military Outpost]] ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|51|7936|10628|-16748}} {{Asteroid/Item|Ore|30|23625|3712|15838}} {{Asteroid/Item|Ore|25|8979|833|25281}} {{Asteroid/Item|Ore|21|5149|-9381|21369}} {{Asteroid/Item|Ore|17|25991|1809|10204}} {{Asteroid/Item|Ore|13|-12781|-3882|27128}} {{Asteroid/Item|Ore|13|19858|8808|23488}} {{Asteroid/Item|Ore|13|-12499|-102|-3820}} {{Asteroid/Item|Ore|8|-17647|-6125|-20322}} {{Asteroid/Item|Ore|8|-11905|13554|-26185}} {{Asteroid/Item|Ore|5|-31218|-3321|16580}} {{Asteroid/Item|Ore|5|17693|-2363|-17103}} {{Asteroid/Item|Ore|1|-18860|12104|13454}} {{Asteroid/Item|Silicon|72|16050|4154|15042}} {{Asteroid/Item|Silicon|26|-6367|997|13987}} {{Asteroid/Item|Silicon|26|-15079|1863|2652}} {{Asteroid/Item|Silicon|7|27632|-3956|24365}} {{Asteroid/End}} == See Also == {{Split Navbox}}
+==Shipyard Availability==
+Concealed in a remote corner of Split Space, this [[Split Shipyard|Split Super Shipyard]] provides a surprising wealth of options.
+
+{{Shipyard/Begin|Station|ST Size|Cost}}
+{{Shipyard/Station|Split Trading Port||10000|29,215,752}}
+{{Shipyard/Station|Split Equipment Dock||9500|48,043,676}}
+{{Shipyard/Station|Advanced Drone Factory||14500|3,035,320}}
+{{Shipyard/Station|Advanced Satellite Factory||18000|3,389,028}}
+{{Shipyard/Station|Ammunition Factory||12000|2,830,680}}
+{{Shipyard/Station|Chelt Space Aquarium|L|18750|592,496}}
+{{Shipyard/Station|Chelt Space Aquarium|M|12500|236,972}}
+{{Shipyard/Station|Chip Plant||16000|6,487,196}}
+{{Shipyard/Station|Complex Construction Kit||4250|259,696}}
+{{Shipyard/Station|Computer Plant||14000|1,655,560}}
+{{Shipyard/Station|Crystal Fab|L|20500|6,583,284}}
+{{Shipyard/Station|Crystal Fab|M|15000|3,285,148}}
+{{Shipyard/Station|Disintegrator Rifles Fab||15000|2,246,368}}
+{{Shipyard/Station|Dragonfly Missile Factory||11000|954,380}}
+{{Shipyard/Station|Drone Factory||14500|3,035,320}}
+{{Shipyard/Station|Flail Missile Production Facility||13000|2,876,128}}
+{{Shipyard/Station|Hammer Torpedo Fabrication Facility||13000|2,876,128}}
+{{Shipyard/Station|High Energy Plasma Thrower Forge||17500|6,987,760}}
+{{Shipyard/Station|Impulse Ray Emitter Forge||15000|2,362,060}}
+{{Shipyard/Station|Ion Shard Railgun Forge||13500|10,065,800}}
+{{Shipyard/Station|Lasertower Factory||18500|1,103,708}}
+{{Shipyard/Station|Mass Driver Forge||17500|4,212,260}}
+{{Shipyard/Station|Massom Mill|L|16500|2,012,512}}
+{{Shipyard/Station|Massom Mill|M|11000|804,992}}
+{{Shipyard/Station|Ore Mine|L|12000|818,040}}
+{{Shipyard/Station|Ore Mine|M|8000|409,020}}
+{{Shipyard/Station|Photon Pulse Cannon Forge||23000|13,032,560}}
+{{Shipyard/Station|Pulsed Beam Emitter Forge||18000|9,068,568}}
+{{Shipyard/Station|Quantum Tube Fab||13500|4,590,120}}
+{{Shipyard/Station|Rastar Refinery|L|20250|2,512,556}}
+{{Shipyard/Station|Rastar Refinery|M|13500|1,116,692}}
+{{Shipyard/Station|Satellite Factory||16500|967,364}}
+{{Shipyard/Station|Scruffin Farm|L|15000|799,992}}
+{{Shipyard/Station|Scruffin Farm|M|10000|320,008}}
+{{Shipyard/Station|Shield Prod. Facility 1GJ||19500|9,063,376}}
+{{Shipyard/Station|Shield Prod. Facility 25 MJ||14000|3,427,980}}
+{{Shipyard/Station|Silicon Mine|L|14250|1,022,552}}
+{{Shipyard/Station|Silicon Mine|M|9500|499,980}}
+{{Shipyard/Station|Silkworm Missile Factory||13000|3,012,468}}
+{{Shipyard/Station|Solar Power Plant|L|15750|12,124,536}}
+{{Shipyard/Station|Solar Power Plant|M|10500|5,388,684}}
+{{Shipyard/Station|Solar Power Plant|XL|22000|21,554,732}}
+{{Shipyard/Station|SQUASH Mine Factory||15000|2,019,132}}
+{{Shipyard/Station|Thunderbolt Missile Factory||16500|3,025,452}}
+{{Shipyard/Station|Tomahawk Missile Manufacturing Plant||13000|2,876,128}}
+{{Shipyard/Station|Tornado Missile Factory||18000|5,810,688}}
+{{Shipyard/Station|Tracker Mine Fab||15000|2,246,368}}
+{{Shipyard/Station|Wasp Missile Factory||11500|1,675,036}}
+{{Shipyard/Station|Weapon Component Factory||12000|688,192}}
+{{Shipyard/End}}
+{{Shipyard/Begin|Ship|Class|Cost}}
+{{Shipyard/Ship1|Elephant|TL|17,415,102}}
+{{Shipyard/Ship1|Caiman|TS|215,203}}
+{{Shipyard/Ship2|Caiman|Tanker|TS|215,203}}
+{{Shipyard/Ship2|Caiman|Hauler|TS|591,930}}
+{{Shipyard/Ship2|Caiman|Tanker XL|TS|591,930}}
+{{Shipyard/Ship2|Caiman|Super Freighter|TS|591,930}}
+{{Shipyard/Ship2|Caiman|Super Freighter XL|TS|1,506,741}}
+{{Shipyard/Ship2|Caiman|Miner|TS|672,651}}
+{{Shipyard/Ship1|Iguana|TP|326,918}}
+{{Shipyard/Ship1|Raptor|M1|80,105,036}}
+{{Shipyard/Ship1|Python|M2|92,428,912}}
+{{Shipyard/Ship1|Mamba|M3|1,602,074}}
+{{Shipyard/Ship2|Mamba|Raider|M3|2,403,071}}
+{{Shipyard/Ship2|Mamba|Vanguard|M3|2,002,612}}
+{{Shipyard/Ship1|Scorpion|M4|313,117}}
+{{Shipyard/Ship2|Scorpion|Vanguard|M4|391,417}}
+{{Shipyard/Ship2|Scorpion|Sentinel|M4|493,126}}
+{{Shipyard/Ship1|Jaguar|M5|44,799}}
+{{Shipyard/Ship2|Jaguar|Raider|M5|67,328}}
+{{Shipyard/Ship2|Jaguar|Hauler|M5|49,320}}
+{{Shipyard/Ship2|Jaguar|Vanguard|M5|56,019}}
+{{Shipyard/Ship1|Dragon|M6|7,533,955}}
+{{Shipyard/Ship1|Heavy Dragon|M6+|15,610,796}}
+{{Shipyard/Ship1|Cobra|M7M|50,612,341}}
+{{Shipyard/Ship1|Viper|M8|5,418,011}}
+{{Shipyard/Ship1|Panther|M7|36,299,548}}
+{{Shipyard/End}}
+
+==Default [[Stations]]==
+*[[Split Shipyard|Split Super Shipyard]]
+*[[Military Outpost]]
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|51|7936|10628|-16748}}
+{{Asteroid/Item|Ore|30|23625|3712|15838}}
+{{Asteroid/Item|Ore|25|8979|833|25281}}
+{{Asteroid/Item|Ore|21|5149|-9381|21369}}
+{{Asteroid/Item|Ore|17|25991|1809|10204}}
+{{Asteroid/Item|Ore|13|-12781|-3882|27128}}
+{{Asteroid/Item|Ore|13|19858|8808|23488}}
+{{Asteroid/Item|Ore|13|-12499|-102|-3820}}
+{{Asteroid/Item|Ore|8|-17647|-6125|-20322}}
+{{Asteroid/Item|Ore|8|-11905|13554|-26185}}
+{{Asteroid/Item|Ore|5|-31218|-3321|16580}}
+{{Asteroid/Item|Ore|5|17693|-2363|-17103}}
+{{Asteroid/Item|Ore|1|-18860|12104|13454}}
+{{Asteroid/Item|Silicon|72|16050|4154|15042}}
+{{Asteroid/Item|Silicon|26|-6367|997|13987}}
+{{Asteroid/Item|Silicon|26|-15079|1863|2652}}
+{{Asteroid/Item|Silicon|7|27632|-3956|24365}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Split Navbox}}

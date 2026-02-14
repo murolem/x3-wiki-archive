@@ -1,3 +1,204 @@
-<!-- source file: index__q7131bb12d98d.html -->
+{{Infobox open}}
+{{Infobox basicstation
+|faction=Argon
+|station=Federal Argon Shipyard
+|hull=
+|shield=
+|generator=
+|hangar=
+|stationprice={{Priceblock||649240}}
+}}
+{{Infobox close}}
+==Overview==
+The [[Shipyard]]s of the Argon Federation are where all [[Argon]] ships and stations are crafted.
 
-{{Infobox open}} {{Infobox basicstation |faction=Argon |station=Federal Argon Shipyard |hull= |shield= |generator= |hangar= |stationprice={{Priceblock||649240}} }} {{Infobox close}} ==Overview== The [[Shipyard]]s of the Argon Federation are where all [[Argon]] ships and stations are crafted. These facilites combine the best of Argon automation and engineering know-how to produce ships that are considered generally to be the most well-rounded on offer. ===Encyclopedia Entry=== Shipyards are the heart and soul of modern societies. They are factories of gigantic dimension, built to manufacture all the space vehicles and even build and sell whole construction kits for new factories. Because of immense resources and labour required to build as well as run a factory like this, shipyards are rare to encounter. Argon shipyards are large, automated industrial plants, dedicated to the construction of the entire range of Argon space ships. In addition to the valuable raw materials and technology, these factories also contain experimental areas where new designs and ship improvements are always being developed and tested, and as a result are heavily guarded. Therefore all Argon shipyards should be approached with great caution. ==Products== ===Stations=== {| style="text-align:right;" class="wikitable sortable" cellpadding="3" ! Available Stations&lt;bR>!! Cost&lt;bR> !! ST Size&lt;br> ! {{sa|Argon Prime}}&lt;bR>!! [[Cloudbase Southeast Shipyard|Cloudbase&lt;br> South East]]&lt;bR> !! {{sa|Omicron Lyrae}}&lt;bR> !! {{sa|Light of Heart}}&lt;bR> !! {{sa|Legend's Home}}&lt;bR> !! {{sa|Argon Sector M148}}&lt;bR> |- {{StationSyAvail|[[Free Argon Trading Station]]|29,929,912|15000}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=-}} |- {{StationSyAvail|[[Argon Equipment Dock]]|51,160,024|10500}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=X}} |- {{StationSyAvail|[[Advanced Drone Factory]]|2,898,204|14500}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=X}} |- {{StationSyAvail|[[Advanced Satellite Factory]]|3,233,208|18000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=-}} |- {{StationSyAvail|[[Ammunition Factory]]|2,830,680|12000}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=X}} |- {{StationSyAvail|[[Cahoona Bakery M]]|874,980|11500}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=X|LHO=X|AS=-}} |- {{StationSyAvail|[[Cahoona Bakery L]]|2,187,480|17250}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=-}} |- {{StationSyAvail|[[Cattle Ranch M]]|275,016|11500}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=-}} |- {{StationSyAvail|[[Cattle Ranch L]]|687,480|17250}} {{ArgonSyAvail|AP=-|CS=X|OL=X|LHE=X|LHO=X|AS=-}} |- {{StationSyAvail|[[Chip Plant]]|5,599,036|16000}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=-}} |- {{StationSyAvail|[[Cluster Flak Array Forge]]|12,039,488|21000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=-}} |- {{StationSyAvail|[[Complex Construction Kit]]|259,696|4250}} {{ArgonSyAvail|AP=X|CS=X|OL=X|LHE=X|LHO=X|AS=X}} |- {{StationSyAvail|[[Computer Plant]]|5,599,036|14000}} {{ArgonSyAvail|AP=-|CS=-|OL=X|LHE=-|LHO=-|AS=-}} |- {{StationSyAvail|[[Concussion Impulse Generator Forge]]|9,752,120|20000}} {{ArgonSyAvail|AP=-|CS=-|OL=X|LHE=-|LHO=-|AS=-}} |- {{StationSyAvail|[[Crystal Fab M]]|3,129,332|15000}} {{ArgonSyAvail|AP=X|CS=X|OL=X|LHE=X|LHO=X|AS=-}} |- {{StationSyAvail|[[Crystal Fab L]]|6,492,388|20500}} {{ArgonSyAvail|AP=X|CS=X|OL=X|LHE=X|LHO=X|AS=-}} |- {{StationSyAvail|[[Drone Factory]]|2,898,204|14500}} {{ArgonSyAvail|AP=-|CS=X|OL=X|LHE=-|LHO=X|AS=X}} |- {{StationSyAvail|[[Firefly Missile Factory]]|714,164|11500}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=X}} |- {{StationSyAvail|[[Firestorm Torpedo Factory]]|10,952,260|19500}} {{ArgonSyAvail|AP=-|CS=X|OL=X|LHE=-|LHO=X|AS=-}} |- {{StationSyAvail|[[Flail Missile Production Facility]]|2,876,128|13000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=-|LHO=X|AS=-}} |- {{StationSyAvail|[[Hammer Torpedo Fabrication Facility]]|2,876,128|13000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=-|LHO=X|AS=-}} |- {{StationSyAvail|[[High Energy Plasma Thrower Forge]]|6,850,768|18000}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=X}} |- {{StationSyAvail|[[Impulse Ray Emitter Forge]]|2,721,092|15000}} {{ArgonSyAvail|AP=-|CS=-|OL=X|LHE=-|LHO=-|AS=-}} |- {{StationSyAvail|[[Lasertower Factory]]|1,220,568|18500}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=-}} |- {{StationSyAvail|[[Low-yield Sidearms Fab]]|2,246,368|15000}} {{ArgonSyAvail|AP=X|CS=-|OL=X|LHE=-|LHO=-|AS=X}} |- {{StationSyAvail|[[Ore Mine M]]|449,988|8000}} {{ArgonSyAvail|AP=X|CS=X|OL=X|LHE=-|LHO=X|AS=-}} |- {{StationSyAvail|[[Ore Mine L]]|905,688|12000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=-}} |- {{StationSyAvail|[[Particle Accelerator Cannon Forge]]|4,196,680|16500}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=X}} |- {{StationSyAvail|[[Phased Repeater Gun Forge]]|4,856,308|16500}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=X}} |- {{StationSyAvail|[[Photon Pulse Cannon Forge]]|12,777,020|24000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=-}} |- {{StationSyAvail|[[Quantum Tube Fab]]|4,135,652|13500}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=-}} |- {{StationSyAvail|[[Mosquito Missile Factory]]|603,792|10000}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=X}} |- {{StationSyAvail|[[Rimes Fact M]]|799,992|13000}} {{ArgonSyAvail|AP=X|CS=X|OL=X|LHE=-|LHO=X|AS=-}} |- {{StationSyAvail|[[Rimes Fact L]]|1,999,980|19500}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=-}} |- {{StationSyAvail|[[Satellite Factory]]|746,624|16500}} {{ArgonSyAvail|AP=-|CS=-|OL=X|LHE=-|LHO=-|AS=-}} |- {{StationSyAvail|[[Shield Production Facility 1MJ]]|1,630,888|11500}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=-}} |- {{StationSyAvail|[[Shield Production Facility 200MJ]]|6,336,572|16000}} {{ArgonSyAvail|AP=-|CS=X|OL=X|LHE=-|LHO=X|AS=X}} |- {{StationSyAvail|[[Shield Production Facility 2GJ]]|12,268,020|21000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=X}} |- {{StationSyAvail|[[Silicon Mine M]]|549,972|9500}} {{ArgonSyAvail|AP=-|CS=-|OL=X|LHE=-|LHO=-|AS=-}} |- {{StationSyAvail|[[Silicon Mine L]]|1,139,416|14250}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=X|LHO=X|AS=X}} |- {{StationSyAvail|[[Silkworm Missile Factory]]|2,876,128|13000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=X}} |- {{StationSyAvail|[[Space Fuel Distillery M]]|1,999,920|8000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=-}} |- {{StationSyAvail|[[Space Fuel Distillery L]]|5,500,028|12000}} {{ArgonSyAvail|AP=X|CS=X|OL=X|LHE=-|LHO=X|AS=-}} |- {{StationSyAvail|[[Solar Power Plant M]]|4,895,260|10500}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=-}} |- {{StationSyAvail|[[Solar Power Plant L]]|11,014,336|15750}} {{ArgonSyAvail|AP=-|CS=-|OL=X|LHE=-|LHO=-|AS=-}} |- {{StationSyAvail|[[Solar Power Plant XL]]|19,584,044|22000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=-}} |- {{StationSyAvail|[[Tomahawk Missile Manufacturing Plant]]|2,876,128|13000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=-|LHO=X|AS=-}} |- {{StationSyAvail|[[Wasp Missile Factory]]|1,525,712|11500}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=-|LHO=X|AS=X}} |- {{StationSyAvail|[[Weapon Component Factory]]|720,656|12000}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=X}} |- {{StationSyAvail|[[Wheat Farm M]]|367,016|10000}} {{ArgonSyAvail|AP=X|CS=X|OL=X|LHE=-|LHO=X|AS=-}} |- {{StationSyAvail|[[Wheat Farm L]]|917,504|15000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=-}} |} ===Ships=== {| style="text-align:right;" class="wikitable sortable" cellpadding="3" name="ships" ! Available Ships&lt;bR> ! style="width:5em;"| Type&lt;bR> ! style="width:5em;"| Cost&lt;bR> ! [[Argon Prime]]&lt;bR>!! [[Cloudbase South East]]&lt;bR> !! [[Omicron Lyrae]]&lt;bR> !! [[Light of Heart]]&lt;bR> !! [[Legend's Home]]&lt;bR> !! [[Argon Sector M148]]&lt;bR> |- {{ShipSyAvail|Link=Colossus|Name=Colossus|Type=M1|Cost=67823098}} {{ArgonSyAvail|AP=x|CS=x|OL=x|LHE=x|LHO=x|AS=x}} |- {{ShipSyAvail|Link=Titan (ship)|Name=Titan|Type=M2|Cost=69283911}} {{ArgonSyAvail|AP=x|CS=x|OL=x|LHE=x|LHO=x|AS=x}} |- {{ShipSyAvail|Link=Nova|Name=Nova|Type=M3|Cost=2420118}} {{ArgonSyAvail|AP=x|CS=x|OL=-|LHE=-|LHO=x|AS=x}} |- {{ShipSyAvail|Link=Nova|Name=Nova Raider|Type=M3|Cost=2420118}} {{ArgonSyAvail|AP=-|CS=-|OL=x|LHE=-|LHO=-|AS=-}} |- {{ShipSyAvail|Link=Nova|Name=Nova Sentinel|Type=M3|Cost=3066889}} {{ArgonSyAvail|AP=-|CS=x|OL=-|LHE=x|LHO=x|AS=-}} |- {{ShipSyAvail|Link=Nova|Name=Nova Vanguard|Type=M3|Cost=2820656}} {{ArgonSyAvail|AP=x|CS=x|OL=-|LHE=-|LHO=x|AS=x}} |- {{ShipSyAvail|Link=Eclipse|Name=Eclipse|Type=M3+|Cost=6044362}} {{ArgonSyAvail|AP=x|CS=-|OL=x|LHE=x|LHO=-|AS=x}} |- {{ShipSyAvail|Link=Buster|Name=Buster|Type=M4|Cost=916944}} {{ArgonSyAvail|AP=x|CS=x|OL=-|LHE=-|LHO=x|AS=x}} |- {{ShipSyAvail|Link=Buster|Name=Buster Raider|Type=M4|Cost=1099183}} {{ArgonSyAvail|AP=-|CS=x|OL=x|LHE=-|LHO=x|AS=-}} |- {{ShipSyAvail|Link=Buster|Name=Buster Vanguard|Type=M4|Cost=1018414}} {{ArgonSyAvail|AP=-|CS=x|OL=-|LHE=x|LHO=x|AS=-}} |- {{ShipSyAvail|Link=Elite|Name=Elite|Type=M4+|Cost=1619083}} {{ArgonSyAvail|AP=x|CS=-|OL=x|LHE=x|LHO=-|AS=x}} |- {{ShipSyAvail|Link=Discoverer|Name=Discoverer|Type=M5|Cost=88041}} {{ArgonSyAvail|AP=x|CS=x|OL=-|LHE=-|LHO=x|AS=x}} |- {{ShipSyAvail|Link=Discoverer|Name=Discoverer Hauler|Type=M5|Cost=93447}} {{ArgonSyAvail|AP=x|CS=x|OL=-|LHE=-|LHO=x|AS=x}} |- {{ShipSyAvail|Link=Discoverer|Name=Discoverer Raider|Type=M5|Cost=130753}} {{ArgonSyAvail|AP=-|CS=x|OL=-|LHE=x|LHO=x|AS=-}} |- {{ShipSyAvail|Link=Discoverer|Name=Discoverer Vanguard|Type=M5|Cost=101518}} {{ArgonSyAvail|AP=-|CS=-|OL=x|LHE=-|LHO=-|AS=-}} |- {{ShipSyAvail|Link=Centaur|Name=Centaur|Type=M6|Cost=9842368}} {{ArgonSyAvail|AP=x|CS=x|OL=x|LHE=x|LHO=x|AS=x}} |- {{ShipSyAvail|Link=Heavy Centaur|Name=Heavy Centaur|Type=M6+|Cost=14377642}} {{ArgonSyAvail|AP=-|CS=x|OL=-|LHE=-|LHO=x|AS=-}} |- {{ShipSyAvail|Link=Cerberus|Name=Cerberus|Type=M7|Cost=36098766}} {{ArgonSyAvail|AP=x|CS=-|OL=x|LHE=-|LHO=-|AS=-}} |- {{ShipSyAvail|Link=Minotaur|Name=Minotaur|Type=M7M|Cost=50333548}} {{ArgonSyAvail|AP=-|CS=x|OL=-|LHE=-|LHO=x|AS=-}} |- {{ShipSyAvail|Link=Griffon|Name=Griffon Sentinel|Type=M7C|Cost=36166766}} {{ArgonSyAvail|AP=AP|CS=AP|OL=-|LHE=-|LHO=AP|AS=AP}} |- {{ShipSyAvail|Link=Gladiator|Name=Gladiator|Type=M8|Cost=5409482}} {{ArgonSyAvail|AP=-|CS=x|OL=-|LHE=-|LHO=x|AS=-}} |- {{ShipSyAvail|Link=Mammoth|Name=Mammoth|Type=TL|Cost=28506608}} {{ArgonSyAvail|AP=x|CS=x|OL=x|LHE=x|LHO=x|AS=x}} |- {{ShipSyAvail|Link=Magnetar|Name=Magnetar|Type=TM|Cost=438338}} {{ArgonSyAvail|AP=x|CS=-|OL=x|LHE=x|LHO=-|AS=x}} |- {{ShipSyAvail|Link=Express|Name=Express|Type=TP|Cost=665772}} {{ArgonSyAvail|AP=x|CS=x|OL=x|LHE=x|LHO=x|AS=x}} |- {{ShipSyAvail|Link=Express|Name=Express Hauler|Type=TP|Cost=665772}} {{ArgonSyAvail|AP=-|CS=-|OL=-|LHE=-|LHO=x|AS=-}} |- {{ShipSyAvail|Link=Phantom|Name=Phantom|Type=TP|Cost=1,164,656}} {{ArgonSyAvail|AP=-|CS=?|OL=?|LHE=?|LHO=-|AS=-}} |- {{ShipSyAvail|Link=Mercury (ship)|Name=Mercury|Type=TS|Cost=451347}} {{ArgonSyAvail|AP=x|CS=x|OL=-|LHE=-|LHO=x|AS=x}} |- {{ShipSyAvail|Link=Mercury (ship)|Name=Mercury Hauler|Type=TS|Cost=866,631}} {{ArgonSyAvail|AP=-|CS=x|OL=-|LHE=x|LHO=x|AS=-}} |- {{ShipSyAvail|Link=Mercury (ship)|Name=Mercury Super Freighter|Type=TS|Cost=952331}} {{ArgonSyAvail|AP=-|CS=x|OL=-|LHE=x|LHO=x|AS=-}} |- {{ShipSyAvail|Link=Mercury (ship)|Name=Mercury Super Freighter XL|Type=TS|Cost=1752841}} {{ArgonSyAvail|AP=-|CS=-|OL=x|LHE=x|LHO=-|AS=-}} |- {{ShipSyAvail|Link=Mercury (ship)|Name=Mercury Tanker|Type=TS|Cost=451347}} {{ArgonSyAvail|AP=-|CS=-|OL=x|LHE=-|LHO=-|AS=-}} |- {{ShipSyAvail|Link=Mercury (ship)|Name=Mercury Tanker XL|Type=TS|Cost=952331}} {{ArgonSyAvail|AP=x|CS=x|OL=-|LHE=-|LHO=x|AS=x}} |} [[Category:Shipyards]] ==See Also== {{Argon Navbox}}
+These facilites combine the best of Argon automation and engineering know-how to produce ships that are considered generally to be the most well-rounded on offer.
+
+===Encyclopedia Entry===
+Shipyards are the heart and soul of modern societies. They are factories of gigantic dimension, built to manufacture all the space vehicles and even build and sell whole construction kits for new factories. Because of immense resources and labour required to build as well as run a factory like this, shipyards are rare to encounter. Argon shipyards are large, automated industrial plants, dedicated to the construction of the entire range of Argon space ships. In addition to the valuable raw materials and technology, these factories also contain experimental areas where new designs and ship improvements are always being developed and tested, and as a result are heavily guarded. Therefore all Argon shipyards should be approached with great caution.
+
+==Products==
+===Stations===
+{| style="text-align:right;"  class="wikitable sortable" cellpadding="3"
+! Available Stations<bR>!! Cost<bR>  !! ST Size<br> 
+! {{sa|Argon Prime}}<bR>!!  [[Cloudbase Southeast Shipyard|Cloudbase<br> South East]]<bR> !! {{sa|Omicron Lyrae}}<bR> !! {{sa|Light of Heart}}<bR> !! {{sa|Legend's Home}}<bR> !! {{sa|Argon Sector M148}}<bR>
+|-
+{{StationSyAvail|[[Free Argon Trading Station]]|29,929,912|15000}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Argon Equipment Dock]]|51,160,024|10500}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=X}}
+|-
+{{StationSyAvail|[[Advanced Drone Factory]]|2,898,204|14500}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=X}}
+|-
+{{StationSyAvail|[[Advanced Satellite Factory]]|3,233,208|18000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Ammunition Factory]]|2,830,680|12000}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=X}}
+|-
+{{StationSyAvail|[[Cahoona Bakery M]]|874,980|11500}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=X|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Cahoona Bakery L]]|2,187,480|17250}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Cattle Ranch M]]|275,016|11500}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Cattle Ranch L]]|687,480|17250}} {{ArgonSyAvail|AP=-|CS=X|OL=X|LHE=X|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Chip Plant]]|5,599,036|16000}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Cluster Flak Array Forge]]|12,039,488|21000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Complex Construction Kit]]|259,696|4250}} {{ArgonSyAvail|AP=X|CS=X|OL=X|LHE=X|LHO=X|AS=X}}
+|-
+{{StationSyAvail|[[Computer Plant]]|5,599,036|14000}} {{ArgonSyAvail|AP=-|CS=-|OL=X|LHE=-|LHO=-|AS=-}}
+|-
+{{StationSyAvail|[[Concussion Impulse Generator Forge]]|9,752,120|20000}} {{ArgonSyAvail|AP=-|CS=-|OL=X|LHE=-|LHO=-|AS=-}}
+|-
+{{StationSyAvail|[[Crystal Fab M]]|3,129,332|15000}} {{ArgonSyAvail|AP=X|CS=X|OL=X|LHE=X|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Crystal Fab L]]|6,492,388|20500}} {{ArgonSyAvail|AP=X|CS=X|OL=X|LHE=X|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Drone Factory]]|2,898,204|14500}} {{ArgonSyAvail|AP=-|CS=X|OL=X|LHE=-|LHO=X|AS=X}}
+|-
+{{StationSyAvail|[[Firefly Missile Factory]]|714,164|11500}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=X}}
+|-
+{{StationSyAvail|[[Firestorm Torpedo Factory]]|10,952,260|19500}} {{ArgonSyAvail|AP=-|CS=X|OL=X|LHE=-|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Flail Missile Production Facility]]|2,876,128|13000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=-|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Hammer Torpedo Fabrication Facility]]|2,876,128|13000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=-|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[High Energy Plasma Thrower Forge]]|6,850,768|18000}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=X}}
+|-
+{{StationSyAvail|[[Impulse Ray Emitter Forge]]|2,721,092|15000}} {{ArgonSyAvail|AP=-|CS=-|OL=X|LHE=-|LHO=-|AS=-}}
+|-
+{{StationSyAvail|[[Lasertower Factory]]|1,220,568|18500}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Low-yield Sidearms Fab]]|2,246,368|15000}} {{ArgonSyAvail|AP=X|CS=-|OL=X|LHE=-|LHO=-|AS=X}}
+|-
+{{StationSyAvail|[[Ore Mine M]]|449,988|8000}} {{ArgonSyAvail|AP=X|CS=X|OL=X|LHE=-|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Ore Mine L]]|905,688|12000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Particle Accelerator Cannon Forge]]|4,196,680|16500}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=X}}
+|-
+{{StationSyAvail|[[Phased Repeater Gun Forge]]|4,856,308|16500}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=X}}
+|-
+{{StationSyAvail|[[Photon Pulse Cannon Forge]]|12,777,020|24000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Quantum Tube Fab]]|4,135,652|13500}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Mosquito Missile Factory]]|603,792|10000}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=X}}
+|-
+{{StationSyAvail|[[Rimes Fact M]]|799,992|13000}} {{ArgonSyAvail|AP=X|CS=X|OL=X|LHE=-|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Rimes Fact L]]|1,999,980|19500}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Satellite Factory]]|746,624|16500}} {{ArgonSyAvail|AP=-|CS=-|OL=X|LHE=-|LHO=-|AS=-}}
+|-
+{{StationSyAvail|[[Shield Production Facility 1MJ]]|1,630,888|11500}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Shield Production Facility 200MJ]]|6,336,572|16000}} {{ArgonSyAvail|AP=-|CS=X|OL=X|LHE=-|LHO=X|AS=X}}
+|-
+{{StationSyAvail|[[Shield Production Facility 2GJ]]|12,268,020|21000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=X}}
+|-
+{{StationSyAvail|[[Silicon Mine M]]|549,972|9500}} {{ArgonSyAvail|AP=-|CS=-|OL=X|LHE=-|LHO=-|AS=-}}
+|-
+{{StationSyAvail|[[Silicon Mine L]]|1,139,416|14250}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=X|LHO=X|AS=X}}
+|-
+{{StationSyAvail|[[Silkworm Missile Factory]]|2,876,128|13000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=X}}
+|-
+{{StationSyAvail|[[Space Fuel Distillery M]]|1,999,920|8000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Space Fuel Distillery L]]|5,500,028|12000}} {{ArgonSyAvail|AP=X|CS=X|OL=X|LHE=-|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Solar Power Plant M]]|4,895,260|10500}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Solar Power Plant L]]|11,014,336|15750}} {{ArgonSyAvail|AP=-|CS=-|OL=X|LHE=-|LHO=-|AS=-}}
+|-
+{{StationSyAvail|[[Solar Power Plant XL]]|19,584,044|22000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Tomahawk Missile Manufacturing Plant]]|2,876,128|13000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=-|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Wasp Missile Factory]]|1,525,712|11500}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=-|LHO=X|AS=X}}
+|-
+{{StationSyAvail|[[Weapon Component Factory]]|720,656|12000}} {{ArgonSyAvail|AP=X|CS=X|OL=-|LHE=-|LHO=X|AS=X}}
+|-
+{{StationSyAvail|[[Wheat Farm M]]|367,016|10000}} {{ArgonSyAvail|AP=X|CS=X|OL=X|LHE=-|LHO=X|AS=-}}
+|-
+{{StationSyAvail|[[Wheat Farm L]]|917,504|15000}} {{ArgonSyAvail|AP=-|CS=X|OL=-|LHE=X|LHO=X|AS=-}}
+|}
+
+===Ships===
+{| style="text-align:right;"  class="wikitable sortable" cellpadding="3" name="ships"
+! Available Ships<bR>
+! style="width:5em;"| Type<bR> 
+! style="width:5em;"| Cost<bR> 
+! [[Argon Prime]]<bR>!!  [[Cloudbase South East]]<bR> !! [[Omicron Lyrae]]<bR> !! [[Light of Heart]]<bR> !! [[Legend's Home]]<bR> !! [[Argon Sector M148]]<bR>
+|-
+{{ShipSyAvail|Link=Colossus|Name=Colossus|Type=M1|Cost=67823098}} {{ArgonSyAvail|AP=x|CS=x|OL=x|LHE=x|LHO=x|AS=x}}
+|-
+{{ShipSyAvail|Link=Titan (ship)|Name=Titan|Type=M2|Cost=69283911}} {{ArgonSyAvail|AP=x|CS=x|OL=x|LHE=x|LHO=x|AS=x}}
+|-
+{{ShipSyAvail|Link=Nova|Name=Nova|Type=M3|Cost=2420118}} {{ArgonSyAvail|AP=x|CS=x|OL=-|LHE=-|LHO=x|AS=x}}
+|-
+{{ShipSyAvail|Link=Nova|Name=Nova Raider|Type=M3|Cost=2420118}} {{ArgonSyAvail|AP=-|CS=-|OL=x|LHE=-|LHO=-|AS=-}} 
+|-
+{{ShipSyAvail|Link=Nova|Name=Nova Sentinel|Type=M3|Cost=3066889}} {{ArgonSyAvail|AP=-|CS=x|OL=-|LHE=x|LHO=x|AS=-}}
+|-
+{{ShipSyAvail|Link=Nova|Name=Nova Vanguard|Type=M3|Cost=2820656}} {{ArgonSyAvail|AP=x|CS=x|OL=-|LHE=-|LHO=x|AS=x}}
+|-
+{{ShipSyAvail|Link=Eclipse|Name=Eclipse|Type=M3+|Cost=6044362}} {{ArgonSyAvail|AP=x|CS=-|OL=x|LHE=x|LHO=-|AS=x}}
+|-
+{{ShipSyAvail|Link=Buster|Name=Buster|Type=M4|Cost=916944}} {{ArgonSyAvail|AP=x|CS=x|OL=-|LHE=-|LHO=x|AS=x}}
+|-
+{{ShipSyAvail|Link=Buster|Name=Buster Raider|Type=M4|Cost=1099183}} {{ArgonSyAvail|AP=-|CS=x|OL=x|LHE=-|LHO=x|AS=-}}
+|-
+{{ShipSyAvail|Link=Buster|Name=Buster Vanguard|Type=M4|Cost=1018414}} {{ArgonSyAvail|AP=-|CS=x|OL=-|LHE=x|LHO=x|AS=-}}
+|-
+{{ShipSyAvail|Link=Elite|Name=Elite|Type=M4+|Cost=1619083}} {{ArgonSyAvail|AP=x|CS=-|OL=x|LHE=x|LHO=-|AS=x}}
+|-
+{{ShipSyAvail|Link=Discoverer|Name=Discoverer|Type=M5|Cost=88041}} {{ArgonSyAvail|AP=x|CS=x|OL=-|LHE=-|LHO=x|AS=x}}
+|-
+{{ShipSyAvail|Link=Discoverer|Name=Discoverer Hauler|Type=M5|Cost=93447}} {{ArgonSyAvail|AP=x|CS=x|OL=-|LHE=-|LHO=x|AS=x}}
+|-
+{{ShipSyAvail|Link=Discoverer|Name=Discoverer Raider|Type=M5|Cost=130753}} {{ArgonSyAvail|AP=-|CS=x|OL=-|LHE=x|LHO=x|AS=-}}
+|-
+{{ShipSyAvail|Link=Discoverer|Name=Discoverer Vanguard|Type=M5|Cost=101518}} {{ArgonSyAvail|AP=-|CS=-|OL=x|LHE=-|LHO=-|AS=-}}
+|-
+{{ShipSyAvail|Link=Centaur|Name=Centaur|Type=M6|Cost=9842368}} {{ArgonSyAvail|AP=x|CS=x|OL=x|LHE=x|LHO=x|AS=x}}
+|-
+{{ShipSyAvail|Link=Heavy Centaur|Name=Heavy Centaur|Type=M6+|Cost=14377642}} {{ArgonSyAvail|AP=-|CS=x|OL=-|LHE=-|LHO=x|AS=-}}
+|-
+{{ShipSyAvail|Link=Cerberus|Name=Cerberus|Type=M7|Cost=36098766}} {{ArgonSyAvail|AP=x|CS=-|OL=x|LHE=-|LHO=-|AS=-}}
+|-
+{{ShipSyAvail|Link=Minotaur|Name=Minotaur|Type=M7M|Cost=50333548}} {{ArgonSyAvail|AP=-|CS=x|OL=-|LHE=-|LHO=x|AS=-}}
+|-
+{{ShipSyAvail|Link=Griffon|Name=Griffon Sentinel|Type=M7C|Cost=36166766}} {{ArgonSyAvail|AP=AP|CS=AP|OL=-|LHE=-|LHO=AP|AS=AP}}
+|-
+{{ShipSyAvail|Link=Gladiator|Name=Gladiator|Type=M8|Cost=5409482}} {{ArgonSyAvail|AP=-|CS=x|OL=-|LHE=-|LHO=x|AS=-}}
+|-
+{{ShipSyAvail|Link=Mammoth|Name=Mammoth|Type=TL|Cost=28506608}} {{ArgonSyAvail|AP=x|CS=x|OL=x|LHE=x|LHO=x|AS=x}}
+|-
+{{ShipSyAvail|Link=Magnetar|Name=Magnetar|Type=TM|Cost=438338}} {{ArgonSyAvail|AP=x|CS=-|OL=x|LHE=x|LHO=-|AS=x}}
+|-
+{{ShipSyAvail|Link=Express|Name=Express|Type=TP|Cost=665772}} {{ArgonSyAvail|AP=x|CS=x|OL=x|LHE=x|LHO=x|AS=x}}
+|-
+{{ShipSyAvail|Link=Express|Name=Express Hauler|Type=TP|Cost=665772}} {{ArgonSyAvail|AP=-|CS=-|OL=-|LHE=-|LHO=x|AS=-}}
+|-
+{{ShipSyAvail|Link=Phantom|Name=Phantom|Type=TP|Cost=1,164,656}} {{ArgonSyAvail|AP=-|CS=?|OL=?|LHE=?|LHO=-|AS=-}}
+|-
+{{ShipSyAvail|Link=Mercury (ship)|Name=Mercury|Type=TS|Cost=451347}} {{ArgonSyAvail|AP=x|CS=x|OL=-|LHE=-|LHO=x|AS=x}}
+|-
+{{ShipSyAvail|Link=Mercury (ship)|Name=Mercury Hauler|Type=TS|Cost=866,631}} {{ArgonSyAvail|AP=-|CS=x|OL=-|LHE=x|LHO=x|AS=-}}
+|-
+{{ShipSyAvail|Link=Mercury (ship)|Name=Mercury Super Freighter|Type=TS|Cost=952331}} {{ArgonSyAvail|AP=-|CS=x|OL=-|LHE=x|LHO=x|AS=-}}
+|-
+{{ShipSyAvail|Link=Mercury (ship)|Name=Mercury Super Freighter XL|Type=TS|Cost=1752841}} {{ArgonSyAvail|AP=-|CS=-|OL=x|LHE=x|LHO=-|AS=-}}
+|-
+{{ShipSyAvail|Link=Mercury (ship)|Name=Mercury Tanker|Type=TS|Cost=451347}} {{ArgonSyAvail|AP=-|CS=-|OL=x|LHE=-|LHO=-|AS=-}}
+|-
+{{ShipSyAvail|Link=Mercury (ship)|Name=Mercury Tanker XL|Type=TS|Cost=952331}} {{ArgonSyAvail|AP=x|CS=x|OL=-|LHE=-|LHO=x|AS=x}}
+|}
+
+[[Category:Shipyards]]
+
+==See Also==
+{{Argon Navbox}}

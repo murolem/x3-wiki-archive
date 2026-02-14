@@ -1,3 +1,20 @@
-<!-- source file: index__qf927a38689fe.html -->
+<noinclude>A navbox for trade-related pages.
 
-&lt;noinclude>A navbox for trade-related pages. Also adds page to Category:Trading. &lt;/noinclude> {| width="725px" style="text-align:center; border-width:1px; border-style:solid; border-color:lightgrey;" ! colspan="3" style="background-color: #AAAAEE;" | Trading |- ! width="10em" style="background-color: #CCCCFF;" | [[Autopilot|Software]] || [[Trade Command Software|Trade Command Software Mks 1, 2 &amp;3]] | [[Commodity Logistics Software|Commodity Logistics Software Mks 1 &amp; 2]] [[Trading System Extension]] |- ! width="10em" style="background-color: #CCCCFF;" | Stations and Economy | style="background-color: #EEEEEE;" | [[Complex]]es | [[Wares]] | [[Stations]] | [[Economy]] | [[Traders]] | [[Races|Races and Factions]] |- ! width="10em" style="background-color: #CCCCFF;" | Trading [[Guides]] || [[Universe Traders Guide]] | [[Complex|Complex Building Guide]] | [[CLS Guide]] [[Commercial Agent]] | [[Manual Trade Run]]s | [[Mobile Mining]] |} &lt;includeonly>[[Category:Trading]]&lt;/includeonly>
+Also adds page to Category:Trading.
+
+</noinclude>
+{| width="725px" style="text-align:center; border-width:1px; border-style:solid; border-color:lightgrey;"
+! colspan="3" style="background-color: #AAAAEE;" | Trading
+|-
+! width="10em" style="background-color: #CCCCFF;"  | [[Autopilot|Software]]
+|| [[Trade Command Software|Trade Command Software Mks 1, 2 &3]] | [[Commodity Logistics Software|Commodity Logistics Software Mks 1 & 2]]
+[[Trading System Extension]]
+|-
+! width="10em" style="background-color: #CCCCFF;" | Stations and Economy
+| style="background-color: #EEEEEE;" | [[Complex]]es | [[Wares]] | [[Stations]] | [[Economy]] | [[Traders]] | [[Races|Races and Factions]]
+|-
+! width="10em" style="background-color: #CCCCFF;" | Trading [[Guides]]
+|| [[Universe Traders Guide]] | [[Complex|Complex Building Guide]] | [[CLS Guide]]
+[[Commercial Agent]] | [[Manual Trade Run]]s | [[Mobile Mining]]
+|}
+<includeonly>[[Category:Trading]]</includeonly>

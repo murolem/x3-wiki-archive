@@ -1,3 +1,33 @@
-<!-- source file: index__q3f7cdaee0b8c.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Sunrise Flowers
+|cargoclass=S
+|volume=1
+|minprice=5
+|aveprice=20
+|maxprice=35
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+Teladi sunrise flowers are large plants with blue leaves and stems and large white flowers that originally grew in the vast open swamplands found on the Teladi home planet. Sunrise Flowers are grown on Flower Farms nowadays because of the superior light and gravity conditions in space. These flowers provide the Teladi with a number of different resources. The stem and leaves are used as vegetable matter and provide the Teladi with their basic foodstuff. The flower heads are gathered and pressed to produce a crude oil, which is used for cooking and heating purposes.
 
-{{Infobox open}} {{Infobox ware |ware= Sunrise Flowers |cargoclass=S |volume=1 |minprice=5 |aveprice=20 |maxprice=35 }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== Teladi sunrise flowers are large plants with blue leaves and stems and large white flowers that originally grew in the vast open swamplands found on the Teladi home planet. Sunrise Flowers are grown on Flower Farms nowadays because of the superior light and gravity conditions in space. These flowers provide the Teladi with a number of different resources. The stem and leaves are used as vegetable matter and provide the Teladi with their basic foodstuff. The flower heads are gathered and pressed to produce a crude oil, which is used for cooking and heating purposes. ==Commentary== ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Flower Farm]] | *[[Sun Oil Refinery]] | *[[Scruffin Farm]] | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}} {{Waretable}} {{Teladi Navbox}}
+==Commentary==
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Flower Farm]]
+|
+*[[Sun Oil Refinery]]
+|
+*[[Scruffin Farm]]
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}
+
+{{Warecategory}}
+{{Waretable}}
+
+{{Teladi Navbox}}

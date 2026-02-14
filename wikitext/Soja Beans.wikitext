@@ -1,3 +1,32 @@
-<!-- source file: index__q434415072f1d.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Soja Beans
+|cargoclass=S
+|volume=1
+|minprice=14
+|aveprice=28
+|maxprice=42
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+Soja Beans grow naturally inside large caves found throughout the Paranid home planet. As they grow in the dark they are white in colour and retain a large amount of moisture. The Paranid farm them and gently squeeze out this moisture, which they then use as a source of water. The dry beans are then mashed, and processed to produce a type of basic foodstuff used as the base for many of the Paranid different food types. It is traded as Soja husk. The space installations growing these beans are also called Soy farms.
+==Commentary==
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Soyfarm]]
+|
+*[[Soyery]]
+|
+*List of Race Factories where this ware is a secondary resource
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}
 
-{{Infobox open}} {{Infobox ware |ware= Soja Beans |cargoclass=S |volume=1 |minprice=14 |aveprice=28 |maxprice=42 }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== Soja Beans grow naturally inside large caves found throughout the Paranid home planet. As they grow in the dark they are white in colour and retain a large amount of moisture. The Paranid farm them and gently squeeze out this moisture, which they then use as a source of water. The dry beans are then mashed, and processed to produce a type of basic foodstuff used as the base for many of the Paranid different food types. It is traded as Soja husk. The space installations growing these beans are also called Soy farms. ==Commentary== ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Soyfarm]] | *[[Soyery]] | *List of Race Factories where this ware is a secondary resource | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}} {{Waretable}} {{Paranid Navbox}}
+{{Warecategory}}
+{{Waretable}}
+
+{{Paranid Navbox}}

@@ -1,3 +1,32 @@
-<!-- source file: index__q5774d385d893.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Argon
+|station=Marine Training Barracks M
+|hull=2000000
+|shield=15
+|generator=2000
+|hangar=5
+|cycle=00:55:00
+|productnum=[[Marine]] (2)
+|stationprice=
+|reqresources=[[Energy Cells]] (275) <br>[[Meatsteak Cahoonas]] (184) <br>[[Slaves]] (22)
+|optresources=[[Disintegrator Rifles]]<br>[[Low-yield Sidearms]]<br>[[Space Fuel]]
+}}
+{{Infobox close}}
+==Overview==
+Marine Training Barracks are Argon "factories" that produce [[Marines]] from [[Energy Cells]], [[Meatsteak Cahoonas]] and [[Slaves]]. 
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Argon |station=Marine Training Barracks M |hull=2000000 |shield=15 |generator=2000 |hangar=5 |cycle=00:55:00 |productnum=[[Marine]] (2) |stationprice= |reqresources=[[Energy Cells]] (275) &lt;br>[[Meatsteak Cahoonas]] (184) &lt;br>[[Slaves]] (22) |optresources=[[Disintegrator Rifles]]&lt;br>[[Low-yield Sidearms]]&lt;br>[[Space Fuel]] }} {{Infobox close}} ==Overview== Marine Training Barracks are Argon "factories" that produce [[Marines]] from [[Energy Cells]], [[Meatsteak Cahoonas]] and [[Slaves]]. NPC stations will buy [[Disintegrator Rifles]], [[Low-yield Sidearms]] and [[Space Fuel]] as secondary resources. ===Encyclopedia Entry=== A Marine Training Barracks accepts personnel from all walks of life and, with training and discipline, turns them into formidable fighters dedicated to mounting boarding and other operations. Marine training is focussed on producing operatives specializing in computers, engineering and infantry combat. ==Availability== Not for Sale. {{Stationcategory}} == See Also == {{Piracy}}
+NPC stations will buy [[Disintegrator Rifles]], [[Low-yield Sidearms]] and [[Space Fuel]] as secondary resources.
+
+===Encyclopedia Entry===
+A Marine Training Barracks accepts personnel from all walks of life and, with training and discipline, turns them into formidable fighters dedicated to mounting boarding and other operations. Marine training is focussed on producing operatives specializing in computers, engineering and infantry combat.
+
+==Availability==
+Not for Sale.
+
+{{Stationcategory}}
+
+== See Also ==
+
+{{Piracy}}

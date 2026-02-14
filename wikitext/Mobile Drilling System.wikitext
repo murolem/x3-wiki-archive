@@ -1,3 +1,56 @@
-<!-- source file: index__q58321405b935.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Mobile Drilling System
+|hulldam=325
+|shielddam=118
+|range=4.83
+|rof= 3
+|shotspeed= 84
+|maxweapenergy= 800
+|shotcost=20
+}}
+{{Infobox ware
+|ware=Mobile Drilling System
+|cargoclass=XL
+|volume=100
+|minprice=67001
+|aveprice=77908
+|maxprice=88815
+}}
+{{Infobox close}}
+==Overview==
+The Mobile Drilling System is used for breaking up asteroids and space rocks for collection using [[Ore Collector]]s.
 
-{{Infobox open}} {{Infobox weapon |weapon=Mobile Drilling System |hulldam=325 |shielddam=118 |range=4.83 |rof= 3 |shotspeed= 84 |maxweapenergy= 800 |shotcost=20 }} {{Infobox ware |ware=Mobile Drilling System |cargoclass=XL |volume=100 |minprice=67001 |aveprice=77908 |maxprice=88815 }} {{Infobox close}} ==Overview== The Mobile Drilling System is used for breaking up asteroids and space rocks for collection using [[Ore Collector]]s. ==Encyclopedia Entry== The Mobile Drilling System accelerates and emits small fast rotating helical particles which drill into rock and use supersonic resonance to break up the rock. Its effectiveness against other materials is very low. ==Commentary== Although the MDS can be used as a weapon, it is of very limited effectiveness due to the low power, low projectile velocity, and low refire rate. Its only real use is for breaking up asteroids into smaller rocks, the alternative being expensive heavy missiles. Once the larger rocks have been broken, a smaller laser (like the [[IRE]], [[PAC]] or possibly [[PRG]]) is better for further decomposing the rocks into collectable chunks. The power output of the MDS is substantial. In particular, the blast radius of an MDS projectile is sufficiently large enough to breakdown asteroids in close proximity to the targeted asteroid. Additionally, when an asteroid has reached a sufficiently small size suitable for collection, and is impacted directly by an MDS projectile or indirectly from a nearby targeted asteroid, the small, harvestable asteroid itself is destroyed and the potential resource yield is lost. As a consequence, Mobile Drilling System operators are urged to use caution during mining activities. ==Known Compatible Ships== *[[TL]] class **[[Orca|Boron Orca]] **[[Mobile Mining Base Ship|Terran Mobile Mining Base Ship]] **[[Ryu|Yaki Ryu]] **[[Hercules|Paranid Hercules]] **[[Elephant|Split Elephant]] {{TLcategory}} *[[TS]] class **[[Mercury(ship)|Argon Mercury]] **[[Lotan|Argon Lotan]] **[[Mistral|OTAS Mistral]] **[[Demeter|Paranid Demeter Miner]] **[[Caiman|Split Caiman Miner]] **[[Vulture|Teladi Vulture Miner]] **[[Baldric|Terran Baldric Miner]] {{TScategory}} *[[TM]] class **[[Magnetar|Argon Magnetar]] **[[Caravel|Pirate Caravel]] {{TMcategory}} ==Available at Known Docks==
+==Encyclopedia Entry==
+The Mobile Drilling System accelerates and emits small fast rotating helical particles which drill into rock and use supersonic resonance to break up the rock. Its effectiveness against other materials is very low.
+==Commentary==
+Although the MDS can be used as a weapon, it is of very limited effectiveness due to the low power, low projectile velocity, and low refire rate. Its only real use is for breaking up asteroids into smaller rocks, the alternative being expensive heavy missiles. Once the larger rocks have been broken, a smaller laser (like the [[IRE]], [[PAC]] or possibly [[PRG]]) is better for further decomposing the rocks into collectable chunks.
+
+The power output of the MDS is substantial. In particular, the blast radius of an MDS projectile is sufficiently large enough to breakdown asteroids in close proximity to the targeted asteroid. Additionally, when an asteroid has reached a sufficiently small size suitable for collection, and is impacted directly by an MDS projectile or indirectly from a nearby targeted asteroid, the small, harvestable asteroid itself is destroyed and the potential resource yield is lost.  As a consequence, Mobile Drilling System operators are urged to use caution during mining activities.
+
+==Known Compatible Ships==
+
+*[[TL]] class
+**[[Orca|Boron Orca]]
+**[[Mobile Mining Base Ship|Terran Mobile Mining Base Ship]]
+**[[Ryu|Yaki Ryu]]
+**[[Hercules|Paranid Hercules]]
+**[[Elephant|Split Elephant]]
+{{TLcategory}}
+
+*[[TS]] class
+**[[Mercury(ship)|Argon Mercury]]
+**[[Lotan|Argon Lotan]]
+**[[Mistral|OTAS Mistral]]
+**[[Demeter|Paranid Demeter Miner]]
+**[[Caiman|Split Caiman Miner]]
+**[[Vulture|Teladi Vulture Miner]]
+**[[Baldric|Terran Baldric Miner]]
+{{TScategory}}
+
+*[[TM]] class
+**[[Magnetar|Argon Magnetar]]
+**[[Caravel|Pirate Caravel]]
+{{TMcategory}}
+
+==Available at Known Docks==

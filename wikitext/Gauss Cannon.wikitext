@@ -1,3 +1,70 @@
-<!-- source file: index__q318d361ed003.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Gauss Cannon
+|hulldam= 17900
+|shielddam= 42200
+|range= 4.78 
+|rof= 88 
+|shotspeed= 353 
+|maxweapenergy= 4000
+|shotcost=1
+}}
+{{Infobox ware
+|ware=Gauss Cannon
+|cargoclass= XL
+|volume= 55
+|minprice= 676732
+|aveprice= 727668
+|maxprice= 778604
+}}
+{{Infobox close}}
+==Overview==
+The Gauss Cannon, sometimes abbreviated to GC, is a [[Teladi]] capital ship weapon that uses [[Gauss Cannon Ammunition|ammunition]].
 
-{{Infobox open}} {{Infobox weapon |weapon=Gauss Cannon |hulldam= 17900 |shielddam= 42200 |range= 4.78 |rof= 88 |shotspeed= 353 |maxweapenergy= 4000 |shotcost=1 }} {{Infobox ware |ware=Gauss Cannon |cargoclass= XL |volume= 55 |minprice= 676732 |aveprice= 727668 |maxprice= 778604 }} {{Infobox close}} ==Overview== The Gauss Cannon, sometimes abbreviated to GC, is a [[Teladi]] capital ship weapon that uses [[Gauss Cannon Ammunition|ammunition]]. ==Encyclopedia Entry== A deadly weapon found on frigates, destroyers and carriers. The Teladi designed this ammo-based low-tech solution in a bid to save money on expensive capital ship energy generators. The Gauss Cannon uses magnetic coils to accelerate large ionised metallic slugs that, while too big to pass through them, will disrupt enemy shields. This weapon requires specially-made ammunition in order to fire. ==Commentary== A powerful and popular ammo-based capital weapon. The Gauss Cannon is very ammunition efficient and effective against both shields and hull. Its damage leans towards rapid hull destruction rather than shielding, but it deals good shield damage also. It is often used in conjunction with the [[Ion Cannon]] which has similar range and the highest shield damage in the game. ==Known Compatible Ships== {| style="text-align:left;" |- valign="top" | '''[[Argon]]''' *[[Boreas]] (M2) *[[Titan (ship)|Titan]] (M2) | '''[[Boron]]''' *[[Megalodon]] (M2+) *[[Ray]] (M2) | '''[[Paranid]]''' *[[Odysseus]] (M2) | '''[[Pirates]] *[[Brigantine]] (M2) | '''[[Split]]''' *[[Python]] (M2) *[[Raptor]] (M1) | '''[[Teladi]]''' *[[Condor]] (M1) *[[Phoenix]] (M2) *[[Shrike]] (M7) | '''[[Xenon]]''' *[[Xenon K]] (M2) | '''[[Yaki]]''' *[[Akuma]] (M2) | '''[[Goner]]''' *[[Truelight Seeker]] (M6) |} ==Available at Known Docks== *Teladi [[Heavy Weapons Complex]] *[[Ceo's Buckzoid]]([[Teladi Space Equipment Dock]]) *[[Company Pride]]([[Teladi Space Equipment Dock]]) *[[Getsu Fune]]([[Teladi Space Equipment Dock]]) *[[Home of Opportunity]]([[Teladi Space Equipment Dock]]) *[[Ianamus Zura]]([[Teladi Space Equipment Dock]]) *[[Seizewell]]([[Teladi Space Equipment Dock]]) *[[The Vault]]([[Teladi Space Equipment Dock]]) *[[Two Grand]]([[Teladi Space Equipment Dock]]) ==See Also== * [[Gauss Cannon Ammunition]]
+==Encyclopedia Entry==
+A deadly weapon found on frigates, destroyers and carriers. The Teladi designed this ammo-based low-tech solution in a bid to save money on expensive capital ship energy generators. The Gauss Cannon uses magnetic coils to accelerate large ionised metallic slugs that, while too big to pass through them, will disrupt enemy shields. This weapon requires specially-made ammunition in order to fire.
+==Commentary==
+A powerful and popular ammo-based capital weapon. The Gauss Cannon is very ammunition efficient and effective against both shields and hull. Its damage leans towards rapid hull destruction rather than shielding, but it deals good shield damage also. It is often used in conjunction with the [[Ion Cannon]] which has similar range and the highest shield damage in the game.
+
+==Known Compatible Ships==
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Argon]]'''
+*[[Boreas]] (M2)
+*[[Titan (ship)|Titan]] (M2)
+| '''[[Boron]]'''
+*[[Megalodon]] (M2+)
+*[[Ray]] (M2)
+| '''[[Paranid]]'''
+*[[Odysseus]] (M2)
+| '''[[Pirates]]
+*[[Brigantine]] (M2)
+| '''[[Split]]'''
+*[[Python]] (M2)
+*[[Raptor]] (M1)
+| '''[[Teladi]]'''
+*[[Condor]] (M1)
+*[[Phoenix]] (M2)
+*[[Shrike]] (M7)
+| '''[[Xenon]]'''
+*[[Xenon K]] (M2)
+| '''[[Yaki]]'''
+*[[Akuma]] (M2)
+| '''[[Goner]]'''
+*[[Truelight Seeker]] (M6)
+|}
+
+==Available at Known Docks==
+*Teladi [[Heavy Weapons Complex]]
+*[[Ceo's Buckzoid]]([[Teladi Space Equipment Dock]])
+*[[Company Pride]]([[Teladi Space Equipment Dock]])
+*[[Getsu Fune]]([[Teladi Space Equipment Dock]])
+*[[Home of Opportunity]]([[Teladi Space Equipment Dock]])
+*[[Ianamus Zura]]([[Teladi Space Equipment Dock]])
+*[[Seizewell]]([[Teladi Space Equipment Dock]])
+*[[The Vault]]([[Teladi Space Equipment Dock]])
+*[[Two Grand]]([[Teladi Space Equipment Dock]])
+
+==See Also==
+
+* [[Gauss Cannon Ammunition]]

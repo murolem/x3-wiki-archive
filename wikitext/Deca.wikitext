@@ -1,3 +1,118 @@
-<!-- source file: index__q21bca78f306b.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=#deca
+|Faction=Terran
+|Class={{M1class}}
+|Priceblock={{Priceblock|| 12389995}}
+|Minspeed=18
+|Maxspeed=36
+|Minaccel=4
+|Maxaccel=9
+|Minsteer=0.5
+|Maxsteer=0.9
+|Hull= 900000
+|Maxshield= 2 GJ
+|Shieldslots= 6
+|Maxshieldstrength= 12000
+|Shieldreactor= 9400
+|Cargoclass= XL
+|Mincargo= 8000
+|Maxcargo= 8000
+|Lasercap= 250000
+|Laserrecharge= 3746
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=8
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=1|bke=1|gke=1|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=8
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=1|bke=1|gke=1|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=8
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=1|bke=1|gke=1|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Down
+|Guncount=8
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=1|bke=1|gke=1|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay={{Dockbay|50 [[M3+]]-[[M5]]}}
+}}
+{{Infobox close}}
+==Overview==
+The '''#deca''' is a massive ship sent out by the [[Terran]]s hundreds of years ago to terraform planets. It is one of the few remaining TF/CPU ships, It manufactured and distributed smaller [[Terraformer]] ships, now designated as [[deca.fade|#deca.fade]], [[deca.deaf|#deca.deaf]], and [[deca.cefa|#deca.cefa]]. Martin Winters, the lead scientist of the Terraformer Project and the accidental creator of the Xenon escaped from the Solar System on this very ship.
 
-{{Infobox open}} {{Infobox variant |Variant=#deca |Faction=Terran |Class={{M1class}} |Priceblock={{Priceblock|| 12389995}} |Minspeed=18 |Maxspeed=36 |Minaccel=4 |Maxaccel=9 |Minsteer=0.5 |Maxsteer=0.9 |Hull= 900000 |Maxshield= 2 GJ |Shieldslots= 6 |Maxshieldstrength= 12000 |Shieldreactor= 9400 |Cargoclass= XL |Mincargo= 8000 |Maxcargo= 8000 |Lasercap= 250000 |Laserrecharge= 3746 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=8 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=1|bke=1|gke=1| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Right |Guncount=8 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=1|bke=1|gke=1| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount=8 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=1|bke=1|gke=1| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Down |Guncount=8 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=1|bke=1|gke=1| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay={{Dockbay|50 [[M3+]]-[[M5]]}} }} {{Infobox close}} ==Overview== The '''#deca''' is a massive ship sent out by the [[Terran]]s hundreds of years ago to terraform planets. It is one of the few remaining TF/CPU ships, It manufactured and distributed smaller [[Terraformer]] ships, now designated as [[deca.fade|#deca.fade]], [[deca.deaf|#deca.deaf]], and [[deca.cefa|#deca.cefa]]. Martin Winters, the lead scientist of the Terraformer Project and the accidental creator of the Xenon escaped from the Solar System on this very ship. ==Background== This appears to be one of the huge CPU ships originally dispatched from [[Earth]] to terraform planets and has been modified for a defensive role. The CPU ship designated #deca was assigned to the [[Aldrin]] colony, and was one of the only such vessels not to turn on and destroy its owners in the early 2140s. ==Physical Characteristics== The #deca is a massive cylindrical ship, with various structures sticking out of her hull. == Combat == Though not originally designed for battle, the #deca appears to have been modified for a defensive role. Almost a thousand years after her construction, she is still capable of handling herself against some foes. While she boasts massive shielding, she cannot stand up to a destroyer even when outfitted entirely with [[Gamma Kyon Emitter]]s. Typical carrier tactics apply in combat, although her poor mobility and sheer size prevents her from escaping a determined attack. Oddly enough, the #deca's shielding is powerful enough that she can survive the [[OOS]] assault of a [[Xenon Q]], like the [[M2]]-class [[Tyr]] and [[Osaka]], but her weak weaponry prevents her from returning the favor. == Equipment == The #deca can install [[Poltergeist Missile|Poltergeist]] and [[Spectre Missile|Spectre missiles]] for use in combat. She also uses all [[Kha'ak]] kyon weapons in the absence of any other guns, so if she is captured she is still very difficult to arm. == Availability == The #deca is not available for sale at any known shipyards. She can, however, be captured during the [[Terran plot]]. As of 3.1.1 (or possibly 3.1) seems to be boardable even after completion of the Terran plot. == Suggested Roles== Although being extremely difficult to obtain makes her more of a trophy piece, the #deca's large hangar makes her a tough ship in her own right. If a full complement of [[Gamma Kyon Emitter]]s can be acquired, she can have limited point defense capability while her fighter wings take care of enemies, as the #deca herself cannot stand up to destroyer attacks. == See Also== {{M1}} [[Category: Carrier]] {{Aldrin Navbox}}
+==Background==
+This appears to be one of the huge CPU ships originally dispatched from [[Earth]] to terraform planets and has been modified for a defensive role.
+
+The CPU ship designated #deca was assigned to the [[Aldrin]] colony, and was one of the only such vessels not to turn on and destroy its owners in the early 2140s.
+
+==Physical Characteristics==
+The #deca is a massive cylindrical ship, with various structures sticking out of her hull.
+
+== Combat ==
+Though not originally designed for battle, the #deca appears to have been modified for a defensive role.  Almost a thousand years after her construction, she is still capable of handling herself against some foes.  While she boasts massive shielding, she cannot stand up to a destroyer even when outfitted entirely with [[Gamma Kyon Emitter]]s.  Typical carrier tactics apply in combat, although her poor mobility and sheer size prevents her from escaping a determined attack.
+
+Oddly enough, the #deca's shielding is powerful enough that she can survive the [[OOS]] assault of a [[Xenon Q]], like the [[M2]]-class [[Tyr]] and [[Osaka]], but her weak weaponry prevents her from returning the favor.
+
+== Equipment ==
+The #deca can install [[Poltergeist Missile|Poltergeist]] and [[Spectre Missile|Spectre missiles]] for use in combat.  She also uses all [[Kha'ak]] kyon weapons in the absence of any other guns, so if she is captured she is still very difficult to arm.
+
+== Availability ==
+The #deca is not available for sale at any known shipyards.  She can, however, be captured during the [[Terran plot]]. As of 3.1.1 (or possibly 3.1) seems to be boardable even after completion of the Terran plot.
+
+== Suggested Roles==
+Although being extremely difficult to obtain makes her more of a trophy piece, the #deca's large hangar makes her a tough ship in her own right. If a full complement of [[Gamma Kyon Emitter]]s can be acquired, she can have limited point defense capability while her fighter wings take care of enemies, as the #deca herself cannot stand up to destroyer attacks.
+
+== See Also==
+
+{{M1}}
+[[Category: Carrier]]
+
+{{Aldrin Navbox}}

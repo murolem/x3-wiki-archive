@@ -1,3 +1,29 @@
-<!-- source file: index__q6ecb65017109.html -->
+Questline: [[x3ap_quests | X3:AP Quests]]
 
-Questline: [[x3ap_quests | X3:AP Quests]] The Beryll requires you to help the Beryll syndicate retrieve materials to the Beryll Research Station. '''Part 1''': 200 x [[Computer Components]] 50 x [[Microchips]] 10 x [[Impulse Ray Emitter]]s '''Part 2''': Deliver a Xenon L to Beryll Research Station. (You must Claim from the enemy) ===Completion Rewards=== '''Part 1''': 1,066,946 Cr '''Part 2''': 3 x #deca.cefa (M3) {{MoveBox|X3ap:6_Albion_Defenceless|X3ap:8_Plutarch_Rising}}
+
+The Beryll requires you to help the Beryll syndicate retrieve materials to the Beryll Research Station.
+
+'''Part 1''': 
+
+200 x [[Computer Components]]
+
+50 x [[Microchips]]
+
+10 x [[Impulse Ray Emitter]]s
+
+
+'''Part 2''': 
+
+Deliver a Xenon L to Beryll Research Station. (You must Claim from the enemy)
+
+
+
+===Completion Rewards===
+
+
+'''Part 1''': 1,066,946 Cr
+
+'''Part 2''': 3 x #deca.cefa (M3)
+
+
+{{MoveBox|X3ap:6_Albion_Defenceless|X3ap:8_Plutarch_Rising}}

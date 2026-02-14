@@ -1,3 +1,179 @@
-<!-- source file: index__qb719bcdbaed7.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Q
+|Faction=Xenon
+|Class={{M7class}}
+|Priceblock=
+|Minspeed=81
+|Maxspeed= 121.8 
+|Minaccel=6
+|Maxaccel=9
+|Minsteer=2.3
+|Maxsteer=3.4
+|Hull= 180000 / 720000 (AP)
+|Maxshield=1 GJ
+|Shieldslots=4
+|Maxshieldstrength=4000
+|Shieldreactor= 5800 
+|Cargoclass=XL
+|Mincargo=5000
+|Maxcargo=5850
+|Lasercap= 49000 
+|Laserrecharge=979
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=0|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=1|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=2
+|ire=0|pac=0|hept=1|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=2
+|ire=0|pac=0|hept=1|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
 
-{{Infobox open}} {{Infobox variant |Variant=Q |Faction=Xenon |Class={{M7class}} |Priceblock= |Minspeed=81 |Maxspeed= 121.8 |Minaccel=6 |Maxaccel=9 |Minsteer=2.3 |Maxsteer=3.4 |Hull= 180000 / 720000 (AP) |Maxshield=1 GJ |Shieldslots=4 |Maxshieldstrength=4000 |Shieldreactor= 5800 |Cargoclass=XL |Mincargo=5000 |Maxcargo=5850 |Lasercap= 49000 |Laserrecharge=979 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=0|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=1|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=1|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Rear |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Right |Guncount=2 |ire=0|pac=0|hept=1| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Left |Guncount=2 |ire=0|pac=0|hept=1| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The Q is the most feared ship in the X-Universe, despite not being the most deadly individual enemy and not being particularly potent even as [[M7]]s go. This is because it is the most common enemy [[:Category:Capital Ships|capital ship]] encountered. Fast, powerful, highly maneuverable and constantly deployed on patrol by the [[Xenon]] within [[Commonwealth]] space with fighter escorts, these vessels are responsible for most of the losses incurred by transports and warships alike. The Q was developed at roughly the same time as [[Commonwealth]] nations developed their own [[M7|frigates]], possibly as a response. The vessel's design appears to have been optimized to provide a fast heavy-hitter that can sweep in and obliterate any opponent with rapidity, whether it is based at home or abroad. The Q is very fast; only the [[ATF]] [[Aegir]] is quicker in the [[M7]] class. As of Albion Prelude, the [[OTAS]] [[Astraeus Hauler]] and the [[Argon]] [[Griffon]] both exceed the Q in speed in the M7 class, but improvements to the OOS-combat algorithms have reduced the Q's ability to annihilate any target instantly. ==Background== The Xenon Q, spotted recently by ships transiting Xenon sectors, appears to be a frigate that increases the Xenon ability to react quickly to incursions into their space. ==Physical Characteristics== It is of moderate size compared to other frigates. The hexagonal front-end is immediately distinguishable by any veteran; if you see it, you are well advised to point your tailpipe at it and keep the throttle on the limiter. Alternately, charge at it, hide in one of the several massive blind spots it has (due to nonfunctional turrets above and below its fuselage) and pump firepower into it until it pops. == Combat == Q loadouts change from Q to Q. They can equip a very wide variety of weapons including a rear mounted [[Flak Artillery Array]] to side mounted [[PPC]]s and frontal [[IBL]]s. You can expect a Q to lob pretty much anything at you. The major drawback of this ship is its poor recharge rate for its weapons; it ties with the [[Shrike|Teladi Shrike]] for the worst laser recharge rate out of any M7. Also, it has blind spots at the top and bottom ends of the ship due to nonfunctional turrets in those areas thanks to a bug; this makes it easy for a fighter to hide in either of those areas and keep shooting at it until it is destroyed. They are the most powerful opponent that [[Out-of-Sector]] patrol ships will come across, and the only ships that are guaranteed to survive the first hit from a Q are the [[Osaka]] and [[Tyr]]. == Equipment == {| |+ '''Missiles''' |- valign="top" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] | *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] *[[Aurora Missile]] *[[Remote Guided Warhead]] *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] | *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] *[[Hornet Missile]] *[[Typhoon Missile]] *[[Firestorm Torpedo]] |} == Availability == Qs are Xenon ships; they are unbuyable and must be [[Bigship Boarding|boarded]]. Capturing a Xenon Capital Ship is extremely difficult; waves of highly trained [[Marines]], totaling more than 30, are often necessary. == Suggested Roles== The Q is a patrol ship. There is always at least one making an incursion into Commonwealth space. They also can be found defending Xenon sectors; with their speed and superior firepower they can deal with any intruder swiftly and mercilessly. == Headquarters Production Info == This ship can be reverse engineered and produced at the player Headquarters. Required materials and build time as follows: HQ Production Materials {| style="text-align:right;" ! Ware !! Amount |- valign="top" |[[Energy Cells]]||{{formatnum:33327}} |- |[[Teladianium]]||{{formatnum:1041}} |- |[[Cloth Rimes]]||347 |- |[[Rastar Oil]]||694 |- |[[Ore]]||{{formatnum:1388}} |- |[[Silicon|Silicon Wafers]]||{{formatnum:1041}} |- |[[Crystals]]||347 |- |[[Quantum Tubes]]||347 |- |[[Microchips]]||694 |- |[[Computer Components]]||347 |- |Shipwright Fee ([[Credits]])|| {{formatnum:9831749}} |- |Build Time (game time)&lt;bR>(hh:mm:ss)|| 19:41:42 |} == See Also== {{M7}}
+==Overview==
+The Q is the most feared ship in the X-Universe, despite not being the most deadly individual enemy and not being particularly potent even as [[M7]]s go. This is because it is the most common enemy [[:Category:Capital Ships|capital ship]] encountered. Fast, powerful, highly maneuverable and constantly deployed on patrol by the [[Xenon]] within [[Commonwealth]] space with fighter escorts, these vessels are responsible for most of the losses incurred by transports and warships alike.
+The Q was developed at roughly the same time as [[Commonwealth]] nations developed their own [[M7|frigates]], possibly as a response. The vessel's design appears to have been optimized to provide a fast heavy-hitter that can sweep in and obliterate any opponent with rapidity, whether it is based at home or abroad. The Q is very fast; only the [[ATF]] [[Aegir]] is quicker in the [[M7]] class.
+
+As of Albion Prelude, the [[OTAS]] [[Astraeus Hauler]] and the [[Argon]] [[Griffon]] both exceed the Q in speed in the M7 class, but improvements to the OOS-combat algorithms have reduced the Q's ability to annihilate any target instantly.
+
+==Background==
+The Xenon Q, spotted recently by ships transiting Xenon sectors, appears to be a frigate that increases the Xenon ability to react quickly to incursions into their space.
+
+==Physical Characteristics==
+It is of moderate size compared to other frigates. The hexagonal front-end is immediately distinguishable by any veteran; if you see it, you are well advised to point your tailpipe at it and keep the throttle on the limiter. Alternately, charge at it, hide in one of the several massive blind spots it has (due to nonfunctional turrets above and below its fuselage) and pump firepower into it until it pops.
+
+== Combat ==
+Q loadouts change from Q to Q. They can equip a very wide variety of weapons including a rear mounted [[Flak Artillery Array]] to side mounted [[PPC]]s and frontal [[IBL]]s. You can expect a Q to lob pretty much anything at you. The major drawback of this ship is its poor recharge rate for its weapons; it ties with the [[Shrike|Teladi Shrike]] for the worst laser recharge rate out of any M7. Also, it has blind spots at the top and bottom ends of the ship due to nonfunctional turrets in those areas thanks to a bug; this makes it easy for a fighter to hide in either of those areas and keep shooting at it until it is destroyed.
+
+They are the most powerful opponent that [[Out-of-Sector]] patrol ships will come across, and the only ships that are guaranteed to survive the first hit from a Q are the [[Osaka]] and [[Tyr]].
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- valign="top"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+|
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Aurora Missile]]
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+|
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+*[[Hornet Missile]]
+*[[Typhoon Missile]]
+*[[Firestorm Torpedo]]
+|}
+
+== Availability ==
+Qs are Xenon ships; they are unbuyable and must be [[Bigship Boarding|boarded]]. 
+
+Capturing a Xenon Capital Ship is extremely difficult; waves of highly trained [[Marines]], totaling more than 30, are often necessary.
+
+== Suggested Roles==
+The Q is a patrol ship. There is always at least one making an incursion into Commonwealth space. They also can be found defending Xenon sectors; with their speed and superior firepower they can deal with any intruder swiftly and mercilessly.
+
+== Headquarters Production Info ==
+This ship can be reverse engineered and produced at the player Headquarters. Required materials and build time as follows:
+
+HQ Production Materials
+{| style="text-align:right;"
+! Ware !! Amount
+|- valign="top"
+|[[Energy Cells]]||{{formatnum:33327}}
+|-
+|[[Teladianium]]||{{formatnum:1041}}
+|-
+|[[Cloth Rimes]]||347
+|-
+|[[Rastar Oil]]||694
+|-
+|[[Ore]]||{{formatnum:1388}}
+|-
+|[[Silicon|Silicon Wafers]]||{{formatnum:1041}}
+|-
+|[[Crystals]]||347
+|-
+|[[Quantum Tubes]]||347
+|-
+|[[Microchips]]||694
+|-
+|[[Computer Components]]||347
+|-
+|Shipwright Fee ([[Credits]])|| {{formatnum:9831749}}
+|-
+|Build Time (game time)<bR>(hh:mm:ss)||	19:41:42
+|}
+
+== See Also==
+{{M7}}

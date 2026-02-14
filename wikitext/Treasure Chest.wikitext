@@ -1,3 +1,36 @@
-<!-- source file: index__q6c34ccde42d9.html -->
+{{Infobox Sector
+|Race=Argon
+|SecLevel=Border
+|Population=75,199,244
+|Planets=3
+|SunLevel=150
+|GateDist=90
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|0|25000|[[Elysium of Light]]}}
+{{Gateblock2|East|40000|0|0|[[Black Hole Sun]]}}
+{{Gateblock2|West|-32000|0|0|[[Omicron Lyrae]]}}
+{{Gateblock/End}}
+}}
+==Description==
+This struggling [[Argon]] agricultural system is situated between the breathtaking planets "Garleth Prime" and "Garleth Beta". Recent attacks on supply lines by [[Xenon]] forces have led to many fire-fights among the [[stations|installations]], [[asteroids]] and the busy trade routes in this system.
 
-{{Infobox Sector |Race=Argon |SecLevel=Border |Population=75,199,244 |Planets=3 |SunLevel=150 |GateDist=90 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0|0|25000|[[Elysium of Light]]}} {{Gateblock2|East|40000|0|0|[[Black Hole Sun]]}} {{Gateblock2|West|-32000|0|0|[[Omicron Lyrae]]}} {{Gateblock/End}} }} ==Description== This struggling [[Argon]] agricultural system is situated between the breathtaking planets "Garleth Prime" and "Garleth Beta". Recent attacks on supply lines by [[Xenon]] forces have led to many fire-fights among the [[stations|installations]], [[asteroids]] and the busy trade routes in this system. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ice|17|-9469|-1889|6248}} {{Asteroid/Item|Ore|44|1039|-1657|-17299}} {{Asteroid/Item|Ore|20|7916|-9640|-1432}} {{Asteroid/Item|Ore|17|-19065|-3153|-18512}} {{Asteroid/Item|Ore|15|16798|-7813|9089}} {{Asteroid/Item|Ore|11|-32198|7415|-8898}} {{Asteroid/Item|Ore|11|-1319|-6286|-25221}} {{Asteroid/Item|Ore|9|21532|3199|12612}} {{Asteroid/Item|Silicon|7|10207|6271|9680}} {{Asteroid/Item|Silicon|6|17481|-2909|-6016}} {{Asteroid/Item|Silicon|5|-23060|-1653|5336}} {{Asteroid/End}} {{Argon Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ice|17|-9469|-1889|6248}}
+{{Asteroid/Item|Ore|44|1039|-1657|-17299}}
+{{Asteroid/Item|Ore|20|7916|-9640|-1432}}
+{{Asteroid/Item|Ore|17|-19065|-3153|-18512}}
+{{Asteroid/Item|Ore|15|16798|-7813|9089}}
+{{Asteroid/Item|Ore|11|-32198|7415|-8898}}
+{{Asteroid/Item|Ore|11|-1319|-6286|-25221}}
+{{Asteroid/Item|Ore|9|21532|3199|12612}}
+{{Asteroid/Item|Silicon|7|10207|6271|9680}}
+{{Asteroid/Item|Silicon|6|17481|-2909|-6016}}
+{{Asteroid/Item|Silicon|5|-23060|-1653|5336}}
+{{Asteroid/End}}
+
+
+{{Argon Navbox}}

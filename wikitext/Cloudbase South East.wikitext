@@ -1,3 +1,110 @@
-<!-- source file: index__qf7b9e3c820a9.html -->
+{{Infobox Sector
+|Race=Argon
+|SecLevel=Border
+|Population=61,298,133
+|Planets=2
+|SunLevel=150
+|GateDist=40
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|0|21660|[[President's End]]}}
+{{Gateblock2|West|-18160|0|-17500|[[Ore Belt]]}}
+{{Gateblock/End}}
+}}
+==Description==
+===Encyclopedia Entry===
+This quiet and unassuming system is a resupply point for the [[Argon]] military. Hostile activity is generally minimal as it is well guarded by security patrols. The [[Argon Equipment Dock|Space Equipment Dock]] is a useful source of surplus military equipment as well as second hand kit used by the many Argon Military training outposts in the area.
 
-{{Infobox Sector |Race=Argon |SecLevel=Border |Population=61,298,133 |Planets=2 |SunLevel=150 |GateDist=40 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0|0|21660|[[President's End]]}} {{Gateblock2|West|-18160|0|-17500|[[Ore Belt]]}} {{Gateblock/End}} }} ==Description== ===Encyclopedia Entry=== This quiet and unassuming system is a resupply point for the [[Argon]] military. Hostile activity is generally minimal as it is well guarded by security patrols. The [[Argon Equipment Dock|Space Equipment Dock]] is a useful source of surplus military equipment as well as second hand kit used by the many Argon Military training outposts in the area. ==Shipyard Availability== Located in an isolated corner of the main Argon cluster, this super shipyard can supply ships and stations for operations in Ore Belt. It is capable of crafting most of Argon stations and ships. {{Shipyard/Begin|Station|ST Size|Cost}} {{Shipyard/Station|Free Argon Trading Station||15000|29,929,912}} {{Shipyard/Station|Equipment Dock||10500|51,160,024}} {{Shipyard/Station|Weapon Component Factory||12000|720,656}} {{Shipyard/Station|Crystal Fab|M|15000|3,129,332}} {{Shipyard/Station|Quantum Tube Fab||13500|4,135,652}} {{Shipyard/Station|Chip Plant||16000|5,599,036}} {{Shipyard/Station|Mosquito Missile Factory||10000|603,792}} {{Shipyard/Station|Wasp Missile Factory||11500|1,525,712}} {{Shipyard/Station|Silkworm Missile Factory||13000|28,776,128}} {{Shipyard/Station|Lasertower Factory||18500|1,220,568}} {{Shipyard/Station|Drone Factory||14500|2,898,204}} {{Shipyard/Station|Advanced Satellite Factory||18000|3,233,208}} {{Shipyard/Station|Particle Accelerator Cannon Forge||16500|416,680}} {{Shipyard/Station|High Energy Plasma Thrower Forge||18000|6,850,768}} {{Shipyard/Station|Photon Pulse Cannon Forge||24000|12,777,020}} {{Shipyard/Station|Ammunition Factory||12000|2,830,680}} {{Shipyard/Station|Cluster Flak Array Forge||21000|12,039,488}} {{Shipyard/Station|Phased Repeater Gun Forge||16500|4,856,308}} {{Shipyard/Station|Shield Prod. Facility 1 MJ||11500|1,630,888}} {{Shipyard/Station|Shield Prod. Facility 200 MJ||16000|6,336,572}} {{Shipyard/Station|Shield Prod. Facility 2 GJ||21000|12,268,020}} {{Shipyard/Station|Wheat Farm|M|10000|367,016}} {{Shipyard/Station|Wheat Farm|L|15000|917,504}} {{Shipyard/Station|Cattle Ranch|M|11500|275,016}} {{Shipyard/Station|Cattle Ranch|L|17250|687,480}} {{Shipyard/Station|Rimes Fact|M|13000|799,992}} {{Shipyard/Station|Rimes Fact|L|19500|1,999,980}} {{Shipyard/Station|Cahoona Bakery|M|11500|874,980}} {{Shipyard/Station|Cahoona Bakery|L|17250|2,187,480}} {{Shipyard/Station|Space Fuel Distillery|M|8000|1,999,980}} {{Shipyard/Station|Space Fuel Distillery|L|12000|5,500,028}} {{Shipyard/Station|Solar Power Plant|M|10500|4,895,260}} {{Shipyard/Station|Solar Power Plant|XL|22000|19,581,044}} {{Shipyard/Station|Ore Mine|M|8000|424,992}} {{Shipyard/Station|Ore Mine|L|12000|849,984}} {{Shipyard/Station|Silicon Mine|L|14250|1,139,416}} {{Shipyard/Station|Complex Construction Kit||4250|259,696}} {{Shipyard/Station|Firefly Missile Factory||11500|714,164}} {{Shipyard/Station|Firestorm Torpedo Factory||19500|10,952,660}} {{Shipyard/Station|Tomahawk Missile Manufacturing Facility||13000|2,876,128}} {{Shipyard/Station|Hammer Torpedo Fabrication Facility||13000|2,876,128}} {{Shipyard/Station|Flail Missile Production Facility||13000|2,876,128}} {{Shipyard/Station|Advanced Drone Factory||14500|2,898,204}} {{Shipyard/Station|Crystal Fab|L|20500|6,792,388}} {{Shipyard/End}} {{Shipyard/Begin|Argon Ship|Class|Cost}} {{Shipyard/Ship1|Mammoth|TL|28,506,608}} {{Shipyard/Ship|Mercury (ship)|Mercury|TS|199,439}} {{Shipyard/Ship|Mercury (ship)|Mercury Hauler|TS|529,023}} {{Shipyard/Ship|Mercury (ship)|Mercury Tanker XL|TS|529,023}} {{Shipyard/Ship|Mercury (ship)|Mercury Super Freighter|TS|529,023}} {{Shipyard/Ship1|Express|TP|413,864}} {{Shipyard/Ship1|Colossus|M1|67,823,098}} {{Shipyard/Ship|Titan (ship)|Titan|M2|69,283,911}} {{Shipyard/Ship1|Nova|M3|1,607,266}} {{Shipyard/Ship2|Nova|Vanguard|M3|2,007,804}} {{Shipyard/Ship2|Nova|Sentinel|M3|2,254,037}} {{Shipyard/Ship1|Buster|M4|411,056}} {{Shipyard/Ship2|Buster|Vanguard|M4|512,526}} {{Shipyard/Ship1|Discoverer|M5|58,953}} {{Shipyard/Ship2|Discoverer|Raider|M5|101,665}} {{Shipyard/Ship2|Discoverer|Hauler|M5|64,359}} {{Shipyard/Ship1|Centaur|M6|9,842,368}} {{Shipyard/Ship1|Heavy Centaur|M6+|14,377,642}} {{Shipyard/Ship1|Minotaur|M7M|50,333,548}} {{Shipyard/Ship1|Gladiator|M8|5,409,482}} {{Shipyard/End}} ==Default [[Stations]]== *[[Federal Argon Shipyard|Super Federal Shipyard]] *[[Argon Equipment Dock]] *[[Phased Repeater Gun Forge ]] *[[Tomahawk Missile Manufacturing Plant ]] *[[Photon Pulse Cannon Forge ]] *[[Light Weapons Complex ]] *[[Argon Trading Station ]] *[[Light shield Production Complex ]] *[[Flail Missile Production Facility ]] *[[Medium shield Production Complex ]] *[[Hammer Torpedo Fabrication Facility ]] ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|40|-8,510|-829|5,660}} {{Asteroid/Item|Ore|25|-15,700|-1,860|-1,350}} {{Asteroid/Item|Ore|13|-6,900|4,030|-11,600}} {{Asteroid/End}} ==See Also== {{Argon Navbox}}
+==Shipyard Availability==
+Located in an isolated corner of the main Argon cluster, this super shipyard can supply ships and stations for operations in Ore Belt. It is capable of crafting most of Argon stations and ships.
+{{Shipyard/Begin|Station|ST Size|Cost}}
+{{Shipyard/Station|Free Argon Trading Station||15000|29,929,912}}
+{{Shipyard/Station|Equipment Dock||10500|51,160,024}}
+{{Shipyard/Station|Weapon Component Factory||12000|720,656}}
+{{Shipyard/Station|Crystal Fab|M|15000|3,129,332}}
+{{Shipyard/Station|Quantum Tube Fab||13500|4,135,652}}
+{{Shipyard/Station|Chip Plant||16000|5,599,036}}
+{{Shipyard/Station|Mosquito Missile Factory||10000|603,792}}
+{{Shipyard/Station|Wasp Missile Factory||11500|1,525,712}}
+{{Shipyard/Station|Silkworm Missile Factory||13000|28,776,128}}
+{{Shipyard/Station|Lasertower Factory||18500|1,220,568}}
+{{Shipyard/Station|Drone Factory||14500|2,898,204}}
+{{Shipyard/Station|Advanced Satellite Factory||18000|3,233,208}}
+{{Shipyard/Station|Particle Accelerator Cannon Forge||16500|416,680}}
+{{Shipyard/Station|High Energy Plasma Thrower Forge||18000|6,850,768}}
+{{Shipyard/Station|Photon Pulse Cannon Forge||24000|12,777,020}}
+{{Shipyard/Station|Ammunition Factory||12000|2,830,680}}
+{{Shipyard/Station|Cluster Flak Array Forge||21000|12,039,488}}
+{{Shipyard/Station|Phased Repeater Gun Forge||16500|4,856,308}}
+{{Shipyard/Station|Shield Prod. Facility 1 MJ||11500|1,630,888}}
+{{Shipyard/Station|Shield Prod. Facility 200 MJ||16000|6,336,572}}
+{{Shipyard/Station|Shield Prod. Facility 2 GJ||21000|12,268,020}}
+{{Shipyard/Station|Wheat Farm|M|10000|367,016}}
+{{Shipyard/Station|Wheat Farm|L|15000|917,504}}
+{{Shipyard/Station|Cattle Ranch|M|11500|275,016}}
+{{Shipyard/Station|Cattle Ranch|L|17250|687,480}}
+{{Shipyard/Station|Rimes Fact|M|13000|799,992}}
+{{Shipyard/Station|Rimes Fact|L|19500|1,999,980}}
+{{Shipyard/Station|Cahoona Bakery|M|11500|874,980}}
+{{Shipyard/Station|Cahoona Bakery|L|17250|2,187,480}}
+{{Shipyard/Station|Space Fuel Distillery|M|8000|1,999,980}}
+{{Shipyard/Station|Space Fuel Distillery|L|12000|5,500,028}}
+{{Shipyard/Station|Solar Power Plant|M|10500|4,895,260}}
+{{Shipyard/Station|Solar Power Plant|XL|22000|19,581,044}}
+{{Shipyard/Station|Ore Mine|M|8000|424,992}}
+{{Shipyard/Station|Ore Mine|L|12000|849,984}}
+{{Shipyard/Station|Silicon Mine|L|14250|1,139,416}}
+{{Shipyard/Station|Complex Construction Kit||4250|259,696}}
+{{Shipyard/Station|Firefly Missile Factory||11500|714,164}}
+{{Shipyard/Station|Firestorm Torpedo Factory||19500|10,952,660}}
+{{Shipyard/Station|Tomahawk Missile Manufacturing Facility||13000|2,876,128}}
+{{Shipyard/Station|Hammer Torpedo Fabrication Facility||13000|2,876,128}}
+{{Shipyard/Station|Flail Missile Production Facility||13000|2,876,128}}
+{{Shipyard/Station|Advanced Drone Factory||14500|2,898,204}}
+{{Shipyard/Station|Crystal Fab|L|20500|6,792,388}}
+{{Shipyard/End}}
+{{Shipyard/Begin|Argon Ship|Class|Cost}}
+{{Shipyard/Ship1|Mammoth|TL|28,506,608}}
+{{Shipyard/Ship|Mercury (ship)|Mercury|TS|199,439}}
+{{Shipyard/Ship|Mercury (ship)|Mercury Hauler|TS|529,023}}
+{{Shipyard/Ship|Mercury (ship)|Mercury Tanker XL|TS|529,023}}
+{{Shipyard/Ship|Mercury (ship)|Mercury Super Freighter|TS|529,023}}
+{{Shipyard/Ship1|Express|TP|413,864}}
+{{Shipyard/Ship1|Colossus|M1|67,823,098}}
+{{Shipyard/Ship|Titan (ship)|Titan|M2|69,283,911}}
+{{Shipyard/Ship1|Nova|M3|1,607,266}}
+{{Shipyard/Ship2|Nova|Vanguard|M3|2,007,804}}
+{{Shipyard/Ship2|Nova|Sentinel|M3|2,254,037}}
+{{Shipyard/Ship1|Buster|M4|411,056}}
+{{Shipyard/Ship2|Buster|Vanguard|M4|512,526}}
+{{Shipyard/Ship1|Discoverer|M5|58,953}}
+{{Shipyard/Ship2|Discoverer|Raider|M5|101,665}}
+{{Shipyard/Ship2|Discoverer|Hauler|M5|64,359}}
+{{Shipyard/Ship1|Centaur|M6|9,842,368}}
+{{Shipyard/Ship1|Heavy Centaur|M6+|14,377,642}}
+{{Shipyard/Ship1|Minotaur|M7M|50,333,548}}
+{{Shipyard/Ship1|Gladiator|M8|5,409,482}}
+{{Shipyard/End}}
+
+==Default [[Stations]]==
+*[[Federal Argon Shipyard|Super Federal Shipyard]]
+*[[Argon Equipment Dock]]
+*[[Phased Repeater Gun Forge ]]
+*[[Tomahawk Missile Manufacturing Plant ]]
+*[[Photon Pulse Cannon Forge ]]
+*[[Light Weapons Complex ]]
+*[[Argon Trading Station ]]
+*[[Light shield Production Complex ]]
+*[[Flail Missile Production Facility ]]
+*[[Medium shield Production Complex ]]
+*[[Hammer Torpedo Fabrication Facility ]]
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|40|-8,510|-829|5,660}}
+{{Asteroid/Item|Ore|25|-15,700|-1,860|-1,350}}
+{{Asteroid/Item|Ore|13|-6,900|4,030|-11,600}}
+{{Asteroid/End}}
+
+==See Also==
+{{Argon Navbox}}

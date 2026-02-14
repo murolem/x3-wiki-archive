@@ -1,3 +1,41 @@
-<!-- source file: index__q37a489aabb1d.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Quantum Tubes
+|cargoclass=M
+|volume=5
+|minprice=2560
+|aveprice=3368
+|maxprice=4176
+}}
+{{Infobox close}}
+==Overview==
+High value top-tier tech ware used in shipbuilding. Quantum Tubes are quite profitable to trade but can be very difficult to sell, making them less desirable.
 
-{{Infobox open}} {{Infobox ware |ware= Quantum Tubes |cargoclass=M |volume=5 |minprice=2560 |aveprice=3368 |maxprice=4176 }} {{Infobox close}} ==Overview== High value top-tier tech ware used in shipbuilding. Quantum Tubes are quite profitable to trade but can be very difficult to sell, making them less desirable. ===Encyclopedia Entry=== Quantum Tubes, also called Planck Tubes, are used inside the engines and controls of many of the larger transporter ships and destroyers. The manufacture of Planck Tubes is both costly and complex making Quantum Tubes one of the most expensive trading goods. ==Commentary== ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Quantum Tube Fab]] | *List of Race Factories where this ware is a primary resource | *[[Disintegrator Rifles Fab]] *[[Drone Factory]] *[[Drone Production Facility]] *[[Heavy Shield Production Complex]] *[[Light Shield Production Complex]] *[[Low-yield Sidearms Fab]] *[[Medium Shield Production Complex]] *[[Satellite Factory]] *[[Shield Production Facility 1MJ]] | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}} {{Waretable}}
+===Encyclopedia Entry===
+Quantum Tubes, also called Planck Tubes, are used inside the engines and controls of many of the larger transporter ships and destroyers. The manufacture of Planck Tubes is both costly and complex making Quantum Tubes one of the most expensive trading goods.
+
+==Commentary==
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Quantum Tube Fab]]
+|
+*List of Race Factories where this ware is a primary resource
+|
+*[[Disintegrator Rifles Fab]]
+*[[Drone Factory]]
+*[[Drone Production Facility]]
+*[[Heavy Shield Production Complex]]
+*[[Light Shield Production Complex]]
+*[[Low-yield Sidearms Fab]]
+*[[Medium Shield Production Complex]]
+*[[Satellite Factory]]
+*[[Shield Production Facility 1MJ]]
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}
+
+{{Warecategory}}
+{{Waretable}}

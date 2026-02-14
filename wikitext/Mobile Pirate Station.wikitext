@@ -1,3 +1,41 @@
-<!-- source file: index__qcd2d967e43fb.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Mobile Pirate Station
+|Faction=[[Yaki]]
+|Class={{TLclass}}
+|Priceblock=
+|Minspeed=
+|Maxspeed= 180
+|Minaccel=
+|Maxaccel=
+|Minsteer=
+|Maxsteer=
+|Hull=
+|Maxshield=200 MJ
+|Shieldslots=8
+|Maxshieldstrength=1600
+|Shieldreactor= 1000
+|Cargoclass=ST
+|Mincargo=
+|Maxcargo=44000
+|Lasercap=10000
+|Laserrecharge=
+|Gunbay=
+|Dockbay={{Dockbay|15 {{Fighterdock}}}}
+}}
+{{Infobox close}}
+==Overview==
+Technically one of the best light carriers in the game with high speed, good shielding for a [[TL]] and a big hangar bay, this ship is actually unavailable in Vanilla, sporting a rather bugged price, costing a little over 4 million credits.
 
-{{Infobox open}} {{Infobox variant |Variant=Mobile Pirate Station |Faction=[[Yaki]] |Class={{TLclass}} |Priceblock= |Minspeed= |Maxspeed= 180 |Minaccel= |Maxaccel= |Minsteer= |Maxsteer= |Hull= |Maxshield=200 MJ |Shieldslots=8 |Maxshieldstrength=1600 |Shieldreactor= 1000 |Cargoclass=ST |Mincargo= |Maxcargo=44000 |Lasercap=10000 |Laserrecharge= |Gunbay= |Dockbay={{Dockbay|15 {{Fighterdock}}}} }} {{Infobox close}} ==Overview== Technically one of the best light carriers in the game with high speed, good shielding for a [[TL]] and a big hangar bay, this ship is actually unavailable in Vanilla, sporting a rather bugged price, costing a little over 4 million credits. ==Background== ==Physical Characteristics== As one would expect, it looks just like a Pirate Station/base. == Combat == == Equipment == == Availability == == Suggested Roles== == See Also== {{TLcategory}} {{Yakicategory}}
+==Background==
+==Physical Characteristics==
+As one would expect, it looks just like a Pirate Station/base.
+
+== Combat ==
+== Equipment ==
+== Availability ==
+== Suggested Roles==
+== See Also==
+
+{{TLcategory}}
+{{Yakicategory}}

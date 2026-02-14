@@ -1,3 +1,41 @@
-<!-- source file: index__q6037dec1e826.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware=Transporter Device
+|cargoclass=S
+|volume=1
+|minprice=53,345
+|aveprice=56,152
+|maxprice=58,959
+}}
+{{Infobox close}}
+==Overview==
 
-{{Infobox open}} {{Infobox ware |ware=Transporter Device |cargoclass=S |volume=1 |minprice=53,345 |aveprice=56,152 |maxprice=58,959 }} {{Infobox close}} ==Overview== A transporter device permits transport of [[wares]] and personnel instantaneously between locations. This typically occurs between ships, but may also include pilots returning to ships or [[Marines]] being picked up by their boarding ship. Transport is typically limited to 5 km. ==Availability== *[[Terracorp HQ]] in [[Home of Light]] *[[Jonferco Headquarters]] in [[Belt of Aguilar]] *[[Free Argon Trading Station]] in [[Heretic's End]] *[[Saturn Research Station]] in [[Saturn]] *[[Military Base]] in [[Mercury]] *[[Military Base]] in Unknown Sector, southmost of [[Oort Cloud]] *[[Military Base]] in Unknown Sector, south of [[Pluto]] *[[Military Base]] in [[The Moon]] *[[Orbital Defence Station]] in [[The Moon]] *[[Earth_Torus|Earth Torus]] in [[Earth]] *[[Goner Temple]] in [[Elysium of Light]]
+A transporter device permits transport of [[wares]] and personnel instantaneously between locations.
+
+This typically occurs between ships, but may also include pilots returning to ships or [[Marines]] being picked up by their boarding ship.
+
+Transport is typically limited to 5 km.
+
+==Availability==
+
+*[[Terracorp HQ]] in [[Home of Light]]
+
+*[[Jonferco Headquarters]] in [[Belt of Aguilar]]
+
+*[[Free Argon Trading Station]] in [[Heretic's End]]
+
+*[[Saturn Research Station]] in [[Saturn]]
+
+*[[Military Base]] in [[Mercury]]
+
+*[[Military Base]] in Unknown Sector, southmost of [[Oort Cloud]]
+
+*[[Military Base]] in Unknown Sector, south of [[Pluto]]
+
+*[[Military Base]] in [[The Moon]]
+
+*[[Orbital Defence Station]] in [[The Moon]]
+
+*[[Earth_Torus|Earth Torus]] in [[Earth]]
+
+*[[Goner Temple]] in [[Elysium of Light]]

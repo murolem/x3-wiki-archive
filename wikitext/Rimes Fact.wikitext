@@ -1,3 +1,61 @@
-<!-- source file: index__qa3fd4d79371e.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Argon
+|station=Rimes Fact L
+|hull=2000000
+|shield=15
+|generator=1500
+|hangar=5
+|cycle=00:01:12
+|productnum=[[Cloth Rimes]] (15)
+|stationprice={{Priceblock|Argon Trusted Ally|1999980}}
+|reqresources=[[Energy Cells]] (90)<br>[[Delexian Wheat]] (60)
+|optresources=None
+}}
+{{Infobox factory
+|faction=Argon
+|station=Rimes Fact M
+|hull=800000
+|shield=10
+|generator=1500
+|hangar=5
+|cycle=00:01:12
+|productnum=[[Cloth Rimes]] (6)
+|stationprice={{Priceblock|Argon Trusted Ally|799992}}
+|reqresources=[[Energy Cells]] (36)<br>[[Delexian Wheat]] (24)
+|optresources=None
+}}
+{{Infobox close}}
+==Overview==
+This Argon factory makes [[Cloth Rimes]] from the stalks of [[Delexian Wheat]]. A constant stream of [[Energy Cells]] is needed to run the factory.
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Argon |station=Rimes Fact L |hull=2000000 |shield=15 |generator=1500 |hangar=5 |cycle=00:01:12 |productnum=[[Cloth Rimes]] (15) |stationprice={{Priceblock|Argon Trusted Ally|1999980}} |reqresources=[[Energy Cells]] (90)&lt;br>[[Delexian Wheat]] (60) |optresources=None }} {{Infobox factory |faction=Argon |station=Rimes Fact M |hull=800000 |shield=10 |generator=1500 |hangar=5 |cycle=00:01:12 |productnum=[[Cloth Rimes]] (6) |stationprice={{Priceblock|Argon Trusted Ally|799992}} |reqresources=[[Energy Cells]] (36)&lt;br>[[Delexian Wheat]] (24) |optresources=None }} {{Infobox close}} ==Overview== This Argon factory makes [[Cloth Rimes]] from the stalks of [[Delexian Wheat]]. A constant stream of [[Energy Cells]] is needed to run the factory. ===Encyclopedia Entry=== A Rimes Fact is the manufacturing site for the great bolts of plasticised cloth, called Rimes, that is used by many races in the manufacture of hard wearing work clothes and space suits. The cloth is produced by breaking down the stems of Delexian Wheat into crude fabric and then mixing it with various Argon based chemicals, Teladianium, and BoGas to produce the final material. ==Availability== This factory is unique to the Argon. {| style="text-align:left;" |- valign="top" | style="padding-right:5em;" | ===L-type=== {| | '''[[Argon#Shipyards|Argon]]''' *{{sa|Cloudbase Southeast}} *{{sa|Legend's Home}} *{{sa|Light of Heart}} |} | ===M-type=== {| | '''[[Argon#Shipyards|Argon]]''' *{{sa|Argon Prime}} *{{sa|Cloudbase Southeast}} *{{sa|Legend's Home}} *{{sa|Omicron Lyrae}} |} |} {{Stationcategory}}
+===Encyclopedia Entry===
+A Rimes Fact is the manufacturing site for the great bolts of plasticised cloth, called Rimes, that is used by many races in the manufacture of hard wearing work clothes and space suits. 
+
+The cloth is produced by breaking down the stems of Delexian Wheat into crude fabric and then mixing it with various Argon based chemicals, Teladianium, and BoGas to produce the final material.
+
+==Availability==
+This factory is unique to the Argon.
+{| style="text-align:left;"
+|- valign="top"
+| style="padding-right:5em;" |
+===L-type===
+{|
+| '''[[Argon#Shipyards|Argon]]'''
+*{{sa|Cloudbase Southeast}}
+*{{sa|Legend's Home}}
+*{{sa|Light of Heart}}
+|}
+|
+===M-type===
+{|
+| '''[[Argon#Shipyards|Argon]]'''
+*{{sa|Argon Prime}}
+*{{sa|Cloudbase Southeast}}
+*{{sa|Legend's Home}}
+*{{sa|Omicron Lyrae}}
+|}
+|}
+
+{{Stationcategory}}

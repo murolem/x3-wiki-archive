@@ -1,3 +1,345 @@
-<!-- source file: index__qc1e99e8975a8.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= Scorpion
+|Faction=Split
+|Class={{M4class}}
+|Priceblock={{Priceblock|| 319309}}
+|Minspeed=77.9
+|Maxspeed=233.7
+|Minaccel=36
+|Maxaccel=108
+|Minsteer=16.6
+|Maxsteer=49.7
+|Hull= 2800 / 5600 (AP)
+|Maxshield=5 MJ
+|Shieldslots=1
+|Maxshieldstrength=5
+|Shieldreactor= 105
+|Cargoclass=M
+|Mincargo=38
+|Maxcargo=108
+|Lasercap=2450
+|Laserrecharge=61
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Scorpion Prototype
+|Faction=Split
+|Class={{M4class}}
+|Priceblock=
+|Minspeed=115
+|Maxspeed=345
+|Minaccel=50
+|Maxaccel=150
+|Minsteer=20
+|Maxsteer=60
+|Hull=3000 / 6000 (AP)
+|Maxshield=5 MJ
+|Shieldslots=1
+|Maxshieldstrength=5
+|Shieldreactor= 115
+|Cargoclass=M
+|Mincargo=34
+|Maxcargo=108
+|Lasercap=2950
+|Laserrecharge=75
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Scorpion Raider
+|Faction=Split
+|Class={{M4class}}
+|Priceblock={{Priceblock|| 474829}}
+|Minspeed=98.9
+|Maxspeed=296.9
+|Minaccel=46
+|Maxaccel=138
+|Minsteer=18.5
+|Maxsteer=55.6
+|Hull=2800 / 5600 (AP)
+|Maxshield=5 MJ
+|Shieldslots=1
+|Maxshieldstrength=5
+|Shieldreactor= 115
+|Cargoclass=M
+|Mincargo=28
+|Maxcargo=81
+|Lasercap=2450
+|Laserrecharge=61
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Scorpion Vanguard
+|Faction=Split
+|Class={{M4class}}
+|Priceblock={{Priceblock|| 396609}}
+|Minspeed=85.7
+|Maxspeed=257.1
+|Minaccel=39
+|Maxaccel=119
+|Minsteer=17.4
+|Maxsteer=52.2
+|Hull=2660 / 5320 (AP)
+|Maxshield=5 MJ
+|Shieldslots=1
+|Maxshieldstrength=5
+|Shieldreactor= 115
+|Cargoclass=M
+|Mincargo=36
+|Maxcargo=102
+|Lasercap=2940
+|Laserrecharge=73
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Scorpion Sentinel
+|Faction=Split
+|Class={{M4class}}
+|Priceblock={{Priceblock|| 498318}}
+|Minspeed=63.9
+|Maxspeed=191.7
+|Minaccel=29
+|Maxaccel=89
+|Minsteer=13.6
+|Maxsteer=40.7
+|Hull= 2800 / 5600 (AP)
+|Maxshield=5 MJ
+|Shieldslots=2
+|Maxshieldstrength=10
+|Shieldreactor= 115
+|Cargoclass=M
+|Mincargo=34
+|Maxcargo=97
+|Lasercap=2450
+|Laserrecharge=61
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Scorpion
+|Faction=Pirate
+|Class={{M4class}}
+|Priceblock=
+|Minspeed=86
+|Maxspeed=258
+|Minaccel=48
+|Maxaccel=145
+|Minsteer=19.9
+|Maxsteer=59.6
+|Hull=2100 / 4200 (AP)
+|Maxshield=5 MJ
+|Shieldslots=2
+|Maxshieldstrength=10
+|Shieldreactor= 105
+|Cargoclass=M
+|Mincargo=38
+|Maxcargo=102
+|Lasercap=2450
+|Laserrecharge=61
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+Very fast and very fragile, the '''Skull Crusher''', also known as '''Scorpion''' by the Argon military, packs a huge punch for its class and when used correctly is a supreme interceptor.
 
-{{Infobox open}} {{Infobox variant |Variant= Scorpion |Faction=Split |Class={{M4class}} |Priceblock={{Priceblock|| 319309}} |Minspeed=77.9 |Maxspeed=233.7 |Minaccel=36 |Maxaccel=108 |Minsteer=16.6 |Maxsteer=49.7 |Hull= 2800 / 5600 (AP) |Maxshield=5 MJ |Shieldslots=1 |Maxshieldstrength=5 |Shieldreactor= 105 |Cargoclass=M |Mincargo=38 |Maxcargo=108 |Lasercap=2450 |Laserrecharge=61 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant= Scorpion Prototype |Faction=Split |Class={{M4class}} |Priceblock= |Minspeed=115 |Maxspeed=345 |Minaccel=50 |Maxaccel=150 |Minsteer=20 |Maxsteer=60 |Hull=3000 / 6000 (AP) |Maxshield=5 MJ |Shieldslots=1 |Maxshieldstrength=5 |Shieldreactor= 115 |Cargoclass=M |Mincargo=34 |Maxcargo=108 |Lasercap=2950 |Laserrecharge=75 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant= Scorpion Raider |Faction=Split |Class={{M4class}} |Priceblock={{Priceblock|| 474829}} |Minspeed=98.9 |Maxspeed=296.9 |Minaccel=46 |Maxaccel=138 |Minsteer=18.5 |Maxsteer=55.6 |Hull=2800 / 5600 (AP) |Maxshield=5 MJ |Shieldslots=1 |Maxshieldstrength=5 |Shieldreactor= 115 |Cargoclass=M |Mincargo=28 |Maxcargo=81 |Lasercap=2450 |Laserrecharge=61 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant= Scorpion Vanguard |Faction=Split |Class={{M4class}} |Priceblock={{Priceblock|| 396609}} |Minspeed=85.7 |Maxspeed=257.1 |Minaccel=39 |Maxaccel=119 |Minsteer=17.4 |Maxsteer=52.2 |Hull=2660 / 5320 (AP) |Maxshield=5 MJ |Shieldslots=1 |Maxshieldstrength=5 |Shieldreactor= 115 |Cargoclass=M |Mincargo=36 |Maxcargo=102 |Lasercap=2940 |Laserrecharge=73 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant= Scorpion Sentinel |Faction=Split |Class={{M4class}} |Priceblock={{Priceblock|| 498318}} |Minspeed=63.9 |Maxspeed=191.7 |Minaccel=29 |Maxaccel=89 |Minsteer=13.6 |Maxsteer=40.7 |Hull= 2800 / 5600 (AP) |Maxshield=5 MJ |Shieldslots=2 |Maxshieldstrength=10 |Shieldreactor= 115 |Cargoclass=M |Mincargo=34 |Maxcargo=97 |Lasercap=2450 |Laserrecharge=61 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Scorpion |Faction=Pirate |Class={{M4class}} |Priceblock= |Minspeed=86 |Maxspeed=258 |Minaccel=48 |Maxaccel=145 |Minsteer=19.9 |Maxsteer=59.6 |Hull=2100 / 4200 (AP) |Maxshield=5 MJ |Shieldslots=2 |Maxshieldstrength=10 |Shieldreactor= 105 |Cargoclass=M |Mincargo=38 |Maxcargo=102 |Lasercap=2450 |Laserrecharge=61 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== Very fast and very fragile, the '''Skull Crusher''', also known as '''Scorpion''' by the Argon military, packs a huge punch for its class and when used correctly is a supreme interceptor. ==Background== A forerunner of this ship fought in the Boron Campaign and proved to be a pilot favorite. Like most other [[Split]] ships, this design focuses on high-speed engines and increased weapons power, at the cost of shield strength. Over the years the ship has been frequently updated and rearmed in order to remain as deadly as possible. ==Variants== ===Scorpion=== {{regular}} ===Scorpion Prototype=== {{prototype}} ===Scorpion Vanguard=== {{vanguard}} ===Scorpion Raider=== {{raider}} ===Scorpion Sentinel=== {{sentinel}} ===Pirate Scorpion=== {{pirate}} ==Physical Characteristics== Like all Split fighters, the Scorpion has a triangular, dagger-shaped hull and short, pointed wings. It differs from its big brother, the [[Mamba]], primarily in size. == Combat == The Scorpion is the smallest craft to mount both the powerful [[HEPT]] and [[Pulsed Beam Emitter|PBE]], allowing it to demolish another [[M4]] with relative ease. However, its weak shielding and paltry energy weapon generator is a big problem, which must be worked around either by flying it very evasively and carefully, or by using a pack that can demolish their prey before it gets a chance to fire back. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] | *[[Silkworm Missile]] *[[Disruptor Missile]] *[[Firefly Missile]] | *[[Hurricane Missile]] *[[Aurora Missile]] *[[Remote Guided Warhead]] | *[[Rapier Missile]] *[[Firelance Missile]] *[[Wildfire Missile]] |} {| |+ '''Scorpion Prototype Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] | *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] | *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] *[[Aurora Missile]] | *[[Remote Guided Warhead]] *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] | *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == At least one Scorpion variant is available at every [[Split Shipyard]]. {| style="text-align:center;" cellpadding="3" |+ '''Availability''' |- style="{{Colour/Split}}" ! Variant !! [[Cho's Defeat]] !! [[Family Njy]] !! [[Family Pride]] !! [[Family Rhy]] !! [[Family Tkr]] !! [[Patriarch's Conclusion]] !! [[Rhonkar's Might]] !! [[Rhonkar's Trial]] !! [[Zyarth's Dominion]] |- ! Scorpion || || X || X || X || || X || X || X || X |- ! Scorpion Sentinel || || || || X || X || X || X || X || X |- ! Scorpion Vanguard || X || || || || || X || || X || X |} The Scorpion Raider is no longer in production. It can be [[Buy Used Ship|bought used]], and is also available as one of many [[ownerless ships]]. == Suggested Roles== A pack of these ships make good interceptors, and it is a favorite M4 amongst players with good evasive skill. == See Also== *[[Asp|Split Asp]] {{M4}} {{Split Navbox}}
+==Background==
+A forerunner of this ship fought in the Boron Campaign and proved to be a pilot favorite. Like most other [[Split]] ships, this design focuses on high-speed engines and increased weapons power, at the cost of shield strength. Over the years the ship has been frequently updated and rearmed in order to remain as deadly as possible.
+
+==Variants==
+===Scorpion===
+{{regular}}
+===Scorpion Prototype===
+{{prototype}}
+===Scorpion Vanguard===
+{{vanguard}}
+===Scorpion Raider===
+{{raider}}
+===Scorpion Sentinel===
+{{sentinel}}
+===Pirate Scorpion===
+{{pirate}}
+
+==Physical Characteristics==
+Like all Split fighters, the Scorpion has a triangular, dagger-shaped hull and short, pointed wings.  It differs from its big brother, the [[Mamba]], primarily in size.
+
+== Combat ==
+The Scorpion is the smallest craft to mount both the powerful [[HEPT]] and [[Pulsed Beam Emitter|PBE]], allowing it to demolish another [[M4]] with relative ease. However, its weak shielding and paltry energy weapon generator is a big problem, which must be worked around either by flying it very evasively and carefully, or by using a pack that can demolish their prey before it gets a chance to fire back.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+|
+*[[Silkworm Missile]]
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+|
+*[[Hurricane Missile]]
+*[[Aurora Missile]]
+*[[Remote Guided Warhead]]
+|
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+|}
+{|
+|+ '''Scorpion Prototype Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+|
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+|
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Aurora Missile]]
+|
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+|
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+
+== Availability ==
+At least one Scorpion variant is available at every [[Split Shipyard]].
+{| style="text-align:center;" cellpadding="3"
+|+ '''Availability'''
+|- style="{{Colour/Split}}"
+! Variant !! [[Cho's Defeat]] !! [[Family Njy]] !! [[Family Pride]] !! [[Family Rhy]] !! [[Family Tkr]] !! [[Patriarch's Conclusion]] !! [[Rhonkar's Might]] !! [[Rhonkar's Trial]] !! [[Zyarth's Dominion]]
+|-
+! Scorpion          ||   || X || X || X ||   || X || X || X || X
+|-
+! Scorpion Sentinel ||   ||   ||   || X || X || X || X || X || X
+|-
+! Scorpion Vanguard || X ||   ||   ||   ||   || X ||   || X || X
+|}
+
+The Scorpion Raider is no longer in production.  It can be [[Buy Used Ship|bought used]], and is also available as one of many [[ownerless ships]].
+
+== Suggested Roles==
+A pack of these ships make good interceptors, and it is a favorite M4 amongst players with good evasive skill.
+
+== See Also==
+*[[Asp|Split Asp]]
+
+{{M4}}
+
+
+{{Split Navbox}}

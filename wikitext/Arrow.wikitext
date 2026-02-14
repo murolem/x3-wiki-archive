@@ -1,3 +1,56 @@
-<!-- source file: index__q21b30a70adb6.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Arrow
+|Faction=Argon
+|Class={{M5class}}
+|Priceblock=
+|Minspeed=330
+|Maxspeed=1320
+|Minaccel=20
+|Maxaccel=80
+|Minsteer=60
+|Maxsteer=120
+|Hull=2000
+|Maxshield=1 MJ
+|Shieldslots=2
+|Maxshieldstrength=2
+|Shieldreactor= 1000
+|Cargoclass=S
+|Mincargo=10
+|Maxcargo=35
+|Lasercap=10000
+|Laserrecharge=
+|Gunbay=
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+Introduced as a racer, the Arrow is the fastest ship in space.
 
-{{Infobox open}} {{Infobox variant |Variant=Arrow |Faction=Argon |Class={{M5class}} |Priceblock= |Minspeed=330 |Maxspeed=1320 |Minaccel=20 |Maxaccel=80 |Minsteer=60 |Maxsteer=120 |Hull=2000 |Maxshield=1 MJ |Shieldslots=2 |Maxshieldstrength=2 |Shieldreactor= 1000 |Cargoclass=S |Mincargo=10 |Maxcargo=35 |Lasercap=10000 |Laserrecharge= |Gunbay= |Dockbay= }} {{Infobox close}} ==Overview== Introduced as a racer, the Arrow is the fastest ship in space. The small cargo hold makes the Arrow less useful than one would expect as it can carry no weapons, passengers or triplex scanners. ==Background== ==Physical Characteristics== The Starburst uses the [[Octopus]] model. == Combat == It can carry no lasers, missiles, fighter drones or mines, so any form of attack is out of the question. It even takes 2:10 hs to build at the HQ, so no kamikaze tactics are cost effective. == Equipment == == Availability == You can get one as a reward for the plot [[Shady Business]]. == Suggested Roles== Useful for asteroid surveying and scouting (it can carry scout drones). As it has a small cargo hold it can only mount a duplex scanner, so the volume of space scanned per unit of time is about the same as the Kestrel. But the Kestrel is more battle ready and can carry Adv. satellites. The only standard missions that it could accomplish is survey asteroids and maybe some small cargo delivery, as it cannot carry even passengers or jump beacons. There is a small niche for a fast trader (without consuming any energy cells for jumps!). It can carry a full trading station's load of MD, PRG, EBC, FBL, EMPC, Boarding Pods and Recon Drones. Further than 4-5 sectors away, it will be faster to use a jump capable ship, though. == See Also== * [[Starburst]] {{M5}} {{M5category}} {{Argon Navbox}}
+The small cargo hold makes the Arrow less useful than one would expect as it can carry no weapons, passengers or triplex scanners.
+
+==Background==
+==Physical Characteristics==
+The Starburst uses the [[Octopus]] model.
+
+== Combat ==
+It can carry no lasers, missiles, fighter drones or mines, so any form of attack is out of the question. It even takes 2:10 hs to build at the HQ, so no kamikaze tactics are cost effective.
+
+== Equipment ==
+== Availability ==
+You can get one as a reward for the plot [[Shady Business]].
+
+== Suggested Roles==
+Useful for asteroid surveying and scouting (it can carry scout drones). As it has a small cargo hold it can only mount a duplex scanner, so the volume of space scanned per unit of time is about the same as the Kestrel. But the Kestrel is more battle ready and can carry Adv. satellites.
+
+The only standard missions that it could accomplish is survey asteroids and maybe some small cargo delivery, as it cannot carry even passengers or jump beacons.
+
+There is a small niche for a fast trader (without consuming any energy cells for jumps!). It can carry a full trading station's load of MD, PRG, EBC, FBL, EMPC, Boarding Pods and Recon Drones. Further than 4-5 sectors away, it will be faster to use a jump capable ship, though.
+
+== See Also==
+
+* [[Starburst]]
+
+{{M5}}
+{{M5category}}
+{{Argon Navbox}}

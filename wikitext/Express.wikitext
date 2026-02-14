@@ -1,3 +1,178 @@
-<!-- source file: index__qf6bcfe40efd4.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Express
+|Faction=Argon
+|Class={{TPclass}}
+|Priceblock={{Priceblock|Federation Associate| 665772}}
+|Minspeed=60
+|Maxspeed=150
+|Minaccel=3
+|Maxaccel=9
+|Minsteer=2.6
+|Maxsteer=6.6
+|Hull=20000
+|Maxshield=25 MJ
+|Shieldslots=3
+|Maxshieldstrength=75
+|Shieldreactor=600
+|Cargoclass=L
+|Mincargo=750
+|Maxcargo=750
+|Lasercap=450
+|Laserrecharge=4
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Express Advanced
+|Faction=Argon
+|Class={{TPclass}}
+|Priceblock=
+|Minspeed=68
+|Maxspeed=170
+|Minaccel=4
+|Maxaccel=11
+|Minsteer=2.8
+|Maxsteer=6.9
+|Hull=20000
+|Maxshield=25 MJ
+|Shieldslots=4
+|Maxshieldstrength=100
+|Shieldreactor=660
+|Cargoclass=L
+|Mincargo=950
+|Maxcargo=950
+|Lasercap=450
+|Laserrecharge=4
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Express Hauler
+|Faction=Argon
+|Class={{TPclass}}
+|Priceblock=
+|Minspeed=66
+|Maxspeed=165
+|Minaccel=4
+|Maxaccel=10
+|Minsteer=2.8
+|Maxsteer=6.9
+|Hull=20000
+|Maxshield=25 MJ
+|Shieldslots=3
+|Maxshieldstrength=75
+|Shieldreactor= 600
+|Cargoclass=L
+|Mincargo=862
+|Maxcargo=862
+|Lasercap=450
+|Laserrecharge=4
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+Small but quick, the Express is a good choice for delivering [[marines]] to a target as well as conducting taxi missions.
 
-{{Infobox open}} {{Infobox variant |Variant=Express |Faction=Argon |Class={{TPclass}} |Priceblock={{Priceblock|Federation Associate| 665772}} |Minspeed=60 |Maxspeed=150 |Minaccel=3 |Maxaccel=9 |Minsteer=2.6 |Maxsteer=6.6 |Hull=20000 |Maxshield=25 MJ |Shieldslots=3 |Maxshieldstrength=75 |Shieldreactor=600 |Cargoclass=L |Mincargo=750 |Maxcargo=750 |Lasercap=450 |Laserrecharge=4 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Express Advanced |Faction=Argon |Class={{TPclass}} |Priceblock= |Minspeed=68 |Maxspeed=170 |Minaccel=4 |Maxaccel=11 |Minsteer=2.8 |Maxsteer=6.9 |Hull=20000 |Maxshield=25 MJ |Shieldslots=4 |Maxshieldstrength=100 |Shieldreactor=660 |Cargoclass=L |Mincargo=950 |Maxcargo=950 |Lasercap=450 |Laserrecharge=4 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Express Hauler |Faction=Argon |Class={{TPclass}} |Priceblock= |Minspeed=66 |Maxspeed=165 |Minaccel=4 |Maxaccel=10 |Minsteer=2.8 |Maxsteer=6.9 |Hull=20000 |Maxshield=25 MJ |Shieldslots=3 |Maxshieldstrength=75 |Shieldreactor= 600 |Cargoclass=L |Mincargo=862 |Maxcargo=862 |Lasercap=450 |Laserrecharge=4 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== Small but quick, the Express is a good choice for delivering [[marines]] to a target as well as conducting taxi missions. ==Background== ===Encyclopedia Entry=== The purpose of the Express is to act as a passenger transporter for civilians wanting to travel between systems and stations. This was always a problem as passengers traveled in converted Lifter-class freighters. But when the Lifter was retired from service, it was found the Mercury could not replace the job of transporting people. The Express was constructed by a group of civilians at Argon prime out of old planetary transport hulls to transport its workers from one station to another in one go. The Argon Shipyard saw the ship and became interested in its design, which was altered slightly to act as the newest passenger transport ship. ==Variants== ===Express=== The standard against which the variants are compared. ===Express Advanced=== The Advanced Express improves on almost every aspect of the standard model and sacrifices nothing, but must be captured. It is also available as a corporation reward. ===Express Hauler=== The Hauler variant, unlike most other Hauler variants, is faster than the standard Express. ==Physical Characteristics== The Express is very similar in appearance to the [[Mercury (ship)|Mercury]], but with spherical containers replacing several of the cargo boxes. It is long and narrow. == Combat == The Express has scarcely more combat ability than a standard freighter, and should not be allowed to stray into a warzone unless the user is exceedingly careful. == Equipment == '''Built-In Equipment''' *[[Cargo Lifesupport System]] '''Missiles''' {|- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Dragonfly Missile]] *[[Firefly Missile]] | *[[Aurora Missile]] *[[Rapier Missile]] *[[Firelance Missile]] |} == Availability == The Advanced Express cannot be purchased at shipyards and must be captured. It is also available as a reward for reaching rank 4 with Terracorp. The Advanced Express may be disguised as an Argon Weapons Transporter. {| style="text-align:center;" cellpadding="3" |+ '''Availability''' |- style="background-color:lightblue;" ! Variant !! [[Argon Prime]] !! [[Cloudbase South East]] !! [[Omicron Lyrae]] !! [[Light of Heart]] !! [[Legend's Home]] !! [[Argon Sector M148]] |- ! Express || x || x || x|| x || x || x |- ! Express Hauler || || x || || || x || |} == Suggested Roles== Marine storage or Transport Passenger missions. == See Also== {{TP}} {{TPcategory}} {{Argonshipcategory}} {{Argon Navbox}}
+==Background==
+===Encyclopedia Entry===
+The purpose of the Express is to act as a passenger transporter for civilians wanting to travel between systems and stations. This was always a problem as passengers traveled in converted Lifter-class freighters. But when the Lifter was retired from service, it was found the Mercury could not replace the job of transporting people. The Express was constructed by a group of civilians at Argon prime out of old planetary transport hulls to transport its workers from one station to another in one go. The Argon Shipyard saw the ship and became interested in its design, which was altered slightly to act as the newest passenger transport ship.
+==Variants==
+===Express===
+The standard against which the variants are compared.
+===Express Advanced===
+The Advanced Express improves on almost every aspect of the standard model and sacrifices nothing, but must be captured.
+It is also available as a corporation reward.
+===Express Hauler===
+The Hauler variant, unlike most other Hauler variants, is faster than the standard Express.
+
+==Physical Characteristics==
+The Express is very similar in appearance to the [[Mercury (ship)|Mercury]], but with spherical containers replacing several of the cargo boxes. It is long and narrow.
+== Combat ==
+The Express has scarcely more combat ability than a standard freighter, and should not be allowed to stray into a warzone unless the user is exceedingly careful.
+
+== Equipment ==
+
+'''Built-In Equipment'''
+*[[Cargo Lifesupport System]]
+
+'''Missiles'''
+{|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Dragonfly Missile]]
+*[[Firefly Missile]]
+|
+*[[Aurora Missile]]
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+|}
+
+== Availability ==
+The Advanced Express cannot be purchased at shipyards and must be captured. It is also available as a reward for reaching rank 4 with Terracorp. The Advanced Express may be disguised as an Argon Weapons Transporter.
+{| style="text-align:center;" cellpadding="3"
+|+ '''Availability'''
+|- style="background-color:lightblue;"
+! Variant !! [[Argon Prime]] !!  [[Cloudbase South East]] !! [[Omicron Lyrae]] !! [[Light of Heart]] !! [[Legend's Home]] !! [[Argon Sector M148]]
+|-
+! Express || x || x || x|| x || x || x
+|-
+! Express Hauler ||  || x ||  ||  || x || 
+|}
+
+== Suggested Roles==
+Marine storage or Transport Passenger missions.
+== See Also==
+{{TP}}
+{{TPcategory}}
+{{Argonshipcategory}}
+{{Argon Navbox}}

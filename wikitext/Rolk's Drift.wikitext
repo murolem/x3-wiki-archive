@@ -1,3 +1,28 @@
-<!-- source file: index__q42fc9f1fff2f.html -->
+{{Infobox Sector
+|Race=Boron
+|SecLevel=Core
+|Population=88,000,041
+|Planets= 3
+|SunLevel=150
+|GateDist= 50
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|East|24740|	0|	0|[[Queen's Space]]}}
+{{Gateblock2|West|-29740|	0|	-1000|[[Kingdom End]]}}
+</table>
+}}
+==Description==
+The Boron produce high quality electronics and semi-organic computer systems as well as more conventional goods in this large and crowded sector. The supporting factories produce a wealth of raw materials for the local and export markets.
+==Default [[Stations]]==
+==[[Asteroids]]==
 
-{{Infobox Sector |Race=Boron |SecLevel=Core |Population=88,000,041 |Planets= 3 |SunLevel=150 |GateDist= 50 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|East|24740| 0| 0|[[Queen's Space]]}} {{Gateblock2|West|-29740| 0| -1000|[[Kingdom End]]}} &lt;/table> }} ==Description== The Boron produce high quality electronics and semi-organic computer systems as well as more conventional goods in this large and crowded sector. The supporting factories produce a wealth of raw materials for the local and export markets. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|8|-21983|7417|-4621}} {{Asteroid/Item|Ore|8|-16191|4364|-9109}} {{Asteroid/Item|Ore|10|-25714|5677|6663}} {{Asteroid/Item|Ore|5|-24116|-3618|-13378}} {{Asteroid/Item|Ore|4|-19544|3167|3696}} {{Asteroid/End}} == See Also == {{Boron Navbox}}
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|8|-21983|7417|-4621}}
+{{Asteroid/Item|Ore|8|-16191|4364|-9109}}
+{{Asteroid/Item|Ore|10|-25714|5677|6663}}
+{{Asteroid/Item|Ore|5|-24116|-3618|-13378}}
+{{Asteroid/Item|Ore|4|-19544|3167|3696}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Boron Navbox}}

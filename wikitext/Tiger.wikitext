@@ -1,3 +1,193 @@
-<!-- source file: index__qe57c4de837d9.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Tiger
+|Faction=Split
+|Class={{M7class}}
+|Priceblock={{Priceblock|Privileged Associate of Rhonkar| 36461288}}
+|Minspeed=67.6
+|Maxspeed=121.6
+|Minaccel=9
+|Maxaccel=17
+|Minsteer=1.9
+|Maxsteer=3.5
+|Hull=120000 / 480000 (AP)
+|Maxshield=1 GJ
+|Shieldslots=4
+|Maxshieldstrength=4000
+|Shieldreactor= 6200
+|Cargoclass=XL
+|Mincargo=2100
+|Maxcargo=4100
+|Lasercap=53000
+|Laserrecharge=1854
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=2
+|ire=1|pac=1|hept=0|
+cig=1|ppc=0|
+md=0|us=1|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=2
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=1|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=2
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=1|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Top
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Bottom
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
 
-{{Infobox open}} {{Infobox variant |Variant=Tiger |Faction=Split |Class={{M7class}} |Priceblock={{Priceblock|Privileged Associate of Rhonkar| 36461288}} |Minspeed=67.6 |Maxspeed=121.6 |Minaccel=9 |Maxaccel=17 |Minsteer=1.9 |Maxsteer=3.5 |Hull=120000 / 480000 (AP) |Maxshield=1 GJ |Shieldslots=4 |Maxshieldstrength=4000 |Shieldreactor= 6200 |Cargoclass=XL |Mincargo=2100 |Maxcargo=4100 |Lasercap=53000 |Laserrecharge=1854 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=1|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Rear |Guncount=2 |ire=1|pac=1|hept=0| cig=1|ppc=0| md=0|us=1|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount=2 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=1|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Right |Guncount=2 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=1|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Top |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Bottom |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The '''Tiger''' is a fast, powerful, and, unusually for [[Split]] designs, well-shielded frigate that is a favorite among players for its superior combat prowess. ==Background== The Tiger frigate is a brand new Split design. It is a fearsome vessel designed for only one purpose: the waging of war. ==Physical Characteristics== Long, thin and dagger-like as all Split ships tend to be, the Tiger can bring a huge amount of frontal firepower to bear on a target whilst presenting a very small cross-section to return fire at. == Combat == The Tiger is an immensely powerful warship, easily capable of outrunning anything it cannot outfight. It is capable of going toe-to-toe with many of the [[M2]] class vessels. This ship should not be underestimated. == Equipment == '''Missiles''' {|- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] | *[[Hornet Missile]] *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] | *[[Tempest Missile]] *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] | *[[Typhoon Missile]] *[[Firestorm Torpedo]] *[[Aurora Missile]] *[[Remote Guided Warhead]] | *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] *[[Firelance Missile]] | *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == {| style="text-align:center;" cellpadding="3" |+ '''Availability''' |- style="{{Colour/Split}}" ! Variant !! [[Cho's Defeat]] !! [[Family Njy]] !! [[Family Pride]] !! [[Family Rhy]] !! [[Family Tkr]] !! [[Patriarch's Conclusion]] !! [[Rhonkar's Might]] !! [[Rhonkar's Trial]] !! [[Zyarth's Dominion]] |- ! Tiger || X || X || X || X || X || || X || || |} == Suggested Roles== The Tiger excels in most capacities, and is often used as a player ship, although not as often as its sister design, the [[Panther]]. == See Also== *[[Cobra|Split Cobra]] *[[Panther|Split Panther]] {{M7}} {{Split Navbox}}
+
+
+
+
+
+
+
+
+
+
+==Overview==
+The '''Tiger''' is a fast, powerful, and, unusually for [[Split]] designs, well-shielded frigate that is a favorite among players for its superior combat prowess.
+
+==Background==
+The Tiger frigate is a brand new Split design. It is a fearsome vessel designed for only one purpose: the waging of war.
+
+==Physical Characteristics==
+Long, thin and dagger-like as all Split ships tend to be, the Tiger can bring a huge amount of frontal firepower to bear on a target whilst presenting a very small cross-section to return fire at.
+
+== Combat ==
+The Tiger is an immensely powerful warship, easily capable of outrunning anything it cannot outfight. It is capable of going toe-to-toe with many of the [[M2]] class vessels. This ship should not be underestimated.
+
+== Equipment ==
+'''Missiles'''
+{|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+|
+*[[Hornet Missile]]
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+|
+*[[Tempest Missile]]
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+|
+*[[Typhoon Missile]]
+*[[Firestorm Torpedo]]
+*[[Aurora Missile]]
+*[[Remote Guided Warhead]]
+|
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+|
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+
+== Availability ==
+{| style="text-align:center;" cellpadding="3"
+|+ '''Availability'''
+|- style="{{Colour/Split}}"
+! Variant !! [[Cho's Defeat]] !! [[Family Njy]] !! [[Family Pride]] !! [[Family Rhy]] !! [[Family Tkr]] !! [[Patriarch's Conclusion]] !! [[Rhonkar's Might]] !! [[Rhonkar's Trial]] !! [[Zyarth's Dominion]]
+|-
+! Tiger || X || X || X || X || X ||   || X ||   ||  
+|}
+
+== Suggested Roles==
+The Tiger excels in most capacities, and is often used as a player ship, although not as often as its sister design, the [[Panther]].
+
+== See Also==
+*[[Cobra|Split Cobra]]
+*[[Panther|Split Panther]]
+{{M7}}
+
+
+{{Split Navbox}}

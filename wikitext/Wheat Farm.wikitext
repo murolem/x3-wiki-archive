@@ -1,3 +1,67 @@
-<!-- source file: index__qed15d7847f97.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Argon
+|station=Wheat Farm L
+|hull=2250000
+|shield=15
+|generator=1500
+|hangar=5
+|cycle=00:01:00
+|productnum=[[Delexian Wheat]] (50)
+|stationprice={{Priceblock|Argon Trusted Ally|917504}}
+|reqresources=[[Energy Cells]] (75)
+|optresources=None
+}}
+{{Infobox factory
+|faction=Argon
+|station=Wheat Farm M
+|hull=900000
+|shield=10
+|generator=1500
+|hangar=5
+|cycle=00:01:00
+|productnum=[[Delexian Wheat]] (20)
+|stationprice={{Priceblock|Argon Trusted Ally|367 016}}
+|reqresources=[[Energy Cells]] (30)
+|optresources=None
+}}
+{{Infobox close}}
+==Overview==
+Wheat Farms are Argon factories that produce [[Delexian Wheat]] from [[Energy Cells]].
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Argon |station=Wheat Farm L |hull=2250000 |shield=15 |generator=1500 |hangar=5 |cycle=00:01:00 |productnum=[[Delexian Wheat]] (50) |stationprice={{Priceblock|Argon Trusted Ally|917504}} |reqresources=[[Energy Cells]] (75) |optresources=None }} {{Infobox factory |faction=Argon |station=Wheat Farm M |hull=900000 |shield=10 |generator=1500 |hangar=5 |cycle=00:01:00 |productnum=[[Delexian Wheat]] (20) |stationprice={{Priceblock|Argon Trusted Ally|367 016}} |reqresources=[[Energy Cells]] (30) |optresources=None }} {{Infobox close}} ==Overview== Wheat Farms are Argon factories that produce [[Delexian Wheat]] from [[Energy Cells]]. ===Encyclopedia Entry=== Argon wheat farms are vast factories that inside contain vast open spaces dedicated to growing Delexian Wheat. The wheat is grown under specially created environment that automatically control both sunlight and water, thus producing a healthy crop of constant quality. ==Uses== Argon wheat farms can be used to fuel [[Rimes Fact]]s and [[Space Fuel Distillery|Space Fuel Distilleries]]. ==Availability== Wheat Farms are unique to the Argon. {| |- valign="top" | style="padding-right:5em;"| ===L-type=== {| style="text-align:left;" |- valign="top" | '''[[Argon#Shipyards|Argon]]''' *{{sa|Cloudbase Southeast}} *{{sa|Light of Heart}} *{{sa|Legend's Home}} |} | ===M-type=== {| style="text-align:left;" |- valign="top" | '''[[Argon#Shipyards|Argon]]''' *{{sa|Argon Prime}} *{{sa|Cloudbase Southeast}} *{{sa|Legend's Home}} *{{sa|Omicron Lyrae}} |} |} {{Stationcategory}}
+===Encyclopedia Entry===
+Argon wheat farms are vast factories that inside contain vast open spaces dedicated to growing Delexian Wheat. 
+
+The wheat is grown under specially created environment that automatically control both sunlight and water, thus producing a healthy crop of constant quality.
+
+==Uses==
+Argon wheat farms can be used to fuel [[Rimes Fact]]s and [[Space Fuel Distillery|Space Fuel Distilleries]].
+
+==Availability==
+Wheat Farms are unique to the Argon.
+{|
+|- valign="top"
+| style="padding-right:5em;"|
+===L-type===
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Argon#Shipyards|Argon]]'''
+*{{sa|Cloudbase Southeast}}
+*{{sa|Light of Heart}}
+*{{sa|Legend's Home}}
+|}
+
+|
+===M-type===
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Argon#Shipyards|Argon]]'''
+*{{sa|Argon Prime}}
+*{{sa|Cloudbase Southeast}}
+*{{sa|Legend's Home}}
+*{{sa|Omicron Lyrae}}
+|}
+|}
+
+{{Stationcategory}}

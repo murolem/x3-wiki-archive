@@ -1,3 +1,40 @@
-<!-- source file: index__q1b44f5fd8b39.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Teladi
+|station=Energy Bolt Chaingun Ammunition Forge
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:04:24
+|productnum=[[Energy Bolt Chaingun Ammunition]] (12)
+|stationprice={{Priceblock|Teladi Majority Shareholder|3538352}}
+|reqresources=[[Energy Cells]] (66) <br>[[Nostrop Oil]] (44) <br>[[Ore]] (11) 
+|optresources=[[Teladianium]]
+}}
+{{Infobox close}}
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Teladi |station=Energy Bolt Chaingun Ammunition Forge |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:04:24 |productnum=[[Energy Bolt Chaingun Ammunition]] (12) |stationprice={{Priceblock|Teladi Majority Shareholder|3538352}} |reqresources=[[Energy Cells]] (66) &lt;br>[[Nostrop Oil]] (44) &lt;br>[[Ore]] (11) |optresources=[[Teladianium]] }} {{Infobox close}} ==Overview== Energy Bolt Chaingun Ammunition Forges are Teladi factories that produce [[Energy Bolt Chaingun Ammunition]] from [[Energy Cells]], [[Nostrop Oil]] and [[Ore]]. NPC stations will buy [[Teladianium]] as a secondary resource. ===Encyclopedia Entry=== This weapons forge produces Energy Bolt Chaingun Ammunition. ==Availability== This factory is unique to the Teladi. {| style="text-align:left;" | '''[[Teladi#Shipyards|Teladi]]''' *{{sa|Grand Exchange}} *{{sa|Ianamus Zura}} *{{sa|Ministry of Finance}} *{{sa|PTNI Headquarters}} |} {{Stationcategory}}
+==Overview==
+
+Energy Bolt Chaingun Ammunition Forges are Teladi factories that produce [[Energy Bolt Chaingun Ammunition]] from [[Energy Cells]], [[Nostrop Oil]] and [[Ore]]. 
+
+NPC stations will buy [[Teladianium]] as a secondary resource.
+
+===Encyclopedia Entry===
+
+This weapons forge produces Energy Bolt Chaingun Ammunition.
+
+==Availability==
+
+This factory is unique to the Teladi.
+
+{| style="text-align:left;"
+| '''[[Teladi#Shipyards|Teladi]]'''
+*{{sa|Grand Exchange}}
+*{{sa|Ianamus Zura}}
+*{{sa|Ministry of Finance}}
+*{{sa|PTNI Headquarters}}
+|}
+
+{{Stationcategory}}

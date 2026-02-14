@@ -1,3 +1,127 @@
-<!-- source file: index__qc72ed0c3f6ec.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Tern Sentinel
+|Faction=[[Teladi]]
+|Class={{M7class}}
+|Priceblock=
+|Minspeed=
+|Maxspeed=96
+|Minaccel=
+|Maxaccel=
+|Minsteer=
+|Maxsteer=
+|Hull=
+|Maxshield=1 GJ
+|Shieldslots=4
+|Maxshieldstrength=4000
+|Shieldreactor= 5800
+|Cargoclass=XL
+|Mincargo=
+|Maxcargo=16500
+|Lasercap=49000
+|Laserrecharge=
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+==Background==
+==Physical Characteristics==
+== Combat ==
+== Equipment ==
+== Availability ==
+== Suggested Roles==
+== See Also==
 
-{{Infobox open}} {{Infobox variant |Variant=Tern Sentinel |Faction=[[Teladi]] |Class={{M7class}} |Priceblock= |Minspeed= |Maxspeed=96 |Minaccel= |Maxaccel= |Minsteer= |Maxsteer= |Hull= |Maxshield=1 GJ |Shieldslots=4 |Maxshieldstrength=4000 |Shieldreactor= 5800 |Cargoclass=XL |Mincargo= |Maxcargo=16500 |Lasercap=49000 |Laserrecharge= |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot= |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot= |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot= |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot= |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot= |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== ==Background== ==Physical Characteristics== == Combat == == Equipment == == Availability == == Suggested Roles== == See Also== {{M7category}}
+{{M7category}}

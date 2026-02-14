@@ -1,3 +1,22 @@
-<!-- source file: index__q859a3dc0d981.html -->
+{{Infobox open}}
+{{Infobox missile|Missile=Phantom Missile [Albion Prelude]|Yield=650000|Speed=255|Range=53|Cooldown=3200|Seeker=Free Fire|Submunitions=1|Fusing=Proximity|Torpedoclass=|Guidance=Image-recognition|AoE=}}
+{{Infobox ware|ware=Phantom Missile|cargoclass=L|volume=6|minprice=20,888|aveprice=22,460|maxprice=24,032}}
+{{Infobox missile|Missile=Phantom Missile|Yield=650000|Speed=212|Range=53|Cooldown=3200|Seeker=Free Fire|Submunitions=1|Fusing=Proximity|Torpedoclass=|Guidance=Image-recognition|AoE=}}
+{{Infobox ware|ware=Phantom Missile|cargoclass=L|volume=|minprice=20,888|aveprice=22,460|maxprice=24,032}}
+{{Infobox close}}
 
-{{Infobox open}} {{Infobox missile|Missile=Phantom Missile [Albion Prelude]|Yield=650000|Speed=255|Range=53|Cooldown=3200|Seeker=Free Fire|Submunitions=1|Fusing=Proximity|Torpedoclass=|Guidance=Image-recognition|AoE=}} {{Infobox ware|ware=Phantom Missile|cargoclass=L|volume=6|minprice=20,888|aveprice=22,460|maxprice=24,032}} {{Infobox missile|Missile=Phantom Missile|Yield=650000|Speed=212|Range=53|Cooldown=3200|Seeker=Free Fire|Submunitions=1|Fusing=Proximity|Torpedoclass=|Guidance=Image-recognition|AoE=}} {{Infobox ware|ware=Phantom Missile|cargoclass=L|volume=|minprice=20,888|aveprice=22,460|maxprice=24,032}} {{Infobox close}} ==Overview== The [[Terran]] equivalent of the [[Tomahawk Heavy Missile]]. Faster, more potent, and takes up less cargo space than its counterpart. In Albion Prelude, the missile's Cargo Volume was increased to 6. While the missile remains incredibly potent, the change means the [[Claymore]] is capable of less destruction per reload. ==Encyclopedia Entry== This missile can only be launched from the [[Claymore]] bomber. It uses an [[Physics#Anti-matter|anti-matter]] warhead similar to that used by the weaponized [[Matter/Anti-Matter Launcher]]. It combines this with a proximity fuse and relatively powerful engines to help Terran ships quickly eliminate any capital ship-sized threats. ==Commentary== As the only Terran M8, the [[Claymore]] is the only ship capable of firing this missile. It is nevertheless a powerful munition against large craft. The dangers of launching the [[Tomahawk Heavy Missile]] when being shot at also applies to the Phantom: premature detonation will kill the launching Claymore instantly. The bomber should be protected by fighters or be clear of enemies before firing. [[Category:Proximity-fuse missiles]] {{Missile Navbox}}
+==Overview==
+The [[Terran]] equivalent of the [[Tomahawk Heavy Missile]]. Faster, more potent, and takes up less cargo space than its counterpart.
+
+In Albion Prelude, the missile's Cargo Volume was increased to 6. While the missile remains incredibly potent, the change means the [[Claymore]] is capable of less destruction per reload.
+
+==Encyclopedia Entry==
+This missile can only be launched from the [[Claymore]] bomber. It uses an [[Physics#Anti-matter|anti-matter]] warhead similar to that used by the weaponized [[Matter/Anti-Matter Launcher]]. It combines this with a proximity fuse and relatively powerful engines to help Terran ships quickly eliminate any capital ship-sized threats.
+
+==Commentary==
+As the only Terran M8, the [[Claymore]] is the only ship capable of firing this missile. It is nevertheless a powerful munition against large craft.
+
+The dangers of launching the [[Tomahawk Heavy Missile]] when being shot at also applies to the Phantom: premature detonation will kill the launching Claymore instantly. The bomber should be protected by fighters or be clear of enemies before firing.
+
+[[Category:Proximity-fuse missiles]]
+{{Missile Navbox}}

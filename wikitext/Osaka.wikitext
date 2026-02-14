@@ -1,3 +1,165 @@
-<!-- source file: index__q4301017ff6d2.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Osaka
+|Faction=Terran
+|Class={{M2class}}
+|Priceblock={{Priceblock| Guardian of Earth|74774047 }}
+|Minspeed= 36 
+|Maxspeed= 54
+|Minaccel= 4
+|Maxaccel= 7 
+|Minsteer= 0.4
+|Maxsteer= 0.9 
+|Hull=425000 / 4250000 (AP)
+|Maxshield=2 GJ
+|Shieldslots=6
+|Maxshieldstrength=12000
+|Shieldreactor= 18720 
+|Cargoclass=XL
+|Mincargo=8000
+|Maxcargo=10000
+|Lasercap= 450000
+|Laserrecharge= 8995
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot= Front
+|Guncount= 8
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=1|psp=1|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot= Right
+|Guncount= 8
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=1|psp=1|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot= Back
+|Guncount= 8
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=1|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot= Left
+|Guncount= 8
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=1|psp=1|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot= Up
+|Guncount= 8
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=1|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot= Down
+|Guncount= 8
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=1|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The '''Osaka''' is the [[Terran|USC's]] fleet battleship, and along with the [[ATF]] [[Tyr]] provides the platforms on which [[Earth]] mounts its heavy guns. It's generally considered one of the most overpowered and deadly [[M2]]s in the game, along with the [[Boreas]].
+It is often preferred over the ATF [[Tyr]] as a general purpose warship as its cargobay is considerably more accommodating than that of its counterpart (and actually sufficient for maximum armament+shielding).
 
-{{Infobox open}} {{Infobox variant |Variant=Osaka |Faction=Terran |Class={{M2class}} |Priceblock={{Priceblock| Guardian of Earth|74774047 }} |Minspeed= 36 |Maxspeed= 54 |Minaccel= 4 |Maxaccel= 7 |Minsteer= 0.4 |Maxsteer= 0.9 |Hull=425000 / 4250000 (AP) |Maxshield=2 GJ |Shieldslots=6 |Maxshieldstrength=12000 |Shieldreactor= 18720 |Cargoclass=XL |Mincargo=8000 |Maxcargo=10000 |Lasercap= 450000 |Laserrecharge= 8995 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot= Front |Guncount= 8 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=1|psp=1| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot= Right |Guncount= 8 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=1|psp=1| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot= Back |Guncount= 8 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=1|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot= Left |Guncount= 8 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=1|psp=1| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot= Up |Guncount= 8 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=1|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot= Down |Guncount= 8 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=1|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The '''Osaka''' is the [[Terran|USC's]] fleet battleship, and along with the [[ATF]] [[Tyr]] provides the platforms on which [[Earth]] mounts its heavy guns. It's generally considered one of the most overpowered and deadly [[M2]]s in the game, along with the [[Boreas]]. It is often preferred over the ATF [[Tyr]] as a general purpose warship as its cargobay is considerably more accommodating than that of its counterpart (and actually sufficient for maximum armament+shielding). ==Background== The ''Osaka''-class destroyer boasts considerable firepower, and enhances the USC's ability to project power throughout the Solar System and beyond. ==Physical Characteristics== The Osaka is a catamaran around two kilometers long, with two long fuselage segments bridged by a huge saucer which carries the command deck and the dorsal and ventral guns. The massive sublight thrusters are mounted in large boxes at the aft end of each fuselage. The Osaka has mid-range speed for an M2, but has a higher turn rate than [[Commonwealth]] M2s. It is a very flat ship, making it easy to hit from above and below, but quite hard to hit from the side unless you aim for the engines. It's also important to note that the huge prongs on the front are about a kilometer from the bridge. Finally, it takes care to maneuver an Osaka in tight quarters, as it will flatten virtually anything in a one-kilometer radius. == Combat == At 12 gigajoules, the Osaka's shielding is (tied with the ATF Tyr) the heaviest of all ships in the vanilla X-Universe. Along with the Tyr, it is the only combat ship that is guaranteed to survive the first volley of fire from a [[Xenon Q]] in [[Simulation Modeling|OOS combat]]. This makes it an excellent choice for the role of penning up the Xenon in their home space. It is also a potent ship in [[Simulation Modeling|IS combat]], though it has been shown that under AI control, PSPs hold less destructive power than an equivalent number of [[PPC]]s due to the PSP's low fire rate. Despite its slightly weaker firepower, its tough shields mean that it is just as likely to be left standing after a fight with another capital as any other M2. It can equip SSCs in top and bottom turrets, giving it an impressive potency against fighters. == Equipment == The Osaka has six eight-bay hardpoints. All can fit [[EMPC]], [[MAML]] and [[SSC]], and the forward and flank can also mount [[PSP]]. Assuming that all turrets that can do so mount PSP and the rest mount SSC, the Osaka's gargantuan weapons reactor can maintain continuous fire from all guns for 75 seconds. The reactor is so powerful that if you fire only the SSCs, you can maintain fire forever. As if it didn't already carry enough firepower to lay waste to entire [[sectors]] single-handedly, it can also launch [[Poltergeist Missile|Poltergeist]], [[Spectre Missile|Spectre]], and highly potent/compact [[Wraith Missile|Wraith missiles]]. The one problem with the Osaka is its reliance on Terran factories. Other M2s can mount weapons that can be built in player factories, meaning it can take a lot longer to mount a full set of PSPs and SSCs. The mid-game [[Aldrin Expansion]] plot unlocks the requisite factories. == Availability == {| style="text-align:center;" |+'''Availability''' |- style="{{Colour/Terran}}" ! Variant !![[Mars]] !! [[The Moon]] !! [[Saturn]] !! [[Terran Unknown Sector 1]] |- ! Osaka || x || x || x || |} == Suggested Roles== For any OOS combat role the Osaka is unmatched, but it particularly excels at anti-Q patrols in sectors bordering [[Xenon]] space. A triad of Osakas can permanently block a gate to a Xenon sector, making neighboring sectors safe for business (a common practice for later-game players in Terran US3). == See Also== {{M2}} {{Terran Navbox}}
+==Background==
+The ''Osaka''-class destroyer boasts considerable firepower, and enhances the USC's ability to project power throughout the Solar System and beyond.
+
+==Physical Characteristics==
+The Osaka is a catamaran around two kilometers long, with two long fuselage segments bridged by a huge saucer which carries the command deck and the dorsal and ventral guns.  The massive sublight thrusters are mounted in large boxes at the aft end of each fuselage.
+
+The Osaka has mid-range speed for an M2, but has a higher turn rate than [[Commonwealth]] M2s.
+
+It is a very flat ship, making it easy to hit from above and below, but quite hard to hit from the side unless you aim for the engines. It's also important to note that the huge prongs on the front are about a kilometer from the bridge.  Finally, it takes care to maneuver an Osaka in tight quarters, as it will flatten virtually anything in a one-kilometer radius.
+
+== Combat ==
+At 12 gigajoules, the Osaka's shielding is (tied with the ATF Tyr) the heaviest of all ships in the vanilla X-Universe. Along with the Tyr, it is the only combat ship that is guaranteed to survive the first volley of fire from a [[Xenon Q]] in [[Simulation Modeling|OOS combat]]. This makes it an excellent choice for the role of penning up the Xenon in their home space.
+
+It is also a potent ship in [[Simulation Modeling|IS combat]], though it has been shown that under AI control, PSPs hold less destructive power than an equivalent number of [[PPC]]s due to the PSP's low fire rate. Despite its slightly weaker firepower, its tough shields mean that it is just as likely to be left standing after a fight with another capital as any other M2.
+
+It can equip SSCs in top and bottom turrets, giving it an impressive potency against fighters.
+
+== Equipment ==
+The Osaka has six eight-bay hardpoints. All can fit [[EMPC]], [[MAML]] and [[SSC]], and the forward and flank can also mount [[PSP]].
+
+Assuming that all turrets that can do so mount PSP and the rest mount SSC, the Osaka's gargantuan weapons reactor can maintain continuous fire from all guns for 75 seconds.  The reactor is so powerful that if you fire only the SSCs, you can maintain fire forever.
+
+As if it didn't already carry enough firepower to lay waste to entire [[sectors]] single-handedly, it can also launch [[Poltergeist Missile|Poltergeist]], [[Spectre Missile|Spectre]], and highly potent/compact [[Wraith Missile|Wraith missiles]].
+
+The one problem with the Osaka is its reliance on Terran factories. Other M2s can mount weapons that can be built in player factories, meaning it can take a lot longer to mount a full set of PSPs and SSCs.  The mid-game [[Aldrin Expansion]] plot unlocks the requisite factories.
+
+== Availability ==
+{| style="text-align:center;"
+|+'''Availability'''
+|- style="{{Colour/Terran}}"
+! Variant !![[Mars]] !! [[The Moon]] !! [[Saturn]] !! [[Terran Unknown Sector 1]]
+|-
+! Osaka || x || x || x ||
+|}
+
+== Suggested Roles==
+For any OOS combat role the Osaka is unmatched, but it particularly excels at anti-Q patrols in sectors bordering [[Xenon]] space.  A triad of Osakas can permanently block a gate to a Xenon sector, making neighboring sectors safe for business (a common practice for later-game players in Terran US3).
+
+== See Also==
+
+{{M2}}
+
+
+{{Terran Navbox}}

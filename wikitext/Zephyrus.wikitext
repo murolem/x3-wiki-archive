@@ -1,3 +1,124 @@
-<!-- source file: index__qa9eaecce5777.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Zephyrus
+|Faction=OTAS
+|Class={{TMclass}}
+|Priceblock={{Priceblock|Argon|Accepted Advisor 474663}}
+|Minspeed=70
+|Maxspeed=140
+|Minaccel=9
+|Maxaccel=18
+|Minsteer=1.6
+|Maxsteer=3.24
+|Hull=13440
+|Maxshield=200 MJ
+|Shieldslots=3
+|Maxshieldstrength=600
+|Shieldreactor= 1200
+|Cargoclass=XL
+|Mincargo=900
+|Maxcargo=1275
+|Lasercap=2200
+|Laserrecharge=51
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Front
+|Guncount=2
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=2
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay={{Dockbay|4 {{Fighterdock}}}}
+}}
+{{Infobox close}}
+==Overview==
+If you can't get a [[Hyperion|Hyperion Vanguard]], get one of these.  Even if you have one, buy a '''Zephyrus''' anyway. They're fast, cheap and tough, though very plain in design.
 
-{{Infobox open}} {{Infobox variant |Variant=Zephyrus |Faction=OTAS |Class={{TMclass}} |Priceblock={{Priceblock|Argon|Accepted Advisor 474663}} |Minspeed=70 |Maxspeed=140 |Minaccel=9 |Maxaccel=18 |Minsteer=1.6 |Maxsteer=3.24 |Hull=13440 |Maxshield=200 MJ |Shieldslots=3 |Maxshieldstrength=600 |Shieldreactor= 1200 |Cargoclass=XL |Mincargo=900 |Maxcargo=1275 |Lasercap=2200 |Laserrecharge=51 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=2 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Front |Guncount=2 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Rear |Guncount=2 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay={{Dockbay|4 {{Fighterdock}}}} }} {{Infobox close}} ==Overview== If you can't get a [[Hyperion|Hyperion Vanguard]], get one of these. Even if you have one, buy a '''Zephyrus''' anyway. They're fast, cheap and tough, though very plain in design. ==Background== The Zephyrus [[TM|military transport]], with its ability to carry a limited number of fighters, provides important tactical flexibility to the [[OTAS]] fleet. ==Physical Characteristics== The Zephyrus has a long, narrow cigar-shaped fuselage, with the command deck located at the bow. It carries chin-mounted main guns and front and rear turrets, and docks four fighters along the ventral fuselage. Its large stern-mounted engines can propel it to speeds that outpace some [[TP]]s and [[M3]]s. == Combat == {{TMclass}} ships are support ships. They carry small numbers of fighters to distant locations very cost-effectively. However, they don't normally have the shields, maneuvering, or weapons to effectively engage in direct combat. Their open docking bays do however make them ideal fighter drone tenders allowing you to deploy heavier carriers elsewhere. Unfortunately TMs will not automatically deploy drones, which limits their usefulness as a patrol unit. The Zephyrus has armaments above and beyond those of normal [[TM]]s and can take on an [[M3]] or two with dual [[HEPT]]s and two turrets mounting antifighter weaponry, and its [[M6|corvette]]-level shields are enough to protect it in the line of fire. In addition, it is unique among the TM class in that it can wield several types of heavy missiles like the [[Thunderbolt Missile|Thunderbolt]] and [[Tempest Missile|Tempest]] for long-range combat. Together with fighters, a well-equipped Zephyrus can take out opposing [[M7|frigates]] with relative ease. == Equipment == {| |+'''Missiles''' |- | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] *[[Hurricane Missile]] *[[Cyclone Missile]] | *[[Tornado Missile]] *[[Aurora Missile]] *[[Remote Guided Warhead]] *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == The Zephyrus is only available at the [[OTAS Shipyard]] in [[Legend's Home]]. For such an effective ship, however, it is quite cheap. == Suggested Roles== Thanks in large part to its speed and armament, a Zephyrus makes a good escort for standard freighters. Its respectable cargo capacity enables it to act as a transport ship quite effectively, though admittedly it has the smallest cargo bay of the TM class. == See Also== {{TM}} [[Category: Carrier]]
+==Background==
+The Zephyrus [[TM|military transport]], with its ability to carry a limited number of fighters, provides important tactical flexibility to the [[OTAS]] fleet.
+
+==Physical Characteristics==
+The Zephyrus has a long, narrow cigar-shaped fuselage, with the command deck located at the bow.  It carries chin-mounted main guns and front and rear turrets, and docks four fighters along the ventral fuselage.  Its large stern-mounted engines can propel it to speeds that outpace some [[TP]]s and [[M3]]s.
+
+== Combat ==
+{{TMclass}} ships are support ships. They carry small numbers of fighters to distant locations very cost-effectively. However, they don't normally have the shields, maneuvering, or weapons to effectively engage in direct combat. Their open docking bays do however make them ideal fighter drone tenders allowing you to deploy heavier carriers elsewhere.  Unfortunately TMs will not automatically deploy drones, which limits their usefulness as a patrol unit.
+
+The Zephyrus has armaments above and beyond those of normal [[TM]]s and can take on an [[M3]] or two with dual [[HEPT]]s and two turrets mounting antifighter weaponry, and its [[M6|corvette]]-level shields are enough to protect it in the line of fire.  In addition, it is unique among the TM class in that it can wield several types of heavy missiles like the [[Thunderbolt Missile|Thunderbolt]] and [[Tempest Missile|Tempest]] for long-range combat.
+
+Together with fighters, a well-equipped Zephyrus can take out opposing [[M7|frigates]] with relative ease.
+
+== Equipment ==
+{|
+|+'''Missiles'''
+|-
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+|
+*[[Tornado Missile]]
+*[[Aurora Missile]]
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+
+== Availability ==
+The Zephyrus is only available at the [[OTAS Shipyard]] in [[Legend's Home]].  For such an effective ship, however, it is quite cheap.
+
+== Suggested Roles==
+Thanks in large part to its speed and armament, a Zephyrus makes a good escort for standard freighters.  Its respectable cargo capacity enables it to act as a transport ship quite effectively, though admittedly it has the smallest cargo bay of the TM class.
+== See Also==
+{{TM}}
+[[Category: Carrier]]

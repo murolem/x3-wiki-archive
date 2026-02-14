@@ -1,3 +1,55 @@
-<!-- source file: index__qcd092794ea6c.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Senshi Hauler
+|Faction=[[Yaki]]
+|Class={{M7Mclass}}
+|Priceblock=
+|Minspeed=
+|Maxspeed= 69.9
+|Minaccel=
+|Maxaccel=
+|Minsteer=
+|Maxsteer=
+|Hull=
+|Maxshield=1 GJ
+|Shieldslots=3
+|Maxshieldstrength=3000
+|Shieldreactor= 14400
+|Cargoclass=XL
+|Mincargo=
+|Maxcargo=8000
+|Lasercap=50500
+|Laserrecharge=
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Missileturret|Slot=Front|Lcount=8}}
+{{Missileturret|Slot=Front|Lcount=8}}
+{{Gunslot
+|Slot=Rear
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+==Background==
+==Physical Characteristics==
+== Combat ==
+== Equipment ==
+== Availability ==
+== Suggested Roles==
+== See Also==
 
-{{Infobox open}} {{Infobox variant |Variant=Senshi Hauler |Faction=[[Yaki]] |Class={{M7Mclass}} |Priceblock= |Minspeed= |Maxspeed= 69.9 |Minaccel= |Maxaccel= |Minsteer= |Maxsteer= |Hull= |Maxshield=1 GJ |Shieldslots=3 |Maxshieldstrength=3000 |Shieldreactor= 14400 |Cargoclass=XL |Mincargo= |Maxcargo=8000 |Lasercap=50500 |Laserrecharge= |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Missileturret|Slot=Front|Lcount=8}} {{Missileturret|Slot=Front|Lcount=8}} {{Gunslot |Slot=Rear |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== ==Background== ==Physical Characteristics== == Combat == == Equipment == == Availability == == Suggested Roles== == See Also== {{M7Mcategory}} [[Category:Yaki]]
+{{M7Mcategory}}
+[[Category:Yaki]]

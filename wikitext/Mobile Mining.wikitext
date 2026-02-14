@@ -1,3 +1,19 @@
-<!-- source file: index__q44a30c4a273f.html -->
+Mobile Mining is the process of reducing a mineral bearing asteroid to small pieces and collecting them with a ship. 
 
-Mobile Mining is the process of reducing a mineral bearing asteroid to small pieces and collecting them with a ship. Specially equipped Transport ships may be ordered or manually operated to collect minerals from such asteroid fragments. Such ships must continue breaking up an asteroid to a size suitable for collection, commonly called pebbles. Breaking up an asteroid beyond this size destroys the asteroid fragment. Asteroids large enough to support a mining base, super-asteroids, may also be targeted by a ship conducting Mobile Mining activities. Incidentally, Mobile Mining is the only way [[Nividium]] may be collected and the only way smaller asteroids can be processed for mineral extraction. Smaller asteroids can be broken down using standard ship lasers. Weapons with wide areas of effect are very efficient for this task, [[PSG]]s will shatter a large swathe of rocks, it will however occasionally vaporize pebbles caught in the area of effect. Customarily, a [[Mobile Drilling System]] is used to break up asteroids into collectible pebbles. When breaking up super-asteroids, a heavy weapon must be used; [[Hornet Missile]]s were once very popular for this application, otherwise a Mobile Drilling System may also be used. == Equipment == Ships capable of performing Mobile Mining activities are those that can install an [[Ore Collector]]. Additionally, a weapon suitable for breaking down an asteroid into fragments, such as a Mobile Drilling System, is required. Having reduced a field to pebbles, ships equipped with Ore Collectors may collect them and store them in their cargo bay as [[Ore]], [[Silicon|Silicon Wafers]], [[Ice]], and [[Nividium]]. The collection task may be automated by equipping the collecting ship with [[Special Command Software]] and ordered to ''Mine Minerals''. A [[Mineral Scanner]] is needed for the command to become available. {{Trading}}
+Specially equipped Transport ships may be ordered or manually operated to collect minerals from such asteroid fragments. Such ships must continue breaking up an asteroid to a size suitable for collection, commonly called pebbles. Breaking up an asteroid beyond this size destroys the asteroid fragment. Asteroids large enough to support a mining base, super-asteroids, may also be targeted by a ship conducting Mobile Mining activities.
+
+Incidentally, Mobile Mining is the only way [[Nividium]] may be collected and the only way smaller asteroids can be processed for mineral extraction.
+
+Smaller asteroids can be broken down using standard ship lasers. Weapons with wide areas of effect are very efficient for this task, [[PSG]]s will shatter a large swathe of rocks, it will however occasionally vaporize pebbles caught in the area of effect. Customarily, a [[Mobile Drilling System]] is used to break up asteroids into collectible pebbles.
+
+When breaking up super-asteroids, a heavy weapon must be used; [[Hornet Missile]]s were once very popular for this application, otherwise a Mobile Drilling System may also be used.
+
+== Equipment ==
+
+Ships capable of performing Mobile Mining activities are those that can install an [[Ore Collector]]. Additionally, a weapon suitable for breaking down an asteroid into fragments, such as a Mobile Drilling System, is required. 
+
+Having reduced a field to pebbles, ships equipped with Ore Collectors may collect them and store them in their cargo bay as [[Ore]], [[Silicon|Silicon Wafers]], [[Ice]], and [[Nividium]].
+
+The collection task may be automated by equipping the collecting ship with [[Special Command Software]] and ordered to ''Mine Minerals''. A [[Mineral Scanner]] is needed for the command to become available.
+
+{{Trading}}

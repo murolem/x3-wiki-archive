@@ -1,3 +1,38 @@
-<!-- source file: index__q9751434964b1.html -->
+{{Infobox open}}
+{{Infobox factory
+|faction=Terran
+|station=Ice Harvesting Facility L
+|hull=750000
+|shield=9
+|generator=1500
+|hangar=10
+|cycle=00:01:00
+|productnum=[[Ice]] (20)
+|stationprice=
+|reqresources=[[Energy Cells]] (120)
+|optresources=[[Terran MRE]]
+}}
+{{Infobox factory
+|faction=Terran
+|station=Ice Harvesting Facility M
+|hull=150000
+|shield=4
+|generator=1500
+|hangar=10
+|cycle=00:01:00
+|productnum=[[Ice]] (4)
+|stationprice=
+|reqresources=[[Energy Cells]] (24)
+|optresources=[[Terran MRE]]
+}}
+{{Infobox close}}
 
-{{Infobox open}} {{Infobox factory |faction=Terran |station=Ice Harvesting Facility L |hull=750000 |shield=9 |generator=1500 |hangar=10 |cycle=00:01:00 |productnum=[[Ice]] (20) |stationprice= |reqresources=[[Energy Cells]] (120) |optresources=[[Terran MRE]] }} {{Infobox factory |faction=Terran |station=Ice Harvesting Facility M |hull=150000 |shield=4 |generator=1500 |hangar=10 |cycle=00:01:00 |productnum=[[Ice]] (4) |stationprice= |reqresources=[[Energy Cells]] (24) |optresources=[[Terran MRE]] }} {{Infobox close}} ==Overview== Ice Harvesting Facility are Terran factories that produce [[Ice]] from [[Energy Cells]]. NPC stations will buy [[Terran MRE]] as a secondary resource. ===Encyclopedia Entry=== This facility is used to harvest [[ice]] located deep within asteroids. The ice is then transported to a purification facility to be melted and separated from impurities. ==Availability== This factory is unique to the Terran and can be randomly found in the cargo of a [[Boarding|captured]] [[Atmospheric Lifter]].
+==Overview==
+Ice Harvesting Facility are Terran factories that produce [[Ice]] from [[Energy Cells]]. 
+
+NPC stations will buy [[Terran MRE]] as a secondary resource.
+===Encyclopedia Entry===
+This facility is used to harvest [[ice]] located deep within asteroids. The ice is then transported to a purification facility to be melted and separated from impurities.
+
+==Availability==
+This factory is unique to the Terran and can be randomly found in the cargo of a [[Boarding|captured]] [[Atmospheric Lifter]].

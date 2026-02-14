@@ -1,3 +1,42 @@
-<!-- source file: index__qe41f35189341.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox ware
+|ware= Matter/Anti-Matter Warhead
+|cargoclass=S
+|volume=4
+|minprice=720
+|aveprice=900
+|maxprice=1080
+}}
+{{Infobox close}}
 
-__NOTOC__ {{Infobox open}} {{Infobox ware |ware= Matter/Anti-Matter Warhead |cargoclass=S |volume=4 |minprice=720 |aveprice=900 |maxprice=1080 }} {{Infobox close}} ==Overview== Each crate contains 200 rounds of ammunition. ===Encyclopedia Entry=== Matter/Anti-matter Warheads contain an equal amount of matter and anti-matter separated by an energy field. When this field is compromised, by impact or failure, the two mix with devastating results. ==Weapons== Used by both the [[Matter/Anti-Matter Launcher]] and the [[Prototype Matter/Anti-Matter Launcher]]. ==Trading information== {| ! Produced by !! Secondary Resource at !! Traded at |- valign="top" | *[[Matter/Anti-Matter Warhead Production Fab]] | *[[Ghoul Missile Manufacturing Plant]] *[[Matter/Anti-Matter Mine Fab]] *[[Phantom Missile Production Facility]] *[[Poltergeist Missile Production Facility]] *[[Spectre Missile Production Facility]] *[[Wraith Missile Production Plant]] | *[[Matter/Anti-Matter Launcher Forge]] *[[Aldrin Weapon Production Base]] *[[Military Base]] (Terran Sectors) *[[Orbital Patrol Base]] *[[Orbital Defence Station]] *[[Unknown Aldrin Base]] |}
+==Overview==
+Each crate contains 200 rounds of ammunition.
+===Encyclopedia Entry===
+Matter/Anti-matter Warheads contain an equal amount of matter and anti-matter separated by an energy field. When this field is compromised, by impact or failure, the two mix with devastating results.
+
+==Weapons==
+
+Used by both the [[Matter/Anti-Matter Launcher]] and the [[Prototype Matter/Anti-Matter Launcher]].
+
+==Trading information==
+{|
+! Produced by  !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Matter/Anti-Matter Warhead Production Fab]]
+|
+*[[Ghoul Missile Manufacturing Plant]]
+*[[Matter/Anti-Matter Mine Fab]]
+*[[Phantom Missile Production Facility]]
+*[[Poltergeist Missile Production Facility]]
+*[[Spectre Missile Production Facility]]
+*[[Wraith Missile Production Plant]]
+|
+*[[Matter/Anti-Matter Launcher Forge]]
+*[[Aldrin Weapon Production Base]]
+*[[Military Base]] (Terran Sectors)
+*[[Orbital Patrol Base]]
+*[[Orbital Defence Station]]
+*[[Unknown Aldrin Base]]
+|}

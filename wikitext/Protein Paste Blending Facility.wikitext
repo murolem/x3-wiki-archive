@@ -1,3 +1,40 @@
-<!-- source file: index__q00dad7c84bac.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Terran
+|station=Protein Paste Blending Facility L
+|hull=2250000
+|shield=15
+|generator=1500
+|hangar=10
+|cycle=00:01:00
+|productnum=[[Protein Paste]] (50)
+|stationprice={{Priceblock|Terran Senatorial Advisor|811548}}
+|reqresources=[[Energy Cells]] (75)
+|optresources=None
+}}
+{{Infobox factory
+|faction=Terran
+|station=Protein Paste Blending Facility M
+|hull=900000
+|shield=10
+|generator=1500
+|hangar=10
+|cycle=00:01:00
+|productnum=[[Protein Paste]] (20)
+|stationprice={{Priceblock|Terran Senatorial Advisor|325008}}
+|reqresources=[[Energy Cells]] (30)
+|optresources=None
+}}
+{{Infobox close}}
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Terran |station=Protein Paste Blending Facility L |hull=2250000 |shield=15 |generator=1500 |hangar=10 |cycle=00:01:00 |productnum=[[Protein Paste]] (50) |stationprice={{Priceblock|Terran Senatorial Advisor|811548}} |reqresources=[[Energy Cells]] (75) |optresources=None }} {{Infobox factory |faction=Terran |station=Protein Paste Blending Facility M |hull=900000 |shield=10 |generator=1500 |hangar=10 |cycle=00:01:00 |productnum=[[Protein Paste]] (20) |stationprice={{Priceblock|Terran Senatorial Advisor|325008}} |reqresources=[[Energy Cells]] (30) |optresources=None }} {{Infobox close}} ==Overview== Protein Paste Blending Facilities are Terran factories that produce [[Protein Paste]] from [[Energy Cells]]. ===Encyclopedia Entry=== Meat and Vegetables transported to the Protein Paste Blending Facility from Earth are processed and their protein content blended to produce a concentrated nutrient paste. ==Availability== Both versions are sold exclusively at {{sa|Terran Unknown Sector 1}} {{Stationcategory}}
+==Overview==
+Protein Paste Blending Facilities are Terran factories that produce [[Protein Paste]] from [[Energy Cells]]. 
+===Encyclopedia Entry===
+Meat and Vegetables transported to the Protein Paste Blending Facility from Earth are processed and their protein content blended to produce a concentrated nutrient paste.
+
+==Availability==
+Both versions are sold exclusively at {{sa|Terran Unknown Sector 1}} 
+
+
+{{Stationcategory}}

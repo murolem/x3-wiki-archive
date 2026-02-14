@@ -1,3 +1,42 @@
-<!-- source file: index__q1e04b0d1c13c.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox basicstation
+|faction=Yaki
+|station=Stock Exchange
+|hull=
+|shield=
+|generator=
+|hangar=
+|stationprice=
+}}
+{{Infobox close}}
 
-__NOTOC__ {{Infobox open}} {{Infobox basicstation |faction=Yaki |station=Stock Exchange |hull= |shield= |generator= |hangar= |stationprice= }} {{Infobox close}} The Yaki, in co-operation with other clans, require you to prove your character and will allow access to their Stock Exchanges upon delivery of any of the following contraband, 7 Slaves, 14 Space Fuel, or 4 Space Weed. This stock exchange is located in [[Senator's Badlands]]. Upon meeting it you will gain access to shares in Yaki Acquisitions. This station buys or sells the following: *[[Disintegrator Rifles]] *[[Low-yield Sidearms]] *[[Slaves]] *[[Space Fuel]] *[[Space Weed]] *[[Spaceflies]] *[[SQUASH Mine]] *[[Sunrise Flowers]] *[[Tracker Mine]] *[[Marines]] *[[Boarding Pod]] Upgrades at this station are: *[[Cargo Bay Extension]] *[[Engine Tuning]] *[[Rudder Optimisation]] *[[Cargo Life Support System]] *[[Freight Scanner]] *[[Special Command Software MK1]] {{Stationcategory}}
+The Yaki, in co-operation with other clans, require you to prove your character and will allow access to their Stock Exchanges upon delivery of any of the following contraband, 7 Slaves, 14 Space Fuel, or 4 Space Weed.
+
+This stock exchange is located in [[Senator's Badlands]]. Upon meeting it you will gain access to shares in Yaki Acquisitions.
+
+
+This station buys or sells the following:
+
+*[[Disintegrator Rifles]]
+*[[Low-yield Sidearms]]
+*[[Slaves]]
+*[[Space Fuel]]
+*[[Space Weed]]
+*[[Spaceflies]]
+*[[SQUASH Mine]]
+*[[Sunrise Flowers]]
+*[[Tracker Mine]]
+*[[Marines]]
+*[[Boarding Pod]]
+
+Upgrades at this station are:
+*[[Cargo Bay Extension]]
+*[[Engine Tuning]]
+*[[Rudder Optimisation]]
+*[[Cargo Life Support System]]
+*[[Freight Scanner]]
+*[[Special Command Software MK1]]
+
+
+{{Stationcategory}}

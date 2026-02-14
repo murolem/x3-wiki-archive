@@ -1,3 +1,49 @@
-<!-- source file: index__q78a670bea0db.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Silicon Wafer
+|cargoclass=XL
+|volume=18
+|minprice=232
+|aveprice= 504 
+|maxprice= 776 
+}}
+{{Infobox close}}
+==Overview==
+Silicon is the main mineral resource that all modern Technology goods are based on.<bR>
+A [[Silicon Mine]] may be placed on a silicon asteroid to extract silicon wafers. Alternatively, small silicon rocks may be collected in space with an [[Ore Collector]] the material collected is stored as silicon wafers and may be delivered to stations requiring it for manufacturing.
 
-{{Infobox open}} {{Infobox ware |ware= Silicon Wafer |cargoclass=XL |volume=18 |minprice=232 |aveprice= 504 |maxprice= 776 }} {{Infobox close}} ==Overview== Silicon is the main mineral resource that all modern Technology goods are based on.&lt;bR> A [[Silicon Mine]] may be placed on a silicon asteroid to extract silicon wafers. Alternatively, small silicon rocks may be collected in space with an [[Ore Collector]] the material collected is stored as silicon wafers and may be delivered to stations requiring it for manufacturing. Silicon is the basis of any self-sustaining factory complex, as they are needed to produce energy cells, a commodity essential for producing food and almost anything else. ==Asteroids== [[Silicon asteroid list]] ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Silicon Mine]] | *[[Advanced Satellite Factory]] *[[Chip Plant]] *[[Computer Plant]] *[[Crystal Fab]] *[[Drone Factory]] *[[Drone Production Facility]] *[[Dumbfire Missile Production Complex]] *[[Flail Missile Production Facility]] *[[Hammer Torpedo Fabrication Facility]] *[[High Yield Production Complex]] *[[Image Recognition Production Complex]] *[[Keris Drone Factory]] *[[Satellite Factory]] *[[Seeker Missile Production Complex]] *[[Swarm Missile Production Complex]] *[[Tomahawk Missile Manufacturing Plant]] | *List of Race Factories where this ware is a secondary resource | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}} {{Waretable}}
+Silicon is the basis of any self-sustaining factory complex, as they are needed to produce energy cells, a commodity essential for producing food and almost anything else.
+
+==Asteroids==
+[[Silicon asteroid list]]
+
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Silicon Mine]]
+|
+*[[Advanced Satellite Factory]]
+*[[Chip Plant]]
+*[[Computer Plant]]
+*[[Crystal Fab]]
+*[[Drone Factory]]
+*[[Drone Production Facility]]
+*[[Dumbfire Missile Production Complex]]
+*[[Flail Missile Production Facility]]
+*[[Hammer Torpedo Fabrication Facility]]
+*[[High Yield Production Complex]]
+*[[Image Recognition Production Complex]]
+*[[Keris Drone Factory]]
+*[[Satellite Factory]]
+*[[Seeker Missile Production Complex]]
+*[[Swarm Missile Production Complex]]
+*[[Tomahawk Missile Manufacturing Plant]]
+|
+*List of Race Factories where this ware is a secondary resource
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}
+{{Warecategory}}
+{{Waretable}}

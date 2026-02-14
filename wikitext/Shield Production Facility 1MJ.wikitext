@@ -1,3 +1,54 @@
-<!-- source file: index__qac344582aa49.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Shield Production Facility 1MJ
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:26:00
+|productnum=[[Shields#1MJ|1 MJ Shields]] (12)
+|stationprice=
+|reqresources=[[Energy Cells]] (390)<br>[[Ore]] (65)<br>[[Food]] by race
+|optresources=[[Quantum Tubes]]
+}}
+{{Infobox close}}
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction= |station=Shield Production Facility 1MJ |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:26:00 |productnum=[[Shields#1MJ|1 MJ Shields]] (12) |stationprice= |reqresources=[[Energy Cells]] (390)&lt;br>[[Ore]] (65)&lt;br>[[Food]] by race |optresources=[[Quantum Tubes]] }} {{Infobox close}} ==Overview== 1 MJ Shield Production Facilities produce the [[Shields#1MJ|1 MJ Shield]] from [[Energy Cells]], [[Ore]] and [[Food]]. NPC stations will buy [[Quantum Tubes]] as a secondary resource. ===Encyclopedia Entry=== This production facility manufactures the basic 1 MJ shield used by all smaller fighters. This shield provides simple protection against small particles. Shields are vital for survival in space. They protect the ship from small impacting objects like mini asteroids as well as during fights. ==Race-specific attributes== {| style="text-align:right;background-color: WhiteSmoke; border-collapse:collapse;" cellspacing="0" cellpadding="5" |-style="background-color:LightGray;text-align:center;" !Race!!Food!!Amount!!Station Cost |- style="{{Colour/Argon}}" | [[Argon]] || [[Meatsteak Cahoonas]] || 260 || {{Priceblock|Trusted Ally|1630888}} |- style="{{Colour/Teladi}}" | [[Teladi]] || [[Nostrop Oil]] || 260 || {{Priceblock|Majority Shareholder|1485460}} |} ==Availability== These factories are exclusive to the Argon and Teladi. {| style="text-align:left;" |- valign="top" | '''[[Argon#Shipyards|Argon]]''' *{{sa|Argon Prime}} *{{sa|Cloudbase Southeast}} *{{sa|Legend's Home}} | '''[[Teladi#Shipyards|Teladi]]''' *{{sa|Ceo's Sprite}} *{{sa|Ministry of Finance}} |} {{Stationcategory}}
+==Overview==
+
+1 MJ Shield Production Facilities produce the [[Shields#1MJ|1 MJ Shield]] from [[Energy Cells]], [[Ore]] and [[Food]]. 
+
+NPC stations will buy [[Quantum Tubes]] as a secondary resource.
+
+===Encyclopedia Entry===
+
+This production facility manufactures the basic 1 MJ shield used by all smaller fighters. This shield provides simple protection against small particles. Shields are vital for survival in space. They protect the ship from small impacting objects like mini asteroids as well as during fights.
+
+==Race-specific attributes==
+
+{| style="text-align:right;background-color: WhiteSmoke; border-collapse:collapse;" cellspacing="0" cellpadding="5"
+|-style="background-color:LightGray;text-align:center;"
+!Race!!Food!!Amount!!Station Cost
+|- style="{{Colour/Argon}}"
+| [[Argon]] || [[Meatsteak Cahoonas]] || 260 || {{Priceblock|Trusted Ally|1630888}}
+|- style="{{Colour/Teladi}}"
+| [[Teladi]] || [[Nostrop Oil]] || 260 || {{Priceblock|Majority Shareholder|1485460}}
+|}
+
+==Availability==
+
+These factories are exclusive to the Argon and Teladi.
+
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Argon#Shipyards|Argon]]'''
+*{{sa|Argon Prime}}
+*{{sa|Cloudbase Southeast}}
+*{{sa|Legend's Home}}
+| '''[[Teladi#Shipyards|Teladi]]'''
+*{{sa|Ceo's Sprite}}
+*{{sa|Ministry of Finance}}
+|}
+
+{{Stationcategory}}

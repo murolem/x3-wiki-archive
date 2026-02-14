@@ -1,3 +1,33 @@
-<!-- source file: index__q6b69dc079055.html -->
+{{Infobox Sector
+|Race=Terran
+|SecLevel=Border
+|Population= 54,215,855
+|Planets=2
+|SunLevel=300
+|GateDist=60
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th></tr>
+{{Gateblock|East|6000|-3000|-10000}}
+{{Gateblock|South|-11000|-38000|-21000}}
+{{Gateblock|West|-24000|-16000|-5000}}
+</table>
+}}
 
-{{Infobox Sector |Race=Terran |SecLevel=Border |Population= 54,215,855 |Planets=2 |SunLevel=300 |GateDist=60 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;/tr> {{Gateblock|East|6000|-3000|-10000}} {{Gateblock|South|-11000|-38000|-21000}} {{Gateblock|West|-24000|-16000|-5000}} &lt;/table> }} ==Description== This sector was once a quiet area, in which the only feature was the deactivated jumpgate drifting lifelessly in orbit around the planet Armstrong. With the growing Terran interest in the jumpgate, this area of space quickly transformed into a thriving hub where technology and knowledge are traded between the two peoples. ==Default [[Stations]]== [[USC Orbital Support Station|USC Orbital Supply Base]] &lt;br /> Aldrin Energy Production Base XL alpha &lt;br /> Aldrin Mixed Food Production Base M alpha &lt;br /> Aldrin Experimental [[Electro-Magnetic Plasma Cannon Forge|EMPC Forge]] M alpha &lt;br /> ==[[Asteroids]]== ==Notes== South gate appears to be inactive. East-west gates lead to [[Terran Unknown Sector 1]] and [[Aldrin]] respectively. {{Aldrin Navbox}}
+==Description==
+This sector was once a quiet area, in which the only feature was the deactivated jumpgate drifting lifelessly in orbit around the planet Armstrong. With the growing Terran interest in the jumpgate, this area of space quickly transformed into a thriving hub where technology and knowledge are traded between the two peoples. 
+
+
+
+==Default [[Stations]]==
+[[USC Orbital Support Station|USC Orbital Supply Base]] <br />
+Aldrin Energy Production Base XL alpha <br />
+Aldrin Mixed Food Production Base M alpha <br />
+Aldrin Experimental [[Electro-Magnetic Plasma Cannon Forge|EMPC Forge]] M alpha <br />
+
+==[[Asteroids]]==
+
+==Notes==
+South gate appears to be inactive. East-west gates lead to [[Terran Unknown Sector 1]] and [[Aldrin]] respectively.
+
+
+{{Aldrin Navbox}}

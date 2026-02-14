@@ -1,3 +1,95 @@
-<!-- source file: index__qadebd84844b5.html -->
+==Overview==
+Shipyards are gigantic spacebourne installations that specialise in the manufacture of spaceships and space stations.
 
-==Overview== Shipyards are gigantic spacebourne installations that specialise in the manufacture of spaceships and space stations. Despite the huge costs involved with running such an installation, each race has several dotted throughout their space, but not always one to each block. Each race also maintains at least one Super Shipyard, which is larger and manufactures a wider range of ships and stations than a standard Shipyard. Shipyards are typically found in the same Sector as an [[Equipment Dock]] which is linked to the Shipyard. Any new vessels bought at a Shipyard may also be equipped straight off with any upgrades and wares currently stocked in the linked Equipment Dock. For a list of all stations produced for a particular race, see the race Shipyard pages for [[Federal Argon Shipyard]], [[Royal Boron Shipyard]], [[Paranid Shipyard]], [[Split Shipyard]], [[Teladi Shipyard]] and [[Terran Shipyard]]. Some races have factions that have their own shipyards like: [[OTAS Shipyard]], [[Yaki Shipyard]] and [[Aldrin Ship Production Base]]. ==Ship Repair== In addition to construction, shipyards make repairs to damaged ships, restoring hull rating up to full potential. ==Super Shipyards== {| |- valign="top" | ===Argon=== *{{sa|Cloudbase Southeast}} *{{sa|Legend's Home}} | ===Boron=== *{{sa|Queen's Retribution}} | ===Paranid=== *{{sa|Heaven's Assertion}} *{{sa|Third Redemption}} | ===Split=== *{{sa|Patriarch's Conclusion}} *{{sa|Rhonkar's Might}} *{{sa|Rhonkar's Trial}} *{{sa|Zyarth's Dominion}} | ===Teladi=== *{{sa|Ceo's Sprite}} *{{sa|Grand Exchange}} |} ==Standard Shipyards== {| cellspacing="5" |- valign="top" | ===Argon=== *{{sa|Argon Prime}} *{{sa|Argon Sector M148}} *{{sa|Light of Heart}} *{{sa|Omicron Lyrae}} | ===Boron=== *{{sa|Depths of Silence}} *{{sa|Great Reef}} *{{sa|Kingdom End}} *{{sa|Lucky Planets}} *{{sa|Ocean of Fantasy}} | ===Paranid=== *{{sa|Cardinal's Domain}} *{{sa|Duke's Citadel}} *{{sa|Paranid Prime}} *{{sa|Trinity Sanctum}} | style="width:12em;" | ===Split=== *{{sa|Cho's Defeat}} *{{sa|Family Njy}} *{{sa|Family Pride}} *{{sa|Family Rhy}} *{{sa|Family Tkr}} | ===Teladi=== *{{sa|Ianamus Zura}} *{{sa|Ministry of Finance}} *{{sa|PTNI Headquarters}} *{{sa|Seizewell}} |- valign="top" | ===OTAS=== *[[OTAS Shipyard|Legend's Home]] | ===Terran=== *{{sa|Mars}} *{{sa|Saturn}} *{{sa|The Moon}} | ===Yaki=== *[[Yaki Shipyard|Senator's Badlands]] |} ==Equipment Multiplication== It is possible to exploit the game mechanics at shipyards to multiply rare, purchasable items. You still have to pay for each item you get, and only items sold at the shipyard can be multiplied, but the trick is useful for equipping ships with, say, rare Aldrin weapons or hard-to-come-by missiles. Multiple identical ships with identical equipment can be equipped together at shipyards, under the "Equip ''x'' ships at once" option. An item purchased this way is installed on each ship, with purchase cost correctly multiplied by ''x'', but the shipyard's stock decreases by only one. Thus, it is possible to equip, for example, two ships at once with two [[Prototype Starburst Shockwave Cannon]]s, have each ship individually sell one back to the shipyard (so that each ship still has one left, and the shipyard has 2 in stock again), then buy two PSSC at once for both ships again, etc. Unpurchasable items cannot be multiplied, as they simply disappear when sold to a dock.
+Despite the huge costs involved with running such an installation, each race has several dotted throughout their space, but not always one to each block. Each race also maintains at least one Super Shipyard, which is larger and manufactures a wider range of ships and stations than a standard Shipyard.
+
+Shipyards are typically found in the same Sector as an [[Equipment Dock]] which is linked to the Shipyard. Any new vessels bought at a Shipyard may also be equipped straight off with any upgrades and wares currently stocked in the linked Equipment Dock.
+
+For a list of all stations produced for a particular race, see the race Shipyard pages for [[Federal Argon Shipyard]], [[Royal Boron Shipyard]], [[Paranid Shipyard]], [[Split Shipyard]], [[Teladi Shipyard]] and [[Terran Shipyard]].
+
+Some races have factions that have their own shipyards like: [[OTAS Shipyard]], [[Yaki Shipyard]] and [[Aldrin Ship Production Base]].
+
+==Ship Repair==
+In addition to construction, shipyards make repairs to damaged ships, restoring hull rating up to full potential.
+
+==Super Shipyards==
+{|
+|- valign="top"
+|
+===Argon===
+*{{sa|Cloudbase Southeast}}
+*{{sa|Legend's Home}}
+|
+===Boron===
+*{{sa|Queen's Retribution}}
+|
+===Paranid===
+*{{sa|Heaven's Assertion}}
+*{{sa|Third Redemption}}
+|
+===Split===
+*{{sa|Patriarch's Conclusion}}
+*{{sa|Rhonkar's Might}}
+*{{sa|Rhonkar's Trial}}
+*{{sa|Zyarth's Dominion}}
+|
+===Teladi===
+*{{sa|Ceo's Sprite}}
+*{{sa|Grand Exchange}}
+|}
+
+==Standard Shipyards==
+{| cellspacing="5"
+|- valign="top"
+|
+===Argon===
+*{{sa|Argon Prime}}
+*{{sa|Argon Sector M148}}
+*{{sa|Light of Heart}}
+*{{sa|Omicron Lyrae}}
+|
+===Boron===
+*{{sa|Depths of Silence}}
+*{{sa|Great Reef}}
+*{{sa|Kingdom End}}
+*{{sa|Lucky Planets}}
+*{{sa|Ocean of Fantasy}}
+|
+===Paranid===
+*{{sa|Cardinal's Domain}}
+*{{sa|Duke's Citadel}}
+*{{sa|Paranid Prime}}
+*{{sa|Trinity Sanctum}}
+| style="width:12em;" |
+===Split===
+*{{sa|Cho's Defeat}}
+*{{sa|Family Njy}}
+*{{sa|Family Pride}}
+*{{sa|Family Rhy}}
+*{{sa|Family Tkr}}
+|
+===Teladi===
+*{{sa|Ianamus Zura}}
+*{{sa|Ministry of Finance}}
+*{{sa|PTNI Headquarters}}
+*{{sa|Seizewell}}
+|- valign="top"
+|
+===OTAS===
+*[[OTAS Shipyard|Legend's Home]]
+|
+===Terran===
+*{{sa|Mars}}
+*{{sa|Saturn}}
+*{{sa|The Moon}}
+|
+===Yaki===
+*[[Yaki Shipyard|Senator's Badlands]]
+|}
+
+==Equipment Multiplication==
+It is possible to exploit the game mechanics at shipyards to multiply rare, purchasable items. You still have to pay for each item you get, and only items sold at the shipyard can be multiplied, but the trick is useful for equipping ships with, say, rare Aldrin weapons or hard-to-come-by missiles.
+
+Multiple identical ships with identical equipment can be equipped together at shipyards, under the "Equip ''x'' ships at once" option. An item purchased this way is installed on each ship, with purchase cost correctly multiplied by ''x'', but the shipyard's stock decreases by only one. Thus, it is possible to equip, for example, two ships at once with two [[Prototype Starburst Shockwave Cannon]]s, have each ship individually sell one back to the shipyard (so that each ship still has one left, and the shipyard has 2 in stock again), then buy two PSSC at once for both ships again, etc.
+
+Unpurchasable items cannot be multiplied, as they simply disappear when sold to a dock.

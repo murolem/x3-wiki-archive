@@ -1,3 +1,83 @@
-<!-- source file: index__q000e4b58cbce.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=#deca.cefa
+|Faction=Terran
+|Class={{M3class}}
+|Priceblock={{Priceblock|Servant of Terra| 1034066}}
+|Minspeed=53
+|Maxspeed=214.6
+|Minaccel=12
+|Maxaccel=51
+|Minsteer=29.7
+|Maxsteer=68.3
+|Hull=12000
+|Maxshield=25 MJ
+|Shieldslots=2
+|Maxshieldstrength=50
+|Shieldreactor= 780
+|Cargoclass=L
+|Mincargo=74
+|Maxcargo=234
+|Lasercap=3000
+|Laserrecharge=75
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=1|pmaml=1|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+An extremely dangerous [[Terraformer]] [[M3]] fighter, the '''#deca.cefa''' is very cheap, though not so for its weaponry.  It is lightly shielded but quite fast and lethal due to its ability to mount a non-energy-draining [[M6|corvette]]-class weapon, the [[Prototype Matter/Anti-Matter Launcher]].  A full set of these makes the #deca.cefa a very expensive asset to lose, but one of the most dangerous fighters in the game and fully capable of destroying most corvettes. It can only be purchased in [[Aldrin]] and its weapons can be very hard to stockpile without the use of an [[Cloning|exploit]].
 
-{{Infobox open}} {{Infobox variant |Variant=#deca.cefa |Faction=Terran |Class={{M3class}} |Priceblock={{Priceblock|Servant of Terra| 1034066}} |Minspeed=53 |Maxspeed=214.6 |Minaccel=12 |Maxaccel=51 |Minsteer=29.7 |Maxsteer=68.3 |Hull=12000 |Maxshield=25 MJ |Shieldslots=2 |Maxshieldstrength=50 |Shieldreactor= 780 |Cargoclass=L |Mincargo=74 |Maxcargo=234 |Lasercap=3000 |Laserrecharge=75 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=1|pmaml=1|pssc=0 }} {{Gunslot |Slot=Rear |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== An extremely dangerous [[Terraformer]] [[M3]] fighter, the '''#deca.cefa''' is very cheap, though not so for its weaponry. It is lightly shielded but quite fast and lethal due to its ability to mount a non-energy-draining [[M6|corvette]]-class weapon, the [[Prototype Matter/Anti-Matter Launcher]]. A full set of these makes the #deca.cefa a very expensive asset to lose, but one of the most dangerous fighters in the game and fully capable of destroying most corvettes. It can only be purchased in [[Aldrin]] and its weapons can be very hard to stockpile without the use of an [[Cloning|exploit]]. ==Background== Originally terraforming drones deployed from the [[Deca|#deca]] CPU ship, these ships appear to have been modified along with #deca to perform a defensive role. ==Physical Characteristics== The #deca.cefa is a blue-gray, blocky ship with two large cannons, and engines mounted on spindly stalks. == Combat == The #deca.cefa's weapons array is capable of dealing serious injuries to corvette-class ships. However, it is not the most heavily shielded fighter and the corvette poses almost as much risk to the #deca.cefa. It should be used to perform a surgical strike against a medium-sized target, with plenty of distractions keeping the #deca.cefa clear of the enemy's target locks. == Equipment == The #deca.cefa can mount up to eight of either [[EEMPC]]s or PMAMLs in its fixed mounts. Its turret can carry a pair of [[EMPC]]s. Finally, it can use [[Poltergeist Missile|Poltergeist missiles]]. == Availability == The #deca.cefa is available at either of the two [[Aldrin Ship Production Base]]s in Aldrin orbit. == Suggested Roles== The #deca.cefa is an unexceptional M3 unless used in a certain role: due to its PMAML compatibility it can be used in a small wing to effectively destroy [[:Category:Capital Ships|capital ships]] and corvettes. == See Also== *[[Spitfyre|Aldrin Spitfyre]] {{M3}} {{Aldrin Navbox}}
+==Background==
+Originally terraforming drones deployed from the [[Deca|#deca]] CPU ship, these ships appear to have been modified along with #deca to perform a defensive role.
+
+==Physical Characteristics==
+The #deca.cefa is a blue-gray, blocky ship with two large cannons, and engines mounted on spindly stalks.
+
+== Combat ==
+The #deca.cefa's weapons array is capable of dealing serious injuries to corvette-class ships.  However, it is not the most heavily shielded fighter and the corvette poses almost as much risk to the #deca.cefa.  It should be used to perform a surgical strike against a medium-sized target, with plenty of distractions keeping the #deca.cefa clear of the enemy's target locks.
+
+== Equipment ==
+The #deca.cefa can mount up to eight of either [[EEMPC]]s or PMAMLs in its fixed mounts.  Its turret can carry a pair of [[EMPC]]s.  Finally, it can use [[Poltergeist Missile|Poltergeist missiles]].
+
+== Availability ==
+The #deca.cefa is available at either of the two [[Aldrin Ship Production Base]]s in Aldrin orbit.
+
+== Suggested Roles==
+The #deca.cefa is an unexceptional M3 unless used in a certain role: due to its PMAML compatibility it can be used in a small wing to effectively destroy [[:Category:Capital Ships|capital ships]] and corvettes.
+
+== See Also==
+*[[Spitfyre|Aldrin Spitfyre]]
+{{M3}}
+
+{{Aldrin Navbox}}

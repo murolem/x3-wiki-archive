@@ -1,3 +1,35 @@
-<!-- source file: index__q28de9d7900d4.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Vita Kai
+|cargoclass=S
+|volume=4
+|minprice=42
+|aveprice=104
+|maxprice=166
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+Vita Kai is a block of concentrated vitamins, providing all the daily requirements for humans. Vita Kai is an essential part of the USC's military ration production.
+==Commentary==
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*Race Factory where this ware is sold
+|
+*List of Race Factories where this ware is a primary resource
+|
+*[[USC Food Supply Factory]]
+|
+*[[Earth Torus]]
+*[[USC Orbital Logistics Dock]]
+*[[USC Orbital Supply Base]]
+*[[USC Orbital Support Station]]
+|}
 
-{{Infobox open}} {{Infobox ware |ware= Vita Kai |cargoclass=S |volume=4 |minprice=42 |aveprice=104 |maxprice=166 }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== Vita Kai is a block of concentrated vitamins, providing all the daily requirements for humans. Vita Kai is an essential part of the USC's military ration production. ==Commentary== ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *Race Factory where this ware is sold | *List of Race Factories where this ware is a primary resource | *[[USC Food Supply Factory]] | *[[Earth Torus]] *[[USC Orbital Logistics Dock]] *[[USC Orbital Supply Base]] *[[USC Orbital Support Station]] |} {{Warecategory}} {{Waretable}} {{Terran Navbox}}
+{{Warecategory}}
+{{Waretable}}
+
+{{Terran Navbox}}

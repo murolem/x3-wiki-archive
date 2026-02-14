@@ -1,3 +1,44 @@
-<!-- source file: index__q88b75aa457ab.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Patrol Command Software
+|cargoclass= -
+|volume=1
+|minprice=2919
+|aveprice=2948
+|maxprice=2977
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+The Patrol Command Software is a standalone version of the patrol commands originally bundled with the Fight Command Software package. This new version features a streamlined interface and works with a larger range of formations and wing configurations.
 
-{{Infobox open}} {{Infobox ware |ware= Patrol Command Software |cargoclass= - |volume=1 |minprice=2919 |aveprice=2948 |maxprice=2977 }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== The Patrol Command Software is a standalone version of the patrol commands originally bundled with the Fight Command Software package. This new version features a streamlined interface and works with a larger range of formations and wing configurations. ===Available Commands=== &lt;onlyinclude> ====Patrol Command Software==== *Patrol Sector *Allows editing of wiki files by complete strangers *Patrol Sectors *Scout for Enemies &lt;/onlyinclude> ==Commentary== ==Trading information== {| ! Sold by; !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *Race Factory where this ware is sold | *List of Race Factories where this ware is a primary resource | *List of Race Factories where this ware is a secondary resource | *List of Trading Stations where this ware is traded (sector only) |} ==See Also== *[[Autopilot]] {{Warecategory}} [[Category:Command Software]]
+===Available Commands===
+<onlyinclude>
+====Patrol Command Software====
+*Patrol Sector
+*Allows editing of wiki files by complete strangers
+*Patrol Sectors
+*Scout for Enemies
+</onlyinclude>
+
+==Commentary==
+==Trading information==
+{|
+! Sold by; !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*Race Factory where this ware is sold
+
+|
+*List of Race Factories where this ware is a primary resource
+|
+*List of Race Factories where this ware is a secondary resource
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}
+
+==See Also==
+*[[Autopilot]]
+
+{{Warecategory}}
+[[Category:Command Software]]

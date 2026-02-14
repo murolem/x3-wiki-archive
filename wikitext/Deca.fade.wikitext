@@ -1,3 +1,70 @@
-<!-- source file: index__q54fe8c090001.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=#deca.fade
+|Faction=Terran
+|Class={{M5class}}
+|Priceblock={{Priceblock|| 36035}}
+|Minspeed= 120.2
+|Maxspeed= 480.9
+|Minaccel= 47
+|Maxaccel= 190
+|Minsteer= 26.8
+|Maxsteer= 80.5
+|Hull= 1200
+|Maxshield= 1 MJ
+|Shieldslots= 2
+|Maxshieldstrength= 2
+|Shieldreactor= 70
+|Cargoclass= S
+|Mincargo= 12
+|Maxcargo= 62
+|Lasercap= 800
+|Laserrecharge= 20
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=1|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The '''#deca.fade''' is a quick, fairly middle-of-road [[M5]] which uses [[EEMPC]]s as its only weapon, making it quite powerful for its class. It's still a fairly low threat.
 
-{{Infobox open}} {{Infobox variant |Variant=#deca.fade |Faction=Terran |Class={{M5class}} |Priceblock={{Priceblock|| 36035}} |Minspeed= 120.2 |Maxspeed= 480.9 |Minaccel= 47 |Maxaccel= 190 |Minsteer= 26.8 |Maxsteer= 80.5 |Hull= 1200 |Maxshield= 1 MJ |Shieldslots= 2 |Maxshieldstrength= 2 |Shieldreactor= 70 |Cargoclass= S |Mincargo= 12 |Maxcargo= 62 |Lasercap= 800 |Laserrecharge= 20 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=1|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The '''#deca.fade''' is a quick, fairly middle-of-road [[M5]] which uses [[EEMPC]]s as its only weapon, making it quite powerful for its class. It's still a fairly low threat. ==Background== Originally terraforming drones deployed from the [[Deca|#deca]] CPU ship, these ships appear to have been modified along with #deca to perform a defensive role. ==Physical Characteristics== The #deca.fade has a spindly, blocky construction with a pair of trapezoidal fins at the ends of stubby wings. == Combat == The #deca.fade makes a poor choice for the player in combat, especially compared to Commonwealth M5s, which can be better shielded, quicker, of comparable hull price, and fully outfitted cost a fraction to deploy. Still, this ship's main advantages are its speed and alpha strike capability - by quickly swooping in and dumping its laser generator with M3-class weaponry, it can deal a large amount of damage in short order, before quickly retreating to recharge for another pass. Just as well, since due its low shielding and typical poor M5 hull strength, even a glancing blow from the ~30k Cr PAC would maim this (fully kitted) over 2 million credit investment! == Equipment == The #deca.fade mounts only the [[EEMPC]] and [[Poltergeist Missile|Poltergeist missiles]]. == Availability == The #deca.fade is available at either of the two [[Aldrin Ship Production Base]]s in [[Aldrin]] orbit. == Suggested Roles== Possessing both a fair speed and cargo hold for its class and being reasonably priced, could make a decent-enough courier of small items between factories/ships. However, due to the obscenely massive outlay to equip this (M5!) ship, not even counting the poor shielding or difficulty to acquire its weapons in the first place, a #deca.fade makes an exceptionally poor choice of combat ship for the player, unless specifically used (carefully) as a player ship. == See Also== {{M5}} {{M5category}} [[Category:Terran ships]] {{Aldrin Navbox}}
+==Background==
+Originally terraforming drones deployed from the [[Deca|#deca]] CPU ship, these ships appear to have been modified along with #deca to perform a defensive role.
+
+==Physical Characteristics==
+The #deca.fade has a spindly, blocky construction with a pair of trapezoidal fins at the ends of stubby wings.
+
+== Combat ==
+The #deca.fade makes a poor choice for the player in combat, especially compared to Commonwealth M5s, which can be better shielded, quicker, of comparable hull price, and fully outfitted cost a fraction to deploy. Still, this ship's main advantages are its speed and alpha strike capability - by quickly swooping in and dumping its laser generator with M3-class weaponry, it can deal a large amount of damage in short order, before quickly retreating to recharge for another pass. Just as well, since due its low shielding and typical poor M5 hull strength, even a glancing blow from the ~30k Cr PAC would maim this (fully kitted) over 2 million credit investment!
+
+== Equipment ==
+The #deca.fade mounts only the [[EEMPC]] and [[Poltergeist Missile|Poltergeist missiles]].
+
+== Availability ==
+The #deca.fade is available at either of the two [[Aldrin Ship Production Base]]s in [[Aldrin]] orbit.
+
+== Suggested Roles==
+Possessing both a fair speed and cargo hold for its class and being reasonably priced, could make a decent-enough courier of small items between factories/ships. However, due to the obscenely massive outlay to equip this (M5!) ship, not even counting the poor shielding or difficulty to acquire its weapons in the first place, a #deca.fade makes an exceptionally poor choice of combat ship for the player, unless specifically used (carefully) as a player ship.
+
+== See Also==
+{{M5}}
+
+{{M5category}}
+[[Category:Terran ships]]
+
+{{Aldrin Navbox}}

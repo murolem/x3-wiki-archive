@@ -1,3 +1,44 @@
-<!-- source file: index__qa84ada6960ec.html -->
+{{Infobox Sector
+|Race=Paranid
+|SecLevel=Core
+|Population=24,561,112
+|Planets=1
+|SunLevel=150
+|GateDist=40
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|0|	0|	22176|[[Paranid Prime]]}}
+{{Gateblock2|East|22176|	0|	0|[[Duke's Domain]]}}
+{{Gateblock2|South|0|	0|	-22173|[[Preacher's Void]]}}
+{{Gateblock2|West|-43940|	-14500|	-9000|[[Savage Spur]]}}
+</table>
+}}
+==Description==
+Empire's Edge was once the corner of the known Universe, but today it is a crossroads in the middle of Paranid space and the border of [[Yaki]] space to the west. It is a favorite location for players wishing to train [[Traders|Local Traders]] using [[Trade Command Software|Trade Command Software Mk. 3]], as the sector has many factories capable of selling directly to one another.
 
-{{Infobox Sector |Race=Paranid |SecLevel=Core |Population=24,561,112 |Planets=1 |SunLevel=150 |GateDist=40 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|0| 0| 22176|[[Paranid Prime]]}} {{Gateblock2|East|22176| 0| 0|[[Duke's Domain]]}} {{Gateblock2|South|0| 0| -22173|[[Preacher's Void]]}} {{Gateblock2|West|-43940| -14500| -9000|[[Savage Spur]]}} &lt;/table> }} ==Description== Empire's Edge was once the corner of the known Universe, but today it is a crossroads in the middle of Paranid space and the border of [[Yaki]] space to the west. It is a favorite location for players wishing to train [[Traders|Local Traders]] using [[Trade Command Software|Trade Command Software Mk. 3]], as the sector has many factories capable of selling directly to one another. ===Encyclopedia Entry=== Perhaps the stunning gas nebulae that dominate the view in this system and the general atmosphere of peace and tranquility are what inspire the gorgeous jewelery crafted by the [[Paranid]] here. The tiny masterpieces they craft from [[Majaglit]] can take years to complete and are collected avariciously by art enthusiasts from around the systems. ==Default [[Stations]]== *[[Military Outpost]] *[[Paranid Trading Dock]] *[[Solar Power Plant]] M alpha *[[Solar Power Plant]] L beta *[[Soyery]] M alpha *[[Soyery]] M beta *[[Soyery]] L gamma *[[Soyfarm]] M alpha *[[Soyfarm]] L beta *[[Space Jewellery]] M alpha *[[Heavy Weapons Complex]] alpha ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|14|4072|595|2790}} {{Asteroid/Item|Ore|14|-36552|-14904|-2709}} {{Asteroid/Item|Ore|12|596|2725|5920}} {{Asteroid/End}} == See Also == {{Paranid Navbox}}
+===Encyclopedia Entry===
+Perhaps the stunning gas nebulae that dominate the view in this system and the general atmosphere of peace and tranquility are what inspire the gorgeous jewelery crafted by the [[Paranid]] here. The tiny masterpieces they craft from [[Majaglit]] can take years to complete and are collected avariciously by art enthusiasts from around the systems.
+
+==Default [[Stations]]==
+*[[Military Outpost]]
+*[[Paranid Trading Dock]]
+*[[Solar Power Plant]] M alpha
+*[[Solar Power Plant]] L beta
+*[[Soyery]] M alpha
+*[[Soyery]] M beta
+*[[Soyery]] L gamma
+*[[Soyfarm]] M alpha
+*[[Soyfarm]] L beta
+*[[Space Jewellery]] M alpha
+*[[Heavy Weapons Complex]] alpha
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|14|4072|595|2790}}
+{{Asteroid/Item|Ore|14|-36552|-14904|-2709}}
+{{Asteroid/Item|Ore|12|596|2725|5920}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Paranid Navbox}}

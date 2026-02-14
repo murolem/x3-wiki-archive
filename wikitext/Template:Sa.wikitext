@@ -1,3 +1,11 @@
-<!-- source file: index__qd2f1e206f6b9.html -->
+[[{{{1}}} Shipyard|{{{1}}}]]<noinclude>
 
-[[{{{1}}} Shipyard|{{{1}}}]]&lt;noinclude> This is the Shipyard Availability (sa) template, designed to make it easier to link to the Shipyards that a ship or station is available from. Usage is as follows; &lt;pre> {{sa|Shipyard Sector}} &lt;/pre> Shipyards are named according to the Sector they are in. See the [[Shipyard]] page for a list of all the Shipyard names.&lt;/noinclude>
+This is the Shipyard Availability (sa) template, designed to make it easier to link to the Shipyards that a ship or station is available from.
+
+Usage is as follows;
+
+<pre>
+{{sa|Shipyard Sector}}
+</pre>
+
+Shipyards are named according to the Sector they are in. See the [[Shipyard]] page for a list of all the Shipyard names.</noinclude>

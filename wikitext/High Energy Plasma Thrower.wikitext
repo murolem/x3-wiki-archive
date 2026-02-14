@@ -1,3 +1,123 @@
-<!-- source file: index__qe5993938332d.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=High Energy Plasma Thrower
+|hulldam= 1500
+|shielddam= 9400
+|range= 2.31 
+|rof= 283 
+|shotspeed= 431
+|maxweapenergy= 1800 
+|shotcost= 188
+}}
+{{Infobox ware
+|ware=High Energy Plasma Thrower
+|cargoclass=S
+|volume= 6
+|minprice= 121811
+|aveprice= 140236
+|maxprice= 155661
+}}
+{{Infobox close}}
+==Overview==
+The High Energy Plasma Thrower, or HEPT, is usually considered a heavy fighter or medium corvette weapon.
 
-{{Infobox open}} {{Infobox weapon |weapon=High Energy Plasma Thrower |hulldam= 1500 |shielddam= 9400 |range= 2.31 |rof= 283 |shotspeed= 431 |maxweapenergy= 1800 |shotcost= 188 }} {{Infobox ware |ware=High Energy Plasma Thrower |cargoclass=S |volume= 6 |minprice= 121811 |aveprice= 140236 |maxprice= 155661 }} {{Infobox close}} ==Overview== The High Energy Plasma Thrower, or HEPT, is usually considered a heavy fighter or medium corvette weapon. ==Encyclopedia Entry== A weapon found in many medium to larger fighter craft. The radiation is so dangerous that the weapon had to go through many years of research and development until it could be placed on the market. This was worked around by adding a radiation sink into the weapon's main design. Purging the weapon of all excess radiation between shots. ==Commentary== The HEPT is one of the oldest weapons around in the [[Commonwealth]] and once upon a time was the staple of capital ships. Nowadays however, it has been surpassed by newer weapons in many areas, for example as a light weapon by the [[Phased Repeater Gun]] which has very similar characteristics except for far greater accuracy than the HEPT. As a legacy weapon, it is now a weapon equipped primarily by [[M6]] and smaller ships needing to deal with heavy fighters, corvettes and frigates. However, it is effective against just about everything, although it is a struggle to hit faster M5s with it and it requires numbers to bring down anything larger than a frigate. It is the staple weapon of many M3 class ships and can frequently be found in both main guns and turrets of corvettes, being significantly more energy efficient than the corvette-level [[CIG]], [[ISR]] or [[IPG]]. Because of its legacy, it is in widespread use and can be found almost anywhere. ==Known Compatible Ships== {| cellpadding="5" |- valign="top" | *[[Agamemnon]] *[[Akuma]] *[[Aquilo]] *[[Asp]] *[[Auster Hauler]] *[[Barracuda]] *[[Blastclaw]] *[[Boreas]] *[[Brigantine]] *[[Carrack]] *[[Centaur]] *[[Cerberus]] | *[[Chimera]] *[[Colossus]] *[[Condor]] *[[Deimos]] *[[Dragon]] *[[Eclipse]] *[[Elephant]] *[[Falcon]] *[[Galleon]] *[[Gannet]] *[[Gladiator]] *[[Griffon]] | *[[Hades]] *[[Heavy Centaur]] *[[Heavy Dragon]] *[[Heavy Hydra]] *[[Heavy Nemesis]] *[[Heavy Osprey]] *[[Hoshi]] *[[Hydra]] *[[Hyperion]] *[[Kea]] *[[Mamba]] *[[Mammoth]] | *[[Medusa]] *[[Mobile Pirate Base Hauler]] *[[Nemesis]] *[[Notus Hauler]] *[[Nova]] *[[Odysseus]] *[[Orbital Weapon Platform L]] *[[Orbital Weapon Platform M]] *[[Orbital Weapon Platform S]] *[[Orca]] *[[Osprey]] *[[Panther]] | *[[Peregrine]] *[[Perseus]] *[[Phoenix]] *[[Python]] *[[Raptor]] *[[Ray]] *[[Ryu]] *[[Scorpion]] *[[Shark]] *[[Shrike]] *[[Shuri]] *[[Sirokos]] | *[[Skate]] *[[Skiron]] *[[Susanowa]] *[[Tenjin]] *[[Thresher]] *[[Tiger]] *[[Titan (ship)]] *[[Truelight Seeker]] *[[Venti]] *[[Viper]] *[[X-perimental Shuttle]] *[[Xenon J]] | *[[Xenon K]] *[[Xenon L]] *[[Xenon LX]] *[[Xenon P]] *[[Xenon PX]] *[[Xenon Q]] *[[Zephyrus]] *[[Zeus]] |} ==Available at Known Docks==
+==Encyclopedia Entry==
+A weapon found in many medium to larger fighter craft. The radiation is so dangerous that the weapon had to go through many years of research and development until it could be placed on the market. This was worked around by adding a radiation sink into the weapon's main design. Purging the weapon of all excess radiation between shots.
+==Commentary==
+The HEPT is one of the oldest weapons around in the [[Commonwealth]] and once upon a time was the staple of capital ships. Nowadays however, it has been surpassed by newer weapons in many areas, for example as a light weapon by the [[Phased Repeater Gun]] which has very similar characteristics except for far greater accuracy than the HEPT. As a legacy weapon, it is now a weapon equipped primarily by [[M6]] and smaller ships needing to deal with heavy fighters, corvettes and frigates. However, it is effective against just about everything, although it is a struggle to hit faster M5s with it and it requires numbers to bring down anything larger than a frigate. It is the staple weapon of many M3 class ships and can frequently be found in both main guns and turrets of corvettes, being significantly more energy efficient than the corvette-level [[CIG]], [[ISR]] or [[IPG]].
+
+Because of its legacy, it is in widespread use and can be found almost anywhere.
+
+==Known Compatible Ships==
+{| cellpadding="5"
+|- valign="top"
+|
+*[[Agamemnon]]
+*[[Akuma]]
+*[[Aquilo]]
+*[[Asp]]
+*[[Auster Hauler]]
+*[[Barracuda]]
+*[[Blastclaw]]
+*[[Boreas]]
+*[[Brigantine]]
+*[[Carrack]]
+*[[Centaur]]
+*[[Cerberus]]
+|
+*[[Chimera]]
+*[[Colossus]]
+*[[Condor]]
+*[[Deimos]]
+*[[Dragon]]
+*[[Eclipse]]
+*[[Elephant]]
+*[[Falcon]]
+*[[Galleon]]
+*[[Gannet]]
+*[[Gladiator]]
+*[[Griffon]]
+|
+*[[Hades]]
+*[[Heavy Centaur]]
+*[[Heavy Dragon]]
+*[[Heavy Hydra]]
+*[[Heavy Nemesis]]
+*[[Heavy Osprey]]
+*[[Hoshi]]
+*[[Hydra]]
+*[[Hyperion]]
+*[[Kea]]
+*[[Mamba]]
+*[[Mammoth]]
+|
+*[[Medusa]]
+*[[Mobile Pirate Base Hauler]]
+*[[Nemesis]]
+*[[Notus Hauler]]
+*[[Nova]]
+*[[Odysseus]]
+*[[Orbital Weapon Platform L]]
+*[[Orbital Weapon Platform M]]
+*[[Orbital Weapon Platform S]]
+*[[Orca]]
+*[[Osprey]]
+*[[Panther]]
+|
+*[[Peregrine]]
+*[[Perseus]]
+*[[Phoenix]]
+*[[Python]]
+*[[Raptor]]
+*[[Ray]]
+*[[Ryu]]
+*[[Scorpion]]
+*[[Shark]]
+*[[Shrike]]
+*[[Shuri]]
+*[[Sirokos]]
+|
+*[[Skate]]
+*[[Skiron]]
+*[[Susanowa]]
+*[[Tenjin]]
+*[[Thresher]]
+*[[Tiger]]
+*[[Titan (ship)]]
+*[[Truelight Seeker]]
+*[[Venti]]
+*[[Viper]]
+*[[X-perimental Shuttle]]
+*[[Xenon J]]
+|
+*[[Xenon K]]
+*[[Xenon L]]
+*[[Xenon LX]]
+*[[Xenon P]]
+*[[Xenon PX]]
+*[[Xenon Q]]
+*[[Zephyrus]]
+*[[Zeus]]
+|}
+
+==Available at Known Docks==

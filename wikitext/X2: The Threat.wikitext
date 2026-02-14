@@ -1,3 +1,25 @@
-<!-- source file: index__q0312c565ef9b.html -->
+==Overview==
+X2 is a 2003 game that in terms of gameplay is an expanded version of X-Tension. However, the graphics are much improved over the original pair of games. X2 is often cited as the most immersing of the X series. It detailed the beginning of the Kha'ak war and the rise of Julian Gardna Brennan.
 
-==Overview== X2 is a 2003 game that in terms of gameplay is an expanded version of X-Tension. However, the graphics are much improved over the original pair of games. X2 is often cited as the most immersing of the X series. It detailed the beginning of the Kha'ak war and the rise of Julian Gardna Brennan. It was succeeded by [[X3: Reunion]]. ==Gameplay== Much the same as X-Tension, but with some more additions, X2 began to really expand the scope of what could be done with X games, particularly when it came to economics. It was particularly ribbed by critics for its steep learning curve, which due to the expansion of the game's abilities was starting to become quite severe, and some sniped its open-ended gameplay, complaining that there was no end to be satisfied with. This is, of course, the point of a 'sandbox' game, however. There was an extensive BBS mission board available when docked at stations, which allowed players another method of earning money and ranks. One of the biggest revolutions was the addition of the jumpdrive, which allowed instantaneous travel to any Gate on the network, for a fee of Energy Cells. ===Map=== Another map expansion came in X2, which brought the number of Sectors up to 132 with five additional Kha'ak sectors available. [http://www.elite-games.ru/x2/map.shtml Example Russian version of X2 map] (divided into three segments). ===Ships=== The game introduced the [[M6|M6 Corvette]] and [[TP|TP personnel transport]] classes. The M6 was designed to fill a gap that had appeared between the fighters and Capital ships and became an instant hit. The TP was necessary for some of the new missions. Some ships were replaced by newer models, such as the Elite being replaced by the Nova, and all ships were remodeled. ===Economy=== Again, there was no major change to the economics of X2, although the prices of wares were changed and integerised so that decimal Credits were eliminated. ===Weapons=== The game added a number of new weapons, perhaps most notably the [[Photon Pulse Cannon]] series. The [[Mass Driver]], [[Ion Disruptor]] and three models of the [[Phased Shockwave Generator]] all appeared as race-specific weapons. The Mass Driver was unique in that it required ammunition.
+It was succeeded by [[X3: Reunion]].
+
+==Gameplay==
+Much the same as X-Tension, but with some more additions, X2 began to really expand the scope of what could be done with X games, particularly when it came to economics. It was particularly ribbed by critics for its steep learning curve, which due to the expansion of the game's abilities was starting to become quite severe, and some sniped its open-ended gameplay, complaining that there was no end to be satisfied with. This is, of course, the point of a 'sandbox' game, however.
+
+There was an extensive BBS mission board available when docked at stations, which allowed players another method of earning money and ranks.
+
+One of the biggest revolutions was the addition of the jumpdrive, which allowed instantaneous travel to any Gate on the network, for a fee of Energy Cells.
+
+===Map===
+Another map expansion came in X2, which brought the number of Sectors up to 132 with five additional Kha'ak sectors available. [http://www.elite-games.ru/x2/map.shtml Example Russian version of X2 map] (divided into three segments).
+
+===Ships===
+The game introduced the [[M6|M6 Corvette]] and [[TP|TP personnel transport]] classes. The M6 was designed to fill a gap that had appeared between the fighters and Capital ships and became an instant hit. The TP was necessary for some of the new missions.
+
+Some ships were replaced by newer models, such as the Elite being replaced by the Nova, and all ships were remodeled.
+
+===Economy===
+Again, there was no major change to the economics of X2, although the prices of wares were changed and integerised so that decimal Credits were eliminated.
+
+===Weapons===
+The game added a number of new weapons, perhaps most notably the [[Photon Pulse Cannon]] series. The [[Mass Driver]], [[Ion Disruptor]] and three models of the [[Phased Shockwave Generator]] all appeared as race-specific weapons. The Mass Driver was unique in that it required ammunition.

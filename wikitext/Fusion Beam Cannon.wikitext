@@ -1,3 +1,36 @@
-<!-- source file: index__qa4c01a399321.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Fusion Beam Cannon
+|hulldam=12800
+|shielddam=9000
+|range=6.63
+|rof= 142
+|shotspeed= 2660
+|maxweapenergy= 2000
+|shotcost=278
+}}
+{{Infobox ware
+|ware=Fusion Beam Cannon
+|cargoclass=L
+|volume=30
+|minprice=964122
+|aveprice=973860
+|maxprice=983598
+}}
+{{Infobox close}}
+==Overview==
+The FBC is touted but does not exist in the Vanilla game.
 
-{{Infobox open}} {{Infobox weapon |weapon=Fusion Beam Cannon |hulldam=12800 |shielddam=9000 |range=6.63 |rof= 142 |shotspeed= 2660 |maxweapenergy= 2000 |shotcost=278 }} {{Infobox ware |ware=Fusion Beam Cannon |cargoclass=L |volume=30 |minprice=964122 |aveprice=973860 |maxprice=983598 }} {{Infobox close}} ==Overview== The FBC is touted but does not exist in the Vanilla game. ==Encyclopedia Entry== A deadly weapon found on frigates, destroyers and carriers. The Fusion Beam Cannon is able to take advantage of the enormously powerful generators on Terran capital ships. The beam has been known to super-heat target materials to the point of fusion, releasing all the energy associated with that process to cause wider damage. ==Commentary== The FBC is very strong against other Corvettes, but does not do significant damage to very large ships. The best way to use this weapon is to attack small ships, which will instantly be disintegrated upon contact with the solid beam. ANY [[M3+]]-[[M5]] will be destroyed within this beastly weapon's 6.5KM range. ==Known Compatible Ships== *[[Truelight Seeker]] *[[Mobile Pirate Station]] ==Available at Known Docks== Not available for sale at any dock.
+==Encyclopedia Entry==
+A deadly weapon found on frigates, destroyers and carriers. The Fusion Beam Cannon is able to take advantage of the enormously powerful generators on Terran capital ships. The beam has been known to super-heat target materials to the point of fusion, releasing all the energy associated with that process to cause wider damage.
+
+==Commentary==
+The FBC is very strong against other Corvettes, but does not do significant damage to very large ships. The best way to use this weapon is to attack small ships, which will instantly be disintegrated upon contact with the solid beam. ANY [[M3+]]-[[M5]] will be destroyed within this beastly weapon's 6.5KM range.
+
+==Known Compatible Ships==
+
+*[[Truelight Seeker]]
+*[[Mobile Pirate Station]]
+
+==Available at Known Docks==
+Not available for sale at any dock.

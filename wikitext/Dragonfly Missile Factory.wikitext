@@ -1,3 +1,57 @@
-<!-- source file: index__qa5c64ed7e73b.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Boron
+|station=Dragonfly Missile Factory
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:01:12
+|productnum=[[Dragonfly Missile]] (4)
+|stationprice={{Priceblock|Boron Queen's Guard|1045276}}
+|reqresources=[[Energy Cells]] (18) <br>[[BoFu]] (3) <br>[[Ore]] (3)
+|optresources=None 
+}}
+{{Infobox factory
+|faction=Split
+|station=Dragonfly Missile Factory
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:06:00
+|productnum=[[Dragonfly Missile]] (20)
+|stationprice={{Priceblock|Split Distinguished Associate|954380}}
+|reqresources=[[Energy Cells]] (90) <br>[[Rastar Oil]] (9) <br>[[Ore]] (15) 
+|optresources=None 
+}}
+{{Infobox close}}
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Boron |station=Dragonfly Missile Factory |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:01:12 |productnum=[[Dragonfly Missile]] (4) |stationprice={{Priceblock|Boron Queen's Guard|1045276}} |reqresources=[[Energy Cells]] (18) &lt;br>[[BoFu]] (3) &lt;br>[[Ore]] (3) |optresources=None }} {{Infobox factory |faction=Split |station=Dragonfly Missile Factory |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:06:00 |productnum=[[Dragonfly Missile]] (20) |stationprice={{Priceblock|Split Distinguished Associate|954380}} |reqresources=[[Energy Cells]] (90) &lt;br>[[Rastar Oil]] (9) &lt;br>[[Ore]] (15) |optresources=None }} {{Infobox close}} ==Overview== Dragonfly Missile Factories produce the [[Dragonfly Missile]] from [[Energy Cells]], [[Ore]] and [[Food]]. Despite what the encyclopedia states about it, it is ''not'' an unguided, dumbfire missile. It is actually an image-recognition tracking missile. ===Encyclopedia Entry=== This Space Missile Factory manufactures Dragonfly Class Space-Space missile. This is a medium powerful but fast heavy missile typically used for attacks on medium to large fighters. ==Availability== This factory is exclusive to the Boron and Split {| style="text-align:left;" |- valign="top" | '''[[Boron#Shipyards|Boron]]''' *{{sa|Lucky Planets}} *{{sa|Queen's Retribution}} | '''[[Split#Shipyards|Split]]''' *{{sa|Patriarch's Conclusion}} *{{sa|Rhonkar's Trial}} *{{sa|Zyarth's Dominion}} |} {{Stationcategory}}
+==Overview==
+
+Dragonfly Missile Factories produce the [[Dragonfly Missile]] from [[Energy Cells]], [[Ore]] and [[Food]].
+
+Despite what the encyclopedia states about it, it is ''not'' an unguided, dumbfire missile. It is actually an image-recognition tracking missile.
+
+===Encyclopedia Entry===
+
+This Space Missile Factory manufactures Dragonfly Class Space-Space missile. This is a medium powerful but fast heavy missile typically used for attacks on medium to large fighters. 
+
+==Availability==
+
+This factory is exclusive to the Boron and Split
+
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Boron#Shipyards|Boron]]'''
+*{{sa|Lucky Planets}}
+*{{sa|Queen's Retribution}}
+| '''[[Split#Shipyards|Split]]'''
+*{{sa|Patriarch's Conclusion}}
+*{{sa|Rhonkar's Trial}}
+*{{sa|Zyarth's Dominion}}
+|}
+
+
+{{Stationcategory}}

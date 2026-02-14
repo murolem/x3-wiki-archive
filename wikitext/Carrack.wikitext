@@ -1,3 +1,162 @@
-<!-- source file: index__qa8e9d48ba6a2.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Carrack
+|Faction=Pirate
+|Class={{M7class}}
+|Priceblock=
+|Minspeed=59
+|Maxspeed=106.2
+|Minaccel=6
+|Maxaccel=11
+|Minsteer=2.2
+|Maxsteer=4.0
+|Hull=112500
+|Maxshield=1 GJ
+|Shieldslots=2
+|Maxshieldstrength=2000
+|Shieldreactor= 4400
+|Cargoclass=XL
+|Mincargo=2500
+|Maxcargo=3325
+|Lasercap=63000
+|Laserrecharge=1575
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=1|pac=0|hept=1|
+cig=1|ppc=0|
+md=0|us=1|prg=0|
+cfaa=1|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=1|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=4
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=0|
+cfaa=1|pbc=1|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=4
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=0|
+cfaa=1|pbc=1|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Bottom
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=1|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+A [[Pirate]] frigate with unique qualities making it tricky but rewarding to fly. It is capture only, but a useful addition to any fleet with good versatility. Its greatest asset is the huge weapon compatibility range.
 
-{{Infobox open}} {{Infobox variant |Variant=Carrack |Faction=Pirate |Class={{M7class}} |Priceblock= |Minspeed=59 |Maxspeed=106.2 |Minaccel=6 |Maxaccel=11 |Minsteer=2.2 |Maxsteer=4.0 |Hull=112500 |Maxshield=1 GJ |Shieldslots=2 |Maxshieldstrength=2000 |Shieldreactor= 4400 |Cargoclass=XL |Mincargo=2500 |Maxcargo=3325 |Lasercap=63000 |Laserrecharge=1575 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=1|pac=0|hept=1| cig=1|ppc=0| md=0|us=1|prg=0| cfaa=1|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Rear |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=1|prg=1| cfaa=0|pbc=0|id=0| ipg=1|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Right |Guncount=4 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=1|us=0|prg=0| cfaa=1|pbc=1|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount=4 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=1|us=0|prg=0| cfaa=1|pbc=1|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Bottom |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=1|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== A [[Pirate]] frigate with unique qualities making it tricky but rewarding to fly. It is capture only, but a useful addition to any fleet with good versatility. Its greatest asset is the huge weapon compatibility range. ==Encyclopedia Entry== Recent good relations and cooperation between pirate factions led to the construction of the rare Carrack light frigate. In typical pirate fashion it was built using mainly old or stolen ship parts. ==Background== Developed as the Pirate response to [[Commonwealth]] frigate models, the Carrack was thrown together from whatever shipbuilding materials the Pirates could get their claws on, though with particular emphasis on weapon compatibility and power. Due to its somewhat strange characteristics it requires a non-mainstream tactical style to be effective. ==Physical Characteristics== == Combat == A tricky but fun and rewarding craft to fly, the Carrack's wisest use is in player hands. If given a sizable escort it has some limited use as a patrol ship, but don't expect it to stand up to anything bigger than a [[Xenon Q]]. With a pathetic 2GJ of shielding, the Carrack is at first glance a useless ship. However, it actually possess versatile characteristics. With an unusually powerful broadside and compatibility with weaponry such as the capital-killing [[Incendiary Bomb Launcher]], the fighter-killing [[Flak Artillery Array]] and [[Cluster Flak Array]] and even the niche-use [[Ion Disruptor]] its good turret coverage allows it to concentrate entirely on attack avoidance, which as a direct result of its poor shielding is definitely the most important priority this ship has. Its main defensive asset is its small size. In particular, it has a very narrow forward profile. This, coupled with decent manouverability, means the Carrack can leave even the most heated battle without a scratch when piloted by a crafty captain. Despite this, only confident or suicidal pilots will directly attack a Destroyer alone, since even a glancing PPC shot will hurt, and a few volleys will kill. The Carrack is best in player hands for this reason. If you are fighting against this ship, it is always worth it to check its loadout with a freight scanner: the side turrets' versatile weapon choice can mean fighter or corvette pilots expecting the easy-to-dodge IBL can be smashed in the face by the near-undodgable FAA or CFA, and frigate pilots can be surprised by the opposite, though this is less of a worry. Its wide coverage and maneuverability lends itself to few blind spots, but its weak shielding means the best way to deal with it is to hit it hard and fast. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] *[[Hornet Missile]] *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] | *[[Tempest Missile]] *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] *[[Typhoon Missile]] *[[Firestorm Torpedo]] *[[Aurora Missile]] *[[Remote Guided Warhead]] | *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == The Carrack is not available at shipyards, so must be [[Bigship Boarding|boarded]]. == Suggested Roles== Its most common role is as a boarding assistance craft due to its ability to fire six [[Ion Disruptor]]s continuously in order to strip a foe of dangerous equipment, though this is less common than using an Argon [[Cerberus]], which has eight forward slots versus six, more shielding, and a fighter bay. Other roles are as a patrol craft if escorted, or as a personal 'fun' ship, due to its highly unique flying style. Should not ever, given the circumstances, be used as a strike craft towards capital ships, as its poor shielding can quickly lead to its demise, unless you carry certain powerful missiles such as the Typhoon or Firestorm. == See Also== {{M7}} {{Pirates Navbox}}
+==Encyclopedia Entry==
+Recent good relations and cooperation between pirate factions led to the construction of the rare Carrack light frigate. In typical pirate fashion it was built using mainly old or stolen ship parts.
+
+==Background==
+Developed as the Pirate response to [[Commonwealth]] frigate models, the Carrack was thrown together from whatever shipbuilding materials the Pirates could get their claws on, though with particular emphasis on weapon compatibility and power. Due to its somewhat strange characteristics it requires a non-mainstream tactical style to be effective.
+
+==Physical Characteristics==
+== Combat ==
+A tricky but fun and rewarding craft to fly, the Carrack's wisest use is in player hands. If given a sizable escort it has some limited use as a patrol ship, but don't expect it to stand up to anything bigger than a [[Xenon Q]].
+
+With a pathetic 2GJ of shielding, the Carrack is at first glance a useless ship. However, it actually possess versatile characteristics. With an unusually powerful broadside and compatibility with weaponry such as the capital-killing [[Incendiary Bomb Launcher]], the fighter-killing [[Flak Artillery Array]] and [[Cluster Flak Array]] and even the niche-use [[Ion Disruptor]] its good turret coverage allows it to concentrate entirely on attack avoidance, which as a direct result of its poor shielding is definitely the most important priority this ship has. Its main defensive asset is its small size. In particular, it has a very narrow forward profile. This, coupled with decent manouverability, means the Carrack can leave even the most heated battle without a scratch when piloted by a crafty captain. Despite this, only confident or suicidal pilots will directly attack a Destroyer alone, since even a glancing PPC shot will hurt, and a few volleys will kill. The Carrack is best in player hands for this reason.
+
+If you are fighting against this ship, it is always worth it to check its loadout with a freight scanner: the side turrets' versatile weapon choice can mean fighter or corvette pilots expecting the easy-to-dodge IBL can be smashed in the face by the near-undodgable FAA or CFA, and frigate pilots can be surprised by the opposite, though this is less of a worry. Its wide coverage and maneuverability lends itself to few blind spots, but its weak shielding means the best way to deal with it is to hit it hard and fast.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+*[[Hornet Missile]]
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+|
+*[[Tempest Missile]]
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Typhoon Missile]]
+*[[Firestorm Torpedo]]
+*[[Aurora Missile]]
+*[[Remote Guided Warhead]]
+|
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+
+== Availability ==
+The Carrack is not available at shipyards, so must be [[Bigship Boarding|boarded]].
+
+== Suggested Roles==
+Its most common role is as a boarding assistance craft due to its ability to fire six [[Ion Disruptor]]s continuously in order to strip a foe of dangerous equipment, though this is less common than using an Argon [[Cerberus]], which has eight forward slots versus six, more shielding, and a fighter bay. Other roles are as a patrol craft if escorted, or as a personal 'fun' ship, due to its highly unique flying style. Should not ever, given the circumstances, be used as a strike craft towards capital ships, as its poor shielding can quickly lead to its demise, unless you carry certain powerful missiles such as the Typhoon or Firestorm.
+
+== See Also==
+
+{{M7}}
+
+{{Pirates Navbox}}

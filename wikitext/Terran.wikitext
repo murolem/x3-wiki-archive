@@ -1,3 +1,170 @@
-<!-- source file: index__q5e7508397339.html -->
+{{Infobox Faction
+|Faction=Terran
+|Speciestype= Human
+|Homeworld=[[Earth]]
+|Systems=30
+|Population=
+|Government=
+|Ranks= {{Rank List|Hero of Sol
+|Solar Sentinel
+|Guardian of Earth
+|Planetary Senator
+|Servant of Terra
+|Warrior of Io
+|Marshall of Mars
+|Senatorial Advisor
+|Regional Representative
+|Local Counsellor
+|Citizen
+|Revolutionary
+|Renegade
+|Insurgent
+|Terrorist
+|Enemy of Sol}}
+}}
 
-{{Infobox Faction |Faction=Terran |Speciestype= Human |Homeworld=[[Earth]] |Systems=30 |Population= |Government= |Ranks= {{Rank List|Hero of Sol |Solar Sentinel |Guardian of Earth |Planetary Senator |Servant of Terra |Warrior of Io |Marshall of Mars |Senatorial Advisor |Regional Representative |Local Counsellor |Citizen |Revolutionary |Renegade |Insurgent |Terrorist |Enemy of Sol}} }} =General= The Terrans are the inhabitants of [[Earth]]. They are a technologically advanced race, but their suspicion of other races, including their lost human brethren, the [[Argon]], motivated them to be protective of their territory. To shield Earth from alien races, they moved their only jump gate to a secluded location and a substantial military presence now buffers the void between the Solar System and the Commonwealth. The Terrans built only two [[jumpgate]]s. All other gates were built by a mysterious people only known as "The Ancients". In the year 2066 AD the Terrans started to send terraforming ships into the depths of space. These were later followed by self-replicating machines. After several years the terraforming project was discontinued but their attempts to cancel the terraforming process failed because the terraformers had become sentient. The machines became known as the Xenon. Several years after that, the Xenon attacked Earth and tried to destroy their creators and everything they stood for. This was the Xenon invasion. In a brave tactical maneuver, Nathan R. Gunne led the Xenon fleet through a jump gate to what is now known as [[Brennan's Triumph]]. He then destroyed the gate that led back to Earth. He would never see his home planet again, and the descendents of his forces went on to become the modern-day Argon Federation. Terrans are the humans left behind on Earth after Gunne separated them from the X-Universe. They have, over time, rebuilt their civilization in the Solar System and have advanced technologically. The reconnection of the Solar System to the gate network has reintroduced them to X-Universe. ==Government and politics== {{sectstub}} ===Foreign relations and military=== The Terran space-based military is composed of two known services, the United Space Command (USC) and the [[ATF|AGI Task Force (ATF)]]. These factions are both under the authority of the Earth Government, but despite this, the USC and ATF have completely separate styles of ship design and have chains of command independent of each other. Additionally, the ATF appear to be Earth's primary defense fleet, while the USC has a larger presence in other Terran sectors. However, this does not mean that the USC has no obligation to protect Earth or combat AGI incursions. Likewise, ATF forces have been seen patrolling distant Terran sectors alongside the USC. What is clear is that both of these forces typically do not trust outsiders (i.e. anyone from the Commonwealth), even their Argon cousins. This is evident by the large numbers of military patrols and defense stations in all Terran sectors. As a result, it is rare to see a vessel from another race, or non-Terran faction, flying in Terran space. This lack of trust and past experiences with the Xenon have resulted in strict policies regarding Earth orbit access. The Terran home world is fiercely defended by both USC and ATF forces; who destroy literally any ship (even those of friends) who violate their access level. Even in Earth orbit, any ship seeking to fly beyond or around the Earth Torus will be fired upon by the station's defense network, even if friendly. ==History== The Terran Empire expanded to huge size in the early-mid third millennium. With the invention of jumpgates they began to explore, first building one in orbit around Earth and sending another to Alpha Centauri in order to link the two. Before the second reached its destination they found the first was already linking, and it's believed the sector [[Brennan's Triumph]] is in fact Alpha Centauri and possessed several gates of its own already. Upon connecting to the ancient gate network they began to expand, until eventually the [[Xenon]] arrived. Sonra, a star, was situated in one of the systems they claimed, and was later to become the home of the [[Argon]], and one of the planets be called [[Argon Prime]]. [[Aldrin]] was another system to be rediscovered later. The Terrans had been using [[terraformer]] machines in order to make planets habitable, and when no longer needed these were often abandoned and left to float through space. Unfortunately, after several software problems, and buggy updates ignoring many out of range, the real problem was realised. Many of the self intelligent, self replicating machines were now stuck in an endless loop of command. They were programmed to terraform every planet they got their metaphorical hands on, and they wouldn't be fixed. They replicated and descended upon the Terrans in their millions, all down to a few bugs. The empire collapsed, the solar system was under heavy attack. [[Mars]] became a victim of the crazed AI, which had now ceased most terraforming and were simply killing all life on the planets they found. Then they reached [[Earth]]. The attack was long and bloody. Eventually, Nathan R. Gunne led the entire fleet through the [[Earth]] jumpgate and blew it up. The crew of his ship would never see Earth again... they would rebuild their race as the [[Argon]], in [[Argon Prime]], eventually to disown their past, with only a few known as the [[Goner]]s to remain insistant that their race were descendants of the blue-green planet [[Earth]]. After Gunne and the rest of the crew had left and destroyed the gate, the Terrans were safe. Their solar system had been badly damaged, their links with the jump network severed. Their population was decimated and much of their technology lost, but with the help of the trans-orbital accelerators between planets they could rebuild their infrastructure. The Solar System remained the home of the Terrans until the end of the millennium, with any creating of jumpgates or Artificial General Intelligence ([[AGI]]) strictly forbidden. Until the events of ''[[X3: Reunion]]'' the Terrans had no contact with anyone else. Upon reunion, they have discovered many things. Most interestingly the [[Argon]] have survived and created an entire race in only a few centuries from the crew of one ship. Most surprisingly the entire gate network has shuffled, leaving very few original Terran empire sectors left in the galaxy and linking four other sentient races, the [[Split]], [[Teladi]], [[Boron]] and [[Paranid]]. And most worryingly, after all this time the Xenon are still a rampant threat throughout what is now the X-Universe. The Terrans remain the most technologically advanced race in the gate network, even after losing several hundred years of progress in the Terraformer War. ==Culture== After a long period of isolation, the Terrans have become highly xenophobic, even shunning their long-lost "brothers" the Argon. Much of their space technology is offensively advanced due to fear of the Terraformers, or [[Xenon]]. Indeed, their paranoia is epitomised by the ATF, or A(rtificial)G(eneral)I(Intelligence) Task Force, essentially founded in case the [[Xenon]] ever decided to find Earth again. Much of the main plot is caused by their xenophobia and tense negotiations with the Argon. ==Geography and Climate== {{sectstub}} ==Science and Technology== Terran and Commonwealth vessels are incapable of mounting each others' weapons technology. It is unknown why this is the case, especially since Commonwealth shields and other equipment can be easily fitted to Terran vessels and vice versa. In terms of military capabilities, Terran ships are some of the deadliest. They usually have very good shields, high speeds, high shield and laser energy recharge rates as well as reasonably high laser capacities. Because Terran craft typically only mount Terran weapons, they lack wide equipment options, though Terran weapons tend to be very powerful and efficient, they are expensive and hard to obtain. The ATF typically has ships that are very similar to regular Terran craft in role, though with even better shielding and firepower potential. ===Ships=== Terran ships tend towards a compact and streamlined design with occasional asymmetries. Almost all basic Terran ships and stations share a matte-white main color with a red or black trim. Terran ships tend to be quick and well shielded, complimented by powerful shield reactors and weapon capacitors. Mainly by virtue of their [[Electro-Magnetic Plasma Cannon|expensive]] and rare weapons, Terran ships are seen as expensive and somewhat unwieldy to field, though they are often at the top of their class. Some Terran craft even manage to rival the leaders of higher ship classes. The [[ATF]] variants are both rarer and more expensive, but they're also tougher, faster, and stronger. *[[Tokyo]] ({{M1class}}) *[[Osaka]] ({{M2class}}) *[[Kyoto]] ({{M2+class}}) *[[Cutlass]] ({{M3+class}}) *[[Scimitar]] ({{M3class}}) *[[Sabre]] ({{M4class}}) *[[Rapier]] ({{M5class}}) *[[Katana]] ({{M6class}}) *[[Yokohama]] ({{M7class}}) *[[Maccana]] ({{M7Cclass}}) *[[Claymore]] ({{M8class}}) *[[Baldric]] ({{TSclass}}) *[[Hayabusa]] ({{TS+class}}) *[[Scabbard]] ({{TPclass}}) *[[Mobile Mining Base Ship]] ({{TLclass}}) *[[Atmospheric Lifter]] ({{TLclass}}) *[[Toukon]] ({{TMclass}}) ===Stations=== {{sectstub}} ====Shipyards==== [[Terran Shipyard]]s are known to exist in the following sectors: *[[Terran Unknown Sector 1|Megnir]] *[[The Moon]] *[[Mars]] *[[Saturn]] The rediscovered [[Aldrin|Aldrin Colony]] has their own shipbuilding factories known as [[Aldrin Ship Production Base]]s. ==Territories== {| cellpadding="20" |- valign="top" | ===Core Worlds=== #[[Earth]] #[[Asteroid Belt]] #[[Jupiter]] #[[Jupiter 2]] #[[Jupiter 3]] #[[Mars]] #[[Venus]] #[[The Moon]] #[[Mercury (sector)]] #[[Saturn]] #[[Saturn 2]] #[[Saturn 3]] #[[Titan (sector)]] #[[Uranus]] #[[Uranus 2]] #[[Uranus 3]] #[[Neptune]] #[[Pluto]] #[[Kuiper Belt]] #[[Oort Cloud]] | ===Border Worlds=== #[[Heretic's End]] #[[Unknown Sector (Beyond Oort Cloud 1st)]] #[[Unknown Sector (Beyond Oort Cloud 2nd)]] #[[Unknown Sector (Beyond Oort Cloud 3rd)]] #[[Unknown Sector (Beyond Oort Cloud 4th)]] #[[Aldrin]] #[[Aldrin 2]] #[[Terran Unknown Sector 1|Megnir]] #[[Terran Unknown Sector 2|Althes]] #[[Terran Unknown Sector 3|Segaris]] |} =Food= [[MRE]] [[C-Ration]] ===Factories=== ---- [[List_of_Terran_Factories:XTC | List of Terran Factories]] [[Category:Factions]] {{Races}} {{Terran Navbox}}
+=General=
+The Terrans are the inhabitants of [[Earth]]. They are a technologically advanced race, but their suspicion of other races, including their lost human brethren, the [[Argon]], motivated them to be protective of their territory.
+
+To shield Earth from alien races, they moved their only jump gate to a secluded location and a substantial military presence now buffers the void between the Solar System and the Commonwealth.
+
+The Terrans built only two [[jumpgate]]s.  All other gates were built by a mysterious people only known as "The Ancients".
+
+In the year 2066 AD the Terrans started to send terraforming ships into the depths of space.  These were later followed by self-replicating machines. After several years the terraforming project was discontinued but their attempts to cancel the terraforming process failed because the terraformers had become sentient.  The machines became known as the Xenon.
+
+Several years after that, the Xenon attacked Earth and tried to destroy their creators and everything they stood for. This was the Xenon invasion. In a brave tactical maneuver, Nathan R. Gunne led the Xenon fleet through a jump gate to what is now known as [[Brennan's Triumph]]. He then destroyed the gate that led back to Earth. He would never see his home planet again, and the descendents of his forces went on to become the modern-day Argon Federation.
+
+Terrans are the humans left behind on Earth after Gunne separated them from the X-Universe. They have, over time, rebuilt their civilization in the Solar System and have advanced technologically. The reconnection of the Solar System to the gate network has reintroduced them to X-Universe.
+
+==Government and politics==
+{{sectstub}}
+
+===Foreign relations and military===
+The Terran space-based military is composed of two known services, the United Space Command (USC) and the [[ATF|AGI Task Force (ATF)]]. These factions are both under the authority of the Earth Government, but despite this, the USC and ATF have completely separate styles of ship design and have chains of command independent of each other. Additionally, the ATF appear to be Earth's primary defense fleet, while the USC has a larger presence in other Terran sectors. However, this does not mean that the USC has no obligation to protect Earth or combat AGI incursions. Likewise, ATF forces have been seen patrolling distant Terran sectors alongside the USC.
+
+What is clear is that both of these forces typically do not trust outsiders (i.e. anyone from the Commonwealth), even their Argon cousins. This is evident by the large numbers of military patrols and defense stations in all Terran sectors. As a result, it is rare to see a vessel from another race, or non-Terran faction, flying in Terran space. This lack of trust and past experiences with the Xenon have resulted in strict policies regarding Earth orbit access. The Terran home world is fiercely defended by both USC and ATF forces; who destroy literally any ship (even those of friends) who violate their access level. Even in Earth orbit, any ship seeking to fly beyond or around the Earth Torus will be fired upon by the station's defense network, even if friendly.
+
+==History==
+The Terran Empire expanded to huge size in the early-mid third millennium.
+
+With the invention of jumpgates they began to explore, first building one in orbit around Earth and sending another to Alpha Centauri in order to link the two. Before the second reached its destination they found the first was already linking, and it's believed the sector [[Brennan's Triumph]] is in fact Alpha Centauri and possessed several gates of its own already.
+
+Upon connecting to the ancient gate network they began to expand, until eventually the [[Xenon]] arrived.
+
+Sonra, a star, was situated in one of the systems they claimed, and was later to become the home of the [[Argon]], and one of the planets be called [[Argon Prime]]. [[Aldrin]] was another system to be rediscovered later.
+
+The Terrans had been using [[terraformer]] machines in order to make planets habitable, and when no longer needed these were often abandoned and left to float through space. Unfortunately, after several software problems, and buggy updates ignoring many out of range, the real problem was realised. Many of the self intelligent, self replicating machines were now stuck in an endless loop of command. They were programmed to terraform every planet they got their metaphorical hands on, and they wouldn't be fixed. They replicated and descended upon the Terrans in their millions, all down to a few bugs. The empire collapsed, the solar system was under heavy attack. [[Mars]] became a victim of the crazed AI, which had now ceased most terraforming and were simply killing all life on the planets they found.
+
+Then they reached [[Earth]]. The attack was long and bloody. Eventually, Nathan R. Gunne led the entire fleet through the [[Earth]] jumpgate and blew it up. The crew of his ship would never see Earth again... they would rebuild their race as the [[Argon]], in [[Argon Prime]], eventually to disown their past, with only a few known as the [[Goner]]s to remain insistant that their race were descendants of the blue-green planet [[Earth]].
+
+After Gunne and the rest of the crew had left and destroyed the gate, the Terrans were safe. Their solar system had been badly damaged, their links with the jump network severed. Their population was decimated and much of their technology lost, but with the help of the trans-orbital accelerators between planets they could rebuild their infrastructure. The Solar System remained the home of the Terrans until the end of the millennium, with any creating of jumpgates or Artificial General Intelligence ([[AGI]]) strictly forbidden.
+
+Until the events of ''[[X3: Reunion]]'' the Terrans had no contact with anyone else.
+
+Upon reunion, they have discovered many things.   Most interestingly the [[Argon]] have survived and created an entire race in only a few centuries from the crew of one ship.  Most surprisingly the entire gate network has shuffled, leaving very few original Terran empire sectors left in the galaxy and linking four other sentient races, the [[Split]], [[Teladi]], [[Boron]] and [[Paranid]].
+
+And most worryingly, after all this time the Xenon are still a rampant threat throughout what is now the X-Universe.
+
+The Terrans remain the most technologically advanced race in the gate network, even after losing several hundred years of progress in the Terraformer War.
+
+==Culture==
+After a long period of isolation, the Terrans have become highly xenophobic, even shunning their long-lost "brothers" the Argon. Much of their space technology is offensively advanced due to fear of the Terraformers, or [[Xenon]]. Indeed, their paranoia is epitomised by the ATF, or A(rtificial)G(eneral)I(Intelligence) Task Force, essentially founded in case the [[Xenon]] ever decided to find Earth again.  Much of the main plot is caused by their xenophobia and tense negotiations with the Argon.
+
+==Geography and Climate==
+{{sectstub}}
+
+==Science and Technology==
+Terran and Commonwealth vessels are incapable of mounting each others' weapons technology.  It is unknown why this is the case, especially since Commonwealth shields and other equipment can be easily fitted to Terran vessels and vice versa. In terms of military capabilities, Terran ships are some of the deadliest. They usually have very good shields, high speeds, high shield and laser energy recharge rates as well as reasonably high laser capacities. Because Terran craft typically only mount Terran weapons, they lack wide equipment options, though Terran weapons tend to be very powerful and efficient, they are expensive and hard to obtain. The ATF typically has ships that are very similar to regular Terran craft in role, though with even better shielding and firepower potential.
+
+===Ships===
+Terran ships tend towards a compact and streamlined design with occasional asymmetries. Almost all basic Terran ships and stations share a matte-white main color with a red or black trim. Terran ships tend to be quick and well shielded, complimented by powerful shield reactors and weapon capacitors. 
+
+Mainly by virtue of their [[Electro-Magnetic Plasma Cannon|expensive]] and rare weapons, Terran ships are seen as expensive and somewhat unwieldy to field, though they are often at the top of their class. Some Terran craft even manage to rival the leaders of higher ship classes. The [[ATF]] variants are both rarer and more expensive, but they're also tougher, faster, and stronger.
+
+*[[Tokyo]] ({{M1class}})
+*[[Osaka]] ({{M2class}})
+*[[Kyoto]] ({{M2+class}})
+*[[Cutlass]] ({{M3+class}})
+*[[Scimitar]] ({{M3class}})
+*[[Sabre]] ({{M4class}})
+*[[Rapier]] ({{M5class}})
+*[[Katana]] ({{M6class}})
+*[[Yokohama]] ({{M7class}})
+*[[Maccana]] ({{M7Cclass}})
+*[[Claymore]] ({{M8class}})
+*[[Baldric]] ({{TSclass}})
+*[[Hayabusa]] ({{TS+class}})
+*[[Scabbard]] ({{TPclass}})
+*[[Mobile Mining Base Ship]] ({{TLclass}})
+*[[Atmospheric Lifter]] ({{TLclass}})
+*[[Toukon]] ({{TMclass}})
+
+===Stations===
+{{sectstub}}
+
+====Shipyards====
+[[Terran Shipyard]]s are known to exist in the following sectors:
+*[[Terran Unknown Sector 1|Megnir]]
+*[[The Moon]]
+*[[Mars]]
+*[[Saturn]]
+
+The rediscovered [[Aldrin|Aldrin Colony]] has their own shipbuilding factories known as [[Aldrin Ship Production Base]]s.
+
+==Territories==
+{| cellpadding="20"
+|- valign="top"
+|
+===Core Worlds===
+#[[Earth]]
+#[[Asteroid Belt]]
+#[[Jupiter]]
+#[[Jupiter 2]]
+#[[Jupiter 3]]
+#[[Mars]]
+#[[Venus]]
+#[[The Moon]]
+#[[Mercury (sector)]]
+#[[Saturn]]
+#[[Saturn 2]]
+#[[Saturn 3]]
+#[[Titan (sector)]]
+#[[Uranus]]
+#[[Uranus 2]]
+#[[Uranus 3]]
+#[[Neptune]]
+#[[Pluto]]
+#[[Kuiper Belt]]
+#[[Oort Cloud]]
+|
+
+===Border Worlds===
+#[[Heretic's End]]
+#[[Unknown Sector (Beyond Oort Cloud 1st)]]
+#[[Unknown Sector (Beyond Oort Cloud 2nd)]]
+#[[Unknown Sector (Beyond Oort Cloud 3rd)]]
+#[[Unknown Sector (Beyond Oort Cloud 4th)]]
+#[[Aldrin]]
+#[[Aldrin 2]]
+#[[Terran Unknown Sector 1|Megnir]]
+#[[Terran Unknown Sector 2|Althes]]
+#[[Terran Unknown Sector 3|Segaris]]
+|}
+
+=Food=
+[[MRE]]
+[[C-Ration]]
+
+
+
+===Factories===
+
+----
+
+[[List_of_Terran_Factories:XTC | List of Terran Factories]]
+
+
+
+[[Category:Factions]]
+{{Races}}
+{{Terran Navbox}}

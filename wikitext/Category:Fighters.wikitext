@@ -1,3 +1,31 @@
-<!-- source file: index__qb0e3c58c550d.html -->
+Fighters are the small craft of the X Universe.
 
-Fighters are the small craft of the X Universe. They are nearly universally dockable at any location that has docking systems. Fighters are small ships including the {{M5class}}, {{M4class}}, and {{M3class}}. The page links below use a sortkey: {| style="text-align:left;" |- !M3+ | '''E'''lite Fighter |- !M3 | '''F'''ighter |- !M4+ | '''H'''eavy Interceptor |- !M4 | '''I'''nterceptor |- !M5 | '''S'''cout |} Creating a progression from E-S of decreasing weight. ==Note== In the in-game Property menu, the option to hide "fighter" class ships also includes M8 bombers. {{Shipcategory}}
+They are nearly universally dockable at any location that has docking systems.
+
+Fighters are small ships including the {{M5class}}, {{M4class}}, and {{M3class}}.
+
+The page links below use a sortkey:
+{| style="text-align:left;"
+|-
+!M3+ 
+| '''E'''lite Fighter
+|-
+!M3  
+| '''F'''ighter
+|-
+!M4+  
+| '''H'''eavy Interceptor
+|-
+!M4  
+| '''I'''nterceptor
+|-
+!M5  
+| '''S'''cout
+|}
+
+Creating a progression from E-S of decreasing weight.
+
+==Note==
+In the in-game Property menu, the option to hide "fighter" class ships also includes M8 bombers.
+
+{{Shipcategory}}

@@ -1,3 +1,13 @@
-<!-- source file: index__q18e185583d6f.html -->
+==Overview==
+One of the five possible sector names a player gets to choose from at the end of the [[A New Home]] [[missions]]. It is located north of the [[Unknown Sector (20,5)]] east of [[Zyarth's Dominion]].
 
-==Overview== One of the five possible sector names a player gets to choose from at the end of the [[A New Home]] [[missions]]. It is located north of the [[Unknown Sector (20,5)]] east of [[Zyarth's Dominion]]. ==Appearance== Upon entering the sector, the player sees an extremely huge light blue planet to the bottom left of their screen, which appears to have solar flares or flames emanating from it (which is due to the nebula that is behind the planet). The player can also just see the two other smaller planets/moons upon exiting the gate. Apart from that, there is not much else to be seen in the sector. http://i52.tinypic.com/72d4l4.jpg ==Asteroid/s== This sector contains approx. 27 asteroids for the player's own uses. Out of all of the possible player owned sectors, Spires of Elusion comes second in ore, but has the least amount of silicon out of all of them. However, the Unknown Sector south of it contains asteroids of varying yields in case this isn't enough for you. ==Sun/s== As with all other possible sector choices, Spires of Elusion contains 300% sun. (2 separate suns)
+==Appearance==
+Upon entering the sector, the player sees an extremely huge light blue planet to the bottom left of their screen, which appears to have solar flares or flames emanating from it (which is due to the nebula that is behind the planet). The player can also just see the two other smaller planets/moons upon exiting the gate. Apart from that, there is not much else to be seen in the sector.
+
+http://i52.tinypic.com/72d4l4.jpg
+
+==Asteroid/s==
+This sector contains approx. 27 asteroids for the player's own uses. Out of all of the possible player owned sectors, Spires of Elusion comes second in ore, but has the least amount of silicon out of all of them. However, the Unknown Sector south of it contains asteroids of varying yields in case this isn't enough for you.
+
+==Sun/s==
+As with all other possible sector choices, Spires of Elusion contains 300% sun. (2 separate suns)

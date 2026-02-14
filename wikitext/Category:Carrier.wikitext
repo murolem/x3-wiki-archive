@@ -1,3 +1,28 @@
-<!-- source file: index__qabcdfa7a4183.html -->
+{{See also|Capital Ships}}
 
-{{See also|Capital Ships}} == Overview == Carriers vary in size, from your humble {{TMclass}}, up to the massive {{M1class}}, with a fair few ships between. == Equipping a Carrier == Carriers are usually [[Capital Ships]], and equipping them with a fighter wing usually costs more credits than buying the ship in the first place, so the buyer ought to beware. Equipping 40+ {{M3class}} ships with weapons is often more than the X-Universe can handle in one go, so often requires [[complex|special infrastructure]] in order to equip so many ships in a short space of time. == Docking == As all carrier ships, by their definition, can be docked with, it means the player can swap to and from ships landed (default key: "x" when another internal ship is selected). When the player swaps into a ship inside the carrier, the ship will immediately launch. Likewise, when a player docks with a carrier, the player will immediately take control of the carrier. Useful wares for docking include the [[Docking Computer]] for any ships you plan on flying yourself, and the [[Transporter device]] and [[Jumpdrive]] in the carrier itself. === Docking Non-Fighter Ships === A few, very special ships can dock non-fighter ships (e.g. ships not [[M3+]] - [[M5]]), such as the Paranid [[Ariadne]] and Boron [[Guppy]] being able to dock a single {{TSclass}} or {{TPclass}} ship. This is very rare, and only a select few ships may do this. The Goner [[Aran]] is unique in that it can dock other capital-class ships. === Docking at Stations === As many carriers are capital ships, docking at stations can be difficult. For freight transfer with player-owned stations, [[Freight Drone]]s are often useful. Otherwise, using the ships carried inside to ferry goods and purchase items from a station is common. Players often use a Jumpdrive equipped TS combined with a transporter to fill a Carrier's cargohold. == Resupply == Carriers are typically used to resupply the wings of ships they support. This can be automated on a per-craft basis, but setting up a [[Wing]] will often make this process easier, as it allows you to set minimum energy cell and missile/ammunition amounts kept in the cargo hold.
+== Overview ==
+Carriers vary in size, from your humble {{TMclass}}, up to the massive {{M1class}}, with a fair few ships between.
+
+
+== Equipping a Carrier ==
+Carriers are usually [[Capital Ships]], and equipping them with a fighter wing usually costs more credits than buying the ship in the first place, so the buyer ought to beware.
+
+Equipping 40+ {{M3class}} ships with weapons is often more than the X-Universe can handle in one go, so often requires [[complex|special infrastructure]] in order to equip so many ships in a short space of time.
+
+
+== Docking ==
+As all carrier ships, by their definition, can be docked with, it means the player can swap to and from ships landed (default key: "x" when another internal ship is selected). When the player swaps into a ship inside the carrier, the ship will immediately launch.
+Likewise, when a player docks with a carrier, the player will immediately take control of the carrier.
+
+Useful wares for docking include the [[Docking Computer]] for any ships you plan on flying yourself, and the [[Transporter device]] and [[Jumpdrive]] in the carrier itself.
+
+=== Docking Non-Fighter Ships ===
+A few, very special ships can dock non-fighter ships (e.g. ships not [[M3+]] - [[M5]]), such as the Paranid [[Ariadne]] and Boron [[Guppy]] being able to dock a single {{TSclass}} or {{TPclass}} ship. This is very rare, and only a select few ships may do this.
+
+The Goner [[Aran]] is unique in that it can dock other capital-class ships.
+
+=== Docking at Stations ===
+As many carriers are capital ships, docking at stations can be difficult. For freight transfer with player-owned stations, [[Freight Drone]]s are often useful. Otherwise, using the ships carried inside to ferry goods and purchase items from a station is common. Players often use a Jumpdrive equipped TS combined with a transporter to fill a Carrier's cargohold.
+
+== Resupply ==
+Carriers are typically used to resupply the wings of ships they support. This can be automated on a per-craft basis, but setting up a [[Wing]] will often make this process easier, as it allows you to set minimum energy cell and missile/ammunition amounts kept in the cargo hold.

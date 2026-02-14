@@ -1,3 +1,58 @@
-<!-- source file: index__q1f4835bcf29d.html -->
+==Standard form==
+<pre>
+{{Infobox open}}
+{{Infobox missile|Missile=|Yield=|Speed=|Range=|Cooldown=|Seeker=|Submunitions=|Fusing=|Torpedoclass=|Guidance=|AoE=}}
+{{Infobox ware|ware=Silkworm Missile|cargoclass=|volume=|minprice=|aveprice=|maxprice=}}
+{{Infobox close}}
+==Overview==
+==Commentary==
+</pre>
+copy from cache.
 
-==Standard form== &lt;pre> {{Infobox open}} {{Infobox missile|Missile=|Yield=|Speed=|Range=|Cooldown=|Seeker=|Submunitions=|Fusing=|Torpedoclass=|Guidance=|AoE=}} {{Infobox ware|ware=Silkworm Missile|cargoclass=|volume=|minprice=|aveprice=|maxprice=}} {{Infobox close}} ==Overview== ==Commentary== &lt;/pre> copy from cache. templates created. recommend setting torpedoclass as "Torpedo" so firestorm torpedo would be &lt;pre> {{Infobox missile|Missile=Firestorm|Yield=|Speed=|Range=|Cooldown=|Seeker=|Submunitions=|Fusing=|Torpedoclass=Torpedo|Guidance=|AoE=}} &lt;/pre> [[User:Madned|Madned]] 19:27, 25 June 2010 (UTC) please refer to missile page writeup on how to fill in the fields. Submunitions is the incorrect term and actually refers to number of warheads launch of each missile spawns, which could only be one, the missile itself. [[User:Madned|Madned]] 14:37, 7 October 2010 (CDT) ---- from the faq, http://www.egosoft.com/support/faq/faq_answer_en.php?answer=1721&amp;version=9&amp;sid=93885ee3971de23179e95efa0b6dea17 In X3: Reunion, Egosoft introduced a wide range of different missile types. Swarm missiles, unguided missiles, autonomously target seeking missiles and so on. This FAQ aims to bring some order to this jungle. Needs Target: You cannot launch missiles of this type until you have targeted an enemy. The advantage of this is that you cannot accidentally fire this missile towards a friendly target. Unguided: This missile type doesn’t have a guidance mechanism, hence fly straight in the direction in which they were launched. This type isn’t particularly effective against fighters because they can easily evade the missiles; however, used against capitol ships, they’re more effective, but often lack the firepower to cause serious damage. Target Following: Missiles of this type have an automatic target following mechanism and chase the target launched on until they impact the target or consume all their fuel. These missiles are very effective against fighters which don’t have a rear turret, fighters with such, however, can easily defend themselves against this missile because they approach the target in a straight line from behind. Used in numbers, you can compensate for this disadvantage. Swarm Missiles: This missile type divides into 5 sub-missiles after being launched. Every sub-missile offers the full level of explosive energy of its mother rocket which makes them really powerful tools of destruction. Once launched and split, the sub-missiles approach the target in circling movements which makes it hard for a missile defence system to defend against all of them and it’s almost certain that at least one or two missiles reach the target. The disadvantage of most of the swarm missiles is the lack of an autonomous target selecting mechanism. After the primary target is destroyed, the remaining sub-missiles fly away, useless. For example, a Typhoon missile can destroy an M3 with 2 or 3 hits which leaves 2 or 3 sub-missiles uselessly flying away. The exception of this are Flail Missiles, which, however, are limited to M7M-class ships. Both Flails and M7M can only be found in X3: Terran Conflict. Heat Seeking: This missile type doesn’t require a targeted enemy in order to be launched. You can simply fire them into free space and they will search automatically for the closest enemy which will be chased until impact or the missile runs out of fuel. Autonomous Target Selection: The advantage of this missile is that, after its primary target is destroyed before it impacts with the target, the missile searches autonomously for another target. You can launch various of these missiles on one relatively defenceless target and after this is destroyed, the remaining warheads will search for nearby enemies and attack them. They will repeat this as long as there are enemies in range; they run out of fuel or impact in a target. With this mechanism, you can effectively prevent waste of missiles and money. Proximity Fuse: This type of missile doesn’t explode after it impacts with a target, but shortly before the impact. Manual Detonation: This type doesn’t explode automatically, but needs to be triggered manually by the player. The advantage of this mechanism is that the player can decide when and where the warhead should explode. For example, if the missile passes close by to another enemy ship on its way to the target, you can trigger the missile there and eventually destroy this enemy. The disadvantage of this type, however, is that you cannot launch another missile until the first missile explodes. Torpedo: This is a very powerful warhead which suits for destroying stationary facilities or for attacking capitol ships. They offer massive explosive power, but are slow and have poor maneuverability which makes it easy to evade or intercept them. Most missiles, however, do combine different types. For instance the Typhoon missile combines the swarm type with the target following system. Or the Tornado, which is an unguided swarm missile. [[User:Madned|Madned]] 01:00, 5 August 2010 (UTC) ---------------------- The Shadow missile stats look wrong; I doubt a single missile does 6GJ of damage. I think 755,000 is the damage done by all eight warheads. Can someone double-check please? [[User:Spychotic|Spychotic]] 09:34, 1 November 2010 (CDT) from http://forum.egosoft.com/viewtopic.php?t=252320,&lt;bR> 755,000 is per warhead,&lt;br> http://eng.x3tc.ru/x3_tc_weapons/x3-weapon.php?c=MTY1MzAwMDM agrees. hmm. appears to be compatible with only one ship. skirnir. [[User:Madned|Madned]] 13:42, 1 November 2010 (CDT)
+templates created.
+
+recommend setting torpedoclass as "Torpedo"
+
+so firestorm torpedo would be 
+<pre>
+{{Infobox missile|Missile=Firestorm|Yield=|Speed=|Range=|Cooldown=|Seeker=|Submunitions=|Fusing=|Torpedoclass=Torpedo|Guidance=|AoE=}}
+</pre>
+
+[[User:Madned|Madned]] 19:27, 25 June 2010 (UTC)
+
+please refer to missile page writeup on how to fill in the fields.
+Submunitions is the incorrect term and actually refers to number of warheads launch of each missile spawns, which could only be one, the missile itself. [[User:Madned|Madned]] 14:37, 7 October 2010 (CDT)
+
+----
+from the faq, http://www.egosoft.com/support/faq/faq_answer_en.php?answer=1721&version=9&sid=93885ee3971de23179e95efa0b6dea17
+
+In X3: Reunion, Egosoft introduced a wide range of different missile types. Swarm missiles, unguided missiles, autonomously target seeking missiles and so on. This FAQ aims to bring some order to this jungle.
+
+Needs Target: You cannot launch missiles of this type until you have targeted an enemy. The advantage of this is that you cannot accidentally fire this missile towards a friendly target. 
+
+Unguided: This missile type doesn’t have a guidance mechanism, hence fly straight in the direction in which they were launched. This type isn’t particularly effective against fighters because they can easily evade the missiles; however, used against capitol ships, they’re more effective, but often lack the firepower to cause serious damage. 
+
+Target Following: Missiles of this type have an automatic target following mechanism and chase the target launched on until they impact the target or consume all their fuel. These missiles are very effective against fighters which don’t have a rear turret, fighters with such, however, can easily defend themselves against this missile because they approach the target in a straight line from behind. Used in numbers, you can compensate for this disadvantage. 
+
+Swarm Missiles: This missile type divides into 5 sub-missiles after being launched. Every sub-missile offers the full level of explosive energy of its mother rocket which makes them really powerful tools of destruction. Once launched and split, the sub-missiles approach the target in circling movements which makes it hard for a missile defence system to defend against all of them and it’s almost certain that at least one or two missiles reach the target. 
+The disadvantage of most of the swarm missiles is the lack of an autonomous target selecting mechanism. After the primary target is destroyed, the remaining sub-missiles fly away, useless. For example, a Typhoon missile can destroy an M3 with 2 or 3 hits which leaves 2 or 3 sub-missiles uselessly flying away. The exception of this are Flail Missiles, which, however, are limited to M7M-class ships. Both Flails and M7M can only be found in X3: Terran Conflict. 
+
+Heat Seeking: This missile type doesn’t require a targeted enemy in order to be launched. You can simply fire them into free space and they will search automatically for the closest enemy which will be chased until impact or the missile runs out of fuel. 
+
+Autonomous Target Selection: The advantage of this missile is that, after its primary target is destroyed before it impacts with the target, the missile searches autonomously for another target. You can launch various of these missiles on one relatively defenceless target and after this is destroyed, the remaining warheads will search for nearby enemies and attack them. They will repeat this as long as there are enemies in range; they run out of fuel or impact in a target. With this mechanism, you can effectively prevent waste of missiles and money. 
+
+Proximity Fuse: This type of missile doesn’t explode after it impacts with a target, but shortly before the impact. 
+
+Manual Detonation: This type doesn’t explode automatically, but needs to be triggered manually by the player. The advantage of this mechanism is that the player can decide when and where the warhead should explode. For example, if the missile passes close by to another enemy ship on its way to the target, you can trigger the missile there and eventually destroy this enemy. The disadvantage of this type, however, is that you cannot launch another missile until the first missile explodes. 
+
+Torpedo: This is a very powerful warhead which suits for destroying stationary facilities or for attacking capitol ships. They offer massive explosive power, but are slow and have poor maneuverability which makes it easy to evade or intercept them. 
+
+
+Most missiles, however, do combine different types. For instance the Typhoon missile combines the swarm type with the target following system. Or the Tornado, which is an unguided swarm missile. 
+[[User:Madned|Madned]] 01:00, 5 August 2010 (UTC)
+
+
+----------------------
+The Shadow missile stats look wrong; I doubt a single missile does 6GJ of damage. I think 755,000 is the damage done by all eight warheads. Can someone double-check please? [[User:Spychotic|Spychotic]] 09:34, 1 November 2010 (CDT)
+
+from http://forum.egosoft.com/viewtopic.php?t=252320,<bR> 755,000 is per warhead,<br> http://eng.x3tc.ru/x3_tc_weapons/x3-weapon.php?c=MTY1MzAwMDM agrees. hmm. appears to be compatible with only one ship. skirnir. [[User:Madned|Madned]] 13:42, 1 November 2010 (CDT)

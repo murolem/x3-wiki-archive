@@ -1,3 +1,13 @@
-<!-- source file: index__qbb80ec8364f7.html -->
+{{See also|Fleet}}
+{{Stub}}
 
-{{See also|Fleet}} {{Stub}} == Overview == Wings are used as a group of ships, designed to stay together, be equipped identically, and perform the same [[autopilot|orders]] simultaneously. In effect, they are designed primarily for ships of a type within a carrier, so a single carrier might field two or three wings - e.g. a {{M3class}} wing and an {{M4class}} wing, to best deal with a multitude of threats. == Setup == You must manually add each ship to the Wing as required. Once done, you can set options like autojump, and auto-resupply for the entire Wing. Often players hide all but one of the ships for the Wing from their ships list, as there is a separate page kept aside for ships in Wings. == Other Uses == If using the [[Satellite Early Warning Network]], you can assign ships to a certain wing to automatically jump to the affected area and attack any aggressors.
+== Overview ==
+Wings are used as a group of ships, designed to stay together, be equipped identically, and perform the same [[autopilot|orders]] simultaneously.
+
+In effect, they are designed primarily for ships of a type within a carrier, so a single carrier might field two or three wings - e.g. a {{M3class}} wing and an {{M4class}} wing, to best deal with a multitude of threats.
+
+== Setup ==
+You must manually add each ship to the Wing as required. Once done, you can set options like autojump, and auto-resupply for the entire Wing. Often players hide all but one of the ships for the Wing from their ships list, as there is a separate page kept aside for ships in Wings.
+
+== Other Uses ==
+If using the [[Satellite Early Warning Network]], you can assign ships to a certain wing to automatically jump to the affected area and attack any aggressors.

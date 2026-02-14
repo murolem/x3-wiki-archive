@@ -1,3 +1,62 @@
-<!-- source file: index__q6b1188d7d189.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Paranid
+|station=Soyery L
+|hull=2,000,000
+|shield=15
+|generator=1,500
+|hangar=5
+|cycle=00:01:00
+|productnum=[[Soja Husk]] (10)
+|stationprice={{Priceblock|Paranid Friend of Priest King|2087496}}
+|reqresources=[[Energy Cells]] (75)<br>[[Soja Beans]] (60)<br>
+|optresources=[[Nostrop Oil]]
+}}
+{{Infobox factory
+|faction=Paranid
+|station=Soyery M
+|hull=800,000
+|shield=10
+|generator=1,500
+|hangar=5
+|cycle=00:01:00
+|productnum=[[Soja Husk]] (4)
+|stationprice={{Priceblock|Paranid Friend of Priest King|1077736}}
+|reqresources=[[Energy Cells]] (30)<br>[[Soja Beans]] (24)<br>
+|optresources=[[Nostrop Oil]]
+}}
+{{Infobox close}}
+==Overview==
+This factory creates the Paranid foodstuff [[Soja Husk]] from [[Soja Beans]] and [[Energy Cells]].
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Paranid |station=Soyery L |hull=2,000,000 |shield=15 |generator=1,500 |hangar=5 |cycle=00:01:00 |productnum=[[Soja Husk]] (10) |stationprice={{Priceblock|Paranid Friend of Priest King|2087496}} |reqresources=[[Energy Cells]] (75)&lt;br>[[Soja Beans]] (60)&lt;br> |optresources=[[Nostrop Oil]] }} {{Infobox factory |faction=Paranid |station=Soyery M |hull=800,000 |shield=10 |generator=1,500 |hangar=5 |cycle=00:01:00 |productnum=[[Soja Husk]] (4) |stationprice={{Priceblock|Paranid Friend of Priest King|1077736}} |reqresources=[[Energy Cells]] (30)&lt;br>[[Soja Beans]] (24)&lt;br> |optresources=[[Nostrop Oil]] }} {{Infobox close}} ==Overview== This factory creates the Paranid foodstuff [[Soja Husk]] from [[Soja Beans]] and [[Energy Cells]]. NPC factories also accept [[Nostrop Oil]] as a secondary resource. ===Encyclopedia Entry=== A Soyery is a Paranid food factory where Soja Beans are processed and converted into Soja husk, a vegetable based foodstuff that is traded throughout the universe. The Paranid also add Stott Spices to the Soja husk to make a number of different varieties and tastes. In addition to Soja Beans and Boron Spices each factory also requires large amounts of Energy and Nostrop. ==Availability== This factory is unique to the Paranid. {| style="text-align:left;" |- valign="top" | style="padding-right:5em;"| ===L-type=== {| | '''[[Paranid#Shipyards|Paranid]]''' *{{sa|Cardinal's Domain}} *{{sa|Duke's Citadel}} *{{sa|Heaven's Assertion}} *{{sa|Paranid Prime}} *{{sa|Third Redemption}} |} | ===M-type=== {| | '''[[Paranid#Shipyards|Paranid]]''' *{{sa|Heaven's Assertion}} *{{sa|Third Redemption}} *{{sa|Trinity Sanctum}} |} |} {{Stationcategory}}
+NPC factories also accept [[Nostrop Oil]] as a secondary resource.
+
+===Encyclopedia Entry===
+A Soyery is a Paranid food factory where Soja Beans are processed and converted into Soja husk, a vegetable based foodstuff that is traded throughout the universe. The Paranid also add Stott Spices to the Soja husk to make a number of different varieties and tastes. In addition to Soja Beans and Boron Spices each factory also requires large amounts of Energy and Nostrop.
+
+==Availability==
+This factory is unique to the Paranid.
+{| style="text-align:left;"
+|- valign="top"
+| style="padding-right:5em;"|
+===L-type===
+{|
+| '''[[Paranid#Shipyards|Paranid]]'''
+*{{sa|Cardinal's Domain}}
+*{{sa|Duke's Citadel}}
+*{{sa|Heaven's Assertion}}
+*{{sa|Paranid Prime}}
+*{{sa|Third Redemption}}
+|}
+|
+===M-type===
+{|
+| '''[[Paranid#Shipyards|Paranid]]'''
+*{{sa|Heaven's Assertion}}
+*{{sa|Third Redemption}}
+*{{sa|Trinity Sanctum}}
+|}
+|}
+
+{{Stationcategory}}

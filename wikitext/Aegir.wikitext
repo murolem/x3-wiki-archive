@@ -1,3 +1,155 @@
-<!-- source file: index__q3bec5bdfec97.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Aegir
+|Faction=ATF
+|Class={{M7class}}
+|Priceblock={{priceblock||36893300}}
+|Minspeed=66
+|Maxspeed=132
+|Minaccel=6
+|Maxaccel=12
+|Minsteer=1.7
+|Maxsteer=3.4
+|Hull=480,000
+|Maxshield=1 GJ
+|Shieldslots=5
+|Maxshieldstrength=5000
+|Shieldreactor= 12500
+|Cargoclass=XL
+|Mincargo=5500
+|Maxcargo=9500
+|Lasercap=71900
+|Laserrecharge=1617
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=1|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=3
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=1|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=4
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=4
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Up
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=1|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Down
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=1|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The ATF Aegir is an imposing vessel. It is faster than the ATF corvettes, has many turreted weapons and sports a large cargobay for supplies. Its heavy (5 GJ) shielding gives it excellent survivability, although it is quite large and therefore tends to take heavy damage from capital weaponry. Like the other [[Terran]]/[[ATF]] frigate, the [[Terran]] [[Yokohama]], the Aegir cannot use the [[PSP]] and instead must rely on the corvette level [[Matter/Anti-Matter Launcher]] for reliable damage output against heavy opponents and the [[Starburst Shockwave Cannon]] for fighters.
 
-{{Infobox open}} {{Infobox variant |Variant=Aegir |Faction=ATF |Class={{M7class}} |Priceblock={{priceblock||36893300}} |Minspeed=66 |Maxspeed=132 |Minaccel=6 |Maxaccel=12 |Minsteer=1.7 |Maxsteer=3.4 |Hull=480,000 |Maxshield=1 GJ |Shieldslots=5 |Maxshieldstrength=5000 |Shieldreactor= 12500 |Cargoclass=XL |Mincargo=5500 |Maxcargo=9500 |Lasercap=71900 |Laserrecharge=1617 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=1|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Rear |Guncount=3 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=1|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Right |Guncount=4 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount=4 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Up |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=1|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Down |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=1|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The ATF Aegir is an imposing vessel. It is faster than the ATF corvettes, has many turreted weapons and sports a large cargobay for supplies. Its heavy (5 GJ) shielding gives it excellent survivability, although it is quite large and therefore tends to take heavy damage from capital weaponry. Like the other [[Terran]]/[[ATF]] frigate, the [[Terran]] [[Yokohama]], the Aegir cannot use the [[PSP]] and instead must rely on the corvette level [[Matter/Anti-Matter Launcher]] for reliable damage output against heavy opponents and the [[Starburst Shockwave Cannon]] for fighters. ==Background== Although a recent addition to the counter [[AGI]] effort, the Aegir heavy frigate has already established itself as an essential part of the ATF's order of battle. ==Physical Characteristics== Roughly twice the length of the [[ATF]] [[Skirnir]], the Aegir is identifiable from long range due to its immense size and distinct crossbow bolt-shaped profile. Its hull is a grey color offset by light blue highlights, the most obvious of which emenates from the Aegir's single massive rear engine. == Combat == The Aegir is unable to deal enough damage to another [[:Category:Capital Ships|capital ship]] using only its guns - which are really only heavy corvette-grade weapons - to be effective in that respect. However, it does not need to use its guns as it equips the tremendously powerful [[Wraith Missile]]. An Aegir equipped with [[Starburst Shockwave Cannon]]s and Wraiths is essentially unbeatable by any ship in any number save an [[M7M]] class missile frigate. == Equipment == '''Hardpoints:''' *[[Electro-Magnetic Plasma Cannon]] *[[Matter/Anti-Matter Launcher]] *[[Starburst Shockwave Cannon]] '''Missiles:''' *[[Wraith Missile]] *[[Poltergeist Missile]] *[[Spectre Missile]] == Availability == The Aegir is unbuyable, and can only be acquired by [[Bigship Boarding|pirating]] one from an ATF patrol. Aegirs typically serve as escorts for larger ATF ships and likely have several [[Vali]] corvettes as escorts of their own. As of Albion Prelude, you can buy the Aegir from most Terran Shipyards. == Suggested Roles== Though it can be used in direct combat, the Aegir's defining features are its speed and cargo space, making it an excellent fleet resupply craft in heated situations. Capable of ferrying missiles, jump fuel and other assorted items with room to spare for its own equipment, this is truly where the Aegir comes into its own. Alternatively, it can be used effectively as a missile boat due to its access to all Terran missiles, notably the [[wraith]] for killing capitals and [[poltergeist]] for fighters, though its weapon arrays are more than a match for most fighter swarms. == See Also== *[[Skirnir|ATF Skirnir]] {{M7}} {{ATF Navbox}}
+==Background==
+Although a recent addition to the counter [[AGI]] effort, the Aegir heavy frigate has already established itself as an essential part of the ATF's order of battle.
+
+==Physical Characteristics==
+Roughly twice the length of the [[ATF]] [[Skirnir]], the Aegir is identifiable from long range due to its immense size and distinct crossbow bolt-shaped profile. Its hull is a grey color offset by light blue highlights, the most obvious of which emenates from the Aegir's single massive rear engine.
+
+== Combat ==
+The Aegir is unable to deal enough damage to another [[:Category:Capital Ships|capital ship]] using only its guns - which are really only heavy corvette-grade weapons - to be effective in that respect. However, it does not need to use its guns as it equips the tremendously powerful [[Wraith Missile]]. An Aegir equipped with [[Starburst Shockwave Cannon]]s and Wraiths is essentially unbeatable by any ship in any number save an [[M7M]] class missile frigate.
+
+== Equipment ==
+'''Hardpoints:'''
+*[[Electro-Magnetic Plasma Cannon]]
+*[[Matter/Anti-Matter Launcher]]
+*[[Starburst Shockwave Cannon]]
+
+'''Missiles:'''
+*[[Wraith Missile]]
+*[[Poltergeist Missile]]
+*[[Spectre Missile]]
+
+== Availability ==
+The Aegir is unbuyable, and can only be acquired by [[Bigship Boarding|pirating]] one from an ATF patrol. Aegirs typically serve as escorts for larger ATF ships and likely have several [[Vali]] corvettes as escorts of their own.
+
+As of Albion Prelude, you can buy the Aegir from most Terran Shipyards.
+
+== Suggested Roles==
+Though it can be used in direct combat, the Aegir's defining features are its speed and cargo space, making it an excellent fleet resupply craft in heated situations. Capable of ferrying missiles, jump fuel and other assorted items with room to spare for its own equipment, this is truly where the Aegir comes into its own.
+
+Alternatively, it can be used effectively as a missile boat due to its access to all Terran missiles, notably the [[wraith]] for killing capitals and [[poltergeist]] for fighters, though its weapon arrays are more than a match for most fighter swarms.
+
+== See Also==
+*[[Skirnir|ATF Skirnir]]
+
+{{M7}}
+{{ATF Navbox}}

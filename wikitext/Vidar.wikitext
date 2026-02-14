@@ -1,3 +1,99 @@
-<!-- source file: index__q20a8c260c303.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Vidar
+|Faction=ATF
+|Class={{M6class}}
+|Priceblock={{priceblock||8867546}}
+|Minspeed=64
+|Maxspeed=128
+|Minaccel=6
+|Maxaccel=12
+|Minsteer=4.4
+|Maxsteer=8.8
+|Hull=65600 / 262400 (AP)
+|Maxshield=200 MJ
+|Shieldslots=5
+|Maxshieldstrength=1000
+|Shieldreactor= 3800
+|Cargoclass=L
+|Mincargo=700
+|Maxcargo=950
+|Lasercap=19000
+|Laserrecharge=570 / 2000 (AP)
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=10
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot= Up
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot= Down
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The [[ATF]] Vidar is a strong candidate for the role of 'Best combat [[M6]]' due to its massive forward firepower. Its damage output is nearly unrivalled and its great agility allows it to bring its weaponry to bear with frightening speed and accuracy. Its shielding is on par with that of Heavy M6s, at 1GJ. However, its power comes at a cost: its range is heavily compromised if a full rack of M/AMLs is used due to slightly cramped cargo bay leaving little room for all of ammo, jump energy and missiles.
 
-{{Infobox open}} {{Infobox variant |Variant=Vidar |Faction=ATF |Class={{M6class}} |Priceblock={{priceblock||8867546}} |Minspeed=64 |Maxspeed=128 |Minaccel=6 |Maxaccel=12 |Minsteer=4.4 |Maxsteer=8.8 |Hull=65600 / 262400 (AP) |Maxshield=200 MJ |Shieldslots=5 |Maxshieldstrength=1000 |Shieldreactor= 3800 |Cargoclass=L |Mincargo=700 |Maxcargo=950 |Lasercap=19000 |Laserrecharge=570 / 2000 (AP) |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=10 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot= Up |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot= Down |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The [[ATF]] Vidar is a strong candidate for the role of 'Best combat [[M6]]' due to its massive forward firepower. Its damage output is nearly unrivalled and its great agility allows it to bring its weaponry to bear with frightening speed and accuracy. Its shielding is on par with that of Heavy M6s, at 1GJ. However, its power comes at a cost: its range is heavily compromised if a full rack of M/AMLs is used due to slightly cramped cargo bay leaving little room for all of ammo, jump energy and missiles. ==Background== The Vidar is an older [[ATF]] corvette, precursor of the [[Vali]]. It has been retired in favour of its generally more potent successor and will rarely be seen in active service. ==Physical Characteristics== The Vidar looks Corvette-like, unlike the heavier Vali. A compact profile means it takes very few hits, and its reasonable turret coverage means it has good missile defences. == Combat == Utterly lethal in any combat role, under AI control the Vidar makes for a powerful patrol, but as a player ship it shreds anything up to and including destroyers with its massively powerful weaponry (potentially in the form of 10 [[Matter/Anti-Matter Launcher]]s plus one of two dual turrets normally equipped with EMPCs) and great agility. Even large [[Xenon]] fleets can be bested with careful flying and a handy obstacle to hide behind. Tough shields leave a good margin for error, and its weaponry absolutely maims opposing ships of the same class and chews up anything larger. The only combat roles it doesn't excel at are support ones and missile lobbing. Even with 14 EMPCs, a player-controlled Vidar is powerful enough to take on several other Corvettes at once by itself, and some weaker Frigates. However, the noticeably shorter range on the EMPC relative the MAML means that the Vidar is exposed to more enemy fire, which can be dangerous when entering and leaving combat; the increased energy cost means that the Vidar can only sustain fire for about 34 seconds; and lower damage means that the Vidar is not nearly so dangerous. Together, they mean that most Frigates are able to deal substantial damage to a Vidar with EMPCs, and if escorted by more than one Corvette, even the weakest Frigates are likely to threaten the Vidar. The only advantage of EMPCs over MAMLs is the increased cargo bay: 10 EMPCs take up 160 less space, plus have no need for ammo, allowing the Vidar to extend its combat endurance. == Equipment == == Availability == In X3TC the Vidar is extremely rare, only witnessed twice in the game, both times during the main Terran plotline. The first time is when it is used for the player's boarding practice, though it is given to you whether you attempt to board it or not. In X3AP Vidar can be bought from Terran Shipyards and seen in racial attack fleets. == Suggested Roles== Blowing stuff up. Particularly corvettes and even lightly shielded frigates when not under player control. Under player control, the Vidar can destroy any opponent. == See Also== *[[Vali|ATF Vali]] {{M6}} {{ATF Navbox}}
+==Background==
+The Vidar is an older [[ATF]] corvette, precursor of the [[Vali]]. It has been retired in favour of its generally more potent successor and will rarely be seen in active service.
+
+==Physical Characteristics==
+The Vidar looks Corvette-like, unlike the heavier Vali. A compact profile means it takes very few hits, and its reasonable turret coverage means it has good missile defences.
+== Combat ==
+Utterly lethal in any combat role, under AI control the Vidar makes for a powerful patrol, but as a player ship it shreds anything up to and including destroyers with its massively powerful weaponry (potentially in the form of 10 [[Matter/Anti-Matter Launcher]]s plus one of two dual turrets normally equipped with EMPCs) and great agility. Even large [[Xenon]] fleets can be bested with careful flying and a handy obstacle to hide behind. Tough shields leave a good margin for error, and its weaponry absolutely maims opposing ships of the same class and chews up anything larger. The only combat roles it doesn't excel at are support ones and missile lobbing.
+
+Even with 14 EMPCs, a player-controlled Vidar is powerful enough to take on several other Corvettes at once by itself, and some weaker Frigates. However, the noticeably shorter range on the EMPC relative the MAML means that the Vidar is exposed to more enemy fire, which can be dangerous when entering and leaving combat; the increased energy cost means that the Vidar can only sustain fire for about 34 seconds; and lower damage means that the Vidar is not nearly so dangerous. Together, they mean that most Frigates are able to deal substantial damage to a Vidar with EMPCs, and if escorted by more than one Corvette, even the weakest Frigates are likely to threaten the Vidar. The only advantage of EMPCs over MAMLs is the increased cargo bay: 10 EMPCs take up 160 less space, plus have no need for ammo, allowing the Vidar to extend its combat endurance.
+
+== Equipment ==
+== Availability ==
+In X3TC the Vidar is extremely rare, only witnessed twice in the game, both times during the main Terran plotline. The first time is when it is used for the player's boarding practice, though it is given to you whether you attempt to board it or not.
+
+In X3AP Vidar can be bought from Terran Shipyards and seen in racial attack fleets.
+
+== Suggested Roles==
+Blowing stuff up. Particularly corvettes and even lightly shielded frigates when not under player control. Under player control, the Vidar can destroy any opponent.
+
+== See Also==
+*[[Vali|ATF Vali]]
+
+{{M6}}
+{{ATF Navbox}}

@@ -1,3 +1,30 @@
-<!-- source file: index__qdf38259fd6ce.html -->
+==Objective==
+Usually the description will have some sob story in it, but the objective is simple; find target, kill target. 
 
-==Objective== Usually the description will have some sob story in it, but the objective is simple; find target, kill target. ==General Difficulty:== Can be extremely hard if you go in without the right ship and weapons. These [[missions]] get harder as the games progress. They are in all cases Pirate or Yaki ships (sometimes Terrans too, in Albion Prelude). So I advise not to do these if you are trying to build up a rep with them. As the assassination target is often hostile to the race that offered the mission, they can spawn in a crowded sector and be killed by a patrol before you can even reach them. Waiting until you obtain [[jumpdrive]] makes these missions significantly easier. ==What you will need: == * [[M3]]/[[M4]] - early in the game and combat ranking low. * [[M3+]]/[[M6]]/[[M7]] - later on with high combat ranking. * [[M1]]/[[M2]] - with very high combat ranks - by vbruzual * [[Jumpdrive]] - Some of the time limits are restrictive, so you will need to get there fast. * Fair amount of [[sectors]] explored. If you are in an area you haven't explored much, then you might want to delay taking on the mission until you have explored at least 5 sectors around. Last thing you want is have to hunt down a guy in a sector you don't know where it is. ==What you will find: == * M3/TS with some M3/M4/M5 escorts early on. * M6 with two or three M6 escorts and some fighters later on. * Many M6's and fighters - with higher combat ranking. * M1s, M7s or M2s at very high ranks. ==Commentary== * Attacking ships costs reputation with the faction you're attacking. * The target will always spawn near a gate, most often the gate in the direction you are coming from, but not always. A lot of time can be saved from the mission's time limit by jumping to the sector, then jumping again to the corresponding gate the target spawned at. {{Missions}}
+==General Difficulty:==
+Can be extremely hard if you go in without the right ship and weapons. 
+
+These [[missions]] get harder as the games progress. They are in all cases Pirate or Yaki ships (sometimes Terrans too, in Albion Prelude). So I advise not to do these if you are trying to build up a rep with them.
+
+As the assassination target is often hostile to the race that offered the mission, they can spawn in a crowded sector and be killed by a patrol before you can even reach them. Waiting until you obtain [[jumpdrive]] makes these missions significantly easier.
+
+==What you will need: ==
+
+* [[M3]]/[[M4]] - early in the game and combat ranking low. 
+* [[M3+]]/[[M6]]/[[M7]] - later on with high combat ranking. 
+* [[M1]]/[[M2]] - with very high combat ranks - by vbruzual 
+* [[Jumpdrive]] - Some of the time limits are restrictive, so you will need to get there fast. 
+* Fair amount of [[sectors]] explored. If you are in an area you haven't explored much, then you might want to delay taking on the mission until you have explored at least 5 sectors around. Last thing you want is have to hunt down a guy in a sector you don't know where it is. 
+
+==What you will find: ==
+
+* M3/TS with some M3/M4/M5 escorts early on. 
+* M6 with two or three M6 escorts and some fighters later on. 
+* Many M6's and fighters - with higher combat ranking.
+* M1s, M7s or M2s at very high ranks.
+
+==Commentary==
+* Attacking ships costs reputation with the faction you're attacking.
+* The target will always spawn near a gate, most often the gate in the direction you are coming from, but not always. A lot of time can be saved from the mission's time limit by jumping to the sector, then jumping again to the corresponding gate the target spawned at.
+
+{{Missions}}

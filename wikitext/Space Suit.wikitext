@@ -1,3 +1,47 @@
-<!-- source file: index__qee54d81e0163.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Space Suit
+|SuppressAutoCat=yes
+|Faction=Standard
+|Class=Space Suit
+|Priceblock=
+|Minspeed=14
+|Maxspeed=28
+|Minaccel=1
+|Maxaccel=3
+|Minsteer=39
+|Maxsteer=39
+|Hull=
+|Maxshield=
+|Shieldslots=
+|Maxshieldstrength=
+|Shieldreactor= 
+|Cargoclass=-
+|Mincargo=
+|Maxcargo=
+|Lasercap=800
+|Laserrecharge=40
+|Gunbay='''Integrated Weapon:''' [[Repair Laser]]
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+This is the standard space suit all pilots are equipped with. It comes with a repair laser to enable pilots to restore function to damaged ships.  
+==Background==
+This technologically advanced space suit keeps the wearer warm, shields from radiation and offers some maneuverability, but gives little protection against laser weapons.
 
-{{Infobox open}} {{Infobox variant |Variant=Space Suit |SuppressAutoCat=yes |Faction=Standard |Class=Space Suit |Priceblock= |Minspeed=14 |Maxspeed=28 |Minaccel=1 |Maxaccel=3 |Minsteer=39 |Maxsteer=39 |Hull= |Maxshield= |Shieldslots= |Maxshieldstrength= |Shieldreactor= |Cargoclass=- |Mincargo= |Maxcargo= |Lasercap=800 |Laserrecharge=40 |Gunbay='''Integrated Weapon:''' [[Repair Laser]] |Dockbay= }} {{Infobox close}} ==Overview== This is the standard space suit all pilots are equipped with. It comes with a repair laser to enable pilots to restore function to damaged ships. ==Background== This technologically advanced space suit keeps the wearer warm, shields from radiation and offers some maneuverability, but gives little protection against laser weapons. ==Physical Characteristics== Rather peculiar that a minimum speed it listed, it is unlikely a pilot will ever upgrade the suits capabilities. == Combat == The Space suit has no damaging weapons, so combat should be avoided at all costs. The suits Vertical and Horizontal controls allow the wearer to outmaneuver missiles and some laser weaponry, as the suit is a very small target to hit. == Equipment == The Repair tool is the only peice of equipment that can be mounted on the suit, and when fired, will repair the ship you are aiming at, however, firing this device at NPC ships may turn them hostile against you. == Availability == The space suit is always avalible to the player, and can be used with Defult Shift + E to eject from the cockpit of your current ship. NPCs also use the suit when they are forced to eject their own vessels. == Suggested Roles== == See Also== {{Specialshipscategory}}
+==Physical Characteristics==
+Rather peculiar that a minimum speed it listed, it is unlikely a pilot will ever upgrade the suits capabilities.
+== Combat ==
+The Space suit has no damaging weapons, so combat should be avoided at all costs. The suits Vertical and Horizontal controls allow the wearer to outmaneuver missiles and some laser weaponry, as the suit is a very small target to hit.
+
+== Equipment ==
+The Repair tool is the only peice of equipment that can be mounted on the suit, and when fired, will repair the ship you are aiming at, however, firing this device at NPC ships may turn them hostile against you.
+
+== Availability ==
+The space suit is always avalible to the player, and can be used with Defult Shift + E to eject from the cockpit of your current ship. NPCs also use the suit when they are forced to eject their own vessels.
+
+== Suggested Roles==
+== See Also==
+
+{{Specialshipscategory}}

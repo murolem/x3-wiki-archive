@@ -1,3 +1,28 @@
-<!-- source file: index__qcd66af6908d1.html -->
+{{Infobox Sector
+|Race= Pirates
+|SecLevel= Border
+|Population= 71,731,390
+|Planets= 0
+|SunLevel= 150
+|GateDist=80
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|0|0|34000|[[Homily of Perpetuity]]}}
+{{Gateblock2|South|-5000|0|-38500|[[Spaceweed Grove]]}}
+</table>
+}}
+==Overview==
+Owned by Pirates, and usually traded along by Teladi and Pirate traders. Traders usually move downwards from Homily of Perpetuity, trading energy from the Solar Power Plants to the 3 stations in the sector. Traders then move freely between these two pirate sectors, trading in various resources that will eventually result in the manufacture of [[Spaceweed]].
 
-{{Infobox Sector |Race= Pirates |SecLevel= Border |Population= 71,731,390 |Planets= 0 |SunLevel= 150 |GateDist=80 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|0|0|34000|[[Homily of Perpetuity]]}} {{Gateblock2|South|-5000|0|-38500|[[Spaceweed Grove]]}} &lt;/table> }} ==Overview== Owned by Pirates, and usually traded along by Teladi and Pirate traders. Traders usually move downwards from Homily of Perpetuity, trading energy from the Solar Power Plants to the 3 stations in the sector. Traders then move freely between these two pirate sectors, trading in various resources that will eventually result in the manufacture of [[Spaceweed]]. ==Description== Currently contested by both Pirate and Teladi forces, this sector is profitable and deadly in equal measure. Diplomacy is carried out with shields raised and targets locked. Your presence may be considered a threat to either side. ==Default [[Stations]]== #[[Computer Plant]] alpha #[[Dream Farm M]] alpha #[[Flower Farm M]] alpha ==[[Asteroids]]== 0 Known {{Pirates Navbox}}
+==Description==
+Currently contested by both Pirate and Teladi forces, this sector is profitable and deadly in equal measure. Diplomacy is carried out with shields raised and targets locked. Your presence may be considered a threat to either side.
+
+==Default [[Stations]]==
+#[[Computer Plant]] alpha
+#[[Dream Farm M]] alpha
+#[[Flower Farm M]] alpha
+
+==[[Asteroids]]==
+0 Known
+
+{{Pirates Navbox}}

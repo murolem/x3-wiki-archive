@@ -1,3 +1,15 @@
-<!-- source file: index__qcb2f1f5509cf.html -->
+{{Infobox open}}
+{{Infobox missile|Missile=Ghoul Missile|Yield=6500|Speed=450|Range=56.3|Cooldown=|Seeker=|Submunitions=8|Fusing=Impact|Torpedoclass=|Guidance=Image-recognition|AoE=}}
+{{Infobox ware|ware=Ghoul Missile|cargoclass=M|volume=3|minprice=|aveprice= 33692  |maxprice=}}
+{{Infobox close}}
+==Overview==
+The Ghoul is the [[Terran]] equivalent of the [[Flail Barrage Missile]], and can only be mounted on the [[Skirnir|ATF Skirnir]].
 
-{{Infobox open}} {{Infobox missile|Missile=Ghoul Missile|Yield=6500|Speed=450|Range=56.3|Cooldown=|Seeker=|Submunitions=8|Fusing=Impact|Torpedoclass=|Guidance=Image-recognition|AoE=}} {{Infobox ware|ware=Ghoul Missile|cargoclass=M|volume=3|minprice=|aveprice= 33692 |maxprice=}} {{Infobox close}} ==Overview== The Ghoul is the [[Terran]] equivalent of the [[Flail Barrage Missile]], and can only be mounted on the [[Skirnir|ATF Skirnir]]. ===Encyclopedia Entry=== Using similar technology to the Poltergeist missile, this missile features both multiple warheads and advanced target-acquisition technology. It is also fitted with a proximity fuse and is designed to be fired in salvos from specially-equipped ships. ==Commentary== Everything that applies to the [[Flail Barrage Missile|Flail]] also applies to this munition, which is even more potent but slightly slower and with less range. The Ghoul is borderline impossible to acquire however, its factory not being purchasable and the couple of initial factories often evaporating because of GoD (Global Decision Engine) meddling. [[Category:Swarm missiles]] {{Missile Navbox}}
+===Encyclopedia Entry===
+Using similar technology to the Poltergeist missile, this missile features both multiple warheads and advanced target-acquisition technology. It is also fitted with a proximity fuse and is designed to be fired in salvos from specially-equipped ships.
+
+==Commentary==
+Everything that applies to the [[Flail Barrage Missile|Flail]] also applies to this munition, which is even more potent but slightly slower and with less range. The Ghoul is borderline impossible to acquire however, its factory not being purchasable and the couple of initial factories often evaporating because of GoD (Global Decision Engine) meddling.
+
+[[Category:Swarm missiles]]
+{{Missile Navbox}}

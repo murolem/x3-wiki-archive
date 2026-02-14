@@ -1,3 +1,64 @@
-<!-- source file: index__q752af5c12391.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Boron
+|station=Bio Gas Factory L
+|hull=2250000
+|shield=15
+|generator=1500
+|hangar=5
+|cycle=00:01:12
+|productnum=[[BoGas]] (5)
+|stationprice={{Priceblock|Boron Trusted Courtier|561,528}}
+|reqresources=[[Energy Cells]] (90)
+|optresources=[[Ore]]<br>[[Teladianium]]
+}}
+{{Infobox factory
+|faction=Boron
+|station=Bio Gas Factory M
+|hull=900000
+|shield=10
+|generator=1500
+|hangar=5
+|cycle=00:01:12
+|productnum=[[BoGas]] (2)
+|stationprice={{Priceblock|Boron Trusted Courtier|224,636}}
+|reqresources=[[Energy Cells]] (36)
+|optresources=[[Ore]]<br>[[Teladianium]]
+}}
+{{Infobox close}}
+==Overview==
+The Bio Gas Factory manufactures [[Boron]] [[BoGas|Bio Gas]], an important raw material for the Boron economy, from [[Energy Cells]].
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Boron |station=Bio Gas Factory L |hull=2250000 |shield=15 |generator=1500 |hangar=5 |cycle=00:01:12 |productnum=[[BoGas]] (5) |stationprice={{Priceblock|Boron Trusted Courtier|561,528}} |reqresources=[[Energy Cells]] (90) |optresources=[[Ore]]&lt;br>[[Teladianium]] }} {{Infobox factory |faction=Boron |station=Bio Gas Factory M |hull=900000 |shield=10 |generator=1500 |hangar=5 |cycle=00:01:12 |productnum=[[BoGas]] (2) |stationprice={{Priceblock|Boron Trusted Courtier|224,636}} |reqresources=[[Energy Cells]] (36) |optresources=[[Ore]]&lt;br>[[Teladianium]] }} {{Infobox close}} ==Overview== The Bio Gas Factory manufactures [[Boron]] [[BoGas|Bio Gas]], an important raw material for the Boron economy, from [[Energy Cells]]. NPC factories take [[Ore]] and [[Teladianium]] as secondary resources. ===Encyclopedia Entry=== BoGas factories artificially manufacture BoGas, which is only found in its natural state on the Boron home planet. These factories are simple affairs containing chemical mixtures in huge vats where the gas is formed naturally. Large piping systems then drain the gas into decanting areas where it is put into large sealed cylinders for ease of transport. Traditionally these factories were constructed from metal made from ore supplied by the Argon but throughout the last seventy jazuras the Boron have been refurbishing and re-equipping their BoGas factories using Teladianium. ==Availability== This factory is unique to the Boron. {| |- valign="top" | style="padding-right:5em;" | ===L-type=== {| style="text-align:left;" |- valign="top" *{{sa|Depths of Silence}} *{{sa|Kingdom End}} *{{sa|Queen's Retribution}} |} | ===M-type=== {| style="text-align:left;" |- valign="top" *{{sa|Great Reef}} *{{sa|Lucky Planets}} *{{sa|Ocean of Fantasy}} *{{sa|Queen's Retribution}} |} |} {{Stationcategory}}
+NPC factories take [[Ore]] and [[Teladianium]] as secondary resources.
+
+===Encyclopedia Entry===
+BoGas factories artificially manufacture BoGas, which is only found in its natural state on the Boron home planet. These factories are simple affairs containing chemical mixtures in huge vats where the gas is formed naturally.
+
+Large piping systems then drain the gas into decanting areas where it is put into large sealed cylinders for ease of transport. Traditionally these factories were constructed from metal made from ore supplied by the Argon but throughout the last seventy jazuras the Boron have been refurbishing and re-equipping their BoGas factories using Teladianium. 
+
+==Availability==
+This factory is unique to the Boron.
+{|
+|- valign="top"
+| style="padding-right:5em;" |
+===L-type===
+{| style="text-align:left;"
+|- valign="top"
+*{{sa|Depths of Silence}} 
+*{{sa|Kingdom End}} 
+*{{sa|Queen's Retribution}} 
+|}
+
+|
+===M-type===
+{| style="text-align:left;"
+|- valign="top"
+*{{sa|Great Reef}} 
+*{{sa|Lucky Planets}} 
+*{{sa|Ocean of Fantasy}} 
+*{{sa|Queen's Retribution}} 
+|}
+|}
+
+{{Stationcategory}}

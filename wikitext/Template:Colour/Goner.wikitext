@@ -1,3 +1,4 @@
-<!-- source file: index__q7fe72f3c380b.html -->
+background-color:#5BA4B9;<noinclude>
 
-background-color:#5BA4B9;&lt;noinclude> This sets the color for [[Goner]] title blocks. It may be desirable to reconfigure it to hold complete style entry. &lt;/noinclude>
+This sets the color for [[Goner]] title blocks.  It may be desirable to reconfigure it to hold complete style entry.
+</noinclude>

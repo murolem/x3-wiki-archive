@@ -1,3 +1,15 @@
-<!-- source file: index__q348e99da7319.html -->
-
-{{Infobox Sector |Race=Unknown |SecLevel=Border |Population= |Planets= |SunLevel=150 |GateDist= |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|West|-41000| 0| 0|[[Mists of Elysium]]}} &lt;/table> }} ==Description== ==Default [[Stations]]== ==[[Asteroids]]==
+{{Infobox Sector
+|Race=Unknown
+|SecLevel=Border
+|Population=
+|Planets=
+|SunLevel=150
+|GateDist=
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|West|-41000|	0|	0|[[Mists of Elysium]]}}
+</table>
+}}
+==Description==
+==Default [[Stations]]==
+==[[Asteroids]]==

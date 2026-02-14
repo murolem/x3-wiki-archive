@@ -1,3 +1,17 @@
-<!-- source file: index__q81eee1c341ad.html -->
+{{Infobox open}}
+{{Infobox missile|Missile=Flail Barrage Missile|Yield=5000|Speed=486|Range=58.3|Cooldown=2000|Seeker=Autonomous|Submunitions=8|Fusing=Impact|Torpedoclass=|Guidance=Image-recognition|AoE=}}
+{{Infobox ware|ware=Flail Barrage Missile|cargoclass=M|volume=5|minprice=26954|aveprice= 33692  |maxprice=40430}}
+{{Infobox close}}
+==Overview==
+Exclusively mountable on M7M class vessels, Flail Barrage Missiles are a horribly effective anti-fighter [[Missiles#Overview|swarm]] missile that will re-acquire targets once the original is destroyed. Beware its extreme range, as it is often fired at targets dozens of kilometers away. It is easily one of the best anti-fighter missiles with good characteristics in all areas except for its high cost.
 
-{{Infobox open}} {{Infobox missile|Missile=Flail Barrage Missile|Yield=5000|Speed=486|Range=58.3|Cooldown=2000|Seeker=Autonomous|Submunitions=8|Fusing=Impact|Torpedoclass=|Guidance=Image-recognition|AoE=}} {{Infobox ware|ware=Flail Barrage Missile|cargoclass=M|volume=5|minprice=26954|aveprice= 33692 |maxprice=40430}} {{Infobox close}} ==Overview== Exclusively mountable on M7M class vessels, Flail Barrage Missiles are a horribly effective anti-fighter [[Missiles#Overview|swarm]] missile that will re-acquire targets once the original is destroyed. Beware its extreme range, as it is often fired at targets dozens of kilometers away. It is easily one of the best anti-fighter missiles with good characteristics in all areas except for its high cost. ===Encyclopedia Entry=== Early missile frigate prototypes proved vulnerable to fighter attacks. The Flail missile was therefore designed to counter this, taking advantage of both multiple warheads and advanced target-acquisition technology. Being caught in a Flail barrage is extremely deadly for any nearby enemy fighters. ==Commentary== Flails are predominantly anti-fighter weapons, but launched in large numbers are effective at taking down capital class shielding; in fact, they are commonly used in [[boarding]] operations for fine control of the target's shields whilst the hull is breached by the attacking [[Marines]]. They can be launched by barrage, however it is actually quicker to launch them singly, as their very fast refire rate means that the limiting factor is how fast the player can spam the launch key. [[Category:Swarm missiles]] {{Missile Navbox}}
+===Encyclopedia Entry===
+Early missile frigate prototypes proved vulnerable to fighter attacks. The Flail missile was therefore designed to counter this, taking advantage of both multiple warheads and advanced target-acquisition technology. Being caught in a Flail barrage is extremely deadly for any nearby enemy fighters.
+
+==Commentary==
+Flails are predominantly anti-fighter weapons, but launched in large numbers are effective at taking down capital class shielding; in fact, they are commonly used in [[boarding]] operations for fine control of the target's shields whilst the hull is breached by the attacking [[Marines]].
+
+They can be launched by barrage, however it is actually quicker to launch them singly, as their very fast refire rate means that the limiting factor is how fast the player can spam the launch key.
+
+[[Category:Swarm missiles]]
+{{Missile Navbox}}

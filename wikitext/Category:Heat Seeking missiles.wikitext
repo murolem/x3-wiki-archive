@@ -1,3 +1,3 @@
-<!-- source file: index__qa7b462ecd6af.html -->
+[[Missiles]] that seek targets by following infrared heat signatures.
 
-[[Missiles]] that seek targets by following infrared heat signatures. [[Category:Missiles by guidance type| Heat Seeking missiles]]
+[[Category:Missiles by guidance type| Heat Seeking missiles]]

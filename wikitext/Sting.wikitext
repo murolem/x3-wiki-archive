@@ -1,3 +1,17 @@
-<!-- source file: index__qec3fc1fcfa4b.html -->
+{{Infobox open}}
+{{Infobox missile|Missile= Sting |Yield=4000|Speed= 257|Range=40|Cooldown=250|Seeker=Homing|Submunitions=1|Fusing=Proximity|Torpedoclass=|Guidance=Image-recognition|AoE=}}
+{{Infobox ware|ware= Sting |cargoclass=S|volume=1|minprice=3335|aveprice= 3368  |maxprice=3401}}
+{{Infobox close}}
+==Overview==
+The Sting is the [[Kha'ak]] light missile.
 
-{{Infobox open}} {{Infobox missile|Missile= Sting |Yield=4000|Speed= 257|Range=40|Cooldown=250|Seeker=Homing|Submunitions=1|Fusing=Proximity|Torpedoclass=|Guidance=Image-recognition|AoE=}} {{Infobox ware|ware= Sting |cargoclass=S|volume=1|minprice=3335|aveprice= 3368 |maxprice=3401}} {{Infobox close}} ==Overview== The Sting is the [[Kha'ak]] light missile. ===Encyclopedia Entry=== This is a fast missile that will explode near the target ship. It has a deadly power against all light fighter ships. It is mostly found in [[Kha'ak Scout]]s. ==Commentary== This munition is fast and does a reasonable about of damage, making it a serious threat to any [[M5|Scout]] and some [[M4|interceptors]] that cannot outrun it. However, like much of the Kha'ak arsenal, it no longer poses the same threat it once did in X3: Reunion: most M5s can easily dodge it or outrun it. [[Category:Kha'ak missiles]] [[Category:Proximity-fuse missiles]] [[Category:Not Purchasable]] {{Missile Navbox}}
+===Encyclopedia Entry===
+This is a fast missile that will explode near the target ship. It has a deadly power against all light fighter ships. It is mostly found in [[Kha'ak Scout]]s.
+
+==Commentary==
+This munition is fast and does a reasonable about of damage, making it a serious threat to any [[M5|Scout]] and some [[M4|interceptors]] that cannot outrun it. However, like much of the Kha'ak arsenal, it no longer poses the same threat it once did in X3: Reunion: most M5s can easily dodge it or outrun it.
+
+[[Category:Kha'ak missiles]]
+[[Category:Proximity-fuse missiles]]
+[[Category:Not Purchasable]]
+{{Missile Navbox}}

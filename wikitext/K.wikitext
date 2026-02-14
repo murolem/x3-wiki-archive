@@ -1,3 +1,176 @@
-<!-- source file: index__q6161af25afbe.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= K
+|Faction=Xenon
+|Class={{M2class}}
+|Priceblock=
+|Minspeed=32
+|Maxspeed=54.4
+|Minaccel=3
+|Maxaccel=6
+|Minsteer=0.6
+|Maxsteer=1.0
+|Hull=600000 / 6000000 (AP)
+|Maxshield=2 GJ
+|Shieldslots=4
+|Maxshieldstrength=8000
+|Shieldreactor=5000
+|Cargoclass=XL
+|Mincargo=5000
+|Maxcargo=5000
+|Lasercap=220800
+|Laserrecharge=3312
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=8
+|ire=0|pac=0|hept=0|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=1|pbe=0|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=0|psp=1|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=8
+|ire=0|pac=0|hept=0|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=1|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=1|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=8
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=1|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=8
+|ire=0|pac=0|hept=0|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=1|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=1|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Top
+|Guncount=4
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=1|
+cfaa=1|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Bottom
+|Guncount=4
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=1|
+cfaa=1|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The K is fairly average for a destroyer, except for a very cramped cargo bay. While there is enough cargo space to fully outfit its weapon slots with heavy weapons, doing so will very nearly exhaust its space. It is noteworthy for its significantly low cost and build time at the Player Headquarters, meaning many of them can be constructed in the time it would take to build a different battleship. This leads to the K being a highly prized but difficult [[boarding]] target for late game players.
 
-{{Infobox open}} {{Infobox variant |Variant= K |Faction=Xenon |Class={{M2class}} |Priceblock= |Minspeed=32 |Maxspeed=54.4 |Minaccel=3 |Maxaccel=6 |Minsteer=0.6 |Maxsteer=1.0 |Hull=600000 / 6000000 (AP) |Maxshield=2 GJ |Shieldslots=4 |Maxshieldstrength=8000 |Shieldreactor=5000 |Cargoclass=XL |Mincargo=5000 |Maxcargo=5000 |Lasercap=220800 |Laserrecharge=3312 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=8 |ire=0|pac=0|hept=0| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=1|pbe=0| isr=1|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=0|psp=1| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Right |Guncount=8 |ire=0|pac=0|hept=0| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=1|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=1| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Rear |Guncount=8 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=1|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Left |Guncount=8 |ire=0|pac=0|hept=0| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=1|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=1| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Top |Guncount=4 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=1| cfaa=1|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Bottom |Guncount=4 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=1| cfaa=1|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The K is fairly average for a destroyer, except for a very cramped cargo bay. While there is enough cargo space to fully outfit its weapon slots with heavy weapons, doing so will very nearly exhaust its space. It is noteworthy for its significantly low cost and build time at the Player Headquarters, meaning many of them can be constructed in the time it would take to build a different battleship. This leads to the K being a highly prized but difficult [[boarding]] target for late game players. ==Background== This destroyer was one of the most powerful ships the Argon faced in the Xenon Conflict and its memory still deserves the greatest of respect. It had formidable firepower and a great defensive capability. The Xenon in the last decade have upgraded this class of ship. This ship should still be considered as a major threat, although they hardly ever leave their own systems. ==Physical Characteristics== The K is a long, flat ship, with three rectangular sections connected in a row, reminiscent of the body of an insect. It is the same dark grey as other Xenon ships, with red lights all over its fuselage. Its appearance is similar to the [[J]], except with a curiously shorter fuselage. == Combat == The K is the single most maneuverable [[M2]] in the game, but it is otherwise average for a destroyer. Thanks to its small cargo bay, however, you should not rely on missile use to destroy your enemies. It cannot fully rely on its lasers, however, as its laser generator is poor for an M2. Thus, the K is not recommended for attacking other capital ships; instead, it is best used to overpower smaller craft. If you face dangerous threats with a K, bring in another heavy-hitter like an [[M7M]] to protect it. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] | *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] | *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] *[[Typhoon Missile]] | *[[Firestorm Torpedo]] *[[Aurora Missile]] *[[Remote Guided Warhead]] *[[Beluga Missile]] | *[[Hammerhead Missile]] *[[Rapier Missile]] *[[Firelance Missile]] *[[Wildfire Missile]] | *[[Windstalker Missile]] *[[Banshee Missile]] *[[Hornet Missile]] |} == Availability == The Xenon K is not available for purchase and must be successfully [[boarding|boarded]] to be added to the player's fleet. == Suggested Roles== Thanks to its heavy armament but small cargo bay, the K is best used as a guardian for single stations or sectors, such as protecting Grand Exchange's north gate from Xenon invaders. Using it in this way reduces the need to carry large amounts of [[Energy Cells]] for its jump drive. Using it in this fashion also eliminates the K's weakness of its laser generator. With a short build time at the player headquarters, multiple Ks can be produced in a small period of time. If you want to invade a sector in the late game the K is an ideal choice, if you can acquire its blueprints. Invading a Xenon sector with a fleet of Ks is a particularly sweet variety of poetic justice. == See Also== {{M2}} {{M2category}} [[Category:Xenon ships]]
+==Background==
+This destroyer was one of the most powerful ships the Argon faced in the Xenon Conflict and its memory still deserves the greatest of respect. It had formidable firepower and a great defensive capability. The Xenon in the last decade have upgraded this class of ship. This ship should still be considered as a major threat, although they hardly ever leave their own systems.
+
+==Physical Characteristics==
+The K is a long, flat ship, with three rectangular sections connected in a row, reminiscent of the body of an insect.  It is the same dark grey as other Xenon ships, with red lights all over its fuselage. Its appearance is similar to the [[J]], except with a curiously shorter fuselage.
+
+== Combat ==
+The K is the single most maneuverable [[M2]] in the game, but it is otherwise average for a destroyer. Thanks to its small cargo bay, however, you should not rely on missile use to destroy your enemies. It cannot fully rely on its lasers, however, as its laser generator is poor for an M2. Thus, the K is not recommended for attacking other capital ships; instead, it is best used to overpower smaller craft. If you face dangerous threats with a K, bring in another heavy-hitter like an [[M7M]] to protect it.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;" 
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+|
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+|
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Typhoon Missile]]
+|
+*[[Firestorm Torpedo]]
+*[[Aurora Missile]]
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+|
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+|
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+*[[Hornet Missile]]
+|}
+== Availability ==
+The Xenon K is not available for purchase and must be successfully [[boarding|boarded]] to be added to the player's fleet.
+
+== Suggested Roles==
+Thanks to its heavy armament but small cargo bay, the K is best used as a guardian for single stations or sectors, such as protecting Grand Exchange's north gate from Xenon invaders. Using it in this way reduces the need to carry large amounts of [[Energy Cells]] for its jump drive.  Using it in this fashion also eliminates the K's weakness of its laser generator.
+
+With a short build time at the player headquarters, multiple Ks can be produced in a small period of time. If you want to invade a sector in the late game the K is an ideal choice, if you can acquire its blueprints. Invading a Xenon sector with a fleet of Ks is a particularly sweet variety of poetic justice.
+
+== See Also==
+{{M2}}
+
+{{M2category}}
+[[Category:Xenon ships]]

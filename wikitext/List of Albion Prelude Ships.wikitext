@@ -1,3 +1,124 @@
-<!-- source file: index__qaaa469d5c290.html -->
+{| class="wikitable sortable" cellpadding="8"
+!Race!!Ship!!Class
+|-
+|[[Boron]]
+|[[Megalodon]]
+| [[M2+]]
+|-
+|[[Terran]]
+|[[Kyoto]]
+| [[M2+]]
+|-
+|[[Split]]
+|[[Pteranodon]]
+| [[M2+]]
+|-
+|[[Xenon]]
+|[[I]]
+| [[M2+]]
+|-
 
-{| class="wikitable sortable" cellpadding="8" !Race!!Ship!!Class |- |[[Boron]] |[[Megalodon]] | [[M2+]] |- |[[Terran]] |[[Kyoto]] | [[M2+]] |- |[[Split]] |[[Pteranodon]] | [[M2+]] |- |[[Xenon]] |[[I]] | [[M2+]] |- |[[Argon]] |[[Albion Pride]] | [[M6]] |- |[[Split]] |[[Acinonyx Prototype]] | [[M6]] |- |Shared |[[AP Gunner]] | [[M6]] |- |[[Split]] |[[Panther Hauler]] | [[M7]] |- |[[Argon]] |[[Griffon]] | [[M7C]] |- |[[Boron]] |[[Guppy]] | [[M7C]] |- |[[Paranid]] |[[Ariadne]] | [[M7C]] |- |[[Teladi]] |[[Cormorant]] | [[M7C]] |- |[[Terran]] |[[Maccana]] | [[M7C]] |- |[[Yaki]] |[[Senshi]] | [[M7M]] |- |[[Argon]] |[[Auster Hauler]] | [[M8]] |- |[[Boron]] |[[Marlin]] | [[M8]] |- |[[Argon]] |[[Lotan]] | [[TS]] |- |[[Boron]] |[[Sturgeon]] | [[TS]] |- |[[Argon]] ([[OTAS]]) |[[Mistral Super Freighter]] | [[TS]] |- |[[Paranid]] |[[Snotra]] | [[TS]] |- |[[Split]] |[[Drake]] | [[TS]] |- |[[Teladi]] |[[Tern]] | [[TS]] |- |[[Terran]] |[[Hayabusa]] | [[TS]] |- |[[Argon]] |[[Phantom]] | [[TP]] |- |[[Teladi]] |[[Geochen]] | [[TP]] |- |[[Split]] |[[Ocelot]] | [[TP]] |- |[[Terran]] |[[Mani]] | [[TP]] |- |[[Terran]] |[[Mobile Mining Base-Ship]] | [[TL]] |- |[[Terran]] |[[Toukon]] | [[TM]] |- |}
+|[[Argon]] 
+|[[Albion Pride]]
+| [[M6]]
+|-
+|[[Split]]
+|[[Acinonyx Prototype]]
+| [[M6]]
+|-
+
+|Shared
+|[[AP Gunner]]
+| [[M6]]
+|-
+
+|[[Split]] 
+|[[Panther Hauler]]
+| [[M7]]
+|-
+
+|[[Argon]] 
+|[[Griffon]]
+| [[M7C]]
+|-
+|[[Boron]] 
+|[[Guppy]]
+| [[M7C]]
+|-
+|[[Paranid]] 
+|[[Ariadne]]
+| [[M7C]]
+|-
+|[[Teladi]] 
+|[[Cormorant]]
+| [[M7C]]
+|-
+|[[Terran]] 
+|[[Maccana]]
+| [[M7C]]
+|-
+|[[Yaki]] 
+|[[Senshi]]
+| [[M7M]]
+|-
+|[[Argon]] 
+|[[Auster Hauler]]
+| [[M8]]
+|-
+|[[Boron]] 
+|[[Marlin]]
+| [[M8]]
+|-
+|[[Argon]] 
+|[[Lotan]]
+| [[TS]]
+|-
+|[[Boron]] 
+|[[Sturgeon]]
+| [[TS]]
+|-
+|[[Argon]] ([[OTAS]])
+|[[Mistral Super Freighter]]
+| [[TS]]
+|-
+|[[Paranid]] 
+|[[Snotra]]
+| [[TS]]
+|-
+|[[Split]] 
+|[[Drake]]
+| [[TS]]
+|-
+|[[Teladi]] 
+|[[Tern]]
+| [[TS]]
+|-
+|[[Terran]] 
+|[[Hayabusa]]
+| [[TS]]
+|-
+|[[Argon]] 
+|[[Phantom]]
+| [[TP]]
+|-
+|[[Teladi]] 
+|[[Geochen]]
+| [[TP]]
+|-
+|[[Split]] 
+|[[Ocelot]]
+| [[TP]]
+|-
+|[[Terran]] 
+|[[Mani]]
+| [[TP]]
+|-
+|[[Terran]] 
+|[[Mobile Mining Base-Ship]]
+| [[TL]]
+|-
+|[[Terran]] 
+|[[Toukon]]
+| [[TM]]
+|-
+|}

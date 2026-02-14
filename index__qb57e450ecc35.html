@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-<head><script src="/script.js" type="module"></script><link href="/styles.css" rel="stylesheet">
+<head>
 <meta charset="UTF-8">
-<title>MediaWiki:Vector-view-history - X3 Wiki | Archive</title>
+<title>MediaWiki:Vector-view-history - X3 Wiki</title>
 <meta name="generator" content="MediaWiki 1.17.0">
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)">
-<link rel="EditURI" type="application/rsd+xml" href="/api.php?action=rsd">
+<link rel="EditURI" type="application/rsd+xml" href="http://x3wiki.com/api.php?action=rsd">
 <link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&feed=atom">
 <link rel="stylesheet" href="/load.php?debug=false&lang=en&modules=mediawiki.legacy.commonPrint%2Cshared&only=styles&printable=1&skin=monobook&*">
 <meta name="ResourceLoaderDynamicStyles" content="">
@@ -27,7 +27,7 @@
 </p>
 </div>
 <div class="printfooter">
-Retrieved from "<a href="/index.php/MediaWiki:Vector-view-history">/index.php/MediaWiki:Vector-view-history</a>"</div>
+Retrieved from "<a href="http://x3wiki.com/index.php/MediaWiki:Vector-view-history">http://x3wiki.com/index.php/MediaWiki:Vector-view-history</a>"</div>
 		<div id="catlinks" class="catlinks catlinks-allhidden"></div>		<!-- end content -->
 				<div class="visualClear"></div>
 	</div>
@@ -38,34 +38,31 @@ Retrieved from "<a href="/index.php/MediaWiki:Vector-view-history">/index.php/Me
 		<div class="pBody">
 			<ul>
 				 <li id="ca-nstab-mediawiki" class="selected"><a href="/index.php/MediaWiki:Vector-view-history" title="View the system message [c]" accesskey="c">Message</a></li>
-				 <li id="ca-talk" class="new"><a class="new" href="/index.php?title=MediaWiki_talk:Vector-view-history&action=edit&redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
-				 <li class="new" id="ca-viewsource"><a class="new" href="/index.php?title=MediaWiki:Vector-view-history&action=edit" title="This page is protected.
+				 <li id="ca-talk" class="new"><a href="/index.php?title=MediaWiki_talk:Vector-view-history&action=edit&redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="/index.php?title=MediaWiki:Vector-view-history&action=edit" title="This page is protected.
 You can view its source [e]" accesskey="e">View source</a></li>
 			</ul>
 		</div>
 	</div>
-	
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/index.php?title=Special:UserLogin&returnto=MediaWiki:Vector-view-history&returntoquery=printable%3Dyes" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
 	<div class="portlet" id="p-logo">
-		<a style="background-image: url(/x3.jpg);" href="/index.php/Main_Page" title="Visit the main page"></a>
+		<a style="background-image: url(http://www.x3wiki.com/x3.jpg);" href="/index.php/Main_Page" title="Visit the main page"></a>
 	</div>
 	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
-	<div id="p-search" class="portlet">
-		<h5><label for="searchInput">Search</label></h5>
-		<div id="searchBody" class="pBody">
-			<form id="searchform">
-				<input type="hidden" name="title" value="Special:Search">
-				<input id="searchInput" title="Search X3 Wiki" accesskey="f" type="search" name="search">
-				<input type="submit" name="go" class="searchButton" id="searchGoButton" value="Go" title="Go to a page with this exact name if exists">&#160;
-				<input type="submit" name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text">
-			</form>
-		</div>
-	</div><div class="generated-sidebar portlet" id="p-navigation">
+	<div class="generated-sidebar portlet" id="p-navigation">
 		<h5>Navigation</h5>
 		<div class="pBody">
 			<ul>
 				<li id="n-mainpage-description"><a href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
 				<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
-				<li id="n-randompage"><a href="javascript:void(0)" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
 				<li id="n-help"><a href="/index.php/Help:Contents" title="The place to find out">Help</a></li>
 				<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
 			</ul>
@@ -97,7 +94,17 @@ You can view its source [e]" accesskey="e">View source</a></li>
 			</ul>
 		</div>
 	</div>
-	
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/index.php" id="searchform">
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="searchInput" title="Search X3 Wiki" accesskey="f" type="search" name="search">
+				<input type="submit" name="go" class="searchButton" id="searchGoButton" value="Go" title="Go to a page with this exact name if exists">&#160;
+				<input type="submit" name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text">
+			</form>
+		</div>
+	</div>
 	<div class="portlet" id="p-tb">
 		<h5>Toolbox</h5>
 		<div class="pBody">

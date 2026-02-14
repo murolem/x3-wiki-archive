@@ -1,3 +1,5 @@
-<!-- source file: index__q5f4a86c4aa69.html -->
+This page holds the Goner class ship.
 
-This page holds the Goner class ship. All alone in the dark. [[Category:Ship]]
+All alone in the dark.
+
+[[Category:Ship]]

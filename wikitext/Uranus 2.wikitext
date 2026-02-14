@@ -1,3 +1,19 @@
-<!-- source file: index__qf312d418c5b1.html -->
+{{Infobox Sector
+|Race=Terran
+|SecLevel=Core
+|Population=
+|Planets=
+|SunLevel=150
+|GateDist=
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th></tr>
+{{Gateblock|South|27000|	3000|	-19625}}
+</table>
+}}
+==Description==
+==Default [[Stations]]==
+==[[Asteroids]]==
+No asteroid known in this sector
 
-{{Infobox Sector |Race=Terran |SecLevel=Core |Population= |Planets= |SunLevel=150 |GateDist= |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;/tr> {{Gateblock|South|27000| 3000| -19625}} &lt;/table> }} ==Description== ==Default [[Stations]]== ==[[Asteroids]]== No asteroid known in this sector ==See Also== {{Terran Navbox}}
+==See Also==
+{{Terran Navbox}}

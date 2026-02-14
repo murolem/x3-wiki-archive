@@ -1,3 +1,7 @@
-<!-- source file: index__q8a3b435c4811.html -->
+==Overview==
+A [[wares#special Objects|spaceborne object]] marking safe navigational corridors.
+===Encyclopedia Entry===
+Hazard Warning Beacons are placed by civilian militias to mark out trade routes in dangerous sectors, they emit pulses of light that show the trade lanes between gates and stations. By flying close to these beacons you can be assured of a safe flight, although pirates sometimes use these trade routes as target practice.
 
-==Overview== A [[wares#special Objects|spaceborne object]] marking safe navigational corridors. ===Encyclopedia Entry=== Hazard Warning Beacons are placed by civilian militias to mark out trade routes in dangerous sectors, they emit pulses of light that show the trade lanes between gates and stations. By flying close to these beacons you can be assured of a safe flight, although pirates sometimes use these trade routes as target practice. ==Commentary== If you see these forming a lane, beware of navigation hazards like Mines.
+==Commentary==
+If you see these forming a lane, beware of navigation hazards like Mines.

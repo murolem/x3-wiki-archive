@@ -1,3 +1,22 @@
-<!-- source file: index__q88e7321a660f.html -->
+it occurs to me i made this template and category and never let you know it was there. <nowiki>{{deletecandidate}}</nowiki>
+adds a category for [[:category:Candidate for Deletion]] which is what i've been tagging all the spam created pages with. 
 
-it occurs to me i made this template and category and never let you know it was there. &lt;nowiki>{{deletecandidate}}&lt;/nowiki> adds a category for [[:category:Candidate for Deletion]] which is what i've been tagging all the spam created pages with. also, it seems like http got removed from the filter. I think there was a template created which side steps the issue locally, so external links can be made if you have local knowledge &lt;nowiki>{{linky}}&lt;/nowiki> which is a little impractical for spambots to bother with. [[User:Madned|Madned]] ([[User talk:Madned|talk]]) 17:09, 3 January 2013 (CST) Hi Madned, thanks for that. I've deleted all the pages on there. Also I've added http to the regex again so that should stop some spam pages from being created. Also I've given you admin rights so you should be able to delete pages. --[[User:Rexde500|Rexde500]] ([[User talk:Rexde500|talk]]) 17:10, 8 January 2013 (CST) ==Trivia== Hey. I was reading through some of the ship pages, and noticed that they are almost purely data-based and so very "dry". I was wondering if you thought it would be a good idea to depart from our current "norm" and add Trivia - things like other uses of this name, other Sci-Fi settings sharing the same name, prior uses and appearances in the X-Series etc. Since I don't own Terran Conflict (I play a modified Reunion running XTM), I find it difficult to add real data to the wiki, but am always using it to look things up that haven't changed. It seemed like something I could add every now and then, and might help flesh out some otherwise pretty bare pages. [[User:Korlus|Korlus]] ([[User talk:Korlus|talk]]) 05:18, 27 March 2013 (CDT) ==Unabe to edit pages== I first noticed this on your talk page (hence posting here) before experimenting elsewhere, but it seems that any page already containing the text that triggers the spam filters (h-t-t.p) will fail on edit even if you remove the http and replace it with {{linky}} [[User:Korlus|Korlus]] ([[User talk:Korlus|talk]]) 04:26, 30 March 2013 (CDT) : odd. just tested it. seems to work for me. i will note it tested it on the own talk page and there's no submit from the edit fail page. but yes, if the page has restricted ht-tp on it then it'll fail all future edits that include that section. [[User:Madned|Madned]] ([[User talk:Madned|talk]]) 17:21, 1 April 2013 (CDT)
+also, it seems like http got removed from the filter. I think there was a template created which side steps the issue locally, so external links can be made if you have local knowledge <nowiki>{{linky}}</nowiki> which is a little impractical for spambots to bother with.
+[[User:Madned|Madned]] ([[User talk:Madned|talk]]) 17:09, 3 January 2013 (CST)
+
+Hi Madned, thanks for that. I've deleted all the pages on there. Also I've added http to the regex again so that should stop some spam pages from being created. 
+Also I've given you admin rights so you should be able to delete pages.
+--[[User:Rexde500|Rexde500]] ([[User talk:Rexde500|talk]]) 17:10, 8 January 2013 (CST)
+
+==Trivia==
+
+Hey. I was reading through some of the ship pages, and noticed that they are almost purely data-based and so very "dry". I was wondering if you thought it would be a good idea to depart from our current "norm" and add Trivia - things like other uses of this name, other Sci-Fi settings sharing the same name, prior uses and appearances in the X-Series etc. Since I don't own Terran Conflict (I play a modified Reunion running XTM), I find it difficult to add real data to the wiki, but am always using it to look things up that haven't changed. It seemed like something I could add every now and then, and might help flesh out some otherwise pretty bare pages.
+
+[[User:Korlus|Korlus]] ([[User talk:Korlus|talk]]) 05:18, 27 March 2013 (CDT)
+
+
+==Unabe to edit pages==
+
+I first noticed this on your talk page (hence posting here) before experimenting elsewhere, but it seems that any page already containing the text that triggers the spam filters (h-t-t.p) will fail on edit even if you remove the http and replace it with {{linky}} [[User:Korlus|Korlus]] ([[User talk:Korlus|talk]]) 04:26, 30 March 2013 (CDT)
+
+: odd. just tested it. seems to work for me. i will note it tested it on the own talk page and there's no submit from the edit fail page. but yes, if the page has restricted ht-tp on it then it'll fail all future edits that include that section. [[User:Madned|Madned]] ([[User talk:Madned|talk]]) 17:21, 1 April 2013 (CDT)

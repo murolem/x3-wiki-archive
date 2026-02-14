@@ -1,3 +1,98 @@
-<!-- source file: index__q526554eaf929.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= Tenjin
+|Faction=Yaki
+|Class={{M3+class}}
+|Priceblock={{Priceblock|| 6145646}}
+|Minspeed=91
+|Maxspeed=182
+|Minaccel=16
+|Maxaccel=33
+|Minsteer=13.3
+|Maxsteer=23.9
+|Hull= 8750 / 17500 (AP)
+|Maxshield=25 MJ
+|Shieldslots=3
+|Maxshieldstrength=75
+|Shieldreactor= 1350
+|Cargoclass=M
+|Mincargo=155
+|Maxcargo=285
+|Lasercap=8250
+|Laserrecharge=215
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=9
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+Surprisingly quick, and with a very heavyweight punch, the Tenjin is a match for any opponent smaller than a capital ship despite skimping on defenses. It is the only other fighter class to even match the OTAS [[Venti]]'s massive 10 frontal weapons array. The Tenjin stats-wise mimics the [[Chimera]] in almost every way; the differences being brandishing a slightly more powerful shield reactor, a slightly reduced cargo bay, having turrets mounted on its side arcs instead of its front and aft arcs, and the addition of one more gun mount in the front for the former craft.
 
-{{Infobox open}} {{Infobox variant |Variant= Tenjin |Faction=Yaki |Class={{M3+class}} |Priceblock={{Priceblock|| 6145646}} |Minspeed=91 |Maxspeed=182 |Minaccel=16 |Maxaccel=33 |Minsteer=13.3 |Maxsteer=23.9 |Hull= 8750 / 17500 (AP) |Maxshield=25 MJ |Shieldslots=3 |Maxshieldstrength=75 |Shieldreactor= 1350 |Cargoclass=M |Mincargo=155 |Maxcargo=285 |Lasercap=8250 |Laserrecharge=215 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=9 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Right |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== Surprisingly quick, and with a very heavyweight punch, the Tenjin is a match for any opponent smaller than a capital ship despite skimping on defenses. It is the only other fighter class to even match the OTAS [[Venti]]'s massive 10 frontal weapons array. The Tenjin stats-wise mimics the [[Chimera]] in almost every way; the differences being brandishing a slightly more powerful shield reactor, a slightly reduced cargo bay, having turrets mounted on its side arcs instead of its front and aft arcs, and the addition of one more gun mount in the front for the former craft. ==Background== Seeing some shortcomings in the Susanowa's overall combat capabilities, the Yaki developed the Tenjin, which trades a little agility for stronger shields and firepower. ==Physical Characteristics== This ship is unique because it has side turrets which can bear 180 degrees (they both can cover 360 degrees). This means the turrets can help with frontal targets and protect against targets coming from aft. It also looks like a fighter jet. == Combat == Unlike the slow, lightly armed and poorly shielded designs typical of pirate ships, this M3 goes against the grain and this is proven to be a powerful fighter which balances speed and firepower. With great turret arcs and a mighty 9-gun forward array boasting awesome weapon compatibility, it is more than a match for most other Commonwealth ships in its class. Quick, agile and powerful, the Tenjin has very versatile loadouts: it can use many specialist weapons, like the [[Mass Driver]], [[Pulsed Beam Emitter]] and [[Plasma Burst Generator]]. Its turrets give it good defensive and offensive capabilities due to PAC compatibility, and its speed allows it to dogfight effectively. It is, however, quite fragile to send out in swarms as a carrier fighter. Best as a personal or small-wing ship. == Equipment == == Availability == Can be purchased from the Yaki shipyard in [[Senator's Badlands]]. == Suggested Roles== Due to its high cost, the Tenjin is best suited to the role of player ship or a small-wing specialist fighter. == See Also== {{M3+}} {{Yaki Navbox}}
+==Background==
+Seeing some shortcomings in the Susanowa's overall combat capabilities, the Yaki developed the Tenjin, which trades a little agility for stronger shields and firepower.
+
+==Physical Characteristics==
+This ship is unique because it has side turrets which can bear 180 degrees (they both can cover 360 degrees). This means the turrets can help with frontal targets and protect against targets coming from aft. It also looks like a fighter jet.
+
+== Combat ==
+Unlike the slow, lightly armed and poorly shielded designs typical of pirate ships, this M3 goes against the grain and this is proven to be a powerful fighter which balances speed and firepower. With great turret arcs and a mighty 9-gun forward array boasting awesome weapon compatibility, it is more than a match for most other Commonwealth ships in its class.
+
+Quick, agile and powerful, the Tenjin has very versatile loadouts: it can use many specialist weapons, like the [[Mass Driver]], [[Pulsed Beam Emitter]] and [[Plasma Burst Generator]]. Its turrets give it good defensive and offensive capabilities due to PAC compatibility, and its speed allows it to dogfight effectively. It is, however, quite fragile to send out in swarms as a carrier fighter. Best as a personal or small-wing ship.
+
+== Equipment ==
+== Availability ==
+Can be purchased from the Yaki shipyard in [[Senator's Badlands]].
+
+== Suggested Roles==
+Due to its high cost, the Tenjin is best suited to the role of player ship or a small-wing specialist fighter.
+
+== See Also==
+
+{{M3+}}
+
+{{Yaki Navbox}}

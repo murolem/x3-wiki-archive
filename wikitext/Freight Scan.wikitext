@@ -1,3 +1,17 @@
-<!-- source file: index__q708be16117db.html -->
+A [[Missions#Other Mission|Mission]] offered at [[stations]].
 
-A [[Missions#Other Mission|Mission]] offered at [[stations]]. ==Objective== Scan as many ships as possible for contraband or valuable wares. You have to be within 4 km of a ship to scan it. ==General Difficulty:== Easy - but make sure you have a Police Licence for that race, unless you are taking a pirate scan mission. With pirate scan missions, some ships you scan will drop their goods, while others may turn hostile. ==What you will need: == * [[M4]]/[[M5]] with [[Freight Scanner]], decent tuning and Police Licence (for non-pirate sectors). ==Commentary and Strategy== Just scan everything you can find in the sector. You will receive a % worth of the illegal goods you find, but even if you don't you will get paid for each ship scanned. If you do a pirate scan mission, it is essentially the same, but you get paid a much lower % however instead of just receiving money for illegal goods, you get paid for all (or so they claim) the goods you scanned. {{Missions}}
+==Objective==
+Scan as many ships as possible for contraband or valuable wares. You have to be within 4 km of a ship to scan it.
+
+==General Difficulty:==
+Easy - but make sure you have a Police Licence for that race, unless you are taking a pirate scan mission. With pirate scan missions, some ships you scan will drop their goods, while others may turn hostile.
+
+==What you will need: ==
+
+* [[M4]]/[[M5]] with [[Freight Scanner]], decent tuning and Police Licence (for non-pirate sectors).
+
+==Commentary and Strategy==
+Just scan everything you can find in the sector. You will receive a % worth of the illegal goods you find, but even if you don't you will get paid for each ship scanned. If you do a pirate scan mission, it is essentially the same, but you get paid a much lower % however instead of just receiving money for illegal goods, you get paid for all (or so they claim) the goods you scanned.
+
+
+{{Missions}}

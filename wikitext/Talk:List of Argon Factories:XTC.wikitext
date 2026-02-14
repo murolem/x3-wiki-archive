@@ -1,3 +1,121 @@
-<!-- source file: index__q95662090f97e.html -->
+this list is incomplete.<br>
+from http://x3tc.tinkinit.com/stations/list
 
-this list is incomplete.&lt;br> from http://x3tc.tinkinit.com/stations/list the space jewelry entry seems to be in error though. cross referencing vs. http://home.wolfsburg.de/kprohrbeck/eng/data/x3-tc-u-k.html {| |[[Advanced Satellite Factory]] |- |[[Ammunition Factory]] |- |[[Argon Equipment Dock]] |- |[[Cahoona Bakery]] |- |[[Cattle Ranch]] |- |[[Chip Plant]] |- |[[Cluster Flak Array Forge]] |- |[[Computer Plant]] |- |[[Concussion Impulse Generator Forge]] |- |[[Crystal Fab]] |- |[[Drone Factory]] |- |[[Drone Production Facility]] |- |[[Dumbfire Missile Production Complex]] |- |[[Federal Argon Installation]] |- |[[Federal Argon Shipyard]] |- |[[Flail Missile Production Facility]] |- |[[Free Argon Trading Station]] |- |[[Hammer Torpedo Fabrication Facility]] |- |[[Heavy shield Production Complex]] |- |[[Heavy Weapons Complex]] |- |[[High Energy Plasma Thrower Forge]] |- |[[High Yield Production Complex]] |- |[[Image Recognition Production Complex]] |- |[[Impulse Ray Emitter Forge]] |- |[[Jonferco Headquarters]] |- |[[Lasertower Factory]] |- |[[Light shield Production Complex]] |- |[[Light Weapons Complex]] |- |[[Low-yield Sidearms Fab]] |- |[[Mass Driver Forge]] |- |[[Medium shield Production Complex]] |- |[[Medium Weapons Complex]] |- |[[Military Base]] |- |[[Military Outpost]] |- |[[Ore Mine]] |- |[[OTAS HQ]] |- |[[OTAS Shipyard]] |- |[[Particle Accelerator Cannon Forge]] |- |[[Phased Repeater Gun Forge]] |- |[[Photon Pulse Cannon Forge]] |- |[[Plutarch Mining Corporation HQ]] |- |[[Quantum Tube Fab]] |- |[[Rimes Fact]] |- |[[Satellite Factory]] |- |[[Seeker Missile Production Complex]] |- |[[Silicon Mine]] |- |[[Solar Power Plant]] |- |[[Space Fuel Distillery]] |- |[[Space Jewellery]] |- |[[Special Weapons Production Complex]] |- |[[Swarm Missile Production Complex]] |- |[[Terracorp HQ]] |- |[[Tomahawk Missile Manufacturing Plant]] |- |[[Weapon Component Factory]] |- |[[Wheat Farm]] |} [[User:Madned|Madned]] 18:40, 26 July 2010 (UTC) nice with the table and data x3fan [[User:Madned|Madned]] 19:00, 14 September 2010 (CDT)
+the space jewelry entry seems to be in error though. cross referencing vs. http://home.wolfsburg.de/kprohrbeck/eng/data/x3-tc-u-k.html
+
+
+
+{|
+|[[Advanced Satellite Factory]]
+|-
+|[[Ammunition Factory]]
+|-
+|[[Argon Equipment Dock]]
+|-
+|[[Cahoona Bakery]]
+|-
+|[[Cattle Ranch]]
+|-
+|[[Chip Plant]]
+|-
+|[[Cluster Flak Array Forge]]
+|-
+|[[Computer Plant]]
+|-
+|[[Concussion Impulse Generator Forge]]
+|-
+|[[Crystal Fab]]
+|-
+|[[Drone Factory]]
+|-
+|[[Drone Production Facility]]
+|-
+|[[Dumbfire Missile Production Complex]]
+|-
+|[[Federal Argon Installation]]
+|-
+|[[Federal Argon Shipyard]]
+|-
+|[[Flail Missile Production Facility]]
+|-
+|[[Free Argon Trading Station]]
+|-
+|[[Hammer Torpedo Fabrication Facility]]
+|-
+|[[Heavy shield Production Complex]]
+|-
+|[[Heavy Weapons Complex]]
+|-
+|[[High Energy Plasma Thrower Forge]]
+|-
+|[[High Yield Production Complex]]
+|-
+|[[Image Recognition Production Complex]]
+|-
+|[[Impulse Ray Emitter Forge]]
+|-
+|[[Jonferco Headquarters]]
+|-
+|[[Lasertower Factory]]
+|-
+|[[Light shield Production Complex]]
+|-
+|[[Light Weapons Complex]]
+|-
+|[[Low-yield Sidearms Fab]]
+|-
+|[[Mass Driver Forge]]
+|-
+|[[Medium shield Production Complex]]
+|-
+|[[Medium Weapons Complex]]
+|-
+|[[Military Base]]
+|-
+|[[Military Outpost]]
+|-
+|[[Ore Mine]]
+|-
+|[[OTAS HQ]]
+|-
+|[[OTAS Shipyard]]
+|-
+|[[Particle Accelerator Cannon Forge]]
+|-
+|[[Phased Repeater Gun Forge]]
+|-
+|[[Photon Pulse Cannon Forge]]
+|-
+|[[Plutarch Mining Corporation HQ]]
+|-
+|[[Quantum Tube Fab]]
+|-
+|[[Rimes Fact]]
+|-
+|[[Satellite Factory]]
+|-
+|[[Seeker Missile Production Complex]]
+|-
+|[[Silicon Mine]]
+|-
+|[[Solar Power Plant]]
+|-
+|[[Space Fuel Distillery]]
+|-
+|[[Space Jewellery]]
+|-
+|[[Special Weapons Production Complex]]
+|-
+|[[Swarm Missile Production Complex]]
+|-
+|[[Terracorp HQ]]
+|-
+|[[Tomahawk Missile Manufacturing Plant]]
+|-
+|[[Weapon Component Factory]]
+|-
+|[[Wheat Farm]]
+|}
+[[User:Madned|Madned]] 18:40, 26 July 2010 (UTC)
+
+nice with the table and data x3fan [[User:Madned|Madned]] 19:00, 14 September 2010 (CDT)

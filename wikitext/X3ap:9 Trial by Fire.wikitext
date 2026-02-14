@@ -1,3 +1,15 @@
-<!-- source file: index__q8af9aa687fec.html -->
+Questline: [[x3ap_quests | X3:AP Quests]]
 
-Questline: [[x3ap_quests | X3:AP Quests]] Clear out the Terrans in aid of the war effort. # Fly to war sectors # Patrol ===Completion Rewards=== (?) {{MoveBox|X3ap:8_Plutarch_Rising|X3ap:10 Uncovered}}
+
+Clear out the Terrans in aid of the war effort.
+
+# Fly to war sectors
+# Patrol
+
+
+===Completion Rewards===
+
+(?)
+
+
+{{MoveBox|X3ap:8_Plutarch_Rising|X3ap:10 Uncovered}}

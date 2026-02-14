@@ -1,3 +1,41 @@
-<!-- source file: index__q4cc2b093c4da.html -->
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Image Recognition Production Complex
+|hull=1000000
+|shield=9
+|generator=
+|hangar=5
+|cycle=
+|productnum=[[Mosquito Missile]]<br>[[Silkworm Missile]]
+|stationprice=
+|reqresources=[[Energy Cells]] ()<br>[[Ore]] ()<br>[[Silicon Wafers]] ()<br>[[Food]] by Race
+|optresources=[[Cloth Rimes]]<br>[[Warheads]]
+}}
+{{Infobox close}}
+==Overview==
+An image recognition production complex is actually the complexing of two or more missile factories.<br>
 
-{{Infobox open}} {{Infobox factory |faction= |station=Image Recognition Production Complex |hull=1000000 |shield=9 |generator= |hangar=5 |cycle= |productnum=[[Mosquito Missile]]&lt;br>[[Silkworm Missile]] |stationprice= |reqresources=[[Energy Cells]] ()&lt;br>[[Ore]] ()&lt;br>[[Silicon Wafers]] ()&lt;br>[[Food]] by Race |optresources=[[Cloth Rimes]]&lt;br>[[Warheads]] }} {{Infobox close}} ==Overview== An image recognition production complex is actually the complexing of two or more missile factories.&lt;br> {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |+ |-style="background-color:LightGray;text-align:center;" !Race!!Food!!Amount!!Station Cost |- style="{{Colour/Argon}}" | [[Argon]] || [[Meatsteak Cahoonas]] || 160 || {{Priceblock|Trusted Ally|649240}} |- style="{{Colour/Boron}}" | [[Boron]] || [[BoFu]] || 40 ||{{Priceblock|Queen's Guard|649240}} |- style="{{Colour/Paranid}}" | [[Paranid]] || [[Soja Husk]] || 32 ||{{Priceblock|Friend of Priest King|649240}} |- style="{{Colour/Split}}" | [[Split]] || [[Rastar Oil]] || 24 ||{{Priceblock|Distinguished Associate|649240}} |- style="{{Colour/Teladi}}" | [[Teladi]] || [[Nostrop Oil]] || 160 || {{Priceblock|Majority Shareholder|649240}} |} ==Factories== Possible Constituent Factories: *[[Silkworm Missile Factory]] *[[Mosquito Missile Factory]] {{Stationcategory}}
+
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|+
+|-style="background-color:LightGray;text-align:center;"
+!Race!!Food!!Amount!!Station Cost
+|- style="{{Colour/Argon}}"
+| [[Argon]] || [[Meatsteak Cahoonas]] || 160 || {{Priceblock|Trusted Ally|649240}}
+|- style="{{Colour/Boron}}"
+| [[Boron]] || [[BoFu]] || 40 ||{{Priceblock|Queen's Guard|649240}}
+|- style="{{Colour/Paranid}}"
+| [[Paranid]] || [[Soja Husk]] || 32 ||{{Priceblock|Friend of Priest King|649240}}
+|- style="{{Colour/Split}}"
+| [[Split]] || [[Rastar Oil]] || 24 ||{{Priceblock|Distinguished Associate|649240}}
+|- style="{{Colour/Teladi}}"
+| [[Teladi]] || [[Nostrop Oil]] || 160 || {{Priceblock|Majority Shareholder|649240}}
+|}
+
+==Factories==
+Possible Constituent Factories:
+*[[Silkworm Missile Factory]]
+*[[Mosquito Missile Factory]]
+
+{{Stationcategory}}

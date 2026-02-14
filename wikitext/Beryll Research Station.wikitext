@@ -1,3 +1,3 @@
-<!-- source file: index__q4ad72925d8a9.html -->
+"Not much is known about this station. Ties between the Beryll syndicate and Argon Government have been rumoured although there has been no official confirmation. That said, there has also been no official denial."
 
-"Not much is known about this station. Ties between the Beryll syndicate and Argon Government have been rumoured although there has been no official confirmation. That said, there has also been no official denial." The research station is found in the {{X3ap}} quest [[x3ap:7 The Beryll | The Beryll]].
+The research station is found in the {{X3ap}} quest [[x3ap:7 The Beryll | The Beryll]].

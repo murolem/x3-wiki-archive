@@ -1,3 +1,21 @@
-<!-- source file: index__q08a2f420e487.html -->
+{{Infobox Sector
+|Race=Pirate
+|SecLevel=Border
+|Population=96,334,094
+|Planets=3
+|SunLevel=100
+|GateDist=90
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|South|-10500|	0|	-22099|[[Olmancketslat's Treaty]]}}
+{{Gateblock2|West|-24724|	3656|	-12687|[[Farnham's Legend]]}}
+</table>
+}}
+==Description==
+===Encyclopedia Entry===
+Deep in unclaimed space, this system is little more than a long-established and well-respected ambush. Rogue [[Teladi]] and [[Argon]] stations provide cover for aggressive [[Pirate]] strike forces. A single, cratered moon holds the wrecks of many of the ships disabled, stripped and left to fall to its surface by freebooters, hullcutters and privateers.
+==Default [[Stations]]==
 
-{{Infobox Sector |Race=Pirate |SecLevel=Border |Population=96,334,094 |Planets=3 |SunLevel=100 |GateDist=90 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|South|-10500| 0| -22099|[[Olmancketslat's Treaty]]}} {{Gateblock2|West|-24724| 3656| -12687|[[Farnham's Legend]]}} &lt;/table> }} ==Description== ===Encyclopedia Entry=== Deep in unclaimed space, this system is little more than a long-established and well-respected ambush. Rogue [[Teladi]] and [[Argon]] stations provide cover for aggressive [[Pirate]] strike forces. A single, cratered moon holds the wrecks of many of the ships disabled, stripped and left to fall to its surface by freebooters, hullcutters and privateers. ==Default [[Stations]]== ==[[Asteroids]]== {{Pirates Navbox}}
+==[[Asteroids]]==
+
+{{Pirates Navbox}}

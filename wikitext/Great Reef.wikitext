@@ -1,3 +1,68 @@
-<!-- source file: index__qf620c9b7ad29.html -->
+{{Infobox Sector
+|Race=Boron
+|SecLevel=Core
+|Population=43,299,833
+|Planets=3
+|SunLevel=150
+|GateDist=60
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|0|30000|[[Reservoir of Tranquillity]]}}
+{{Gateblock2|South|-4000|0|-42000|[[Mists of Elysium]]}}
+{{Gateblock2|West|-41000|0|-1000|[[Shining Currents]]}}
+{{Gateblock/End}}
+}}
+==Description==
+This sector holds a major settlement recently set up by the Boron, a construction colony base on ship production. The system is named for the nebula that is located nearby. The colony itself has facilities for both families and the military, with municipal recreation domes containing restaurants, water-parks and marinas.
 
-{{Infobox Sector |Race=Boron |SecLevel=Core |Population=43,299,833 |Planets=3 |SunLevel=150 |GateDist=60 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0|0|30000|[[Reservoir of Tranquillity]]}} {{Gateblock2|South|-4000|0|-42000|[[Mists of Elysium]]}} {{Gateblock2|West|-41000|0|-1000|[[Shining Currents]]}} {{Gateblock/End}} }} ==Description== This sector holds a major settlement recently set up by the Boron, a construction colony base on ship production. The system is named for the nebula that is located nearby. The colony itself has facilities for both families and the military, with municipal recreation domes containing restaurants, water-parks and marinas. ==Shipyard Availability== {{Shipyard/Begin|Station|ST Size|Cost}} {{Shipyard/Station|Weapon Component Factory||12000|655,732}} {{Shipyard/Station|Photon Pulse Cannon Forge||23500|12,265,940}} {{Shipyard/Station|Ion Disruptor Forge||13500|10,461,836}} {{Shipyard/Station|Plankton Farm|L|13500|799,992}} {{Shipyard/Station|Bio Gas Factory|M|11000|224,636}} {{Shipyard/Station|Stott Mixery|M|12500|1,103,708}} {{Shipyard/Station|Stott Mixery|L|18750|2,483,340}} {{Shipyard/Station|BoFu Chemical Lab|L|15000|2,024,976}} {{Shipyard/Station|Solar Power Plant|L|15750|9,904,140}} {{Shipyard/Station|Ore Mine|M|8000|439,972}} {{Shipyard/Station|Silicon Mine|L|14250|1,402,356}} {{Shipyard/Station|Complex Construction Kit||4250|259,698}} {{Shipyard/End}} {{Shipyard/Begin|Ship|Class|Cost}} {{Shipyard/Ship1|Orca|TL|22,344,668}} {{Shipyard/Ship1|Dolphin|TS|258,606}} {{Shipyard/Ship1|Manta|TP|471,902}} {{Shipyard/Ship1|Pleco|TM|462,558}} {{Shipyard/Ship1|Shark|M1|61,790,791}} {{Shipyard/Ship1|Ray|M2|86,438,545}} {{Shipyard/Ship2|Barracuda|Raider|M3|2,223,411}} {{Shipyard/Ship1|Skate|M3+|5,171,351}} {{Shipyard/Ship1|Mako|M4|376,268}} {{Shipyard/Ship1|Pike|M4+|797,068}} {{Shipyard/Ship1|Octopus|M5|54,512}} {{Shipyard/Ship1|Hydra|M6|8,766,030}} {{Shipyard/Ship1|Thresher|M7|38,206,712}} {{Shipyard/End}} ==Default [[Stations]]== *[[Royal Boron Shipyard]] *[[Boron Equipment Dock]] ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|36|-25752|1046|4884}} {{Asteroid/Item|Ore|26|-17316|4680|-1332}} {{Asteroid/Item|Ore|24|-10656|5563|-10212}} {{Asteroid/Item|Ore|22|-4884|6469|-7992}} {{Asteroid/Item|Ore|22|4440|9141|-19536}} {{Asteroid/Item|Ore|18|1332|7104|-12876}} {{Asteroid/Item|Ore|16|10212|11877|-15096}} {{Asteroid/Item|Ore|16|2220|8289|-23976}} {{Asteroid/Item|Ore|14|-2220|7849|-20424}} {{Asteroid/Item|Silicon|36|26640|-12862|-21756}} {{Asteroid/End}} == See Also == {{Boron Navbox}}
+==Shipyard Availability==
+{{Shipyard/Begin|Station|ST Size|Cost}}
+{{Shipyard/Station|Weapon Component Factory||12000|655,732}}
+{{Shipyard/Station|Photon Pulse Cannon Forge||23500|12,265,940}}
+{{Shipyard/Station|Ion Disruptor Forge||13500|10,461,836}}
+{{Shipyard/Station|Plankton Farm|L|13500|799,992}}
+{{Shipyard/Station|Bio Gas Factory|M|11000|224,636}}
+{{Shipyard/Station|Stott Mixery|M|12500|1,103,708}}
+{{Shipyard/Station|Stott Mixery|L|18750|2,483,340}}
+{{Shipyard/Station|BoFu Chemical Lab|L|15000|2,024,976}}
+{{Shipyard/Station|Solar Power Plant|L|15750|9,904,140}}
+{{Shipyard/Station|Ore Mine|M|8000|439,972}}
+{{Shipyard/Station|Silicon Mine|L|14250|1,402,356}}
+{{Shipyard/Station|Complex Construction Kit||4250|259,698}}
+{{Shipyard/End}}
+{{Shipyard/Begin|Ship|Class|Cost}}
+{{Shipyard/Ship1|Orca|TL|22,344,668}}
+{{Shipyard/Ship1|Dolphin|TS|258,606}}
+{{Shipyard/Ship1|Manta|TP|471,902}}
+{{Shipyard/Ship1|Pleco|TM|462,558}}
+{{Shipyard/Ship1|Shark|M1|61,790,791}}
+{{Shipyard/Ship1|Ray|M2|86,438,545}}
+{{Shipyard/Ship2|Barracuda|Raider|M3|2,223,411}}
+{{Shipyard/Ship1|Skate|M3+|5,171,351}}
+{{Shipyard/Ship1|Mako|M4|376,268}}
+{{Shipyard/Ship1|Pike|M4+|797,068}}
+{{Shipyard/Ship1|Octopus|M5|54,512}}
+{{Shipyard/Ship1|Hydra|M6|8,766,030}}
+{{Shipyard/Ship1|Thresher|M7|38,206,712}}
+{{Shipyard/End}}
+
+==Default [[Stations]]==
+*[[Royal Boron Shipyard]]
+*[[Boron Equipment Dock]]
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|36|-25752|1046|4884}}
+{{Asteroid/Item|Ore|26|-17316|4680|-1332}}
+{{Asteroid/Item|Ore|24|-10656|5563|-10212}}
+{{Asteroid/Item|Ore|22|-4884|6469|-7992}}
+{{Asteroid/Item|Ore|22|4440|9141|-19536}}
+{{Asteroid/Item|Ore|18|1332|7104|-12876}}
+{{Asteroid/Item|Ore|16|10212|11877|-15096}}
+{{Asteroid/Item|Ore|16|2220|8289|-23976}}
+{{Asteroid/Item|Ore|14|-2220|7849|-20424}}
+{{Asteroid/Item|Silicon|36|26640|-12862|-21756}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Boron Navbox}}

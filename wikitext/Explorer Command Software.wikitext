@@ -1,3 +1,44 @@
-<!-- source file: index__q70f622201980.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Explorer Command Software
+|cargoclass= -
+|volume=1
+|minprice=2919
+|aveprice=2948
+|maxprice=2977
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+The Explorer software was designed by Teladi deep space researchers to enable remote entry and exploration of potentially hostile sectors without risking a pilot's life. Manned research vessels usually follow after the sector has proved to be safe.
 
-{{Infobox open}} {{Infobox ware |ware= Explorer Command Software |cargoclass= - |volume=1 |minprice=2919 |aveprice=2948 |maxprice=2977 }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== The Explorer software was designed by Teladi deep space researchers to enable remote entry and exploration of potentially hostile sectors without risking a pilot's life. Manned research vessels usually follow after the sector has proved to be safe. ===Available Commands=== &lt;onlyinclude> ====Explorer Command Software==== *Deploy Satellite Network *Fly Through Gate... *Map Sector... *Scan Asteroids &lt;/onlyinclude> ==Commentary== Equipping a fast ship, such as the Kestrel, will allow you to quickly and autonomously map a sector and scan all its asteroids. ==Trading information== {| ! Sold by; !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *Teladi Equipment Docks | *Not Applicable | *Not Applicable | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}} ==See Also== *[[Autopilot]] [[Category:Command Software]]
+===Available Commands===
+<onlyinclude>
+====Explorer Command Software====
+*Deploy Satellite Network
+*Fly Through Gate...
+*Map Sector...
+*Scan Asteroids
+</onlyinclude>
+
+==Commentary==
+Equipping a fast ship, such as the Kestrel, will allow you to quickly and autonomously map a sector and scan all its asteroids.
+
+==Trading information==
+{|
+! Sold by; !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*Teladi Equipment Docks
+|
+*Not Applicable
+|
+*Not Applicable
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}
+
+{{Warecategory}}
+==See Also==
+*[[Autopilot]]
+[[Category:Command Software]]

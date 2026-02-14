@@ -1,3 +1,76 @@
-<!-- source file: index__qddbfc386155a.html -->
+{{see also|List of Popular Mods}}
+{{stub}}
 
-{{see also|List of Popular Mods}} {{stub}} A "Bonus Pack" has been released for each version of x3 - [[Reunion]], [[Terran Conflict]] and [[Albion Prelude]]. It contains a selection of user-submitted [[Scripts &amp; Mods|Scripts]] that [[egosoft]] found both useful, and well made enough to officially endorse and redistribute. They are available for download from the [{{linky}}egosoft.com Egosoft Website]. ==Installation== ''(As of 17&lt;sup>th&lt;/sup> July, 2013)'' The Bonus Packs are released primarily as .exe files, and so while the scripts are 100% compatible with the Linux Distributions of the game, the .exe file will not run as it does not detect the game installation. There are two known ways to get the Bonus Pack installed under Linux - one is to copy the files from a Windows installation of the game, after extracting them. The other is to use a programme like [{{linky}}https://github.com/dscharrer/InnoExtract InnoExtract]. As with all [[Scripts]] for x3, it becomes a case of simply putting them in the correct folders within your x3 Installation - e.g. in Linux the default location would be: "''~/.steam/steam/SteamApps/common/x3 Terran Conflict/addon/scripts/''" and "''.../addon/t''" ==x3: Albion Prelude== [{{linky}}egosoft.com/download/x3ap/bonus_en.php Official Download Page] ===Contents=== *[[Commercial Agent]] *[[Commodity Logistics Software]] MK1 *Commodity Logistics Software MK2 *[[Dockware Manager]] *Hephaistos Corp. [[Station Building Service]] *[[Missile Defense Mosquito]] *[[Turbo Boost]] *[[Mk3 Blacklist Manager]] *[[Satellite Early Warning Network]] *Turret On/Off Hotkey ==x3: Terran Conflict== [{{linky}}egosoft.com/download/x3tc/bonus_en.php Official Download Page] ===Contents=== *Commercial Agent *Commodity Logistics Software MK1 *Commodity Logistics Software MK2 *Dockware Manager *Missile Defense Mosquito *Turbo Boost &lt;hr> ==x3: Reunion== [{{linky}}egosoft.com/download/x3/bonus_en.php Official Download Page] ===Contents=== *Afterburner *Attack Rocks *new* *Cartel Capture Passengers *new* *Cartel Shield Hacker *Collect Astronauts *new* *Commercial Agent *Commodity Logistics Software MK1 *Commodity Logistics Software MK2 *Defend Position *new* *Dock Ware Manager *Explorer Software *Fleet Support Ship Software *Group Management System *Group Hotkeys *Manual Trade Commands *Missile Defense Mosquito *Mobile Mining / Mineral Collection Software *new* *Remote Transporter Device *Scrap Ship at Player HQ *Station Manager == See Also == *[{{linky}}forum.egosoft.com/viewtopic.php?p=3773803 Bonus Pack Thread] - Egosoft Forums *[[Scripts &amp; Mods]] [[Category:Bonus Package]]
+A "Bonus Pack" has been released for each version of x3 - [[Reunion]], [[Terran Conflict]] and [[Albion Prelude]].
+
+It contains a selection of user-submitted [[Scripts & Mods|Scripts]] that [[egosoft]] found both useful, and well made enough to officially endorse and redistribute.
+
+
+They are available for download from the [{{linky}}egosoft.com Egosoft Website].
+
+
+==Installation==
+''(As of 17<sup>th</sup> July, 2013)''
+
+The Bonus Packs are released primarily as .exe files, and so while the scripts are 100% compatible with the Linux Distributions of the game, the .exe file will not run as it does not detect the game installation.
+
+There are two known ways to get the Bonus Pack installed under Linux - one is to copy the files from a Windows installation of the game, after extracting them. The other is to use a programme like [{{linky}}https://github.com/dscharrer/InnoExtract InnoExtract].
+
+As with all [[Scripts]] for x3, it becomes a case of simply putting them in the correct folders within your x3 Installation - e.g. in Linux the default location would be:
+
+"''~/.steam/steam/SteamApps/common/x3 Terran Conflict/addon/scripts/''" and "''.../addon/t''"
+
+==x3: Albion Prelude==
+[{{linky}}egosoft.com/download/x3ap/bonus_en.php Official Download Page]
+===Contents===
+*[[Commercial Agent]]
+*[[Commodity Logistics Software]] MK1
+*Commodity Logistics Software MK2
+*[[Dockware Manager]]
+*Hephaistos Corp. [[Station Building Service]]
+*[[Missile Defense Mosquito]]
+*[[Turbo Boost]]
+*[[Mk3 Blacklist Manager]]
+*[[Satellite Early Warning Network]]
+*Turret On/Off Hotkey
+
+==x3: Terran Conflict==
+[{{linky}}egosoft.com/download/x3tc/bonus_en.php Official Download Page]
+===Contents===
+*Commercial Agent
+*Commodity Logistics Software MK1
+*Commodity Logistics Software MK2
+*Dockware Manager
+*Missile Defense Mosquito
+*Turbo Boost
+<hr>
+==x3: Reunion==
+[{{linky}}egosoft.com/download/x3/bonus_en.php Official Download Page]
+===Contents===
+*Afterburner
+*Attack Rocks *new*
+*Cartel Capture Passengers *new*
+*Cartel Shield Hacker
+*Collect Astronauts *new*
+*Commercial Agent
+*Commodity Logistics Software MK1
+*Commodity Logistics Software MK2
+*Defend Position *new*
+*Dock Ware Manager
+*Explorer Software
+*Fleet Support Ship Software
+*Group Management System
+*Group Hotkeys
+*Manual Trade Commands
+*Missile Defense Mosquito
+*Mobile Mining / Mineral Collection Software *new*
+*Remote Transporter Device
+*Scrap Ship at Player HQ
+*Station Manager
+
+== See Also ==
+*[{{linky}}forum.egosoft.com/viewtopic.php?p=3773803 Bonus Pack Thread] - Egosoft Forums
+*[[Scripts & Mods]]
+
+
+[[Category:Bonus Package]]

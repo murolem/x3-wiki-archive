@@ -1,3 +1,44 @@
-<!-- source file: index__q223e11766cb7.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Phased Array Laser Cannon
+|hulldam=7000
+|shielddam=9400
+|range=6.37
+|rof= 147
+|shotspeed= 2561
+|maxweapenergy= 2000
+|shotcost=278
+}}
+{{Infobox ware
+|ware=Phased Array Laser Cannon
+|cargoclass=L
+|volume=32
+|minprice=608622
+|aveprice=654432
+|maxprice=700242
+}}
+{{Infobox close}}
+==Overview==
+The PALC is a special beam weapon that is of very limited availability.
 
-{{Infobox open}} {{Infobox weapon |weapon=Phased Array Laser Cannon |hulldam=7000 |shielddam=9400 |range=6.37 |rof= 147 |shotspeed= 2561 |maxweapenergy= 2000 |shotcost=278 }} {{Infobox ware |ware=Phased Array Laser Cannon |cargoclass=L |volume=32 |minprice=608622 |aveprice=654432 |maxprice=700242 }} {{Infobox close}} ==Overview== The PALC is a special beam weapon that is of very limited availability. ==Encyclopedia Entry== A deadly weapon found on most frigates, destroyers and carriers. This weapon is used for fighter defense. The Phased Array Laser Cannon uses an array of quickly-positionable mirrors to rapidly concentrate energy into a cohesive laser beam. The speed with which new targets can be engaged makes this an effective anti-fighter weapon. This enviable ability comes at the cost of doing less damage than similar beam weapons. ==Commentary== A reasonably powerful beam weapon compatible with a few [[Split]] battleships. It is unusual in that its beams linger for a short period after firing, allowing for damage to be stacked between beams. It is best used for fighting corvettes, due to its unreliability at hitting fighters. It has a negligible energy drain, but damage in line with that of corvette level weaponry, a range similar to that of the [[Photon Pulse Cannon|PPC]] and, of course, an insta-hit capability. The PALC is very effective as an anti-missile screen, usually missiles are destroyed as soon as they come into range of the weapon. It is fairly common to see a hostile capital ship launch a heavy torpedo, only to have it to vaporize their entire fighter wing a second later — quite entertaining. ==Known Compatible Ships== *Split [[Tiger]] *Split [[Panther]] *Split [[Pteranodon]] *Goner [[Truelight Seeker]] ==Available at Known Docks== This weapon can not be found at any station, or on any ship in the Vanilla game. The only way to acquire this weapon is to find it on one of the first missions in the Final Fury plotline, where there are two PALC that can be collected floating in space. On occasion, PALC drop from Pirate, Yaki, and Xenon capital ships. In AP 3.0, there are a few hidden during a particular point in the [[Shady Business]] plot. They can also be found as a rarer loot drop from Pirate and Xenon M7 ships and larger. [[Q|Xenon Q]] in Unknown Sectors reached via [[Unfocused Jump Drive]] sometimes carry a few which provides an unlimited if time-consuming means of supply. [[Category:Not Purchasable]]
+==Encyclopedia Entry==
+A deadly weapon found on most frigates, destroyers and carriers.
+
+This weapon is used for fighter defense. The Phased Array Laser Cannon uses an array of quickly-positionable mirrors to rapidly concentrate energy into a cohesive laser beam. The speed with which new targets can be engaged makes this an effective anti-fighter weapon. This enviable ability comes at the cost of doing less damage than similar beam weapons.
+==Commentary==
+A reasonably powerful beam weapon compatible with a few [[Split]] battleships. It is unusual in that its beams linger for a short period after firing, allowing for damage to be stacked between beams. It is best used for fighting corvettes, due to its unreliability at hitting fighters. It has a negligible energy drain, but damage in line with that of corvette level weaponry, a range similar to that of the [[Photon Pulse Cannon|PPC]] and, of course, an insta-hit capability.
+
+The PALC is very effective as an anti-missile screen, usually missiles are destroyed as soon as they come into range of the weapon. It is fairly common to see a hostile capital ship launch a heavy torpedo, only to have it to vaporize their entire fighter wing a second later — quite entertaining.
+
+==Known Compatible Ships==
+*Split [[Tiger]]
+*Split [[Panther]]
+*Split [[Pteranodon]]
+*Goner [[Truelight Seeker]]
+
+==Available at Known Docks==
+This weapon can not be found at any station, or on any ship in the Vanilla game. The only way to acquire this weapon is to find it on one of the first missions in the Final Fury plotline, where there are two PALC that can be collected floating in space.  On occasion, PALC drop from Pirate, Yaki, and Xenon capital ships.
+
+In AP 3.0, there are a few hidden during a particular point in the [[Shady Business]] plot.  They can also be found as a rarer loot drop from Pirate and Xenon M7 ships and larger. [[Q|Xenon Q]] in Unknown Sectors reached via [[Unfocused Jump Drive]] sometimes carry a few which provides an unlimited if time-consuming means of supply.
+
+[[Category:Not Purchasable]]

@@ -1,3 +1,31 @@
-<!-- source file: index__q3bfc381831bd.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Tracker Mine Factory
+|hull=
+|shield=
+|generator=
+|hangar=
+|cycle=00:00:00
+|productnum=[[Tracker Mine]] ()
+|stationprice=
+|reqresources=[[Energy Cells]] ()<br>[[Ore]] ()<br>[[Food]] by Race
+|optresources=[[Microchips]]<br>[[Warheads]]
+}}
+{{Infobox close}}
+==Overview==
+Should make [[Tracker Mine]]s.
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction= |station=Tracker Mine Factory |hull= |shield= |generator= |hangar= |cycle=00:00:00 |productnum=[[Tracker Mine]] () |stationprice= |reqresources=[[Energy Cells]] ()&lt;br>[[Ore]] ()&lt;br>[[Food]] by Race |optresources=[[Microchips]]&lt;br>[[Warheads]] }} {{Infobox close}} ==Overview== Should make [[Tracker Mine]]s. '''Note:''' As it stands, Tracker Mines do not track and appear to function exactly the same as regular SQUASH mines. ===Encyclopedia Entry=== ==Availability== {| style="text-align:left;" |- valign="top" | |} {{Stationcategory}} {{stub}}
+'''Note:''' As it stands, Tracker Mines do not track and appear to function exactly the same as regular SQUASH mines.
+
+===Encyclopedia Entry===
+
+==Availability==
+{| style="text-align:left;"
+|- valign="top"
+| 
+|}
+
+{{Stationcategory}}
+{{stub}}

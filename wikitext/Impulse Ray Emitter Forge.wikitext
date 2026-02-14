@@ -1,3 +1,73 @@
-<!-- source file: index__q8552ff0dafb1.html -->
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Impulse Ray Emitter Forge
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:01:36
+|productnum=[[Impulse Ray Emitter]] (1)
+|stationprice=
+|reqresources=[[Energy Cells]] (24)<br>[[Ore]] (4)<br>[[Food]] by race
+|optresources=[[Crystals]]
+}}
 
-{{Infobox open}} {{Infobox factory |faction= |station=Impulse Ray Emitter Forge |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:01:36 |productnum=[[Impulse Ray Emitter]] (1) |stationprice= |reqresources=[[Energy Cells]] (24)&lt;br>[[Ore]] (4)&lt;br>[[Food]] by race |optresources=[[Crystals]] }} {{Infobox factory |faction= |station=[[Split]] Impulse Ray Emitter Forge |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:08:00 |productnum=[[Impulse Ray Emitter]] (5) |stationprice= |reqresources=[[Energy Cells]] (120)&lt;br>[[Ore]] (20)&lt;br> [[Rastar Oil]] (12) |optresources=[[Crystals]] }} {{Infobox close}} ==Overview== Impulse Ray Emitter Forges produce the [[Impulse Ray Emitter]] from [[Energy Cells]], [[Ore]] and [[Food]]. NPC stations will buy [[Crystals]] as a secondary resource. [[Split]] Impulse Ray Emitter Forges differ from their [[Argon]], [[Boron]] and [[Teladi]] counterparts to be slightly less efficient. ===Encyclopedia Entry=== This production complex manufactures Impulse Ray Emitters. ==Race-specific attributes== {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |-style="background-color:LightGrey;text-align:center;" !Race!!Food!!Amount!!Station Cost |- style="{{Colour/Argon}}" | [[Argon]] || [[Meatsteak Cahoonas]] || 16 || {{Priceblock|Trusted Ally|2721090}} |- style="{{Colour/Boron}}" | [[Boron]] || [[BoFu]] || 20 || {{Priceblock|Queen's Guard|2572804}} |- style="{{Colour/Split}}" | [[Split]] || [[Rastar Oil]] || 12 ||{{Priceblock|Distinguished Associate|2362061}} |- style="{{Colour/Teladi}}" | [[Teladi]] || [[Nostrop Oil]] || 16 || {{Priceblock|Majority Shareholder|2565792}} |} ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Argon#Shipyards|Argon]]''' *{{sa|Omicron Lyrae}} | '''[[Boron#Shipyards|Boron]]''' *{{sa|Kingdom End}} | '''[[Split#Shipyards|Split]]''' *{{sa|Family Pride}} *{{sa|Rhonkar's Might}} *{{sa|Zyarth's Dominion}} *{{sa|Rhonkar's Trial}} *{{sa|Family Rhy}} *{{sa|Patriarch's Conclusion}} | '''[[Teladi#Shipyards|Teladi]]''' *{{sa|Ceo's Sprite}} *{{sa|Ianamus Zura}} |} {{Stationcategory}}
+{{Infobox factory
+|faction=
+|station=[[Split]] Impulse Ray Emitter Forge
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:08:00
+|productnum=[[Impulse Ray Emitter]] (5)
+|stationprice=
+|reqresources=[[Energy Cells]] (120)<br>[[Ore]] (20)<br> [[Rastar Oil]] (12)
+|optresources=[[Crystals]]
+}}
+{{Infobox close}}
+==Overview==
+Impulse Ray Emitter Forges produce the [[Impulse Ray Emitter]] from [[Energy Cells]], [[Ore]] and [[Food]]. 
+
+NPC stations will buy [[Crystals]] as a secondary resource.
+
+[[Split]] Impulse Ray Emitter Forges differ from their [[Argon]], [[Boron]] and [[Teladi]] counterparts to be slightly less efficient.
+
+===Encyclopedia Entry===
+This production complex manufactures Impulse Ray Emitters.
+ 
+==Race-specific attributes==
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|-style="background-color:LightGrey;text-align:center;"
+!Race!!Food!!Amount!!Station Cost
+|- style="{{Colour/Argon}}"
+| [[Argon]] || [[Meatsteak Cahoonas]] || 16 || {{Priceblock|Trusted Ally|2721090}}
+|- style="{{Colour/Boron}}"
+| [[Boron]] || [[BoFu]] || 20 || {{Priceblock|Queen's Guard|2572804}}
+|- style="{{Colour/Split}}"
+| [[Split]] || [[Rastar Oil]] || 12 ||{{Priceblock|Distinguished Associate|2362061}}
+|- style="{{Colour/Teladi}}"
+| [[Teladi]] || [[Nostrop Oil]] || 16 || {{Priceblock|Majority Shareholder|2565792}}
+|}
+
+==Availability==
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Argon#Shipyards|Argon]]'''
+*{{sa|Omicron Lyrae}}
+| '''[[Boron#Shipyards|Boron]]'''
+*{{sa|Kingdom End}}
+| '''[[Split#Shipyards|Split]]'''
+*{{sa|Family Pride}}
+*{{sa|Rhonkar's Might}}
+*{{sa|Zyarth's Dominion}}
+*{{sa|Rhonkar's Trial}}
+*{{sa|Family Rhy}}
+*{{sa|Patriarch's Conclusion}}
+| '''[[Teladi#Shipyards|Teladi]]'''
+*{{sa|Ceo's Sprite}}
+*{{sa|Ianamus Zura}}
+|}
+
+{{Stationcategory}}

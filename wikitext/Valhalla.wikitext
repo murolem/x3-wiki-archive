@@ -1,3 +1,154 @@
-<!-- source file: index__qad1df99bde15.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= Valhalla
+|Faction=ATF
+|Class=<small>In-game:</small> {{M2+class}} <br/> <small>Canonically:</small> {{M0class}}
+|Priceblock={{Priceblock|| 211978121}}
+|Minspeed= 15
+|Maxspeed= 30
+|Minaccel= 4
+|Maxaccel= 8
+|Minsteer= 0.3
+|Maxsteer= 0.6
+|Hull= 8,000,000
+|Maxshield=2 GJ
+|Shieldslots=7
+|Maxshieldstrength=14000
+|Shieldreactor= 18000
+|Cargoclass=XL
+|Mincargo= 8500
+|Maxcargo= 12500
+|Lasercap= 500000
+|Laserrecharge= 9,995
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=8
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=1|psp=1|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=12
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=1|psp=1|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=10
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=1|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=12
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=1|psp=1|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Top
+|Guncount=12
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=1|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Bottom
+|Guncount=12
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=1|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay={{Dockbay|50 [[M3+]]-[[M5]]<br>10 [[TS]] [[TP]] [[TM]] [[M8]] or [[M6]]}}
+}}
+{{Infobox close}}
+==Overview==
+The mighty '''Valhalla''' is [[Non-Vanilla Ships|not available in a vanilla game]], but present in the game files.  This behemoth is canonically the flagship of the [[ATF]], boasting large weapon arrays, spacious hangars and massive shields. It is also one of the largest craft in the game, being too wide to fit through gates. It is obviously unfinished, as there are also some turret placement and targeting bugs in its design. Its hangar can accommodate [[M6|Medium-sized]] ships, a trait shared by the [[Aran]], [[Ozias]] and several [[M7C]] class ships..
 
-{{Infobox open}} {{Infobox variant |Variant= Valhalla |Faction=ATF |Class=&lt;small>In-game:&lt;/small> {{M2+class}} &lt;br/> &lt;small>Canonically:&lt;/small> {{M0class}} |Priceblock={{Priceblock|| 211978121}} |Minspeed= 15 |Maxspeed= 30 |Minaccel= 4 |Maxaccel= 8 |Minsteer= 0.3 |Maxsteer= 0.6 |Hull= 8,000,000 |Maxshield=2 GJ |Shieldslots=7 |Maxshieldstrength=14000 |Shieldreactor= 18000 |Cargoclass=XL |Mincargo= 8500 |Maxcargo= 12500 |Lasercap= 500000 |Laserrecharge= 9,995 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=8 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=1|psp=1| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Right |Guncount=12 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=1|psp=1| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Rear |Guncount=10 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=1|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Left |Guncount=12 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=1|psp=1| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Top |Guncount=12 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=1|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Bottom |Guncount=12 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=1|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay={{Dockbay|50 [[M3+]]-[[M5]]&lt;br>10 [[TS]] [[TP]] [[TM]] [[M8]] or [[M6]]}} }} {{Infobox close}} ==Overview== The mighty '''Valhalla''' is [[Non-Vanilla Ships|not available in a vanilla game]], but present in the game files. This behemoth is canonically the flagship of the [[ATF]], boasting large weapon arrays, spacious hangars and massive shields. It is also one of the largest craft in the game, being too wide to fit through gates. It is obviously unfinished, as there are also some turret placement and targeting bugs in its design. Its hangar can accommodate [[M6|Medium-sized]] ships, a trait shared by the [[Aran]], [[Ozias]] and several [[M7C]] class ships.. In the literature, the Valhalla is classified as an {{M0class}}, but as there is no actual M0 classification in ''[[X3: Terran Conflict]]'', it appears in-game as an {{M2class}}. ==Background== The Valhalla is the AGI Task Force's flagship and mobile command centre. Nothing moves in Terran space without the Valhalla knowing, and nothing strikes more fear into the hearts of Earth's enemies than the possibility of having the Valhalla appear on their doorstep. ==Physical Characteristics== The Valhalla is a long, broad, spiky ship, painted gunmetal gray. == Combat == The Valhalla mounts more total guns than any other ship in the game, mounts the toughest shields in the game, and only the [[Raptor|Split Raptor]] can field more fighters. While the Valhalla's cargobay is cavernous, filling every gun slot with PSPs and SSCs leaves relatively less space for fighter resupply, but it carries 10 docking ports for TS or M7/8 class ships, allowing enormous versatility. The Valhalla is incredibly slow, and so cannot chase down rampaging M7s in a sector, but it can carry up to 10 M6 or M8s, which can be deployed to fire their devastating payloads and then re-dock on the Valhalla for protection. With some pre-planning, the Valhalla is a fleet unto itself. == Equipment == ;[[Missiles]] *[[Mosquito Missile]] *[[Wraith Missile]] *[[Poltergeist Missile]] *[[Spectre Missile]] == Availability == The Valhalla is present in Terran Conflict's game files, but never spawns. It is seen rarely in (and ''only'' in) war sectors in Albion Prelude. It can be reverse engineered at the player HQ, taking 5 days and 20 hs to complete. But it can't be built at the Commonwealth player HQ, because its cargo hold is 200K units smaller than the Terran's, and the materials needed won't fit. == Suggested Roles== The Valhalla is unique in that it combines the firepower of a heavy [[M2]] such as the [[Tyr]] or [[Osaka]] with the fighter capacity of an {{M1class}} like the [[Argon]] [[Colossus]]. In addition, its ability to project M6 and M8 power means it combines the raw destructive long-range power of an M7M as well. == See Also== *{{M0class}} **[[Aran|Goner Aran]] **[[Deca|Terraformer #deca]] {{M2+}} {{M0category}} {{M2+category}} {{ATF Navbox}}
+In the literature, the Valhalla is classified as an {{M0class}}, but as there is no actual M0 classification in ''[[X3: Terran Conflict]]'', it appears in-game as an {{M2class}}.
+
+==Background==
+The Valhalla is the AGI Task Force's flagship and mobile command centre. Nothing moves in Terran space without the Valhalla knowing, and nothing strikes more fear into the hearts of Earth's enemies than the possibility of having the Valhalla appear on their doorstep.
+==Physical Characteristics==
+The Valhalla is a long, broad, spiky ship, painted gunmetal gray.
+
+== Combat ==
+The Valhalla mounts more total guns than any other ship in the game, mounts the toughest shields in the game, and only the [[Raptor|Split Raptor]] can field more fighters. While the Valhalla's cargobay is cavernous, filling every gun slot with PSPs and SSCs leaves relatively less space for fighter resupply, but it carries 10 docking ports for TS or M7/8 class ships, allowing enormous versatility.  The Valhalla is incredibly slow, and so cannot chase down rampaging M7s in a sector, but it can carry up to 10 M6 or M8s, which can be deployed to fire their devastating payloads and then re-dock on the Valhalla for protection.  With some pre-planning, the Valhalla is a fleet unto itself.
+
+== Equipment ==
+;[[Missiles]]
+*[[Mosquito Missile]]
+*[[Wraith Missile]]
+*[[Poltergeist Missile]]
+*[[Spectre Missile]]
+
+== Availability ==
+The Valhalla is present in Terran Conflict's game files, but never spawns. It is seen rarely in (and ''only'' in) war sectors in Albion Prelude.
+It can be reverse engineered at the player HQ, taking 5 days and 20 hs to complete. But it can't be built at the Commonwealth player HQ, because its cargo hold is 200K units smaller than the Terran's, and the materials needed won't fit.
+
+== Suggested Roles==
+The Valhalla is unique in that it combines the firepower of a heavy [[M2]] such as the [[Tyr]] or [[Osaka]] with the fighter capacity of an {{M1class}} like the [[Argon]] [[Colossus]].  In addition, its ability to project M6 and M8 power means it combines the raw destructive long-range power of an M7M as well.
+
+== See Also==
+*{{M0class}}
+**[[Aran|Goner Aran]]
+**[[Deca|Terraformer #deca]]
+{{M2+}}
+
+
+{{M0category}}
+{{M2+category}}
+{{ATF Navbox}}

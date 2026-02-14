@@ -1,3 +1,52 @@
-<!-- source file: index__qf0065999dd44.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox basicstation
+|faction=Teladi
+|station=Stock Exchange
+|hull=
+|shield=
+|generator=
+|hangar=
+|stationprice=
+}}
+{{Infobox close}}
 
-__NOTOC__ {{Infobox open}} {{Infobox basicstation |faction=Teladi |station=Stock Exchange |hull= |shield= |generator= |hangar= |stationprice= }} {{Infobox close}} Teladi Trade Officals will grand access to Teladi Stock Exchanges upon paying a modest administration fee of 10,000 Cr. Each station requires a separate payment. There are stock exchanges located in [[Seizewell]] and [[Ministry of Finance]]. The Seizewell station buys or sells the following: *[[Computer Components]] *[[Fighter Drone]] *[[Microchips]] *[[Nostrop Oil]] *[[Space Weed]] *[[SQUASH Mine]] *[[Teladianium]] Upgrades at this station are: *[[Cargo Bay Extension]] *[[Engine Tuning]] *[[Rudder Optimisation]] *[[Teladi Company Security License]] *[[Singularity Engine Time Accelerator]] The Ministry of Finance station buys or sells the following: *[[Crystals]] *[[Nostrop Oil]] *[[Space Weed]] *[[SQUASH Mine]] *[[Teladianium]] *[[Warheads]] Upgrades at this station are: *[[Cargo Bay Extension]] *[[Engine Tuning]] *[[Rudder Optimisation]] *[[Teladi Company Security License]] *[[Singularity Engine Time Accelerator]] {{Stationcategory}}
+Teladi Trade Officals will grand access to Teladi Stock Exchanges upon paying a modest administration fee of 10,000 Cr. Each station requires a separate payment.
+
+There are stock exchanges located in [[Seizewell]] and [[Ministry of Finance]].
+
+
+The Seizewell station buys or sells the following:
+
+*[[Computer Components]]
+*[[Fighter Drone]]
+*[[Microchips]]
+*[[Nostrop Oil]]
+*[[Space Weed]]
+*[[SQUASH Mine]]
+*[[Teladianium]]
+
+
+Upgrades at this station are:
+*[[Cargo Bay Extension]]
+*[[Engine Tuning]]
+*[[Rudder Optimisation]]
+*[[Teladi Company Security License]]
+*[[Singularity Engine Time Accelerator]]
+
+The Ministry of Finance station buys or sells the following:
+*[[Crystals]]
+*[[Nostrop Oil]]
+*[[Space Weed]]
+*[[SQUASH Mine]]
+*[[Teladianium]]
+*[[Warheads]]
+
+Upgrades at this station are:
+*[[Cargo Bay Extension]]
+*[[Engine Tuning]]
+*[[Rudder Optimisation]]
+*[[Teladi Company Security License]]
+*[[Singularity Engine Time Accelerator]]
+
+{{Stationcategory}}

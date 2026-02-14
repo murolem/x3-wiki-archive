@@ -1,3 +1,1 @@
-<!-- source file: index__q7eb941728ddc.html -->
-
-&lt;includeonly>[[Category:TP]][[Category:Boarding Ship]][[Category:Transport]]&lt;/includeonly>&lt;noinclude>Sets categories for TP ships{{Shipcategorytool}}&lt;/noinclude>
+<includeonly>[[Category:TP]][[Category:Boarding Ship]][[Category:Transport]]</includeonly><noinclude>Sets categories for TP ships{{Shipcategorytool}}</noinclude>

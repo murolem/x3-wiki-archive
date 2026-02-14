@@ -1,3 +1,83 @@
-<!-- source file: index__q13976ffa1621.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Solar Power Plant XL
+|hull=20000000
+|shield=11
+|generator=
+|hangar=
+|cycle=03:35
+|productnum=[[Energy Cells]] (5530)
+|stationprice=
+|reqresources=[[Crystals]](40)
+}}
+{{Infobox factory
+|faction=
+|station=Solar Power Plant L
+|hull=
+|shield=
+|generator=
+|hangar=
+|cycle=
+|productnum=[[Energy Cells]] (2765)
+|stationprice=
+|reqresources=[[Crystals]]()
+}}
+{{Infobox factory
+|faction=
+|station=Solar Power Plant M
+|hull=400,000
+|shield=8,000 MJ
+|generator=
+|hangar=
+|cycle=00:03:35
+|productnum=[[Energy Cells]] (1106)
+|stationprice=
+|reqresources=[[Crystals]](8)
+}}
+{{Infobox close}}
+==Overview==
+Aldrin version of Solar Power Plant.
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction= |station=Solar Power Plant XL |hull=20000000 |shield=11 |generator= |hangar= |cycle=03:35 |productnum=[[Energy Cells]] (5530) |stationprice= |reqresources=[[Crystals]](40) }} {{Infobox factory |faction= |station=Solar Power Plant L |hull= |shield= |generator= |hangar= |cycle= |productnum=[[Energy Cells]] (2765) |stationprice= |reqresources=[[Crystals]]() }} {{Infobox factory |faction= |station=Solar Power Plant M |hull=400,000 |shield=8,000 MJ |generator= |hangar= |cycle=00:03:35 |productnum=[[Energy Cells]] (1106) |stationprice= |reqresources=[[Crystals]](8) }} {{Infobox close}} ==Overview== Aldrin version of Solar Power Plant. Solar Power Plants produce [[Energy Cells]], the basis of the X universe economy. They require [[Crystals]] to accomplish their task. NPC plants buy Crystals as a secondary resource only, and do not require them to produce energy. This provides an uninterruptable stream of Energy Cells, ensuring that the X-Universe economy is unable to run down and collapse. ===Encyclopedia Entry=== Solar Power plants produce Energy. They are found everywhere in the known universe and are operated and controlled by all races. ==Availability== Currently listing of ALL shipyards, please delete non-applicable shipyards. ===XL-type=== {| style="text-align:left;" |- valign="top" | '''[[Terran]]''' *{{sa|Mars}} *{{sa|Saturn}} *{{sa|The Moon}} *{{sa|Terran Unknown Sector 1}} |} ===L-type=== {| style="text-align:left;" |- valign="top" | '''[[Terran]]''' *{{sa|Mars}} *{{sa|Saturn}} *{{sa|The Moon}} *{{sa|Terran Unknown Sector 1}} |} ===M-type=== {| style="text-align:left;" |- valign="top" | '''[[Terran]]''' *{{sa|Mars}} *{{sa|Saturn}} *{{sa|The Moon}} *{{sa|Terran Unknown Sector 1}} |} {{Stationcategory}}
+Solar Power Plants produce [[Energy Cells]], the basis of the X universe economy. They require [[Crystals]] to accomplish their task.
+
+NPC plants buy Crystals as a secondary resource only, and do not require them to produce energy. This provides an uninterruptable stream of Energy Cells, ensuring that the X-Universe economy is unable to run down and collapse.
+
+===Encyclopedia Entry===
+Solar Power plants produce Energy. They are found everywhere in the known universe and are operated and controlled by all races.
+
+==Availability==
+Currently listing of ALL shipyards, please delete non-applicable shipyards.
+===XL-type===
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Terran]]'''
+*{{sa|Mars}} 
+*{{sa|Saturn}} 
+*{{sa|The Moon}} 
+*{{sa|Terran Unknown Sector 1}}
+|}
+
+===L-type===
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Terran]]'''
+*{{sa|Mars}} 
+*{{sa|Saturn}} 
+*{{sa|The Moon}} 
+*{{sa|Terran Unknown Sector 1}}
+|}
+
+===M-type===
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Terran]]'''
+*{{sa|Mars}} 
+*{{sa|Saturn}} 
+*{{sa|The Moon}} 
+*{{sa|Terran Unknown Sector 1}}
+|}
+
+
+{{Stationcategory}}

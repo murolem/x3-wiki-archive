@@ -1,3 +1,34 @@
-<!-- source file: index__q1975125754d1.html -->
+{{Infobox Sector
+|Race=Paranid
+|SecLevel=Core
+|Population=8,690,046
+|Planets=1
+|SunLevel=150
+|GateDist=45
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|East|36785|	-4800|	10400|[[Priest's Pity]]}}
+{{Gateblock2|South|0|	4800|	-36785|[[Duke's Domain]]}}
+{{Gateblock2|West|-36785|	0|	0|[[Paranid Prime]]}}
+</table>
+}}
+==Description==
+===Encyclopedia Entry===
+Although this system is primarily concerned with agricultural production, the factories in this system make it a prime target for raiding or sabotage. The stormy ringed planet that dominates this system is currently being terraformed by the [[Paranid]] for inhabitation in the near future.
 
-{{Infobox Sector |Race=Paranid |SecLevel=Core |Population=8,690,046 |Planets=1 |SunLevel=150 |GateDist=45 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|East|36785| -4800| 10400|[[Priest's Pity]]}} {{Gateblock2|South|0| 4800| -36785|[[Duke's Domain]]}} {{Gateblock2|West|-36785| 0| 0|[[Paranid Prime]]}} &lt;/table> }} ==Description== ===Encyclopedia Entry=== Although this system is primarily concerned with agricultural production, the factories in this system make it a prime target for raiding or sabotage. The stormy ringed planet that dominates this system is currently being terraformed by the [[Paranid]] for inhabitation in the near future. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|19|-5615|2312|32358}} {{Asteroid/Item|Silicon|8|-11620|-5509|25610}} {{Asteroid/Item|Silicon|5|-10898|10432|30980}} {{Asteroid/Item|Silicon|4|-17477|-10359|32155}} {{Asteroid/Item|Silicon|3|-3472|-1363|22392}} {{Asteroid/End}} == See Also == {{Paranid Navbox}}
+
+==Default [[Stations]]==
+
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|19|-5615|2312|32358}}
+{{Asteroid/Item|Silicon|8|-11620|-5509|25610}}
+{{Asteroid/Item|Silicon|5|-10898|10432|30980}}
+{{Asteroid/Item|Silicon|4|-17477|-10359|32155}}
+{{Asteroid/Item|Silicon|3|-3472|-1363|22392}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Paranid Navbox}}

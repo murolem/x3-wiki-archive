@@ -1,3 +1,7 @@
-<!-- source file: index__q54aa1661e143.html -->
+Someone who knows how to format tables: The Cost column sorts as text, rather than a number. As a result, the ships that cost over 100 million are listed as having the lowest price, since 1 comes before 6,7,8,9. {{subst:unsigned|ZacQuicksilver}}
 
-Someone who knows how to format tables: The Cost column sorts as text, rather than a number. As a result, the ships that cost over 100 million are listed as having the lowest price, since 1 comes before 6,7,8,9. {{subst:unsigned|ZacQuicksilver}} good point. traditional solution is to start leading 0's [[User:Madned|Madned]] ([[User talk:Madned|talk]]) 17:41, 8 August 2012 (CDT) == Pteranodon == I've added a really basic description of the Pteranodon based on the last beta patch. I don't have access to a vanilla fresh install so if someone want to add the missing numbers it will be perfect.
+good point. traditional solution is to start leading 0's [[User:Madned|Madned]] ([[User talk:Madned|talk]]) 17:41, 8 August 2012 (CDT)
+
+== Pteranodon ==
+
+I've added a really basic description of the Pteranodon based on the last beta patch. I don't have access to a vanilla fresh install so if someone want to add the missing numbers it will be perfect.

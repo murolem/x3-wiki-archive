@@ -1,3 +1,207 @@
-<!-- source file: index__q75bc0c2abd55.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Chimera
+|Faction=Split
+|Class={{M3+class}}
+|Priceblock={{Priceblock|| 6226367}}
+|Minspeed=72.8
+|Maxspeed=182
+|Minaccel=15
+|Maxaccel=39
+|Minsteer=15.1
+|Maxsteer=37.7
+|Hull=10,000
+|Maxshield=25 MJ
+|Shieldslots=3
+|Maxshieldstrength=75
+|Shieldreactor= 1125
+|Cargoclass=L
+|Mincargo=140
+|Maxcargo=300
+|Lasercap=8750
+|Laserrecharge=219
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Back
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Front
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Enhanced Chimera
+|Faction=Split
+|Class={{M3+class}}
+|Priceblock={{Priceblock||5,981,115}}
+|Minspeed=65
+|Maxspeed=162.5
+|Minaccel=13
+|Maxaccel=32
+|Minsteer=17.5
+|Maxsteer=43.6
+|Hull=12500
+|Maxshield=25 MJ
+|Shieldslots=4
+|Maxshieldstrength=100
+|Shieldreactor= 1200
+|Cargoclass=L
+|Mincargo=140
+|Maxcargo=300
+|Lasercap=8750
+|Laserrecharge=219
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Back
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Front
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The '''Chimera''' possesses the usual [[Split]] ship characteristics of very high speed and weapon power at the expense of shield capacity. However, its shields are still strong enough to survive glancing blows even from anti-capital weapons, making this ship a very effective combat craft against just about any opponent.  The chief downside of this ship is its high price:  it is among the most expensive ships in an expensive class.
 
-{{Infobox open}} {{Infobox variant |Variant=Chimera |Faction=Split |Class={{M3+class}} |Priceblock={{Priceblock|| 6226367}} |Minspeed=72.8 |Maxspeed=182 |Minaccel=15 |Maxaccel=39 |Minsteer=15.1 |Maxsteer=37.7 |Hull=10,000 |Maxshield=25 MJ |Shieldslots=3 |Maxshieldstrength=75 |Shieldreactor= 1125 |Cargoclass=L |Mincargo=140 |Maxcargo=300 |Lasercap=8750 |Laserrecharge=219 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Back |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Front |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Enhanced Chimera |Faction=Split |Class={{M3+class}} |Priceblock={{Priceblock||5,981,115}} |Minspeed=65 |Maxspeed=162.5 |Minaccel=13 |Maxaccel=32 |Minsteer=17.5 |Maxsteer=43.6 |Hull=12500 |Maxshield=25 MJ |Shieldslots=4 |Maxshieldstrength=100 |Shieldreactor= 1200 |Cargoclass=L |Mincargo=140 |Maxcargo=300 |Lasercap=8750 |Laserrecharge=219 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Back |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Front |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }}&lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The '''Chimera''' possesses the usual [[Split]] ship characteristics of very high speed and weapon power at the expense of shield capacity. However, its shields are still strong enough to survive glancing blows even from anti-capital weapons, making this ship a very effective combat craft against just about any opponent. The chief downside of this ship is its high price: it is among the most expensive ships in an expensive class. ==Background== The Split Chimera was developed by Bala Gi Research Inc. following a successful tender to produce a ship that gave better long-range performance over the [[Mamba]]. Split defense experts view the Chimera as a logical step in delivering a heavy fighter with enhanced load-carrying capability and endurance. ==Variants== ===Chimera=== The basic version, available at most Split shipyards. ===Enhanced Chimera=== The Enhanced Chimera is not available in shipyards. It features an additional shield slot, a more robust shield generator, a more agile steering rate, and a stronger hull; all at the minor expense of speed and acceleration. ==Physical Characteristics== The Chimera's triangular, dagger-shaped fuselage is similar to that of its little brother the [[Mamba]]. Instead of fins, however, the Chimera has four wings in an X-shape. Its main lasers are mounted at the wingtips, giving it a surprisingly wide field of fire. == Combat == The Chimera is fast enough to dogfight, and given its weaker shielding is best used like a standard [[M3]] dogfighter. With its increased weapons power, especially with its [[Pulsed Beam Emitter|PBE]] compatibility, the Chimera will dominate most dogfights. It should be flown as you would a standard M3 or fast [[M4]], one of the characteristics that make it a very popular ship. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] | *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] | *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] *[[Aurora Missile]] | *[[Remote Guided Warhead]] *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] | *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == The standard Chimera can be purchased at [[Split Shipyard|Split shipyards]] in [[Cho's Defeat]], [[Family Njy]], [[Family Pride]], [[Family Rhy]], [[Family Tkr]], and [[Rhonkar's Might]]. The Enhanced Chimera is not available in shipyards. It is awarded to the player by the [[Strong Arms]] at rank 10. == Suggested Roles== For players with heavyweight financial backing, the Chimera is an excellent choice for carrier-based operations. One very effective [[Simulation Modelling|IS]] loadout is 4x[[HEPT]] on the fixed mounts and [[PBE|PBE's]] on the turrets set to Missile Defense. == See Also== *[[Mamba|Split Mamba]] {{M3+}} {{Split Navbox}}
+==Background==
+The Split Chimera was developed by Bala Gi Research Inc. following a successful tender to produce a ship that gave better long-range performance over the [[Mamba]]. Split defense experts view the Chimera as a logical step in delivering a heavy fighter with enhanced load-carrying capability and endurance.
+
+==Variants==
+===Chimera===
+The basic version, available at most Split shipyards.
+
+===Enhanced Chimera===
+The Enhanced Chimera is not available in shipyards.  It features an additional shield slot, a more robust shield generator, a more agile steering rate, and a stronger hull; all at the minor expense of speed and acceleration.
+
+==Physical Characteristics==
+The Chimera's triangular, dagger-shaped fuselage is similar to that of its little brother the [[Mamba]].  Instead of fins, however, the Chimera has four wings in an X-shape.  Its main lasers are mounted at the wingtips, giving it a surprisingly wide field of fire.
+
+== Combat ==
+The Chimera is fast enough to dogfight, and given its weaker shielding is best used like a standard [[M3]] dogfighter.  With its increased weapons power, especially with its [[Pulsed Beam Emitter|PBE]] compatibility, the Chimera will dominate most dogfights. It should be flown as you would a standard M3 or fast [[M4]], one of the characteristics that make it a very popular ship.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+|
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+|
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Aurora Missile]]
+|
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+|
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+
+== Availability ==
+The standard Chimera can be purchased at [[Split Shipyard|Split shipyards]] in [[Cho's Defeat]], [[Family Njy]], [[Family Pride]], [[Family Rhy]], [[Family Tkr]], and [[Rhonkar's Might]].
+
+The Enhanced Chimera is not available in shipyards.  It is awarded to the player by the [[Strong Arms]] at rank 10.
+
+== Suggested Roles==
+For players with heavyweight financial backing, the Chimera is an excellent choice for carrier-based operations.
+
+One very effective [[Simulation Modelling|IS]] loadout is 4x[[HEPT]] on the fixed mounts and [[PBE|PBE's]] on the turrets set to Missile Defense.
+
+== See Also==
+*[[Mamba|Split Mamba]]
+{{M3+}}
+
+
+{{Split Navbox}}

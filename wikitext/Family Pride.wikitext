@@ -1,3 +1,74 @@
-<!-- source file: index__qeebb62707a48.html -->
+{{Infobox Sector
+|Race=Split
+|SecLevel=Core
+|Population=501,372,614
+|Planets=3
+|SunLevel=100
+|GateDist=50
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|South|0|	0|	-31550|[[Rhonkar's Clouds]]}}
+{{Gateblock2|West|-31550|	0|	0|[[Thuruk's Pride]]}}
+</table>
+}}
+==Description==
+The home system of the [[Split]], Family Pride is a major resupply point for the Split military as well as having a bustling civilian commercial district. Its primary planet houses the HQ of the Council of All Families - the martial government that rules over Split affairs.
 
-{{Infobox Sector |Race=Split |SecLevel=Core |Population=501,372,614 |Planets=3 |SunLevel=100 |GateDist=50 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|South|0| 0| -31550|[[Rhonkar's Clouds]]}} {{Gateblock2|West|-31550| 0| 0|[[Thuruk's Pride]]}} &lt;/table> }} ==Description== The home system of the [[Split]], Family Pride is a major resupply point for the Split military as well as having a bustling civilian commercial district. Its primary planet houses the HQ of the Council of All Families - the martial government that rules over Split affairs. ==Shipyard Availability== The shipyard is modest and located on a prime corridor between Boron, Teladi and Argon Space. {{Shipyard/Begin|Station|ST Size|Cost}} {{Shipyard/Station|Split Trading Port||10000|29,215,752}} {{Shipyard/Station|Equipment Dock||9500|48,043,676}} {{Shipyard/Station|Advanced Drone Factory||14500|3,035,320}} {{Shipyard/Station|Ammunition Factory||12000|2,830,680}} {{Shipyard/Station|Chelt Space Aquarium|L|18750|592,496}} {{Shipyard/Station|Complex Construction Kit||4250|259,696}} {{Shipyard/Station|Impulse Ray Emitter Forge||15000|2,362,060}} {{Shipyard/Station|Low-yield sidearms Fab||15000|2,246,368}} {{Shipyard/Station|Massom Mill|L|16500|2,012,512}} {{Shipyard/Station|Ore Mine|L|12000|818,040}} {{Shipyard/Station|Rastar Refinery|M|13500|1,116,692}} {{Shipyard/Station|Satellite Factory||16500|967,364}} {{Shipyard/Station|Scruffin Farm|L|15000|799,992}} {{Shipyard/Station|Silicon Mine|M|9500|499,980}} {{Shipyard/Station|Silkworm Missile Factory||13000|3,012,468}} {{Shipyard/Station|Solar Power Plant|L|15750|12,124,536}} {{Shipyard/Station|Weapon Component Factory||12000|688,192}} {{Shipyard/End}} {{Shipyard/Begin|Ship|Class|Cost}} {{Shipyard/Ship|Elephant|Elephant|TL|17,415,102}} {{Shipyard/Ship|Caiman|Caiman|TS|226,319}} {{Shipyard/Ship|Caiman|Caiman Miner|TS|756,707}} {{Shipyard/Ship|Iguana|Iguana|TP|334,918}} {{Shipyard/Ship|Boa|Boa|TM|450,448}} {{Shipyard/Ship|Raptor|Raptor|M1|80,276,604}} {{Shipyard/Ship|Python|Python|M2|92,622,480}} {{Shipyard/Ship|Mamba|Mamba Raider|M3|2,408,263}} {{Shipyard/Ship|Chimera|Chimera|M3+|5,413,515}} {{Shipyard/Ship|Scorpion|Scorpion|M4|318,309}} {{Shipyard/Ship|Asp|Asp|M4+|696,165}} {{Shipyard/Ship|Jaguar|Jaguar Vanguard|M5|61,211}} {{Shipyard/Ship|Dragon|Dragon|M6|7,689,771}} {{Shipyard/Ship|Tiger|Tiger|M7|36,461,288}} {{Shipyard/End}} ==Default [[Stations]]== *[[Split Shipyard]] *[[Split Equipment Dock]] *[[Split Trading Port]] *[[Drone Factory]] alpha *[[Impulse Ray Emitter Forge]] alpha *[[Light Shield Production Complex]] alpha *[[Swarm Missile Production Complex]] alpha ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|5|3556|567|-4482}} {{Asteroid/Item|Silicon|5|10754|5544|3060}} {{Asteroid/Item|Silicon|4|14902|6466|22799}} {{Asteroid/Item|Silicon|4|26082|-6759|-22538}} {{Asteroid/End}} == See Also == {{Split Navbox}}
+==Shipyard Availability==
+The shipyard is modest and located on a prime corridor between Boron, Teladi and Argon Space.
+{{Shipyard/Begin|Station|ST Size|Cost}}
+{{Shipyard/Station|Split Trading Port||10000|29,215,752}}
+{{Shipyard/Station|Equipment Dock||9500|48,043,676}}
+{{Shipyard/Station|Advanced Drone Factory||14500|3,035,320}}
+{{Shipyard/Station|Ammunition Factory||12000|2,830,680}}
+{{Shipyard/Station|Chelt Space Aquarium|L|18750|592,496}}
+{{Shipyard/Station|Complex Construction Kit||4250|259,696}}
+{{Shipyard/Station|Impulse Ray Emitter Forge||15000|2,362,060}}
+{{Shipyard/Station|Low-yield sidearms Fab||15000|2,246,368}}
+{{Shipyard/Station|Massom Mill|L|16500|2,012,512}}
+{{Shipyard/Station|Ore Mine|L|12000|818,040}}
+{{Shipyard/Station|Rastar Refinery|M|13500|1,116,692}}
+{{Shipyard/Station|Satellite Factory||16500|967,364}}
+{{Shipyard/Station|Scruffin Farm|L|15000|799,992}}
+{{Shipyard/Station|Silicon Mine|M|9500|499,980}}
+{{Shipyard/Station|Silkworm Missile Factory||13000|3,012,468}}
+{{Shipyard/Station|Solar Power Plant|L|15750|12,124,536}}
+{{Shipyard/Station|Weapon Component Factory||12000|688,192}}
+{{Shipyard/End}}
+{{Shipyard/Begin|Ship|Class|Cost}}
+{{Shipyard/Ship|Elephant|Elephant|TL|17,415,102}}
+{{Shipyard/Ship|Caiman|Caiman|TS|226,319}}
+{{Shipyard/Ship|Caiman|Caiman Miner|TS|756,707}}
+{{Shipyard/Ship|Iguana|Iguana|TP|334,918}}
+{{Shipyard/Ship|Boa|Boa|TM|450,448}}
+{{Shipyard/Ship|Raptor|Raptor|M1|80,276,604}}
+{{Shipyard/Ship|Python|Python|M2|92,622,480}}
+{{Shipyard/Ship|Mamba|Mamba Raider|M3|2,408,263}}
+{{Shipyard/Ship|Chimera|Chimera|M3+|5,413,515}}
+{{Shipyard/Ship|Scorpion|Scorpion|M4|318,309}}
+{{Shipyard/Ship|Asp|Asp|M4+|696,165}}
+{{Shipyard/Ship|Jaguar|Jaguar Vanguard|M5|61,211}}
+{{Shipyard/Ship|Dragon|Dragon|M6|7,689,771}}
+{{Shipyard/Ship|Tiger|Tiger|M7|36,461,288}}
+{{Shipyard/End}}
+
+==Default [[Stations]]==
+*[[Split Shipyard]]
+*[[Split Equipment Dock]]
+*[[Split Trading Port]]
+*[[Drone Factory]] alpha
+*[[Impulse Ray Emitter Forge]] alpha
+*[[Light Shield Production Complex]] alpha
+*[[Swarm Missile Production Complex]] alpha
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|5|3556|567|-4482}}
+{{Asteroid/Item|Silicon|5|10754|5544|3060}}
+{{Asteroid/Item|Silicon|4|14902|6466|22799}}
+{{Asteroid/Item|Silicon|4|26082|-6759|-22538}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Split Navbox}}

@@ -1,3 +1,32 @@
-<!-- source file: index__q1154f57dc2a5.html -->
+{{Infobox Sector
+|Race=Teladi
+|SecLevel=Border
+|Population=84,115,749
+|Planets=3
+|SunLevel=150
+|GateDist=110
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|10500|	0|	55980|[[Two Grand]]}}
+{{Gateblock2|East|50730|	0|	9750|[[PTNI Headquarters]]}}
+{{Gateblock/End}}
+}}
+==Description==
+Situated between two uninhabitable dust planets this relatively new Teladi system produces raw materials as well as light weapons for military and exploration ships. This system is earmarked by the Profit Guild for priority expansion and investment.
 
-{{Infobox Sector |Race=Teladi |SecLevel=Border |Population=84,115,749 |Planets=3 |SunLevel=150 |GateDist=110 |Gates={{Gateblock/Begin}} {{Gateblock2|North|10500| 0| 55980|[[Two Grand]]}} {{Gateblock2|East|50730| 0| 9750|[[PTNI Headquarters]]}} {{Gateblock/End}} }} ==Description== Situated between two uninhabitable dust planets this relatively new Teladi system produces raw materials as well as light weapons for military and exploration ships. This system is earmarked by the Profit Guild for priority expansion and investment. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ice|17|25425|-433|-35040}} {{Asteroid/Item|Ore|3|2547|-137|2174}} {{Asteroid/Item|Silicon|33|11652|-10881|6325}} {{Asteroid/Item|Silicon|15|22114|3603|20178}} {{Asteroid/Item|Silicon|15|5554|11007|5483}} {{Asteroid/Item|Silicon|11|-445|-7590|12232}} {{Asteroid/Item|Silicon|10|5626|-7723|6555}} {{Asteroid/Item|Silicon|10|5626|-7723|6555}} {{Asteroid/End}} == See Also == {{Teladi Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ice|17|25425|-433|-35040}}
+{{Asteroid/Item|Ore|3|2547|-137|2174}}
+{{Asteroid/Item|Silicon|33|11652|-10881|6325}}
+{{Asteroid/Item|Silicon|15|22114|3603|20178}}
+{{Asteroid/Item|Silicon|15|5554|11007|5483}}
+{{Asteroid/Item|Silicon|11|-445|-7590|12232}}
+{{Asteroid/Item|Silicon|10|5626|-7723|6555}}
+{{Asteroid/Item|Silicon|10|5626|-7723|6555}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Teladi Navbox}}

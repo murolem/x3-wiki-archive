@@ -1,3 +1,34 @@
-<!-- source file: index__qec9c901b62ff.html -->
+{{Infobox Sector
+|Race=Argon
+|SecLevel=Border
+|Population=80,020,728
+|Planets=3
+|SunLevel=150
+|GateDist=60
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|	0|	30240|[[Wastelands]]}}
+{{Gateblock2|South|0|	0|	-30236|[[Sacred Relic]]}}
+{{Gateblock/End}}
+}}
+==Description==
+Interworlds is so called beacause of its strange arrangement of planets; two planets inhabit the system and create a bottleneck with the jump gate route. The entire system was only accessible via one lone gate when first discovered. Originally an agricultural colony built by the Argon to supply food supllies to rest of Argon Federation, Interworlds has expanded to include more high tech stations and products. It is also home to the 4th Argon Expeditionary Force, which is still looking for any new gate routes that can be used.
 
-{{Infobox Sector |Race=Argon |SecLevel=Border |Population=80,020,728 |Planets=3 |SunLevel=150 |GateDist=60 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0| 0| 30240|[[Wastelands]]}} {{Gateblock2|South|0| 0| -30236|[[Sacred Relic]]}} {{Gateblock/End}} }} ==Description== Interworlds is so called beacause of its strange arrangement of planets; two planets inhabit the system and create a bottleneck with the jump gate route. The entire system was only accessible via one lone gate when first discovered. Originally an agricultural colony built by the Argon to supply food supllies to rest of Argon Federation, Interworlds has expanded to include more high tech stations and products. It is also home to the 4th Argon Expeditionary Force, which is still looking for any new gate routes that can be used. ==Default [[Stations]]== *Argon Equipment Dock ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|30|-5328|0|12654}} {{Asteroid/Item|Ore|24|-15984|-1531|18648}} {{Asteroid/Item|Ore|24|18648|0|-9990}} {{Asteroid/Item|Ore|20|4789|-320|13017}} {{Asteroid/Item|Ore|20|4789|-320|13017}} {{Asteroid/Item|Ore|12|-13986|-6660|18648}} {{Asteroid/Item|Silicon|30|-11322|199|14652}} {{Asteroid/Item|Silicon|21|7992|0|-17982}} {{Asteroid/End}} == See Also == {{Argon Navbox}}
+==Default [[Stations]]==
+*Argon Equipment Dock
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|30|-5328|0|12654}}
+{{Asteroid/Item|Ore|24|-15984|-1531|18648}}
+{{Asteroid/Item|Ore|24|18648|0|-9990}}
+{{Asteroid/Item|Ore|20|4789|-320|13017}}
+{{Asteroid/Item|Ore|20|4789|-320|13017}}
+{{Asteroid/Item|Ore|12|-13986|-6660|18648}}
+{{Asteroid/Item|Silicon|30|-11322|199|14652}}
+{{Asteroid/Item|Silicon|21|7992|0|-17982}}
+{{Asteroid/End}}
+
+
+== See Also ==
+{{Argon Navbox}}

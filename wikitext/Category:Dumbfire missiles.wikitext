@@ -1,3 +1,4 @@
-<!-- source file: index__q7d2d34f6360a.html -->
+[[Missiles]] with no guidance systems at all. Preferring high volumes and dead-reckoning to hit targets.
 
-[[Missiles]] with no guidance systems at all. Preferring high volumes and dead-reckoning to hit targets. [[Category:Missiles by guidance type| Dumbfire missiles]]
+
+[[Category:Missiles by guidance type| Dumbfire missiles]]

@@ -1,3 +1,7 @@
-<!-- source file: index__qe26845161498.html -->
+==Overview==
+One of many [[Argon]] [[Stations]] devoted to Trading.
 
-==Overview== One of many [[Argon]] [[Stations]] devoted to Trading. ==Encyclopedia Entry== A typical Argon Space station used throughout the entire Argon federation territory. Developed by Argon over many years, these space stations provide the highest standards of both comfort and technology. Each station is fitted with bars, restaurants, casinos, holographic cinemas and accommodation. They are fine rest and recreation centres. Each space station is under the jurisdiction of the Argon Federation and is governed by an elected senator. He represents the station in the main Argon Senate. Pilots can expect friendly welcome. {{Stationcategory}}
+==Encyclopedia Entry==
+A typical Argon Space station used throughout the entire Argon federation territory. Developed by Argon over many years, these space stations provide the highest standards of both comfort and technology. Each station is fitted with bars, restaurants, casinos, holographic cinemas and accommodation. They are fine rest and recreation centres. Each space station is under the jurisdiction of the Argon Federation and is governed by an elected senator. He represents the station in the main Argon Senate. Pilots can expect friendly welcome.
+
+{{Stationcategory}}

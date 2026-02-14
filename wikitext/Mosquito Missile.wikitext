@@ -1,3 +1,27 @@
-<!-- source file: index__q3f857698cbab.html -->
+{{Infobox open}}
+{{Infobox missile|Missile=Mosquito Missile|Yield=200|Speed=590|Range=14.6|Cooldown=250|Seeker=Targetted|Submunitions=1|Fusing=Impact|Torpedoclass=|Guidance=Image-recognition|AoE=0}}
+{{Infobox missile|Missile=[Albion Prelude] Mosquito Missile|Yield=200|Speed=700|Range=14.6|Cooldown=250|Seeker=Targetted|Submunitions=1|Fusing=Impact|Torpedoclass=|Guidance=Image-recognition|AoE=0}}
+{{Infobox ware|ware=Mosquito Missile|cargoclass=S|volume=1|minprice=126|aveprice=168|maxprice=210}}
+{{Infobox close}}
+==Overview==
+The ubiquitous '''Mosquito Missile''' is the most commonly used light missile. While it is fast and has excellent [[Missiles#Overview|tracking]] ability, it deals only 200KJ worth of damage, which is pathetically weak by space combat standards; even the weakest of [[M5]]s can survive a few salvos of Mosquito fire. Thus, it is most commonly used for point-defense against [[Fighter Drone]]s or enemy missiles. It is the cheapest and most readily available missile in the game.
 
-{{Infobox open}} {{Infobox missile|Missile=Mosquito Missile|Yield=200|Speed=590|Range=14.6|Cooldown=250|Seeker=Targetted|Submunitions=1|Fusing=Impact|Torpedoclass=|Guidance=Image-recognition|AoE=0}} {{Infobox missile|Missile=[Albion Prelude] Mosquito Missile|Yield=200|Speed=700|Range=14.6|Cooldown=250|Seeker=Targetted|Submunitions=1|Fusing=Impact|Torpedoclass=|Guidance=Image-recognition|AoE=0}} {{Infobox ware|ware=Mosquito Missile|cargoclass=S|volume=1|minprice=126|aveprice=168|maxprice=210}} {{Infobox close}} ==Overview== The ubiquitous '''Mosquito Missile''' is the most commonly used light missile. While it is fast and has excellent [[Missiles#Overview|tracking]] ability, it deals only 200KJ worth of damage, which is pathetically weak by space combat standards; even the weakest of [[M5]]s can survive a few salvos of Mosquito fire. Thus, it is most commonly used for point-defense against [[Fighter Drone]]s or enemy missiles. It is the cheapest and most readily available missile in the game. As of Albion Prelude, this missile is usable by every ship in the game, even Terran ships and otherwise weaponless ships. Its speed was also improved, making it the fastest missile in that game, being slightly faster than the slightly more powerful [[Rapier Missile]]. ===Encyclopedia Entry=== The Mosquito Missile is the most commonly used light missile in space [combat]. The main purpose of this weapon is missile defence for crafts without [a] rear gun turret. [This missile is] excellent for destroying war drones. Because of this, most ships can use this missile. Note to readers: the in-game encyclopedia entry for the Mosquito contains grammatical errors. Betty says "combat" instead of the written "fight", and does not read the rest of the entry aloud. The entry has been preserved above with corrections for legibility. ==Commentary== Despite being virtually useless offensively except against basic fighter drones, the Mosquito Missile is found on almost all craft in player fleets for its defensive capabilities, mostly thanks to its use with the 'Mosquito Missile Defense' script, available as part of the official [[Bonus Pack]]. Using this defense [[script]], Mosquito Missiles will fire automatically at incoming warheads targeting the ship. They will also fire at missiles targeting nearby friendly ships if the "Mosquito Defense: Carrier" variant is used. Another useful application of the Mosquito is to fire one at a distant ship, frequently one faster than your own. This will anger the target and cause them to turn to face you. ==Availability== Mosquito missiles can be found readily at most equipment docks in the [[Commonwealth]]. Factories can be purchased at some [[Argon]], [[Boron]], and [[Teladi]] shipyards. [[Category:Commonwealth missiles]] [[Category:Image-recognition missiles]] [[Category:Small missiles]] {{Missile Navbox}}
+As of Albion Prelude, this missile is usable by every ship in the game, even Terran ships and otherwise weaponless ships. Its speed was also improved, making it the fastest missile in that game, being slightly faster than the slightly more powerful [[Rapier Missile]].
+
+===Encyclopedia Entry===
+The Mosquito Missile is the most commonly used light missile in space [combat]. The main purpose of this weapon is missile defence for crafts without [a] rear gun turret. [This missile is] excellent for destroying war drones. Because of this, most ships can use this missile.
+
+Note to readers: the in-game encyclopedia entry for the Mosquito contains grammatical errors. Betty says "combat" instead of the written "fight", and does not read the rest of the entry aloud. The entry has been preserved above with corrections for legibility.
+
+==Commentary==
+Despite being virtually useless offensively except against basic fighter drones, the Mosquito Missile is found on almost all craft in player fleets for its defensive capabilities, mostly thanks to its use with the 'Mosquito Missile Defense' script, available as part of the official [[Bonus Pack]]. Using this defense [[script]], Mosquito Missiles will fire automatically at incoming warheads targeting the ship. They will also fire at missiles targeting nearby friendly ships if the "Mosquito Defense: Carrier" variant is used.
+
+Another useful application of the Mosquito is to fire one at a distant ship, frequently one faster than your own. This will anger the target and cause them to turn to face you.
+
+==Availability==
+Mosquito missiles can be found readily at most equipment docks in the [[Commonwealth]].  Factories can be purchased at some [[Argon]], [[Boron]], and [[Teladi]] shipyards.
+
+[[Category:Commonwealth missiles]]
+[[Category:Image-recognition missiles]]
+[[Category:Small missiles]]
+{{Missile Navbox}}

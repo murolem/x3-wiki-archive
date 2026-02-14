@@ -1,3 +1,40 @@
-<!-- source file: index__qdb85c8e8dcf5.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Particle Accelerator Cannon
+|hulldam=748
+|shielddam=6000
+|range=1.92
+|rof= 314
+|shotspeed= 703
+|maxweapenergy=900 
+|shotcost=120
+}}
+{{Infobox ware
+|ware=Particle Accelerator Cannon
+|cargoclass=S
+|volume=3
+|minprice=34671
+|aveprice=38956
+|maxprice=43241
+}}
+{{Infobox close}}
+==Overview==
+The Particle Accelerator Cannon, or PAC, is a [[Commonwealth]] medium fighter weapon.
 
-{{Infobox open}} {{Infobox weapon |weapon=Particle Accelerator Cannon |hulldam=748 |shielddam=6000 |range=1.92 |rof= 314 |shotspeed= 703 |maxweapenergy=900 |shotcost=120 }} {{Infobox ware |ware=Particle Accelerator Cannon |cargoclass=S |volume=3 |minprice=34671 |aveprice=38956 |maxprice=43241 }} {{Infobox close}} ==Overview== The Particle Accelerator Cannon, or PAC, is a [[Commonwealth]] medium fighter weapon. ==Encyclopedia Entry== A weapon found on some medium to large fighters. The first of its class were developed by the Paranid and Argon. The Particles are accelerated to a speed faster than nearly most currently known spacecraft. When they are then polarized and focused into a tight energy pulse. They have been around since the Xenon conflict. ==Commentary== The PAC is a light but very versatile weapon. It has been around for centuries and most ships can equip it. Like the [[High Energy Plasma Thrower|HEPT]], it is a good all rounder, tending towards the lighter targets like [[M5|scouts]], [[M4|interceptors]] and [[M3|heavy fighters]]. However, fighters equipped with these weapons in numbers have been seen to bring down anything, including the biggest capital ships. It is also the primary weapon of the [[Fighter Drone MKII|Mark II]] variant of the [[Fighter Drone]]. The PAC uses comparatively little energy, and its fast shot speed give it very good accuracy. It is also an extremely cheap weapon, which is why it frequently appears as the weapon of choice in large fighter wings. This weapon is ubiquitous (found anywhere). ==Known Compatible Ships== [[:Category:Particle Accelerator Cannon|List of Compatible Ships]] ==Available at Known Docks== Manufactured: *[[Particle Accelerator Cannon Forge]]
+==Encyclopedia Entry==
+A weapon found on some medium to large fighters.
+
+The first of its class were developed by the Paranid and Argon. The Particles are accelerated to a speed faster than nearly most currently known spacecraft. When they are then polarized and focused into a tight energy pulse. They have been around since the Xenon conflict.
+==Commentary==
+The PAC is a light but very versatile weapon. It has been around for centuries and most ships can equip it. Like the [[High Energy Plasma Thrower|HEPT]], it is a good all rounder, tending towards the lighter targets like [[M5|scouts]], [[M4|interceptors]] and [[M3|heavy fighters]]. However, fighters equipped with these weapons in numbers have been seen to bring down anything, including the biggest capital ships. It is also the primary weapon of the [[Fighter Drone MKII|Mark II]] variant of the [[Fighter Drone]].
+
+The PAC uses comparatively little energy, and its fast shot speed give it very good accuracy. It is also an extremely cheap weapon, which is why it frequently appears as the weapon of choice in large fighter wings.
+
+This weapon is ubiquitous (found anywhere).
+
+==Known Compatible Ships==
+[[:Category:Particle Accelerator Cannon|List of Compatible Ships]]
+
+==Available at Known Docks==
+Manufactured:
+*[[Particle Accelerator Cannon Forge]]

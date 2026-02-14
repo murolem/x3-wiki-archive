@@ -1,3 +1,33 @@
-<!-- source file: index__q4347e9982ba6.html -->
+{{Infobox Sector
+|Race=Teladi
+|SecLevel=Border
+|Population=97,223,325
+|Planets=1
+|SunLevel=150
+|GateDist=80
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|	0|	34000|[[Tears of Greed]]}}
+{{Gateblock2|South|0|	0|	-34000|[[Company Strength]]}}
+{{Gateblock/End}}
+}}
+==Description==
+Benefiting from both the protection of the nearby [[Pirate Base]], as well as business in the more illicit of wares, Bright Profit strikes a fine balance between conflict and trade. Skirmishes are rare, and usually due to intoxication of one kind or another.
 
-{{Infobox Sector |Race=Teladi |SecLevel=Border |Population=97,223,325 |Planets=1 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0| 0| 34000|[[Tears of Greed]]}} {{Gateblock2|South|0| 0| -34000|[[Company Strength]]}} {{Gateblock/End}} }} ==Description== Benefiting from both the protection of the nearby [[Pirate Base]], as well as business in the more illicit of wares, Bright Profit strikes a fine balance between conflict and trade. Skirmishes are rare, and usually due to intoxication of one kind or another. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|42|12927|-2022|5412}} {{Asteroid/Item|Ore|36|-18032|4190|10378}} {{Asteroid/Item|Ore|30|3081|-5218|5412}} {{Asteroid/Item|Ore|18|12408|8131|-8908}} {{Asteroid/Item|Ore|10|-5891|8856|8503}} {{Asteroid/Item|Ore|9|-5352|-6664|2364}} {{Asteroid/Item|Ore|4|3018|1102|12701}} {{Asteroid/Item|Ore|4|-21633|8358|-2460}} {{Asteroid/Item|Ore|4|16408|5685|-14831}} {{Asteroid/End}} == See Also == {{Teladi Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|42|12927|-2022|5412}}
+{{Asteroid/Item|Ore|36|-18032|4190|10378}}
+{{Asteroid/Item|Ore|30|3081|-5218|5412}}
+{{Asteroid/Item|Ore|18|12408|8131|-8908}}
+{{Asteroid/Item|Ore|10|-5891|8856|8503}}
+{{Asteroid/Item|Ore|9|-5352|-6664|2364}}
+{{Asteroid/Item|Ore|4|3018|1102|12701}}
+{{Asteroid/Item|Ore|4|-21633|8358|-2460}}
+{{Asteroid/Item|Ore|4|16408|5685|-14831}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Teladi Navbox}}

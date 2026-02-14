@@ -1,3 +1,184 @@
-<!-- source file: index__q4d16c7cdfa69.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Shrike
+|Faction=Teladi
+|Class={{M7class}}
+|Priceblock={{Priceblock|Company Manager| 29944060}}
+|Minspeed=64
+|Maxspeed=96
+|Minaccel=3
+|Maxaccel=5
+|Minsteer=1.6
+|Maxsteer=2.4
+|Hull=180000
+|Maxshield=1 GJ
+|Shieldslots=4
+|Maxshieldstrength=4000
+|Shieldreactor= 5800
+|Cargoclass=XL
+|Mincargo=6500
+|Maxcargo=7000
+|Lasercap=49000
+|Laserrecharge=979
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=0|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=1|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=1|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=2
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=1|pbe=1|
+isr=1|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=2
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=1|pbe=1|
+isr=1|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Top
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=1|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Bottom
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=1|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay={{Dockbay|8 {{Fighterdock}}}}
+}}
+{{Infobox close}}
+==Overview==
+The Shrike is popular with players based solely on practical combat use and not an aesthetically pleasing hull design. It has the 3rd largest hangar for fighters for an M7 class after the [[Griffon]] (9) and [[Panther]] (32), a good frontal weapons array and a wide angle of turret cover. As typical with the Teladi design philosophy, it boasts very large cargo carrying capacity; the largest out of any Commonwealth M7, and is second only to the ATF [[Aegir]] for the largest cargo bay out of any M7. Plus, it is the cheapest purchasable M7 ship, and is usually the first M7 for players to upgrade from their M6s and/or M3s.
 
-{{Infobox open}} {{Infobox variant |Variant=Shrike |Faction=Teladi |Class={{M7class}} |Priceblock={{Priceblock|Company Manager| 29944060}} |Minspeed=64 |Maxspeed=96 |Minaccel=3 |Maxaccel=5 |Minsteer=1.6 |Maxsteer=2.4 |Hull=180000 |Maxshield=1 GJ |Shieldslots=4 |Maxshieldstrength=4000 |Shieldreactor= 5800 |Cargoclass=XL |Mincargo=6500 |Maxcargo=7000 |Lasercap=49000 |Laserrecharge=979 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=0|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=1|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=1|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Rear |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=1|prg=1| cfaa=0|pbc=0|id=0| ipg=1|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Right |Guncount=2 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=1|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=1|gc=1|pbe=1| isr=1|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount=2 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=1|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=1|gc=1|pbe=1| isr=1|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Top |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=1|prg=1| cfaa=0|pbc=0|id=0| ipg=1|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Bottom |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=1|prg=1| cfaa=0|pbc=0|id=0| ipg=1|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay={{Dockbay|8 {{Fighterdock}}}} }} {{Infobox close}} ==Overview== The Shrike is popular with players based solely on practical combat use and not an aesthetically pleasing hull design. It has the 3rd largest hangar for fighters for an M7 class after the [[Griffon]] (9) and [[Panther]] (32), a good frontal weapons array and a wide angle of turret cover. As typical with the Teladi design philosophy, it boasts very large cargo carrying capacity; the largest out of any Commonwealth M7, and is second only to the ATF [[Aegir]] for the largest cargo bay out of any M7. Plus, it is the cheapest purchasable M7 ship, and is usually the first M7 for players to upgrade from their M6s and/or M3s. ==Background== In a bid to catch up with other races, the Shrike was the last M7 to be fielded. Borrowing heavily from previous Teladi ship designs, it is not to be trifled with. ==Physical Characteristics== With typical [[Teladi]] design thinking, this ship is best described as various random hull pieces being slapped together. However, while displeasing to the eye, its impressive combat capabilities easily compensate for this. == Combat == Packing [[Gauss Cannon]]s in its side turrets, the Shrike has the ability to sustain a reasonable amount of anti-capital firepower for as long as it has ammunition. However, this is offset by its slow speed and dependence on gauss ammo, not to mention its poor laser recharge rate; this makes it very difficult for the ship to sustain concentrated firepower on its opponents. Nonetheless, its cavernous cargo bay also makes it excellent as a "[[M7M|poor man's missile frigate]]", as it can carry a plethora of missiles, especially the [[Typhoon Missile]]. A Shrike fitted with Typhoon missiles can decimate fighters of any kind except probably M5s (as they're too quick to get a lock on), and can pose a major threat to capital ships as well. The Shrike can also act as a potent anti-fighter platform when equipped with two pairs of [[Flak Artillery Array]]s and [[Pulsed Beam Emitter]]s; it is not recommended to stuff all turrets with either one of these as the former drains energy reserves too quickly and the latter isn't powerful enough at dealing hull damage despite being effective at stripping shields and having a very fast firing rate. For its rear turret, the [[Phased Repeater Gun]] is probably the best choice as it doesn't drain too much energy and the fast velocity of its shots can deter M5s and missiles. == Equipment == {| |+'''Missiles''' |- | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] | *[[Hornet Missile]] *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] | *[[Tempest Missile]] *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] | *[[Typhoon Missile]] *[[Firestorm Torpedo]] *[[Aurora Missile]] *[[Remote Guided Warhead]] | *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] *[[Firelance Missile]] | *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == {| style="text-align:center;" cellpadding="3" |- style="{{Colour/Teladi}}" ! width="120px" | Variant !! [[Seizewell]] !! [[Ceo's Sprite]] !! [[PTNI Headquarters]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] |- ! style="text-align:left;" | Shrike || x || x || x || x || x || x |} == Suggested Roles== The Shrike acts as an excellent heavy assault ship for OOS work and it can serve as a more than decent IS patrol ship. Its limited ability as a nano-carrier allows it for good protection against most attacking vessels. Despite its slow speed, the Shrike can take on a [[Q|Xenon Q]] with either its ammo-based [[Gauss Cannon]] from its side turrets or the decidedly more powerful but hard to obtain, energy-hungry [[Incendiary Bomb Launcher]] from its main frontal array. Even better, the Shrike's humongous cargo bay makes it perfect for missile volleys, mainly when fitted to the brim with Typhoon Missiles. It is more often used as a player-controlled ship than an AI-controlled ship. == See Also== *[[Cormorant|Teladi Cormorant]] *[[Gannet|Teladi Gannet]] {{M7}} [[Category: Carrier]] {{Teladi Navbox}}
+==Background==
+In a bid to catch up with other races, the Shrike was the last M7 to be fielded. Borrowing heavily from previous Teladi ship designs, it is not to be trifled with.
+
+==Physical Characteristics==
+With typical [[Teladi]] design thinking, this ship is best described as various random hull pieces being slapped together. However, while displeasing to the eye, its impressive combat capabilities easily compensate for this.
+
+== Combat ==
+Packing [[Gauss Cannon]]s in its side turrets, the Shrike has the ability to sustain a reasonable amount of anti-capital firepower for as long as it has ammunition. However, this is offset by its slow speed and dependence on gauss ammo, not to mention its poor laser recharge rate; this makes it very difficult for the ship to sustain concentrated firepower on its opponents. Nonetheless, its cavernous cargo bay also makes it excellent as a "[[M7M|poor man's missile frigate]]", as it can carry a plethora of missiles, especially the [[Typhoon Missile]]. A Shrike fitted with Typhoon missiles can decimate fighters of any kind except probably M5s (as they're too quick to get a lock on), and can pose a major threat to capital ships as well. The Shrike can also act as a potent anti-fighter platform when equipped with two pairs of [[Flak Artillery Array]]s and [[Pulsed Beam Emitter]]s; it is not recommended to stuff all turrets with either one of these as the former drains energy reserves too quickly and the latter isn't powerful enough at dealing hull damage despite being effective at stripping shields and having a very fast firing rate. For its rear turret, the [[Phased Repeater Gun]] is probably the best choice as it doesn't drain too much energy and the fast velocity of its shots can deter M5s and missiles.
+
+== Equipment ==
+{|
+|+'''Missiles'''
+|-
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+|
+*[[Hornet Missile]]
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+|
+*[[Tempest Missile]]
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+|
+*[[Typhoon Missile]]
+*[[Firestorm Torpedo]]
+*[[Aurora Missile]]
+*[[Remote Guided Warhead]]
+|
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+|
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+
+== Availability ==
+{| style="text-align:center;" cellpadding="3"
+|- style="{{Colour/Teladi}}"
+! width="120px" | Variant !! [[Seizewell]] !! [[Ceo's Sprite]] !! [[PTNI Headquarters]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]]
+|-
+! style="text-align:left;" | Shrike || x || x || x || x || x || x
+|}
+
+== Suggested Roles==
+
+The Shrike acts as an excellent heavy assault ship for OOS work and it can serve as a more than decent IS patrol ship. Its limited ability as a nano-carrier allows it for good protection against most attacking vessels. Despite its slow speed, the Shrike can take on a [[Q|Xenon Q]] with either its ammo-based [[Gauss Cannon]] from its side turrets or the decidedly more powerful but hard to obtain, energy-hungry [[Incendiary Bomb Launcher]] from its main frontal array. Even better, the Shrike's humongous cargo bay makes it perfect for missile volleys, mainly when fitted to the brim with Typhoon Missiles. It is more often used as a player-controlled ship than an AI-controlled ship.
+
+== See Also==
+*[[Cormorant|Teladi Cormorant]]
+*[[Gannet|Teladi Gannet]]
+{{M7}}
+[[Category: Carrier]]
+
+
+{{Teladi Navbox}}

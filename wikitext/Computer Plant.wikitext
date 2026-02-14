@@ -1,3 +1,76 @@
-<!-- source file: index__qeaad21081f88.html -->
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Computer Plant
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:01:36
+|productnum=[[Computer Components]] (2)
+|stationprice=
+|reqresources=[[Energy Cells]] (24)<br>[[Silicon Wafers]] (1)<br>[[Food]] by Race
+|optresources=[[Microchips]]
+}}
+{{Infobox close}}
+==Overview==
+Computer Plants manufacture [[Computer Components]] out of [[Energy Cells]], [[Silicon]] and [[Food]].
 
-{{Infobox open}} {{Infobox factory |faction= |station=Computer Plant |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:01:36 |productnum=[[Computer Components]] (2) |stationprice= |reqresources=[[Energy Cells]] (24)&lt;br>[[Silicon Wafers]] (1)&lt;br>[[Food]] by Race |optresources=[[Microchips]] }} {{Infobox close}} ==Overview== Computer Plants manufacture [[Computer Components]] out of [[Energy Cells]], [[Silicon]] and [[Food]]. NPC Computer Plants also require [[Microchips]], hence these factories will often be sited near a [[Chip Plant]]. ===Encyclopedia Entry=== A Computer Plant manufactures both full computer systems and individual computer components that are in great demand throughout the entire universe for general use. Factories also create the more specialised computer systems found in all space ships and weapon systems. ==Race-specific attributes== {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |+'''Computer Plant''' |-style="background-color:lightgray;text-align:center;" !Race!!Food!!Amount!!Station Cost |- style="{{Colour/Argon}}" | [[Argon]] || [[Meatsteak Cahoonas]] || 16 || {{Priceblock|Trusted Ally|1733468}} |- style="{{Colour/Boron}}" | [[Boron]] || [[Bofu]] || 4 ||{{Priceblock|Queen's Guard|1415340}} |- style="{{Colour/Paranid}}" | [[Paranid]] || [[Soja Husk]] || 16 ||{{Priceblock|Friend of Priest King|1733468}} |- style="{{Colour/Split}}" | [[Split]] || [[Rastar Oil]] || 12 ||{{Priceblock|Distinguished Associate|1655560}} |- style="{{Colour/Teladi}}" | [[Teladi]] || [[Nostrop Oil]] || 16 || {{Priceblock|Majority Shareholder|1415340}} |} ==Availability== {| style="text-align:left;" ! [[Argon]] !! [[Boron]] !! [[Paranid]] !! [[Split]] !! [[Teladi]] |- | {{sa|Omicron Lyrae}} | {{sa|Depths of Silence}} | {{sa|Duke's Citadel}} | {{sa|Patriarch's Conclusion}} | {{sa|Ceo's Sprite}} |- | | {{sa|Queen's Retribution}} | {{sa|Heaven's Assertion}} | {{sa|Rhonkar's Trial}} | {{sa|Ministry of Finance}} |- | | | {{sa|Paranid Prime}} | {{sa|Zyarth's Dominion}} | |- | | | {{sa|Third Redemption}} | | |} {{Stationcategory}}
+NPC Computer Plants also require [[Microchips]], hence these factories will often be sited near a [[Chip Plant]].
+===Encyclopedia Entry===
+A Computer Plant manufactures both full computer systems and individual computer components that are in great demand throughout the entire universe for general use.
+
+Factories also create the more specialised computer systems found in all space ships and weapon systems. 
+
+==Race-specific attributes==
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|+'''Computer Plant'''
+|-style="background-color:lightgray;text-align:center;"
+!Race!!Food!!Amount!!Station Cost
+|- style="{{Colour/Argon}}"
+| [[Argon]] || [[Meatsteak Cahoonas]] || 16 || {{Priceblock|Trusted Ally|1733468}}
+|- style="{{Colour/Boron}}"
+| [[Boron]] || [[Bofu]] || 4 ||{{Priceblock|Queen's Guard|1415340}}
+|- style="{{Colour/Paranid}}"
+| [[Paranid]] || [[Soja Husk]] || 16 ||{{Priceblock|Friend of Priest King|1733468}}
+|- style="{{Colour/Split}}"
+| [[Split]] || [[Rastar Oil]] || 12 ||{{Priceblock|Distinguished Associate|1655560}}
+|- style="{{Colour/Teladi}}"
+| [[Teladi]] || [[Nostrop Oil]] || 16 || {{Priceblock|Majority Shareholder|1415340}}
+|}
+
+==Availability==
+{| style="text-align:left;"
+! [[Argon]] !! [[Boron]] !! [[Paranid]] !! [[Split]] !! [[Teladi]] 
+|-
+| {{sa|Omicron Lyrae}} 
+| {{sa|Depths of Silence}} 
+| {{sa|Duke's Citadel}} 
+| {{sa|Patriarch's Conclusion}} 
+| {{sa|Ceo's Sprite}} 
+
+|-
+| 
+| {{sa|Queen's Retribution}} 
+| {{sa|Heaven's Assertion}} 
+| {{sa|Rhonkar's Trial}} 
+| {{sa|Ministry of Finance}} 
+
+|-
+| 
+| 
+| {{sa|Paranid Prime}} 
+| {{sa|Zyarth's Dominion}} 
+| 
+ 
+|-
+| 
+| 
+| {{sa|Third Redemption}} 
+| 
+| 
+
+|}
+
+
+{{Stationcategory}}

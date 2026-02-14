@@ -1,3 +1,3 @@
-<!-- source file: index__q4455af296efc.html -->
+This software permits players to [[claim]] ships from within their own ship, rather than having to space walk. The range is still closer, however, requiring the pilot to get within around 50m of the unclaimed vessel. 
 
-This software permits players to [[claim]] ships from within their own ship, rather than having to space walk. The range is still closer, however, requiring the pilot to get within around 50m of the unclaimed vessel. It is [[Illegal Wares by Faction|illegal]] in [[Commonwealth]] space and requires a [[Software Signature Scrambler]] to avoid trouble with police patrol scans.
+It is [[Illegal Wares by Faction|illegal]] in [[Commonwealth]] space and requires a [[Software Signature Scrambler]] to avoid trouble with police patrol scans.

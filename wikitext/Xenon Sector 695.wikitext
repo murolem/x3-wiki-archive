@@ -1,3 +1,27 @@
-<!-- source file: index__q61e99eda60a2.html -->
+{{Infobox Sector
+|Race=Xenon
+|SecLevel=Border
+|Population=
+|Planets=
+|SunLevel=150
+|GateDist=
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|South|0|	2250|	-20000|[[Xenon Core Sector 023]]}}
+</table>
+}}
+==Description==
+==Default [[Stations]]==
+==[[Asteroids]]==
 
-{{Infobox Sector |Race=Xenon |SecLevel=Border |Population= |Planets= |SunLevel=150 |GateDist= |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|South|0| 2250| -20000|[[Xenon Core Sector 023]]}} &lt;/table> }} ==Description== ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Nividium|26|27006|13873|36839}} {{Asteroid/Item|Ore|20|-7302|-15223|13385}} {{Asteroid/Item|Ore|16|27494|31312|-9644}} {{Asteroid/Item|Ore|15|7106|32174|-5629}} {{Asteroid/Item|Ore|14|12005|29134|6317}} {{Asteroid/Item|Ore|7|-11387|14079|1277}} {{Asteroid/Item|Ore|5|-15454|10866|-10391}} {{Asteroid/Item|Silicon|36|-31146|9809|-8852}} {{Asteroid/Item|Silicon|9|9917|-28729|-18458}} {{Asteroid/End}}
+{{Asteroid/Begin}}
+{{Asteroid/Item|Nividium|26|27006|13873|36839}}
+{{Asteroid/Item|Ore|20|-7302|-15223|13385}}
+{{Asteroid/Item|Ore|16|27494|31312|-9644}}
+{{Asteroid/Item|Ore|15|7106|32174|-5629}}
+{{Asteroid/Item|Ore|14|12005|29134|6317}}
+{{Asteroid/Item|Ore|7|-11387|14079|1277}}
+{{Asteroid/Item|Ore|5|-15454|10866|-10391}}
+{{Asteroid/Item|Silicon|36|-31146|9809|-8852}}
+{{Asteroid/Item|Silicon|9|9917|-28729|-18458}}
+{{Asteroid/End}}

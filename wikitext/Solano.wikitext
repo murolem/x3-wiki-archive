@@ -1,3 +1,128 @@
-<!-- source file: index__q6b3af0df6b61.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Solano
+|Faction=OTAS
+|Class={{M4+class}}
+|Priceblock={{Priceblock|Confirmed Friend| 1261300}}
+|Minspeed= 75 
+|Maxspeed= 210 
+|Minaccel= 23.4 
+|Maxaccel= 65.52 
+|Minsteer= 19 
+|Maxsteer= 53.2 
+|Hull= 5200 / 10400 (AP)
+|Maxshield=25 MJ
+|Shieldslots=3
+|Maxshieldstrength=75
+|Shieldreactor= 605
+|Cargoclass=L
+|Mincargo=72
+|Maxcargo=102
+|Lasercap= 5000
+|Laserrecharge= 85 
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The Solano is an extremely deadly ship for its size. Boasting all the speed and manoeuvrability of an average interceptor, its shields outclass some heavy fighters. Do not underestimate this [[OTAS]] fighter.
 
-{{Infobox open}} {{Infobox variant |Variant=Solano |Faction=OTAS |Class={{M4+class}} |Priceblock={{Priceblock|Confirmed Friend| 1261300}} |Minspeed= 75 |Maxspeed= 210 |Minaccel= 23.4 |Maxaccel= 65.52 |Minsteer= 19 |Maxsteer= 53.2 |Hull= 5200 / 10400 (AP) |Maxshield=25 MJ |Shieldslots=3 |Maxshieldstrength=75 |Shieldreactor= 605 |Cargoclass=L |Mincargo=72 |Maxcargo=102 |Lasercap= 5000 |Laserrecharge= 85 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The Solano is an extremely deadly ship for its size. Boasting all the speed and manoeuvrability of an average interceptor, its shields outclass some heavy fighters. Do not underestimate this [[OTAS]] fighter. ==Background== ===Encyclopedia Entry=== The Solano is an advanced interceptor, optimised for rapid closure on hostile intruders. It has the ability to destroy similar-sized ships or hold larger ones until reinforcements arrive. ==Physical Characteristics== == Combat == Due to its heavy shielding, the Solano is even more difficult to kill than it is to catch. With its ability to mount both [[PAC]] and [[PRG]], the latter an exceptional dogfighting weapon and the former a great all-rounder, it can be tuned to a variety of tasks. It resembles a more heavily shielded, scaled down [[Mamba]] with lighter weapons and weaker weapons recharge. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] | *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] | *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] *[[Aurora Missile]] | *[[Remote Guided Warhead]] *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] | *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == The Solano can be bought at the OTAS shipyard in [[Legend's Home]]. == Headquarters Production Info == This ship can be reverse engineered and produced at the player Headquarters. Required materials and build time as follows: HQ Production Materials {| style="text-align:right;" ! Ware !! Amount |- valign="top" |[[Energy Cells]]||{{formatnum:368}} |- |[[Teladianium]]||{{formatnum:11}} |- |[[Cloth Rimes]]||3 |- |[[Rastar Oil]]||7 |- |[[Ore]]||{{formatnum:15}} |- |[[Silicon|Silicon Wafers]]||{{formatnum:11}} |- |[[Crystals]]||3 |- |[[Quantum Tubes]]||3 |- |[[Microchips]]||7 |- |[[Computer Components]]||3 |- |Shipwright Fee ([[Credits]])|| {{formatnum:108812}} |- |Build Time (game time)&lt;bR>(hh:mm:ss)|| 00:26:09 |} == Suggested Roles== The Solano is a player favorite for use as a cheap carrier fighter - good survivability, speed and firepower, along with [[Mass Driver]] compatibility, make it extremely dangerous to face in large numbers. The ship is poor against Corvette and Capital ships, however if used correctly, it can dodge most of the incoming fire from Anti-fighter cannons, with the exceptions of flak artillery and Kyon weaponry. The ship should therefore primarily be deployed against enemy fighters and bombers, while other craft target heavier vessels. == See Also== *[[Eurus|OTAS Eurus]] {{M4+}}
+==Background==
+===Encyclopedia Entry===
+The Solano is an advanced interceptor, optimised for rapid closure on hostile intruders. It has the ability to destroy similar-sized ships or hold larger ones until reinforcements arrive.
+==Physical Characteristics==
+== Combat ==
+Due to its heavy shielding, the Solano is even more difficult to kill than it is to catch. With its ability to mount both [[PAC]] and [[PRG]], the latter an exceptional dogfighting weapon and the former a great all-rounder, it can be tuned to a variety of tasks.
+
+It resembles a more heavily shielded, scaled down [[Mamba]] with lighter weapons and weaker weapons recharge.
+
+== Equipment ==
+{| 
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+|
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+|
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Aurora Missile]]
+|
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+|
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+== Availability ==
+The Solano can be bought at the OTAS shipyard in [[Legend's Home]].
+
+== Headquarters Production Info ==
+This ship can be reverse engineered and produced at the player Headquarters. Required materials and build time as follows:
+
+HQ Production Materials
+{| style="text-align:right;"
+! Ware !! Amount
+|- valign="top"
+|[[Energy Cells]]||{{formatnum:368}}
+|-
+|[[Teladianium]]||{{formatnum:11}}
+|-
+|[[Cloth Rimes]]||3
+|-
+|[[Rastar Oil]]||7
+|-
+|[[Ore]]||{{formatnum:15}}
+|-
+|[[Silicon|Silicon Wafers]]||{{formatnum:11}}
+|-
+|[[Crystals]]||3
+|-
+|[[Quantum Tubes]]||3
+|-
+|[[Microchips]]||7
+|-
+|[[Computer Components]]||3
+|-
+|Shipwright Fee ([[Credits]])|| {{formatnum:108812}}
+|-
+|Build Time (game time)<bR>(hh:mm:ss)||	00:26:09
+|}
+
+== Suggested Roles==
+
+The Solano is a player favorite for use as a cheap carrier fighter - good survivability, speed and firepower, along with [[Mass Driver]] compatibility, make it extremely dangerous to face in large numbers.
+
+The ship is poor against Corvette and Capital ships, however if used correctly, it can dodge most of the incoming fire from Anti-fighter cannons, with the exceptions of flak artillery and Kyon weaponry. The ship should therefore primarily be deployed against enemy fighters and bombers, while other craft target heavier vessels.
+== See Also==
+*[[Eurus|OTAS Eurus]]
+
+{{M4+}}

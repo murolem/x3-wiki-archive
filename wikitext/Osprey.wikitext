@@ -1,3 +1,238 @@
-<!-- source file: index__qfebc4f6985c5.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Osprey
+|Faction=Teladi
+|Class={{M6class}}
+|Priceblock={{Priceblock|| 15223732}}
+|Minspeed=49.2
+|Maxspeed=98.4
+|Minaccel=3
+|Maxaccel=7
+|Minsteer=1.5
+|Maxsteer=3.1
+|Hull=72000 / 288000 (AP)
+|Maxshield=200 MJ
+|Shieldslots=4
+|Maxshieldstrength=800
+|Shieldreactor=2650
+|Cargoclass=XL
+|Mincargo=500
+|Maxcargo=1500
+|Lasercap=12700
+|Laserrecharge=262 / 1050 (AP)
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=1|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=1|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Up
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Down
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Osprey
+|Faction=Pirate
+|Class={{M6class}}
+|Priceblock=
+|Minspeed=51.5
+|Maxspeed=103.0
+|Minaccel=4
+|Maxaccel=9
+|Minsteer=1.8
+|Maxsteer=3.7
+|Hull=54000 / 216000 (AP)
+|Maxshield=200 MJ
+|Shieldslots=3
+|Maxshieldstrength=600
+|Shieldreactor= 2120
+|Cargoclass=XL
+|Mincargo=500
+|Maxcargo=1425
+|Lasercap=12700
+|Laserrecharge=262 / 1050 (AP)
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=1|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=1|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=1
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=1|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=1|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=1
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=1|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=1|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The Osprey is slow, and is thus something of a sitting duck in a fight with a larger ship. It is effective at defending against smaller ships, however it is considered one of the least desirable corvettes due to its average stats other than shielding and truly appalling speed, causing it to absorb more fire than is healthy.
 
-{{Infobox open}} {{Infobox variant |Variant=Osprey |Faction=Teladi |Class={{M6class}} |Priceblock={{Priceblock|| 15223732}} |Minspeed=49.2 |Maxspeed=98.4 |Minaccel=3 |Maxaccel=7 |Minsteer=1.5 |Maxsteer=3.1 |Hull=72000 / 288000 (AP) |Maxshield=200 MJ |Shieldslots=4 |Maxshieldstrength=800 |Shieldreactor=2650 |Cargoclass=XL |Mincargo=500 |Maxcargo=1500 |Lasercap=12700 |Laserrecharge=262 / 1050 (AP) |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=1|prg=1| cfaa=0|pbc=0|id=0| ipg=1|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=1|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Up |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Down |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Osprey |Faction=Pirate |Class={{M6class}} |Priceblock= |Minspeed=51.5 |Maxspeed=103.0 |Minaccel=4 |Maxaccel=9 |Minsteer=1.8 |Maxsteer=3.7 |Hull=54000 / 216000 (AP) |Maxshield=200 MJ |Shieldslots=3 |Maxshieldstrength=600 |Shieldreactor= 2120 |Cargoclass=XL |Mincargo=500 |Maxcargo=1425 |Lasercap=12700 |Laserrecharge=262 / 1050 (AP) |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=1|prg=1| cfaa=0|pbc=0|id=0| ipg=1|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=1|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Right |Guncount=1 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=1|prg=1| cfaa=0|pbc=0|id=0| ipg=1|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=1|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount=1 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=1|prg=1| cfaa=0|pbc=0|id=0| ipg=1|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=1|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The Osprey is slow, and is thus something of a sitting duck in a fight with a larger ship. It is effective at defending against smaller ships, however it is considered one of the least desirable corvettes due to its average stats other than shielding and truly appalling speed, causing it to absorb more fire than is healthy. ==Background== ==Variants== ===Osprey=== ===Pirate Osprey=== The Pirate version has slightly better speed and handling, at the expense of shielding. It also sports a better selection of weaponry for the turrets. ==Physical Characteristics== == Combat == Historically, the Osprey sat relatively still in the middle of a fight and let its turrets swat any fighters that buzzed around it. However, with the advent of larger ships capable of demolishing the Osprey little slower than any other Corvette, the Osprey pilot now has a more difficult job on his hands when facing off with a frigate. What little agility the ship has must be used to full effect to survive such an encounter. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] *[[Hornet Missile]] | *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] *[[Hurricane Missile]] | *[[Cyclone Missile]] *[[Tornado Missile]] *[[Typhoon Missile]] *[[Firestorm Torpedo]] *[[Aurora Missile]] | *[[Remote Guided Warhead]] *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] | *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == {| style="text-align:center;" |- style="{{Colour/Teladi}}" ! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]] |- ! style="text-align:left;" | Osprey || x || x || x || x || x || x |} Standard Osprey is boardable, found patrolling most Teladi regions and purchaseable at all Teladi shipyards. Pirate Osprey is boardable, occasionally found patrolling near pirate sectors and is a very common opponent in defend station missions. == Suggested Roles== The regular Osprey is quite useless, especially as the much superior (but still underwhelming) [[Heavy Osprey]] can be had for only a million credits more. The pirate version's ability to equip anti-corvette weapons in its turrets allows for supporting a dogfight or bigship raid at medium range, but it won't hold up against sustained fire and is hard-pressed to outpace anything faster than a destroyer. == See Also== *[[Heavy Osprey|Teladi Heavy Osprey]] {{M6}} {{Teladi Navbox}}
+==Background==
+==Variants==
+===Osprey===
+===Pirate Osprey===
+The Pirate version has slightly better speed and handling, at the expense of shielding.  It also sports a better selection of weaponry for the turrets.
+
+==Physical Characteristics==
+== Combat ==
+Historically, the Osprey sat relatively still in the middle of a fight and let its turrets swat any fighters that buzzed around it. However, with the advent of larger ships capable of demolishing the Osprey little slower than any other Corvette, the Osprey pilot now has a more difficult job on his hands when facing off with a frigate. What little agility the ship has must be used to full effect to survive such an encounter.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+*[[Hornet Missile]]
+|
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+*[[Hurricane Missile]]
+|
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Typhoon Missile]]
+*[[Firestorm Torpedo]]
+*[[Aurora Missile]]
+|
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+|
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+== Availability ==
+{| style="text-align:center;"
+|- style="{{Colour/Teladi}}"
+! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]]
+|-
+! style="text-align:left;" | Osprey || x || x || x || x || x || x
+|}
+
+Standard Osprey is boardable, found patrolling most Teladi regions and purchaseable at all Teladi shipyards.  Pirate Osprey is boardable, occasionally found patrolling near pirate sectors and is a very common opponent in defend station missions.
+
+== Suggested Roles==
+The regular Osprey is quite useless, especially as the much superior (but still underwhelming) [[Heavy Osprey]] can be had for only a million credits more.  The pirate version's ability to equip anti-corvette weapons in its turrets allows for supporting a dogfight or bigship raid at medium range, but it won't hold up against sustained fire and is hard-pressed to outpace anything faster than a destroyer.
+
+== See Also==
+*[[Heavy Osprey|Teladi Heavy Osprey]]
+
+{{M6}}
+
+
+{{Teladi Navbox}}

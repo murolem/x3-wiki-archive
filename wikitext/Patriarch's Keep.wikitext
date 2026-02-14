@@ -1,3 +1,44 @@
-<!-- source file: index__q47f3f287e783.html -->
+{{Infobox Sector
+|Race=Split
+|SecLevel=Border
+|Population=32,065,101
+|Planets=2
+|SunLevel=150
+|GateDist=50
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|	0|	25200|[[Cho's Defeat]]}}
+{{Gateblock2|East|18012|	0|	-10625|[[Two Grand]]}}
+{{Gateblock/End}}
+}}
+==Description==
+Situated in a heavy asteroid belt forbidding Split mining colony has grown into the second capital system of Split space. It is a successful trading location as well as providing much needed support for Split military ships. Run by the relatively liberal Thi Family, this is the only Split system not using forced labour in its factories.
 
-{{Infobox Sector |Race=Split |SecLevel=Border |Population=32,065,101 |Planets=2 |SunLevel=150 |GateDist=50 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0| 0| 25200|[[Cho's Defeat]]}} {{Gateblock2|East|18012| 0| -10625|[[Two Grand]]}} {{Gateblock/End}} }} ==Description== Situated in a heavy asteroid belt forbidding Split mining colony has grown into the second capital system of Split space. It is a successful trading location as well as providing much needed support for Split military ships. Run by the relatively liberal Thi Family, this is the only Split system not using forced labour in its factories. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|37|7847|-5082|7116}} {{Asteroid/Item|Ore|37|-6687|-9805|-11159}} {{Asteroid/Item|Ore|27|3166|2186|6823}} {{Asteroid/Item|Ore|27|-5871|5197|-14498}} {{Asteroid/Item|Ore|18|5363|-1476|14410}} {{Asteroid/Item|Ore|18|9719|2977|13404}} {{Asteroid/Item|Ore|8|5780|5954|11598}} {{Asteroid/Item|Ore|8|-4053|-520|-9401}} {{Asteroid/Item|Silicon|18|-2895|-5786|-10193}} {{Asteroid/Item|Silicon|18|-9145|-1969|-10193}} {{Asteroid/Item|Silicon|16|10048|4294|3515}} {{Asteroid/Item|Silicon|16|658|4202|-14586}} {{Asteroid/Item|Silicon|11|7528|-2036|2196}} {{Asteroid/Item|Silicon|11|-9540|4720|-6327}} {{Asteroid/Item|Silicon|10|442|6074|12564}} {{Asteroid/Item|Silicon|10|-12814|-4819|-13267}} {{Asteroid/Item|Silicon|8|3847|3526|16256}} {{Asteroid/Item|Silicon|8|-7245|10304|-4392}} {{Asteroid/Item|Silicon|3|10273|-10751|10279}} {{Asteroid/Item|Silicon|3|-13505|8918|-8181}} {{Asteroid/End}} == See Also == {{Split Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|37|7847|-5082|7116}}
+{{Asteroid/Item|Ore|37|-6687|-9805|-11159}}
+{{Asteroid/Item|Ore|27|3166|2186|6823}}
+{{Asteroid/Item|Ore|27|-5871|5197|-14498}}
+{{Asteroid/Item|Ore|18|5363|-1476|14410}}
+{{Asteroid/Item|Ore|18|9719|2977|13404}}
+{{Asteroid/Item|Ore|8|5780|5954|11598}}
+{{Asteroid/Item|Ore|8|-4053|-520|-9401}}
+{{Asteroid/Item|Silicon|18|-2895|-5786|-10193}}
+{{Asteroid/Item|Silicon|18|-9145|-1969|-10193}}
+{{Asteroid/Item|Silicon|16|10048|4294|3515}}
+{{Asteroid/Item|Silicon|16|658|4202|-14586}}
+{{Asteroid/Item|Silicon|11|7528|-2036|2196}}
+{{Asteroid/Item|Silicon|11|-9540|4720|-6327}}
+{{Asteroid/Item|Silicon|10|442|6074|12564}}
+{{Asteroid/Item|Silicon|10|-12814|-4819|-13267}}
+{{Asteroid/Item|Silicon|8|3847|3526|16256}}
+{{Asteroid/Item|Silicon|8|-7245|10304|-4392}}
+{{Asteroid/Item|Silicon|3|10273|-10751|10279}}
+{{Asteroid/Item|Silicon|3|-13505|8918|-8181}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Split Navbox}}

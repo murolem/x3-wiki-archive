@@ -1,3 +1,71 @@
-<!-- source file: index__q85a3f6093846.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Quantum Tube Fab
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:40:00
+|productnum=[[Quantum Tubes]] (24)
+|stationprice=
+|reqresources=[[Energy Cells]] (600)<br>[[Ore]] (100)<br>[[Food]] by Race
+|optresources=[[Crystals]]
+}}
+{{Infobox close}}
+==Overview==
+The Quantum Tube Fab manufactures [[Quantum Tubes]] from [[Energy Cells]], [[Ore]] and [[Food]].
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction= |station=Quantum Tube Fab |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:40:00 |productnum=[[Quantum Tubes]] (24) |stationprice= |reqresources=[[Energy Cells]] (600)&lt;br>[[Ore]] (100)&lt;br>[[Food]] by Race |optresources=[[Crystals]] }} {{Infobox close}} ==Overview== The Quantum Tube Fab manufactures [[Quantum Tubes]] from [[Energy Cells]], [[Ore]] and [[Food]]. NPC stations will buy [[Crystals]] as a secondary resource. ===Encyclopedia Entry=== Tube fabs manufacture quantum or so-called Planck tubes, a quantum level counterpart of the valve created from silicon that is used inside the engines and controls of many of the larger transporter ships and destroyers. Some Planck Tubes are also used in the manufacture of Particle Accelerator Cannons. The manufacture of Plank Tubes is both costly and complex. ==Race-specific attributes== {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |+'''Quantum Tube Fab''' |-style="background-color:LightBlue;text-align:center;" !Race!!Food!!Amount!!Station Cost |- style="{{Colour/Argon}}" | [[Argon]] || [[Meatsteak Cahoonas]] || 400 || {{Priceblock|Trusted Ally|4135652}} |- style="{{Colour/Boron}}" | [[Boron]] || [[Bofu]] || 100 ||{{Priceblock|Queen's Guard|5051080}} |- style="{{Colour/Paranid}}" | [[Paranid]] || [[Soja Husk]] || 80 ||{{Priceblock|Friend of Priest King|4590120}} |- style="{{Colour/Split}}" | [[Split]] || [[Rastar Oil]] || 60 ||{{Priceblock|Distinguished Associate|4590120}} |- style="{{Colour/Teladi}}" | [[Teladi]] || [[Nostrop Oil]] || 400 || {{Priceblock|Majority Shareholder|4135652}} |} ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Argon]]''' *{{sa|Cloudbase Southeast}} *{{sa|Legend's Home}} *{{sa|Light of Heart}} | '''[[Boron]]''' *{{sa|Ocean of Fantasy}} *{{sa|Queen's Retribution}} | '''[[Paranid]]''' *{{sa|Heaven's Assertion}} *{{sa|Paranid Prime}} *{{sa|Third Redemption}} *{{sa|Trinity Sanctum}} | '''[[Split]]''' *{{sa|Family Rhy}} *{{sa|Family Tkr}} *{{sa|Patriarch's Conclusion}} *{{sa|Rhonkar's Might}} *{{sa|Rhonkar's Trial}} *{{sa|Zyarth's Dominion}} *{{sa|Zyarth's Stand}} | '''[[Teladi]]''' *{{sa|Ceo's Sprite}} *{{sa|Grand Exchange}} |} {{Stationcategory}}
+NPC stations will buy [[Crystals]] as a secondary resource.
+===Encyclopedia Entry===
+Tube fabs manufacture quantum or so-called Planck tubes, a quantum level counterpart of the valve created from silicon that is used inside the engines and controls of many of the larger transporter ships and destroyers.
+
+Some Planck Tubes are also used in the manufacture of Particle Accelerator Cannons. The manufacture of Plank Tubes is both costly and complex.
+
+==Race-specific attributes==
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|+'''Quantum Tube Fab'''
+|-style="background-color:LightBlue;text-align:center;"
+!Race!!Food!!Amount!!Station Cost
+|- style="{{Colour/Argon}}"
+| [[Argon]] || [[Meatsteak Cahoonas]] || 400 || {{Priceblock|Trusted Ally|4135652}}
+|- style="{{Colour/Boron}}"
+| [[Boron]] || [[Bofu]] || 100 ||{{Priceblock|Queen's Guard|5051080}}
+|- style="{{Colour/Paranid}}"
+| [[Paranid]] || [[Soja Husk]] || 80 ||{{Priceblock|Friend of Priest King|4590120}}
+|- style="{{Colour/Split}}"
+| [[Split]] || [[Rastar Oil]] || 60 ||{{Priceblock|Distinguished Associate|4590120}}
+|- style="{{Colour/Teladi}}"
+| [[Teladi]] || [[Nostrop Oil]] || 400 || {{Priceblock|Majority Shareholder|4135652}}
+|}
+
+==Availability==
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Argon]]'''
+*{{sa|Cloudbase Southeast}}
+*{{sa|Legend's Home}}
+*{{sa|Light of Heart}}
+| '''[[Boron]]'''
+*{{sa|Ocean of Fantasy}}
+*{{sa|Queen's Retribution}}
+| '''[[Paranid]]'''
+*{{sa|Heaven's Assertion}}
+*{{sa|Paranid Prime}}
+*{{sa|Third Redemption}}
+*{{sa|Trinity Sanctum}}
+| '''[[Split]]'''
+*{{sa|Family Rhy}}
+*{{sa|Family Tkr}}
+*{{sa|Patriarch's Conclusion}}
+*{{sa|Rhonkar's Might}}
+*{{sa|Rhonkar's Trial}}
+*{{sa|Zyarth's Dominion}}
+*{{sa|Zyarth's Stand}}
+| '''[[Teladi]]'''
+*{{sa|Ceo's Sprite}}
+*{{sa|Grand Exchange}}
+|}
+
+{{Stationcategory}}

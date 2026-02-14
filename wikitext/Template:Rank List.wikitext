@@ -1,3 +1,36 @@
-<!-- source file: index__qe4cdd3fba5ae.html -->
-
-&lt;table style="background-color:WhiteSmoke;text-align:right;"> &lt;tr> &lt;td>10&lt;/td>&lt;td rowspan="16">&amp;nbsp; &amp;nbsp; &lt;/td>&lt;td>{{{1}}}&lt;/td> &lt;/tr>&lt;tr> &lt;td>9&lt;/td>&lt;td>{{{2}}}&lt;/td> &lt;/tr>&lt;tr> &lt;td>8&lt;/td>&lt;td>{{{3}}}&lt;/td> &lt;/tr>&lt;tr> &lt;td>7&lt;/td>&lt;td>{{{4}}}&lt;/td> &lt;/tr>&lt;tr> &lt;td>6&lt;/td>&lt;td>{{{5}}}&lt;/td> &lt;/tr>&lt;tr> &lt;td>5&lt;/td>&lt;td>{{{6}}}&lt;/td> &lt;/tr>&lt;tr> &lt;td>4&lt;/td>&lt;td>{{{7}}}&lt;/td> &lt;/tr>&lt;tr> &lt;td>3&lt;/td>&lt;td>{{{8}}}&lt;/td> &lt;/tr>&lt;tr> &lt;td>2&lt;/td>&lt;td>{{{9}}}&lt;/td> &lt;/tr>&lt;tr> &lt;td>1&lt;/td>&lt;td>{{{10}}}&lt;/td> &lt;/tr>&lt;tr> &lt;td>0&lt;/td>&lt;td>{{{11}}}&lt;/td> &lt;/tr>&lt;tr> &lt;td>-1&lt;/td>&lt;td>{{{12}}}&lt;/td> &lt;/tr>&lt;tr> &lt;td>-2&lt;/td>&lt;td>{{{13}}}&lt;/td> &lt;/tr>&lt;tr> &lt;td>-3&lt;/td>&lt;td>{{{14}}}&lt;/td> &lt;/tr>&lt;tr> &lt;td>-4&lt;/td>&lt;td>{{{15}}}&lt;/td> &lt;/tr>&lt;tr> &lt;td>-5&lt;/td>&lt;td>{{{16}}}&lt;/td> &lt;/tr> &lt;/table> &lt;noinclude>race rank table&lt;/noinclude>
+<table style="background-color:WhiteSmoke;text-align:right;">
+<tr>
+<td>10</td><td rowspan="16">&nbsp; &nbsp; </td><td>{{{1}}}</td>
+</tr><tr>
+<td>9</td><td>{{{2}}}</td>
+</tr><tr>
+<td>8</td><td>{{{3}}}</td>
+</tr><tr>
+<td>7</td><td>{{{4}}}</td>
+</tr><tr>
+<td>6</td><td>{{{5}}}</td>
+</tr><tr>
+<td>5</td><td>{{{6}}}</td>
+</tr><tr>
+<td>4</td><td>{{{7}}}</td>
+</tr><tr>
+<td>3</td><td>{{{8}}}</td>
+</tr><tr>
+<td>2</td><td>{{{9}}}</td>
+</tr><tr>
+<td>1</td><td>{{{10}}}</td>
+</tr><tr>
+<td>0</td><td>{{{11}}}</td>
+</tr><tr>
+<td>-1</td><td>{{{12}}}</td>
+</tr><tr>
+<td>-2</td><td>{{{13}}}</td>
+</tr><tr>
+<td>-3</td><td>{{{14}}}</td>
+</tr><tr>
+<td>-4</td><td>{{{15}}}</td>
+</tr><tr>
+<td>-5</td><td>{{{16}}}</td>
+</tr>
+</table>
+<noinclude>race rank table</noinclude>

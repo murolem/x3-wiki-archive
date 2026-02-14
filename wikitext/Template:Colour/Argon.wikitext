@@ -1,3 +1,3 @@
-<!-- source file: index__q787afb6d01cc.html -->
-
-background-color:#3195E3;&lt;noinclude> this sets the color for argon title blocks, may be desirable to reconfigure to hold complete style entry. &lt;/noinclude>
+background-color:#3195E3;<noinclude>
+this sets the color for argon title blocks, may be desirable to reconfigure to hold complete style entry.
+</noinclude>

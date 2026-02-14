@@ -1,3 +1,15 @@
-<!-- source file: index__q6cecc7c32ce3.html -->
+{{Infobox open}}
+{{Infobox missile|Missile=Thunderbolt Missile|Yield=75000|Speed=195|Range=75|Cooldown=|Seeker=Targetted|Submunitions=1|Fusing=Impact|Torpedoclass=|Guidance=Heat Seeking|AoE=}}
+{{Infobox ware|ware=Thunderbolt Missile|cargoclass= M|volume= 6|minprice= 7245|aveprice= 8424|maxprice= 9603}}
+{{Infobox close}}
+==Overview==
+A missile of [[Split]] design, the Thunderbolt is a very powerful, fast, and quite cheap munition for use primarily against [[:category:fighters|fighters]]. It can [[Missiles#Overview|track]] its target and is the only missile in the [[Commonwealth]] to have heat-seeking capability.
 
-{{Infobox open}} {{Infobox missile|Missile=Thunderbolt Missile|Yield=75000|Speed=195|Range=75|Cooldown=|Seeker=Targetted|Submunitions=1|Fusing=Impact|Torpedoclass=|Guidance=Heat Seeking|AoE=}} {{Infobox ware|ware=Thunderbolt Missile|cargoclass= M|volume= 6|minprice= 7245|aveprice= 8424|maxprice= 9603}} {{Infobox close}} ==Overview== A missile of [[Split]] design, the Thunderbolt is a very powerful, fast, and quite cheap munition for use primarily against [[:category:fighters|fighters]]. It can [[Missiles#Overview|track]] its target and is the only missile in the [[Commonwealth]] to have heat-seeking capability. ===Encyclopedia Entry=== The Thunderbolt Heatseeker Missile uses inbuilt guidance systems to lock on to heat signatures on both visible and infa-red spectrums. Doing so allows it to track targets in areas where doing so would otherwise be impossible. Classically used when engaging multiple targets at distance, though pilots have since found other more ingenious uses for them. ==Commentary== A powerful and inexpensive missile, the Thunderbolt is most useful for destroying [[M3]] heavy fighters, of which only the strongest will survive more than one hit. Fast and with good range, its biggest drawback is that it is greedy for cargo volume. This can one hit kill any fighter craft unless the target has more than 75 MJ of shielding, although it cannot effectively be used against [[M5]] scouts because they're just too quick to get a lock on. It also can be a serious threat to [[M6]] corvettes, with a dozen or so taking one down. {{Missile Navbox}}
+===Encyclopedia Entry===
+The Thunderbolt Heatseeker Missile uses inbuilt guidance systems to lock on to heat signatures on both visible and infa-red spectrums. Doing so allows it to track targets in areas where doing so would otherwise be impossible. Classically used when engaging multiple targets at distance, though pilots have since found other more ingenious uses for them.
+
+==Commentary==
+A powerful and inexpensive missile, the Thunderbolt is most useful for destroying [[M3]] heavy fighters, of which only the strongest will survive more than one hit. Fast and with good range, its biggest drawback is that it is greedy for cargo volume.
+
+This can one hit kill any fighter craft unless the target has more than 75 MJ of shielding, although it cannot effectively be used against [[M5]] scouts because they're just too quick to get a lock on. It also can be a serious threat to [[M6]] corvettes, with a dozen or so taking one down.
+{{Missile Navbox}}

@@ -1,3 +1,22 @@
-<!-- source file: index__q36378e548b28.html -->
+{{Infobox Sector
+|Race=Split
+|SecLevel=Border
+|Population=56,736,073
+|Planets=0
+|SunLevel=150
+|GateDist=80
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|East|76000|	0|	10000|[[The Shallows]]}}
+{{Gateblock2|South|0|	0|	-50000|[[Barren Shores]]}}
+{{Gateblock2|West|-34000|	0|	0|[[Family Rhy]]}}
+{{Gateblock/End}}
+}}
+==Description==
+Those who enter here do so fo two reasons alone. To kill or be killed. Executor squads routinely patrol, laying in wait for pilots escorted into the sector to face their final moments before being taken by the void. The outer rim is littered with the corpses and wreckage of the damed and the wretched.
 
-{{Infobox Sector |Race=Split |SecLevel=Border |Population=56,736,073 |Planets=0 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|East|76000| 0| 10000|[[The Shallows]]}} {{Gateblock2|South|0| 0| -50000|[[Barren Shores]]}} {{Gateblock2|West|-34000| 0| 0|[[Family Rhy]]}} {{Gateblock/End}} }} ==Description== Those who enter here do so fo two reasons alone. To kill or be killed. Executor squads routinely patrol, laying in wait for pilots escorted into the sector to face their final moments before being taken by the void. The outer rim is littered with the corpses and wreckage of the damed and the wretched. ==Default [[Stations]]== ==[[Asteroids]]== == See Also == {{Split Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+== See Also ==
+{{Split Navbox}}

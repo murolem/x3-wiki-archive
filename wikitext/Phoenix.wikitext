@@ -1,3 +1,181 @@
-<!-- source file: index__qebfc345ee18b.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= Phoenix
+|Faction=Teladi
+|Class={{M2class}}
+|Priceblock={{Priceblock|Venture Profiteer| 69283911}}
+|Minspeed= 23.9
+|Maxspeed= 40.7
+|Minaccel= 2.0
+|Maxaccel= 4.0
+|Minsteer= 0.3
+|Maxsteer= 0.5
+|Hull=6,000,000
+|Maxshield=2 GJ
+|Shieldslots=5
+|Maxshieldstrength=10000
+|Shieldreactor= 8000
+|Cargoclass=XL
+|Mincargo= 13000
+|Maxcargo= 13000
+|Lasercap= 276400
+|Laserrecharge= 4142
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=8
+|ire=0|pac=0|hept=0|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=1|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=1|gc=1|pbe=0|
+isr=1|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=8
+|ire=0|pac=0|hept=1|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=1|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=1|pbe=1|
+isr=1|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Back
+|Guncount=8
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=8
+|ire=0|pac=0|hept=1|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=1|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=1|pbe=1|
+isr=1|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Up
+|Guncount=4
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Down
+|Guncount=4
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+It may not be the best [[M2|Destroyer]] at its job, but its behemoth dimensions make the Phoenix's appearance on the battlefield truly intimidating. It's one of the largest ships in the game files, and one of the two largest ships in the vanilla game. Otherwise, it has typical [[Commonwealth]] destroyer stats, but lower speed and higher shielding, being [[Teladi]]an.
 
-{{Infobox open}} {{Infobox variant |Variant= Phoenix |Faction=Teladi |Class={{M2class}} |Priceblock={{Priceblock|Venture Profiteer| 69283911}} |Minspeed= 23.9 |Maxspeed= 40.7 |Minaccel= 2.0 |Maxaccel= 4.0 |Minsteer= 0.3 |Maxsteer= 0.5 |Hull=6,000,000 |Maxshield=2 GJ |Shieldslots=5 |Maxshieldstrength=10000 |Shieldreactor= 8000 |Cargoclass=XL |Mincargo= 13000 |Maxcargo= 13000 |Lasercap= 276400 |Laserrecharge= 4142 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=8 |ire=0|pac=0|hept=0| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=1|ic=1|fbl=0| psg=0|tbc=0|ebc=0| faa=1|gc=1|pbe=0| isr=1|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Right |Guncount=8 |ire=0|pac=0|hept=1| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=1|ic=1|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=1|pbe=1| isr=1|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Back |Guncount=8 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=1|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Left |Guncount=8 |ire=0|pac=0|hept=1| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=1|ic=1|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=1|pbe=1| isr=1|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Up |Guncount=4 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=1|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Down |Guncount=4 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=1|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== It may not be the best [[M2|Destroyer]] at its job, but its behemoth dimensions make the Phoenix's appearance on the battlefield truly intimidating. It's one of the largest ships in the game files, and one of the two largest ships in the vanilla game. Otherwise, it has typical [[Commonwealth]] destroyer stats, but lower speed and higher shielding, being [[Teladi]]an. ==Background== The Phoenix is the destroyer ship operated by the Teladi Company Space Fleet. Its technology is based on the Paranid [[Odysseus]] and the Boron [[Ray]]. It is well armed and shielded but rarely known to fight. ==Physical Characteristics== The Phoenix is a pile of scrap metal four kilometers long. Generally the largest ship in any sector, the Phoenix is incredible to behold. Its hull is a patchwork of rusting panels, covered in exposed tubing and oddly-positioned turrets. Some like it and others loathe it; whichever pole you stand on, this ship is impossible to miss with weapons fire, or anything else for that matter. == Combat == It is truly awesome to see a Phoenix in battle. However, its great size is actually a pretty big downfall in combat, as it makes it very difficult to avoid taking large hits. Its armament is typical, but its main trick is that its size spoofs enemy targeting: The frontal turret can fire the moment the enemy comes into range, but because of the way range calculation works, the enemy won't start firing until the centre-point of the Phoenix (about 2 kilometres back), comes into range. So you get 2 kilometres of extra firing, and backup from the 10GJ shielding. This makes it a pretty good investment for a ~67Mcr investment plus equipment costs. The Phoenix does have trouble hitting fighters due to lack of [[Flak Artillery Array|flak mounts]] (only 4 at the back, with up/down turrets using [[Concussion Impulse Generator|CIGs]] and [[Ion Shard Railgun|ISR]]s). == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] | *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] *[[Aurora Missile]] *[[Remote Guided Warhead]] *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] | *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] *[[Hornet Missile]] *[[Typhoon Missile]] *[[Firestorm Torpedo]] |} == Availability == {| style="text-align:center;" |- style="{{Colour/Teladi}}" ! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]] |- ! style="text-align:left;" | Phoenix || x || x || x || x || x || x |} Teladi Phoenixes can also be found patrolling Teladi sectors, especially those bordering Xenon sectors. There is always one to be found in [[Seizewell]]. == Suggested Roles== A centre-piece for any self-respecting battle fleet, the Phoenix's natural high shielding makes it a good thing to hide behind when the going gets tough. With decent weapon compatibility and large cargo space for missiles and ammo, it can be a good resupply tanker when used with a transporter device. == See Also== {{M2}} {{Teladi Navbox}}
+==Background==
+The Phoenix is the destroyer ship operated by the Teladi Company Space Fleet. Its technology is based on the Paranid [[Odysseus]] and the Boron [[Ray]]. It is well armed and shielded but rarely known to fight.
+
+==Physical Characteristics==
+The Phoenix is a pile of scrap metal four kilometers long. Generally the largest ship in any sector, the Phoenix is incredible to behold. Its hull is a patchwork of rusting panels, covered in exposed tubing and oddly-positioned turrets. Some like it and others loathe it; whichever pole you stand on, this ship is impossible to miss with weapons fire, or anything else for that matter.
+
+== Combat ==
+It is truly awesome to see a Phoenix in battle. However, its great size is actually a pretty big downfall in combat, as it makes it very difficult to avoid taking large hits. Its armament is typical, but its main trick is that its size spoofs enemy targeting: The frontal turret can fire the moment the enemy comes into range, but because of the way range calculation works, the enemy won't start firing until the centre-point of the Phoenix (about 2 kilometres back), comes into range. So you get 2 kilometres of extra firing, and backup from the 10GJ shielding. This makes it a pretty good investment for a ~67Mcr investment plus equipment costs.
+
+The Phoenix does have trouble hitting fighters due to lack of [[Flak Artillery Array|flak mounts]] (only 4 at the back, with up/down turrets using [[Concussion Impulse Generator|CIGs]] and [[Ion Shard Railgun|ISR]]s).
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;" 
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+|
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Aurora Missile]]
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+|
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+*[[Hornet Missile]]
+*[[Typhoon Missile]]
+*[[Firestorm Torpedo]]
+|}
+== Availability ==
+{| style="text-align:center;"
+|- style="{{Colour/Teladi}}"
+! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]]
+|-
+! style="text-align:left;" | Phoenix || x || x || x || x || x || x
+|}
+
+Teladi Phoenixes can also be found patrolling Teladi sectors, especially those bordering Xenon sectors. There is always one to be found in [[Seizewell]].
+
+== Suggested Roles==
+A centre-piece for any self-respecting battle fleet, the Phoenix's natural high shielding makes it a good thing to hide behind when the going gets tough. With decent weapon compatibility and large cargo space for missiles and ammo, it can be a good resupply tanker when used with a transporter device.
+
+== See Also==
+
+{{M2}}
+
+
+{{Teladi Navbox}}

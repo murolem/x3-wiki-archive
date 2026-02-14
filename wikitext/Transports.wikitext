@@ -1,3 +1,19 @@
-<!-- source file: index__q8f585ccbadfd.html -->
+[[Transports]] describes ships primarily intended to carry cargo from one place to the next.
 
-[[Transports]] describes ships primarily intended to carry cargo from one place to the next. This includes: *[[TL]] *[[TS]] / [[TS+]] *[[TP]] *[[TM]] TLs are large station transports, designed to carry and deploy stations in far away sectors. TSes and TPs are workhorse ships, carrying wares and people from station to station. TMs are militarized transports. They function as a small general purpose carrier, deploying small fighter groups with a minimal logistical footprint. ==See Also== [[:Category:Transport]] {{Shipcategory}}
+This includes:
+*[[TL]]
+*[[TS]] / [[TS+]]
+*[[TP]]
+*[[TM]]
+
+TLs are large station transports, designed to carry and deploy stations in far away sectors.
+
+TSes and TPs are workhorse ships, carrying wares and people from station to station.
+
+TMs are militarized transports. They function as a small general purpose carrier, deploying small fighter groups with a minimal logistical footprint.
+
+==See Also==
+
+[[:Category:Transport]]
+
+{{Shipcategory}}

@@ -1,3 +1,19 @@
-<!-- source file: index__q49095e205468.html -->
+{{Infobox open}}
+{{Infobox missile|Missile=Rapier Missile|Yield=1000|Speed=657|Range=100|Cooldown=|Seeker= Targetted|Submunitions=1|Fusing=Impact|Torpedoclass=|Guidance=Image-recognition  |AoE=}}
+{{Infobox ware|ware=Rapier Missile|cargoclass=S|volume=1|minprice=|aveprice=1348 |maxprice=}}
+{{Infobox close}}
+==Overview==
+The Rapier is a rare weapon, not available to buy. It has [[Missiles#Overview|tracking]] capability, is faster than any ship, and powerful enough to be a serious threat to a scout. Its extreme range means that no fighter can be safe from the launch of this weapon.
 
-{{Infobox open}} {{Infobox missile|Missile=Rapier Missile|Yield=1000|Speed=657|Range=100|Cooldown=|Seeker= Targetted|Submunitions=1|Fusing=Impact|Torpedoclass=|Guidance=Image-recognition |AoE=}} {{Infobox ware|ware=Rapier Missile|cargoclass=S|volume=1|minprice=|aveprice=1348 |maxprice=}} {{Infobox close}} ==Overview== The Rapier is a rare weapon, not available to buy. It has [[Missiles#Overview|tracking]] capability, is faster than any ship, and powerful enough to be a serious threat to a scout. Its extreme range means that no fighter can be safe from the launch of this weapon. ==Encyclopedia Entry== Fresh from the drawing boards of the Argon Military Research Labs, the Rapier can acquire and lock down targets at speed, launching a devastating albeit weak attack against an enemy vessel, far faster than many pilots reflexes. Used in close ranged combat, often in numbers, as well as through medium ranged evasive routines, this device is considered to be an essential backup to any standard array of laser weaponry. ==Commentary== Ironically, while it is an Argon developed missile, for some reason, there are no working factories that produce this weapon. The Rapier is by far the fastest missile. It is fast enough to keep up with a [[Kestrel|Teladi Kestrel]] and its [[Pirate Kestrel|pirate]] equivalent, making it an excellent weapon for dealing with [[M5]]s harrying a larger vessel. However, given its rarity, it is difficult to source. Since it deals 1 MJ worth of damage, it will take multiple numbers of the Rapier to take down an M5 that has more than a 1 MJ shield. In Albion Prelude, the Rapier is the second fastest missile in the game after the slightly buffed [[Mosquito Missile]]. {{Missile Navbox}} [[Category:Not Purchasable]]
+==Encyclopedia Entry==
+Fresh from the drawing boards of the Argon Military Research Labs, the Rapier can acquire and lock down targets at speed, launching a devastating albeit weak attack against an enemy vessel, far faster than many pilots reflexes. Used in close ranged combat, often in numbers, as well as through medium ranged evasive routines, this device is considered to be an essential backup to any standard array of laser weaponry.
+
+==Commentary==
+Ironically, while it is an Argon developed missile, for some reason, there are no working factories that produce this weapon.
+
+The Rapier is by far the fastest missile. It is fast enough to keep up with a [[Kestrel|Teladi Kestrel]] and its [[Pirate Kestrel|pirate]] equivalent, making it an excellent weapon for dealing with [[M5]]s harrying a larger vessel. However, given its rarity, it is difficult to source. Since it deals 1 MJ worth of damage, it will take multiple numbers of the Rapier to take down an M5 that has more than a 1 MJ shield.
+
+In Albion Prelude, the Rapier is the second fastest missile in the game after the slightly buffed [[Mosquito Missile]].
+
+{{Missile Navbox}}
+[[Category:Not Purchasable]]

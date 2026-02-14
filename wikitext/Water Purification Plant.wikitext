@@ -1,3 +1,34 @@
-<!-- source file: index__q5805470e3dbf.html -->
+{{Infobox open}}
+{{Infobox factory
+|faction=Terran
+|station=Water Purification Plant L
+|hull=2250000
+|shield=15
+|generator=1500
+|hangar=10
+|cycle=00:01:12
+|productnum=[[Water]] (120)
+|stationprice=
+|reqresources=[[Energy Cells]] (90)<br>[[Ice]] (15)
+|optresources=None
+}}
 
-{{Infobox open}} {{Infobox factory |faction=Terran |station=Water Purification Plant L |hull=2250000 |shield=15 |generator=1500 |hangar=10 |cycle=00:01:12 |productnum=[[Water]] (120) |stationprice= |reqresources=[[Energy Cells]] (90)&lt;br>[[Ice]] (15) |optresources=None }} {{Infobox factory |faction=Terran |station=Water Purification Plant M |hull=300000 |shield=8 |generator=1500 |hangar=10 |cycle=00:01:12 |productnum=[[Water]] (24) |stationprice= |reqresources=[[Energy Cells]] (18)&lt;br>[[Ice]] (3) |optresources=None }} {{Infobox close}} ==Overview== Water Purification Plants are Terran factories that produce [[Water]] from [[Energy Cells]] and [[Ice]]. ===Encyclopedia Entry=== [[Water]], in the form of [[ice]], is harvested from asteroids and then treated by Water Purification Plants to be made safe for human consumption.
+{{Infobox factory
+|faction=Terran
+|station=Water Purification Plant M
+|hull=300000
+|shield=8
+|generator=1500
+|hangar=10
+|cycle=00:01:12
+|productnum=[[Water]] (24)
+|stationprice=
+|reqresources=[[Energy Cells]] (18)<br>[[Ice]] (3)
+|optresources=None
+}}
+{{Infobox close}}
+
+==Overview==
+Water Purification Plants are Terran factories that produce [[Water]] from [[Energy Cells]] and [[Ice]].
+===Encyclopedia Entry===
+[[Water]], in the form of [[ice]], is harvested from asteroids and then treated by Water Purification Plants to be made safe for human consumption.

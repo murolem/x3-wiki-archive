@@ -1,3 +1,24 @@
-<!-- source file: index__qdc0065f41bfb.html -->
+{{Infobox Sector
+|Race=Split
+|SecLevel=Border
+|Population=4,668,683
+|Planets=4
+|SunLevel=150
+|GateDist=105
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th></tr>
+{{Gateblock2|North|-32500|	0|	30290|[[Family Ryk]]}}
+{{Gateblock2|East|49790|	0|	0|[[Zyarth's Dominion]]}}
+</table>
+}}
+==Description==
+===Encyclopedia Entry===
+After a failed attempt at securing land from the Njy family, the Zyarth family had no choice but to look elsewhere. Rumors emerged over time that the Ryk family had discovered a new system which they were soon planning to occupy. However, because of a lack of resources, they kept such knowledge a closely guarded secret - or so they thought. Acting upon data collected from their spies, the Zyarth family moved in quickly and established a colony, much to the Ryk family's anger.
 
-{{Infobox Sector |Race=Split |SecLevel=Border |Population=4,668,683 |Planets=4 |SunLevel=150 |GateDist=105 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;/tr> {{Gateblock2|North|-32500| 0| 30290|[[Family Ryk]]}} {{Gateblock2|East|49790| 0| 0|[[Zyarth's Dominion]]}} &lt;/table> }} ==Description== ===Encyclopedia Entry=== After a failed attempt at securing land from the Njy family, the Zyarth family had no choice but to look elsewhere. Rumors emerged over time that the Ryk family had discovered a new system which they were soon planning to occupy. However, because of a lack of resources, they kept such knowledge a closely guarded secret - or so they thought. Acting upon data collected from their spies, the Zyarth family moved in quickly and established a colony, much to the Ryk family's anger. ===Information=== This sector has completely vanished as of Albion Prelude; the West Gate from [[Zyarth's Dominion]] is lifeless and Family Zyarth cannot be reached by jumpdrive. The fate of its inhabitants is unknown. ==Default [[Stations]]== ==[[Asteroids]]== == See Also == {{Split Navbox}}
+===Information===
+This sector has completely vanished as of Albion Prelude; the West Gate from [[Zyarth's Dominion]] is lifeless and Family Zyarth cannot be reached by jumpdrive. The fate of its inhabitants is unknown.
+==Default [[Stations]]==
+==[[Asteroids]]==
+
+== See Also ==
+{{Split Navbox}}

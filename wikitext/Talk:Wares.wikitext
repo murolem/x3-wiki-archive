@@ -1,3 +1,77 @@
-<!-- source file: index__qdd4822655ff4.html -->
+Standard form to be used in Ware articles;
+<pre>
+{{Infobox open}}
+{{Infobox ware
+|ware= 
+|cargoclass=
+|volume=
+|minprice=
+|aveprice=
+|maxprice=
+}}
+{{Infobox close}}
+==Overview==
+==Commentary==
+==Trading information==
+{|
+! Sold by; !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*Race Factory where this ware is sold
 
-Standard form to be used in Ware articles; &lt;pre> {{Infobox open}} {{Infobox ware |ware= |cargoclass= |volume= |minprice= |aveprice= |maxprice= }} {{Infobox close}} ==Overview== ==Commentary== ==Trading information== {| ! Sold by; !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *Race Factory where this ware is sold | *List of Race Factories where this ware is a primary resource | *List of Race Factories where this ware is a secondary resource | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}} &lt;/pre> [[User:Madned|Madned]] 14:47, 27 September 2010 (CDT) The trading information table has the potential to be unwieldy for ubiquitous wares like foods and energy cells, recommend not implementing in specific on those pages. for example [[Meatsteak Cahoonas]], comments? [[User:Madned|Madned]] 13:07, 18 November 2010 (CST) &lt;pre> {| border="1" cellspacing="0" cellpadding="2" |- valign="top" ! scope="row"| Sold by; | |- valign="top" ! scope="row"|Primary Resource at | {| |+'''&lt;race> Primary Resource Factory list''' |- valign="top" | | | | |} |- valign="top" ! scope="row"|Secondary Resource at | *secondary resource factory list |- valign="top" ! scope="row"|Traded at | *List of Trading Stations where this ware is traded (sector only) |} &lt;/pre> Rotated variant takes up less vertical space uses horizontal better on large series. on shorter series vertical stacking will probably be worse than the unrotated variant. [[User:Madned|Madned]] 13:27, 18 November 2010 (CST) This page is missing ship equipment information for things like jumpdrives, CLS etc. Which section should it go in? [[User:Spychotic|Spychotic]] Best guess mr spock. aka add one, it's a wiki :P ideally if the in-game encyclopedia has it laid out use that form. [[User:Madned|Madned]] 13:12, 6 October 2010 (CDT)
+|
+*List of Race Factories where this ware is a primary resource
+|
+*List of Race Factories where this ware is a secondary resource
+
+|
+*List of Trading Stations where this ware is traded (sector only)
+
+|}
+
+{{Warecategory}}
+</pre>
+[[User:Madned|Madned]] 14:47, 27 September 2010 (CDT)
+
+The trading information table has the potential to be unwieldy for ubiquitous wares like foods and energy cells, recommend not implementing in specific on those pages. for example [[Meatsteak Cahoonas]], comments? [[User:Madned|Madned]] 13:07, 18 November 2010 (CST)
+
+<pre>
+{| border="1" cellspacing="0" cellpadding="2"
+|- valign="top"
+! scope="row"| Sold by; 
+|
+
+|- valign="top"
+! scope="row"|Primary Resource at 
+|
+{|
+|+'''<race> Primary Resource Factory list'''
+|- valign="top"
+|
+
+|
+
+|
+
+|
+
+|}
+
+|- valign="top"
+! scope="row"|Secondary Resource at 
+|
+*secondary resource factory list
+
+|- valign="top"
+! scope="row"|Traded at
+|
+*List of Trading Stations where this ware is traded (sector only)
+
+|}
+</pre>
+Rotated variant takes up less vertical space uses horizontal better on large series. on shorter series vertical stacking will probably be worse than the unrotated variant. [[User:Madned|Madned]] 13:27, 18 November 2010 (CST)
+
+
+This page is missing ship equipment information for things like jumpdrives, CLS etc. Which section should it go in? [[User:Spychotic|Spychotic]]
+
+Best guess mr spock. aka add one, it's a wiki :P ideally if the in-game encyclopedia has it laid out use that form. [[User:Madned|Madned]] 13:12, 6 October 2010 (CDT)

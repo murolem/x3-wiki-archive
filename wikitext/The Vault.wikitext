@@ -1,3 +1,20 @@
-<!-- source file: index__q09465b98fd56.html -->
+{{Infobox Sector
+|Race=Teladi
+|SecLevel=Border
+|Population=
+|Planets=
+|SunLevel=150
+|GateDist=
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|South|0|	0|	-35315	|[[Shareholder's Fortune]]}}
+</table>
+}}
+==Description==
+==Default [[Stations]]==
+*Teladi Equipment Dock
+==[[Asteroids]]==
 
-{{Infobox Sector |Race=Teladi |SecLevel=Border |Population= |Planets= |SunLevel=150 |GateDist= |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|South|0| 0| -35315 |[[Shareholder's Fortune]]}} &lt;/table> }} ==Description== ==Default [[Stations]]== *Teladi Equipment Dock ==[[Asteroids]]== == See Also == {{Teladi Navbox}}
+
+== See Also ==
+{{Teladi Navbox}}

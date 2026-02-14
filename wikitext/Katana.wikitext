@@ -1,3 +1,130 @@
-<!-- source file: index__q517811191880.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Katana
+|Faction=Terran
+|Class={{M6class}}
+|Priceblock={{Priceblock|Warrior of Io| 6490494 }}
+|Minspeed=68
+|Maxspeed=136
+|Minaccel=7
+|Maxaccel=14
+|Minsteer=2.0
+|Maxsteer=4.1
+|Hull=51000 / 204000 (AP)
+|Maxshield=200 MJ
+|Shieldslots=5
+|Maxshieldstrength=1000
+|Shieldreactor= 3250 
+|Cargoclass=XL
+|Mincargo=700
+|Maxcargo=1000
+|Lasercap=19000 
+|Laserrecharge=570 / 2100 (AP)
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Bottom
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+A powerful and versatile [[Terran|USC]] corvette, the '''Katana''' is highly capable in most combat roles. Capable of using the lethal [[Matter/Anti-Matter Launcher]] and with a good cargobay for ammunition, it packs deadly firepower against large ships, and its multiple turrets provide either extra anti-capital firepower or anti-fighter services using [[Electro-Magnetic Plasma Cannon]]s. It is reasonably fast, slower than the [[Boron]] [[Hydra]] but faster than the [[ATF]] [[Vidar]], at around 130 m/s. Its shielding, as with all [[Terran]] craft, is very high for its class, at 1 [[Shields|GJ]]. Its main weapon array only has six slots, but with multiple turrets with several mounts on each its firepower is not compromised.
 
-{{Infobox open}} {{Infobox variant |Variant=Katana |Faction=Terran |Class={{M6class}} |Priceblock={{Priceblock|Warrior of Io| 6490494 }} |Minspeed=68 |Maxspeed=136 |Minaccel=7 |Maxaccel=14 |Minsteer=2.0 |Maxsteer=4.1 |Hull=51000 / 204000 (AP) |Maxshield=200 MJ |Shieldslots=5 |Maxshieldstrength=1000 |Shieldreactor= 3250 |Cargoclass=XL |Mincargo=700 |Maxcargo=1000 |Lasercap=19000 |Laserrecharge=570 / 2100 (AP) |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Right |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Left |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Bottom |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== A powerful and versatile [[Terran|USC]] corvette, the '''Katana''' is highly capable in most combat roles. Capable of using the lethal [[Matter/Anti-Matter Launcher]] and with a good cargobay for ammunition, it packs deadly firepower against large ships, and its multiple turrets provide either extra anti-capital firepower or anti-fighter services using [[Electro-Magnetic Plasma Cannon]]s. It is reasonably fast, slower than the [[Boron]] [[Hydra]] but faster than the [[ATF]] [[Vidar]], at around 130 m/s. Its shielding, as with all [[Terran]] craft, is very high for its class, at 1 [[Shields|GJ]]. Its main weapon array only has six slots, but with multiple turrets with several mounts on each its firepower is not compromised. ==Background== The Katana represents the ultimate in [[Terran|USC]] combat vessel capability. The Katana-Class corvette is equally at home supporting battlegroups or on long-range patrol. ==Physical Characteristics== Like most [[Terran]] ships, the Katana is a smooth white color with a sleek hull that slopes gently towards the bridge at the bow. Relatively average-sized for a [[M6|corvette]], it is difficult to hit from the front, rear, and sides, but offers a large target from above and below. The Katana's bridge offers an unobscured view of space. == Combat == The Katana, when equipped with anti-corvette weaponry, can murder a ship equal to or even slightly bigger than itself with a frontal charge. It also has enough punch in the turrets to take out light fighters quite rapidly, and heavy fighters scarcely any slower. While [[Matter/Anti-Matter Launcher]]s only tickle most larger ships' shields, with sufficient ammunition and good evasive skill, a Katana in player hands can leverage its weaponry's lack of energy drain to slowly cripple even enemy [[M7|frigates]] at close range, especially when taking advantage of blind spots. == Equipment == '''Hardpoints:''' *[[Matter/Anti-Matter Launcher]] *[[Electro-Magnetic Plasma Cannon]] *[[Mobile Drilling System]] *[[Repair Laser]] *[[Tractor Beam]] '''Missiles:''' *[[Poltergeist Missile]] *[[Spectre Missile]] *[[Wraith Missile]] == Availability == The Katana is available for purchase at [[Terran Shipyard]]s in the following sectors: {| style="text-align:center;" |+'''Availability''' |- style="{{Colour/Terran}}" ! Variant !![[Mars]] !! [[The Moon]] !! [[Saturn]] !! [[Terran Unknown Sector 1]] |- ! Katana || x || x || x || |} == Suggested Roles== As an escort, patrol leader or player ship, the Katana will excel in most situations not involving a [[:Category:Capital Ships|capital ship]] larger than a [[Carrack]]. == See Also== {{M6}} {{Terran Navbox}}
+==Background==
+The Katana represents the ultimate in [[Terran|USC]] combat vessel capability. The Katana-Class corvette is equally at home supporting battlegroups or on long-range patrol.
+
+==Physical Characteristics==
+Like most [[Terran]] ships, the Katana is a smooth white color with a sleek hull that slopes gently towards the bridge at the bow. Relatively average-sized for a [[M6|corvette]], it is difficult to hit from the front, rear, and sides, but offers a large target from above and below. The Katana's bridge offers an unobscured view of space.
+
+== Combat ==
+The Katana, when equipped with anti-corvette weaponry, can murder a ship equal to or even slightly bigger than itself with a frontal charge. It also has enough punch in the turrets to take out light fighters quite rapidly, and heavy fighters scarcely any slower. While [[Matter/Anti-Matter Launcher]]s only tickle most larger ships' shields, with sufficient ammunition and good evasive skill, a Katana in player hands can leverage its weaponry's lack of energy drain to slowly cripple even enemy [[M7|frigates]] at close range, especially when taking advantage of blind spots.
+
+== Equipment ==
+'''Hardpoints:'''
+*[[Matter/Anti-Matter Launcher]]
+*[[Electro-Magnetic Plasma Cannon]]
+*[[Mobile Drilling System]]
+*[[Repair Laser]]
+*[[Tractor Beam]]
+
+'''Missiles:'''
+*[[Poltergeist Missile]]
+*[[Spectre Missile]]
+*[[Wraith Missile]]
+
+== Availability ==
+The Katana is available for purchase at [[Terran Shipyard]]s in the following sectors:
+{| style="text-align:center;"
+|+'''Availability'''
+|- style="{{Colour/Terran}}"
+! Variant !![[Mars]] !! [[The Moon]] !! [[Saturn]] !! [[Terran Unknown Sector 1]]
+|-
+! Katana || x || x || x ||
+|}
+
+== Suggested Roles==
+As an escort, patrol leader or player ship, the Katana will excel in most situations not involving a [[:Category:Capital Ships|capital ship]] larger than a [[Carrack]].
+
+== See Also==
+
+{{M6}}
+
+{{Terran Navbox}}

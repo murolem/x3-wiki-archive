@@ -1,3 +1,36 @@
-<!-- source file: index__qe1108b0ea309.html -->
+Asteroids are large rock-like hunks of matter in space. They represent significant navigation hazards, although low density fields are navigable.
 
-Asteroids are large rock-like hunks of matter in space. They represent significant navigation hazards, although low density fields are navigable. Certain large varieties are immune to standard ship [[weapons]] fire and require certain [[missiles|heavy weapons]] or a [[Mobile Drilling System|Mining Laser]] to shatter. These asteroids may have [[factories|mining facilities]] placed on them to extract [[Wares#Other Wares|resources]] vital to space-borne industries. == Types == In the [[X Universe]], asteroids are classified by 4 types of minerals. {{Asteroid list}} Traditionally, most common factories use [[Ore]] or [[Silicon]], with [[Nividium]] having very few uses outside of certain plot [[missions]]. [[Ice]] is a special case, as it is used exclusively by the [[Terran]], and so is either very important (for Terrans), or not very important at all (for [[Commonwealth]] factories). == Yield == Additionally, Each type has certain amount of yield. The higher the yield the more raw resource can be mined from mining stations placed on the asteroid. A [[Mineral Scanner]] is useful when surveying asteroid fields for the richest yields. {| class="wikitable sortable" style="text-align:center;" |+ '''Asteroid Yield Ranges''' |- ! Asteroid Type !! Minimum Yield !! Maximum Yield |- | Ore || 1||102 |- | Silicon || 1||72 |- | Ice || 1||133 |- | Nividium || 1||72 |} Smaller asteroids may be broken up by normal weapons fire and may be collected, an activity upon which [[Mobile Mining]] is based. == See Also == *[[Ice]] *[[Nividium]] *[[Silicon]] *[[Ore]] *[[Mobile Mining]]
+Certain large varieties are immune to standard ship [[weapons]] fire and require certain [[missiles|heavy weapons]] or a [[Mobile Drilling System|Mining Laser]] to shatter.
+These asteroids may have [[factories|mining facilities]] placed on them to extract [[Wares#Other Wares|resources]] vital to space-borne industries.
+
+== Types ==
+In the [[X Universe]], asteroids are classified by 4 types of minerals.
+{{Asteroid list}}
+
+Traditionally, most common factories use [[Ore]] or [[Silicon]], with [[Nividium]] having very few uses outside of certain plot [[missions]]. [[Ice]] is a special case, as it is used exclusively  by the [[Terran]], and so is either very important (for Terrans), or not very important at all (for [[Commonwealth]] factories).
+
+== Yield ==
+Additionally, Each type has certain amount of yield. The higher the yield the more raw resource can be mined from mining stations placed on the asteroid. A [[Mineral Scanner]] is useful when surveying asteroid fields for the richest yields.
+
+{| class="wikitable sortable" style="text-align:center;"
+|+ '''Asteroid Yield Ranges'''
+|-
+! Asteroid Type !! Minimum Yield !! Maximum Yield
+|-
+| Ore || 1||102
+|-
+| Silicon || 1||72
+|-
+| Ice || 1||133
+|-
+| Nividium || 1||72
+|}
+
+Smaller asteroids may be broken up by normal weapons fire and may be collected, an activity upon which [[Mobile Mining]] is based.
+
+== See Also ==
+*[[Ice]]
+*[[Nividium]]
+*[[Silicon]]
+*[[Ore]]
+*[[Mobile Mining]]

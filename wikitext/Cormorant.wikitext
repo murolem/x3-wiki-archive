@@ -1,3 +1,149 @@
-<!-- source file: index__q10f569c711d9.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Cormorant
+|Faction=Teladi
+|Class={{M7Cclass}}
+|Priceblock={{priceblock||13495504}}
+|Minspeed=67.7
+|Maxspeed=115
+|Minaccel=3 
+|Maxaccel=5 
+|Minsteer=.7 
+|Maxsteer=1
+|Hull=720,000
+|Maxshield=200 MJ
+|Shieldslots=3
+|Maxshieldstrength=600
+|Shieldreactor= 3,500
+|Cargoclass=XL
+|Mincargo=6500
+|Maxcargo=8000
+|Lasercap=10,000
+|Laserrecharge=500
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=2
+|ire=0|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=1|pbe=0|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=2
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Up
+|Guncount=2
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Down
+|Guncount=2
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay={{Dockbay|12 [[M3+]]-[[M5]]}}
+}}
+{{Infobox close}}
+==Overview==
+Teladi Cormorant, a new vessel added in Albion Prelude.
+The Teladi Cormorant is one of the new ships of Albion Prelude, known colloquially as an "M7C". (M7 Carrier)
 
-{{Infobox open}} {{Infobox variant |Variant=Cormorant |Faction=Teladi |Class={{M7Cclass}} |Priceblock={{priceblock||13495504}} |Minspeed=67.7 |Maxspeed=115 |Minaccel=3 |Maxaccel=5 |Minsteer=.7 |Maxsteer=1 |Hull=720,000 |Maxshield=200 MJ |Shieldslots=3 |Maxshieldstrength=600 |Shieldreactor= 3,500 |Cargoclass=XL |Mincargo=6500 |Maxcargo=8000 |Lasercap=10,000 |Laserrecharge=500 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=2 |ire=0|pac=1|hept=0| cig=0|ppc=0| md=0|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=1|pbe=0| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Rear |Guncount=2 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Up |Guncount=2 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Down |Guncount=2 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay={{Dockbay|12 [[M3+]]-[[M5]]}} }} {{Infobox close}} ==Overview== Teladi Cormorant, a new vessel added in Albion Prelude. The Teladi Cormorant is one of the new ships of Albion Prelude, known colloquially as an "M7C". (M7 Carrier) ==Background== The Cormorant is the Teladi Company's response to the recent drone-frigate trend that has taken the commonwealth militaries by storm. Cheap, rough, sturdy and completely devoid of any aesthetic embellishment, the Cormorant fulfills its major function of drone management without any unnecessary fuss. Though construction quality is estimated to be extremely low, there are as yet no known cases of these ships spontaneously exploding in flight. The Teladi military has purchased a number of Cormorants, but the main purpose of this ship is to fill a market niche, which is the one task it completely fulfilled. ==Physical Characteristics== The ship looks like a scaled-down version of other Teladi capital ships - inelegant but functional. == Combat == Like other M7Cs, the Cormorant is a force projector, able to carry a small wing of fighters. Out of its sister ships, it is the best suited for direct capital conflict, able to mount two Gauss Cannons in the front. However, its low shields mean it won't survive anything but a brief encounter with anything larger than an M6. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Silkworm Missile]] *[[Disruptor Missile]] | *[[Thunderbolt Missile]] *[[Tempest Missile]] *[[Hurricane Missile]] *[[Cyclone Missile]] | *[[Tornado Missile]] *[[Remote Guided Warhead]] *[[Beluga Missile]] *[[Hammerhead Missile]] | *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == {| style="text-align:center;" |- style="{{Colour/Teladi}}" ! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]] |- ! style="text-align:left;" | Cormorant || || || x || || || |} Available in Albion Prelude. == Player Headquarters Production Info == {{PHQBuild||Ecells=|Tldium=|CRimes=|ROil=|Ore=|SWafer=|Crystal=|QTube=|MChips=|CComp=|SFee=|BTime=}} == Suggested Roles== This ship is ideal for use as a heavily-armored jump trader. It could also be used in a combat support role: drop fighters, strike, and jump away. == See Also== *[[Gannet|Teladi Gannet]] *[[Shrike|Teladi Shrike]] {{M7C}} [[Category: Carrier]] {{Teladi Navbox}}
+==Background==
+The Cormorant is the Teladi Company's response to the recent drone-frigate trend that has taken the commonwealth militaries by storm. Cheap, rough, sturdy and completely devoid of any aesthetic embellishment, the Cormorant fulfills its major function of drone management without any unnecessary fuss. Though construction quality is estimated to be extremely low, there are as yet no known cases of these ships spontaneously exploding in flight. The Teladi military has purchased a number of Cormorants, but the main purpose of this ship is to fill a market niche, which is the one task it completely fulfilled.
+
+==Physical Characteristics==
+The ship looks like a scaled-down version of other Teladi capital ships - inelegant but functional.
+== Combat ==
+Like other M7Cs, the Cormorant is a force projector, able to carry a small wing of fighters. Out of its sister ships, it is the best suited for direct capital conflict, able to mount two Gauss Cannons in the front. However, its low shields mean it won't survive anything but a brief encounter with anything larger than an M6.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Silkworm Missile]]
+*[[Disruptor Missile]]
+|
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+|
+*[[Tornado Missile]]
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+|
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+
+== Availability ==
+{| style="text-align:center;"
+|- style="{{Colour/Teladi}}"
+! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]]
+|-
+! style="text-align:left;" | Cormorant ||  ||  || x ||  ||  || 
+|}
+
+Available in Albion Prelude.
+
+== Player Headquarters Production Info ==
+{{PHQBuild||Ecells=|Tldium=|CRimes=|ROil=|Ore=|SWafer=|Crystal=|QTube=|MChips=|CComp=|SFee=|BTime=}}
+
+== Suggested Roles==
+This ship is ideal for use as a heavily-armored jump trader.
+It could also be used in a combat support role: drop fighters, strike, and jump away.
+
+== See Also==
+*[[Gannet|Teladi Gannet]]
+*[[Shrike|Teladi Shrike]]
+{{M7C}}
+[[Category: Carrier]]
+
+
+{{Teladi Navbox}}

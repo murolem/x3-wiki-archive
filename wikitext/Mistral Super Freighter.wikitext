@@ -1,3 +1,107 @@
-<!-- source file: index__q9c1172304bb1.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Mistral Super Freighter
+|Faction=OTAS
+|Class={{TS+class}}
+|Priceblock={{Priceblock|| 1,509,303}}
+|Minspeed=39 
+|Maxspeed=78
+|Minaccel=4
+|Maxaccel=9
+|Minsteer=3.2
+|Maxsteer=6.5
+|Hull= 60,000
+|Maxshield=25 MJ
+|Shieldslots=6
+|Maxshieldstrength=150
+|Shieldreactor= 600
+|Cargoclass=XL
+|Mincargo=10000
+|Maxcargo=15000
+|Lasercap=850
+|Laserrecharge=8
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=2
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=2
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
 
-{{Infobox open}} {{Infobox variant |Variant=Mistral Super Freighter |Faction=OTAS |Class={{TS+class}} |Priceblock={{Priceblock|| 1,509,303}} |Minspeed=39 |Maxspeed=78 |Minaccel=4 |Maxaccel=9 |Minsteer=3.2 |Maxsteer=6.5 |Hull= 60,000 |Maxshield=25 MJ |Shieldslots=6 |Maxshieldstrength=150 |Shieldreactor= 600 |Cargoclass=XL |Mincargo=10000 |Maxcargo=15000 |Lasercap=850 |Laserrecharge=8 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=2 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Rear |Guncount=2 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} == Overview == The Mistral Super Freighter has an average maximum cargo bay size and speed among [[TS+]] transports, and the worst shielding in its class, making it an unusually weak entry by [[OTAS]]. It's fairly inexpensive, though, not least thanks to the large stock cargo bay. Compared to the [[Mistral]], the Mistral Super Freighter sacrifices speed and turrets for 2 extra 25 MJ shields. As such, it is poorly suited to combat and is reliant on its shields to allow it to escape with a jumpdrive. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] *[[Disruptor Missile]] | *[[Firefly Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] *[[Hurricane Missile]] *[[Cyclone Missile]] | *[[Tornado Missile]] *[[Aurora Missile]] *[[Remote Guided Warhead]] *[[Beluga Missile]] *[[Hammerhead Missile]] | *[[Rapier Missile]] *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == The Mistral Super Freighter is available from the OTAS shipyard in [[Legend's Home]] == Suggested Roles== Mistral Super Freighters are a lackluster choice for [[Traders|Universe Traders]]. With the weakest shields and fewest guns of any TS+ and only average cargo and speed, the MSF might not be the best choice for this role. Its biggest claim to fame is the simplicity of supplying a freshly purchased Mistral with a [[jumpdrive]], as they are available right there at the shipyard. With its large stock cargo bay of 10,000, it can be commissioned more cheaply for hauling bulk cargo than the other TS+, thanks to not requiring as many progressively more expensive [[Cargo Bay Extension|Cargo Bay Extensions]]. This makes the MSF an attractive choice in a CAG role. == See Also== * [[Mistral]] {{TS+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+
+== Overview ==
+
+The Mistral Super Freighter has an average maximum cargo bay size and speed among [[TS+]] transports, and the worst shielding in its class, making it an unusually weak entry by [[OTAS]]. It's fairly inexpensive, though, not least thanks to the large stock cargo bay.
+
+Compared to the [[Mistral]], the Mistral Super Freighter sacrifices speed and turrets for 2 extra 25 MJ shields. As such, it is poorly suited to combat and is reliant on its shields to allow it to escape with a jumpdrive.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+*[[Disruptor Missile]]
+|
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+|
+*[[Tornado Missile]]
+*[[Aurora Missile]]
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+|
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+== Availability ==
+The Mistral Super Freighter is available from the OTAS shipyard in [[Legend's Home]]
+
+== Suggested Roles==
+Mistral Super Freighters are a lackluster choice for [[Traders|Universe Traders]].  With the weakest shields and fewest guns of any TS+ and only average cargo and speed, the MSF might not be the best choice for this role.  Its biggest claim to fame is the simplicity of supplying a freshly purchased Mistral with a [[jumpdrive]], as they are available right there at the shipyard.
+
+With its large stock cargo bay of 10,000, it can be commissioned more cheaply for hauling bulk cargo than the other TS+, thanks to not requiring as many progressively more expensive [[Cargo Bay Extension|Cargo Bay Extensions]]. This makes the MSF an attractive choice in a CAG role.
+
+== See Also==
+
+* [[Mistral]]
+
+{{TS+}}

@@ -1,3 +1,52 @@
-<!-- source file: index__qc028e86f6708.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Mass Driver
+|hulldam=185 / 555 (AP)
+|shielddam=0
+|range=0.997
+|rof= 740
+|shotspeed= 739
+|maxweapenergy=400 
+|shotcost=12
+}}
+{{Infobox ware
+|ware=Mass Driver
+|cargoclass=S
+|volume=1
+|minprice=102841
+|aveprice=116864
+|maxprice=130887
+}}
+{{Infobox close}}
+==Overview==
+The Mass Driver or MD is an ammunition based weapon that pierces [[shields]] to deal damage directly to the hull of the target.
 
-{{Infobox open}} {{Infobox weapon |weapon=Mass Driver |hulldam=185 / 555 (AP) |shielddam=0 |range=0.997 |rof= 740 |shotspeed= 739 |maxweapenergy=400 |shotcost=12 }} {{Infobox ware |ware=Mass Driver |cargoclass=S |volume=1 |minprice=102841 |aveprice=116864 |maxprice=130887 }} {{Infobox close}} ==Overview== The Mass Driver or MD is an ammunition based weapon that pierces [[shields]] to deal damage directly to the hull of the target. MDs require [[Mass Driver Ammunition]] to fire. ==Encyclopedia Entry== This weapon is unique in that it is the only type of non-energy based projectile weapon available. It consists of a rapid feed multi barrelled cannon, which is capable of delivering a large number of small projectiles to its target in a short period of time. It inflicts damage not due to power of individual projectiles but because of the large number of projectiles delivered. Due to the unique nature of the weapon's ammunition it has almost no effect on a ship's shields but instead delivers heavy damage directly to the target's hull. It also causes very little power drain due to the fact that its ammunition supplies all offensive requirements. Currently the weapon can only be fitted on Argon and Split ships as they are the only ships that can accommodate the ammunition feed system. The true power of this weapon comes from its ammunition. ==Commentary== The high bullet velocity and shield piercing properties of its shots pose an unusually high threat to space vessels and make it fairly easy to use. The MD's high [[Rate of Fire|ROF]] grants it respectable [[Damage per second|DPS]] which steadily accumulates on a target's hull. If fielded in larger fleet level numbers, the MD can destroy the hulls of even large capital ships within minutes of sustained fire. Because they do damage directly to the hull, MDs can immediately begin crippling targets making them slow enough to bring less nimble weapons into play. For the same reason they are terrible for [[capping]] small craft, as they will destroy the hull without first depleting the shields. The primary limitations of MDs is cargo space for its ammo and fairly its short range. MDs are most effective against vessels with low hull strength and a reliance on either speed or shielding to keep them safe. ==Known Compatible Ships== *[[buster|Buster]] *[[centaur|Centaur]] *[[cerberus|Cerberus]] *[[colossus|Colossus]] *[[eclipse|Eclipse]] *[[elite|Elite]] *[[mammoth|Mammoth]] *[[nova|Nova]] *[[titan|Titan]] ==Available at Known Docks==
+MDs require [[Mass Driver Ammunition]] to fire.
+==Encyclopedia Entry==
+This weapon is unique in that it is the only type of non-energy based projectile weapon available.
+
+It consists of a rapid feed multi barrelled cannon, which is capable of delivering a large number of small projectiles to its target in a short period of time. It inflicts damage not due to power of individual projectiles but because of the large number of projectiles delivered.
+
+Due to the unique nature of the weapon's ammunition it has almost no effect on a ship's shields but instead delivers heavy damage directly to the target's hull. It also causes very little power drain due to the fact that its ammunition supplies all offensive requirements. Currently the weapon can only be fitted on Argon and Split ships as they are the only ships that can accommodate the ammunition feed system.
+
+The true power of this weapon comes from its ammunition.
+
+==Commentary==
+The high bullet velocity and shield piercing properties of its shots pose an unusually high threat to space vessels and make it fairly easy to use. 
+The MD's high [[Rate of Fire|ROF]] grants it respectable [[Damage per second|DPS]] which steadily accumulates on a target's hull. If fielded in larger fleet level numbers, the MD can destroy the hulls of even large capital ships within minutes of sustained fire.
+Because they do damage directly to the hull, MDs can immediately begin crippling targets making them slow enough to bring less nimble weapons into play. For the same reason they are terrible for [[capping]] small craft, as they will destroy the hull without first depleting the shields.
+
+The primary limitations of MDs is cargo space for its ammo and fairly its short range. MDs are most effective against vessels with low hull strength and a reliance on either speed or shielding to keep them safe.
+
+==Known Compatible Ships==
+*[[buster|Buster]]
+*[[centaur|Centaur]]
+*[[cerberus|Cerberus]]
+*[[colossus|Colossus]]
+*[[eclipse|Eclipse]]
+*[[elite|Elite]]
+*[[mammoth|Mammoth]]
+*[[nova|Nova]]
+*[[titan|Titan]]
+
+==Available at Known Docks==

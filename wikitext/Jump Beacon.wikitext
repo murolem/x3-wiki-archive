@@ -1,3 +1,29 @@
-<!-- source file: index__qc0b82ede941a.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Jump Beacon
+|cargoclass=M
+|volume=1
+|minprice=275136913
+|aveprice=280751952
+|maxprice=286366991
+}}
+{{Infobox close}}
 
-{{Infobox open}} {{Infobox ware |ware= Jump Beacon |cargoclass=M |volume=1 |minprice=275136913 |aveprice=280751952 |maxprice=286366991 }} {{Infobox close}} ==Overview== The Jump Beacon is a deployable device that functions as a one-way [[jumpgate]], allowing [[jumpdrive]]-equipped player and NPC ships to jump to it from any location in the universe, much like they can jump to an ordinary gate. This makes it particularly useful in sectors without gates, such as many [[Terran]] sectors, which are otherwise only accessible by jumping to the nearest gate and flying through the [[Trans-Orbital Accelerator]]s leading to the destination sector. Unlike a gate, and like a [[Navigation Relay Satellite|satellite]] or [[lasertower]], a Jump Beacon can be picked up and ejected at any location. It can also be destroyed by enemies. ===Encyclopedia Entry=== This device appears to provide encrypted coordinate data to compatible ships so ships can jump to certain locations. The configuration also suggests that the beacon can provide a homing signal for inbound jumps. == Obtaining == The Jump Beacon spawns extremely rarely on enemy [[M1]], [[M2]], [[M6]], [[M7]], and [[M8]] ships, and is most often carried by Rapid Response units. It can be left as a drop from a destroyed ship that carries it, or captured via [[boarding]]. ==Commentary== Appears in the [[Terran plot]] line. == See Also == {{SectorTravel}}
+==Overview==
+The Jump Beacon is a deployable device that functions as a one-way [[jumpgate]], allowing [[jumpdrive]]-equipped player and NPC ships to jump to it from any location in the universe, much like they can jump to an ordinary gate. This makes it particularly useful in sectors without gates, such as many [[Terran]] sectors, which are otherwise only accessible by jumping to the nearest gate and flying through the [[Trans-Orbital Accelerator]]s leading to the destination sector.
+
+Unlike a gate, and like a [[Navigation Relay Satellite|satellite]] or [[lasertower]], a Jump Beacon can be picked up and ejected at any location. It can also be destroyed by enemies.
+
+===Encyclopedia Entry===
+This device appears to provide encrypted coordinate data to compatible ships so ships can jump to certain locations. The configuration also suggests that the beacon can provide a homing signal for inbound jumps.
+
+== Obtaining ==
+
+The Jump Beacon spawns extremely rarely on enemy [[M1]], [[M2]], [[M6]], [[M7]], and [[M8]] ships, and is most often carried by Rapid Response units. It can be left as a drop from a destroyed ship that carries it, or captured via [[boarding]].
+
+==Commentary==
+Appears in the [[Terran plot]] line.
+
+== See Also ==
+
+{{SectorTravel}}

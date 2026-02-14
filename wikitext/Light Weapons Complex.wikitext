@@ -1,3 +1,44 @@
-<!-- source file: index__q4bc9b2e1615b.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Light Weapons Complex
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=10
+|cycle=Varies
+|productnum=Varies
+|stationprice=
+|reqresources=[[Energy Cells]] <br>[[Ore]] <br>[[Food]]
+|optresources=[[Crystals]]
+}}
+{{Infobox close}}
+==Overview==
+Light Weapons Complexes are NPC factories that produce light weapons from [[Energy Cells]], [[Ore]] and [[Food]]. 
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction= |station=Light Weapons Complex |hull=1000000 |shield=9 |generator=2000 |hangar=10 |cycle=Varies |productnum=Varies |stationprice= |reqresources=[[Energy Cells]] &lt;br>[[Ore]] &lt;br>[[Food]] |optresources=[[Crystals]] }} {{Infobox close}} ==Overview== Light Weapons Complexes are NPC factories that produce light weapons from [[Energy Cells]], [[Ore]] and [[Food]]. They also will buy [[Crystals]] and [[Teladianium]] as secondary resources. Teladi complexes produce the [[Energy Bolt Chaingun]] as well as the [[Energy Bolt Chaingun Ammunition]] for it. ===Encyclopedia Entry=== This laser production complex produces several types of light ship weapons, used mostly in fighter craft. ==Race-specific attributes== {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |-style="background-color:LightGray;text-align:center;" !Race!!Food!!Weapons Produced |- style="{{Colour/Argon}}" | [[Argon]] ||[[Meatsteak Cahoonas]] || [[Particle Accelerator Cannon]] &amp; [[Phased Repeater Gun]] |- style="{{Colour/Boron}}" | [[Boron]] ||[[Bofu]] || [[Impulse Ray Emitter]] &amp; [[Particle Accelerator Cannon]] |- style="{{Colour/Paranid}}" | [[Paranid]] ||[[Soja Husk]] || [[Fragmentation Bomb Launcher]] &amp; [[High Energy Plasma Thrower]] |- style="{{Colour/Teladi}}" | [[Teladi]] ||[[Nostrop Oil]] || [[Energy Bolt Chaingun]] &amp; [[High Energy Plasma Thrower]] |} ==Availability== Light Weapons Complexes are default stations in race sectors. They are not sold at Shipyards. {{Stationcategory}}
+They also will buy [[Crystals]] and [[Teladianium]] as secondary resources.
+
+Teladi complexes produce the [[Energy Bolt Chaingun]] as well as the [[Energy Bolt Chaingun Ammunition]] for it.
+
+===Encyclopedia Entry===
+This laser production complex produces several types of light ship weapons, used mostly in fighter craft.
+
+==Race-specific attributes==
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|-style="background-color:LightGray;text-align:center;"
+!Race!!Food!!Weapons Produced
+|- style="{{Colour/Argon}}"
+| [[Argon]] ||[[Meatsteak Cahoonas]] || [[Particle Accelerator Cannon]] & [[Phased Repeater Gun]]
+|- style="{{Colour/Boron}}"
+| [[Boron]] ||[[Bofu]] || [[Impulse Ray Emitter]] & [[Particle Accelerator Cannon]]
+|- style="{{Colour/Paranid}}"
+| [[Paranid]] ||[[Soja Husk]] || [[Fragmentation Bomb Launcher]] & [[High Energy Plasma Thrower]]
+|- style="{{Colour/Teladi}}"
+| [[Teladi]] ||[[Nostrop Oil]] || [[Energy Bolt Chaingun]] & [[High Energy Plasma Thrower]] 
+|}
+
+==Availability==
+Light Weapons Complexes are default stations in race sectors. They are not sold at Shipyards. 
+
+{{Stationcategory}}

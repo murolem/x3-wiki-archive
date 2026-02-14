@@ -1,3 +1,3 @@
-<!-- source file: index__q341ae02072e4.html -->
+These are [[missiles]] which are triggered by proximity to a target, rather than by impact.
 
-These are [[missiles]] which are triggered by proximity to a target, rather than by impact. [[Category:Missiles by fusing| Proximity-fuse missiles]]
+[[Category:Missiles by fusing| Proximity-fuse missiles]]

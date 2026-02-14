@@ -1,3 +1,18 @@
-<!-- source file: index__qe30c3aefd3bc.html -->
+{{Infobox open}}
+{{Infobox missile|Missile=Dragonfly Missile|Yield=5000|Speed=250|Range=18.7|Cooldown=500|Seeker=Targetted|Submunitions=1|Fusing=Proximity|Torpedoclass=|Guidance=Image-recognition|AoE=0}}
+{{Infobox ware|ware=Dragonfly Missile|cargoclass=S|volume=1|minprice=780|aveprice= 1012  |maxprice=1244}}
+{{Infobox close}}
+==Overview==
+The '''Dragonfly Missile''' is a light, short-range munition for use against small [[:category:fighters|fighters]]. It uses very little cargo space and can [[Missiles#Overview|track]] its target.
 
-{{Infobox open}} {{Infobox missile|Missile=Dragonfly Missile|Yield=5000|Speed=250|Range=18.7|Cooldown=500|Seeker=Targetted|Submunitions=1|Fusing=Proximity|Torpedoclass=|Guidance=Image-recognition|AoE=0}} {{Infobox ware|ware=Dragonfly Missile|cargoclass=S|volume=1|minprice=780|aveprice= 1012 |maxprice=1244}} {{Infobox close}} ==Overview== The '''Dragonfly Missile''' is a light, short-range munition for use against small [[:category:fighters|fighters]]. It uses very little cargo space and can [[Missiles#Overview|track]] its target. ===Encyclopedia Entry=== The dragonfly class missile exhibits midrange power and is typically used for attacks on medium to large sized fighter targets. ==Commentary== A weak single shot missile used by light and medium fighters against other small ships as a more reliable alternative to the [[Wasp Missile]]. It can be used in bulk and is quite cheap for its power, so is a common weapon for use in the early game. A single Dragonfly is an instant-kill against any [[M5]] that does not have 5 MJ of shielding, otherwise it will require a pair to take one down. The drawback is the rather slow speed of its munition, meaning that unless the M5 has taken enough hull damage, it can only catch up to a [[Harrier|Teladi Harrier Sentinel]] or [[Pirate Harrier]] Hauler, whose speeds are terribly slow for M5 standards. The missile is commonly used against [[M4]]s due to its balanced stats that enables it to chase them. Despite what the encyclopedia entry says about the missile when highlighting the [[Dragonfly Missile Factory]] info page and being sold in-game by [[Dumbfire Missile Production Complex]]es, it is ''not'' an unguided missile. The dumbfire info is due to a developer's oversight in describing the missile when it is actually programmed to be an image-recognition tracking missile. [[Category:Commonwealth missiles]] [[Category:Small missiles]] {{Missile Navbox}}
+===Encyclopedia Entry===
+The dragonfly class missile exhibits midrange power and is typically used for attacks on medium to large sized fighter targets.
+
+==Commentary==
+A weak single shot missile used by light and medium fighters against other small ships as a more reliable alternative to the [[Wasp Missile]]. It can be used in bulk and is quite cheap for its power, so is a common weapon for use in the early game. A single Dragonfly is an instant-kill against any [[M5]] that does not have 5 MJ of shielding, otherwise it will require a pair to take one down. The drawback is the rather slow speed of its munition, meaning that unless the M5 has taken enough hull damage, it can only catch up to a [[Harrier|Teladi Harrier Sentinel]] or [[Pirate Harrier]] Hauler, whose speeds are terribly slow for M5 standards. The missile is commonly used against [[M4]]s due to its balanced stats that enables it to chase them.
+
+Despite what the encyclopedia entry says about the missile when highlighting the [[Dragonfly Missile Factory]] info page and being sold in-game by [[Dumbfire Missile Production Complex]]es, it is ''not'' an unguided missile. The dumbfire info is due to a developer's oversight in describing the missile when it is actually programmed to be an image-recognition tracking missile.
+
+[[Category:Commonwealth missiles]]
+[[Category:Small missiles]]
+{{Missile Navbox}}

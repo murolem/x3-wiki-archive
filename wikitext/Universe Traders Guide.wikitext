@@ -1,3 +1,144 @@
-<!-- source file: index__q1193d88f38c0.html -->
+{{See also|Traders}}
 
-{{See also|Traders}} Universe and Sector Traders are one of the main ways to make money in x3, whether it be [[Reunion]], [[Terran Conflict]] or [[Albion Prelude]]. When managed correctly, they will often make more money than a factory for the same cost, and can run away when necessary; but don't let this fool you - using [[Simulation Modelling|OOS Combat Resolution]] will still mean that they will die both quickly and easily if they get into a fight. == Why use Universe or Sector Traders? == This is an often asked question, but also one of the simplest. It's one of the easiest ways to effortlessly make money. After you have got your Sector Trader up to being a Universe Trader, there is very little you will need to do to maintain him (at least in theory - see [[#Bugs|Bugs]] below for a list of known bugs and how to solve them). They often make more than most factories for the same price, and while unlike factories, they cannot be used directly for equipping your own fleet, their autonomy is their greatest strength. However, they can stumble into trouble, and if you are not careful, you could get unlucky and lose one - particularly if you are playing in Albion Prelude, and do not set up things like your Sector Blacklist, Friend/Foe etc. correctly. Please note that a popular alternative to a Universe Trader is a ship properly equipped with [[Commodity Logistics Software]], and while that is not covered within the scope of this guide, it is an option worth considering, if you understand how it works. Especially if you want your trader to run double-duty and also prioritize selling your own goods. == Starting Out (Sector Traders) == Before starting out as a Universe Trader, the ship will need several pieces of equipment, and must meet several requirements prior to becoming a Universe Trader. Firstly, the ship must be equipped with [[Trade Command Software#Trade Command Software Mk3|Trade Command Software Mk3]]. Starting Universe Traders is as simple as getting a Trader of a high enough rank, and ordering him to "Begin Universe Trading". After doing that, you ought to be able to largely forget about them - meaning that the majority of the work is put in while they are a Sector Trader, as such, while this guide is aimed at the long-run (thinking about getting Universe Traders), the beginning is aimed primarily at Sector Traders - as you cannot have a Universe Trader without first having a Sector Trader. === Required Ship Class === *Ship type must be one of: **{{M4class}} **{{M3class}} // {{M3+class}} **{{M6class}} // {{M6+class}} **{{TSclass}} // {{TS+class}} **{{TMclass}} **{{TPclass}} *(Unconfirmed) Must be able to carry [[Cargo Class|XL]]-class [[wares]]. Please see below for a list of [[#Recommended Ships|Recommended Ships]]. === Training === After you equip a ship from the above classes with the Trade Command Software mk3, you will be able to issue the order of "Trade: Start Sector Trader". This will hire a pilot who will begin trading on your behalf - buying wares in the sector you select for a good price, and selling them to other stations for a good price. The speed of training depends on the number and the value of trades made. There's little reason to train pilots in quicker ships, then moving them to bigger ones to do actual work. === Pilot Levels === {{main|Traders#Pilot Levels}} As Pilots level up, they gain more abilities. The most important ranks to pay attention to are: * ''Rank 6'' - Will use Sector Trader to trade up to 1 sector away. * ''Rank 7'' - Actually checks if it can make a profit. * ''Rank 8'' - Universe Trader, use [[Jumpdrive]], buy [[Fighter Drones]] * ''Rank 12'' - Buys own Jumpdrive. == Recommendations == Below are a list of basic recommendations. Feel free to do whatever you want, unlike the information above, this isn't ''binding'' within the game, but most of it is a mixture of common sense and experience, so if you're doing something differently, perhaps consider if it really is the best way to do things? === Recommended Ships === Almost any ship from the {{TS+class}} class of ship is ideal for use as a Universe Trader, but as speed is often viewed as even more important than freight capacity, the favoured ships (ignoring price) tend to be: {| cellpadding=10; |- valign="top" | {{TS+class}}: * Split [[Drake]] * Terran [[Hayabusa]] * Paranid [[Snotra]] * OTAS [[Mistral Super Freighter]] * Argon [[Lotan]] | {{M6class}} // {{M6+class}}: * Paranid [[Hyperion]] * Aldrin [[Springblossom]] | {{TMclass}} * Boron [[Pleco]] * Paranid [[Helios]] * Yaki [[Chokaro]] | {{TPclass}} * Terran [[Mani]] * Boron [[Angel]] |} If you factor in price vs. performance, the Mistral Super Freighter, Snotra, Hayabusa and Drake are typically viewed as the most efficient purchases. Especially as several ships on this list are either difficult to purchase, or outright unavailable without capturing them. === Recommended Equipment === To break even quicker, and to avoid piling up losses when the ship is shot down, it's advised to avoid installing too much equipment. All equipment necessary to conduct Mk3 trading can be bought (for example) in Home of Light Terracorp HQ and Paranid Prime Equipment Dock. * [[Weapons]] - ''Preferably no weapons, to conserve cargo space for trade.'' * [[Jumpdrive]] - ''Save yourself a little money when buying it.'' * [[Triplex Scanner]] - ''Detect and evade enemies earlier.'' * [[Fight Command Software]] Mk 1 and Mk 2 - ''Should be self-explanatory.'' * [[Navigation Command Software]] Mk 1 - ''Allows you to issue jump commands to a trader before it starts its run, or to get it to restart its run. Essential for easy use.'' * [[Special Command Software]] - ''Allows for transfer of pilots.'' * Full [[Shields|Shielding]] as per their ship type - ''Greater survivability is necessary to long-term Trading.'' === Starting Sectors === There is no common consensus as of Albion Prelude as to which sectors are best to start in, however in Reunion, several of the best sectors included: * [[Empire's Edge]] * [[Shore of Infinity]] * [[Queen's Space]] * [[Rolk's Drift]] * [[The Wall]] Generally it's easiest to train pilots in sectors which have solar power plants, as well as bio and food factories. This allows the pilot to make his runs and level up the quickest. There are up to 25 sectors in the galaxy map, which fit this characteristic, possibly more based on stations that player built for missions from NPCs. === Satellite Network === Sector, Local and Universe traders do not require and do not use any information about prices from Satellites (or any other player-owned asset) to find profitable deals, they use their own information networks for this. === [[Bonus Pack]] === The Bonus Pack includes several useful [[Scripts]] for using Mk3 Traders, including the [[Mk3 Blacklist Manager]] - a feature where the player can specify sectors that the Universe Trader should not visit. An absolute must in Albion Prelude to prevent UT's falling foul of the War Sectors. Blacklist doesn't need to be very long. It's generally advised to blacklist sectors bordering Xenon territory like Black Hole Sun (to avoid losing ships during invasions), as well as all war sectors until the conclusion of the AP plot (ships will be spawned to destroy UT when he enters there), core pirate sectors around Gaian Star (might be attacked regardless of reputation there), all sectors that might not be entered without entering war zone first (The Moon, Jupiter 2 and 3), Lasting Vengeance (Duke's sector, often stage of random hostility), and Aldrin (traders in slow ships will get stuck there forever). In total, after (if) the war is over, no more than 15-20 sectors total. == Bugs == ''For a more in-depth look at fixing bugs, please take a look through several of the links provided at [[#See Also|the bottom of the page]].'' Common problems include: === Trader Not Doing Anything === '''Cause:''' It depends. It can come under one of two guises: *''Standby:'' No profitable trades found. *''Idle:'' means there is an issue that ought to resolve itself soon - e.g. enemies present, or missing pre-requisite. It also covers generic problems which you (the player) may have to fix. Be careful of this one, as it could be the trading bay is full of an item it can't sell, and will need to be manually emptied, or you might need to restart trading from a different sector. If you notice Traders often end up in falling to "Idle" in one sector, consider adding that sector to your Mk III Trader Blacklist via the in-game "Additional Commands" accessible on any ship with [[Trade Command Software#Trade Command Software Mk3|Mk III Trading Software]] installed. Often it will be that they buy a good, attempt to sell it, and are beaten to the sale, resulting in a full hold of an item they can't find anywhere else to sell. Other times would be if their hold can't take the trade they want to include (e.g. not XL-capable; may have changed since bug was originally reported in Reunion). === Trader Not Working Properly === '''Cause:''' This bug is also pretty broad. The most common fault is conflicting scripts. If you've got the same ship being attempted to be managed by other modifications, or it transferred badly from one job to another, consider taking a look at it through The [[Script Editor]]. === Trader carrying unsold wares === '''Cause:''' Sometimes your trader won't be able to sell at profit all wares he's bought. Those wares will linger in the cargo hold, taking up space until another trade of that ware occurs. In case of very rare trades, like high-end ship equipment, those might be stuck in his cargo hold forever, freezing money and ruining his efficiency. It's advised to go through cargo holds of traders to search for such stuck cargo and either sell it manually (if expensive) or eject it into space (if cheap and useless). === Common Fixes === Regardless of what went wrong, things to attempt to fix broken Mk3 Traders: * Restart in different sector. * Restart when docked. * Kill nearby enemies. * Make sure your [[Navigation Relay Satellite]] Network is functional. * Check the information on the ship (under player's properties - default shortcut is "R"), immediately after ordering Start... Trader. It should flash through available items to buy/sell before going to "Standby". * Check Friend/Foe settings. * Check for sufficient energy for jump. == See Also == *Mod: [{{linky}}forum.egosoft.com/viewtopic.php?t=314455 MK3 Improvement Reloaded script by gnasirator] *[{{linky}}forum.egosoft.com/viewtopic.php?t=121043 Old Guide for Reunion by WillWilk] *[{{linky}}forum.egosoft.com/viewtopic.php?t=329924 CLS2 vs. ST/UT on the Egosoft Forums] *[{{linky}}forum.egosoft.com/viewtopic.php?t=340779 Mk3 Trader Problems on the Egosoft Forums] {{Trading}} [[Category:Guides]]
+Universe and Sector Traders are one of the main ways to make money in x3, whether it be [[Reunion]], [[Terran Conflict]] or [[Albion Prelude]].
+
+When managed correctly, they will often make more money than a factory for the same cost, and can run away when necessary; but don't let this fool you - using [[Simulation Modelling|OOS Combat Resolution]] will still mean that they will die both quickly and easily if they get into a fight.
+
+== Why use Universe or Sector Traders? ==
+This is an often asked question, but also one of the simplest. It's one of the easiest ways to effortlessly make money.
+
+After you have got your Sector Trader up to being a Universe Trader, there is very little you will need to do to maintain him (at least in theory - see [[#Bugs|Bugs]] below for a list of known bugs and how to solve them). They often make more than most factories for the same price, and while unlike factories, they cannot be used directly for equipping your own fleet, their autonomy is their greatest strength.
+
+However, they can stumble into trouble, and if you are not careful, you could get unlucky and lose one - particularly if you are playing in Albion Prelude, and do not set up things like your Sector Blacklist, Friend/Foe etc. correctly.
+
+Please note that a popular alternative to a Universe Trader is a ship properly equipped with [[Commodity Logistics Software]], and while that is not covered within the scope of this guide, it is an option worth considering, if you understand how it works. Especially if you want your trader to run double-duty and also prioritize selling your own goods.
+
+== Starting Out (Sector Traders) ==
+Before starting out as a Universe Trader, the ship will need several pieces of equipment, and must meet several requirements prior to becoming a Universe Trader. Firstly, the ship must be equipped with [[Trade Command Software#Trade Command Software Mk3|Trade Command Software Mk3]].
+
+Starting Universe Traders is as simple as getting a Trader of a high enough rank, and ordering him to "Begin Universe Trading". After doing that, you ought to be able to largely forget about them - meaning that the majority of the work is put in while they are a Sector Trader, as such, while this guide is aimed at the long-run (thinking about getting Universe Traders), the beginning is aimed primarily at Sector Traders - as you cannot have a Universe Trader without first having a Sector Trader.
+
+=== Required Ship Class ===
+*Ship type must be one of:
+**{{M4class}}
+**{{M3class}} // {{M3+class}}
+**{{M6class}} // {{M6+class}}
+**{{TSclass}} // {{TS+class}}
+**{{TMclass}}
+**{{TPclass}}
+*(Unconfirmed) Must be able to carry [[Cargo Class|XL]]-class [[wares]].
+
+Please see below for a list of [[#Recommended Ships|Recommended Ships]].
+
+=== Training ===
+After you equip a ship from the above classes with the Trade Command Software mk3, you will be able to issue the order of "Trade: Start Sector Trader". This will hire a pilot who will begin trading on your behalf - buying wares in the sector you select for a good price, and selling them to other stations for a good price.
+
+The speed of training depends on the number and the value of trades made. There's little reason to train pilots in quicker ships, then moving them to bigger ones to do actual work.
+
+=== Pilot Levels ===
+{{main|Traders#Pilot Levels}}
+As Pilots level up, they gain more abilities. The most important ranks to pay attention to are:
+* ''Rank 6'' - Will use Sector Trader to trade up to 1 sector away.
+* ''Rank 7'' - Actually checks if it can make a profit.
+* ''Rank 8'' - Universe Trader, use [[Jumpdrive]], buy [[Fighter Drones]]
+* ''Rank 12'' - Buys own Jumpdrive.
+
+== Recommendations ==
+Below are a list of basic recommendations. Feel free to do whatever you want, unlike the information above, this isn't ''binding'' within the game, but most of it is a mixture of common sense and experience, so if you're doing something differently, perhaps consider if it really is the best way to do things?
+
+=== Recommended Ships ===
+Almost any ship from the {{TS+class}} class of ship is ideal for use as a Universe Trader, but as speed is often viewed as even more important than freight capacity, the favoured ships (ignoring price) tend to be:
+
+{| cellpadding=10;
+|- valign="top"
+|
+{{TS+class}}:
+* Split [[Drake]]
+* Terran [[Hayabusa]]
+* Paranid [[Snotra]]
+* OTAS [[Mistral Super Freighter]]
+* Argon [[Lotan]]
+|
+{{M6class}} // {{M6+class}}:
+* Paranid [[Hyperion]]
+* Aldrin [[Springblossom]]
+|
+{{TMclass}}
+* Boron [[Pleco]]
+* Paranid [[Helios]]
+* Yaki [[Chokaro]]
+|
+{{TPclass}}
+* Terran [[Mani]]
+* Boron [[Angel]]
+|}
+
+If you factor in price vs. performance, the Mistral Super Freighter, Snotra, Hayabusa and Drake are typically viewed as the most efficient purchases. Especially as several ships on this list are either difficult to purchase, or outright unavailable without capturing them.
+
+=== Recommended Equipment ===
+To break even quicker, and to avoid piling up losses when the ship is shot down, it's advised to avoid installing too much equipment. All equipment necessary to conduct Mk3 trading can be bought (for example) in Home of Light Terracorp HQ and Paranid Prime Equipment Dock.
+
+* [[Weapons]] - ''Preferably no weapons, to conserve cargo space for trade.''
+* [[Jumpdrive]] - ''Save yourself a little money when buying it.''
+* [[Triplex Scanner]] - ''Detect and evade enemies earlier.''
+* [[Fight Command Software]] Mk 1 and Mk 2 - ''Should be self-explanatory.''
+* [[Navigation Command Software]] Mk 1 - ''Allows you to issue jump commands to a trader before it starts its run, or to get it to restart its run. Essential for easy use.''
+* [[Special Command Software]] - ''Allows for transfer of pilots.''
+* Full [[Shields|Shielding]] as per their ship type - ''Greater survivability is necessary to long-term Trading.''
+
+=== Starting Sectors ===
+There is no common consensus as of Albion Prelude as to which sectors are best to start in, however in Reunion, several of the best sectors included:
+* [[Empire's Edge]]
+* [[Shore of Infinity]]
+* [[Queen's Space]]
+* [[Rolk's Drift]]
+* [[The Wall]]
+
+Generally it's easiest to train pilots in sectors which have solar power plants, as well as bio and food factories. This allows the pilot to make his runs and level up the quickest. There are up to 25 sectors in the galaxy map, which fit this characteristic, possibly more based on stations that player built for missions from NPCs.
+
+=== Satellite Network ===
+
+Sector, Local and Universe traders do not require and do not use any information about prices from Satellites (or any other player-owned asset) to find profitable deals, they use their own information networks for this.
+
+=== [[Bonus Pack]] ===
+The Bonus Pack includes several useful [[Scripts]] for using Mk3 Traders, including the [[Mk3 Blacklist Manager]] - a feature where the player can specify sectors that the Universe Trader should not visit. An absolute must in Albion Prelude to prevent UT's falling foul of the War Sectors.
+
+Blacklist doesn't need to be very long. It's generally advised to blacklist sectors bordering Xenon territory like Black Hole Sun (to avoid losing ships during invasions), as well as all war sectors until the conclusion of the AP plot (ships will be spawned to destroy UT when he enters there), core pirate sectors around Gaian Star (might be attacked regardless of reputation there), all sectors that might not be entered without entering war zone first (The Moon, Jupiter 2 and 3), Lasting Vengeance (Duke's sector, often stage of random hostility), and Aldrin (traders in slow ships will get stuck there forever). In total, after (if) the war is over, no more than 15-20 sectors total.
+
+== Bugs ==
+''For a more in-depth look at fixing bugs, please take a look through several of the links provided at [[#See Also|the bottom of the page]].''
+
+Common problems include:
+=== Trader Not Doing Anything ===
+'''Cause:''' It depends. It can come under one of two guises:
+*''Standby:'' No profitable trades found.
+*''Idle:'' means there is an issue that ought to resolve itself soon - e.g. enemies present, or missing pre-requisite. It also covers generic problems which you (the player) may have to fix. Be careful of this one, as it could be the trading bay is full of an item it can't sell, and will need to be manually emptied, or you might need to restart trading from a different sector. If you notice Traders often end up in falling to "Idle" in one sector, consider adding that sector to your Mk III Trader Blacklist via the in-game "Additional Commands" accessible on any ship with [[Trade Command Software#Trade Command Software Mk3|Mk III Trading Software]] installed.
+
+
+Often it will be that they buy a good, attempt to sell it, and are beaten to the sale, resulting in a full hold of an item they can't find anywhere else to sell. Other times would be if their hold can't take the trade they want to include (e.g. not XL-capable; may have changed since bug was originally reported in Reunion).
+
+=== Trader Not Working Properly ===
+'''Cause:''' This bug is also pretty broad. The most common fault is conflicting scripts. If you've got the same ship being attempted to be managed by other modifications, or it transferred badly from one job to another, consider taking a look at it through The [[Script Editor]].
+
+=== Trader carrying unsold wares === 
+'''Cause:''' Sometimes your trader won't be able to sell at profit all wares he's bought. Those wares will linger in the cargo hold, taking up space until another trade of that ware occurs. In case of very rare trades, like high-end ship equipment, those might be stuck in his cargo hold forever, freezing money and ruining his efficiency. It's advised to go through cargo holds of traders to search for such stuck cargo and either sell it manually (if expensive) or eject it into space (if cheap and useless).
+
+=== Common Fixes ===
+Regardless of what went wrong, things to attempt to fix broken Mk3 Traders:
+* Restart in different sector.
+* Restart when docked.
+* Kill nearby enemies.
+* Make sure your [[Navigation Relay Satellite]] Network is functional.
+* Check the information on the ship (under player's properties - default shortcut is "R"), immediately after ordering Start... Trader. It should flash through available items to buy/sell before going to "Standby".
+* Check Friend/Foe settings.
+* Check for sufficient energy for jump.
+
+== See Also ==
+*Mod: [{{linky}}forum.egosoft.com/viewtopic.php?t=314455 MK3 Improvement Reloaded script by gnasirator]
+*[{{linky}}forum.egosoft.com/viewtopic.php?t=121043 Old Guide for Reunion by WillWilk]
+*[{{linky}}forum.egosoft.com/viewtopic.php?t=329924 CLS2 vs. ST/UT on the Egosoft Forums]
+*[{{linky}}forum.egosoft.com/viewtopic.php?t=340779 Mk3 Trader Problems on the Egosoft Forums]
+
+
+{{Trading}}
+[[Category:Guides]]

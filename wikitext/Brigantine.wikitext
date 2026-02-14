@@ -1,3 +1,167 @@
-<!-- source file: index__qb7fc54e7b841.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= Brigantine
+|Faction=Pirate
+|Class={{M2class}}
+|Priceblock=
+|Minspeed= 37.0
+|Maxspeed= 51.80
+|Minaccel= 4
+|Maxaccel= 5
+|Minsteer= 0.6
+|Maxsteer= 0.8
+|Hull= 3750000
+|Maxshield=2 GJ
+|Shieldslots=3
+|Maxshieldstrength=6000
+|Shieldreactor= 11520
+|Cargoclass=XL
+|Mincargo= 9000
+|Maxcargo= 9500
+|Lasercap= 276400
+|Laserrecharge=4142
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=4
+|ire=0|pac=0|hept=1|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=1|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=8
+|ire=0|pac=0|hept=0|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=1|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=1|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=6
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=8
+|ire=0|pac=0|hept=0|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=1|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=1|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Top
+|Guncount=8
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=1|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Bottom
+|Guncount=8
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=1|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The Brigantine equips a good range of weapons but is handicapped by its limited forward weapon power and poor defensive shielding; thus, it is the weakest of M2s for players. Nevertheless it is a popular ship, often used as [[boarding]] practice.
 
-{{Infobox open}} {{Infobox variant |Variant= Brigantine |Faction=Pirate |Class={{M2class}} |Priceblock= |Minspeed= 37.0 |Maxspeed= 51.80 |Minaccel= 4 |Maxaccel= 5 |Minsteer= 0.6 |Maxsteer= 0.8 |Hull= 3750000 |Maxshield=2 GJ |Shieldslots=3 |Maxshieldstrength=6000 |Shieldreactor= 11520 |Cargoclass=XL |Mincargo= 9000 |Maxcargo= 9500 |Lasercap= 276400 |Laserrecharge=4142 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=4 |ire=0|pac=0|hept=1| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=1|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Right |Guncount=8 |ire=0|pac=0|hept=0| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=1|ic=1|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=1|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Rear |Guncount=6 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Left |Guncount=8 |ire=0|pac=0|hept=0| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=1|ic=1|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=1|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Top |Guncount=8 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=1|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Bottom |Guncount=8 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=1|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The Brigantine equips a good range of weapons but is handicapped by its limited forward weapon power and poor defensive shielding; thus, it is the weakest of M2s for players. Nevertheless it is a popular ship, often used as [[boarding]] practice. ==Background== The worst fears of shipping and trading companies were recently realised when the existence of a pirate destroyer was confirmed. Military forces have increased their vigilance in the face of this new threat. ==Physical Characteristics== == Combat == The Brigantine can mount several flak cannons, making it particularly lethal against fighters. However it is weak against other capital ships due to its poor shielding and less than ideal anti-capital turret arcs. It has average speed for a destroyer so it cannot easily retreat from a fight, but with a competent pilot it is a force to be reckoned with. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] | *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] *[[Aurora Missile]] *[[Remote Guided Warhead]] *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] | *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] *[[Hornet Missile]] *[[Typhoon Missile]] *[[Firestorm Torpedo]] |} == Availability == The Brigantine cannot be bought at any shipyard and must be [[boarding|captured]] in order to be used. == Suggested Roles== Light patrol duty; the ship cannot defend itself out of sector from enemy M7s or greater. == See Also== {{M2}} {{Pirates Navbox}}
+==Background==
+The worst fears of shipping and trading companies were recently realised when the existence of a pirate destroyer was confirmed. Military forces have increased their vigilance in the face of this new threat.
+==Physical Characteristics==
+== Combat ==
+The Brigantine can mount several flak cannons, making it particularly lethal against fighters. However it is weak against other capital ships due to its poor shielding and less than ideal anti-capital turret arcs. It has average speed for a destroyer so it cannot easily retreat from a fight, but with a competent pilot it is a force to be reckoned with.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;" 
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+|
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Aurora Missile]]
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+|
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+*[[Hornet Missile]]
+*[[Typhoon Missile]]
+*[[Firestorm Torpedo]]
+|}
+== Availability ==
+The Brigantine cannot be bought at any shipyard and must be [[boarding|captured]] in order to be used.
+
+== Suggested Roles==
+Light patrol duty; the ship cannot defend itself out of sector from enemy M7s or greater.
+== See Also==
+
+{{M2}}
+
+{{Pirates Navbox}}

@@ -1,3 +1,31 @@
-<!-- source file: index__q22bde0d3c66b.html -->
+{{Infobox Sector
+|Race=Argon
+|SecLevel=Border
+|Population=29,956,087
+|Planets=2
+|SunLevel=150
+|GateDist=70
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|East|43512|	0|	840|[[Midnight Star]]}}
+{{Gateblock2|South|0|	0|	-35280|[[Interworlds]]}}
+{{Gateblock2|West|-35280|	0|	0|[[Nathan's Voyage]]}}
+{{Gateblock/End}}
+}}
+==Description==
+The original name for this sector was '''Light of Hope''', until the [[Xenon]] attacked many years ago. It was clear that the sectors patrols wouldn't hold out against further attacks, so the colony was preparing for evacuation using small transport ships. Backup from the Argon Military was sent; four [[Titan (ship)|Titan]] class [[M2|Destroyers]] and two [[Colossus]] [[M1|Carriers]], complete with fighters wings. They were to escort the transport ships out of the system, but before they could get the gate, Xenon ships jumped in and overwhelmed the fleet. All civilian ships escaped alongside a lone destroyer, the Challenger. Three years later, a joint Argon-Boron force took back Light of Hope and it was renamed Wastelands, reflecting the carnage and debris that the force found. Now cleared of that detritus and with the Xenon threat greatly dismished, its inhabitants strive to maintain a normal existence.
 
-{{Infobox Sector |Race=Argon |SecLevel=Border |Population=29,956,087 |Planets=2 |SunLevel=150 |GateDist=70 |Gates={{Gateblock/Begin}} {{Gateblock2|East|43512| 0| 840|[[Midnight Star]]}} {{Gateblock2|South|0| 0| -35280|[[Interworlds]]}} {{Gateblock2|West|-35280| 0| 0|[[Nathan's Voyage]]}} {{Gateblock/End}} }} ==Description== The original name for this sector was '''Light of Hope''', until the [[Xenon]] attacked many years ago. It was clear that the sectors patrols wouldn't hold out against further attacks, so the colony was preparing for evacuation using small transport ships. Backup from the Argon Military was sent; four [[Titan (ship)|Titan]] class [[M2|Destroyers]] and two [[Colossus]] [[M1|Carriers]], complete with fighters wings. They were to escort the transport ships out of the system, but before they could get the gate, Xenon ships jumped in and overwhelmed the fleet. All civilian ships escaped alongside a lone destroyer, the Challenger. Three years later, a joint Argon-Boron force took back Light of Hope and it was renamed Wastelands, reflecting the carnage and debris that the force found. Now cleared of that detritus and with the Xenon threat greatly dismished, its inhabitants strive to maintain a normal existence. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ice|15|-29075|-4812|22064}} {{Asteroid/Item|Ore|21|-19580|3062|29370}} {{Asteroid/Item|Ore|18|20124|-6560|-5250}} {{Asteroid/Item|Ore|7|-16317|11706|-5439}} {{Asteroid/Item|Ore|4|-8702|3937|-16317}} {{Asteroid/Item|Silicon|15|10878|5250|26107}} {{Asteroid/End}} == See Also == {{Argon Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ice|15|-29075|-4812|22064}}
+{{Asteroid/Item|Ore|21|-19580|3062|29370}}
+{{Asteroid/Item|Ore|18|20124|-6560|-5250}}
+{{Asteroid/Item|Ore|7|-16317|11706|-5439}}
+{{Asteroid/Item|Ore|4|-8702|3937|-16317}}
+{{Asteroid/Item|Silicon|15|10878|5250|26107}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Argon Navbox}}

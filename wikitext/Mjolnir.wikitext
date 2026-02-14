@@ -1,3 +1,53 @@
-<!-- source file: index__q25271e6f7ff0.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= Mjolnir
+|Faction=ATF
+|Class={{M4class}}
+|Priceblock=
+|Minspeed=
+|Maxspeed=275
+|Minaccel=
+|Maxaccel=
+|Minsteer=
+|Maxsteer=
+|Hull=
+|Maxshield=5 MJ
+|Shieldslots=5
+|Maxshieldstrength=25
+|Shieldreactor= 350
+|Cargoclass=M
+|Mincargo=
+|Maxcargo=300
+|Lasercap=2750
+|Laserrecharge=
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+==Background==
+==Physical Characteristics==
+== Combat ==
+== Equipment ==
+== Availability ==
+== Suggested Roles==
+== See Also==
 
-{{Infobox open}} {{Infobox variant |Variant= Mjolnir |Faction=ATF |Class={{M4class}} |Priceblock= |Minspeed= |Maxspeed=275 |Minaccel= |Maxaccel= |Minsteer= |Maxsteer= |Hull= |Maxshield=5 MJ |Shieldslots=5 |Maxshieldstrength=25 |Shieldreactor= 350 |Cargoclass=M |Mincargo= |Maxcargo=300 |Lasercap=2750 |Laserrecharge= |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== ==Background== ==Physical Characteristics== == Combat == == Equipment == == Availability == == Suggested Roles== == See Also== {{M4category}} {{ATF Navbox}}
+{{M4category}}
+{{ATF Navbox}}

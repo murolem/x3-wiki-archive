@@ -1,3 +1,17 @@
-<!-- source file: index__q9ddd24021fe5.html -->
+{{Infobox Sector
+|Race=Xenon
+|SecLevel=Border
+|Population=
+|Planets=
+|SunLevel=150
+|GateDist=
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|South|20250|	0|	-80595|[[Xenon Sector 597]]}}
+</table>
+}}
+==Description==
+==Default [[Stations]]==
+*Xenon Station
 
-{{Infobox Sector |Race=Xenon |SecLevel=Border |Population= |Planets= |SunLevel=150 |GateDist= |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|South|20250| 0| -80595|[[Xenon Sector 597]]}} &lt;/table> }} ==Description== ==Default [[Stations]]== *Xenon Station ==[[Asteroids]]==
+==[[Asteroids]]==

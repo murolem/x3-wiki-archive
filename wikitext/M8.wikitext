@@ -1,3 +1,42 @@
-<!-- source file: index__q4682596244fa.html -->
+M8 are bomber class vessels. Armed primarily with a large cargo bay and compatibility with heavy missiles, bombers provide a pint-sized and very lethal anti-capital platform, but their weapons can also be used effectively against smaller ships. They require the same docking capacities as the [[M6]] and [[TS]] classes, so cannot dock at Carriers. As such, they cannot carry large amounts of [[Energy Cells]] to fuel a [[jumpdrive]] so range is often limited when they are loaded with armaments.
 
-M8 are bomber class vessels. Armed primarily with a large cargo bay and compatibility with heavy missiles, bombers provide a pint-sized and very lethal anti-capital platform, but their weapons can also be used effectively against smaller ships. They require the same docking capacities as the [[M6]] and [[TS]] classes, so cannot dock at Carriers. As such, they cannot carry large amounts of [[Energy Cells]] to fuel a [[jumpdrive]] so range is often limited when they are loaded with armaments. == Armament == The Missiles used by the {{M8class}} are unique, meaning not even {{M7Mclass}}s can use them. The [[Commonwealth]] Bombers all use the [[Tomahawk Heavy Missile]] and the [[Terran]] bomber ([[Claymore]]) uses the [[Phantom Missile]]. Both are incredibly deadly, both to the intended target, and the firer. Should the missile be hit by enemy weapons fire just after its launch, it will typically completely destroy the ship it was launched from. As such, all {{M8class}} ships must be flown with caution. == Sortable List == {| class="wikitable prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:right;" |+ '''M8 Bombers''' ! Name !! Race !! Class !! Speed !! Accel !! Steering !! Hull !! Shields !! Shield Reactor !! Turrets !! Laser Cap !! Laser Rchg. !! Cargo !! [[Cargo Class]] !! Hangar !! Price |- |[[Gladiator]] || [[Argon]] || [[M8]] || 125 || 16 || 27.9 || 25,000 ||data-sort-value=125|5 x 25MJ || 1,200 || 1 + 2MT || 1,000 || 30 || 750 || L || || 5,409,482 |- |[[Marlin]] || [[Boron]] || [[M8]] || 135 || 25 || 25.1 || 45,600 ||data-sort-value=100|4 x 25MJ || 1,160 || 1 + 2MT || 1,000 || 25 || 750 || L || || 5,270,638 |- |[[Auster Hauler]] || [[OTAS]] || [[M8]] || 104.9 || 9 || 3.9 || 60,000 ||data-sort-value=600|3 x 200MJ || 2,500 || 1 + 2MT || 10,500 || 262 || 1,250 || XL || || 5,699,751 |- |[[Hades]] || [[Paranid]] || [[M8]] || 137.5 || 18.3 || 26.6 || 25,000 ||data-sort-value=125|5 x 25MJ || 1,200 || 1 + 2MT || 1,100 || 32 || 790 || L || || 5,442,574 |- |[[Viper]] || [[Split]] || [[M8]] || 175 || 31 || 23.7 || 20,000 ||data-sort-value=100|4 x 25MJ || 1,040 || 1 + 2MT || 1,200 || 34 || 700 || L || || 5,423,203 |- |[[Peregrine]] || [[Teladi]] || [[M8]] || 100 || 13 || 19.6 || 30,000 ||data-sort-value=150|6 x 25MJ || 1,056 || 1 + 2MT || 900 || 28 || 800 || L || || 5,469,216 |- |[[Claymore]] || [[Terran]] || [[M8]] || 138 || 24 || 24.8 || 85,000 ||data-sort-value=175|7 x 25MJ || 1,560 || 1 + 2MT || 1,500 || 50 || 850 || L || || 5,278,520 |- |} == Notes == * The [[Marlin|Boron Marlin]] is only present in Albion Prelude. * The [[Marlin Hauler|Boron Marlin Hauler]] was removed from Terran Conflict in an early patch. * Many {{M8class}} ships explode due to the nature of their own munitions. Care must be taken when flying them. == See Also == {{M8}} {{M8category}}
+== Armament ==
+The Missiles used by the {{M8class}} are unique, meaning not even {{M7Mclass}}s can use them. The [[Commonwealth]] Bombers all use the [[Tomahawk Heavy Missile]] and the [[Terran]] bomber ([[Claymore]]) uses the [[Phantom Missile]]. Both are incredibly deadly, both to the intended target, and the firer.
+
+Should the missile be hit by enemy weapons fire just after its launch, it will typically completely destroy the ship it was launched from. As such, all {{M8class}} ships must be flown with caution.
+
+== Sortable List ==
+
+{| class="wikitable prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:right;"
+|+ '''M8 Bombers'''
+! Name !! Race !! Class !! Speed !! Accel !! Steering !! Hull !! Shields !! Shield Reactor !! Turrets !! Laser Cap !! Laser Rchg. !! Cargo !! [[Cargo Class]] !! Hangar !! Price
+|-
+|[[Gladiator]] || [[Argon]] || [[M8]] || 125 || 16 || 27.9 || 25,000 ||data-sort-value=125|5 x 25MJ || 1,200 || 1 + 2MT || 1,000 || 30 || 750 || L ||  || 5,409,482
+|-
+|[[Marlin]] || [[Boron]] || [[M8]] || 135 || 25 || 25.1 || 45,600 ||data-sort-value=100|4 x 25MJ || 1,160 || 1 + 2MT || 1,000 || 25 || 750 || L ||  || 5,270,638
+|-
+|[[Auster Hauler]] || [[OTAS]] || [[M8]] || 104.9 || 9 || 3.9 || 60,000 ||data-sort-value=600|3 x 200MJ || 2,500 || 1 + 2MT || 10,500 || 262 || 1,250 || XL ||  || 5,699,751
+|-
+|[[Hades]] || [[Paranid]] || [[M8]] || 137.5 || 18.3 || 26.6 || 25,000 ||data-sort-value=125|5 x 25MJ || 1,200 || 1 + 2MT || 1,100 || 32 || 790 || L ||  || 5,442,574
+|-
+|[[Viper]] || [[Split]] || [[M8]] || 175 || 31 || 23.7 || 20,000 ||data-sort-value=100|4 x 25MJ || 1,040 || 1 + 2MT || 1,200 || 34 || 700 || L ||  || 5,423,203
+|-
+|[[Peregrine]] || [[Teladi]] || [[M8]] || 100 || 13 || 19.6 || 30,000 ||data-sort-value=150|6 x 25MJ || 1,056 || 1 + 2MT || 900 || 28 || 800 || L ||  || 5,469,216
+|-
+|[[Claymore]] || [[Terran]] || [[M8]] || 138 || 24 || 24.8 || 85,000 ||data-sort-value=175|7 x 25MJ || 1,560 || 1 + 2MT || 1,500 || 50 || 850 || L ||  || 5,278,520
+|-
+
+
+|}
+
+== Notes ==
+
+* The [[Marlin|Boron Marlin]] is only present in Albion Prelude. 
+* The [[Marlin Hauler|Boron Marlin Hauler]] was removed from Terran Conflict in an early patch.
+* Many {{M8class}} ships explode due to the nature of their own munitions. Care must be taken when flying them.
+
+== See Also ==
+
+{{M8}}
+
+{{M8category}}

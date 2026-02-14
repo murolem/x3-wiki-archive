@@ -1,3 +1,51 @@
-<!-- source file: index__q0ec82ddb58d7.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Dumbfire Missile Production Complex
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=10
+|cycle=Varies
+|productnum=[[Aurora Missile]] <br>[[Dragonfly Missile]] <br>[[Firefly Missile]]
+|stationprice=
+|reqresources=[[Energy Cells]] <br>[[Ore]] <br>[[Silicon Wafers]] <br>[[Food]] by race
+|optresources=[[Cloth Rimes]]<br>[[Warheads]]
+}}
+{{Infobox close}}
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction= |station=Dumbfire Missile Production Complex |hull=1000000 |shield=9 |generator=2000 |hangar=10 |cycle=Varies |productnum=[[Aurora Missile]] &lt;br>[[Dragonfly Missile]] &lt;br>[[Firefly Missile]] |stationprice= |reqresources=[[Energy Cells]] &lt;br>[[Ore]] &lt;br>[[Silicon Wafers]] &lt;br>[[Food]] by race |optresources=[[Cloth Rimes]]&lt;br>[[Warheads]] }} {{Infobox close}} ==Overview== Dumbfire Missile Production Complexes produce various missiles from [[Energy Cells]], [[Ore]], [[Silicon Wafers] and [[Food]]. They will also buy [[Cloth Rimes]] and [[Warheads]] as secondary resources. The exception, however, is the Dragonfly Missile, which is actually programmed to be an image-recognition tracking missile, and the developers made an oversight in including it in this kind of factory when in fact, it should have been more appropriately included in the [[Image Recognition Production Complex]]. ===Encyclopedia Entry=== This production facility manufactures Dumbfire Class missiles ==Race-specific attributes== {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |-style="background-color:LightGray;text-align:center;" !Race!!Food |- style="{{Colour/Argon}}" | [[Argon]] || [[Meatsteak Cahoonas]] |- style="{{Colour/Boron}}" | [[Boron]] || [[BoFu]] |- style="{{Colour/Paranid}}" | [[Paranid]] || [[Soja Husk]] |- style="{{Colour/Split}}" | [[Split]] || [[Rastar Oil]] |- style="{{Colour/Teladi}}" | [[Teladi]] || [[Nostrop Oil]] |} ==Availability== Dumbfire Missile Production Complexes are default stations in race sectors. They are not sold at Shipyards. {{Stationcategory}}
+==Overview==
+
+Dumbfire Missile Production Complexes produce various missiles from [[Energy Cells]], [[Ore]], [[Silicon Wafers] and [[Food]]. 
+
+They will also buy [[Cloth Rimes]] and [[Warheads]] as secondary resources.
+
+The exception, however, is the Dragonfly Missile, which is actually programmed to be an image-recognition tracking missile, and the developers made an oversight in including it in this kind of factory when in fact, it should have been more appropriately included in the [[Image Recognition Production Complex]].
+
+===Encyclopedia Entry===
+
+This production facility manufactures Dumbfire Class missiles
+
+==Race-specific attributes==
+
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|-style="background-color:LightGray;text-align:center;"
+!Race!!Food
+|- style="{{Colour/Argon}}"
+| [[Argon]] || [[Meatsteak Cahoonas]]
+|- style="{{Colour/Boron}}"
+| [[Boron]] || [[BoFu]]
+|- style="{{Colour/Paranid}}"
+| [[Paranid]] || [[Soja Husk]]
+|- style="{{Colour/Split}}"
+| [[Split]] || [[Rastar Oil]]
+|- style="{{Colour/Teladi}}"
+| [[Teladi]] || [[Nostrop Oil]]
+|}
+
+==Availability==
+
+Dumbfire Missile Production Complexes are default stations in race sectors. They are not sold at Shipyards. 
+
+{{Stationcategory}}

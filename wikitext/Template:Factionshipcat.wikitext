@@ -1,3 +1,7 @@
-<!-- source file: index__qbbab5e3abd20.html -->
+<includeonly>[[Category:{{{1}}} ships]]</includeonly><noinclude>
 
-&lt;includeonly>[[Category:{{{1}}} ships]]&lt;/includeonly>&lt;noinclude> This is the blank SuppressAutoCat factionshipcat template, it actually sets &lt;pre>[[Category:{{{1}}} ships]]&lt;/pre> {{Shipinfoboxtool}} &lt;/noinclude>
+This is the blank SuppressAutoCat factionshipcat template, it actually sets <pre>[[Category:{{{1}}} ships]]</pre>
+
+{{Shipinfoboxtool}}
+
+</noinclude>

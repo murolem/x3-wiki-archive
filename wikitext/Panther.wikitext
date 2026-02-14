@@ -1,3 +1,321 @@
-<!-- source file: index__qa54856ca311a.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Panther
+|Faction=Split
+|Class={{M7class}}
+|Priceblock={{Priceblock|Privileged Associate of Rhonkar| 36461288}}
+|Minspeed=67.6
+|Maxspeed=121.6
+|Minaccel=9
+|Maxaccel=17
+|Minsteer=1.9
+|Maxsteer=3.5
+|Hull=120000
+|Maxshield=1 GJ
+|Shieldslots=4
+|Maxshieldstrength=4000
+|Shieldreactor= 6200
+|Cargoclass=XL
+|Mincargo=2100
+|Maxcargo=4100
+|Lasercap=53000	
+|Laserrecharge=1854
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=6
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=4
+|ire=1|pac=1|hept=0|
+cig=1|ppc=0|
+md=0|us=1|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=2
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=1|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=2
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=1|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Top
+|Guncount=4
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Bottom
+|Guncount=4
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay={{Dockbay|32 {{Fighterdock}}}}
+}}
+{{Infobox variant
+|Variant=Panther Raider(AP)
+|Faction=Split
+|Class={{M7class}}
+|Priceblock={{Priceblock|Privileged Associate of Rhonkar| 36461288}}
+|Minspeed=67.6
+|Maxspeed=121.6
+|Minaccel=9
+|Maxaccel=17
+|Minsteer=1.9
+|Maxsteer=3.5
+|Hull=480000
+|Maxshield=1 GJ
+|Shieldslots=4
+|Maxshieldstrength=4000
+|Shieldreactor= 6200
+|Cargoclass=XL
+|Mincargo=2100
+|Maxcargo=4100
+|Lasercap=35000
+|Laserrecharge=1750
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=6
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=4
+|ire=1|pac=1|hept=0|
+cig=1|ppc=0|
+md=0|us=1|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=2
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=1|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=2
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=1|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Top
+|Guncount=4
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Bottom
+|Guncount=4
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay={{Dockbay|20 {{Fighterdock}}}}
+}}
 
-{{Infobox open}} {{Infobox variant |Variant=Panther |Faction=Split |Class={{M7class}} |Priceblock={{Priceblock|Privileged Associate of Rhonkar| 36461288}} |Minspeed=67.6 |Maxspeed=121.6 |Minaccel=9 |Maxaccel=17 |Minsteer=1.9 |Maxsteer=3.5 |Hull=120000 |Maxshield=1 GJ |Shieldslots=4 |Maxshieldstrength=4000 |Shieldreactor= 6200 |Cargoclass=XL |Mincargo=2100 |Maxcargo=4100 |Lasercap=53000 |Laserrecharge=1854 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=6 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=1|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Rear |Guncount=4 |ire=1|pac=1|hept=0| cig=1|ppc=0| md=0|us=1|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount=2 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=1|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Right |Guncount=2 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=1|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Top |Guncount=4 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Bottom |Guncount=4 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay={{Dockbay|32 {{Fighterdock}}}} }} {{Infobox variant |Variant=Panther Raider(AP) |Faction=Split |Class={{M7class}} |Priceblock={{Priceblock|Privileged Associate of Rhonkar| 36461288}} |Minspeed=67.6 |Maxspeed=121.6 |Minaccel=9 |Maxaccel=17 |Minsteer=1.9 |Maxsteer=3.5 |Hull=480000 |Maxshield=1 GJ |Shieldslots=4 |Maxshieldstrength=4000 |Shieldreactor= 6200 |Cargoclass=XL |Mincargo=2100 |Maxcargo=4100 |Lasercap=35000 |Laserrecharge=1750 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=6 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=1|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Rear |Guncount=4 |ire=1|pac=1|hept=0| cig=1|ppc=0| md=0|us=1|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount=2 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=1|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Right |Guncount=2 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=1|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Top |Guncount=4 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Bottom |Guncount=4 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay={{Dockbay|20 {{Fighterdock}}}} }} {{Infobox close}} ==Overview== The [[Split]] '''Panther''' is known as a pocket carrier, almost equal to the far larger and more expensive {{M1class}}s. What makes this ship so impressive is that its fighter wing capacity far exceeds any other {{M7class}}. In fact, the hangar capacity exceeds all non-M1 ships, and even some of the smaller M1s. On top of that, its wide weapon selection, gun turret coverage, top speed, turning, versatility and aesthetically pleasing design makes it a very popular player ship. ==Background== The Panther is the result of a failed bid by the [[Family Whi]] Shipyard to win the contract to mass-produce a new frigate class. With some modification to install hangar decks, it was eventually pressed into service as a light carrier instead. Split engineers recognized a huge gap in the tactical doctrine of all the other races, where {{M7class}}s were designed as pocket destroyers used to support the main battleships and carriers, or lead {{M6class}}s. With this they would have strong yet limited solo patrol capabilities. The [[Argon]], [[Paranid]] and [[Teladi]] included small fighter wings but did not push this theory any further other than a compromise in design. However with typical Split thinking of ''"strike first, strike fast, strike hard and don't get hit,"'' they embarked on one of the most successful M7 designs of the modern time: they built a ship which filled every possible spare hull space with weapons, shields, generators and a huge hanger bay for 32 [[:Category:Fighters|Fighter class]] ships (20 in AP), about five times as many as most other M7s. All other non-combat functions, especially crew and pilot quarters, mess hall, medical bay, etc. were sacrificed. With the ability to mass-produce pocket carriers capable of jumping an overwhelming force of fighters to any target, and combined with its impressive fighter-less sister design, the Tiger, the Split are the dominant player in M7 class combat. The current design of the crew and pilot quarters has been reported as extremely barbaric and possibly hazardous by the other races (even the Teladi, who have scant thought of their own crews' welfare). Some unofficial reports have stated the crew and pilots are bedded within the same hangar with the ships, fuel and ordnance, or are compressed within its cargo space in a state of deep space hibernation. ==Physical Characteristics== The Panther is approximately a kilometer and a third in length, with a broad, sloping main hull. Its bridge is located on a command tower; its dorsal gun battery consists of four small turrets located atop this tower. The command deck is balanced with a "keel" under the hull, containing the ventral gun battery, the missile tubes, and the fighter landing bay. Its flank guns are located on the dorsal tower, and the stern turrets are mounted to either side of the engine block. From behind, the Panther has a passing resemblance to a sailing ship. The ship has a unique launching platform for the fighters: they are launched vertically in front of the bridge in groups of 10. This number of launch pads exceeds all other M7s. Since the bridge is located in the aft tower, the player can view all the launches. The fighters dock by moving behind the Panther and traveling into the landing bay, which is located below and forward of the thrusters. == Combat == Able to mount a wide variety of weapons, an impressive frontal turret weapons array and turrets giving almost 360 degree coverage, it makes a formidable gun platform. This is combined with the capacity to launch waves of fighters for long attacks means this ship has the flexibility to fill in many roles. However it cannot be compared to a full M1 class carrier which normally has superior shielding, fighter capacity and capital class weapons types. The Panther is well suited to a dedicated anti-fighter role, with its ability to equip Flak Artillery Array weapons in 5 of its 6 turrets (the Panther has more weapons per bay than most other frigates). Combined with its speed and spacious hangar, the Panther makes an outstanding independent anti-fighter platform, or screen for larger warships. Unlike its sister design the [[Tiger|Split Tiger]], this M7 has only turret-mounted weaponry. This means a player commanding a Panther cannot manually operate any guns while on the bridge. The player must either take direct control or trust the automatic targeting computer to make the calculations. As a split design, it features good top speeds, letting it close distances quickly. It also has superior acceleration to all other [[M7]] craft, and one of the best turn rates. It has a particularly weak hull, however. The left and right turrets are located at the stern, can mount the [[Phased Array Laser Cannon|PALC]] and their coverage includes the back arc of the ship. With the PALC's superior range and the Panther's speed, this allows for kiting to destroy overpowering enemies, albeit slowly. ===Blind Spots=== One thing to be careful about with the Panther is that its guns have a blind spot above the forward hull. The forward battery cannot rotate back far enough to hit a small target that slides into this vulnerable area, and the dorsal turrets, being mounted atop the command tower, cannot depress far enough. However, this blind spot is clearly visible from the bridge, and thus the Panther-commanding player has a simple solution available: pull back on the stick. A ship that can fit into the blind spot won't have any more than a quarter of a fully-shielded Panther's defenses (and frequently much less), and will be crushed flat when it impacts the shields. == Equipment == The Panther can carry a wide variety of laser weapons varying by turret. Its most powerful available weapon is the [[IBL|incendiary bomb launcher]], which can be mounted on its forward and flank gun batteries. Unlike most Split vessels, it is very well-shielded, even more so than most competing M7s. {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] *[[Hornet Missile]] *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] | *[[Tempest Missile]] *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] *[[Typhoon Missile]] *[[Firestorm Torpedo]] *[[Aurora Missile]] *[[Remote Guided Warhead]] | *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == {| style="text-align:center;" cellpadding="3" |+ '''Availability''' |- style="{{Colour/Split}}" ! Variant !! [[Family Pride]] !! [[Rhonkar's Might]] !! [[Cho's Defeat]] !! [[Family Tkr]] !! [[Family Njy]] !! [[Zyarth's Dominion]]!! [[Patriarch's Conclusion]] !! [[Rhonkar's Trial]] !! [[Family Rhy]] !! [[Zyarth's Stand]] |- ! Panther | || || || || || X || X || X || |- ! Panther Raider(AP) | || || || || || || X || || X || X |} '''Note:''' In Albion Prelude, the Panther is replaced with the "Panther Raider". It can be found at [[Zyarth's Stand]], [[Patriarch's Conclusion]], and a few other shipyards. == Suggested Roles== Its prime designated role is an attack or support carrier aiming to overwhelm fighters, destroy corvettes and challenge or cancel other frigates. In player hands its versatility means it can take on ships above its class. It should ideally use the strength of its fighter wings in almost all situations, however players without the funding to equip (and lose) fleets of fighters in the early stages can still expect good performance from the ship's own weapons systems. == See Also== *[[Cobra|Split Cobra]] *[[Tiger|Split Tiger]] {{M7}} [[Category: Carrier]] {{Split Navbox}}
+{{Infobox close}}
+
+==Overview==
+The [[Split]] '''Panther''' is known as a pocket carrier, almost equal to the far larger and more expensive {{M1class}}s. What makes this ship so impressive is that its fighter wing capacity far exceeds any other {{M7class}}. In fact, the hangar capacity exceeds all non-M1 ships, and even some of the smaller M1s. On top of that, its wide weapon selection, gun turret coverage, top speed, turning, versatility and aesthetically pleasing design makes it a very popular player ship.      
+   
+==Background==
+The Panther is the result of a failed bid by the [[Family Whi]] Shipyard to win the contract to mass-produce a new frigate class. With some modification to install hangar decks, it was eventually pressed into service as a light carrier instead.
+
+Split engineers recognized a huge gap in the tactical doctrine of all the other races, where {{M7class}}s were designed as pocket destroyers used to support the main battleships and carriers, or lead {{M6class}}s.  With this they would have strong yet limited solo patrol capabilities. The [[Argon]], [[Paranid]] and [[Teladi]] included small fighter wings but did not push this theory any further other than a compromise in design. 
+
+However with typical Split thinking of ''"strike first, strike fast, strike hard and don't get hit,"'' they embarked on one of the most successful M7 designs of the modern time:  they built a ship which filled every possible spare hull space with weapons, shields, generators and a huge hanger bay for 32 [[:Category:Fighters|Fighter class]] ships (20 in AP), about five times as many as most other M7s. All other non-combat functions, especially crew and pilot quarters, mess hall, medical bay, etc. were sacrificed. With the ability to mass-produce pocket carriers capable of jumping an overwhelming force of fighters to any target, and combined with its impressive fighter-less sister design, the Tiger, the Split are the dominant player in M7 class combat.       
+
+The current design of the crew and pilot quarters has been reported as extremely barbaric and possibly hazardous by the other races (even the Teladi, who have scant thought of their own crews' welfare). Some unofficial reports have stated the crew and pilots are bedded within the same hangar with the ships, fuel and ordnance, or are compressed within its cargo space in a state of deep space hibernation.
+
+==Physical Characteristics==
+The Panther is approximately a kilometer and a third in length, with a broad, sloping main hull.  Its bridge is located on a command tower; its dorsal gun battery consists of four small turrets located atop this tower.  The command deck is balanced with a "keel" under the hull, containing the ventral gun battery, the missile tubes, and the fighter landing bay.  Its flank guns are located on the dorsal tower, and the stern turrets are mounted to either side of the engine block.  From behind, the Panther has a passing resemblance to a sailing ship.
+
+The ship has a unique launching platform for the fighters:  they are launched vertically in front of the bridge in groups of 10.  This number of launch pads exceeds all other M7s. Since the bridge is located in the aft tower, the player can view all the launches.  The fighters dock by moving behind the Panther and traveling into the landing bay, which is located below and forward of the thrusters.
+
+== Combat ==
+Able to mount a wide variety of weapons, an impressive frontal turret weapons array and turrets giving almost 360 degree coverage, it makes a formidable gun platform. This is combined with the capacity to launch waves of fighters for long attacks means this ship has the flexibility to fill in many roles.  However it cannot be compared to a full M1 class carrier which normally has superior shielding, fighter capacity and capital class weapons types. The Panther is well suited to a dedicated anti-fighter role, with its ability to equip Flak Artillery Array weapons in 5 of its 6 turrets (the Panther has more weapons per bay than most other frigates). Combined with its speed and spacious hangar, the Panther makes an outstanding independent anti-fighter platform, or screen for larger warships.
+
+Unlike its sister design the [[Tiger|Split Tiger]], this M7 has only turret-mounted weaponry. This means a player commanding a Panther cannot manually operate any guns while on the bridge. The player must either take direct control or trust the automatic targeting computer to make the calculations.
+As a split design, it features good top speeds, letting it close distances quickly. It also has superior acceleration to all other [[M7]] craft, and one of the best turn rates. It has a particularly weak hull, however.
+
+The left and right turrets are located at the stern, can mount the [[Phased Array Laser Cannon|PALC]] and their coverage includes the back arc of the ship. With the PALC's superior range and the Panther's speed, this allows for kiting to destroy overpowering enemies, albeit slowly.
+
+===Blind Spots===
+One thing to be careful about with the Panther is that its guns have a blind spot above the forward hull.  The forward battery cannot rotate back far enough to hit a small target that slides into this vulnerable area, and the dorsal turrets, being mounted atop the command tower, cannot depress far enough.  However, this blind spot is clearly visible from the bridge, and thus the Panther-commanding player has a simple solution available:  pull back on the stick.  A ship that can fit into the blind spot won't have any more than a quarter of a fully-shielded Panther's defenses (and frequently much less), and will be crushed flat when it impacts the shields.
+
+== Equipment ==
+The Panther can carry a wide variety of laser weapons varying by turret.  Its most powerful available weapon is the [[IBL|incendiary bomb launcher]], which can be mounted on its forward and flank gun batteries.  Unlike most Split vessels, it is very well-shielded, even more so than most competing M7s.
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+*[[Hornet Missile]]
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+|
+*[[Tempest Missile]]
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Typhoon Missile]]
+*[[Firestorm Torpedo]]
+*[[Aurora Missile]]
+*[[Remote Guided Warhead]]
+|
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+
+== Availability ==
+{| style="text-align:center;" cellpadding="3"
+|+ '''Availability'''
+|- style="{{Colour/Split}}"
+! Variant !! [[Family Pride]] !! [[Rhonkar's Might]] !! [[Cho's Defeat]] !! [[Family Tkr]] !! [[Family Njy]] !! [[Zyarth's Dominion]]!! [[Patriarch's Conclusion]] !! [[Rhonkar's Trial]] !! [[Family Rhy]] !! [[Zyarth's Stand]]
+|-
+! Panther 
+| || || || || || X || X || X ||
+|-
+! Panther Raider(AP)
+| || || || || ||   || X ||  || X || X
+|}
+
+'''Note:''' In Albion Prelude, the Panther is replaced with the "Panther Raider". It can be found at [[Zyarth's Stand]], [[Patriarch's Conclusion]], and a few other shipyards.
+
+== Suggested Roles==
+Its prime designated role is an attack or support carrier aiming to overwhelm fighters, destroy corvettes and challenge or cancel other frigates. In player hands its versatility means it can take on ships above its class. It should ideally use the strength of its fighter wings in almost all situations, however players without the funding to equip (and lose) fleets of fighters in the early stages can still expect good performance from the ship's own weapons systems.
+
+== See Also==
+*[[Cobra|Split Cobra]]
+*[[Tiger|Split Tiger]]
+{{M7}}
+[[Category: Carrier]]
+
+
+{{Split Navbox}}

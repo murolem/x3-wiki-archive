@@ -1,3 +1,6 @@
-<!-- source file: index__qe5a681b5cb0f.html -->
+This page holds links to pages categorized TS.
 
-This page holds links to pages categorized TS. The TS is the standard transport of the X universe. {{Shipcategory}} [[Category:Transport]]
+The TS is the standard transport of the X universe.
+
+{{Shipcategory}}
+[[Category:Transport]]

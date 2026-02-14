@@ -1,3 +1,125 @@
-<!-- source file: index__qa4377d9c4813.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= Hermes
+|Faction= Paranid
+|Class= {{TPclass}}
+|Priceblock= {{Priceblock|| 689346}}
+|Minspeed= 37.5
+|Maxspeed= 105
+|Minaccel= 2
+|Maxaccel= 7
+|Minsteer= 2.2
+|Maxsteer= 6.1
+|Hull= 20000
+|Maxshield= 25 MJ
+|Shieldslots= 3
+|Maxshieldstrength= 75
+|Shieldreactor= 600
+|Cargoclass= L
+|Mincargo= 1000
+|Maxcargo= 1000
+|Lasercap= 500
+|Laserrecharge= 5
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot= Rear
+|Guncount= 1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Hermes Hauler
+|Faction= Paranid
+|Class= {{TPclass}}
+|Priceblock= {{Priceblock|| 1440859}}
+|Minspeed= 41.2
+|Maxspeed= 115.5
+|Minaccel= 2
+|Maxaccel= 7
+|Minsteer= 2.3
+|Maxsteer= 6.4
+|Hull= 20600
+|Maxshield= 25 MJ
+|Shieldslots= 3
+|Maxshieldstrength= 75
+|Shieldreactor= 600
+|Cargoclass= L
+|Mincargo= 1150
+|Maxcargo= 1150
+|Lasercap= 500
+|Laserrecharge= 5
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot= Rear
+|Guncount= 1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The '''Hermes''' is similar to the [[Boron]] [[Manta]], trading a little speed for much improved defensive capability. It is by far the slowest [[TP]] in its class, with its speed roughly equivalent to that of the [[Kea|Teladi Kea]], and even the [[Toucan|Teladi Toucan]] beats it by being roughly 20 m/s faster.
 
-{{Infobox open}} {{Infobox variant |Variant= Hermes |Faction= Paranid |Class= {{TPclass}} |Priceblock= {{Priceblock|| 689346}} |Minspeed= 37.5 |Maxspeed= 105 |Minaccel= 2 |Maxaccel= 7 |Minsteer= 2.2 |Maxsteer= 6.1 |Hull= 20000 |Maxshield= 25 MJ |Shieldslots= 3 |Maxshieldstrength= 75 |Shieldreactor= 600 |Cargoclass= L |Mincargo= 1000 |Maxcargo= 1000 |Lasercap= 500 |Laserrecharge= 5 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot= Rear |Guncount= 1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant= Hermes Hauler |Faction= Paranid |Class= {{TPclass}} |Priceblock= {{Priceblock|| 1440859}} |Minspeed= 41.2 |Maxspeed= 115.5 |Minaccel= 2 |Maxaccel= 7 |Minsteer= 2.3 |Maxsteer= 6.4 |Hull= 20600 |Maxshield= 25 MJ |Shieldslots= 3 |Maxshieldstrength= 75 |Shieldreactor= 600 |Cargoclass= L |Mincargo= 1150 |Maxcargo= 1150 |Lasercap= 500 |Laserrecharge= 5 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot= Rear |Guncount= 1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The '''Hermes''' is similar to the [[Boron]] [[Manta]], trading a little speed for much improved defensive capability. It is by far the slowest [[TP]] in its class, with its speed roughly equivalent to that of the [[Kea|Teladi Kea]], and even the [[Toucan|Teladi Toucan]] beats it by being roughly 20 m/s faster. ==Background== The Hermes is based on an old original design for the Ganymede, but the design was reworked to accommodate passengers. Like most [[Paranid]] ships it is able to hold a certain amount of weaponry, primarily for defense. It is very unlikely you will see this ship in [[Argon]] systems, mainly because the tension between the two neighbors remains high. ==Physical Characteristics== Like most [[Commonwealth]] [[TP]]s, the Hermes is a variation on the race's [[TS]] model, in this case the [[Demeter]]. The modular cargo section is replaced with a passenger section. ==Variants== ===Hermes=== {{regular}} ===Hermes Hauler=== {{hauler}} == Combat == The Hermes is less helpless in a fight than some other TP-class ships, but it is still a TP and should not be allowed into a firefight lightly. == Equipment == {{Sectstub}} == Availability == At least one Hermes variant is available at most [[Paranid Shipyard]]s. {| style="text-align:center;" |+'''Availability''' |- style="{{Colour/Paranid}}" ! Variant !! [[Cardinal's Domain]] !! [[Duke's Citadel]] !! [[Heaven's Assertion]] !! [[Paranid Prime]] !! [[Third Redemption]]!! [[Trinity Sanctum]] |- ! Hermes || || X || X || X || X || |- ! Hermes Hauler || || || X || || X || X |} == Suggested Roles== The Hermes is not recommended to take for even passenger ferrying because it is dreadfully slow by Paranid and even Teladi standards. The Hauler variant isn't any better, marginally improving its speed at a mere 10 m/s. Thus, it is contemptuously treated by players as a curious novelty among TP-class craft. == See Also== {{TP}} {{Paranid Navbox}}
+==Background==
+The Hermes is based on an old original design for the Ganymede, but the design was reworked to accommodate passengers.  Like most [[Paranid]] ships it is able to hold a certain amount of weaponry, primarily for defense.  It is very unlikely you will see this ship in [[Argon]] systems, mainly because the tension between the two neighbors remains high.
+
+==Physical Characteristics==
+Like most [[Commonwealth]] [[TP]]s, the Hermes is a variation on the race's [[TS]] model, in this case the [[Demeter]].  The modular cargo section is replaced with a passenger section.
+
+==Variants==
+===Hermes===
+{{regular}}
+
+===Hermes Hauler===
+{{hauler}}
+
+== Combat ==
+The Hermes is less helpless in a fight than some other TP-class ships, but it is still a TP and should not be allowed into a firefight lightly.
+
+== Equipment ==
+{{Sectstub}}
+
+== Availability ==
+At least one Hermes variant is available at most [[Paranid Shipyard]]s.
+{| style="text-align:center;"
+|+'''Availability'''
+|- style="{{Colour/Paranid}}"
+! Variant !! [[Cardinal's Domain]] !! [[Duke's Citadel]] !! [[Heaven's Assertion]] !! [[Paranid Prime]] !! [[Third Redemption]]!! [[Trinity Sanctum]]
+|-
+! Hermes        ||   || X || X || X || X ||  
+|-
+! Hermes Hauler ||   ||   || X ||   || X || X
+|}
+
+== Suggested Roles==
+The Hermes is not recommended to take for even passenger ferrying because it is dreadfully slow by Paranid and even Teladi standards. The Hauler variant isn't any better, marginally improving its speed at a mere 10 m/s. Thus, it is contemptuously treated by players as a curious novelty among TP-class craft.
+
+== See Also==
+
+{{TP}}
+
+
+{{Paranid Navbox}}

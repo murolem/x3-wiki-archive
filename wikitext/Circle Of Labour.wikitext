@@ -1,3 +1,30 @@
-<!-- source file: index__q5bd156f29030.html -->
+{{Infobox Sector
+|Race=Argon
+|SecLevel=Border
+|Population=94019273
+|Planets=2
+|SunLevel=150
+|GateDist=80
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|0|40900|[[Heretic's End]]}}
+{{Gateblock2|South|0|0|-40600|[[Omicron Lyrae]]}}
+{{Gateblock/End}}
+}}
+==Description==
+This Argon colony was founded by Kleo Glut, head of the Argon Agricultural Council, but as work continued it was discovered that more uses could be found for the system. The sector is owned by the AAC which means very little money has be put aside for updating non-essential technology. Residents have thus needed to find a way to make money apart from selling wares and produce. It is believed that there are some illegal goods being sold in the sector, but this has yet to be proven as residents police and protect this sector themselves. Streams of nebula also inhabit this system, and Circle Of Labour is usually home to several scientists who try to find a way to mine this untouched resource. The system is unusual as the sun bursts with strong phases of intense light.
 
-{{Infobox Sector |Race=Argon |SecLevel=Border |Population=94019273 |Planets=2 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0|0|40900|[[Heretic's End]]}} {{Gateblock2|South|0|0|-40600|[[Omicron Lyrae]]}} {{Gateblock/End}} }} ==Description== This Argon colony was founded by Kleo Glut, head of the Argon Agricultural Council, but as work continued it was discovered that more uses could be found for the system. The sector is owned by the AAC which means very little money has be put aside for updating non-essential technology. Residents have thus needed to find a way to make money apart from selling wares and produce. It is believed that there are some illegal goods being sold in the sector, but this has yet to be proven as residents police and protect this sector themselves. Streams of nebula also inhabit this system, and Circle Of Labour is usually home to several scientists who try to find a way to mine this untouched resource. The system is unusual as the sun bursts with strong phases of intense light. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ice|25|20110|1243|-21000}} {{Asteroid/Item|Ore|32|14110|-5256|0}} {{Asteroid/Item|Ore|16|7979|0|5466}} {{Asteroid/Item|Ore|8|24285|0|12599}} {{Asteroid/Item|Silicon|12|3232|808|-11188}} {{Asteroid/Item|Silicon|9|-15415|-2113|-2486}} {{Asteroid/End}} == See Also == {{Argon Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ice|25|20110|1243|-21000}}
+{{Asteroid/Item|Ore|32|14110|-5256|0}}
+{{Asteroid/Item|Ore|16|7979|0|5466}}
+{{Asteroid/Item|Ore|8|24285|0|12599}}
+{{Asteroid/Item|Silicon|12|3232|808|-11188}}
+{{Asteroid/Item|Silicon|9|-15415|-2113|-2486}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Argon Navbox}}

@@ -1,3 +1,27 @@
-<!-- source file: index__q8738f7b8a0e1.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Energy Bolt Chaingun Ammunition
+|cargoclass=S
+|volume=1
+|minprice=
+|aveprice=
+|maxprice=
+}}
+{{Infobox close}}
 
-{{Infobox open}} {{Infobox ware |ware= Energy Bolt Chaingun Ammunition |cargoclass=S |volume=1 |minprice= |aveprice= |maxprice= }} {{Infobox close}} ==Overview== Each crate contains 200 rounds of ammunition. ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Energy Bolt Chaingun Ammunition Forge]] | *List of Race Factories where this ware is a primary resource | *List of Race Factories where this ware is a secondary resource | *List of Trading Stations where this ware is traded (sector only) |}
+==Overview==
+Each crate contains 200 rounds of ammunition.
+
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Energy Bolt Chaingun Ammunition Forge]]
+|
+*List of Race Factories where this ware is a primary resource
+|
+*List of Race Factories where this ware is a secondary resource
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}

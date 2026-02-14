@@ -1,3 +1,30 @@
-<!-- source file: index__qf9de76fc1399.html -->
+{{Infobox Sector
+|Race=Terran
+|SecLevel=Core
+|Population=
+|Planets=
+|SunLevel=150
+|GateDist=
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th></tr>
+{{Gateblock|East|28500|	0|	-7500}}
+{{Gateblock|West|-17500|	0|	-2500}}
+</table>
+}}
+==Description==
 
-{{Infobox Sector |Race=Terran |SecLevel=Core |Population= |Planets= |SunLevel=150 |GateDist= |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;/tr> {{Gateblock|East|28500| 0| -7500}} {{Gateblock|West|-17500| 0| -2500}} &lt;/table> }} ==Description== ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|26|-30290|4918|7416}} {{Asteroid/Item|Ore|21|23231|-4926|-15811}} {{Asteroid/Item|Ore|18|-4742|-10999|-23925}} {{Asteroid/Item|Ore|13|-16542|-8804|19971}} {{Asteroid/Item|Ore|8|15586|-4486|19063}} {{Asteroid/Item|Ore|6|23277|7647|10815}} {{Asteroid/End}} ==See Also== {{Terran Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|26|-30290|4918|7416}}
+{{Asteroid/Item|Ore|21|23231|-4926|-15811}}
+{{Asteroid/Item|Ore|18|-4742|-10999|-23925}}
+{{Asteroid/Item|Ore|13|-16542|-8804|19971}}
+{{Asteroid/Item|Ore|8|15586|-4486|19063}}
+{{Asteroid/Item|Ore|6|23277|7647|10815}}
+{{Asteroid/End}}
+
+==See Also==
+{{Terran Navbox}}

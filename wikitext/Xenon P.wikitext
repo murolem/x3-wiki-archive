@@ -1,3 +1,86 @@
-<!-- source file: index__q712413125d49.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=P
+|Faction=Xenon
+|Class={{M6class}}
+|Priceblock=
+|Minspeed=58.8
+|Maxspeed=135.2
+|Minaccel=5
+|Maxaccel=11
+|Minsteer=8.4
+|Maxsteer=24.4
+|Hull=30000
+|Maxshield=200 MJ
+|Shieldslots=2
+|Maxshieldstrength=400
+|Shieldreactor= 3000
+|Cargoclass=XL
+|Mincargo=750
+|Maxcargo=1250
+|Lasercap=10000
+|Laserrecharge=500
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=1|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+A M6 class ship with the turning capability of an [[M3]]. It can out manouver anything above M3 class ships. Very very hard to board. It is equipped with poor shielding, equal to that of the [[Dragon]], and though it is not as fast its agility more than makes up for this. Its ingame role is to 'protect the large, slow and bulky Xenon Capital ships'. This it does admirably, its manouverability allowing it to chase down fighters that slip through the capitals' flak screens.
 
-{{Infobox open}} {{Infobox variant |Variant=P |Faction=Xenon |Class={{M6class}} |Priceblock= |Minspeed=58.8 |Maxspeed=135.2 |Minaccel=5 |Maxaccel=11 |Minsteer=8.4 |Maxsteer=24.4 |Hull=30000 |Maxshield=200 MJ |Shieldslots=2 |Maxshieldstrength=400 |Shieldreactor= 3000 |Cargoclass=XL |Mincargo=750 |Maxcargo=1250 |Lasercap=10000 |Laserrecharge=500 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=0|us=1|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=1|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== A M6 class ship with the turning capability of an [[M3]]. It can out manouver anything above M3 class ships. Very very hard to board. It is equipped with poor shielding, equal to that of the [[Dragon]], and though it is not as fast its agility more than makes up for this. Its ingame role is to 'protect the large, slow and bulky Xenon Capital ships'. This it does admirably, its manouverability allowing it to chase down fighters that slip through the capitals' flak screens. ==Background== ==Physical Characteristics== == Combat == They can easily catch an opponent by surprise, and generally use the powerful [[Ion Shard Railgun]] as a main weapon, an accurate volley of which will quite effectively maim other standard [[M6]] ships. [[M6+]] and bigger ships, however, will shrug off the damage from a P's rather limited laser capacitor. Of course, they generally come in large swarms, so can put a pretty large dent in even a capital ship's shields. == Equipment == == Availability == The Xenon P can only be acquired by [[boarding]]. == Suggested Roles== == See Also== *[[M6]] class; **[[Centaur|Argon Centaur]] **[[Hydra|Boron Hydra]] **[[Kha'ak Corvette]] **[[Nemesis|Paranid Nemesis]] **[[Dragon|Split Dragon]] **[[Osprey|Teladi Osprey]] **[[Katana|Terran Katana]] **[[Springblossom|Aldrin Springblossom]] **[[Vidar|ATF Vidar]] **[[Truelight Seeker|Goner Truelight Seeker]] *[[M6+]] class; **[[Xenon PX]] {{M6category}}
+==Background==
+==Physical Characteristics==
+== Combat ==
+They can easily catch an opponent by surprise, and generally use the powerful [[Ion Shard Railgun]] as a main weapon, an accurate volley of which will quite effectively maim other standard [[M6]] ships. [[M6+]] and bigger ships, however, will shrug off the damage from a P's rather limited laser capacitor. Of course, they generally come in large swarms, so can put a pretty large dent in even a capital ship's shields.
+
+== Equipment ==
+== Availability ==
+The Xenon P can only be acquired by [[boarding]].
+
+== Suggested Roles==
+== See Also==
+
+*[[M6]] class;
+**[[Centaur|Argon Centaur]]
+**[[Hydra|Boron Hydra]]
+**[[Kha'ak Corvette]]
+**[[Nemesis|Paranid Nemesis]]
+**[[Dragon|Split Dragon]]
+**[[Osprey|Teladi Osprey]]
+**[[Katana|Terran Katana]]
+**[[Springblossom|Aldrin Springblossom]]
+**[[Vidar|ATF Vidar]]
+**[[Truelight Seeker|Goner Truelight Seeker]]
+*[[M6+]] class;
+**[[Xenon PX]]
+{{M6category}}

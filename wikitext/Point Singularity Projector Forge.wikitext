@@ -1,3 +1,32 @@
-<!-- source file: index__qaf6d0c496d45.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Terran
+|station=Point Singularity Projector Forge
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=10
+|cycle=05:09:36
+|productnum=[[Point Singularity Projector]] (1)
+|stationprice={{priceblock|Terran Guardian of Earth|15971276}}
+|reqresources=[[Energy Cells]] (4644) <br>[[Terran MRE]] (774) <br>[[Ore]] (774) 
+|optresources=[[Hull Plating]]<br>[[Water]]
+}}
+{{Infobox close}}
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Terran |station=Point Singularity Projector Forge |hull=1000000 |shield=9 |generator=2000 |hangar=10 |cycle=05:09:36 |productnum=[[Point Singularity Projector]] (1) |stationprice={{priceblock|Terran Guardian of Earth|15971276}} |reqresources=[[Energy Cells]] (4644) &lt;br>[[Terran MRE]] (774) &lt;br>[[Ore]] (774) |optresources=[[Hull Plating]]&lt;br>[[Water]] }} {{Infobox close}} ==Overview== Point Singularity Projector Forges are Terran factories that produce the [[Point Singularity Projector]] from [[Energy Cells]], [[Terran MRE]] and [[Ore]]. NPC stations will buy [[Hull Plating]] and [[Water]] as secondary resources. ===Encyclopedia Entry=== This production facility manufactures the [[Point Singularity Projector]]. ==Availability== This factory is sold exclusively at [[Terran Unknown Sector 1]]. {{Stationcategory}}
+==Overview==
+
+Point Singularity Projector Forges are Terran factories that produce the [[Point Singularity Projector]] from [[Energy Cells]], [[Terran MRE]] and [[Ore]]. 
+
+NPC stations will buy [[Hull Plating]] and [[Water]] as secondary resources.
+
+===Encyclopedia Entry===
+
+This production facility manufactures the [[Point Singularity Projector]].
+
+==Availability==
+
+This factory is sold exclusively at [[Terran Unknown Sector 1]].
+
+{{Stationcategory}}

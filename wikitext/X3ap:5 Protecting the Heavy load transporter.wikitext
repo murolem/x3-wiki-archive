@@ -1,3 +1,17 @@
-<!-- source file: index__qcebb656e877e.html -->
+Questline: [[x3ap_quests | X3:AP Quests]]
 
-Questline: [[x3ap_quests | X3:AP Quests]] Help the Transport Freighter get back to [[Argon Sector M148]]. # Fly back to [[Argon Sector M148]] # Fly to [[Nathan's Voyage]] # Escort the TS back to [[Argon Sector M148]] ===Completion Rewards=== none(?) {{MoveBox|X3ap:4_Jonferco_Under_Attack!|X3ap:6 Albion Defenceless}}
+
+Help the Transport Freighter get back to [[Argon Sector M148]].
+
+# Fly back to [[Argon Sector M148]]
+# Fly to [[Nathan's Voyage]]
+# Escort the TS back to [[Argon Sector M148]]
+
+
+===Completion Rewards===
+
+none(?)
+
+
+
+{{MoveBox|X3ap:4_Jonferco_Under_Attack!|X3ap:6 Albion Defenceless}}

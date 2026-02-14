@@ -1,3 +1,226 @@
-<!-- source file: index__q446eec5b0507.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= Medusa
+|Faction=Paranid
+|Class={{M3+class}}
+|Priceblock={{Priceblock|| 6419669}}
+|Minspeed=65
+|Maxspeed=143
+|Minaccel=9
+|Maxaccel=20
+|Minsteer=16.9
+|Maxsteer=27.2
+|Hull= 12500 / 25000 (AP)
+|Maxshield=25 MJ
+|Shieldslots=4
+|Maxshieldstrength=100
+|Shieldreactor=1300 
+|Cargoclass=M
+|Mincargo=180
+|Maxcargo=320
+|Lasercap=8333
+|Laserrecharge=208
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Front
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Back
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Medusa Prototype
+|Faction=Paranid
+|Class={{M3+class}}
+|Priceblock= {{Priceblock||5984203}}
+|Minspeed=68
+|Maxspeed= 156
+|Minaccel=9
+|Maxaccel=21
+|Minsteer=17.7
+|Maxsteer=38.9
+|Hull= 13125 / 26250 (AP)
+|Maxshield=25 MJ
+|Shieldslots=4
+|Maxshieldstrength=100
+|Shieldreactor= 1160
+|Cargoclass=M
+|Mincargo=180
+|Maxcargo= 320
+|Lasercap= 8750 
+|Laserrecharge= 219
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Back
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Front
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The Medusa has decidedly middle-of-the-road capabilities for an [[M3+]]. Its Prototype variant is significant for its compatibility with powerful missiles normally reserved for heavier ships.
 
-{{Infobox open}} {{Infobox variant |Variant= Medusa |Faction=Paranid |Class={{M3+class}} |Priceblock={{Priceblock|| 6419669}} |Minspeed=65 |Maxspeed=143 |Minaccel=9 |Maxaccel=20 |Minsteer=16.9 |Maxsteer=27.2 |Hull= 12500 / 25000 (AP) |Maxshield=25 MJ |Shieldslots=4 |Maxshieldstrength=100 |Shieldreactor=1300 |Cargoclass=M |Mincargo=180 |Maxcargo=320 |Lasercap=8333 |Laserrecharge=208 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Front |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Back |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Medusa Prototype |Faction=Paranid |Class={{M3+class}} |Priceblock= {{Priceblock||5984203}} |Minspeed=68 |Maxspeed= 156 |Minaccel=9 |Maxaccel=21 |Minsteer=17.7 |Maxsteer=38.9 |Hull= 13125 / 26250 (AP) |Maxshield=25 MJ |Shieldslots=4 |Maxshieldstrength=100 |Shieldreactor= 1160 |Cargoclass=M |Mincargo=180 |Maxcargo= 320 |Lasercap= 8750 |Laserrecharge= 219 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Back |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Front |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The Medusa has decidedly middle-of-the-road capabilities for an [[M3+]]. Its Prototype variant is significant for its compatibility with powerful missiles normally reserved for heavier ships. ==Background== ===Encyclopedia Entry=== The Paranid government, learning that Bala Gi Research Inc. was to develop enhanced heavy fighters for other races, asked the company to investigate new design options for a heavy fighter to provide load-carrying capacity enhancements over the [[Perseus]]. The Medusa was the result. This new design fills a number of capability gaps that exist within the Paranid fleet. ==Physical Characteristics== The Medusa has a slim, wedge-shaped hull with a rear-mounted cockpit with a glass bubble canopy. ==Variants== ===Medusa=== {{regular}} ===Medusa Prototype=== {{prototype}} The Medusa Prototype improves the standard ship's speed and overall capabilities, but significantly, it can utilize the heavy missiles usually reserved for [[M6|Corvette]]s: the nuclear-tipped [[Firestorm Torpedo]], the [[Hornet Missile]], and the versatile [[Typhoon Missile]]. The only downside is its marginally weakened shield reactor. == Combat == Like most M3+ class ships, the Medusa best performs in the role of local space superiority fighter launched from a carrier ship. It does not have the speed to act as an interceptor. The Prototype can be utilized as a fighter-bomber. == Equipment == {| |+ '''Missiles (All variants)''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] | *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] | *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] *[[Aurora Missile]] | *[[Remote Guided Warhead]] *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] | *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} The Prototype adds the following missiles: {| *[[Hornet Missile]] *[[Typhoon Missile]] *[[Firestorm Torpedo]] |} == Availability == The Medusa is available at four of the six [[Paranid Shipyard]]s. {| style="text-align:center;" |+'''Availability''' |- style="{{Colour/Paranid}}" ! Variant !! [[Cardinal's Domain]] !! [[Duke's Citadel]] !! [[Heaven's Assertion]] !! [[Paranid Prime]] !! [[Third Redemption]]!! [[Trinity Sanctum]] |- ! Medusa || x || x || || x || || x |} The Medusa Prototype is not available for sale. It is the starting ship of the Unholy Traitor starting scenario, and it is also granted by [[Duke's Buccaneers]] upon reaching [[Reputation#Duke's|rank 10]], and is available for capture, though it is very rare. == Suggested Roles== The Medusa performs well in all standard M3+ roles: carrier-based fighter-bomber, space superiority, and hit-and-run strikes. == See Also== *[[M3]] class **[[Perseus|Paranid Perseus]] {{M3+}} {{Paranid Navbox}}
+==Background==
+===Encyclopedia Entry===
+The Paranid government, learning that Bala Gi Research Inc. was to develop enhanced heavy fighters for other races, asked the company to investigate new design options for a heavy fighter to provide load-carrying capacity enhancements over the [[Perseus]]. The Medusa was the result. This new design fills a number of capability gaps that exist within the Paranid fleet.
+==Physical Characteristics==
+The Medusa has a slim, wedge-shaped hull with a rear-mounted cockpit with a glass bubble canopy.
+
+==Variants==
+===Medusa===
+{{regular}}
+
+===Medusa Prototype===
+{{prototype}}
+
+The Medusa Prototype improves the standard ship's speed and overall capabilities, but significantly, it can utilize the heavy missiles usually reserved for [[M6|Corvette]]s: the nuclear-tipped [[Firestorm Torpedo]], the [[Hornet Missile]], and the versatile [[Typhoon Missile]]. The only downside is its marginally weakened shield reactor.
+
+== Combat ==
+Like most M3+ class ships, the Medusa best performs in the role of local space superiority fighter launched from a carrier ship. It does not have the speed to act as an interceptor.
+
+The Prototype can be utilized as a fighter-bomber.
+
+== Equipment ==
+{|
+|+ '''Missiles (All variants)'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+|
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+|
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Aurora Missile]]
+|
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+|
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+
+The Prototype adds the following missiles:
+{|
+*[[Hornet Missile]]
+*[[Typhoon Missile]]
+*[[Firestorm Torpedo]]
+|}
+
+== Availability ==
+The Medusa is available at four of the six [[Paranid Shipyard]]s.
+{| style="text-align:center;"
+|+'''Availability'''
+|- style="{{Colour/Paranid}}"
+! Variant !! [[Cardinal's Domain]] !! [[Duke's Citadel]] !! [[Heaven's Assertion]] !! [[Paranid Prime]] !! [[Third Redemption]]!! [[Trinity Sanctum]]
+|-
+! Medusa || x || x ||   || x ||   || x
+|}
+
+The Medusa Prototype is not available for sale.  It is the starting ship of the Unholy Traitor starting scenario, and it is also granted by [[Duke's Buccaneers]] upon reaching [[Reputation#Duke's|rank 10]], and is available for capture, though it is very rare.
+
+== Suggested Roles==
+The Medusa performs well in all standard M3+ roles:  carrier-based fighter-bomber, space superiority, and hit-and-run strikes.
+
+== See Also==
+*[[M3]] class
+**[[Perseus|Paranid Perseus]]
+
+{{M3+}}
+
+
+{{Paranid Navbox}}

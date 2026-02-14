@@ -1,3 +1,136 @@
-<!-- source file: index__qaa9c63b15c7b.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Ryu
+|Faction=Yaki
+|Class={{TLclass}}
+|Priceblock={{Priceblock|(Hidden)|20422766}}
+|Minspeed=80
+|Maxspeed= 120
+|Minaccel=5
+|Maxaccel=8
+|Minsteer=0.2
+|Maxsteer=0.3
+|Hull=
+|Maxshield=200 MJ
+|Shieldslots=4
+|Maxshieldstrength=800
+|Shieldreactor= 3300
+|Cargoclass=ST
+|Mincargo=34000
+|Maxcargo=36000
+|Lasercap=18000
+|Laserrecharge=165
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=4
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=1|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=1|prg=1|
+cfaa=1|pbc=1|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=1|prg=1|
+cfaa=1|pbc=1|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Back
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay={{Dockbay|12 {{Fighterdock}}}}
+}}
+{{Infobox close}}
+==Overview==
+The only TL which needs cargobay upgrades to reach maximum capacity, the Ryu is otherwise a solid choice for a station transporter or light carrier, with good speed, low-to-average cargo space, decent shields and a bigish hangar.
 
-{{Infobox open}} {{Infobox variant |Variant=Ryu |Faction=Yaki |Class={{TLclass}} |Priceblock={{Priceblock|(Hidden)|20422766}} |Minspeed=80 |Maxspeed= 120 |Minaccel=5 |Maxaccel=8 |Minsteer=0.2 |Maxsteer=0.3 |Hull= |Maxshield=200 MJ |Shieldslots=4 |Maxshieldstrength=800 |Shieldreactor= 3300 |Cargoclass=ST |Mincargo=34000 |Maxcargo=36000 |Lasercap=18000 |Laserrecharge=165 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=4 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=1|prg=1| cfaa=0|pbc=0|id=0| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=1|prg=1| cfaa=1|pbc=1|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Right |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=1|prg=1| cfaa=1|pbc=1|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Back |Guncount=2 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay={{Dockbay|12 {{Fighterdock}}}} }} {{Infobox close}} ==Overview== The only TL which needs cargobay upgrades to reach maximum capacity, the Ryu is otherwise a solid choice for a station transporter or light carrier, with good speed, low-to-average cargo space, decent shields and a bigish hangar. ==Background== As the Yaki seek to expand their sphere of influence, so must their infrastructure increase. The Ryu is a key part of enabling Yaki station-building and heavy transport activities. ==Physical Characteristics== == Combat == The Ryu has a respectable choice of weaponry, but is not a combat vessel and this armament should be used defensively unless the pilot knows what he is doing. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] | *[[Tempest Missile]] *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] *[[Aurora Missile]] *[[Remote Guided Warhead]] *[[Beluga Missile]] | *[[Hammerhead Missile]] *[[Rapier Missile]] *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == == Suggested Roles== Similar to the Split Elephant. Comparable speed and 80% the shielding, while having a fighter bay of 2 less but a cargo bay of 2000 more mean it could be and effective on-demand resupply/light support craft (though the markedly weaker laser generator limits the latter role when IS). == See Also== {{TL}} [[Category: Carrier]] {{Yaki Navbox}}
+==Background==
+As the Yaki seek to expand their sphere of influence, so must their infrastructure increase. The Ryu is a key part of enabling Yaki station-building and heavy transport activities.
+
+==Physical Characteristics==
+== Combat ==
+The Ryu has a respectable choice of weaponry, but is not a combat vessel and this armament should be used defensively unless the pilot knows what he is doing.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+|
+*[[Tempest Missile]]
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Aurora Missile]]
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+|
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+
+== Availability ==
+== Suggested Roles==
+Similar to the Split Elephant. Comparable speed and 80% the shielding, while having a fighter bay of 2 less but a cargo bay of 2000 more mean it could be and effective on-demand resupply/light support craft (though the markedly weaker laser generator limits the latter role when IS).
+
+== See Also==
+
+{{TL}}
+[[Category: Carrier]]
+
+{{Yaki Navbox}}

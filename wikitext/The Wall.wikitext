@@ -1,3 +1,20 @@
-<!-- source file: index__qb4c7e7e5ff0f.html -->
-
-{{Infobox Sector |Race=Argon |SecLevel=Core |Population=93,422,880 |Planets=3 |SunLevel=150 |GateDist=80 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|0| 2000| 21820|[[The Hole]]}} {{Gateblock2|South|2000| -2000| -26320|[[President's End]]}} {{Gateblock2|West|-33820| 0| 0|[[Argon Prime]]}} &lt;/table> }} ==Description== ===Encyclopedia Entry=== This system provides much needed power and food to the Argon Military as well as providing a convenient temporary HQ for the rapid response squads set up against [[Pirate]] activity and [[Xenon]] insurgence. It is often used as a base to recharge long range recon ships and carriers and as a result is well defended and often dangerous system during times of conflict. ==Default [[Stations]]== ==[[Asteroids]]== {{Argon Navbox}}
+{{Infobox Sector
+|Race=Argon
+|SecLevel=Core
+|Population=93,422,880
+|Planets=3
+|SunLevel=150
+|GateDist=80
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|0|	2000|	21820|[[The Hole]]}}
+{{Gateblock2|South|2000|	-2000|	-26320|[[President's End]]}}
+{{Gateblock2|West|-33820|	0|	0|[[Argon Prime]]}}
+</table>
+}}
+==Description==
+===Encyclopedia Entry===
+This system provides much needed power and food to the Argon Military as well as providing a convenient temporary HQ for the rapid response squads set up against [[Pirate]] activity and [[Xenon]] insurgence. It is often used as a base to recharge long range recon ships and carriers and as a result is well defended and often dangerous system during times of conflict.
+==Default [[Stations]]==
+==[[Asteroids]]==
+{{Argon Navbox}}

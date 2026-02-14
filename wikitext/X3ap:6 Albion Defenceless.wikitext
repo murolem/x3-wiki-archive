@@ -1,3 +1,17 @@
-<!-- source file: index__qbc69ab5db633.html -->
+Questline: [[x3ap_quests | X3:AP Quests]]
 
-Questline: [[x3ap_quests | X3:AP Quests]] The [[Jonferco]] [[Equipment Dock|Research Station]] is under attack by Pirates! # Fly to [[Albion Beta]] # Defend [[Jonferco]] [[Equipment Dock|Research Station]] from 3-4 [[M3]] pirate ships # Deploy 3 [[Lasertower|Lasertowers]] around the [[Jonferco]] [[Equipment Dock|Research Station]] ===Completion Rewards=== Repayment for the 3 lasertowers {{MoveBox|X3ap:5_Protecting the Heavy load transporter|X3ap:7 The Beryll}}
+
+The [[Jonferco]] [[Equipment Dock|Research Station]] is under attack by Pirates!
+
+# Fly to [[Albion Beta]]
+# Defend [[Jonferco]] [[Equipment Dock|Research Station]] from 3-4 [[M3]] pirate ships
+# Deploy 3 [[Lasertower|Lasertowers]] around the [[Jonferco]] [[Equipment Dock|Research Station]]
+
+
+===Completion Rewards===
+
+Repayment for the 3 lasertowers
+
+
+
+{{MoveBox|X3ap:5_Protecting the Heavy load transporter|X3ap:7 The Beryll}}

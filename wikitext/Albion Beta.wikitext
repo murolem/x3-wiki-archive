@@ -1,3 +1,37 @@
-<!-- source file: index__q225e3ad2e702.html -->
+{{Infobox Sector
+|Race= Argon
+|SecLevel= Border
+|Population= 67,834
+|Planets= 1
+|SunLevel= 150
+|GateDist=100
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|West|20000|0|0|[[Albion Alpha]]}}
+{{Gateblock2|North|-37600|0|33500|[[Albion Delta]]}}
+{{Gateblock2|East|37600|0|-6970|[[Albion Gamma]]}}
+</table>
+}}
+==Overview==
 
-{{Infobox Sector |Race= Argon |SecLevel= Border |Population= 67,834 |Planets= 1 |SunLevel= 150 |GateDist=100 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|West|20000|0|0|[[Albion Alpha]]}} {{Gateblock2|North|-37600|0|33500|[[Albion Delta]]}} {{Gateblock2|East|37600|0|-6970|[[Albion Gamma]]}} &lt;/table> }} ==Overview== ==Description== This region was chosen by JSDD as the second sector within the Albion system for settlement. This is most likely due to the slightly higher solar intensity which has led to this area providing most of the energy for Jonferco's operation in the system, fuelling their rapid expansion. In addition to the power production facilities, this sector also houses a similar mixture of high and low tech facilites in Albion Alpha, which allows the sector to be largely self-reliant. ==Default [[Stations]]== #[[Jonferco]] [[Equipment Dock]] #[[Jonferco]] [[Research Station]] #[[Jonferco]] [[Medium Weapons Complex]] #[[Plutarch]] [[Solar Power Plant]] ==[[Asteroids]]== 13 Known ==[[Missions]]== [[X3ap:6_Albion_Defenceless | Albion Prelude: Albion Defenceless]] [[X3ap:8_Plutarch_Rising | Albion Prelude: Plutarch Rising]] [[X3ap:11 Albion Pride | Albion Prelude: Albion Pride]] {{Argon Navbox}}
+
+==Description==
+This region was chosen by JSDD as the second sector within the Albion system for settlement. This is most likely due to the slightly higher solar intensity which has led to this area providing most of the energy for Jonferco's operation in the system, fuelling their rapid expansion. In addition to the power production facilities, this sector also houses a similar mixture of high and low tech facilites in Albion Alpha, which allows the sector to be largely self-reliant.
+
+
+==Default [[Stations]]==
+#[[Jonferco]] [[Equipment Dock]]
+#[[Jonferco]] [[Research Station]]
+#[[Jonferco]] [[Medium Weapons Complex]]
+#[[Plutarch]] [[Solar Power Plant]]
+
+==[[Asteroids]]==
+13 Known
+
+==[[Missions]]==
+[[X3ap:6_Albion_Defenceless | Albion Prelude: Albion Defenceless]]
+
+[[X3ap:8_Plutarch_Rising | Albion Prelude: Plutarch Rising]]
+
+[[X3ap:11 Albion Pride | Albion Prelude: Albion Pride]]
+{{Argon Navbox}}

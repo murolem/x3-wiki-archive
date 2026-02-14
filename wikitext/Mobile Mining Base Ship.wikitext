@@ -1,3 +1,141 @@
-<!-- source file: index__q99e1eeeeeb73.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Mobile Mining Base Ship
+|Faction=Terran
+|Class={{TLclass}}
+|Priceblock={{Priceblock|| 28579548}}
+|Minspeed=
+|Maxspeed= 87.5
+|Minaccel=
+|Maxaccel=
+|Minsteer=
+|Maxsteer=
+|Hull=
+|Maxshield=200 MJ
+|Shieldslots=5
+|Maxshieldstrength=1000
+|Shieldreactor= 3300
+|Cargoclass=ST
+|Mincargo=
+|Maxcargo=60000
+|Lasercap=17100
+|Laserrecharge=
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Top
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Bottom
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay={{Dockbay|5 [[M3+]]-[[M5]]}}
+}}
+{{Infobox close}}
 
-{{Infobox open}} {{Infobox variant |Variant=Mobile Mining Base Ship |Faction=Terran |Class={{TLclass}} |Priceblock={{Priceblock|| 28579548}} |Minspeed= |Maxspeed= 87.5 |Minaccel= |Maxaccel= |Minsteer= |Maxsteer= |Hull= |Maxshield=200 MJ |Shieldslots=5 |Maxshieldstrength=1000 |Shieldreactor= 3300 |Cargoclass=ST |Mincargo= |Maxcargo=60000 |Lasercap=17100 |Laserrecharge= |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Right |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Rear |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Top |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Bottom |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay={{Dockbay|5 [[M3+]]-[[M5]]}} }} {{Infobox close}} ==Overview== The Mobile Mining Base Ship is the commonly available Terran TL. ==Background== ==Physical Characteristics== This TL class ship looks very similar to the M1 [[Tokyo]], with a large saucer section on the side of a long main hull, however the MMBS's hull is a different shape to the Tokyo's. == Combat == The MMBS can mount the [[Point Singularity Projector]] in some of its turrets, which actually gives it respectable fighting prowess. Even a [[M7|frigate]] must think twice before engaging one of these ships. == Equipment == == Availability == == Suggested Roles== == See Also== *[[TL]] class; **[[Mammoth|Argon Mammoth]] **[[Orca|Boron Orca]] **[[Hercules|Paranid Hercules]] **[[Elephant|Split Elephant]] **[[Albatross|Teladi Albatross]] **[[Atmospheric Lifter|Terran Atmospheric Lifter]] **[[Ryu|Yaki Ryu]] {{TLcategory}}
+==Overview==
+The Mobile Mining Base Ship is the commonly available Terran TL.
+
+==Background==
+==Physical Characteristics==
+This TL class ship looks very similar to the M1 [[Tokyo]], with a large saucer section on the side of a long main hull, however the MMBS's hull is a different shape to the Tokyo's.
+
+== Combat ==
+The MMBS can mount the [[Point Singularity Projector]] in some of its turrets, which actually gives it respectable fighting prowess. Even a [[M7|frigate]] must think twice before engaging one of these ships.
+
+== Equipment ==
+== Availability ==
+== Suggested Roles==
+== See Also==
+*[[TL]] class;
+**[[Mammoth|Argon Mammoth]]
+**[[Orca|Boron Orca]]
+**[[Hercules|Paranid Hercules]]
+**[[Elephant|Split Elephant]]
+**[[Albatross|Teladi Albatross]]
+**[[Atmospheric Lifter|Terran Atmospheric Lifter]]
+**[[Ryu|Yaki Ryu]]
+{{TLcategory}}

@@ -1,3 +1,153 @@
-<!-- source file: index__q48dd1675245c.html -->
+{{See also|Python}}
+{{Infobox open}}
+{{Infobox variant
+|Variant= Pteranodon
+|Faction=Split
+|Class={{M2+class}}
+|Priceblock={{Priceblock| Inner Circle of Rhonkar | 92600480}}
+|Minspeed= 50.0
+|Maxspeed= 75.0
+|Minaccel= 8
+|Maxaccel= 12
+|Minsteer= 0.8
+|Maxsteer= 1.3
+|Hull= 5,000,000
+|Maxshield= 2 GJ
+|Shieldslots= 5
+|Maxshieldstrength= 10,000
+|Shieldreactor= 15,000
+|Cargoclass= XL
+|Mincargo= 8,500
+|Maxcargo= 8,500
+|Lasercap= 300,000
+|Laserrecharge= 5,997
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot= Main
+|Guncount= 8
+|ire=0|pac=0|hept=0|
+cig=0|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=1|palc=1|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount= 8
+|ire=0|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=1|palc=1|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=8
+|ire=0|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=1|palc=1|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Back
+|Guncount= 4
+|ire=0|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=1|palc=1|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay={{Dockbay|16 [[M3+]]-[[M5]]}}
+}}
+{{Infobox close}}
+==Overview==
 
-{{See also|Python}} {{Infobox open}} {{Infobox variant |Variant= Pteranodon |Faction=Split |Class={{M2+class}} |Priceblock={{Priceblock| Inner Circle of Rhonkar | 92600480}} |Minspeed= 50.0 |Maxspeed= 75.0 |Minaccel= 8 |Maxaccel= 12 |Minsteer= 0.8 |Maxsteer= 1.3 |Hull= 5,000,000 |Maxshield= 2 GJ |Shieldslots= 5 |Maxshieldstrength= 10,000 |Shieldreactor= 15,000 |Cargoclass= XL |Mincargo= 8,500 |Maxcargo= 8,500 |Lasercap= 300,000 |Laserrecharge= 5,997 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot= Main |Guncount= 8 |ire=0|pac=0|hept=0| cig=0|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=1|palc=1|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Right |Guncount= 8 |ire=0|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=1|palc=1|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Left |Guncount=8 |ire=0|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=1|palc=1|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Back |Guncount= 4 |ire=0|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=1|palc=1|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay={{Dockbay|16 [[M3+]]-[[M5]]}} }} {{Infobox close}} ==Overview== The Split Pteranodon was introduced in Albion Prelude patch 3.0 and is currently the fastest M2/M2+ available. It costs the same as the Split [[Python]]. ==Description== Using the schematics that were acquired at the end of the last Split civil war, the Pteranodon was designed to be one of the most advanced ships ever made. This drew the attention of Patriarch Rhonkar who commissioned it for exclusive use as his flagship. However due to the increasingly hostile state of the galaxy these ships were put into production for use by the most trusted Split captains. ==Physical Characteristics== The Pteranodon has the same dagger like shape like the all Split ships, the only difference it posseses is the "wings" on his broadside body. ==Combat== The Pteranodon is strongly suited for hit and run tactics, since it is the only destroyer with non-turret player controllable, front weapons, but with weaker broadsides. The Pteranodon has heavy reliance on its 16 fighter wing in sustained battles against other capital ships, since its broadside may only mount ISR and the super elusive PALC. However, if the broadsides are loaded with PALCs, the near-instant hit of the beam weapon, combined with the fastest steering of all destroyers, allows the Pteranodon to dodge enemy capital ship fire with ease (and 10GJ of shielding for security), while maintaining constant damage with PALCs, making the Pteranodon very deadly in the hands of the player. Its left, right and forward weapon systems can all be brought to bear on a single target if that target is in front of the ship. This allows a massive amount of damage to be dealt to forward targets at long ranges (If mounting [[PPC]]+[[PALC]]). Because of the relatively low energy consumption of PALCs and the Pteranodon's strong laser recharge this damage can be maintained indefinitely. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Hornet Missile]] *[[Disruptor Missile]] *[[Thunderbolt Missile]] *[[Wasp Missile]] | *[[Tempest Missile]] *[[Hurricane Missile]] *[[Cyclone Missile]] | *[[Tornado Missile]] *[[Typhoon Missile]] *[[Firestorm Torpedo]] *[[Hurricane Missile]] | *[[Beluga Missile]] *[[Hammerhead Missile]] | *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == {| style="text-align:center;" cellpadding="3" |+ '''Availability''' |- style="{{Colour/Split}}" ! Variant !! [[Zyarth's Stand]] !! [[Patriarch's Conclusion]] !! [[Rhonkar's Trial]] |- ! Pteranodon || X || X || X |} == Suggested Roles== With his high speed, and large fighter wing, this ship is best used in hit and run tactics, and is best controlled by the player. Please note: Be aware that a full set of PALCs will block your vision when firing towards a target in front of the ship. Due to the sheer number that can be mounted, it can also cause a significant reduction in frame rate, even on higher end machines. == See Also== {{M2+}} {{Split Navbox}}
+The Split Pteranodon was introduced in Albion Prelude patch 3.0 and is currently the fastest M2/M2+ available. It costs the same as the Split [[Python]].
+
+==Description==
+
+Using the schematics that were acquired at the end of the last Split civil war, the Pteranodon was designed to be one of the most advanced ships ever made. This drew the attention of Patriarch Rhonkar who commissioned it for exclusive use as his flagship. However due to the increasingly hostile state of the galaxy these ships were put into production for use by the most trusted Split captains.
+
+==Physical Characteristics==
+
+The Pteranodon has the same dagger like shape like the all Split ships, the only difference it posseses is the "wings" on his broadside body.
+
+==Combat==
+
+The Pteranodon is strongly suited for hit and run tactics, since it is the only destroyer with non-turret player controllable, front weapons, but with weaker broadsides.  The Pteranodon has heavy reliance on its 16 fighter wing in sustained battles against other capital ships, since its broadside may only mount ISR and the super elusive PALC.  However, if the broadsides are loaded with PALCs, the near-instant hit of the beam weapon, combined with the fastest steering of all destroyers, allows the Pteranodon to dodge enemy capital ship fire with ease (and 10GJ of shielding for security), while maintaining constant damage with PALCs, making the Pteranodon very deadly in the hands of the player.
+
+Its left, right and forward weapon systems can all be brought to bear on a single target if that target is in front of the ship.  This allows a massive amount of damage to be dealt to forward targets at long ranges (If mounting [[PPC]]+[[PALC]]).  Because of the relatively low energy consumption of PALCs and the Pteranodon's strong laser recharge this damage can be maintained indefinitely.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;" 
+|
+*[[Hornet Missile]]
+*[[Disruptor Missile]]
+*[[Thunderbolt Missile]]
+*[[Wasp Missile]]
+|
+*[[Tempest Missile]]
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+|
+*[[Tornado Missile]]
+*[[Typhoon Missile]]
+*[[Firestorm Torpedo]]
+*[[Hurricane Missile]]
+|
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+|
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+
+== Availability ==
+{| style="text-align:center;" cellpadding="3"
+|+ '''Availability'''
+|- style="{{Colour/Split}}"
+! Variant !! [[Zyarth's Stand]] !! [[Patriarch's Conclusion]] !! [[Rhonkar's Trial]]
+|-
+! Pteranodon || X || X || X 
+|}
+
+== Suggested Roles==
+With his high speed, and large fighter wing, this ship is best used in hit and run tactics, and is best controlled by the player.
+
+Please note:  Be aware that a full set of PALCs will block your vision when firing towards a target in front of the ship.  Due to the sheer number that can be mounted, it can also cause a significant reduction in frame rate, even on higher end machines.
+
+== See Also==
+
+{{M2+}}
+
+
+{{Split Navbox}}

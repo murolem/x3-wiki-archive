@@ -1,3 +1,33 @@
-<!-- source file: index__qccdac8f64865.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Pirate
+|station=Rehabilitation Facility
+|hull=20000000
+|shield=
+|generator=
+|hangar=
+|cycle=00:16:40
+|productnum=[[Mercenary]] (2)
+|stationprice=
+|reqresources=[[Energy Cells]] (250) <br>[[Rastar Oil]] (25)
+|optresources=[[Disintegrator Rifles]]<br>[[Low-yield Sidearms]]<br>[[Slaves]]<br>[[Space Fuel]]
+}}
+{{Infobox close}}
+==Overview==
+Rehabilitation Facilities are Pirate "factories" that produce [[Mercenary|Mercenaries]] from [[Energy Cells]] and[[Rastar Oil]]. 
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Pirate |station=Rehabilitation Facility |hull=20000000 |shield= |generator= |hangar= |cycle=00:16:40 |productnum=[[Mercenary]] (2) |stationprice= |reqresources=[[Energy Cells]] (250) &lt;br>[[Rastar Oil]] (25) |optresources=[[Disintegrator Rifles]]&lt;br>[[Low-yield Sidearms]]&lt;br>[[Slaves]]&lt;br>[[Space Fuel]] }} {{Infobox close}} ==Overview== Rehabilitation Facilities are Pirate "factories" that produce [[Mercenary|Mercenaries]] from [[Energy Cells]] and[[Rastar Oil]]. They also accept [[Disintegrator Rifles]], [[Low-yield Sidearms]], [[Slaves]] and [[Space Fuel]] as secondary resources. ===Encyclopedia Entry=== The name is just a cover for a pirate initiative to turn slaves and ex-convicts into hardened mercenaries and recruits for their illicit activities. With enough food, weapons and training, this facility can produce large numbers of willing combatants. ==Availability== Not for Sale. == See Also == {{Piracy}} {{Stationcategory}}
+They also accept [[Disintegrator Rifles]], [[Low-yield Sidearms]], [[Slaves]] and [[Space Fuel]] as secondary resources. 
+
+===Encyclopedia Entry===
+
+The name is just a cover for a pirate initiative to turn slaves and ex-convicts into hardened mercenaries and recruits for their illicit activities. With enough food, weapons and training, this facility can produce large numbers of willing combatants.
+
+==Availability==
+Not for Sale.
+
+== See Also ==
+
+{{Piracy}}
+
+{{Stationcategory}}

@@ -1,3 +1,23 @@
-<!-- source file: index__qb52f59ea80ed.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Terran
+|station=Ghoul Missile Manufacturing Plant
+|hull=
+|shield=
+|generator=
+|hangar=
+|cycle=
+|productnum=[[Ghoul Missile]] ()
+|stationprice=
+|reqresources=[[C-Ration]] ()<br>[[Energy Cells]] ()<br>[[Ore]] ()<br>[[Water]] ()
+|optresources=[[Matter/Anti-Matter Warhead]]
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+This factory produces the Ghoul Missile.
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Terran |station=Ghoul Missile Manufacturing Plant |hull= |shield= |generator= |hangar= |cycle= |productnum=[[Ghoul Missile]] () |stationprice= |reqresources=[[C-Ration]] ()&lt;br>[[Energy Cells]] ()&lt;br>[[Ore]] ()&lt;br>[[Water]] () |optresources=[[Matter/Anti-Matter Warhead]] }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== This factory produces the Ghoul Missile. ==Availability== {{Stationcategory}}
+==Availability==
+
+{{Stationcategory}}

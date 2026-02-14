@@ -1,3 +1,76 @@
-<!-- source file: index__qf244e3074ca1.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Marlin
+|Faction=Boron
+|Class={{M8class}}
+|Priceblock={{Priceblock||5270638}}
+|Minspeed=75.0
+|Maxspeed=135.0
+|Minaccel=14
+|Maxaccel=25
+|Minsteer=12.5
+|Maxsteer=25.1
+|Hull=45,600
+|Maxshield=25 MJ
+|Shieldslots=4
+|Maxshieldstrength=100
+|Shieldreactor= 1160
+|Cargoclass=L
+|Mincargo=600
+|Maxcargo=750
+|Lasercap=1000
+|Laserrecharge=25
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Missileturret|Slot=Front|Lcount=2}}
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=1|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The Boron [[M8|M8 Bomber]] was removed from Terran Conflict, but made it back in for Albion Prelude. It is relatively lightly shielded and has a small cargo bay for its class, but it is still capable of major strikes thanks to the powerful [[Tomahawk Heavy Missile]]
 
-{{Infobox open}} {{Infobox variant |Variant=Marlin |Faction=Boron |Class={{M8class}} |Priceblock={{Priceblock||5270638}} |Minspeed=75.0 |Maxspeed=135.0 |Minaccel=14 |Maxaccel=25 |Minsteer=12.5 |Maxsteer=25.1 |Hull=45,600 |Maxshield=25 MJ |Shieldslots=4 |Maxshieldstrength=100 |Shieldreactor= 1160 |Cargoclass=L |Mincargo=600 |Maxcargo=750 |Lasercap=1000 |Laserrecharge=25 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Missileturret|Slot=Front|Lcount=2}} {{Gunslot |Slot=Rear |Guncount=1 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=0|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=1|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The Boron [[M8|M8 Bomber]] was removed from Terran Conflict, but made it back in for Albion Prelude. It is relatively lightly shielded and has a small cargo bay for its class, but it is still capable of major strikes thanks to the powerful [[Tomahawk Heavy Missile]] ==Background== The Marlin is the Royal Boron Navy's first foray into the tactical strike arena. The Marlin is able to approach with speed and deliver a considerable payload on heavily defended targets. ==Physical Characteristics== The Marlin looks like a double-sized M3 fighter with typical Boron features, such as a green organic finish. == Combat == Like other bombers, the Marlin should not be kept on the front line of combat, and should deploy its missile payload from afar. Typical of most bombers, its laser capacity and recharge rate are negligible, making it vulnerable to attacks from masses of M2s or interception by M3 class ships. As a result, it either has to rely on its missiles for self defense from fighter wings or its own escorts such as M3 or M6 class vessels. == Equipment == The Marlin fires the [[Tomahawk Heavy Missile]]. == Availability == {| style="text-align:center;" cellpadding="3" |- style="background-color:lightblue;" ! Variant !! [[Queen's Retribution]] |- ! Marlin || x || |} It may also be found among [[Boron]] patrols and [[Pirates|pirate]] wings spawned by [[Defend_Station| station defense]] missions and is vulnerable to the [[bail]] and [[claim]] mechanic. In Terran Conflict v3 and upper, the Marlin is not sold in any shipyard. == Suggested Roles== The Marlin, like other bombers, is best used for long-range anti-capital or anti-station strikes. == See Also== {{M8}} {{Boron Navbox}}
+==Background==
+The Marlin is the Royal Boron Navy's first foray into the tactical strike arena. The Marlin is able to approach with speed and deliver a considerable payload on heavily defended targets.
+
+==Physical Characteristics==
+The Marlin looks like a double-sized M3 fighter with typical Boron features, such as a green organic finish.
+
+== Combat ==
+Like other bombers, the Marlin should not be kept on the front line of combat, and should deploy its missile payload from afar. Typical of most bombers, its laser capacity and recharge rate are negligible, making it vulnerable to attacks from masses of M2s or interception by M3 class ships. As a result, it either has to rely on its missiles for self defense from fighter wings or its own escorts such as M3 or M6 class vessels.
+
+== Equipment ==
+The Marlin fires the [[Tomahawk Heavy Missile]].
+
+== Availability ==
+{| style="text-align:center;" cellpadding="3"
+|- style="background-color:lightblue;"
+! Variant !! [[Queen's Retribution]]
+|-
+! Marlin || x ||
+|}
+
+It may also be found among [[Boron]] patrols and [[Pirates|pirate]] wings spawned by [[Defend_Station| station defense]] missions and is vulnerable to the [[bail]] and [[claim]] mechanic.
+
+In Terran Conflict v3 and upper, the Marlin is not sold in any shipyard.
+
+== Suggested Roles==
+The Marlin, like other bombers, is best used for long-range anti-capital or anti-station strikes.
+
+== See Also==
+{{M8}}
+{{Boron Navbox}}

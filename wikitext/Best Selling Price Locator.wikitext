@@ -1,3 +1,32 @@
-<!-- source file: index__qcc06bdce9523.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Best Selling Price Locator
+|cargoclass= -
+|volume=1
+|minprice=17884
+|aveprice=19652
+|maxprice=21420
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+This upgrade can help you find the location inside your current sector where you can sell each of your trading items for the highest price. Very useful for advanced traders!
+==Commentary==
+==Trading information==
+{|
+! Sold by; !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*Race Factory where this ware is sold
 
-{{Infobox open}} {{Infobox ware |ware= Best Selling Price Locator |cargoclass= - |volume=1 |minprice=17884 |aveprice=19652 |maxprice=21420 }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== This upgrade can help you find the location inside your current sector where you can sell each of your trading items for the highest price. Very useful for advanced traders! ==Commentary== ==Trading information== {| ! Sold by; !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *Race Factory where this ware is sold | *List of Race Factories where this ware is a primary resource | *List of Race Factories where this ware is a secondary resource | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}}
+|
+*List of Race Factories where this ware is a primary resource
+|
+*List of Race Factories where this ware is a secondary resource
+
+|
+*List of Trading Stations where this ware is traded (sector only)
+
+|}
+
+{{Warecategory}}

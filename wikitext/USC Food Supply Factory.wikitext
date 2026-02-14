@@ -1,3 +1,41 @@
-<!-- source file: index__q6a40ad1ea0c7.html -->
+{{Infobox open}}
+{{Infobox factory
+|faction=Terran
+|station=USC Food Supply Factory L
+|hull=2000000
+|shield=15
+|generator=1500
+|hangar=10
+|cycle=00:01:12
+|productnum=[[Terran MRE]] (15)
+|stationprice={{Priceblock|Terran Marshall of Mars|2074320}}
+|reqresources=[[Energy Cells]] (90)<br>[[Protein Paste]] (60)
+|optresources=[[Water]] <br>[[Vita Kai]] <br>[[Flavour Pack]]
+}}
+{{Infobox factory
+|faction=Terran
+|station=USC Food Supply Factory M
+|hull=800000
+|shield=10
+|generator=1500
+|hangar=10
+|cycle=00:01:12
+|productnum=[[Terran MRE]] (6)
+|stationprice={{Priceblock|Terran Marshall of Mars|921920}}
+|reqresources=[[Energy Cells]] (36)<br>[[Protein Paste]] (24)
+|optresources=[[Water]] <br>[[Vita Kai]] <br>[[Flavour Pack]]
+}}
+{{Infobox close}}
 
-{{Infobox open}} {{Infobox factory |faction=Terran |station=USC Food Supply Factory L |hull=2000000 |shield=15 |generator=1500 |hangar=10 |cycle=00:01:12 |productnum=[[Terran MRE]] (15) |stationprice={{Priceblock|Terran Marshall of Mars|2074320}} |reqresources=[[Energy Cells]] (90)&lt;br>[[Protein Paste]] (60) |optresources=[[Water]] &lt;br>[[Vita Kai]] &lt;br>[[Flavour Pack]] }} {{Infobox factory |faction=Terran |station=USC Food Supply Factory M |hull=800000 |shield=10 |generator=1500 |hangar=10 |cycle=00:01:12 |productnum=[[Terran MRE]] (6) |stationprice={{Priceblock|Terran Marshall of Mars|921920}} |reqresources=[[Energy Cells]] (36)&lt;br>[[Protein Paste]] (24) |optresources=[[Water]] &lt;br>[[Vita Kai]] &lt;br>[[Flavour Pack]] }} {{Infobox close}} ==Overview== USC Food Supply Factories are Terran factories that produce [[Terran MRE]] from [[Energy Cells]] and [[Protein Paste]]. NPC stations require [[Water]] as a primary resource and will buy [[Vita Kai]] and [[Flavour Pack]]s as secondary resources. ===Encyclopedia Entry=== The USC Food Supply Factory is where all of the ingredients for the [[Terran MRE]] are gathered, processed &amp; packaged into the nutritious ration packs that keep Terran forces going. ==Availability== This factory is sold exclusively at [[Terran Unknown Sector 1]]. {{Stationcategory}}
+==Overview==
+USC Food Supply Factories are Terran factories that produce [[Terran MRE]] from [[Energy Cells]] and [[Protein Paste]]. 
+
+NPC stations require [[Water]] as a primary resource and will buy [[Vita Kai]] and [[Flavour Pack]]s as secondary resources.
+===Encyclopedia Entry===
+The USC Food Supply Factory is where all of the ingredients for the [[Terran MRE]] are gathered, processed & packaged into the nutritious ration packs that keep Terran forces going.
+
+
+==Availability==
+This factory is sold exclusively at [[Terran Unknown Sector 1]].
+
+{{Stationcategory}}

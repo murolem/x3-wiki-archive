@@ -1,3 +1,32 @@
-<!-- source file: index__q2e88673273f2.html -->
+{{Infobox Sector
+|Race=Pirates
+|SecLevel=Border
+|Population=84,386,241
+|Planets=2
+|SunLevel=100
+|GateDist=40
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|2250|	0|	30900|[[Mists of Elysium]]}}
+{{Gateblock/End}}
+}}
+==Description==
+===Encyclopedy Entry===
+Once thought by the [[Paranid]] to be a portal to the Ancients, such beliefs were quickly quashed in the realisation that Pirate signalling beacons were the cause of their delusion. After an embarrassing retreat, this sector became the domain of the lawless.
 
-{{Infobox Sector |Race=Pirates |SecLevel=Border |Population=84,386,241 |Planets=2 |SunLevel=100 |GateDist=40 |Gates={{Gateblock/Begin}} {{Gateblock2|North|2250| 0| 30900|[[Mists of Elysium]]}} {{Gateblock/End}} }} ==Description== ===Encyclopedy Entry=== Once thought by the [[Paranid]] to be a portal to the Ancients, such beliefs were quickly quashed in the realisation that Pirate signalling beacons were the cause of their delusion. After an embarrassing retreat, this sector became the domain of the lawless. ===Information=== This sector has [[Ownerless ships]]. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|20|-6062|-12968|34810}} {{Asteroid/Item|Ore|20|12430|-6939|26313}} {{Asteroid/Item|Ore|20|-1158|104|19843}} {{Asteroid/Item|Ore|13|5687|5937|21250}} {{Asteroid/Item|Ore|13|6439|-13491|7622}} {{Asteroid/End}} {{Pirates Navbox}}
+===Information===
+This sector has [[Ownerless ships]].
+
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|20|-6062|-12968|34810}}
+{{Asteroid/Item|Ore|20|12430|-6939|26313}}
+{{Asteroid/Item|Ore|20|-1158|104|19843}}
+{{Asteroid/Item|Ore|13|5687|5937|21250}}
+{{Asteroid/Item|Ore|13|6439|-13491|7622}}
+{{Asteroid/End}}
+
+
+{{Pirates Navbox}}

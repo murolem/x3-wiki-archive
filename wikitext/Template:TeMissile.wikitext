@@ -1,3 +1,17 @@
-<!-- source file: index__q5c2112dc45f6.html -->
+<noinclude>
+== Usage ==
+Use as:
+<pre>
+{{TeMissile|Missile Name|Damage number in 1000's}}
+</pre>
 
-&lt;noinclude> == Usage == Use as: &lt;pre> {{TeMissile|Missile Name|Damage number in 1000's}} &lt;/pre> ===Example=== &lt;Pre> {{TeMissile|Ghoul Missile|52}} &lt;/Pre> Will give: {{TeMissile|Ghoul Missile|52}} [[Category:Missile Templates]] &lt;/noinclude>&lt;includeonly>[[{{{1}}}|&lt;font color="green">{{{1}}}&lt;/font color>]] ({{{2}}}k)&lt;/includeonly>
+===Example===
+<Pre>
+{{TeMissile|Ghoul Missile|52}}
+</Pre>
+Will give:
+
+{{TeMissile|Ghoul Missile|52}}
+
+[[Category:Missile Templates]]
+</noinclude><includeonly>[[{{{1}}}|<font color="green">{{{1}}}</font color>]] ({{{2}}}k)</includeonly>

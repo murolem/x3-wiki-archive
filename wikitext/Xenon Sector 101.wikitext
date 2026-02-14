@@ -1,3 +1,20 @@
-<!-- source file: index__q6d5d62386797.html -->
+{{Infobox Sector
+|Race=Xenon
+|SecLevel=Border
+|Population=51,642,812
+|Planets=4
+|SunLevel=150
+|GateDist=70
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|0|	0|	34650|[[Nopileos' Memorial]]}}
+</table>
+}}
+==Description==
+After the battle in the sector known today as [[Nopileos' Memorial]], the [[Xenon]] have used this sector as a junkyard, storing and recycling ships here. The coordinates for this gate were lost, but a recent survey by Argon Expeditionary forces have since rediscovered the gate's location.
 
-{{Infobox Sector |Race=Xenon |SecLevel=Border |Population=51,642,812 |Planets=4 |SunLevel=150 |GateDist=70 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|0| 0| 34650|[[Nopileos' Memorial]]}} &lt;/table> }} ==Description== After the battle in the sector known today as [[Nopileos' Memorial]], the [[Xenon]] have used this sector as a junkyard, storing and recycling ships here. The coordinates for this gate were lost, but a recent survey by Argon Expeditionary forces have since rediscovered the gate's location. In Terran Conflict, there is an [[Ownerless ships|unowned]] [[Scorpion|Scorpion Raider]] in this sector. ==Default [[Stations]]== *[[Xenon Shipyard]] ==[[Asteroids]]==
+In Terran Conflict, there is an [[Ownerless ships|unowned]] [[Scorpion|Scorpion Raider]] in this sector.
+
+==Default [[Stations]]==
+*[[Xenon Shipyard]]
+==[[Asteroids]]==

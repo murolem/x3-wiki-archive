@@ -1,3 +1,38 @@
-<!-- source file: index__q309065c08f46.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Drone Production Facility
+|hull=
+|shield=
+|generator=
+|hangar=
+|cycle=00:00:00
+|productnum=[[Fighter Drone]] ()<bR>Second Product by Race
+|stationprice=
+|reqresources=[[Energy Cells]] ()<br>[[Massom Powder]] ()<br>[[Silicon Wafers]] ()
+|optresources=[[Computer Components]]<br>[[Quantum Tubes]]
+}}
+{{Infobox close}}
+==Overview==
+This type of facility produces both MKI and MKII fighter drones, as well as freight drones.
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction= |station=Drone Production Facility |hull= |shield= |generator= |hangar= |cycle=00:00:00 |productnum=[[Fighter Drone]] ()&lt;bR>Second Product by Race |stationprice= |reqresources=[[Energy Cells]] ()&lt;br>[[Massom Powder]] ()&lt;br>[[Silicon Wafers]] () |optresources=[[Computer Components]]&lt;br>[[Quantum Tubes]] }} {{Infobox close}} ==Overview== This type of facility produces both MKI and MKII fighter drones, as well as freight drones. ===Encyclopedia Entry=== This Drone Production Facility has the ability to produce the latest in remotely-commanded space vehicles for a wide variety of applications. ==Race-specific attributes== {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |+'''Drone Production Facility''' |-style="background-color:LightGray;text-align:center;" !Race!!Second Product!!Station Value |- style="{{Colour/Argon}}" | [[Argon]] || [[Fighter Drone MKII]] ()||{{Priceblock|Trusted Ally|2 898 204}} |- style="{{Colour/Split}}" | [[Split]] || [[Fighter Drone MKII]] () ||{{Priceblock|Distinguished Associate|3 035 320}} |- style="{{Colour/Teladi}}" | [[Teladi]] || [[Freight Drone]] () ||{{Priceblock|Majority Shareholder|2 617 732}} |} ==Availability== This station is not for sale. {{Stationcategory}}
+===Encyclopedia Entry===
+This Drone Production Facility has the ability to produce the latest in remotely-commanded space vehicles for a wide variety of applications.
+
+==Race-specific attributes==
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|+'''Drone Production Facility'''
+|-style="background-color:LightGray;text-align:center;"
+!Race!!Second Product!!Station Value
+|- style="{{Colour/Argon}}"
+| [[Argon]] || [[Fighter Drone MKII]] ()||{{Priceblock|Trusted Ally|2 898 204}}
+|- style="{{Colour/Split}}"
+| [[Split]] || [[Fighter Drone MKII]] () ||{{Priceblock|Distinguished Associate|3 035 320}}
+|- style="{{Colour/Teladi}}"
+| [[Teladi]] || [[Freight Drone]] () ||{{Priceblock|Majority Shareholder|2 617 732}}
+|}
+==Availability==
+This station is not for sale.
+
+{{Stationcategory}}

@@ -1,3 +1,53 @@
-<!-- source file: index__q5cbeb448764e.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Paranid
+|station=Mobile Drilling System Factory
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=02:24:00
+|productnum=[[Mobile Drilling System]] (5)
+|stationprice={{Priceblock|Paranid Friend of Priest King|4264200}}
+|reqresources=[[Energy Cells]] (2160) <br>[[Soja Husk]] (288) <br>[[Ore]] (360) 
+|optresources=[[Crystals]]
+}}
+{{Infobox factory
+|faction=Teladi
+|station=Mobile Drilling System Factory
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:28:48
+|productnum=[[Mobile Drilling System]] (1)
+|stationprice={{Priceblock|Teladi Majority Shareholder|3682484}}
+|reqresources=[[Energy Cells]] (432) <br>[[Nostrop Oil]] (288) <br>[[Ore]] (72) 
+|optresources=[[Crystals]]
+}}
+{{Infobox close}}
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Paranid |station=Mobile Drilling System Factory |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=02:24:00 |productnum=[[Mobile Drilling System]] (5) |stationprice={{Priceblock|Paranid Friend of Priest King|4264200}} |reqresources=[[Energy Cells]] (2160) &lt;br>[[Soja Husk]] (288) &lt;br>[[Ore]] (360) |optresources=[[Crystals]] }} {{Infobox factory |faction=Teladi |station=Mobile Drilling System Factory |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:28:48 |productnum=[[Mobile Drilling System]] (1) |stationprice={{Priceblock|Teladi Majority Shareholder|3682484}} |reqresources=[[Energy Cells]] (432) &lt;br>[[Nostrop Oil]] (288) &lt;br>[[Ore]] (72) |optresources=[[Crystals]] }} {{Infobox close}} ==Overview== Mobile Drilling System Factories produce the [[Mobile Drilling System]] from [[Energy Cells]], [[Ore]] and [[Food]]. NPC stations will buy [[Crystals]] as a secondary resource. ===Encyclopedia Entry=== This factory manufactures the Mobile Drilling System which is used to break up ore-rich asteroids into smaller pieces without the need for a stationary mining facility. ==Availability== These factories are exclusive to the Paranid and Teladi. {| style="text-align:left;" |- valign="top" | '''[[Paranid#Shipyards|Paranid]]''' *{{sa|Paranid Prime}} *{{sa|Third Redemption}} *{{sa|Duke's Citadel}} *{{sa|Heaven's Assertion}} | '''[[Teladi#Shipyards|Teladi]]''' *{{sa|Seizewell}} *{{sa|Ceo's Sprite}} |} {{Stationcategory}}
+==Overview==
+Mobile Drilling System Factories produce the [[Mobile Drilling System]] from [[Energy Cells]], [[Ore]] and [[Food]]. 
+
+NPC stations will buy [[Crystals]] as a secondary resource.
+
+===Encyclopedia Entry===
+This factory manufactures the Mobile Drilling System which is used to break up ore-rich asteroids into smaller pieces without the need for a stationary mining facility.
+==Availability==
+These factories are exclusive to the Paranid and Teladi.
+
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Paranid#Shipyards|Paranid]]'''
+*{{sa|Paranid Prime}}
+*{{sa|Third Redemption}}
+*{{sa|Duke's Citadel}}
+*{{sa|Heaven's Assertion}}
+| '''[[Teladi#Shipyards|Teladi]]'''
+*{{sa|Seizewell}}
+*{{sa|Ceo's Sprite}}
+|}
+
+{{Stationcategory}}

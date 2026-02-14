@@ -1,3 +1,6 @@
-<!-- source file: index__q72a7a1f583d8.html -->
+This page holds links to pages categorized as M3.
 
-This page holds links to pages categorized as M3. The M3 fighter is the heavy fighter of the X universe. {{Shipcategory}} [[Category:Fighters]]
+The M3 fighter is the heavy fighter of the X universe.
+
+{{Shipcategory}}
+[[Category:Fighters]]

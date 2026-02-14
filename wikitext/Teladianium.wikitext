@@ -1,3 +1,69 @@
-<!-- source file: index__q88b47ff3c24d.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Teladianium
+|cargoclass=M
+|volume=5
+|minprice=57
+|aveprice=156
+|maxprice=255
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+Teladian mud is a very fine silty type of sediment found at the bottom of rivers and swamps on the Teladi planet. This mud when dried out becomes a hard mineral called Teladianium. This mineral can be mixed with certain chemicals, processed and can even be added to synthetic plastics to create a tough flexible material stronger than hardened steel but much lighter. In space Teladianium is produced in chemical plants called Teladianium foundries. Teladianium is used throughout the X universe by many races in the construction of buildings and the interior structures of spaceships and space stations.
 
-{{Infobox open}} {{Infobox ware |ware= Teladianium |cargoclass=M |volume=5 |minprice=57 |aveprice=156 |maxprice=255 }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== Teladian mud is a very fine silty type of sediment found at the bottom of rivers and swamps on the Teladi planet. This mud when dried out becomes a hard mineral called Teladianium. This mineral can be mixed with certain chemicals, processed and can even be added to synthetic plastics to create a tough flexible material stronger than hardened steel but much lighter. In space Teladianium is produced in chemical plants called Teladianium foundries. Teladianium is used throughout the X universe by many races in the construction of buildings and the interior structures of spaceships and space stations. ==Production== Teladianium is made at a [[Teladianium Foundry]]. It only requires [[Energy Cells]]. ==Commentary== The [[Goner plot]] requires 1200 Teladianium and the [[Hub plot]] a whopping 150,000. It is wise to set up a production facility for it, preferably near a [[Solar Power Plant]]. ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Teladianium Foundry]] | *List of Race Factories where this ware is a primary resource | *[[Ammunition Factory]] *[[Bio Gas Factory]] *[[Chelt Space Aquarium]] *[[Dream Farm]] *[[Energy Bolt Chaingun Forge]] *[[Energy Bolt Chaingun Ammunition Forge]] *[[Flower Farm]] *[[Gauss Cannon Forge]] *[[Gauss Cannon Ammunition Forge]] *Teladi [[Heavy Weapons Complex]] *Teladi [[Light Weapons Complex]] *[[Mass Driver Forge]] *Split [[Medium Weapons Complex]] *[[Snail Ranch]] *[[Soyfarm]] | *List of Trading Stations where this ware is traded (sector only) |} ==Sold as Products at Known Stations== * [[Bright Profit]] * [[Ceo's Buckzoid]] * [[Company Pride]] * [[Eighteen Billion]] * [[Elysium of Light]] * [[Grand Exchange]] * [[Ianamus Zura]] * [[Mines Of Fortune]] * [[Profit Share]] * [[Sanctity of Corruption]] * [[Spaceweed Drift]] {{Warecategory}} {{Waretable}} {{Teladi Navbox}}
+==Production==
+
+Teladianium is made at a [[Teladianium Foundry]]. It only requires [[Energy Cells]].
+
+==Commentary==
+
+The [[Goner plot]] requires 1200 Teladianium and the [[Hub plot]] a whopping 150,000. It is wise to set up a production facility for it, preferably near a [[Solar Power Plant]].
+
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Teladianium Foundry]]
+|
+*List of Race Factories where this ware is a primary resource
+|
+*[[Ammunition Factory]]
+*[[Bio Gas Factory]]
+*[[Chelt Space Aquarium]]
+*[[Dream Farm]]
+*[[Energy Bolt Chaingun Forge]]
+*[[Energy Bolt Chaingun Ammunition Forge]]
+*[[Flower Farm]]
+*[[Gauss Cannon Forge]]
+*[[Gauss Cannon Ammunition Forge]]
+*Teladi [[Heavy Weapons Complex]]
+*Teladi [[Light Weapons Complex]]
+*[[Mass Driver Forge]]
+*Split [[Medium Weapons Complex]]
+*[[Snail Ranch]]
+*[[Soyfarm]]
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}
+
+==Sold as Products at Known Stations==
+
+* [[Bright Profit]]
+* [[Ceo's Buckzoid]]
+* [[Company Pride]]
+* [[Eighteen Billion]]
+* [[Elysium of Light]]
+* [[Grand Exchange]]
+* [[Ianamus Zura]]
+* [[Mines Of Fortune]]
+* [[Profit Share]]
+* [[Sanctity of Corruption]]
+* [[Spaceweed Drift]]
+
+
+{{Warecategory}}
+{{Waretable}}
+
+{{Teladi Navbox}}

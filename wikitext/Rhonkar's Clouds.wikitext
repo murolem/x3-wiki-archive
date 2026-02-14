@@ -1,3 +1,54 @@
-<!-- source file: index__q468bc0f6194b.html -->
+{{Infobox Sector
+|Race=Split
+|SecLevel=Border
+|Population=43861248
+|Planets=2
+|SunLevel=100
+|GateDist=80
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|7.0|11.0|33.3|[[Family Pride]]}}
+{{Gateblock2|East|40.3|0|0|[[Tharka's Sun]]}}
+{{Gateblock2|West|-35.3|0|11.5|[[Rhonkar's Fire]]}}
+</table>
+}}
+==Description==
+===Encyclopedy Entry===
+This sparse system is primarily dedicated to the production of food. The Rastar Oil refineries rely on pirate stations for their supply of space flies and import all other raw materials from outside the system. A dense, mineral-rich asteroid field fills the whole system. [[Split]] superstition forbids mining the largest of these asteroids, claiming them to be cursed.
 
-{{Infobox Sector |Race=Split |SecLevel=Border |Population=43861248 |Planets=2 |SunLevel=100 |GateDist=80 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|7.0|11.0|33.3|[[Family Pride]]}} {{Gateblock2|East|40.3|0|0|[[Tharka's Sun]]}} {{Gateblock2|West|-35.3|0|11.5|[[Rhonkar's Fire]]}} &lt;/table> }} ==Description== ===Encyclopedy Entry=== This sparse system is primarily dedicated to the production of food. The Rastar Oil refineries rely on pirate stations for their supply of space flies and import all other raw materials from outside the system. A dense, mineral-rich asteroid field fills the whole system. [[Split]] superstition forbids mining the largest of these asteroids, claiming them to be cursed. ===Information=== Rhonkar's Clouds, or Chin's Clouds as it was known at the time, was important to [[Kyle Brennan]]'s journey in [[X: Beyond the Frontier]], where he found a recording from Nathan R. Gunne's fleet embedded in an asteroid. ==Default [[Stations]]== *[[Split Trading Port]] ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ice|23|-2676|12788|-25586}} {{Asteroid/Item|Ore|21|-3515|-7974|-12512}} {{Asteroid/Item|Ore|18|7369|2288|11669}} {{Asteroid/Item|Ore|18|-18063|-7234|-16168}} {{Asteroid/Item|Ore|13|-13223|-5664|13961}} {{Asteroid/Item|Ore|13|645|-12299|9418}} {{Asteroid/Item|Ore|13|-7136|-7331|7311}} {{Asteroid/Item|Ore|8|-20640|3857|18083}} {{Asteroid/Item|Ore|8|-14901|8117|8715}} {{Asteroid/Item|Ore|8|-28089|1055|-26147}} {{Asteroid/Item|Silicon|56|-16843|-1710|-36676}} {{Asteroid/Item|Silicon|26|-6051|-2681|17011}} {{Asteroid/Item|Silicon|26|9213|-4858|2530}} {{Asteroid/Item|Silicon|26|-10193|6276|-5201}} {{Asteroid/Item|Silicon|26|-1263|6263|-6468}} {{Asteroid/Item|Silicon|26|-25634|-11738|-7094}} {{Asteroid/Item|Silicon|26|-26993|-3407|-15042}} {{Asteroid/Item|Silicon|26|14901|-7613|-15466}} {{Asteroid/Item|Silicon|26|-22016|10484|-27273}} {{Asteroid/Item|Silicon|18|-29715|-3215|-4640}} {{Asteroid/Item|Silicon|13|-14179|-4653|-27975}} {{Asteroid/Item|Silicon|5|14451|4939|-1404}} {{Asteroid/End}} == See Also == {{Split Navbox}}
+===Information===
+Rhonkar's Clouds, or Chin's Clouds as it was known at the time, was important to [[Kyle Brennan]]'s journey in [[X: Beyond the Frontier]], where he found a recording from Nathan R. Gunne's fleet embedded in an asteroid.
+
+==Default [[Stations]]==
+*[[Split Trading Port]]
+
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ice|23|-2676|12788|-25586}}
+{{Asteroid/Item|Ore|21|-3515|-7974|-12512}}
+{{Asteroid/Item|Ore|18|7369|2288|11669}}
+{{Asteroid/Item|Ore|18|-18063|-7234|-16168}}
+{{Asteroid/Item|Ore|13|-13223|-5664|13961}}
+{{Asteroid/Item|Ore|13|645|-12299|9418}}
+{{Asteroid/Item|Ore|13|-7136|-7331|7311}}
+{{Asteroid/Item|Ore|8|-20640|3857|18083}}
+{{Asteroid/Item|Ore|8|-14901|8117|8715}}
+{{Asteroid/Item|Ore|8|-28089|1055|-26147}}
+{{Asteroid/Item|Silicon|56|-16843|-1710|-36676}}
+{{Asteroid/Item|Silicon|26|-6051|-2681|17011}}
+{{Asteroid/Item|Silicon|26|9213|-4858|2530}}
+{{Asteroid/Item|Silicon|26|-10193|6276|-5201}}
+{{Asteroid/Item|Silicon|26|-1263|6263|-6468}}
+{{Asteroid/Item|Silicon|26|-25634|-11738|-7094}}
+{{Asteroid/Item|Silicon|26|-26993|-3407|-15042}}
+{{Asteroid/Item|Silicon|26|14901|-7613|-15466}}
+{{Asteroid/Item|Silicon|26|-22016|10484|-27273}}
+{{Asteroid/Item|Silicon|18|-29715|-3215|-4640}}
+{{Asteroid/Item|Silicon|13|-14179|-4653|-27975}}
+{{Asteroid/Item|Silicon|5|14451|4939|-1404}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Split Navbox}}

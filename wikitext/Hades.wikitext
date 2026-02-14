@@ -1,3 +1,77 @@
-<!-- source file: index__q03b68783120a.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Hades
+|Faction=Paranid
+|Class={{M8class}}
+|Priceblock={{Priceblock|Priest Protectorate| 5442574}}
+|Minspeed=68.8
+|Maxspeed=137.5
+|Minaccel=9.14
+|Maxaccel=18.3
+|Minsteer=13.3
+|Maxsteer=26.6
+|Hull=25000
+|Maxshield=25 MJ
+|Shieldslots=5
+|Maxshieldstrength=125
+|Shieldreactor= 1200
+|Cargoclass=L
+|Mincargo=500
+|Maxcargo=790
+|Lasercap=1100
+|Laserrecharge=32
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Missileturret|Slot=Front|Lcount=2}}
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The Hades is the preferred [[Commonwealth]] [[M8|bomber]], being the best compromise of statistics. Many also consider it one of the best-looking ships in the game.
 
-{{Infobox open}} {{Infobox variant |Variant=Hades |Faction=Paranid |Class={{M8class}} |Priceblock={{Priceblock|Priest Protectorate| 5442574}} |Minspeed=68.8 |Maxspeed=137.5 |Minaccel=9.14 |Maxaccel=18.3 |Minsteer=13.3 |Maxsteer=26.6 |Hull=25000 |Maxshield=25 MJ |Shieldslots=5 |Maxshieldstrength=125 |Shieldreactor= 1200 |Cargoclass=L |Mincargo=500 |Maxcargo=790 |Lasercap=1100 |Laserrecharge=32 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Missileturret|Slot=Front|Lcount=2}} {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The Hades is the preferred [[Commonwealth]] [[M8|bomber]], being the best compromise of statistics. Many also consider it one of the best-looking ships in the game. ==Background== ===Encyclopedia Entry=== The sleek lines of the Hades belie the steel beneath. The best of [[Paranid]] technology make this bomber a leader in its class. ==Physical Characteristics== About twice the size on an [[M3]] fighter, the Hades has a sleek fuselage with curved wings. == Combat == Like all [[M8|bombers]], the Hades fights by loosing missiles off at a capital ship from outside its range. A good missile defence script is needed to thwart a [[Tomahawk Heavy Missile|Tomahawk]] barrage. Give its small size and fairly good maneuverability, [[:Category:Capital Ships|capital ships]] struggle to land hits on this ship. However, the Hades pilot must be wary of faster fighters, particularly of the [[M4]] and [[M4+]] classes. == Equipment == The Hades fires the [[Tomahawk Heavy Missile]]. == Availability == {| style="text-align:center;" cellpadding="3" |- style="{{Colour/Paranid}}" ! Variant !! [[Heaven's Assertion]] !! [[Third Redemption]] |- ! Hades || x || x || |} It may also be found among [[Paranid]] patrols and [[Pirates|pirate]] wings spawned by [[Defend_Station| station defense]] missions and is vulnerable to the [[bail]] and [[claim]] mechanic. == Suggested Roles== The Hades is a cheap anti-capital ship bomber, which can be used with fighter cover to destroy an entire sector. == See Also== {{M8}} {{Paranid Navbox}}
+==Background==
+===Encyclopedia Entry===
+The sleek lines of the Hades belie the steel beneath. The best of [[Paranid]] technology make this bomber a leader in its class.
+
+==Physical Characteristics==
+About twice the size on an [[M3]] fighter, the Hades has a sleek fuselage with curved wings.
+
+== Combat ==
+Like all [[M8|bombers]], the Hades fights by loosing missiles off at a capital ship from outside its range. A good missile defence script is needed to thwart a [[Tomahawk Heavy Missile|Tomahawk]] barrage. Give its small size and fairly good maneuverability, [[:Category:Capital Ships|capital ships]] struggle to land hits on this ship. However, the Hades pilot must be wary of faster fighters, particularly of the [[M4]] and [[M4+]] classes.
+
+== Equipment ==
+The Hades fires the [[Tomahawk Heavy Missile]].
+
+== Availability ==
+{| style="text-align:center;" cellpadding="3"
+|- style="{{Colour/Paranid}}"
+! Variant !! [[Heaven's Assertion]] !! [[Third Redemption]]
+|-
+! Hades || x || x ||
+|}
+
+It may also be found among [[Paranid]] patrols and [[Pirates|pirate]] wings spawned by [[Defend_Station| station defense]] missions and is vulnerable to the [[bail]] and [[claim]] mechanic.
+
+== Suggested Roles==
+The Hades is a cheap anti-capital ship bomber, which can be used with fighter cover to destroy an entire sector.
+
+== See Also==
+{{M8}}
+
+
+{{Paranid Navbox}}

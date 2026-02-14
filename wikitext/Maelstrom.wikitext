@@ -1,3 +1,18 @@
-<!-- source file: index__q75a042cecc91.html -->
+{{Infobox Sector
+|Race=Pirates
+|SecLevel=Border
+|Population=
+|Planets=
+|SunLevel=100
+|GateDist=
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|-7000|	0|	81600|[[Merchant Haven]]}}
+{{Gateblock2|West|-181600|	0|	0|[[Unknown Sector (18,9)]]}}
+</table>
+}}
+==Description==
+==Default [[Stations]]==
+==[[Asteroids]]==
 
-{{Infobox Sector |Race=Pirates |SecLevel=Border |Population= |Planets= |SunLevel=100 |GateDist= |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|-7000| 0| 81600|[[Merchant Haven]]}} {{Gateblock2|West|-181600| 0| 0|[[Unknown Sector (18,9)]]}} &lt;/table> }} ==Description== ==Default [[Stations]]== ==[[Asteroids]]== {{Pirates Navbox}}
+{{Pirates Navbox}}

@@ -1,3 +1,15 @@
-<!-- source file: index__qb717c5fa0da3.html -->
+Boarding ships are vessels capable of taking on marines and then launching them to [[Boarding|board]] other vessels.
 
-Boarding ships are vessels capable of taking on marines and then launching them to [[Boarding|board]] other vessels. {{M7Mclass}} ships are the only vessels in the [[X-universe]] that may use [[boarding pods]], and some of them are not compatible with the missile. Other boarding ships may only deploy marines in a 'space walk' maneuver. Boarding ships may be generally classified as: *{{TPclass}} *{{M6class}} *{{M6+class}} *{{M7Mclass}} {{TPclass}}s are unusual as they are boarding ships that can bear marines, but cannot be boarded themselves and are instead vulnerable to [[bail]] and [[claim]] mechanics. {{Piracy}}
+{{M7Mclass}} ships are the only vessels in the [[X-universe]] that may use [[boarding pods]], and some of them are not compatible with the missile.
+
+Other boarding ships may only deploy marines in a 'space walk' maneuver.
+
+Boarding ships may be generally classified as:
+*{{TPclass}}
+*{{M6class}}
+*{{M6+class}}
+*{{M7Mclass}}
+
+{{TPclass}}s are unusual as they are boarding ships that can bear marines, but cannot be boarded themselves and are instead vulnerable to [[bail]] and [[claim]] mechanics.
+
+{{Piracy}}

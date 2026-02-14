@@ -1,3 +1,101 @@
-<!-- source file: index__q04ddf330b7a0.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=L
+|Faction=Xenon
+|Class={{M3class}}
+|Priceblock=
+|Minspeed=71.7
+|Maxspeed=165.0
+|Minaccel=12
+|Maxaccel=29
+|Minsteer=29.7
+|Maxsteer=68.3
+|Hull=12,000
+|Maxshield=25 MJ
+|Shieldslots=3
+|Maxshieldstrength=75
+|Shieldreactor= 780
+|Cargoclass=L
+|Mincargo=74
+|Maxcargo=234
+|Lasercap=3000
+|Laserrecharge=75
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The L is most commonly found equipped with the powerful [[Pulsed Beam Emitter]]. However, it does not have the generator power to feed more than two of these weapons. When encountered, this ship can deal a serious amount of damage in a very short time, but will quickly run out of puff so isn't the most serious of threats.
 
-{{Infobox open}} {{Infobox variant |Variant=L |Faction=Xenon |Class={{M3class}} |Priceblock= |Minspeed=71.7 |Maxspeed=165.0 |Minaccel=12 |Maxaccel=29 |Minsteer=29.7 |Maxsteer=68.3 |Hull=12,000 |Maxshield=25 MJ |Shieldslots=3 |Maxshieldstrength=75 |Shieldreactor= 780 |Cargoclass=L |Mincargo=74 |Maxcargo=234 |Lasercap=3000 |Laserrecharge=75 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The L is most commonly found equipped with the powerful [[Pulsed Beam Emitter]]. However, it does not have the generator power to feed more than two of these weapons. When encountered, this ship can deal a serious amount of damage in a very short time, but will quickly run out of puff so isn't the most serious of threats. ==Background== ==Physical Characteristics== == Combat == Dogfighting in the L requires careful management of weapons energy, but otherwise, standard tactics of point and shoot make this fighter effective enough to compete respectably in a battle. == Equipment == == Availability == == Suggested Roles== == Headquarters Production Info == This ship can be reverse engineered and produced at the player Headquarters. Required materials and build time as follows: HQ Production Materials {| style="text-align:right;" ! Ware !! Amount |- valign="top" |[[Energy Cells]]||{{formatnum:784}} |- |[[Teladianium]]||{{formatnum:24}} |- |[[Cloth Rimes]]||8 |- |[[Rastar Oil]]||16 |- |[[Ore]]||{{formatnum:32}} |- |[[Silicon|Silicon Wafers]]||{{formatnum:24}} |- |[[Crystals]]||8 |- |[[Quantum Tubes]]||8 |- |[[Microchips]]||16 |- |[[Computer Components]]||8 |- |Shipwright Fee ([[Credits]])|| {{formatnum:231280}} |- |Build Time (game time)&lt;bR>(hh:mm:ss)|| 00:41:44 |} == See Also== *[[Nova|Argon Nova]] *[[Barracuda|Boron Barracuda]] *[[Kha'ak Fighter]] *[[Perseus|Paranid Perseus]] *[[Blastclaw|Pirate Blastclaw]] *[[Mamba|Split Mamba]] *[[Falcon|Teladi Falcon]] *[[Scimitar|Terran Scimitar]] *[[Susanowa|Yaki Susanowa]] *[[Spitfyre|Aldrin Spitfyre]] *[[Thor|ATF Thor]] *[[Venti|OTAS Venti]] *[[deca.cefa|Terraformer #deca.cefa]] {{M3category}}
+==Background==
+==Physical Characteristics==
+== Combat ==
+Dogfighting in the L requires careful management of weapons energy, but otherwise, standard tactics of point and shoot make this fighter effective enough to compete respectably in a battle.
+
+== Equipment ==
+== Availability ==
+== Suggested Roles==
+
+== Headquarters Production Info ==
+This ship can be reverse engineered and produced at the player Headquarters. Required materials and build time as follows:
+
+HQ Production Materials
+{| style="text-align:right;"
+! Ware !! Amount
+|- valign="top"
+|[[Energy Cells]]||{{formatnum:784}}
+|-
+|[[Teladianium]]||{{formatnum:24}}
+|-
+|[[Cloth Rimes]]||8
+|-
+|[[Rastar Oil]]||16
+|-
+|[[Ore]]||{{formatnum:32}}
+|-
+|[[Silicon|Silicon Wafers]]||{{formatnum:24}}
+|-
+|[[Crystals]]||8
+|-
+|[[Quantum Tubes]]||8
+|-
+|[[Microchips]]||16
+|-
+|[[Computer Components]]||8
+|-
+|Shipwright Fee ([[Credits]])|| {{formatnum:231280}}
+|-
+|Build Time (game time)<bR>(hh:mm:ss)||	00:41:44
+|}
+
+== See Also==
+*[[Nova|Argon Nova]]
+*[[Barracuda|Boron Barracuda]]
+*[[Kha'ak Fighter]]
+*[[Perseus|Paranid Perseus]]
+*[[Blastclaw|Pirate Blastclaw]]
+*[[Mamba|Split Mamba]]
+*[[Falcon|Teladi Falcon]]
+*[[Scimitar|Terran Scimitar]]
+*[[Susanowa|Yaki Susanowa]]
+*[[Spitfyre|Aldrin Spitfyre]]
+*[[Thor|ATF Thor]]
+*[[Venti|OTAS Venti]]
+*[[deca.cefa|Terraformer #deca.cefa]]
+{{M3category}}

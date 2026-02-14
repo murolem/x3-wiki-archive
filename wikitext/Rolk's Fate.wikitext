@@ -1,3 +1,29 @@
-<!-- source file: index__q35e7566efb19.html -->
+{{Infobox Sector
+|Race=Boron
+|SecLevel=Border
+|Population=86,700,400
+|Planets=3
+|SunLevel=150
+|GateDist=75
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|0|	14800|	37296|[[Menelaus' Frontier]]}}
+{{Gateblock2|South|-3237|	-22200|	-37296|[[Atreus' Clouds]]}}
+</table>
+}}
+==Description==
+===Encyclopedia Entry===
+This system supplies most of the weaponry used by the [[Boron]] Military in their sporadic battles against the [[Split]], in addition to the defense of their systems from [[Pirate]] and [[Xenon]] raiders. As it is the main supply and outfitting depot for the Boron space fleet, it is a prime target for Split attacks should hostilities resume between the two species.
+==Default [[Stations]]==
+*[[Boron Equipment Dock]]
+==[[Asteroids]]==
 
-{{Infobox Sector |Race=Boron |SecLevel=Border |Population=86,700,400 |Planets=3 |SunLevel=150 |GateDist=75 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|0| 14800| 37296|[[Menelaus' Frontier]]}} {{Gateblock2|South|-3237| -22200| -37296|[[Atreus' Clouds]]}} &lt;/table> }} ==Description== ===Encyclopedia Entry=== This system supplies most of the weaponry used by the [[Boron]] Military in their sporadic battles against the [[Split]], in addition to the defense of their systems from [[Pirate]] and [[Xenon]] raiders. As it is the main supply and outfitting depot for the Boron space fleet, it is a prime target for Split attacks should hostilities resume between the two species. ==Default [[Stations]]== *[[Boron Equipment Dock]] ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|10|22725|3661|17383}} {{Asteroid/Item|Ore|5|12282|-7658|16979}} {{Asteroid/Item|Ore|3|20885|-6430|2803}} {{Asteroid/Item|Ore|2|16381|-5992|9820}} {{Asteroid/End}} == See Also == {{Boron Navbox}}
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|10|22725|3661|17383}}
+{{Asteroid/Item|Ore|5|12282|-7658|16979}}
+{{Asteroid/Item|Ore|3|20885|-6430|2803}}
+{{Asteroid/Item|Ore|2|16381|-5992|9820}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Boron Navbox}}

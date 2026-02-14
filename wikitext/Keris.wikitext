@@ -1,3 +1,74 @@
-<!-- source file: index__qeab0d2dbb3d0.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Keris
+|cargoclass=M
+|volume=3
+|minprice=6872
+|aveprice=8084
+|maxprice=9296
+}}
+{{Infobox variant
+|Variant=Keris
+|Faction=Terran
+|Class=Drone
+|Priceblock=
+|Minspeed=180
+|Maxspeed=180
+|Minaccel=14
+|Maxaccel=14
+|Minsteer=24
+|Maxsteer=24
+|Hull=3000
+|Maxshield=0
+|Shieldslots=0
+|Maxshieldstrength=0
+|Shieldreactor=550
+|Cargoclass=L
+|Mincargo=100
+|Maxcargo=100
+|Lasercap=3600
+|Laserrecharge=90
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=1
+|ire=0|pac=0|hept=0|cig=0|ppc=0|md=0
+|us=0|prg=0|cfaa=0|pbc=0|id=0|ipg=0
+|ic=0|fbl=0|psg=0|tbc=0|ebc=0|faa=0
+|gc=0|pbe=0|isr=0|palc=0|pbg=0|ibl=0
+|empc=1|maml=0|ssc=0|psp=0|fbc=0|ake=0
+|bke=0|gke=0|eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+The USC fighter drone was named after a small curled dagger; very apt, with its ability to confound even the most agile ship.
 
-{{Infobox open}} {{Infobox ware |ware= Keris |cargoclass=M |volume=3 |minprice=6872 |aveprice=8084 |maxprice=9296 }} {{Infobox variant |Variant=Keris |Faction=Terran |Class=Drone |Priceblock= |Minspeed=180 |Maxspeed=180 |Minaccel=14 |Maxaccel=14 |Minsteer=24 |Maxsteer=24 |Hull=3000 |Maxshield=0 |Shieldslots=0 |Maxshieldstrength=0 |Shieldreactor=550 |Cargoclass=L |Mincargo=100 |Maxcargo=100 |Lasercap=3600 |Laserrecharge=90 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=1 |ire=0|pac=0|hept=0|cig=0|ppc=0|md=0 |us=0|prg=0|cfaa=0|pbc=0|id=0|ipg=0 |ic=0|fbl=0|psg=0|tbc=0|ebc=0|faa=0 |gc=0|pbe=0|isr=0|palc=0|pbg=0|ibl=0 |empc=1|maml=0|ssc=0|psp=0|fbc=0|ake=0 |bke=0|gke=0|eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== The USC fighter drone was named after a small curled dagger; very apt, with its ability to confound even the most agile ship. ==Commentary== A heavily armed, but slow fighter drone. The Keris represents the cheapest way to put [[Electro-Magnetic Plasma Cannon|EMP cannons]] on the battlefield, especially considering a ship-mounted EMPC costs around 30 times as much to purchase alone, not even considering the cost of the ship it would be mounted to. Mounts one EMPC, plus a generator bettering that of the [[Sabre]] to run it. Lasts approximately 10 minutes, like the other fighter drones. The Keris' prowess in combat tailors it towards battling against capital ships than fighter craft; in numbers, the EMPC that these drones mount can shred the shields and hull of capships within minutes to seconds, but the relatively slow firing speed and velocity of its shots mean that the Keris will have pronounced trouble in engaging against fighters, forcing the pilot to decide whether he or she should go into the action themselves. ==Trading information== {| ! Sold by; !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *Race Factory where this ware is sold | *List of Race Factories where this ware is a primary resource | *List of Race Factories where this ware is a secondary resource | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}}
+==Commentary==
+A heavily armed, but slow fighter drone. The Keris represents the cheapest way to put [[Electro-Magnetic Plasma Cannon|EMP cannons]] on the battlefield, especially considering a ship-mounted EMPC costs around 30 times as much to purchase alone, not even considering the cost of the ship it would be mounted to. 
+
+Mounts one EMPC, plus a generator bettering that of the [[Sabre]] to run it. Lasts approximately 10 minutes, like the other fighter drones.
+
+The Keris' prowess in combat tailors it towards battling against capital ships than fighter craft; in numbers, the EMPC that these drones mount can shred the shields and hull of capships within minutes to seconds, but the relatively slow firing speed and velocity of its shots mean that the Keris will have pronounced trouble in engaging against fighters, forcing the pilot to decide whether he or she should go into the action themselves.
+
+==Trading information==
+{|
+! Sold by; !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*Race Factory where this ware is sold
+
+|
+*List of Race Factories where this ware is a primary resource
+|
+*List of Race Factories where this ware is a secondary resource
+
+|
+*List of Trading Stations where this ware is traded (sector only)
+
+|}
+
+{{Warecategory}}

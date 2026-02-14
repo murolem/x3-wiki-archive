@@ -1,3 +1,36 @@
-<!-- source file: index__qf84321a76886.html -->
+{{Infobox Sector
+|Race=Paranid
+|SecLevel=Border
+|Population=2,904,506
+|Planets=1
+|SunLevel=150
+|GateDist=150
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|	0|	65000|[[Desecrated Skies]]}}
+{{Gateblock2|East|74662|	0|	0|[[Cardinal's Domain]]}}
+{{Gateblock2|South|0|	0|	-75600|[[Spring Of Belief]]}}
+{{Gateblock2|West|-75591|	0|	0|[[Barren Shores]]}}
+{{Gateblock/End}}
+}}
+==Description==
+Formed shortly after the claiming of the sector to the south, this sector was set up originally as a monastery. It provided a place for passing priests to pray and hold quiet meditation. Military forces were virtually non-existent during early settlement, leaving the monastery open to attack by raiding parties from the nearby Pirate sectors. The priests held their position in the safety of the temple caverns for several days before the Paranid managed to send a [[M2|destroyer]] to protect its holy populace. The destroyer has now moved to the next sector to prevent such incursions into Paranid territory. 
 
-{{Infobox Sector |Race=Paranid |SecLevel=Border |Population=2,904,506 |Planets=1 |SunLevel=150 |GateDist=150 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0| 0| 65000|[[Desecrated Skies]]}} {{Gateblock2|East|74662| 0| 0|[[Cardinal's Domain]]}} {{Gateblock2|South|0| 0| -75600|[[Spring Of Belief]]}} {{Gateblock2|West|-75591| 0| 0|[[Barren Shores]]}} {{Gateblock/End}} }} ==Description== Formed shortly after the claiming of the sector to the south, this sector was set up originally as a monastery. It provided a place for passing priests to pray and hold quiet meditation. Military forces were virtually non-existent during early settlement, leaving the monastery open to attack by raiding parties from the nearby Pirate sectors. The priests held their position in the safety of the temple caverns for several days before the Paranid managed to send a [[M2|destroyer]] to protect its holy populace. The destroyer has now moved to the next sector to prevent such incursions into Paranid territory. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|21|1478|16635|-24270}} {{Asteroid/Item|Ore|13|-51247|33286|11958}} {{Asteroid/Item|Ore|9|-19525|-18756|-43641}} {{Asteroid/Item|Ore|6|-46282|18634|-12713}} {{Asteroid/Item|Ore|5|-36233|3198|-32927}} {{Asteroid/Item|Ore|2|1984|-1874|-46182}} {{Asteroid/Item|Silicon|21|-17194|14680|-21433}} {{Asteroid/Item|Silicon|12|-36901|3764|-2873}} {{Asteroid/Item|Silicon|7|-18118|12276|-10004}} {{Asteroid/Item|Silicon|3|-23781|3754|-16028}} {{Asteroid/End}} == See Also == {{Paranid Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|21|1478|16635|-24270}}
+{{Asteroid/Item|Ore|13|-51247|33286|11958}}
+{{Asteroid/Item|Ore|9|-19525|-18756|-43641}}
+{{Asteroid/Item|Ore|6|-46282|18634|-12713}}
+{{Asteroid/Item|Ore|5|-36233|3198|-32927}}
+{{Asteroid/Item|Ore|2|1984|-1874|-46182}}
+{{Asteroid/Item|Silicon|21|-17194|14680|-21433}}
+{{Asteroid/Item|Silicon|12|-36901|3764|-2873}}
+{{Asteroid/Item|Silicon|7|-18118|12276|-10004}}
+{{Asteroid/Item|Silicon|3|-23781|3754|-16028}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Paranid Navbox}}

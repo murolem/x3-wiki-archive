@@ -1,3 +1,15 @@
-<!-- source file: index__qd7e8b59b8cbd.html -->
-
-{| width="725px" style="text-align:center; border-width:1px; border-style:solid; border-color:lightgrey;" ! colspan="3" style="background-color: #AAAAEE;" | [[Races|Races and Factions of the X Universe]] |- ! width="10em" style="background-color: #DDDDDD;" | Key | style="background-color: #DDDDDD;" | {{ColourWord|Commonwealth|orange}} | {{ColourWord|Terran|#72AA77}} | [[Races#Factions|&lt;font color=red>Illegal&lt;/font color>]] | [[Races#Species|&lt;font color=#CC7AEE>Other&lt;/font color>]] |- ! width="10em" style="background-color: #CCCCFF;" | Races | {{ColourWord|Aldrin|#72AA77}} | {{ColourWord|Argon|orange}} | {{ColourWord|Boron|orange}} | {{ColourWord|Kha'ak|#CC7AEE}} | {{ColourWord|Paranid|orange}} | {{ColourWord|Sohnen|#CC7AEE}} | {{ColourWord|Split|orange}} | {{ColourWord|Teladi|orange}} | {{ColourWord|Terran|#72AA77}} | {{ColourWord|Xenon|#CC7AEE}} |- ! width="10em" style="background-color: #CCCCFF;" | Factions | style="background-color: #EEEEEE;" | {{ColourWord|ATF|#72AA77}} | {{ColourWord|Community of Planets|orange}} | {{ColourWord|Foundation Guild|orange}} | {{ColourWord|Profit Guild|orange}} | {{ColourWord|Yaki|red}} | {{ColourWord|Goner|orange}} | {{ColourWord|Pirates|red}} |- ! width="10em" style="background-color: #CCCCFF;" | Corporations | {{ColourWord|Atreus|orange}} | {{ColourWord|Duke's|red}} | {{ColourWord|Jonferco|orange}} | {{ColourWord|NMMC|orange}} | {{ColourWord|Plutarch|orange}} | {{ColourWord|Strong Arms|orange}} | {{ColourWord|Terracorp|orange}} |} [[Category:Races]] &lt;noinclude>[[Category:Racial Navbox]]&lt;/noinclude>
+{| width="725px" style="text-align:center; border-width:1px; border-style:solid; border-color:lightgrey;"
+! colspan="3" style="background-color: #AAAAEE;" | [[Races|Races and Factions of the X Universe]]
+|-
+! width="10em" style="background-color: #DDDDDD;" | Key
+| style="background-color: #DDDDDD;" | {{ColourWord|Commonwealth|orange}} | {{ColourWord|Terran|#72AA77}} | [[Races#Factions|<font color=red>Illegal</font color>]] | [[Races#Species|<font color=#CC7AEE>Other</font color>]]
+|-
+! width="10em" style="background-color: #CCCCFF;" | Races
+| {{ColourWord|Aldrin|#72AA77}} | {{ColourWord|Argon|orange}} | {{ColourWord|Boron|orange}} | {{ColourWord|Kha'ak|#CC7AEE}} | {{ColourWord|Paranid|orange}} | {{ColourWord|Sohnen|#CC7AEE}} | {{ColourWord|Split|orange}} | {{ColourWord|Teladi|orange}} | {{ColourWord|Terran|#72AA77}} | {{ColourWord|Xenon|#CC7AEE}}
+|-
+! width="10em" style="background-color: #CCCCFF;" | Factions
+| style="background-color: #EEEEEE;" | {{ColourWord|ATF|#72AA77}} | {{ColourWord|Community of Planets|orange}} | {{ColourWord|Foundation Guild|orange}} | {{ColourWord|Profit Guild|orange}} | {{ColourWord|Yaki|red}} | {{ColourWord|Goner|orange}} | {{ColourWord|Pirates|red}}
+|-
+! width="10em" style="background-color: #CCCCFF;" | Corporations
+| {{ColourWord|Atreus|orange}} | {{ColourWord|Duke's|red}} | {{ColourWord|Jonferco|orange}} | {{ColourWord|NMMC|orange}} | {{ColourWord|Plutarch|orange}} | {{ColourWord|Strong Arms|orange}} | {{ColourWord|Terracorp|orange}}
+|} [[Category:Races]] <noinclude>[[Category:Racial Navbox]]</noinclude>

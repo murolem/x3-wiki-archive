@@ -1,3 +1,96 @@
-<!-- source file: index__qa2beeb11eac4.html -->
+{{Infobox Sector
+|Race=Split
+|SecLevel=Core
+|Population=49,144,387
+|Planets=2
+|SunLevel=150
+|GateDist=70
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|-6800|	0|	34272|[[Rhy's Desire]]}}
+{{Gateblock2|East|34000|	0|	0|[[Wretched Skies]]}}
+{{Gateblock2|South|-7225|	0|	-34272|[[Reservoir of Tranquillity]]}}
+{{Gateblock/End}}
+}}
+==Description==
+The lesser family of Rhy, in the days before space colonisation, spent most of their time on Split Prime, using their knowledge of espionage and sabotage to plunder other families resources and claim them as salvage. Rhy moved off-world to their own system when they became a more powerful family, after helping the family Rhonkar in their battle against the old Patriarch. This sector contains half of the family's assets in space trading, incliding their own carrier. Rhy no longer focuses solely on espionage and have started to build up their own military. There are also rumers in local bars of a hidden gate in or near this system.
 
-{{Infobox Sector |Race=Split |SecLevel=Core |Population=49,144,387 |Planets=2 |SunLevel=150 |GateDist=70 |Gates={{Gateblock/Begin}} {{Gateblock2|North|-6800| 0| 34272|[[Rhy's Desire]]}} {{Gateblock2|East|34000| 0| 0|[[Wretched Skies]]}} {{Gateblock2|South|-7225| 0| -34272|[[Reservoir of Tranquillity]]}} {{Gateblock/End}} }} ==Description== The lesser family of Rhy, in the days before space colonisation, spent most of their time on Split Prime, using their knowledge of espionage and sabotage to plunder other families resources and claim them as salvage. Rhy moved off-world to their own system when they became a more powerful family, after helping the family Rhonkar in their battle against the old Patriarch. This sector contains half of the family's assets in space trading, incliding their own carrier. Rhy no longer focuses solely on espionage and have started to build up their own military. There are also rumers in local bars of a hidden gate in or near this system. ==Station Availability== {{Shipyard/Begin|Station|ST Size|Cost}} {{Shipyard/Station|Split Trading Port||10000|29,215,752}} {{Shipyard/Station|Equipment Dock||9500|48,043,676}} {{Shipyard/Station|Weapon Component Factory||12000|688,192}} {{Shipyard/Station|Quantum Tube Fab||13500|4,590,150}} {{Shipyard/Station|Silkworm Missile Factory||13000|3,012,468}} {{Shipyard/Station|SQUASH Mine Factory||15000|2,019,132}} {{Shipyard/Station|Lasertower Factory||18500|1,103,708}} {{Shipyard/Station|Drone Factory||14500|3,035,320}} {{Shipyard/Station|Satellite Factory||16500|967,364}} {{Shipyard/Station|Impulse Ray Emitter Forge||15000|2,362,060}} {{Shipyard/Station|Ammunition Factory||12000|2,830,680}} {{Shipyard/Station|Ion Shard Railgun Forge||13500|10,065,800}} {{Shipyard/Station|Scruffin Farm|M|10000|320,008}} {{Shipyard/Station|Scruffin Farm|L|15000|799,992}} {{Shipyard/Station|Chelt Space Aquarium|L|18750|592,496}} {{Shipyard/Station|Massom Mill|M|11000|804,992}} {{Shipyard/Station|Massom Mill|L|16500|2,012,512}} {{Shipyard/Station|Rastar Refinery|M|13500|1,116,692}} {{Shipyard/Station|Solar Power Plant|M|10500|5,388,695}} {{Shipyard/Station|Solar Power Plant|L|15750|12,124,536}} {{Shipyard/Station|Ore Mine|M|8000|409,020}} {{Shipyard/Station|Ore Mine|L|12000|818,040}} {{Shipyard/Station|Silicon Mine|M|9500|499,980}} {{Shipyard/Station|Silicon Mine|L|14250|1,022,552}} {{Shipyard/Station|Complex Construction Kit||4250|259,696}} {{Shipyard/Station|Low-yield sidearms Fab||15000|2,246,368}} {{Shipyard/End}} {{Shipyard/Begin|Ship|Class|Cost}} {{Shipyard/Ship1|Elephant|TL|17,415,102}} {{Shipyard/Ship1|Caiman|TS|226,319}} {{Shipyard/Ship2|Caiman|Super Freighter|TS|603,043}} {{Shipyard/Ship2|Caiman|Miner|TS|756,707}} {{Shipyard/Ship1|Iguana|TP|334,918}} {{Shipyard/Ship1|Boa|TP|450,448}} {{Shipyard/Ship1|Raptor|M1|80,276,604}} {{Shipyard/Ship1|Python|M2|92,622,480}} {{Shipyard/Ship2|Mamba|Raider|M3|2,408,263}} {{Shipyard/Ship2|Mamba|Vanguard|M3|2,007,804}} {{Shipyard/Ship1|Chimera|M3+|5,413,515}} {{Shipyard/Ship1|Scorpion|M4|318,309}} {{Shipyard/Ship2|Scorpion|Sentinel|M4|498,318}} {{Shipyard/Ship1|Asp|M4+|696,165}} {{Shipyard/Ship1|Jaguar|M5|49,991}} {{Shipyard/Ship2|Jaguar|Vanguard|M5|61,211}} {{Shipyard/Ship1|Dragon|M6|7,689,771}} {{Shipyard/Ship1|Tiger|M7|36,461,288}} {{Shipyard/Ship1|Drake|TS+|1,647,625}} {{Shipyard/Ship1|Ocelot|TP|1,324,080}} {{Shipyard/End}} *Note: [[Drake]] and [[Ocelot]] are available in Albion Prelude ==Default [[Stations]]== *[[Split Shipyard]] *Split [[Equipment Dock]] *[[Split Trading Port]] *[[Ammunition Factory]] alpha *[[Chelt Space Aquarium]]M alpha *[[Rastar Refinery]] L beta *[[Rastar Refinery]] M alpha *[[Scruffin Farm]] L alpha *[[Tomahawk Missile Manufacturing Plant]] alpha *[[Tracker Mine Fab]] alpha ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|36|3623|-2415|-15473}} {{Asteroid/Item|Ore|24|-6793|4528|14341}} {{Asteroid/Item|Ore|16|-226|-4906|-2490}} {{Asteroid/Item|Ore|11|-8667|-3623|-6081}} {{Asteroid/Item|Silicon|32|-5935|3774|-12454}} {{Asteroid/Item|Silicon|26|7170|905|18870}} {{Asteroid/Item|Silicon|13|-44|1434|-8721}} {{Asteroid/Item|Silicon|8|7543|-4830|-3880}} {{Asteroid/End}} == See Also == {{Split Navbox}}
+==Station Availability==
+{{Shipyard/Begin|Station|ST Size|Cost}}
+{{Shipyard/Station|Split Trading Port||10000|29,215,752}}
+{{Shipyard/Station|Equipment Dock||9500|48,043,676}}
+{{Shipyard/Station|Weapon Component Factory||12000|688,192}}
+{{Shipyard/Station|Quantum Tube Fab||13500|4,590,150}}
+{{Shipyard/Station|Silkworm Missile Factory||13000|3,012,468}}
+{{Shipyard/Station|SQUASH Mine Factory||15000|2,019,132}}
+{{Shipyard/Station|Lasertower Factory||18500|1,103,708}}
+{{Shipyard/Station|Drone Factory||14500|3,035,320}}
+{{Shipyard/Station|Satellite Factory||16500|967,364}}
+{{Shipyard/Station|Impulse Ray Emitter Forge||15000|2,362,060}}
+{{Shipyard/Station|Ammunition Factory||12000|2,830,680}}
+{{Shipyard/Station|Ion Shard Railgun Forge||13500|10,065,800}}
+{{Shipyard/Station|Scruffin Farm|M|10000|320,008}}
+{{Shipyard/Station|Scruffin Farm|L|15000|799,992}}
+{{Shipyard/Station|Chelt Space Aquarium|L|18750|592,496}}
+{{Shipyard/Station|Massom Mill|M|11000|804,992}}
+{{Shipyard/Station|Massom Mill|L|16500|2,012,512}}
+{{Shipyard/Station|Rastar Refinery|M|13500|1,116,692}}
+{{Shipyard/Station|Solar Power Plant|M|10500|5,388,695}}
+{{Shipyard/Station|Solar Power Plant|L|15750|12,124,536}}
+{{Shipyard/Station|Ore Mine|M|8000|409,020}}
+{{Shipyard/Station|Ore Mine|L|12000|818,040}}
+{{Shipyard/Station|Silicon Mine|M|9500|499,980}}
+{{Shipyard/Station|Silicon Mine|L|14250|1,022,552}}
+{{Shipyard/Station|Complex Construction Kit||4250|259,696}}
+{{Shipyard/Station|Low-yield sidearms Fab||15000|2,246,368}}
+{{Shipyard/End}}
+{{Shipyard/Begin|Ship|Class|Cost}}
+{{Shipyard/Ship1|Elephant|TL|17,415,102}}
+{{Shipyard/Ship1|Caiman|TS|226,319}}
+{{Shipyard/Ship2|Caiman|Super Freighter|TS|603,043}}
+{{Shipyard/Ship2|Caiman|Miner|TS|756,707}}
+{{Shipyard/Ship1|Iguana|TP|334,918}}
+{{Shipyard/Ship1|Boa|TP|450,448}}
+{{Shipyard/Ship1|Raptor|M1|80,276,604}}
+{{Shipyard/Ship1|Python|M2|92,622,480}}
+{{Shipyard/Ship2|Mamba|Raider|M3|2,408,263}}
+{{Shipyard/Ship2|Mamba|Vanguard|M3|2,007,804}}
+{{Shipyard/Ship1|Chimera|M3+|5,413,515}}
+{{Shipyard/Ship1|Scorpion|M4|318,309}}
+{{Shipyard/Ship2|Scorpion|Sentinel|M4|498,318}}
+{{Shipyard/Ship1|Asp|M4+|696,165}}
+{{Shipyard/Ship1|Jaguar|M5|49,991}}
+{{Shipyard/Ship2|Jaguar|Vanguard|M5|61,211}}
+{{Shipyard/Ship1|Dragon|M6|7,689,771}}
+{{Shipyard/Ship1|Tiger|M7|36,461,288}}
+{{Shipyard/Ship1|Drake|TS+|1,647,625}}
+{{Shipyard/Ship1|Ocelot|TP|1,324,080}}
+{{Shipyard/End}}
+*Note: [[Drake]] and [[Ocelot]] are available in Albion Prelude
+
+==Default [[Stations]]==
+*[[Split Shipyard]]
+*Split [[Equipment Dock]]
+*[[Split Trading Port]]
+*[[Ammunition Factory]] alpha
+*[[Chelt Space Aquarium]]M alpha
+*[[Rastar Refinery]] L beta
+*[[Rastar Refinery]] M alpha
+*[[Scruffin Farm]] L alpha
+*[[Tomahawk Missile Manufacturing Plant]] alpha
+*[[Tracker Mine Fab]] alpha
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|36|3623|-2415|-15473}}
+{{Asteroid/Item|Ore|24|-6793|4528|14341}}
+{{Asteroid/Item|Ore|16|-226|-4906|-2490}}
+{{Asteroid/Item|Ore|11|-8667|-3623|-6081}}
+{{Asteroid/Item|Silicon|32|-5935|3774|-12454}}
+{{Asteroid/Item|Silicon|26|7170|905|18870}}
+{{Asteroid/Item|Silicon|13|-44|1434|-8721}}
+{{Asteroid/Item|Silicon|8|7543|-4830|-3880}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Split Navbox}}

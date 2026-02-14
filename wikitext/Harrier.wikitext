@@ -1,3 +1,223 @@
-<!-- source file: index__q7a7c08813790.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Harrier
+|Faction=Teladi
+|Class={{M5class}}
+|Priceblock={{Priceblock|| 550949}}
+|Minspeed=112.0
+|Maxspeed=280.0
+|Minaccel=34
+|Maxaccel=85
+|Minsteer=16.5
+|Maxsteer=41.2
+|Hull= 1200
+|Maxshield=5 MJ
+|Shieldslots=1
+|Maxshieldstrength=5
+|Shieldreactor= 65
+|Cargoclass=S
+|Mincargo=19
+|Maxcargo=104
+|Lasercap=1000
+|Laserrecharge=25
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=4
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Harrier Hauler
+|Faction=Teladi
+|Class={{M5class}}
+|Priceblock={{Priceblock|| 245614}}
+|Minspeed=98.0
+|Maxspeed=245.0
+|Minaccel=30
+|Maxaccel=77
+|Minsteer=14.0
+|Maxsteer=35.1
+|Hull=
+|Maxshield=5 MJ
+|Shieldslots=1
+|Maxshieldstrength=5
+|Shieldreactor= 65
+|Cargoclass=S
+|Mincargo=23
+|Maxcargo=130
+|Lasercap=1000
+|Laserrecharge=25
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=4
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Harrier Sentinel
+|Faction=Teladi
+|Class={{M5class}}
+|Priceblock=
+|Minspeed=91.0
+|Maxspeed=227.5
+|Minaccel=28
+|Maxaccel=70
+|Minsteer=13.5
+|Maxsteer=33.8
+|Hull= 1200
+|Maxshield=5 MJ
+|Shieldslots=2
+|Maxshieldstrength=10
+|Shieldreactor= 71
+|Cargoclass=S
+|Mincargo=17
+|Maxcargo=93
+|Lasercap=1000
+|Laserrecharge=25
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=4
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Harrier Vanguard
+|Faction=Teladi
+|Class={{M5class}}
+|Priceblock={{Priceblock|| 255063}}
+|Minspeed=120.0
+|Maxspeed=300.0
+|Minaccel=37
+|Maxaccel=94
+|Minsteer=17.3
+|Maxsteer=43.3
+|Hull= 1140
+|Maxshield=5 MJ
+|Shieldslots=1
+|Maxshieldstrength=5
+|Shieldreactor= 71
+|Cargoclass=S
+|Mincargo=18
+|Maxcargo=98
+|Lasercap=1200
+|Laserrecharge=30
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=4
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The Harrier has a large cargobay and defenses equal to lighter [[M4]]s, giving it higher survivability than most M5s, but it still will not last long in a fight and it may not have enough speed to escape an opponent it cannot fight.
 
-{{Infobox open}} {{Infobox variant |Variant=Harrier |Faction=Teladi |Class={{M5class}} |Priceblock={{Priceblock|| 550949}} |Minspeed=112.0 |Maxspeed=280.0 |Minaccel=34 |Maxaccel=85 |Minsteer=16.5 |Maxsteer=41.2 |Hull= 1200 |Maxshield=5 MJ |Shieldslots=1 |Maxshieldstrength=5 |Shieldreactor= 65 |Cargoclass=S |Mincargo=19 |Maxcargo=104 |Lasercap=1000 |Laserrecharge=25 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=4 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Harrier Hauler |Faction=Teladi |Class={{M5class}} |Priceblock={{Priceblock|| 245614}} |Minspeed=98.0 |Maxspeed=245.0 |Minaccel=30 |Maxaccel=77 |Minsteer=14.0 |Maxsteer=35.1 |Hull= |Maxshield=5 MJ |Shieldslots=1 |Maxshieldstrength=5 |Shieldreactor= 65 |Cargoclass=S |Mincargo=23 |Maxcargo=130 |Lasercap=1000 |Laserrecharge=25 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=4 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Harrier Sentinel |Faction=Teladi |Class={{M5class}} |Priceblock= |Minspeed=91.0 |Maxspeed=227.5 |Minaccel=28 |Maxaccel=70 |Minsteer=13.5 |Maxsteer=33.8 |Hull= 1200 |Maxshield=5 MJ |Shieldslots=2 |Maxshieldstrength=10 |Shieldreactor= 71 |Cargoclass=S |Mincargo=17 |Maxcargo=93 |Lasercap=1000 |Laserrecharge=25 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=4 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Harrier Vanguard |Faction=Teladi |Class={{M5class}} |Priceblock={{Priceblock|| 255063}} |Minspeed=120.0 |Maxspeed=300.0 |Minaccel=37 |Maxaccel=94 |Minsteer=17.3 |Maxsteer=43.3 |Hull= 1140 |Maxshield=5 MJ |Shieldslots=1 |Maxshieldstrength=5 |Shieldreactor= 71 |Cargoclass=S |Mincargo=18 |Maxcargo=98 |Lasercap=1200 |Laserrecharge=30 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=4 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The Harrier has a large cargobay and defenses equal to lighter [[M4]]s, giving it higher survivability than most M5s, but it still will not last long in a fight and it may not have enough speed to escape an opponent it cannot fight. ==Background== The Harrier replaced the older Teladi Bat some years before the beginning of the Kha'ak war. ==Variants== ===Harrier=== {{regular}} ===Harrier Hauler=== {{hauler}} ===Harrier Sentinel=== {{sentinel}} ===Harrier Vanguard=== {{vanguard}} ==Physical Characteristics== == Combat == Even with 5MJ of shielding, this ship should not be deliberately sent into a fight as it does not have the offensive capability to contribute. Additionally it is slow enough to be easily intercepted by [[M4]]s without being fast enough to be suitable for scouting duties. There is probably a better alternative craft for most conceivable roles it might fulfill. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Dragonfly Missile]] | *[[Firefly Missile]] *[[Aurora Missile]] | *[[Rapier Missile]] *[[Firelance Missile]] |} == Availability == {| style="text-align:center;" |- style="{{Colour/Teladi}}" ! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]] |- ! style="text-align:left;" | Harrier || x || || || || || |- ! style="text-align:left;" | Harrier Hauler || x || || x || || || x |- ! style="text-align:left;" | Harrier Vanguard || x || || || || x || |} Harrier Sentinel is not sold in any Shipyard. Available as one of many [[Ownerless ships]] == Suggested Roles== Some [[Teladi]] variants of the Harrier are capable of using the [[Mass Driver]], making them very dangerous attack ships for their cost and size. The Pirate variants tend to be extremely fast, so can use their PAC compatibility to act as light interceptors. Harriers also make good swarm fighters, as they're inexpensive and have better survivability than most [[M5]]s. A million credits puts a lot of these on the field. == See Also== {{M5}} {{M5category}} {{Teladi Navbox}}
+==Background==
+The Harrier replaced the older Teladi Bat some years before the beginning of the Kha'ak war.
+
+==Variants==
+===Harrier===
+{{regular}}
+===Harrier Hauler===
+{{hauler}}
+===Harrier Sentinel===
+{{sentinel}}
+===Harrier Vanguard===
+{{vanguard}}
+
+==Physical Characteristics==
+== Combat ==
+Even with 5MJ of shielding, this ship should not be deliberately sent into a fight as it does not have the offensive capability to contribute. Additionally it is slow enough to be easily intercepted by [[M4]]s without being fast enough to be suitable for scouting duties. There is probably a better alternative craft for most conceivable roles it might fulfill.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Dragonfly Missile]]
+|
+*[[Firefly Missile]]
+*[[Aurora Missile]]
+|
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+|}
+== Availability ==
+{| style="text-align:center;"
+|- style="{{Colour/Teladi}}"
+! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]]
+|-
+! style="text-align:left;" | Harrier || x ||  ||   ||  ||  || 
+|-
+! style="text-align:left;" | Harrier Hauler || x ||  || x ||  ||  || x
+|-
+! style="text-align:left;" | Harrier Vanguard || x ||  ||  ||  || x || 
+|}
+
+Harrier Sentinel is not sold in any Shipyard.
+Available as one of many [[Ownerless ships]]
+
+== Suggested Roles==
+Some [[Teladi]] variants of the Harrier are capable of using the [[Mass Driver]], making them very dangerous attack ships for their cost and size. The Pirate variants tend to be extremely fast, so can use their PAC compatibility to act as light interceptors.
+
+Harriers also make good swarm fighters, as they're inexpensive and have better survivability than most [[M5]]s.  A million credits puts a lot of these on the field.
+
+== See Also==
+{{M5}}
+
+{{M5category}}
+
+
+{{Teladi Navbox}}

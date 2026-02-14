@@ -1,3 +1,33 @@
-<!-- source file: index__q5c58e9e035d1.html -->
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Tempest Missile Factory
+|hull=1 000 000
+|shield=9
+|generator=2 000
+|hangar=15
+|cycle=00:04:00
+|productnum=[[Tempest Missile]] (1)
+|stationprice=
+|reqresources=
+|optresources=
+}}
+{{Infobox close}}
+==Overview==
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|+'''Racial Differences'''
+|-style="background-color:LightBlue;text-align:center;"
+!Race!!Food!!Amount!!Station Cost
+|- style="{{Colour/Boron}}"
+| [[Boron]] || [[Bofu]] || ||{{Priceblock||7,706,464}}
+|}
 
-{{Infobox open}} {{Infobox factory |faction= |station=Tempest Missile Factory |hull=1 000 000 |shield=9 |generator=2 000 |hangar=15 |cycle=00:04:00 |productnum=[[Tempest Missile]] (1) |stationprice= |reqresources= |optresources= }} {{Infobox close}} ==Overview== {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |+'''Racial Differences''' |-style="background-color:LightBlue;text-align:center;" !Race!!Food!!Amount!!Station Cost |- style="{{Colour/Boron}}" | [[Boron]] || [[Bofu]] || ||{{Priceblock||7,706,464}} |} ==Availability== '''Boron''' *[[Queen's Retribution]] *[[Depths of Silence]] ==Loop information== {{Stationcategory}}
+==Availability==
+
+'''Boron'''
+*[[Queen's Retribution]]
+*[[Depths of Silence]]
+
+==Loop information==
+
+{{Stationcategory}}

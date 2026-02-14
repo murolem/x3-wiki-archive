@@ -1,3 +1,19 @@
-<!-- source file: index__qf9247b6e27ec.html -->
+{{Infobox Sector
+|Race=Unknown
+|SecLevel=Border
+|Population=
+|Planets=
+|SunLevel=100
+|GateDist=
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|East|45400|	0|	0|[[Maelstrom]]}}
+{{Gateblock2|South|-36000|	0|	-40025|[[Unknown Sector (18,10)]]}}
+{{Gateblock2|West|-65000|	0|	0|[[Gaian Star]]}}
+</table>
+}}
+==Description==
+Mercenaries' Rift in AP
 
-{{Infobox Sector |Race=Unknown |SecLevel=Border |Population= |Planets= |SunLevel=100 |GateDist= |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|East|45400| 0| 0|[[Maelstrom]]}} {{Gateblock2|South|-36000| 0| -40025|[[Unknown Sector (18,10)]]}} {{Gateblock2|West|-65000| 0| 0|[[Gaian Star]]}} &lt;/table> }} ==Description== Mercenaries' Rift in AP ==Default [[Stations]]== ==[[Asteroids]]==
+==Default [[Stations]]==
+==[[Asteroids]]==

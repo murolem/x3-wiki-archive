@@ -1,3 +1,23 @@
-<!-- source file: index__q2e7f98f91e4d.html -->
+'''Cloning''' is an exploit that allows players to essentially copy any [[wares]] an [[Equipment Dock]] linked to a [[shipyard]] can stock.
 
-'''Cloning''' is an exploit that allows players to essentially copy any [[wares]] an [[Equipment Dock]] linked to a [[shipyard]] can stock. X: What the weapon is Y: Number of Z: What type of ship 1. Take at least "Y" (one minimum) of weapon "X" to an equipment dock that sells weapon "X" and is within range of a shipyard. 2. Sell "Y" weapon "X" at equipment dock 3. Buy "Y" number of ship "Z" at shipyard 4. At the outfitting stage buy "Y" of weapon "X" for all "Z" ships 5. Rinse &amp; repeat as much as you want Thus if you sold 3 [[SSC]] and bought 10 ships, then bought 3 SSC at the outfitting stage, you would then have 30 SSC (since 3 would go to all ships bought). This can be done with any given weapon that can be bought at a given equipment dock. ([[IBL]], [[PBG]], and [[PALC]], among others, cannot be cloned.) [[Category:Exploits]]
+
+X: What the weapon is
+
+Y: Number of
+
+Z: What type of ship
+
+
+1. Take at least "Y" (one minimum) of weapon "X" to an equipment dock that sells weapon "X" and is within range of a shipyard.
+
+2. Sell "Y" weapon "X" at equipment dock
+
+3. Buy "Y" number of ship "Z" at shipyard
+
+4. At the outfitting stage buy "Y" of weapon "X" for all "Z" ships
+
+5. Rinse & repeat as much as you want
+
+Thus if you sold 3 [[SSC]] and bought 10 ships, then bought 3 SSC at the outfitting stage, you would then have 30 SSC (since 3 would go to all ships bought). This can be done with any given weapon that can be bought at a given equipment dock. ([[IBL]], [[PBG]], and [[PALC]], among others, cannot be cloned.)
+
+[[Category:Exploits]]

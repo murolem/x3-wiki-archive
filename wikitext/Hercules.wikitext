@@ -1,3 +1,115 @@
-<!-- source file: index__qba984624a557.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Hercules
+|Faction=Paranid
+|Class={{TLclass}}
+|Priceblock={{Priceblock|| 19879848}}
+|Minspeed=64.4
+|Maxspeed=96.6
+|Minaccel=3
+|Maxaccel=4
+|Minsteer=0.3
+|Maxsteer=0.5
+|Hull=150000
+|Maxshield=200 MJ
+|Shieldslots=6
+|Maxshieldstrength=1200
+|Shieldreactor= 4000
+|Cargoclass=ST
+|Mincargo=40000
+|Maxcargo=40000
+|Lasercap=18800
+|Laserrecharge=188
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=1|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=2
+|ire=0|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=1|tbc=0|ebc=0|
+faa=1|gc=0|pbe=0|
+isr=1|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=1|tbc=0|ebc=0|
+faa=1|gc=0|pbe=0|
+isr=1|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay={{Dockbay|9 {{Fighterdock}}}}
+}}
+{{Infobox close}}
+==Overview==
+Arguably the best 'combat' TL if there is such a thing, the Hercules boasts above average shielding, speed and even firepower compared to its peers. Its compatibility with the [[PSG]] is what makes it effective in low level combat, since the AoE weaponry is overpowered. It is cheap and tough, and a decent choice for a first TL. Its station deploying capability is far surpassed by the [[Argon]] [[Mammoth]] and [[Boron]] [[Orca]], and potential complex builders will be frustrated by its relatively cramped freight space.
 
-{{Infobox open}} {{Infobox variant |Variant=Hercules |Faction=Paranid |Class={{TLclass}} |Priceblock={{Priceblock|| 19879848}} |Minspeed=64.4 |Maxspeed=96.6 |Minaccel=3 |Maxaccel=4 |Minsteer=0.3 |Maxsteer=0.5 |Hull=150000 |Maxshield=200 MJ |Shieldslots=6 |Maxshieldstrength=1200 |Shieldreactor= 4000 |Cargoclass=ST |Mincargo=40000 |Maxcargo=40000 |Lasercap=18800 |Laserrecharge=188 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=1|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Rear |Guncount=2 |ire=0|pac=1|hept=1| cig=0|ppc=0| md=0|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=1|tbc=0|ebc=0| faa=1|gc=0|pbe=0| isr=1|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Right |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=1|tbc=0|ebc=0| faa=1|gc=0|pbe=0| isr=1|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay={{Dockbay|9 {{Fighterdock}}}} }} {{Infobox close}} ==Overview== Arguably the best 'combat' TL if there is such a thing, the Hercules boasts above average shielding, speed and even firepower compared to its peers. Its compatibility with the [[PSG]] is what makes it effective in low level combat, since the AoE weaponry is overpowered. It is cheap and tough, and a decent choice for a first TL. Its station deploying capability is far surpassed by the [[Argon]] [[Mammoth]] and [[Boron]] [[Orca]], and potential complex builders will be frustrated by its relatively cramped freight space. ==Background== This ship is the largest transporter in the Paranid Fleet. It is too big to dock at space stations and employs a fleet of shuttlecraft to load and unload its cargo. It is commanded by a lesser Priest Baron, who is directly under the command of its original space station Priest Duke commander. It is believed that many of these ships can be hired for certain commissions - however those conditions do not apply to members of the Argon race. ==Physical Characteristics== Its appearance is not unlike the [[Zeus]] but with a slightly larger fuselage. == Combat == The Hercules has the ability to mount a range of weapons that give it better potential self-defense ability than other [[TL]]s, although even with its increased shield capacity it's still highly vulnerable to being attacked by [[M6]] or larger sized craft, who can very rapidly eliminate its shields and start destroying its hull. == Equipment == == Availability == At any Paranid shipyard. == Suggested Roles== The Hercules is quite capable of defending itself against fighters and corvettes thanks to its [[Phased Shockwave Generator|PSG]] compatibility; even so, it is still not meant to be a combat vessel both IS and OOS as frigates and other larger capital ships can quickly turn it into space debris because, like all TLs, it does not have 1 GJ shielding compatibility (though, 6 200 MJ shields technically gives it 1.2 GJ worth of shielding) and it does not have the energy generator to recharge its weapons quickly. Its only role is as a space station carrying "porcupine": namely, a TL-ship with powerful defensive capability against fighters and corvettes while hauling entire loads of space stations to other sectors. == See Also== {{TL}} [[Category: Carrier]] {{Paranid Navbox}}
+==Background==
+This ship is the largest transporter in the Paranid Fleet. It is too big to dock at space stations and employs a fleet of shuttlecraft to load and unload its cargo. It is commanded by a lesser Priest Baron, who is directly under the command of its original space station Priest Duke commander. It is believed that many of these ships can be hired for certain commissions - however those conditions do not apply to members of the Argon race.
+
+==Physical Characteristics==
+
+Its appearance is not unlike the [[Zeus]] but with a slightly larger fuselage.
+
+== Combat ==
+The Hercules has the ability to mount a range of weapons that give it better potential self-defense ability than other [[TL]]s, although even with its increased shield capacity it's still highly vulnerable to being attacked by [[M6]] or larger sized craft, who can very rapidly eliminate its shields and start destroying its hull.
+
+== Equipment ==
+== Availability ==
+
+At any Paranid shipyard.
+
+== Suggested Roles==
+
+The Hercules is quite capable of defending itself against fighters and corvettes thanks to its [[Phased Shockwave Generator|PSG]] compatibility; even so, it is still not meant to be a combat vessel both IS and OOS as frigates and other larger capital ships can quickly turn it into space debris because, like all TLs, it does not have 1 GJ shielding compatibility (though, 6 200 MJ shields technically gives it 1.2 GJ worth of shielding) and it does not have the energy generator to recharge its weapons quickly. Its only role is as a space station carrying "porcupine": namely, a TL-ship with powerful defensive capability against fighters and corvettes while hauling entire loads of space stations to other sectors.
+
+== See Also==
+{{TL}}
+[[Category: Carrier]]
+
+
+{{Paranid Navbox}}

@@ -1,3 +1,435 @@
-<!-- source file: index__qc743efa9fea4.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Falcon
+|Faction=Teladi
+|Class={{M3class}}
+|Priceblock={{Priceblock| Shareholder | 2508112}}
+|Minspeed= 54.5 
+|Maxspeed=120
+|Minaccel= 8.8 
+|Maxaccel= 19.36 
+|Minsteer= 16.25 
+|Maxsteer= 35.75 
+|Hull=12000
+|Maxshield=25 MJ
+|Shieldslots=4
+|Maxshieldstrength=100
+|Shieldreactor= 660 
+|Cargoclass=L
+|Mincargo=53
+|Maxcargo= 283 
+|Lasercap= 3,700 
+|Laserrecharge= 92 
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Falcon Hauler
+|Faction=Teladi
+|Class={{M3class}}
+|Priceblock={{Priceblock|Shareholder | 2790167 }}
+|Minspeed=60
+|Maxspeed= 132
+|Minaccel= 7.55 
+|Maxaccel= 16.61 
+|Minsteer= 13.81 
+|Maxsteer= 30.38 
+|Hull= 13,320
+|Maxshield=200 MJ
+|Shieldslots=1
+|Maxshieldstrength=200
+|Shieldreactor= 660
+|Cargoclass= XL
+|Mincargo= 66 
+|Maxcargo= 353
+|Lasercap= 3700 
+|Laserrecharge= 92 
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Falcon Sentinel
+|Faction=Teladi
+|Class={{M3class}}
+|Priceblock=
+|Minspeed=49.0
+|Maxspeed=107.9
+|Minaccel=6
+|Maxaccel=15
+|Minsteer=13.3
+|Maxsteer=29.3
+|Hull=12000
+|Maxshield=200 MJ
+|Shieldslots=2
+|Maxshieldstrength=400
+|Shieldreactor=726 
+|Cargoclass=L
+|Mincargo=47
+|Maxcargo=254
+|Lasercap=3700
+|Laserrecharge=92
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main 
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Falcon Vanguard
+|Faction=Teladi
+|Class={{M3class}}
+|Priceblock={{Priceblock|Shareholder | 3072853}}
+|Minspeed=44.7
+|Maxspeed=98.3
+|Minaccel=9 
+|Maxaccel=20
+|Minsteer=17.1
+|Maxsteer=37.5
+|Hull= 12400
+|Maxshield=200 MJ
+|Shieldslots=1
+|Maxshieldstrength=200
+|Shieldreactor= 726
+|Cargoclass= L
+|Mincargo= 50 
+|Maxcargo= 268
+|Lasercap= 4440
+|Laserrecharge= 111
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Falcon Prototype
+|Faction=Teladi
+|Class={{M3class}}
+|Priceblock=
+|Minspeed=60.0
+|Maxspeed=132.0
+|Minaccel=9
+|Maxaccel=21
+|Minsteer=17.1
+|Maxsteer=37.5 
+|Hull= 
+|Maxshield=25 MJ
+|Shieldslots=4
+|Maxshieldstrength=100
+|Shieldreactor= 726
+|Cargoclass= L
+|Mincargo= 50
+|Maxcargo= 353
+|Lasercap= 4440
+|Laserrecharge= 
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Falcon
+|Faction=Pirate
+|Class={{M3class}}
+|Priceblock=
+|Minspeed=56.7
+|Maxspeed=130.4
+|Minaccel=14
+|Maxaccel=33
+|Minsteer=19.3
+|Maxsteer=44.3
+|Hull=
+|Maxshield=25 MJ
+|Shieldslots=2
+|Maxshieldstrength=50
+|Shieldreactor= 570
+|Cargoclass=L
+|Mincargo=124
+|Maxcargo=374
+|Lasercap=4100
+|Laserrecharge=102
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Falcon Vanguard
+|Faction=Pirate
+|Class={{M3class}}
+|Priceblock=
+|Minspeed=62.3
+|Maxspeed=137.2
+|Minaccel=15
+|Maxaccel=33
+|Minsteer=25.5
+|Maxsteer=56.2
+|Hull=9500
+|Maxshield=25 MJ
+|Shieldslots=3
+|Maxshieldstrength=75
+|Shieldreactor= 825
+|Cargoclass=M
+|Mincargo=57
+|Maxcargo=72
+|Lasercap=7440
+|Laserrecharge=186
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
 
-{{Infobox open}} {{Infobox variant |Variant=Falcon |Faction=Teladi |Class={{M3class}} |Priceblock={{Priceblock| Shareholder | 2508112}} |Minspeed= 54.5 |Maxspeed=120 |Minaccel= 8.8 |Maxaccel= 19.36 |Minsteer= 16.25 |Maxsteer= 35.75 |Hull=12000 |Maxshield=25 MJ |Shieldslots=4 |Maxshieldstrength=100 |Shieldreactor= 660 |Cargoclass=L |Mincargo=53 |Maxcargo= 283 |Lasercap= 3,700 |Laserrecharge= 92 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Falcon Hauler |Faction=Teladi |Class={{M3class}} |Priceblock={{Priceblock|Shareholder | 2790167 }} |Minspeed=60 |Maxspeed= 132 |Minaccel= 7.55 |Maxaccel= 16.61 |Minsteer= 13.81 |Maxsteer= 30.38 |Hull= 13,320 |Maxshield=200 MJ |Shieldslots=1 |Maxshieldstrength=200 |Shieldreactor= 660 |Cargoclass= XL |Mincargo= 66 |Maxcargo= 353 |Lasercap= 3700 |Laserrecharge= 92 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Falcon Sentinel |Faction=Teladi |Class={{M3class}} |Priceblock= |Minspeed=49.0 |Maxspeed=107.9 |Minaccel=6 |Maxaccel=15 |Minsteer=13.3 |Maxsteer=29.3 |Hull=12000 |Maxshield=200 MJ |Shieldslots=2 |Maxshieldstrength=400 |Shieldreactor=726 |Cargoclass=L |Mincargo=47 |Maxcargo=254 |Lasercap=3700 |Laserrecharge=92 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Falcon Vanguard |Faction=Teladi |Class={{M3class}} |Priceblock={{Priceblock|Shareholder | 3072853}} |Minspeed=44.7 |Maxspeed=98.3 |Minaccel=9 |Maxaccel=20 |Minsteer=17.1 |Maxsteer=37.5 |Hull= 12400 |Maxshield=200 MJ |Shieldslots=1 |Maxshieldstrength=200 |Shieldreactor= 726 |Cargoclass= L |Mincargo= 50 |Maxcargo= 268 |Lasercap= 4440 |Laserrecharge= 111 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Falcon Prototype |Faction=Teladi |Class={{M3class}} |Priceblock= |Minspeed=60.0 |Maxspeed=132.0 |Minaccel=9 |Maxaccel=21 |Minsteer=17.1 |Maxsteer=37.5 |Hull= |Maxshield=25 MJ |Shieldslots=4 |Maxshieldstrength=100 |Shieldreactor= 726 |Cargoclass= L |Mincargo= 50 |Maxcargo= 353 |Lasercap= 4440 |Laserrecharge= |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Falcon |Faction=Pirate |Class={{M3class}} |Priceblock= |Minspeed=56.7 |Maxspeed=130.4 |Minaccel=14 |Maxaccel=33 |Minsteer=19.3 |Maxsteer=44.3 |Hull= |Maxshield=25 MJ |Shieldslots=2 |Maxshieldstrength=50 |Shieldreactor= 570 |Cargoclass=L |Mincargo=124 |Maxcargo=374 |Lasercap=4100 |Laserrecharge=102 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Falcon Vanguard |Faction=Pirate |Class={{M3class}} |Priceblock= |Minspeed=62.3 |Maxspeed=137.2 |Minaccel=15 |Maxaccel=33 |Minsteer=25.5 |Maxsteer=56.2 |Hull=9500 |Maxshield=25 MJ |Shieldslots=3 |Maxshieldstrength=75 |Shieldreactor= 825 |Cargoclass=M |Mincargo=57 |Maxcargo=72 |Lasercap=7440 |Laserrecharge=186 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The Falcon is used as a trading vessel as often as a fighter, due to its large cargobay, better survivability than standard freighters and the ability to dock an infinite number at certain player-owned trading stations. ==Background== ===Encyclopedia Entry=== The Teladi Falcon fighter is a hybrid between the old Argon Elite and the Boron Piranha, with some Split technology thrown in for good measure. It is fast, well armed and can be found operating in most sectors. It is suspected that some of these ships have been leased by the Teladi Company Space Fleet to operate on behalf of the pirates, although to date no actual proof of this agreement can be established. ==Variants== ===Falcon=== The standard Teladi Falcon is like many Teladi ships, with poor overall performance but an enhanced cargo bay. It is very slow for an [[M3]] but does have better than average maximum shielding, though this is largely negated by the poor recharge rate of the shields. ===Falcon Sentinel=== Falcon Sentinel - this is a unique Teladi M3 fighter which can normally only be found in a specific sector. On rare occasions they are sold second-hand, or their blueprints. This ship has a special design feature to utilize two 200MJ shields (400MJ). This makes it the most shielded fighter in the X Universe and comparable to some Corvette class ships. However it sacrifices speed for shielding, making it one of the slowest fighters and includes a poor shield generator, which means it takes a long time to charge back up its shielding. ===Falcon Hauler=== A favourite carrier fighter due to its cargobay (for ammunition) and shielding, the Falcon Hauler is a fairly cheap M3, with the unique ability to carry XL cargo like [[Asteroids|minerals]]. It uses one 200Mj shield and is quite slow, useful for AI control. Its laser generator is small, though it can use the [[Energy Bolt Chaingun]], which requires ammunition instead of power. This ship is also used as a cargo shuttle for carriers and TLs. ===Falcon Vanguard=== Falcon Vanguards are combat-oriented. They have improved shielding and firepower potential, while retaining the trademark gigantic cargobay of all Falcon variants, though they sacrifice some speed in order to make this possible. ===Falcon Prototype=== Overall, Falcon Prototypes are mediocre M3s at best. Their only noteable feature is their large cargobay, but their above average shielding doesn't count for much considering their slowness and lack of firepower potential. ===Pirate Falcon=== Pirate Falcons are among the most common [[M3]]s employed by pirates. Like many pirate ships, they have poor performance. In fact, they are probably one of the worst [[M3]]s in the game, with sluggishness, poor protection, and bad generators for shielding and weapons. However, when compared to the original variant, the pirate version has slightly improved speed, better acceleration, and a much larger-than-normal cargo space, even slightly outranking the Hauler and Prototype variants in the latter category; this makes it somewhat decent as a mini-freighter if one wants to fulfill a particular niche for this vessel. ===Pirate Falcon Vanguard=== Pirate Falcon Vanguards represent an improved threat over regular Pirate Falcons, because they are faster and better shielded. However, they do this at the expense of the cargobay which the Falcon is so well known for. All in all, they are still some of the weakest [[M3]]s out there since they can easily be outrunned and outgunned. ==Physical Characteristics== The Falcon's appearance is comprised of a train-shaped fuselage with its engines and wings strapped to its rear; the wings taking a different form in any of its variants. The vessel's homely looking paintwork gives off a rusty feel in its eminence. == Combat == The Sentinel and Hauler variants are sometimes favoured by players for [[Out-of-Sector]] fleets because of the OOS combat resolution algorithm. Because OOS damage is aggregated ships with high shielding will 'statistically' have a higher chance of survival regardless of speed or maneuverability. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] | *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] | *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] *[[Aurora Missile]] | *[[Remote Guided Warhead]] *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] | *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == The Pirate, Sentinel and Prototype variants may only be captured. {| style="text-align:center;" |- style="{{Colour/Teladi}}" ! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]] |- ! style="text-align:left;" | Falcon || x || x || || || || x |- ! style="text-align:left;" | Falcon Hauler || x || || || x || x || |- ! style="text-align:left;" | Falcon Vanguard || x || || x || || || |} Available as one of many [[Ownerless ships]] == Suggested Roles== Some players have kitted carrier-based Falcon Haulers out as missile boats for anti-capital work by packing their cavernous cargo bays with Tornado missiles. This requires construction of a supply train. == See Also== * [[Kea|Teladi Kea]] {{M3}} {{Teladi Navbox}}
+==Overview==
+The Falcon is used as a trading vessel as often as a fighter, due to its large cargobay, better survivability than standard freighters and the ability to dock an infinite number at certain player-owned trading stations.
+
+==Background==
+===Encyclopedia Entry===
+The Teladi Falcon fighter is a hybrid between the old Argon Elite and the Boron Piranha, with some Split technology thrown in for good measure. It is fast, well armed and can be found operating in most sectors. It is suspected that some of these ships have been leased by the Teladi Company Space Fleet to operate on behalf of the pirates, although to date no actual proof of this agreement can be established.
+==Variants==
+===Falcon===
+The standard Teladi Falcon is like many Teladi ships, with poor overall performance but an enhanced cargo bay. It is very slow for an [[M3]] but does have better than average maximum shielding, though this is largely negated by the poor recharge rate of the shields.
+
+===Falcon Sentinel===
+Falcon Sentinel - this is a unique Teladi M3 fighter which can normally only be found in a specific sector. On rare occasions they are sold second-hand, or their blueprints. This ship has a special design feature to utilize two 200MJ shields (400MJ). This makes it the most shielded fighter in the X Universe and comparable to some Corvette class ships.
+
+However it sacrifices speed for shielding, making it one of the slowest fighters and includes a poor shield generator, which means it takes a long time to charge back up its shielding.
+
+===Falcon Hauler===
+A favourite carrier fighter due to its cargobay (for ammunition) and shielding, the Falcon Hauler is a fairly cheap M3, with the unique ability to carry XL cargo like [[Asteroids|minerals]]. It uses one 200Mj shield and is quite slow, useful for AI control. Its laser generator is small, though it can use the [[Energy Bolt Chaingun]], which requires ammunition instead of power. This ship is also used as a cargo shuttle for carriers and TLs.
+
+===Falcon Vanguard===
+Falcon Vanguards are combat-oriented. They have improved shielding and firepower potential, while retaining the trademark gigantic cargobay of all Falcon variants, though they sacrifice some speed in order to make this possible.
+
+===Falcon Prototype===
+Overall, Falcon Prototypes are mediocre M3s at best. Their only noteable feature is their large cargobay, but their above average shielding doesn't count for much considering their slowness and lack of firepower potential.
+
+===Pirate Falcon===
+Pirate Falcons are among the most common [[M3]]s employed by pirates. Like many pirate ships, they have poor performance. In fact, they are probably one of the worst [[M3]]s in the game, with sluggishness, poor protection, and bad generators for shielding and weapons. However, when compared to the original variant, the pirate version has slightly improved speed, better acceleration, and a much larger-than-normal cargo space, even slightly outranking the Hauler and Prototype variants in the latter category; this makes it somewhat decent as a mini-freighter if one wants to fulfill a particular niche for this vessel.
+
+===Pirate Falcon Vanguard===
+Pirate Falcon Vanguards represent an improved threat over regular Pirate Falcons, because they are faster and better shielded. However, they do this at the expense of the cargobay which the Falcon is so well known for. All in all, they are still some of the weakest [[M3]]s out there since they can easily be outrunned and outgunned.
+
+==Physical Characteristics==
+
+The Falcon's appearance is comprised of a train-shaped fuselage with its engines and wings strapped to its rear; the wings taking a different form in any of its variants. The vessel's homely looking paintwork gives off a rusty feel in its eminence.
+
+== Combat ==
+The Sentinel and Hauler variants are sometimes favoured by players for [[Out-of-Sector]] fleets because of the OOS combat resolution algorithm. Because OOS damage is aggregated ships with high shielding will 'statistically' have a higher chance of survival regardless of speed or maneuverability.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+|
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+|
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Aurora Missile]]
+|
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+|
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+== Availability ==
+The Pirate, Sentinel and Prototype variants may only be captured.
+
+{| style="text-align:center;"
+|- style="{{Colour/Teladi}}"
+! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]]
+|-
+! style="text-align:left;" | Falcon || x || x ||  ||   ||   || x
+|-
+! style="text-align:left;" | Falcon Hauler || x ||   ||   || x || x ||  
+|-
+! style="text-align:left;" | Falcon Vanguard || x ||   || x ||   ||   || 
+|}
+
+Available as one of many [[Ownerless ships]]
+
+== Suggested Roles==
+Some players have kitted carrier-based Falcon Haulers out as missile boats for anti-capital work by packing their cavernous cargo bays with Tornado missiles.  This requires construction of a supply train.
+
+== See Also==
+* [[Kea|Teladi Kea]]
+{{M3}}
+
+
+{{Teladi Navbox}}

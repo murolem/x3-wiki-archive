@@ -1,3 +1,64 @@
-<!-- source file: index__q0e5038bfc31b.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Valkyrie
+|Faction=ATF
+|Class={{M5class}}
+|Priceblock={{priceblock||41034}}
+|Minspeed=134.5
+|Maxspeed=470.7
+|Minaccel=55
+|Maxaccel=195
+|Minsteer=17.5
+|Maxsteer=61.4
+|Hull=1100 / 2200 (AP)
+|Maxshield=1 MJ
+|Shieldslots=5
+|Maxshieldstrength=5
+|Shieldreactor= 140
+|Cargoclass=M
+|Mincargo=23
+|Maxcargo=96
+|Lasercap=1000
+|Laserrecharge=25
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=5
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+Like the Terran Rapier, the Valkyrie mounts the potent Electromagnetic Plasma Cannon on a scout chassis. It can carry the [[Triplex Scanner]] but as it is not available until late in the plot series, it is unlikely to be as useful as the other M-sized scout ships.
 
-{{Infobox open}} {{Infobox variant |Variant=Valkyrie |Faction=ATF |Class={{M5class}} |Priceblock={{priceblock||41034}} |Minspeed=134.5 |Maxspeed=470.7 |Minaccel=55 |Maxaccel=195 |Minsteer=17.5 |Maxsteer=61.4 |Hull=1100 / 2200 (AP) |Maxshield=1 MJ |Shieldslots=5 |Maxshieldstrength=5 |Shieldreactor= 140 |Cargoclass=M |Mincargo=23 |Maxcargo=96 |Lasercap=1000 |Laserrecharge=25 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=5 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== Like the Terran Rapier, the Valkyrie mounts the potent Electromagnetic Plasma Cannon on a scout chassis. It can carry the [[Triplex Scanner]] but as it is not available until late in the plot series, it is unlikely to be as useful as the other M-sized scout ships. ==Background== ==Physical Characteristics== == Combat == The Valkyrie has a huge weapon power for its class, rivalling most [[M4]]s. Its shields are light by M4 standards but as M5s go, the Valkyrie is arguably the most effective in combat, and the only M5 that can hold its own. == Equipment == * [[Poltergeist Missile]] == Availability == The Valkyrie is available only as a reward for completion of the Balance of Power plotline, and can only be manufactured at the player's HQ. Like all Terran ships, it is difficult and very expensive to source weapons for it. == Suggested Roles== == See Also== {{M5}} {{M5category}} {{ATF Navbox}}
+==Background==
+==Physical Characteristics==
+== Combat ==
+The Valkyrie has a huge weapon power for its class, rivalling most [[M4]]s. Its shields are light by M4 standards but as M5s go, the Valkyrie is arguably the most effective in combat, and the only M5 that can hold its own.
+
+== Equipment ==
+
+* [[Poltergeist Missile]]
+
+== Availability ==
+The Valkyrie is available only as a reward for completion of the Balance of Power plotline, and can only be manufactured at the player's HQ. Like all Terran ships, it is difficult and very expensive to source weapons for it.
+
+== Suggested Roles==
+== See Also==
+
+{{M5}}
+
+{{M5category}}
+{{ATF Navbox}}

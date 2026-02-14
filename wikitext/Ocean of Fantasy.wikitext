@@ -1,3 +1,90 @@
-<!-- source file: index__q6a95d148b619.html -->
+{{Infobox Sector
+|Race=Boron
+|SecLevel=Border
+|Population=60406142
+|Planets=2
+|SunLevel=150
+|GateDist=70
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|3500|-4720|32200|[[Bluish Snout]]}}
+{{Gateblock2|South|9530|9010|-32200|[[Family Ryk]]}}
+{{Gateblock2|West|-32200|0|-5250|[[Hila's Joy]]}}
+{{Gateblock/End}}
+}}
+==Description==
+This system was the center of the Xenon weapons test zone during the last conflict. The system's planet was blown apart by an experimental weapon, probably the rumored 'Galaxy Killer' device - used to vaporise and ignite the still burning 'Hadesfire Nebulae'. It is now a laid-back Boron mining and farming colony.
 
-{{Infobox Sector |Race=Boron |SecLevel=Border |Population=60406142 |Planets=2 |SunLevel=150 |GateDist=70 |Gates={{Gateblock/Begin}} {{Gateblock2|North|3500|-4720|32200|[[Bluish Snout]]}} {{Gateblock2|South|9530|9010|-32200|[[Family Ryk]]}} {{Gateblock2|West|-32200|0|-5250|[[Hila's Joy]]}} {{Gateblock/End}} }} ==Description== This system was the center of the Xenon weapons test zone during the last conflict. The system's planet was blown apart by an experimental weapon, probably the rumored 'Galaxy Killer' device - used to vaporise and ignite the still burning 'Hadesfire Nebulae'. It is now a laid-back Boron mining and farming colony. ==Shipyard Availability== {{Shipyard/Begin|Station|ST Size|Cost}} {{Shipyard/Station|Quantum Tube Fab||13500|5,051,080}} {{Shipyard/Station|Mosquito Missile Factory||10000|551,852}} {{Shipyard/Station|Satellite Factory||16500|876,472}} {{Shipyard/Station|Ion Cannon Forge||19000|14,096,276}} {{Shipyard/Station|Plankton Farm|L|13500|799,992}} {{Shipyard/Station|Bio Gas Factory|M|11000|224,636}} {{Shipyard/Station|Stott Mixery|M|12500|1,103,708}} {{Shipyard/Station|BoFu Chemical Lab|M|10000|809,992}} {{Shipyard/Station|Solar Power Plant|XL|22000|17,607,360}} {{Shipyard/Station|Ore Mine|L|12000|1,139,416}} {{Shipyard/Station|Silicon Mine|M|9500|623,268}} {{Shipyard/Station|Complex Construction Kit||4250|259,698}} {{Shipyard/End}} {{Shipyard/Begin|Ship|Class|Cost}} {{Shipyard/Ship1|Orca|TL|22,344,668}} {{Shipyard/Ship2|Dolphin|Tanker|TS|258,606}} {{Shipyard/Ship2|Manta|Hauler|TP|1,283,717}} {{Shipyard/Ship1|Pleco|TM|462,558}} {{Shipyard/Ship1|Shark|M1|61,790,791}} {{Shipyard/Ship1|Ray|M2|86,438,545}} {{Shipyard/Ship1|Barracuda|M3|1,484,003}} {{Shipyard/Ship1|Skate|M3+|5,171,351}} {{Shipyard/Ship2|Mako|Sentinel|M4|589,612}} {{Shipyard/Ship1|Pike|M4+|797,068}} {{Shipyard/Ship2|Octopus|Vanguard|M5|66,781}} {{Shipyard/Ship1|Hydra|M6|8,766,030}} {{Shipyard/Ship1|Thresher|M7|38,206,712}} {{Shipyard/Ship1|Megalodon|M2+|128,475,928}} {{Shipyard/End}} *Note: [[Megalodon]] is available in Albion Prelude ==Default [[Stations]]== *[[Royal Boron Shipyard]] *Boron [[Equipment Dock]] *[[Royal Boron Trading Station]] *[[BoFu Chemical Lab]] L alpha *[[BoFu Chemical Lab]] L beta *[[Concussion Impulse Generator Forge]] alpha *[[Drone Factory]] alpha *[[Ore Mine]] L gamma *[[Ore Mine]] M alpha *[[Ore Mine]] M beta *[[Silicon Mine]] L alpha *[[Silicon Mine]] M beta ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|45|-19082|-13586|-18125}} {{Asteroid/Item|Ore|37|-17230|9047|12185}} {{Asteroid/Item|Ore|31|721|13103|58671}} {{Asteroid/Item|Ore|31|721|13103|58671}} {{Asteroid/Item|Ore|15|-12993|8142|2508}} {{Asteroid/Item|Ore|14|7701|-1499|28079}} {{Asteroid/Item|Ore|14|-12298|-1869|-23952}} {{Asteroid/Item|Ore|8|9427|12020|-15519}} {{Asteroid/Item|Ore|7|-25175|-5705|-871}} {{Asteroid/Item|Ore|7|5894|-5994|-14434}} {{Asteroid/Item|Ore|6|-10813|4840|-14909}} {{Asteroid/Item|Silicon|32|12139|-3062|18155}} {{Asteroid/Item|Silicon|23|-17258|-3573|-14761}} {{Asteroid/Item|Silicon|16|4551|-4741|13449}} {{Asteroid/Item|Silicon|11|-19820|-7962|4134}} {{Asteroid/Item|Silicon|10|-4560|-4187|14877}} {{Asteroid/Item|Silicon|8|8251|6452|20222}} {{Asteroid/Item|Silicon|8|500|3034|16286}} {{Asteroid/Item|Silicon|4|14733|3400|31152}} {{Asteroid/End}} == See Also == {{Boron Navbox}}
+
+==Shipyard Availability==
+{{Shipyard/Begin|Station|ST Size|Cost}}
+{{Shipyard/Station|Quantum Tube Fab||13500|5,051,080}}
+{{Shipyard/Station|Mosquito Missile Factory||10000|551,852}}
+{{Shipyard/Station|Satellite Factory||16500|876,472}}
+{{Shipyard/Station|Ion Cannon Forge||19000|14,096,276}}
+{{Shipyard/Station|Plankton Farm|L|13500|799,992}}
+{{Shipyard/Station|Bio Gas Factory|M|11000|224,636}}
+{{Shipyard/Station|Stott Mixery|M|12500|1,103,708}}
+{{Shipyard/Station|BoFu Chemical Lab|M|10000|809,992}}
+{{Shipyard/Station|Solar Power Plant|XL|22000|17,607,360}}
+{{Shipyard/Station|Ore Mine|L|12000|1,139,416}}
+{{Shipyard/Station|Silicon Mine|M|9500|623,268}}
+{{Shipyard/Station|Complex Construction Kit||4250|259,698}}
+{{Shipyard/End}}
+{{Shipyard/Begin|Ship|Class|Cost}}
+{{Shipyard/Ship1|Orca|TL|22,344,668}}
+{{Shipyard/Ship2|Dolphin|Tanker|TS|258,606}}
+{{Shipyard/Ship2|Manta|Hauler|TP|1,283,717}}
+{{Shipyard/Ship1|Pleco|TM|462,558}}
+{{Shipyard/Ship1|Shark|M1|61,790,791}}
+{{Shipyard/Ship1|Ray|M2|86,438,545}}
+{{Shipyard/Ship1|Barracuda|M3|1,484,003}}
+{{Shipyard/Ship1|Skate|M3+|5,171,351}}
+{{Shipyard/Ship2|Mako|Sentinel|M4|589,612}}
+{{Shipyard/Ship1|Pike|M4+|797,068}}
+{{Shipyard/Ship2|Octopus|Vanguard|M5|66,781}}
+{{Shipyard/Ship1|Hydra|M6|8,766,030}}
+{{Shipyard/Ship1|Thresher|M7|38,206,712}}
+{{Shipyard/Ship1|Megalodon|M2+|128,475,928}}
+{{Shipyard/End}}
+*Note: [[Megalodon]] is available in Albion Prelude
+
+==Default [[Stations]]==
+*[[Royal Boron Shipyard]]
+*Boron [[Equipment Dock]]
+*[[Royal Boron Trading Station]]
+*[[BoFu Chemical Lab]] L alpha
+*[[BoFu Chemical Lab]] L beta
+*[[Concussion Impulse Generator Forge]] alpha
+*[[Drone Factory]] alpha
+*[[Ore Mine]] L gamma
+*[[Ore Mine]] M alpha
+*[[Ore Mine]] M beta
+*[[Silicon Mine]] L alpha
+*[[Silicon Mine]] M beta
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|45|-19082|-13586|-18125}}
+{{Asteroid/Item|Ore|37|-17230|9047|12185}}
+{{Asteroid/Item|Ore|31|721|13103|58671}}
+{{Asteroid/Item|Ore|31|721|13103|58671}}
+{{Asteroid/Item|Ore|15|-12993|8142|2508}}
+{{Asteroid/Item|Ore|14|7701|-1499|28079}}
+{{Asteroid/Item|Ore|14|-12298|-1869|-23952}}
+{{Asteroid/Item|Ore|8|9427|12020|-15519}}
+{{Asteroid/Item|Ore|7|-25175|-5705|-871}}
+{{Asteroid/Item|Ore|7|5894|-5994|-14434}}
+{{Asteroid/Item|Ore|6|-10813|4840|-14909}}
+{{Asteroid/Item|Silicon|32|12139|-3062|18155}}
+{{Asteroid/Item|Silicon|23|-17258|-3573|-14761}}
+{{Asteroid/Item|Silicon|16|4551|-4741|13449}}
+{{Asteroid/Item|Silicon|11|-19820|-7962|4134}}
+{{Asteroid/Item|Silicon|10|-4560|-4187|14877}}
+{{Asteroid/Item|Silicon|8|8251|6452|20222}}
+{{Asteroid/Item|Silicon|8|500|3034|16286}}
+{{Asteroid/Item|Silicon|4|14733|3400|31152}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Boron Navbox}}

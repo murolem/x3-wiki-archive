@@ -1,3 +1,16 @@
-<!-- source file: index__q481058c828de.html -->
+{{Infobox open}}
+{{Infobox missile|Missile= Needle |Yield=7450|Speed=174|Range=26.7|Cooldown=500|Seeker=Targetted|Submunitions=1|Fusing=Proximity|Torpedoclass=|Guidance=Image-recognition|AoE=}}
+{{Infobox ware|ware= Needle |cargoclass=S|volume=2|minprice=6673|aveprice= 6740  |maxprice=6807}}
+{{Infobox close}}
+==Overview==
+The Needle is the Kha'ak medium missile, compatible with all Kha'ak ships but usually found on fighters.
 
-{{Infobox open}} {{Infobox missile|Missile= Needle |Yield=7450|Speed=174|Range=26.7|Cooldown=500|Seeker=Targetted|Submunitions=1|Fusing=Proximity|Torpedoclass=|Guidance=Image-recognition|AoE=}} {{Infobox ware|ware= Needle |cargoclass=S|volume=2|minprice=6673|aveprice= 6740 |maxprice=6807}} {{Infobox close}} ==Overview== The Needle is the Kha'ak medium missile, compatible with all Kha'ak ships but usually found on fighters. ===Encyclopedia Entry=== This is a missile that will explode near the target ship which can paralyze the target. It has a deadly power against all Fighter ships. Mostly used in Kha'ak Fighters. ==Commentary== The Needle can down a [[M5|scout]] and deal serious damage to, if not destroy, most [[M4+|light fighters]] and [[M4|interceptors]]. Should be respected by any pilot flying one of these ships. However, the relatively slow speed of the missile means it is vulnerable to being shot down with a good eye. [[Category:Kha'ak missiles]] [[Category:Not Purchasable]] {{Missile Navbox}}
+===Encyclopedia Entry===
+This is a missile that will explode near the target ship which can paralyze the target. It has a deadly power against all Fighter ships. Mostly used in Kha'ak Fighters.
+
+==Commentary==
+The Needle can down a [[M5|scout]] and deal serious damage to, if not destroy, most [[M4+|light fighters]] and [[M4|interceptors]]. Should be respected by any pilot flying one of these ships. However, the relatively slow speed of the missile means it is vulnerable to being shot down with a good eye.
+
+[[Category:Kha'ak missiles]]
+[[Category:Not Purchasable]]
+{{Missile Navbox}}

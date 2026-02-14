@@ -1,3 +1,122 @@
-<!-- source file: index__q08d045dd7829.html -->
+An [[Editing Cheat Sheet]] with information on Discussion pages, links, headings(sections), and more references.
+==Links==
+Specific to this wiki the letters h-t-t-p are filtered to combat automated link spam. the local workaround is the template <nowiki>{{linky}}</nowiki> which adds h-t-t-p://.
+hopefully botters won't script it into their programs just to spam this site.
 
-An [[Editing Cheat Sheet]] with information on Discussion pages, links, headings(sections), and more references. ==Links== Specific to this wiki the letters h-t-t-p are filtered to combat automated link spam. the local workaround is the template &lt;nowiki>{{linky}}&lt;/nowiki> which adds h-t-t-p://. hopefully botters won't script it into their programs just to spam this site. apologies for the inconvenience. ==Excel to wiki table converter== Just paste the output on our wiki =) {{linky}}excel2wiki.net/index.php ==General HTML information== w3sch-ools homepage:&lt;bR> ht-tp://www.w3sc-hools.com/html/default.asp table page:&lt;br> ht-tp://www.w3sc-hools.com/html/html_tables.asp CSS tutorial main page:&lt;br> ht-tp://www.w3sc-hools.com/css/default.asp for css i'd recommend learning the keywords like: background-color. code formatting ie: &lt;pre>&lt;th style="background-color:black;color:white;>"&lt;/pre> but take the examples with a grain of salt since they seem to formatted more for a header and less as inline usage as you'll probably be employing here. a color palette: {{linky}}www.webreference.com/html/reference/color/websafe.html#HEAD-3 ==Picking new page names== You may want to select the singular version of the topic you're writing about, this will simplify linking it in the future. so naming a page dock instead of docking will permit linking by &lt;nowiki>[[dock]]ing&lt;/nowiki> similarly for ship vs. ships. general wikipedia style suggests the opposite, but that may be subject to change. doing it the other way requires use of aliasing to create the right link with the desired text. ===Some basic commands=== links put your text between &lt;nowiki>[[text]] &lt;/nowiki>to link it to the page with the same name. Afterwords you can create that page by clicking the link.&lt;br> You can use different text than the linked page by adding a bar like:&lt;nowiki>[[text|different text]]&lt;/nowiki> which would link to text but display different text. Best thing for stuff like ships etc is to put it in a sortable table. This way you can sort it on race price or anything else. With this it is also possible to sort (for example) argon m4 ships. Create new table example Please not that every column of a row starts with a | and the title of a column with !! at the top. You only need to add the names ones and can then keep adding rows. : #{| class="prettytable sortable" border="1" cellpadding="5" cellspacing="0" #|+ All Ships # ! Name !! Race !! class !! Max shields !! Num shields !! Shield type !! Turrets !! Weapon generator !! Shield generator !! Max #speed !! Max cargo !! Cargo type !! Hangar !! Price #|- style="background:white; color:black" #| [[Mammoth]] #| [[Argon]] #| [[TL]] #| 1000000 #| 5 #| [[Shields#200 MJ|200MJ]] #| 4 #| 17100 #| 3300 #| 87 #| 60000 #| [[Cargo Class|ST]] #| 5 #| 28497125 #|} To only add a row you would only need this Where every | is the new column: #|- style="background:white; color:black" #| [[Mammoth]] #| [[Argon]] #| [[TL]] #| 1000000 #| 5 #| [[Shields#200 MJ|200MJ]] #| 4 #| 17100 #| 3300 #| 87 #| 60000 #| [[Cargo Class|ST]] #| 5 #| 28497125 styles cascade so you can apply a general style in the table open tag.&lt;br> for more directions on wikitables: {{linky}}en.wikipedia.org/wiki/Table_markup ===Templates=== To quote the wikipedia help article: "A template is a page created explicitly for transclusion – the process of including the contents of one page within another page." templates are handy for standardizing a regularly reused display- of information. a complete list of pages can be found [[Special:PrefixIndex]] and a complete list of templates can be found by selecting "Templates" templates are generally invoked like: &lt;nowiki>{{M1class}}&lt;/nowiki>&lt;bR> Which will generate output like: {{M1class}} When writing new templates you can control what gets output in a call with &lt;nowiki>&lt;includeonly> and &lt;noinclude>&lt;/nowiki> tags includeonly will cause the contained content to only appear when the template itself is called. noinclude will only show the contained content when the template is viewed directly. This is useful when making documentation for your templates. it is also useful when you're trying to do things with categories. '''try to avoid extra line spacing in includes'''. the spaces improve readability, but remember that they also appear where included, in infoboxes this will often leave unsightly gaps above the table, more on this subject on the wikipedia help articles: {{linky}}en.wikipedia.org/wiki/Help:Templates advanced templates:&lt;br> {{linky}}meta.wikimedia.org/wiki/Help:Advanced_templates&lt;bR> pay particular attention to the "Branching techniques without ParserFunctions" section if you're interested in if-then type scenarios. tricky though and requires some precision in usage. ===Categories=== categories use some tagging feature built into wikipedia, it's not required to use and will require some consensus when or where to implement them. {{linky}}en.wikipedia.org/wiki/Wikipedia:Categorization pages can be categorized by adding &lt;nowiki>[[Category:(category name)]]&lt;/nowiki>&lt;bR> If there is no existant category page you may create one which will provide textual context for the list of links.&lt;bR> you may refer to these pages by adding a semicolon before the category tag like: &lt;nowiki>[[:Category:(category name)]]&lt;/nowiki>&lt;bR> {{linky}}en.wikipedia.org/wiki/Help:Category
+apologies for the inconvenience.
+
+==Excel to wiki table converter==
+Just paste the output on our wiki =)
+
+{{linky}}excel2wiki.net/index.php
+
+==General HTML information==
+w3sch-ools homepage:<bR>
+ht-tp://www.w3sc-hools.com/html/default.asp
+
+table page:<br>
+ht-tp://www.w3sc-hools.com/html/html_tables.asp
+
+CSS tutorial main page:<br>
+ht-tp://www.w3sc-hools.com/css/default.asp
+
+for css i'd recommend learning the keywords like: background-color. code formatting ie: <pre><th style="background-color:black;color:white;>"</pre>
+but take the examples with a grain of salt since they seem to formatted more for a header and less as inline usage as you'll probably be employing here.
+
+a color palette:
+{{linky}}www.webreference.com/html/reference/color/websafe.html#HEAD-3
+
+==Picking new page names==
+You may want to select the singular version of the topic you're writing about, this will simplify linking it in the future.
+so naming a page dock instead of docking will permit linking by <nowiki>[[dock]]ing</nowiki> similarly for ship vs. ships. general wikipedia style suggests the opposite, but that may be subject to change. doing it the other way requires use of aliasing to create the right link with the desired text.
+
+===Some basic commands===
+links put your text between <nowiki>[[text]] </nowiki>to link it to the page with the same name. Afterwords you can create that page by clicking the link.<br>
+You can use different text than the linked page by adding a bar like:<nowiki>[[text|different text]]</nowiki> which would link to text but display different text.
+
+Best thing for stuff like ships etc is to put it in a sortable table. This way you can sort it on race price or anything else. With this it is also possible to sort (for example) argon m4 ships.
+
+
+Create new table example
+Please not that every column of a row starts with a | and the title of a column with !! at the top. You only need to add the names ones and can then keep adding rows.
+:
+
+#{| class="prettytable sortable" border="1" cellpadding="5" cellspacing="0"
+#|+ All Ships
+# ! Name !! Race !! class !! Max shields !! Num shields !! Shield type !! Turrets !! Weapon generator !! Shield generator !! Max #speed !! Max cargo !! Cargo type !! Hangar !! Price   
+
+#|- style="background:white; color:black"
+#| [[Mammoth]]
+#| [[Argon]]
+#| [[TL]]
+#| 1000000
+#| 5
+#| [[Shields#200 MJ|200MJ]]
+#| 4
+#| 17100
+#| 3300
+#| 87
+#| 60000
+#| [[Cargo Class|ST]]
+#| 5
+#| 28497125 
+
+#|}
+
+
+To only add a row you would only need this
+Where every | is the new column:
+
+#|- style="background:white; color:black"
+#| [[Mammoth]]
+#| [[Argon]]
+#| [[TL]]
+#| 1000000
+#| 5
+#| [[Shields#200 MJ|200MJ]]
+#| 4
+#| 17100
+#| 3300
+#| 87
+#| 60000
+#| [[Cargo Class|ST]]
+#| 5
+#| 28497125
+
+styles cascade so you can apply a general style in the table open tag.<br>
+for more directions on wikitables: {{linky}}en.wikipedia.org/wiki/Table_markup
+
+===Templates===
+To quote the wikipedia help article: "A template is a page created explicitly for transclusion – the process of including the contents of one page within another page."
+
+templates are handy for standardizing a regularly reused display- of information.
+
+a complete list of pages can be found [[Special:PrefixIndex]]
+and a complete list of templates can be found by selecting "Templates"
+
+templates are generally invoked like: <nowiki>{{M1class}}</nowiki><bR>
+Which will generate output like: {{M1class}}
+
+When writing new templates you can control what gets output in a call with
+<nowiki><includeonly> and <noinclude></nowiki> tags
+includeonly will cause the contained content to only appear when the template itself is called.
+noinclude will only show the contained content when the template is viewed directly.
+
+This is useful when making documentation for your templates. it is also useful when you're trying to do things with categories.
+
+'''try to avoid extra line spacing in includes'''. the spaces improve readability, but remember that they also appear where included, in infoboxes this will often leave unsightly gaps above the table, 
+
+more on this subject on the wikipedia help articles: {{linky}}en.wikipedia.org/wiki/Help:Templates
+
+advanced templates:<br>
+{{linky}}meta.wikimedia.org/wiki/Help:Advanced_templates<bR>
+pay particular attention to the "Branching techniques without ParserFunctions" section if you're interested in if-then type scenarios. tricky though and requires some precision in usage.
+
+===Categories===
+categories use some tagging feature built into wikipedia, it's not required to use and will require some consensus when or where to implement them.
+{{linky}}en.wikipedia.org/wiki/Wikipedia:Categorization
+
+pages can be categorized by adding <nowiki>[[Category:(category name)]]</nowiki><bR>
+If there is no existant category page you may create one which will provide textual context for the list of links.<bR>
+you may refer to these pages by adding a semicolon before the category tag like: <nowiki>[[:Category:(category name)]]</nowiki><bR>
+{{linky}}en.wikipedia.org/wiki/Help:Category

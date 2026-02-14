@@ -1,3 +1,170 @@
-<!-- source file: index__qf4dedc7c7bb8.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Iguana
+|Faction=Split
+|Class={{TPclass}}
+|Priceblock={{Priceblock|| 1311382}}
+|Minspeed=89.4
+|Maxspeed=169.9
+|Minaccel=6
+|Maxaccel=11
+|Minsteer=3.3
+|Maxsteer=6.3
+|Hull=16000
+|Maxshield=25 MJ
+|Shieldslots=2
+|Maxshieldstrength=50
+|Shieldreactor= 500
+|Cargoclass=L
+|Mincargo=450
+|Maxcargo=450
+|Lasercap=1150
+|Laserrecharge=11
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=4
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Back
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Iguana Vanguard
+|Faction=Split
+|Class={{TPclass}}
+|Priceblock={{Priceblock|| 493015}}
+|Minspeed=98.4
+|Maxspeed= 186.9
+|Minaccel=6
+|Maxaccel=12
+|Minsteer=3.5
+|Maxsteer=6.6
+|Hull= 16480
+|Maxshield=25 MJ
+|Shieldslots=2
+|Maxshieldstrength=50
+|Shieldreactor= 500
+|Cargoclass=L
+|Mincargo=517
+|Maxcargo=517
+|Lasercap=1150
+|Laserrecharge= 11
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=4
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Back
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The fastest mainstream TP, the Iguana also packs a 4-hardpoint front weapons battery that can give an opponent a nasty surprise. The Vanguard variant is the fastest of all TPs in Terran Conflict, being roughly 6 m/s faster than the [[Phantom|Argon Phantom]].
 
-{{Infobox open}} {{Infobox variant |Variant=Iguana |Faction=Split |Class={{TPclass}} |Priceblock={{Priceblock|| 1311382}} |Minspeed=89.4 |Maxspeed=169.9 |Minaccel=6 |Maxaccel=11 |Minsteer=3.3 |Maxsteer=6.3 |Hull=16000 |Maxshield=25 MJ |Shieldslots=2 |Maxshieldstrength=50 |Shieldreactor= 500 |Cargoclass=L |Mincargo=450 |Maxcargo=450 |Lasercap=1150 |Laserrecharge=11 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=4 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Back |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Iguana Vanguard |Faction=Split |Class={{TPclass}} |Priceblock={{Priceblock|| 493015}} |Minspeed=98.4 |Maxspeed= 186.9 |Minaccel=6 |Maxaccel=12 |Minsteer=3.5 |Maxsteer=6.6 |Hull= 16480 |Maxshield=25 MJ |Shieldslots=2 |Maxshieldstrength=50 |Shieldreactor= 500 |Cargoclass=L |Mincargo=517 |Maxcargo=517 |Lasercap=1150 |Laserrecharge= 11 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=4 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Back |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The fastest mainstream TP, the Iguana also packs a 4-hardpoint front weapons battery that can give an opponent a nasty surprise. The Vanguard variant is the fastest of all TPs in Terran Conflict, being roughly 6 m/s faster than the [[Phantom|Argon Phantom]]. ==Background== This fast transport ship has been in service for many years now. The ship was originally built for slave transport, to ferry slaves from the point of capture to the factories where they would spend the rest of their days. Now the ship is used to transport personnel from sector to sector. It is armed with adequate weaponry, but its main defense is speed. ==Variants== ===Iguana=== {{regular}} The standard Iguana features a modular passenger section. ===Iguana Vanguard=== {{vanguard}} The Iguana Vanguard features a passenger section, a set of cargo boxes, and a set of tanks. ==Physical Characteristics== == Combat == In ''[[X2: The Threat]]'' this ship was favored as a [[M3]] equivalent, featuring heavier shields than a [[Mamba]] while sporting similar speed and functional weaponry. [[Ion Disruptor]]s in the main array were superb for capturing [[spaceflies]] or flogging a ship into submission. Sadly, weapons technology has passed the Iguana by and it is no longer an efficient combat vessel. Amongst transports it surely reflects the Split aggressive spirit, being perhaps the most combat capable outside the {{TMclass}} ships. The Iguana has enough guns to be a contender in a fight, but its lack of maneuverability and poor shielding mean that it is compromised to a degree. Nevertheless, with a competent pilot, this vessel can be used to bring down even something as big as an [[M3]]. On modern battlefields Iguanas are perhaps best employed as [[marine]] transports, using their speed to get their charges quickly to their targets. A rear-mounted Ion Disruptor might be employed to strip off protections like [[Hull Polarising Device]]s or [[Internal Sentry Lasers]], but should not be employed during space walks. == Equipment == '''Built-In Equipment''' *Cargo Life Support System '''Missiles''' *[[Mosquito Missile]] *[[Dragonfly Missile]] *[[Firefly Missile]] *[[Aurora Missile]] *[[Rapier Missile]] *[[Firelance Missile]] == Availability == {| style="text-align:center;" cellpadding="3" |+ '''Availability''' |- style="{{Colour/Split}}" ! Variant !! [[Cho's Defeat]] !! [[Family Njy]] !! [[Family Pride]] !! [[Family Rhy]] !! [[Family Tkr]] !! [[Patriarch's Conclusion]] !! [[Rhonkar's Might]] !! [[Rhonkar's Trial]] !! [[Zyarth's Dominion]] |- ! Iguana || X || X || X || X || X || X || X || X || X |} The Iguana Vanguard cannot be bought at shipyards, but it is available as one of many [[ownerless ships]]. It can also be [[Buy Used Ship|bought used]]. == Suggested Roles== The Iguana works well for spacewalk [[boarding]] operations. Its high speed also allows it to function well on passenger missions, or as a trading ship. == See Also== {{TP}} {{Split Navbox}}
+==Background==
+This fast transport ship has been in service for many years now. The ship was originally built for slave transport, to ferry slaves from the point of capture to the factories where they would spend the rest of their days. Now the ship is used to transport personnel from sector to sector. It is armed with adequate weaponry, but its main defense is speed.
+
+==Variants==
+===Iguana===
+{{regular}}
+
+The standard Iguana features a modular passenger section.
+
+===Iguana Vanguard===
+{{vanguard}}
+
+The Iguana Vanguard features a passenger section, a set of cargo boxes, and a set of tanks.
+
+==Physical Characteristics==
+
+== Combat ==
+In ''[[X2: The Threat]]'' this ship was favored as a [[M3]] equivalent, featuring heavier shields than a [[Mamba]] while sporting similar speed and functional weaponry. [[Ion Disruptor]]s in the main array were superb for capturing [[spaceflies]] or flogging a ship into submission. Sadly, weapons technology has passed the Iguana by and it is no longer an efficient combat vessel. Amongst transports it surely reflects the Split aggressive spirit, being perhaps the most combat capable outside the {{TMclass}} ships.
+
+The Iguana has enough guns to be a contender in a fight, but its lack of maneuverability and poor shielding mean that it is compromised to a degree. Nevertheless, with a competent pilot, this vessel can be used to bring down even something as big as an [[M3]].
+
+On modern battlefields Iguanas are perhaps best employed as [[marine]] transports, using their speed to get their charges quickly to their targets. A rear-mounted Ion Disruptor might be employed to strip off protections like [[Hull Polarising Device]]s or [[Internal Sentry Lasers]], but should not be employed during space walks.
+
+== Equipment ==
+'''Built-In Equipment'''
+*Cargo Life Support System
+
+'''Missiles'''
+*[[Mosquito Missile]]
+*[[Dragonfly Missile]]
+*[[Firefly Missile]]
+*[[Aurora Missile]]
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+
+== Availability ==
+{| style="text-align:center;" cellpadding="3"
+|+ '''Availability'''
+|- style="{{Colour/Split}}"
+! Variant !! [[Cho's Defeat]] !! [[Family Njy]] !! [[Family Pride]] !! [[Family Rhy]] !! [[Family Tkr]] !! [[Patriarch's Conclusion]] !! [[Rhonkar's Might]] !! [[Rhonkar's Trial]] !! [[Zyarth's Dominion]]
+|-
+! Iguana || X || X || X || X || X || X || X || X || X
+|}
+
+The Iguana Vanguard cannot be bought at shipyards, but it is available as one of many [[ownerless ships]].  It can also be [[Buy Used Ship|bought used]].
+
+== Suggested Roles==
+The Iguana works well for spacewalk [[boarding]] operations.  Its high speed also allows it to function well on passenger missions, or as a trading ship.
+
+== See Also==
+
+{{TP}}
+
+
+{{Split Navbox}}

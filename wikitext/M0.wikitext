@@ -1,3 +1,16 @@
-<!-- source file: index__q1e916391d821.html -->
+'''M0 Mothership'''
 
-'''M0 Mothership''' M0 are the heaviest ship class and, prior to the Terran Conflict, were used only by [[Xenon]] and [[Kha'ak]]. They are used as a story element, where their purpose is to destroy planets - or rather to be stopped from doing that by the player. The Xenon M0 appeared in X: Beyond the Frontier. In X3, its remains can be found in [[Xenon Sector 101]]. The Kha'ak M0 appeared in X2 in the battle for Omicron Lyrae. In Albion Prelude, the [[Valhalla|ATF Valhalla]] is, canonically, an M0 Mothership, combining the firepower of a M2+ destroyer with the force projection of a massive carrier. ==Note== It should be pointed out that in ''[[X3: Reunion]]'' and ''[[X3: Terran Conflict]]'' no actual M0 classification exists in the game files. {{M0category}}
+M0 are the heaviest ship class and, prior to the Terran Conflict, were used only by [[Xenon]] and [[Kha'ak]].
+They are used as a story element, where their purpose is to destroy planets - or rather to be stopped from doing that by the player.
+
+The Xenon M0 appeared in X: Beyond the Frontier.
+In X3, its remains can be found in [[Xenon Sector 101]].
+
+The Kha'ak M0 appeared in X2 in the battle for Omicron Lyrae.
+
+In Albion Prelude, the [[Valhalla|ATF Valhalla]] is, canonically, an M0 Mothership, combining the firepower of a M2+ destroyer with the force projection of a massive carrier.
+
+==Note==
+It should be pointed out that in ''[[X3: Reunion]]'' and ''[[X3: Terran Conflict]]'' no actual M0 classification exists in the game files.
+
+{{M0category}}

@@ -1,3 +1,117 @@
-<!-- source file: index__qd59fa05a14e7.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= Snotra
+|Faction=Paranid
+|Class={{TS+class}}
+|Priceblock={{Priceblock|| 1468463}}
+|Minspeed= 51.9
+|Maxspeed= 83
+|Minaccel= 4
+|Maxaccel= 7
+|Minsteer= 3.0 
+|Maxsteer= 6.0
+|Hull= 55500
+|Maxshield= 200 MJ
+|Shieldslots= 1
+|Maxshieldstrength=200
+|Shieldreactor= 1,150
+|Cargoclass=XL
+|Mincargo= 5800
+|Maxcargo= 13850
+|Lasercap= 2000
+|Laserrecharge= 14
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Right
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The '''Snotra''' is a new [[Paranid]] TS available in Albion Prelude. With heavy shielding, a large cargobay and very reasonable speed, it is a highly effective trade ship.
 
-{{Infobox open}} {{Infobox variant |Variant= Snotra |Faction=Paranid |Class={{TS+class}} |Priceblock={{Priceblock|| 1468463}} |Minspeed= 51.9 |Maxspeed= 83 |Minaccel= 4 |Maxaccel= 7 |Minsteer= 3.0 |Maxsteer= 6.0 |Hull= 55500 |Maxshield= 200 MJ |Shieldslots= 1 |Maxshieldstrength=200 |Shieldreactor= 1,150 |Cargoclass=XL |Mincargo= 5800 |Maxcargo= 13850 |Lasercap= 2000 |Laserrecharge= 14 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Right |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Rear |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The '''Snotra''' is a new [[Paranid]] TS available in Albion Prelude. With heavy shielding, a large cargobay and very reasonable speed, it is a highly effective trade ship. ==Background== The Snotra was designed to cover the one area the aging Demeter could not fulfil - rapid transportation of high value military grade hardware. Following the latest Paranid design trends inspired by prototype ships such as the Agamemnon and Heavy Nemesis, the Snotra has lost its former basic utilitarian structure in favor of a more elaborate, artistic profile. The core of the ship has not changed greatly, though - the basic cargo compression systems are taken directly out of other transporters and interior decorations have been left at a minimum. Though the Snotra was designed as a military ship, it is available to any trader rich and influential enough to pay for one. ==Physical Characteristics== The Snotra is very reminiscent of the standard Paranid Demeter, with armour plating on the cargo boxes and a second bar at the front. There are three turrets visible at the rear of the ship, representing its left, right and back point defense emplacements. == Combat == With good shielding and solid turret coverage, including [[Ion Disruptor]] and [[Energy Bolt Chaingun]] compatibility, the Snotra is more competent in a fight than many other TS ships, able to fend off weak attackers relatively well. However, its weapon generators are still only TS level, and even [[Energy Bolt Chaingun|EBC]]s will drain its reserves of power, so it cannot hold off heavier enemies on its own. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Silkworm Missile]] *[[Disruptor Missile]] | *[[Hurricane Missile]] *[[Remote Guided Warhead]] *[[Wildfire Missile]] |} == Availability == {| style="text-align:center;" |+'''Availability''' |- style="{{Colour/Paranid}}" ! Variant !! [[Cardinal's Domain]] !! [[Duke's Citadel]] !! [[Heaven's Assertion]] !! [[Paranid Prime]] !! [[Third Redemption]]!! [[Trinity Sanctum]] |- ! Snotra || || || X || || X || |} == Suggested Roles== The Snotra makes an excellent Sector or Universe trader. Its cargo bay is large, but it maintains a competitive speed among heavy freighters. As with other TS+ ships, it also makes an excellent fleet resupply ship. == See Also== {{TS+}} {{TS+category}} [[Category:Paranid ships]] {{Paranid Navbox}}
+==Background==
+The Snotra was designed to cover the one area the aging Demeter could not fulfil - rapid transportation of high value military grade hardware. Following the latest Paranid design trends inspired by prototype ships such as the Agamemnon and Heavy Nemesis, the Snotra has lost its former basic utilitarian structure in favor of a more elaborate, artistic profile. The core of the ship has not changed greatly, though - the basic cargo compression systems are taken directly out of other transporters and interior decorations have been left at a minimum. Though the Snotra was designed as a military ship, it is available to any trader rich and influential enough to pay for one.
+
+==Physical Characteristics==
+The Snotra is very reminiscent of the standard Paranid Demeter, with armour plating on the cargo boxes and a second bar at the front. There are three turrets visible at the rear of the ship, representing its left, right and back point defense emplacements.
+
+== Combat ==
+With good shielding and solid turret coverage, including [[Ion Disruptor]] and [[Energy Bolt Chaingun]] compatibility, the Snotra is more competent in a fight than many other TS ships, able to fend off weak attackers relatively well. However, its weapon generators are still only TS level, and even [[Energy Bolt Chaingun|EBC]]s will drain its reserves of power, so it cannot hold off heavier enemies on its own.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Silkworm Missile]]
+*[[Disruptor Missile]]
+|
+*[[Hurricane Missile]]
+*[[Remote Guided Warhead]]
+*[[Wildfire Missile]]
+|}
+== Availability ==
+{| style="text-align:center;"
+|+'''Availability'''
+|- style="{{Colour/Paranid}}"
+! Variant !! [[Cardinal's Domain]] !! [[Duke's Citadel]] !! [[Heaven's Assertion]] !! [[Paranid Prime]] !! [[Third Redemption]]!! [[Trinity Sanctum]]
+|-
+! Snotra || || || X || || X ||           
+|}
+
+== Suggested Roles==
+The Snotra makes an excellent Sector or Universe trader. Its cargo bay is large, but it maintains a competitive speed among heavy freighters. As with other TS+ ships, it also makes an excellent fleet resupply ship.
+
+== See Also==
+{{TS+}}
+{{TS+category}}
+[[Category:Paranid ships]]
+
+
+{{Paranid Navbox}}

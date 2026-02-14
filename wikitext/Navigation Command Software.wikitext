@@ -1,3 +1,38 @@
-<!-- source file: index__q7236f470abb1.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Navigation Command Software
+|cargoclass= -
+|volume=1
+|minprice=2919
+|aveprice=2948
+|maxprice=2977
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+This is a software extension for any shipboard computer. New commands are added to the shipboard computer's command console.
 
-{{Infobox open}} {{Infobox ware |ware= Navigation Command Software |cargoclass= - |volume=1 |minprice=2919 |aveprice=2948 |maxprice=2977 }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== This is a software extension for any shipboard computer. New commands are added to the shipboard computer's command console. ===Available Commands=== &lt;onlyinclude> ====Navigation Command Software==== *Jump and Fly to Pos *Jump and Fly to Station &lt;/onlyinclude> ==Commentary== ==Trading information== {| ! Sold by; !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *Race Factory where this ware is sold | *List of Race Factories where this ware is a primary resource | *List of Race Factories where this ware is a secondary resource | *List of Trading Stations where this ware is traded (sector only) |} ==See Also== *[[Autopilot]] {{Warecategory}} [[Category:Command Software]]
+===Available Commands===
+<onlyinclude>
+====Navigation Command Software====
+*Jump and Fly to Pos
+*Jump and Fly to Station
+</onlyinclude>
+==Commentary==
+==Trading information==
+{|
+! Sold by; !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*Race Factory where this ware is sold
+|
+*List of Race Factories where this ware is a primary resource
+|
+*List of Race Factories where this ware is a secondary resource
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}
+==See Also==
+*[[Autopilot]]
+{{Warecategory}}
+[[Category:Command Software]]

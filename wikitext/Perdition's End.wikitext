@@ -1,3 +1,69 @@
-<!-- source file: index__q1c6efa2c51ab.html -->
+{{Infobox Sector
+|Race=Paranid
+|SecLevel=Border
+|Population=22,500
+|Planets=0
+|SunLevel=150
+|GateDist=80
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|South|16000|	0|	-36000|[[Desecrated Skies]]}}
+{{Gateblock2|West|-69000|	0|	9000|[[Third Redemption]]}}
+{{Gateblock/End}}
+}}
+==Description==
+Wow, that's a really clever way of thinking about it!
+===Encyclopedia Entry===
+Perdition's flames brought fear to the hearts of both Argon and Paranid, and fury and rage from both sides have quenched the firestorm that burned through this sector. Perdition's end may soon be near, but the fires of conquest stil burn brightly.
 
-{{Infobox Sector |Race=Paranid |SecLevel=Border |Population=22,500 |Planets=0 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|South|16000| 0| -36000|[[Desecrated Skies]]}} {{Gateblock2|West|-69000| 0| 9000|[[Third Redemption]]}} {{Gateblock/End}} }} ==Description== Wow, that's a really clever way of thinking about it! ===Encyclopedia Entry=== Perdition's flames brought fear to the hearts of both Argon and Paranid, and fury and rage from both sides have quenched the firestorm that burned through this sector. Perdition's end may soon be near, but the fires of conquest stil burn brightly. ==Default [[Stations]]== *Paranid [[Equipment Dock]] *[[Advanced Satellite Factory]] alpha *[[Ore Mine]] L beta *[[Ore Mine]] M alpha *[[Silicon Mine]] L beta *[[Silicon Mine]] M alpha *[[SQUASH Mine Factory]] alpha *[[Quantum Tube Fab]] alpha *[[Lasertower Factory]] alpha ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|22|-12758|-20804|1075}} {{Asteroid/Item|Ore|15|-8940|-8940|5930}} {{Asteroid/Item|Ore|15|-3161|-24089|-19015}} {{Asteroid/Item|Ore|12|-19905|-4178|-7636}} {{Asteroid/Item|Ore|10|-6152|-13535|15996}} {{Asteroid/Item|Ore|9|-204|-6305|10911}} {{Asteroid/Item|Ore|6|-32439|24244|9630}} {{Asteroid/Item|Ore|5|-30890|10314|4109}} {{Asteroid/Item|Ore|5|-4784|-20112|-5515}} {{Asteroid/Item|Ore|5|-16125|-5933|-27894}} {{Asteroid/Item|Ore|5|-7426|20965|-28183}} {{Asteroid/Item|Ore|4|14898|-17204|-22013}} {{Asteroid/Item|Ore|4|23315|-8860|-30634}} {{Asteroid/Item|Ore|4|16688|-8151|-33607}} {{Asteroid/Item|Ore|3|-17158|27433|-12390}} {{Asteroid/Item|Ore|2|-13663|-4178|-14789}} {{Asteroid/Item|Ore|2|-18332|8476|-21129}} {{Asteroid/Item|Ore|1|-41180|6300|14059}} {{Asteroid/Item|Ore|1|-28893|-8555|-18128}} {{Asteroid/Item|Silicon|50|8724|21322|-19335}} {{Asteroid/Item|Silicon|30|-8584|-4238|-3186}} {{Asteroid/Item|Silicon|13|-8033|18123|-18371}} {{Asteroid/Item|Silicon|11|14294|-26864|-9949}} {{Asteroid/Item|Silicon|10|10766|-4229|-32453}} {{Asteroid/Item|Silicon|7|-39085|-9784|-3635}} {{Asteroid/Item|Silicon|6|-42297|12073|6921}} {{Asteroid/Item|Silicon|6|-36285|17251|5267}} {{Asteroid/Item|Silicon|5|-8940|-18557|7006}} {{Asteroid/Item|Silicon|5|-32097|16390|-13725}} {{Asteroid/Item|Silicon|5|-8672|-6782|-25608}} {{Asteroid/Item|Silicon|3|-36804|-6576|20265}} {{Asteroid/Item|Silicon|3|-5981|14131|10254}} {{Asteroid/Item|Silicon|2|-4614|10535|-1076}} {{Asteroid/End}} == See Also == {{Paranid Navbox}}
+==Default [[Stations]]==
+*Paranid [[Equipment Dock]]
+*[[Advanced Satellite Factory]] alpha
+*[[Ore Mine]] L beta
+*[[Ore Mine]] M alpha
+*[[Silicon Mine]] L beta
+*[[Silicon Mine]] M alpha
+*[[SQUASH Mine Factory]] alpha
+*[[Quantum Tube Fab]] alpha
+*[[Lasertower Factory]] alpha
+
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|22|-12758|-20804|1075}}
+{{Asteroid/Item|Ore|15|-8940|-8940|5930}}
+{{Asteroid/Item|Ore|15|-3161|-24089|-19015}}
+{{Asteroid/Item|Ore|12|-19905|-4178|-7636}}
+{{Asteroid/Item|Ore|10|-6152|-13535|15996}}
+{{Asteroid/Item|Ore|9|-204|-6305|10911}}
+{{Asteroid/Item|Ore|6|-32439|24244|9630}}
+{{Asteroid/Item|Ore|5|-30890|10314|4109}}
+{{Asteroid/Item|Ore|5|-4784|-20112|-5515}}
+{{Asteroid/Item|Ore|5|-16125|-5933|-27894}}
+{{Asteroid/Item|Ore|5|-7426|20965|-28183}}
+{{Asteroid/Item|Ore|4|14898|-17204|-22013}}
+{{Asteroid/Item|Ore|4|23315|-8860|-30634}}
+{{Asteroid/Item|Ore|4|16688|-8151|-33607}}
+{{Asteroid/Item|Ore|3|-17158|27433|-12390}}
+{{Asteroid/Item|Ore|2|-13663|-4178|-14789}}
+{{Asteroid/Item|Ore|2|-18332|8476|-21129}}
+{{Asteroid/Item|Ore|1|-41180|6300|14059}}
+{{Asteroid/Item|Ore|1|-28893|-8555|-18128}}
+{{Asteroid/Item|Silicon|50|8724|21322|-19335}}
+{{Asteroid/Item|Silicon|30|-8584|-4238|-3186}}
+{{Asteroid/Item|Silicon|13|-8033|18123|-18371}}
+{{Asteroid/Item|Silicon|11|14294|-26864|-9949}}
+{{Asteroid/Item|Silicon|10|10766|-4229|-32453}}
+{{Asteroid/Item|Silicon|7|-39085|-9784|-3635}}
+{{Asteroid/Item|Silicon|6|-42297|12073|6921}}
+{{Asteroid/Item|Silicon|6|-36285|17251|5267}}
+{{Asteroid/Item|Silicon|5|-8940|-18557|7006}}
+{{Asteroid/Item|Silicon|5|-32097|16390|-13725}}
+{{Asteroid/Item|Silicon|5|-8672|-6782|-25608}}
+{{Asteroid/Item|Silicon|3|-36804|-6576|20265}}
+{{Asteroid/Item|Silicon|3|-5981|14131|10254}}
+{{Asteroid/Item|Silicon|2|-4614|10535|-1076}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Paranid Navbox}}

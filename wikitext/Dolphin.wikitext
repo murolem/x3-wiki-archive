@@ -1,3 +1,354 @@
-<!-- source file: index__q53da102ea6c1.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Dolphin
+|Faction=Boron
+|Class={{TSclass}}
+|Priceblock={{Priceblock|| 248,820 }}
+|Minspeed=41.6
+|Maxspeed=74.9
+|Minaccel=1
+|Maxaccel=3
+|Minsteer=2.6
+|Maxsteer=4.6
+|Hull=18000
+|Maxshield=25 MJ
+|Shieldslots=3
+|Maxshieldstrength=75
+|Shieldreactor=650
+|Cargoclass=XL
+|Mincargo=4000
+|Maxcargo=5000
+|Lasercap=750
+|Laserrecharge=7
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Dolphin Enhanced
+|Faction=Boron
+|Class={{TSclass}}
+|Priceblock=
+|Minspeed= 
+|Maxspeed=102.6
+|Minaccel=
+|Maxaccel=
+|Minsteer=
+|Maxsteer=
+|Hull=
+|Maxshield=25 MJ
+|Shieldslots=4
+|Maxshieldstrength=100
+|Shieldreactor= 660
+|Cargoclass=XL
+|Mincargo=
+|Maxcargo=5500
+|Lasercap=750
+|Laserrecharge=
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Dolphin Hauler
+|Faction=Boron
+|Class={{TSclass}}
+|Priceblock={{Priceblock|| 1029447}}
+|Minspeed=33.3
+|Maxspeed=59.9
+|Minaccel=1
+|Maxaccel=2
+|Minsteer=1.8
+|Maxsteer=3.2
+|Hull= 
+|Maxshield=25 MJ
+|Shieldslots=4
+|Maxshieldstrength=100
+|Shieldreactor=650
+|Cargoclass=XL
+|Mincargo=8000
+|Maxcargo=10000
+|Lasercap=750
+|Laserrecharge=7
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Dolphin Super Freighter
+|Faction=Boron
+|Class={{TSclass}}
+|Priceblock={{Priceblock|| 1115147}}
+|Minspeed=32.0
+|Maxspeed=57.7
+|Minaccel=1
+|Maxaccel=2
+|Minsteer=1.6
+|Maxsteer=2.9
+|Hull= 
+|Maxshield=25 MJ
+|Shieldslots=5
+|Maxshieldstrength=125
+|Shieldreactor=715
+|Cargoclass=XL
+|Mincargo=7400
+|Maxcargo=9250
+|Lasercap=750
+|Laserrecharge=7
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Dolphin Super Freighter XL
+|Faction=Boron
+|Class={{TSclass}}
+|Priceblock={{Priceblock|| 2167186}}
+|Minspeed=29.9
+|Maxspeed=53.9
+|Minaccel=1
+|Maxaccel=3
+|Minsteer=1.2
+|Maxsteer=2.2
+|Hull= 
+|Maxshield=25 MJ
+|Shieldslots=5
+|Maxshieldstrength=125
+|Shieldreactor=715
+|Cargoclass=XL
+|Mincargo=11800
+|Maxcargo=14000
+|Lasercap=750
+|Laserrecharge=7
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Dolphin Tanker
+|Faction=Boron
+|Class={{TSclass}}
+|Priceblock={{Priceblock|| 510514}}
+|Minspeed=41.6
+|Maxspeed=74.9
+|Minaccel=1
+|Maxaccel=3
+|Minsteer=2.6
+|Maxsteer=4.6
+|Hull= 
+|Maxshield=25 MJ
+|Shieldslots=3
+|Maxshieldstrength=75
+|Shieldreactor=650
+|Cargoclass=XL
+|Mincargo=4000
+|Maxcargo=5000
+|Lasercap=750
+|Laserrecharge=7
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Dolphin Tanker XL
+|Faction=Boron
+|Class={{TSclass}}
+|Priceblock={{Priceblock|| 1115147}}
+|Minspeed=27.0
+|Maxspeed=48.7
+|Minaccel=1
+|Maxaccel=2
+|Minsteer=1.4
+|Maxsteer=2.5
+|Hull= 
+|Maxshield=25 MJ
+|Shieldslots=5
+|Maxshieldstrength=125
+|Shieldreactor=650
+|Cargoclass=XL
+|Mincargo=7600
+|Maxcargo=9500
+|Lasercap=750
+|Laserrecharge=7
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The Boron Dolphin is the slowest of the TS class ships. However, it has a larger cargobay than all but the [[Mistral|OTAS Mistral]] [[TS]].
 
-{{Infobox open}} {{Infobox variant |Variant=Dolphin |Faction=Boron |Class={{TSclass}} |Priceblock={{Priceblock|| 248,820 }} |Minspeed=41.6 |Maxspeed=74.9 |Minaccel=1 |Maxaccel=3 |Minsteer=2.6 |Maxsteer=4.6 |Hull=18000 |Maxshield=25 MJ |Shieldslots=3 |Maxshieldstrength=75 |Shieldreactor=650 |Cargoclass=XL |Mincargo=4000 |Maxcargo=5000 |Lasercap=750 |Laserrecharge=7 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot= |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Dolphin Enhanced |Faction=Boron |Class={{TSclass}} |Priceblock= |Minspeed= |Maxspeed=102.6 |Minaccel= |Maxaccel= |Minsteer= |Maxsteer= |Hull= |Maxshield=25 MJ |Shieldslots=4 |Maxshieldstrength=100 |Shieldreactor= 660 |Cargoclass=XL |Mincargo= |Maxcargo=5500 |Lasercap=750 |Laserrecharge= |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot= |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Dolphin Hauler |Faction=Boron |Class={{TSclass}} |Priceblock={{Priceblock|| 1029447}} |Minspeed=33.3 |Maxspeed=59.9 |Minaccel=1 |Maxaccel=2 |Minsteer=1.8 |Maxsteer=3.2 |Hull= |Maxshield=25 MJ |Shieldslots=4 |Maxshieldstrength=100 |Shieldreactor=650 |Cargoclass=XL |Mincargo=8000 |Maxcargo=10000 |Lasercap=750 |Laserrecharge=7 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot= |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Dolphin Super Freighter |Faction=Boron |Class={{TSclass}} |Priceblock={{Priceblock|| 1115147}} |Minspeed=32.0 |Maxspeed=57.7 |Minaccel=1 |Maxaccel=2 |Minsteer=1.6 |Maxsteer=2.9 |Hull= |Maxshield=25 MJ |Shieldslots=5 |Maxshieldstrength=125 |Shieldreactor=715 |Cargoclass=XL |Mincargo=7400 |Maxcargo=9250 |Lasercap=750 |Laserrecharge=7 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot= |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Dolphin Super Freighter XL |Faction=Boron |Class={{TSclass}} |Priceblock={{Priceblock|| 2167186}} |Minspeed=29.9 |Maxspeed=53.9 |Minaccel=1 |Maxaccel=3 |Minsteer=1.2 |Maxsteer=2.2 |Hull= |Maxshield=25 MJ |Shieldslots=5 |Maxshieldstrength=125 |Shieldreactor=715 |Cargoclass=XL |Mincargo=11800 |Maxcargo=14000 |Lasercap=750 |Laserrecharge=7 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot= |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Dolphin Tanker |Faction=Boron |Class={{TSclass}} |Priceblock={{Priceblock|| 510514}} |Minspeed=41.6 |Maxspeed=74.9 |Minaccel=1 |Maxaccel=3 |Minsteer=2.6 |Maxsteer=4.6 |Hull= |Maxshield=25 MJ |Shieldslots=3 |Maxshieldstrength=75 |Shieldreactor=650 |Cargoclass=XL |Mincargo=4000 |Maxcargo=5000 |Lasercap=750 |Laserrecharge=7 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot= |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Dolphin Tanker XL |Faction=Boron |Class={{TSclass}} |Priceblock={{Priceblock|| 1115147}} |Minspeed=27.0 |Maxspeed=48.7 |Minaccel=1 |Maxaccel=2 |Minsteer=1.4 |Maxsteer=2.5 |Hull= |Maxshield=25 MJ |Shieldslots=5 |Maxshieldstrength=125 |Shieldreactor=650 |Cargoclass=XL |Mincargo=7600 |Maxcargo=9500 |Lasercap=750 |Laserrecharge=7 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot= |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The Boron Dolphin is the slowest of the TS class ships. However, it has a larger cargobay than all but the [[Mistral|OTAS Mistral]] [[TS]]. With its low speed, it is not fast enough to get to the best deals, and will often be left trundling around sectors towards factories whose wares have already been sold to a faster trader. As such, this freighter is not frequently used by players, preferring faster ships. ==Background== The Boron Dolphin is a cost-effective transporter ship. Its unique Boron design has been combined with Argon know-how to produce a transporter that can carry great loads, whilst moving gracefully. ==Variants== ===Dolphin=== The standard Dolphin by which the other variants are measured. ===Dolphin Enhanced=== The Enhanced version of the Dolphin is available from the beginning of the Hub plot. It is not given directly to the player and must be claimed. ===Dolphin Hauler=== The Hauler doubles the Dolphin's cargo space in exchange for a maximum speed of 59.9m/s. ===Dolphin Super Freighter=== The Super Freighter is better shielded than the Hauler, but carries slightly less cargo and moves slightly slower. ===Dolphin Super Freighter XL=== The Super Freighter XL carries the most cargo of all Dolphin variants, but also moves the slowest, at 53.9m/s. In Albion Prelude, this variant's role is superseded by the [[Sturgeon]]. ===Dolphin Tanker=== The Dolphin Tanker is identical to the standard model in every way, except that it is available at different shipyards. ===Dolphin Tanker XL=== The Tanker XL is the slowest Dolphin variant, yet its cargo does not match that of the Super Freighter XL, making the SFXL the better choice, if a choice is available. ==Physical Characteristics== All TS-class ships are the same size, although the Dolphin is an odd shape, with its distinctive ovoid hull atop its external freight rack. == Combat == The Dolphin has average shielding for a TS, but is completely unarmed. It may carry certain light missiles for defense, but it should not stray anywhere it is likely to be attacked. If you must send a Dolphin into potentially hostile space, make sure it carries [[Fighter Drone]]s. == Equipment == '''Missiles''' {|- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Dragonfly Missile]] *[[Firefly Missile]] | *[[Aurora Missile]] *[[Rapier Missile]] *[[Firelance Missile]] |} == Availability == {| style="text-align:center;" cellpadding="3" |+ '''Availability''' |- style="{{Colour/Boron}}" ! Variant !! [[Depths of Silence]] !! [[Great Reef]] !! [[Kingdom End]] !! [[Lucky Planets]] !! [[Ocean of Fantasy]] !! [[Queen's Retribution]] |- ! Dolphin || || X || || || || X || |- ! Dolphin Hauler || || || X || || || X |- ! Dolphin Super Freighter || X || || || || || X |- ! Dolphin Super Freighter XL || || || X || || || X |- ! Dolphin Tanker || || || || || X || X |- ! Dolphin Tanker XL || || || || X || || X |} The Dolphin Enhanced is only available as part of the [[Hub plot]]. == Suggested Roles== Due to their low speed but generous freight bays, all of the Dolphin variants are best for short-range, high volume goods runs. The few trades it can do are those that involve little competition, such as Commodity Logistics work, or selling goods in low-population sectors. == See Also== {{TS}} {{TScategory}} [[Category:Boron ships]] {{Boron Navbox}}
+With its low speed, it is not fast enough to get to the best deals, and will often be left trundling around sectors towards factories whose wares have already been sold to a faster trader. As such, this freighter is not frequently used by players, preferring faster ships.
+==Background==
+The Boron Dolphin is a cost-effective transporter ship. Its unique Boron design has been combined with Argon know-how to produce a transporter that can carry great loads, whilst moving gracefully.
+
+==Variants==
+===Dolphin===
+The standard Dolphin by which the other variants are measured.
+===Dolphin Enhanced===
+The Enhanced version of the Dolphin is available from the beginning of the Hub plot. It is not given directly to the player and must be claimed.
+===Dolphin Hauler===
+The Hauler doubles the Dolphin's cargo space in exchange for a maximum speed of 59.9m/s.
+===Dolphin Super Freighter===
+The Super Freighter is better shielded than the Hauler, but carries slightly less cargo and moves slightly slower.
+===Dolphin Super Freighter XL===
+The Super Freighter XL carries the most cargo of all Dolphin variants, but also moves the slowest, at 53.9m/s. In Albion Prelude, this variant's role is superseded by the [[Sturgeon]].
+===Dolphin Tanker===
+The Dolphin Tanker is identical to the standard model in every way, except that it is available at different shipyards.
+===Dolphin Tanker XL===
+The Tanker XL is the slowest Dolphin variant, yet its cargo does not match that of the Super Freighter XL, making the SFXL the better choice, if a choice is available.
+
+==Physical Characteristics==
+All TS-class ships are the same size, although the Dolphin is an odd shape, with its distinctive ovoid hull atop its external freight rack.
+== Combat ==
+The Dolphin has average shielding for a TS, but is completely unarmed. It may carry certain light missiles for defense, but it should not stray anywhere it is likely to be attacked.  If you must send a Dolphin into potentially hostile space, make sure it carries [[Fighter Drone]]s.
+
+== Equipment ==
+'''Missiles'''
+{|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Dragonfly Missile]]
+*[[Firefly Missile]]
+|
+*[[Aurora Missile]]
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+|}
+
+== Availability ==
+
+{| style="text-align:center;" cellpadding="3"
+|+ '''Availability'''
+|- style="{{Colour/Boron}}"
+! Variant !! [[Depths of Silence]] !! [[Great Reef]] !!  [[Kingdom End]] !! [[Lucky Planets]] !! [[Ocean of Fantasy]] !! [[Queen's Retribution]]
+|-
+! Dolphin ||  || X ||  ||  ||  || X ||
+|-
+! Dolphin Hauler ||  ||  || X || ||  || X
+|-
+! Dolphin Super Freighter || X ||  || ||  ||  || X
+|-
+! Dolphin Super Freighter XL ||  ||  || X || ||  || X
+|-
+! Dolphin Tanker ||  ||  ||  || || X || X
+|-
+! Dolphin Tanker XL ||  ||  ||  || X ||  || X
+|}
+
+The Dolphin Enhanced is only available as part of the [[Hub plot]].
+
+== Suggested Roles==
+Due to their low speed but generous freight bays, all of the Dolphin variants are best for short-range, high volume goods runs. The few trades it can do are those that involve little competition, such as Commodity Logistics work, or selling goods in low-population sectors.
+
+== See Also==
+
+{{TS}}
+{{TScategory}}
+[[Category:Boron ships]]
+{{Boron Navbox}}

@@ -1,3 +1,34 @@
-<!-- source file: index__qed4c8b629485.html -->
+{{Infobox open}}
+{{Infobox basicstation
+|faction=Pirate
+|station=Base
+|hull=
+|shield=
+|generator=
+|hangar=
+|stationprice=
+}}
+{{Infobox close}}
+==Overview==
+A hive of scum and villainy. 
 
-{{Infobox open}} {{Infobox basicstation |faction=Pirate |station=Base |hull= |shield= |generator= |hangar= |stationprice= }} {{Infobox close}} ==Overview== A hive of scum and villainy. Pirate bases buy and sell all the stuff that gets you in trouble with space patrols and are the sources of pirate convoys. Players can make a lot of money by setting up factory loops that produce the illicit goods in demand at these stations within or just outside of pirate space, as most illegal goods can be sold at high prices comparative to the cost to produce them. ==Encyclopedia Entry== Despite the pirates calling their base a space station this pirate base is actually constructed from the hulks of old transporter ships. It is heavily camouflaged and is very difficult to locate and see. It is also rumoured that if the base is in danger of attack, or discovery, it is simply flown to a new secret location. It is also well guarded and any ship that approaches it is automatically scanned for concealed weapons and to ensure they are not carrying police or enemy fighters. Once accepted at the station a pilot may trade anything and everything. No cargo is too dangerous, no price is too high for the right goods. Due to the illegal operations carried out by the pirates this station also acts as their main area of rest and recreation. All manner of pleasures are to be found inside - most of them either highly immoral or highly illegal. ==Services== Pirate Bases buy and sell [[Illegal_Wares_by_Faction|illegal goods]] and are excellent places to sell [[Space Weed]] and [[Space Fuel]]. Pirate bases will also purchase captured pilots. ==Availability== Pirate bases are not for sale and upon destruction may respawn in another sector. Unlike most respawning NPC stations, Pirate Bases do not need transport via TL. {{Stationcategory}} {{stub}}
+Pirate bases buy and sell all the stuff that gets you in trouble with space patrols and are the sources of pirate convoys.
+
+Players can make a lot of money by setting up factory loops that produce the illicit goods in demand at these stations within or just outside of pirate space, as most illegal goods can be sold at high prices comparative to the cost to produce them.
+
+==Encyclopedia Entry==
+
+Despite the pirates calling their base a space station this pirate base is actually constructed from the hulks of old transporter ships. It is heavily camouflaged and is very difficult to locate and see. It is also rumoured that if the base is in danger of attack, or discovery, it is simply flown to a new secret location. It is also well guarded and any ship that approaches it is automatically scanned for concealed weapons and to ensure they are not carrying police or enemy fighters. Once accepted at the station a pilot may trade anything and everything. No cargo is too dangerous, no price is too high for the right goods. Due to the illegal operations carried out by the pirates this station also acts as their main area of rest and recreation. All manner of pleasures are to be found inside - most of them either highly immoral or highly illegal.
+
+==Services==
+Pirate Bases buy and sell [[Illegal_Wares_by_Faction|illegal goods]] and are excellent places to sell [[Space Weed]] and [[Space Fuel]].
+
+Pirate bases will also purchase captured pilots.
+
+==Availability==
+Pirate bases are not for sale and upon destruction may respawn in another sector.
+
+Unlike most respawning NPC stations, Pirate Bases do not need transport via TL.
+
+{{Stationcategory}}
+{{stub}}

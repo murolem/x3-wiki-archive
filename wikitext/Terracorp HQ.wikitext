@@ -1,3 +1,31 @@
-<!-- source file: index__q585a0e7c7620.html -->
+{{Infobox open}}
+{{Infobox basicstation
+|faction=Argon
+|station=Terracorp HQ
+|hull=
+|shield=
+|generator=
+|hangar=
+|stationprice=
+}}
+{{Infobox close}}
+==Overview==
+Located in [[Home of Light]] Terracorp HQ is the center of Terracorp operations. 
 
-{{Infobox open}} {{Infobox basicstation |faction=Argon |station=Terracorp HQ |hull= |shield= |generator= |hangar= |stationprice= }} {{Infobox close}} ==Overview== Located in [[Home of Light]] Terracorp HQ is the center of Terracorp operations. In addition to administrative functions, the station offers: *[[Jumpdrive]]s *[[Transporter device]]s *[[Trade Command Software]] Mk3 *[[Singularity Engine Time Accelerator]] *Salvage Insurance *Argon Law Enforcement Licenses *[[Trading System Extension]]s *[[Supply Command Software]] *[[Best Selling Price Locator]]s *[[Bioscanner]]s *[[Best Buys Locator]]s ==Availability== ==Loop information== {{Stationcategory}}
+In addition to administrative functions, the station offers:
+*[[Jumpdrive]]s
+*[[Transporter device]]s
+*[[Trade Command Software]] Mk3
+*[[Singularity Engine Time Accelerator]]
+*Salvage Insurance
+*Argon Law Enforcement Licenses
+*[[Trading System Extension]]s
+*[[Supply Command Software]]
+*[[Best Selling Price Locator]]s
+*[[Bioscanner]]s
+*[[Best Buys Locator]]s
+
+==Availability==
+==Loop information==
+
+{{Stationcategory}}

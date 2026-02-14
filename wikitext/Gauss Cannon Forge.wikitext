@@ -1,3 +1,29 @@
-<!-- source file: index__q9820148d3ecb.html -->
+{{Infobox open}}
+{{Infobox factory
+|faction=Teladi
+|station=Gauss Cannon Forge
+|hull=1000000
+|shield=9
+|generator=2 000
+|hangar=5
+|cycle=03:49:12
+|productnum=[[Gauss Cannon]] (1)
+|stationprice={{Priceblock|Teladi Company Owner|12,091,494}}
+|reqresources=[[Energy Cells]] (3438) <br>[[Nostrop Oil]] (2292) <br>[[Ore]] (5)
+|optresources=[[Teladianium]]
+}}
+{{Infobox close}}
+==Overview==
+Gauss Cannon Forges are Teladi factories that produce the [[Gauss Cannon]] from [[Energy Cells]], [[Nostrop Oil]] and [[Ore]]. 
 
-{{Infobox open}} {{Infobox factory |faction=Teladi |station=Gauss Cannon Forge |hull=1000000 |shield=9 |generator=2 000 |hangar=5 |cycle=03:49:12 |productnum=[[Gauss Cannon]] (1) |stationprice={{Priceblock|Teladi Company Owner|12,091,494}} |reqresources=[[Energy Cells]] (3438) &lt;br>[[Nostrop Oil]] (2292) &lt;br>[[Ore]] (5) |optresources=[[Teladianium]] }} {{Infobox close}} ==Overview== Gauss Cannon Forges are Teladi factories that produce the [[Gauss Cannon]] from [[Energy Cells]], [[Nostrop Oil]] and [[Ore]]. NPC stations will buy [[Teladianium]] as a secondary resource. ===Encyclopedia Entry=== This production facility manufactures the Gauss Cannon. ==Availability== This factory is sold exclusively at [[Ceo's Sprite]]. {{Stationcategory}} {{Teladicategory}}
+NPC stations will buy [[Teladianium]] as a secondary resource.
+
+===Encyclopedia Entry===
+This production facility manufactures the Gauss Cannon.
+
+
+==Availability==
+This factory is sold exclusively at [[Ceo's Sprite]].
+
+{{Stationcategory}}
+{{Teladicategory}}

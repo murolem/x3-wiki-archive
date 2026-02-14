@@ -1,3 +1,32 @@
-<!-- source file: index__qce32803f711e.html -->
+A [[Missions#Other Mission|Mission]] offered at [[stations]].
 
-A [[Missions#Other Mission|Mission]] offered at [[stations]]. ==Objective== Acquire and deliver a designated ship spaceframe. ==General Difficulty:== Easy/Medium. ==What you will need: == * Cash enough to buy the ship. * If the ship they are looking for is far away you might want a spare [[jumpdrive]] and energy cells to load onto the ship when you buy it to quickly jump it to its new owner, or a [[TM]] with jumpdrive to pick up the ship and jump it back to its new owner. ==What you will find: == * The ship to be delivered will typically be a [[:category:fighters|fighter]], but could be an [[M8]] or [[M6]] class ship. ==Commentary and Strategy== To complete this mission, get the requisite ship to the target and a message will pop up asking you to turn the ship over to the new owner. It will leave your control at this point. These missions tend to be very tight for time. You don't have time to dawdle and in many cases even flying the fully-upgraded ship directly to the target from the shipyard isn't physically possible given the timeframe. This is why it is recommended that a spare Jumpdrive or a fast TM with a jumpdrive is kept on hand for these missions. The only requirement is to deliver the spaceframe, not any equipment. As such, don't waste time fitting it out with anything other than the engine and rudder tunigs that will get it to its destination. Note that equipping the ship does not eat into your profit margin, as you'll be reimbursed the ship cost in addition to picking up your reward. In some cases the mission will ask you to deliver a ship to a shipyard that's selling the ship. So buy and instant cash! '''Warning:''' Sometimes there will be two variations of a ship with both exactly the same name and it is impossible to know which one to deliver. So if the mission does not complete when you deliver a ship it could be because you have delivered the wrong one! '''Warning:''' It is possible to get asked to deliver ships that are not actually sold at any shipyards. {{Missions}}
+==Objective==
+Acquire and deliver a designated ship spaceframe.
+
+==General Difficulty:==
+Easy/Medium.
+
+==What you will need: ==
+
+* Cash enough to buy the ship.
+* If the ship they are looking for is far away you might want a spare [[jumpdrive]] and energy cells to load onto the ship when you buy it to quickly jump it to its new owner, or a [[TM]] with jumpdrive to pick up the ship and jump it back to its new owner. 
+
+==What you will find: ==
+
+* The ship to be delivered will typically be a [[:category:fighters|fighter]], but could be an [[M8]] or [[M6]] class ship.
+
+==Commentary and Strategy==
+To complete this mission, get the requisite ship to the target and a message will pop up asking you to turn the ship over to the new owner. It will leave your control at this point.
+
+These missions tend to be very tight for time. You don't have time to dawdle and in many cases even flying the fully-upgraded ship directly to the target from the shipyard isn't physically possible given the timeframe. This is why it is recommended that a spare Jumpdrive or a fast TM with a jumpdrive is kept on hand for these missions.
+
+The only requirement is to deliver the spaceframe, not any equipment. As such, don't waste time fitting it out with anything other than the engine and rudder tunigs that will get it to its destination. Note that equipping the ship does not eat into your profit margin, as you'll be reimbursed the ship cost in addition to picking up your reward.
+
+In some cases the mission will ask you to deliver a ship to a shipyard that's selling the ship. So buy and instant cash!
+
+'''Warning:''' Sometimes there will be two variations of a ship with both exactly the same name and it is impossible to know which one to deliver. So if the mission does not complete when you deliver a ship it could be because you have delivered the wrong one!
+
+'''Warning:''' It is possible to get asked to deliver ships that are not actually sold at any shipyards.
+
+
+{{Missions}}

@@ -1,3 +1,4 @@
-<!-- source file: index__q5db6cb88200a.html -->
+==About==
+You play as the '''Player'''.
 
-==About== You play as the '''Player'''. {{Stub}}
+{{Stub}}

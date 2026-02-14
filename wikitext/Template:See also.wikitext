@@ -1,3 +1,9 @@
-<!-- source file: index__q817e9027a6e9.html -->
+<noinclude>
+==Usage==
+This is for showing users another relevant page, when referring to an article - useful when you need to mention a topic in some depth, but preventing you from needing to recreate the entire page, and end up having to maintain two copies of it. Much like the "main" template.
 
-&lt;noinclude> ==Usage== This is for showing users another relevant page, when referring to an article - useful when you need to mention a topic in some depth, but preventing you from needing to recreate the entire page, and end up having to maintain two copies of it. Much like the "main" template. &lt;pre> {{See also| Article Name}} &lt;/pre> &lt;/noinclude> &lt;includeonly>''See Also: [[{{{1}}}]]''&lt;br>&lt;/includeonly>
+<pre>
+{{See also| Article Name}}
+</pre>
+</noinclude>
+<includeonly>''See Also: [[{{{1}}}]]''<br></includeonly>

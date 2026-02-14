@@ -1,3 +1,87 @@
-<!-- source file: index__q4faf1e804cf1.html -->
+{{See also|Reputation}}
 
-{{See also|Reputation}} There are a lot of different ranks in X3. There are [[Reputation|race ranks]], [[combat]] ranks and trade ranks. Below you can get a quick overview of combat and trade ranks. Rank is a representation of character reputation in the [[X-universe]]. Killing ships increases Combat Rank, reflecting the character's reputation of combat skill. Conducting trades increases Trade Rank, reflecting the character's reputation as an expert trader. [[Missions]] often come with certain rank requirements, simulating a willingness by NPCs to trust the character with their vital interests. [[Ships]] and [[wares]] usually have race rank requirements, reflecting a need for the selling faction to have a certain amount of trust in the character. Combat ranks are also used by the game to set up opposition forces. A higher combat rank generally implies that you have some skill at fighting. As a consequence the game likes to increase the challenge of fights by spawning heavier and more numerous combatants for you to face. Per the Offical Egosoft FAQ: If you leave the game idle for a long period of time then your fight and trade ranks will start to decay. Your fight rank will drop by about 2% for every game hour without player input (or for every 6 minutes, on 1000% SETA), and your trade rank by around 0.25%. It has been tested that the lowest your Combat and Trade ranks will fall is Fighter and Master Dealer, respectively. {| cellpadding="10" |- valign="top" | ====Combat ranks==== *X-Treme *Hero *Legend *Overlord *Conqueror *Battlemaster *Crusader *Warlord *Vindicator *Assassin *Warrior *Militant *Master Chief *Fighter Chief *Specialist *Instructor *Professional *Eagle Eye *Sharpshooter *Marksman *Veteran *Fighter *Skilled *Graduate *Competent *Trainee *Rookie *Novice *Greenhorn *Nuisance *Harmless | ====Trade Ranks==== *X-Treme *Pan-Galactic Tycoon *Tycoon *Super Magnate *Magnate *Mogul *Capitalist *Master Industrialist *Industrialist *Manufacturer *Master Economist *Economist *Master Broker *Broker *Financier *Petty Financier *Wholesaler *Merchant *Retailer *Petty Retailer *Entrepreneur *Master Dealer *Dealer *Trader *Apprentice Trader *Vendor *Petty vendor *Hawker *Profiteer *Journeyman *Opportunist
+There are a lot of different ranks in X3. There are [[Reputation|race ranks]], [[combat]] ranks and trade ranks.
+Below you can get a quick overview of combat and trade ranks.
+
+Rank is a representation of character reputation in the [[X-universe]]. Killing ships increases Combat Rank, reflecting the character's reputation of combat skill. Conducting trades increases Trade Rank, reflecting the character's reputation as an expert trader.
+
+[[Missions]] often come with certain rank requirements, simulating a willingness by NPCs to trust the character with their vital interests.
+
+[[Ships]] and [[wares]] usually have race rank requirements, reflecting a need for the selling faction to have a certain amount of trust in the character.
+
+Combat ranks are also used by the game to set up opposition forces. A higher combat rank generally implies that you have some skill at fighting.  As a consequence the game likes to increase the challenge of fights by spawning heavier and more numerous combatants for you to face.
+
+Per the Offical Egosoft FAQ:
+If you leave the game idle for a long period of time then your fight and trade ranks will start to decay.  Your fight rank will drop by about 2% for every game hour without player input (or for every 6 minutes, on 1000% SETA), and your trade rank by around 0.25%. 
+
+It has been tested that the lowest your Combat and Trade ranks will fall is Fighter and Master Dealer, respectively.
+
+{| cellpadding="10"
+|- valign="top"
+|
+====Combat ranks====
+*X-Treme
+*Hero
+*Legend
+*Overlord
+*Conqueror
+*Battlemaster
+*Crusader
+*Warlord
+*Vindicator
+*Assassin
+*Warrior
+*Militant
+*Master Chief
+*Fighter Chief
+*Specialist
+*Instructor
+*Professional
+*Eagle Eye
+*Sharpshooter
+*Marksman
+*Veteran
+*Fighter
+*Skilled
+*Graduate
+*Competent
+*Trainee
+*Rookie
+*Novice
+*Greenhorn
+*Nuisance
+*Harmless
+|
+
+====Trade Ranks====
+*X-Treme
+*Pan-Galactic Tycoon
+*Tycoon
+*Super Magnate
+*Magnate
+*Mogul
+*Capitalist
+*Master Industrialist
+*Industrialist
+*Manufacturer
+*Master Economist
+*Economist
+*Master Broker
+*Broker
+*Financier
+*Petty Financier
+*Wholesaler
+*Merchant
+*Retailer
+*Petty Retailer
+*Entrepreneur
+*Master Dealer
+*Dealer
+*Trader
+*Apprentice Trader
+*Vendor
+*Petty vendor
+*Hawker
+*Profiteer
+*Journeyman
+*Opportunist

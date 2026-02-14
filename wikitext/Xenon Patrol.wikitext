@@ -1,3 +1,20 @@
-<!-- source file: index__q6e3297b651e1.html -->
+A [[Missions#Other Mission|Mission]] offered at [[stations]].
 
-A [[Missions#Other Mission|Mission]] offered at [[stations]]. General difficulty: Moderate Same as normal patrol, but this time only killing Xenon. You will also only get paid for killing Xenon ships. What you will need: * M6/M3 is best. * Decent shielding! * M1/M2 - with VERY high combat rank and much later on in the game. - by Lord of Nothing What you will find: * Random Xenon fighters spawning in the specified sector. * Kill all of them and you will get paid per Xenon ship killed. * Hostile strength increases with combat rank. Expect many M1/M2/M6 class ships much later on! - by Lord of Nothing. {{Missions}}
+General difficulty: Moderate 
+
+Same as normal patrol, but this time only killing Xenon. You will also only get paid for killing Xenon ships. 
+
+What you will need: 
+
+* M6/M3 is best. 
+* Decent shielding! 
+* M1/M2 - with VERY high combat rank and much later on in the game. - by Lord of Nothing 
+
+What you will find: 
+
+* Random Xenon fighters spawning in the specified sector. 
+* Kill all of them and you will get paid per Xenon ship killed. 
+* Hostile strength increases with combat rank. Expect many M1/M2/M6 class ships much later on! - by Lord of Nothing.
+
+
+{{Missions}}

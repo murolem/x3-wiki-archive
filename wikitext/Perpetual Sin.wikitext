@@ -1,3 +1,49 @@
-<!-- source file: index__q7ae970fcb7c9.html -->
+{{Infobox Sector
+|Race=Paranid
+|SecLevel=Border
+|Population=24,135,799
+|Planets=2
+|SunLevel=100
+|GateDist=80
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|South|571|	0|	-38857|[[Duke's Citadel]]}}
+{{Gateblock/End}}
+}}
+==Description==
+This sector, when discovered by the Paranid, was awash with [[Kha'ak]]. Paranid forces had daily skirmishes with them until oneday, the Kha'ak completely disappeared from the sector, never to be seen there again.
 
-{{Infobox Sector |Race=Paranid |SecLevel=Border |Population=24,135,799 |Planets=2 |SunLevel=100 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|South|571| 0| -38857|[[Duke's Citadel]]}} {{Gateblock/End}} }} ==Description== This sector, when discovered by the Paranid, was awash with [[Kha'ak]]. Paranid forces had daily skirmishes with them until oneday, the Kha'ak completely disappeared from the sector, never to be seen there again. ==Default [[Stations]]== None ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Nividium|7|-20693|3552|-12549}} {{Asteroid/Item|Nividium|5|20022|1014|8970}} {{Asteroid/Item|Nividium|3|-11419|6566|21081}} {{Asteroid/Item|Ore|50|11060|3463|18054}} {{Asteroid/Item|Ore|26|12992|5074|-1866}} {{Asteroid/Item|Ore|25|-2034|-1319|-8537}} {{Asteroid/Item|Ore|24|11581|-2537|-9897}} {{Asteroid/Item|Ore|23|-2400|5074|507}} {{Asteroid/Item|Ore|21|-24289|3044|6022}} {{Asteroid/Item|Ore|19|10995|0|7500}} {{Asteroid/Item|Ore|19|-6492|1014|-13052}} {{Asteroid/Item|Ore|17|-10656|2537|3044}} {{Asteroid/Item|Ore|15|-8208|4059|12717}} {{Asteroid/Item|Ore|14|-17008|4059|-6704}} {{Asteroid/Item|Ore|13|22578|-253|699}} {{Asteroid/Item|Ore|12|5153|-3044|-5142}} {{Asteroid/Item|Ore|12|2029|3044|-21118}} {{Asteroid/Item|Ore|10|-9985|3552|-19825}} {{Asteroid/Item|Silicon|57|4724|11106|13493}} {{Asteroid/Item|Silicon|43|-2081|5581|24126}} {{Asteroid/Item|Silicon|30|11081|-1014|-18552}} {{Asteroid/Item|Silicon|21|-17227|6596|12389}} {{Asteroid/Item|Silicon|21|18544|1522|-14894}} {{Asteroid/Item|Silicon|14|0|1014|10059}} {{Asteroid/End}} == See Also == {{Paranid Navbox}}
+==Default [[Stations]]==
+None
+
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Nividium|7|-20693|3552|-12549}}
+{{Asteroid/Item|Nividium|5|20022|1014|8970}}
+{{Asteroid/Item|Nividium|3|-11419|6566|21081}}
+{{Asteroid/Item|Ore|50|11060|3463|18054}}
+{{Asteroid/Item|Ore|26|12992|5074|-1866}}
+{{Asteroid/Item|Ore|25|-2034|-1319|-8537}}
+{{Asteroid/Item|Ore|24|11581|-2537|-9897}}
+{{Asteroid/Item|Ore|23|-2400|5074|507}}
+{{Asteroid/Item|Ore|21|-24289|3044|6022}}
+{{Asteroid/Item|Ore|19|10995|0|7500}}
+{{Asteroid/Item|Ore|19|-6492|1014|-13052}}
+{{Asteroid/Item|Ore|17|-10656|2537|3044}}
+{{Asteroid/Item|Ore|15|-8208|4059|12717}}
+{{Asteroid/Item|Ore|14|-17008|4059|-6704}}
+{{Asteroid/Item|Ore|13|22578|-253|699}}
+{{Asteroid/Item|Ore|12|5153|-3044|-5142}}
+{{Asteroid/Item|Ore|12|2029|3044|-21118}}
+{{Asteroid/Item|Ore|10|-9985|3552|-19825}}
+{{Asteroid/Item|Silicon|57|4724|11106|13493}}
+{{Asteroid/Item|Silicon|43|-2081|5581|24126}}
+{{Asteroid/Item|Silicon|30|11081|-1014|-18552}}
+{{Asteroid/Item|Silicon|21|-17227|6596|12389}}
+{{Asteroid/Item|Silicon|21|18544|1522|-14894}}
+{{Asteroid/Item|Silicon|14|0|1014|10059}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Paranid Navbox}}

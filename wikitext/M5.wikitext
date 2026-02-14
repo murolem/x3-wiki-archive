@@ -1,3 +1,54 @@
-<!-- source file: index__q3b56ed82f71f.html -->
+M5 ships are scout ships. They are the lightest vessels flying in known space. Whilst they are armed, this armament is little more than token; these ships are no match for any other class in a fight, including armed TS-class ships.
 
-M5 ships are scout ships. They are the lightest vessels flying in known space. Whilst they are armed, this armament is little more than token; these ships are no match for any other class in a fight, including armed TS-class ships. They are designed and usually used for reconnaissance and anti-recon, or sometimes as cannon fodder. Some M5s are referred to as the 'rich man's [[fighter drone]]'. The most powerful [[Commonwealth]] M5 weapon is generally the [[Particle Accelerator Cannon]], but some can't mount those and have to cope with the weaker [[Impulse Ray Emitter]]. [[Terran]] M5's are limited to only the [[Electro-Magnetic Plasma Cannon]], which is both a blessing (for its damage, range and energy efficiency) and a curse (due to its low projectile speed). ==Sortable List== {| class="wikitable prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:right;" |+ '''M5 Scouts''' ! Name !! Race !! Class !! data-sort-type="number" | Speed !! data-sort-type="number" | Accel !! data-sort-type="number" | Steering !! data-sort-type="number" | Hull !! Shields !! data-sort-type="number" | Shield Reactor !! data-sort-type="number" | Turrets !! data-sort-type="number" | Laser Cap !! data-sort-type="number" | Laser Rchg. !! data-sort-type="number" | Cargo !! [[Cargo Class]] !! data-sort-type="number" | Hangar !! data-sort-type="number" | Price |- |[[Arrow]] || [[Argon]] || [[M5]] || 1320 || 80 || 120 || 2,000 ||data-sort-value=2|2 x 1MJ || 1000 || 0 || 10,000 || 500* || 35 || S || 0 || Not for sale |- |[[Discoverer]] || [[Argon]] || [[M5]] || 346.1 || 150 || 64.6 || 2,000 ||data-sort-value=3|3 x 1MJ || 100 || 0 || 1,000 || 25 || 50 || M || 0 || 88,041 |- |[[Starburst]] || [[Argon]] || [[M5]] || 1140 || 440 || 300 || 2,000 ||data-sort-value=2|2 x 1MJ || 1000 || 0 || 10,000 || 500* || 35 || S || 0 || Not for sale |- |[[Valkyrie]] || [[ATF]] || [[M5]] || 470.7 || 134.5 || 61.4 || 2,200 ||data-sort-value=5|5 x 1MJ || 140 || 0 || 1,000 || 25 || 96 || M || 0 || 1,029,422 |- |[[Octopus]] || [[Boron]] || [[M5]] || 427.8 || 202 || 60.7 || 900 ||data-sort-value=2|2 x 1MJ || 75 || 0 || 1,350 || 34 || 15 || S || 0 || 73,732 |- |[[Kha'ak Scout]] || [[Kha'ak]] || [[M5]] || 354.6 || 314 || 67.5 || 600 ||data-sort-value=3|3 x 1MJ || 100 || 0 || 600 || 15 || 27 || S || 0 || Not for sale |- |[[Pegasus]] || [[Paranid]] || [[M5]] || 375.6 || 171 || 60.8 || 1,000 ||data-sort-value=3|3 x 1MJ || 100 || 0 || 550 || 14 || 76 || S || 0 || 92,561 |- |[[Pirate Harrier]] || [[Pirate]] || [[M5]] || 375.6 || 135 || 52.7 || 900 ||data-sort-value=4|4 x 1MJ || 150 || 0 || 1,100 || 27 || 90 || S || 0 || Not for sale |- |[[Kestrel]] || [[Teladi]] || [[M5]] || 605.5 || 165 || 42.0 || 2,000 ||data-sort-value=5|1 x 5MJ || 130 || 0 || 1,500 || 37 || 55 || M || 0 || 224,611 |- |[[Jaguar]] || [[Split]] || [[M5]] || 469.6 || 302 || 54.7 || 1,600 ||data-sort-value=2|2 x 1MJ || 85 || 0 || 1,200 || 30 || 30 || S || 0 || 133,095 |- |[[Harrier]] || [[Teladi]] || [[M5]] || 280 || 85 || 41.2 || 1,200 ||data-sort-value=5|1 x 5MJ || 65 || 0 || 1,000 || 25 || 104 || S || 0 || 550,949 |- |[[Rapier]] || [[Terran]] || [[M5]] || 458.5 || 225 || 57.6 || 1,300 ||data-sort-value=5|5 x 1MJ || 130 || 0 || 5,000 || 25 || 100 || S || 0 || 61,802 |- |[[deca.fade|#deca.fade]] || [[Terran]] || [[M5]] || 480.9 || 190 || 80.5 || 1,200 ||data-sort-value=2|2 x 1MJ || 70 || 0 || 800 || 20 || 62 || S || 0 || 36,035 |- |[[N]] || [[Xenon]] || [[M5]] || 360.7 || 142 || 80.5 || 2,400 ||data-sort-value=2|2 x 1MJ || 70 || 0 || 800 || 20 || 62 || S || 0 || Not for sale |- |[[Fujin]] || [[Yaki]] || [[M5]] || 413.2 || 189 || 63.8 || 1,030 ||data-sort-value=3|3 x 1MJ || 100 || 0 || 550 || 14 || 87 || M || 0 || 211,758 |- |} * * Cannot use any weapons. == See Also == {{M5}} [[Category:M5]] [[Category:Fighters|Class Page]]
+They are designed and usually used for reconnaissance and anti-recon, or sometimes as cannon fodder. Some M5s are referred to as the 'rich man's [[fighter drone]]'.
+
+The most powerful [[Commonwealth]] M5 weapon is generally the [[Particle Accelerator Cannon]], but some can't mount those and have to cope with the weaker [[Impulse Ray Emitter]].
+
+[[Terran]] M5's are limited to only the [[Electro-Magnetic Plasma Cannon]], which is both a blessing (for its damage, range and energy efficiency) and a curse (due to its low projectile speed).
+
+==Sortable List==
+
+{| class="wikitable prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:right;"
+|+ '''M5 Scouts'''
+! Name !! Race !! Class !! data-sort-type="number" | Speed !! data-sort-type="number" | Accel !! data-sort-type="number" | Steering !! data-sort-type="number" | Hull !! Shields !! data-sort-type="number" | Shield Reactor !! data-sort-type="number" | Turrets !! data-sort-type="number" | Laser Cap !! data-sort-type="number" | Laser Rchg. !! data-sort-type="number" | Cargo !! [[Cargo Class]] !! data-sort-type="number" | Hangar !! data-sort-type="number" | Price
+|-
+|[[Arrow]] || [[Argon]] || [[M5]] || 1320 || 80 || 120 || 2,000 ||data-sort-value=2|2 x 1MJ || 1000 || 0 || 10,000 || 500* || 35 || S || 0 || Not for sale
+|-
+|[[Discoverer]] || [[Argon]] || [[M5]] || 346.1 || 150 || 64.6 || 2,000 ||data-sort-value=3|3 x 1MJ || 100 || 0 || 1,000 || 25 || 50 || M || 0 || 88,041
+|-
+|[[Starburst]] || [[Argon]] || [[M5]] || 1140 || 440 || 300 || 2,000 ||data-sort-value=2|2 x 1MJ || 1000 || 0 || 10,000 || 500* || 35 || S || 0 || Not for sale
+|-
+|[[Valkyrie]] || [[ATF]] || [[M5]] || 470.7 || 134.5 || 61.4 || 2,200 ||data-sort-value=5|5 x 1MJ || 140 || 0 || 1,000 || 25 || 96 || M || 0 || 1,029,422
+|-
+|[[Octopus]] || [[Boron]] || [[M5]] || 427.8 || 202 || 60.7 || 900 ||data-sort-value=2|2 x 1MJ || 75 || 0 || 1,350 || 34 || 15 || S || 0 || 73,732
+|-
+|[[Kha'ak Scout]] || [[Kha'ak]] || [[M5]] || 354.6 || 314 || 67.5 || 600 ||data-sort-value=3|3 x 1MJ || 100 || 0 || 600 || 15 || 27 || S || 0 || Not for sale
+|-
+|[[Pegasus]] || [[Paranid]] || [[M5]] || 375.6 || 171 || 60.8 || 1,000 ||data-sort-value=3|3 x 1MJ || 100 || 0 || 550 || 14 || 76 || S || 0 || 92,561
+|-
+|[[Pirate Harrier]] || [[Pirate]] || [[M5]] || 375.6 || 135 || 52.7 || 900 ||data-sort-value=4|4 x 1MJ || 150 || 0 || 1,100 || 27 || 90 || S || 0 || Not for sale
+|-
+|[[Kestrel]] || [[Teladi]] || [[M5]] || 605.5 || 165 || 42.0 || 2,000 ||data-sort-value=5|1 x 5MJ || 130 || 0 || 1,500 || 37 || 55 || M || 0 || 224,611
+|-
+|[[Jaguar]] || [[Split]] || [[M5]] || 469.6 || 302 || 54.7 || 1,600 ||data-sort-value=2|2 x 1MJ || 85 || 0 || 1,200 || 30 || 30 || S || 0 || 133,095
+|-
+|[[Harrier]] || [[Teladi]] || [[M5]] || 280 || 85 || 41.2 || 1,200 ||data-sort-value=5|1 x 5MJ || 65 || 0 || 1,000 || 25 || 104 || S || 0 || 550,949
+|-
+|[[Rapier]] || [[Terran]] || [[M5]] || 458.5 || 225 || 57.6 || 1,300 ||data-sort-value=5|5 x 1MJ || 130 || 0 || 5,000 || 25 || 100 || S || 0 || 61,802
+|-
+|[[deca.fade|#deca.fade]] || [[Terran]] || [[M5]] || 480.9 || 190 || 80.5 || 1,200 ||data-sort-value=2|2 x 1MJ || 70 || 0 || 800 || 20 || 62 || S || 0 || 36,035
+|-
+|[[N]] || [[Xenon]] || [[M5]] || 360.7 || 142 || 80.5 || 2,400 ||data-sort-value=2|2 x 1MJ || 70 || 0 || 800 || 20 || 62 || S || 0 || Not for sale
+|-
+|[[Fujin]] || [[Yaki]] || [[M5]] || 413.2 || 189 || 63.8 || 1,030 ||data-sort-value=3|3 x 1MJ || 100 || 0 || 550 || 14 || 87 || M || 0 || 211,758
+|-
+|}
+
+* * Cannot use any weapons.
+
+== See Also ==
+
+{{M5}}
+
+[[Category:M5]]
+[[Category:Fighters|Class Page]]

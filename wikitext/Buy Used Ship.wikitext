@@ -1,3 +1,10 @@
-<!-- source file: index__qfefbec830a22.html -->
+A free standing [[Missions#Offers|Offer]] in space.
 
-A free standing [[Missions#Offers|Offer]] in space. Buy ship for specified money. Ship will be listed as % of hull left intact and money you need to pay for it. Keep an eye out for rare ships such as the [[Hyperion]] that are selling these and you might find yourself a bargain. In some cases, you can find a 100% ship that you can sell for a profit at a nearby shipyard. Instant profit! (Emphasis on SOME...) NB: at least in version 3.0, 100% ships are usually VASTLY OVERPRICED, so you do not make a profit when you try to sell them at a shipyard. On the other hand, the price drop from damaged ships is enormous, so if you get offered a 80% ship, and sell it on a shipyard (without repairing it), you can make around 100% profit. Still, even the 100% offers might be useful if your race rank prohibits you from buying that ship in a regular shipyard of that race. Also, this is a good way to buy a TS cheaply to get your trading career started. These offers only pop up if you have a decent race rank in the sector though. {{Missions}}
+Buy ship for specified money. Ship will be listed as % of hull left intact and money you need to pay for it. Keep an eye out for rare ships such as the [[Hyperion]] that are selling these and you might find yourself a bargain.  
+
+In some cases, you can find a 100% ship that you can sell for a profit at a nearby shipyard. Instant profit! (Emphasis on SOME...)
+
+NB: at least in version 3.0, 100% ships are usually VASTLY OVERPRICED, so you do not make a profit when you try to sell them at a shipyard.  On the other hand, the price drop from damaged ships is enormous, so if you get offered a 80% ship, and sell it on a shipyard (without repairing it), you can make around 100% profit.  Still, even the 100% offers might be useful if your race rank prohibits you from buying that ship in a regular shipyard of that race.  Also, this is a good way to buy a TS cheaply to get your trading career started.  These offers only pop up if you have a decent race rank in the sector though.
+
+
+{{Missions}}

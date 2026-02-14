@@ -1,3 +1,143 @@
-<!-- source file: index__qf0000f5d3d66.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Zeus
+|Faction=Paranid
+|Class={{M1class}}
+|Priceblock= {{Priceblock||86,730,365 }}
+|Minspeed= 51.3 
+|Maxspeed= 82.0 
+|Minaccel= 4.0
+|Maxaccel= 6.0
+|Minsteer= 0.4
+|Maxsteer= 0.6
+|Hull= 400,000
+|Maxshield= 2 GJ
+|Shieldslots= 3
+|Maxshieldstrength=6000
+|Shieldreactor= 8200
+|Cargoclass= XL
+|Mincargo= 8000
+|Maxcargo= 8000
+|Lasercap= 58500
+|Laserrecharge= 877
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=4
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=1|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=4
+|ire=0|pac=0|hept=1|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=1|tbc=0|ebc=0|
+faa=1|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot= Left
+|Guncount=4
+|ire=0|pac=0|hept=1|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=1|tbc=0|ebc=0|
+faa=1|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Back
+|Guncount=4
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot= Up
+|Guncount=2
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=1|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Down
+|Guncount=2
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=1|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay={{Dockbay|42 [[M3+]]-[[M5]]}}
+}}
+{{Infobox close}}
+==Overview==
+The [[Paranid]] Zeus, like many Paranid ships, is a faster and lower capacity version of the [[Argon]] equivalent ship; in this case the [[Colossus]]. Whilst slightly faster than the Colossus, the Zeus is considerably more expensive and has less than three-quarters of the fighter carrying capacity. However, the ability to equip it with [[Phased Shockwave Generator|PSGs]] all round make it an impossible target for enemy fighters.
 
-{{Infobox open}} {{Infobox variant |Variant=Zeus |Faction=Paranid |Class={{M1class}} |Priceblock= {{Priceblock||86,730,365 }} |Minspeed= 51.3 |Maxspeed= 82.0 |Minaccel= 4.0 |Maxaccel= 6.0 |Minsteer= 0.4 |Maxsteer= 0.6 |Hull= 400,000 |Maxshield= 2 GJ |Shieldslots= 3 |Maxshieldstrength=6000 |Shieldreactor= 8200 |Cargoclass= XL |Mincargo= 8000 |Maxcargo= 8000 |Lasercap= 58500 |Laserrecharge= 877 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=4 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=1|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Right |Guncount=4 |ire=0|pac=0|hept=1| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=1|tbc=0|ebc=0| faa=1|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot= Left |Guncount=4 |ire=0|pac=0|hept=1| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=1|tbc=0|ebc=0| faa=1|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Back |Guncount=4 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot= Up |Guncount=2 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=1|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Down |Guncount=2 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=1|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay={{Dockbay|42 [[M3+]]-[[M5]]}} }} {{Infobox close}} ==Overview== The [[Paranid]] Zeus, like many Paranid ships, is a faster and lower capacity version of the [[Argon]] equivalent ship; in this case the [[Colossus]]. Whilst slightly faster than the Colossus, the Zeus is considerably more expensive and has less than three-quarters of the fighter carrying capacity. However, the ability to equip it with [[Phased Shockwave Generator|PSGs]] all round make it an impossible target for enemy fighters. ==Background== The Zeus is the primary carrier in the Paranid Fleet. Information about this ship, other than the fact that it is very deadly as a result of new weapons technology, have not been released. This ship's tactics are not to get close to battle, and to release its swarm of powerful fighters from a distance. Paranid pilots have been known to hide their ships in dense asteroid fields to keep their signature from hostile craft. ==Physical Characteristics== Short and squat like other Paranid capital ships, the Zeus is considered by some to be a beauty and others to be an eyesore. Either way, it is almost impossible to miss this ship with weapons fire. == Combat == Like all M1s, the Zeus should not be put in a situation where it is going head to head with another capital ship. It can be equipped with the most devastating anti-fighter weaponry in the game; the PSG. However, this weapon should not be used in a dogfight between friendly and enemy fighters as it is not the most discriminating weapon. == Equipment == == Availability == The Zeus is available at Paranid shipyards in [[Paranid Prime]], [[Trinity Sanctum]], [[Third Redemption]], [[Cardinal's Domain]], [[Duke's Citadel]] and [[Heaven's Assertion]]. == Suggested Roles== The Zeus makes for a fairly good fleet support ship, even though its hangar bay is less than that of other comparable ships. The ability to mount PSGs makes the Zeus highly effective against fighters, corvettes, and missiles, though if mounted with even one of these, it cannot fly with its own fighters lest it risks having friendly fire incidents. Be sure to remember not to pit this ship against M2 destroyers, since it will get vaporized fairly quickly unless you're suicidal enough to take on one, or if you carry Firestorms and/or Typhoons. == See Also== {{M1}} [[Category: Carrier]] {{Paranid Navbox}}
+==Background==
+The Zeus is the primary carrier in the Paranid Fleet. Information about this ship, other than the fact that it is very deadly as a result of new weapons technology, have not been released. This ship's tactics are not to get close to battle, and to release its swarm of powerful fighters from a distance. Paranid pilots have been known to hide their ships in dense asteroid fields to keep their signature from hostile craft.
+
+==Physical Characteristics==
+Short and squat like other Paranid capital ships, the Zeus is considered by some to be a beauty and others to be an eyesore. Either way, it is almost impossible to miss this ship with weapons fire.
+== Combat ==
+Like all M1s, the Zeus should not be put in a situation where it is going head to head with another capital ship. It can be equipped with the most devastating anti-fighter weaponry in the game; the PSG. However, this weapon should not be used in a dogfight between friendly and enemy fighters as it is not the most discriminating weapon.
+
+== Equipment ==
+== Availability ==
+The Zeus is available at Paranid shipyards in [[Paranid Prime]], [[Trinity Sanctum]], [[Third Redemption]], [[Cardinal's Domain]], [[Duke's Citadel]] and [[Heaven's Assertion]].
+
+== Suggested Roles==
+
+The Zeus makes for a fairly good fleet support ship, even though its hangar bay is less than that of other comparable ships. The ability to mount PSGs makes the Zeus highly effective against fighters, corvettes, and missiles, though if mounted with even one of these, it cannot fly with its own fighters lest it risks having friendly fire incidents. Be sure to remember not to pit this ship against M2 destroyers, since it will get vaporized fairly quickly unless you're suicidal enough to take on one, or if you carry Firestorms and/or Typhoons.
+
+== See Also==
+
+{{M1}}
+[[Category: Carrier]]
+
+
+{{Paranid Navbox}}

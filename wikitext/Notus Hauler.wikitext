@@ -1,3 +1,116 @@
-<!-- source file: index__q13bc86637aee.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Notus Hauler
+|Faction=OTAS
+|Class={{M3+class}}
+|Priceblock={{Priceblock|Argon|Trusted Ally 5,534,600}}
+|Minspeed=67.6
+|Maxspeed=169
+|Minaccel=12
+|Maxaccel=31
+|Minsteer=16
+|Maxsteer=40
+|Hull=20000
+|Maxshield=25 MJ
+|Shieldslots=5
+|Maxshieldstrength=125
+|Shieldreactor= 1100
+|Cargoclass=L
+|Mincargo=120
+|Maxcargo=255
+|Lasercap=8000
+|Laserrecharge=200
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Front
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The Notus is the most powerful [[Commonwealth]] fighter. It should not be underestimated, as its only drawback is a slightly paltry cargo capacity for its class.
 
-{{Infobox open}} {{Infobox variant |Variant=Notus Hauler |Faction=OTAS |Class={{M3+class}} |Priceblock={{Priceblock|Argon|Trusted Ally 5,534,600}} |Minspeed=67.6 |Maxspeed=169 |Minaccel=12 |Maxaccel=31 |Minsteer=16 |Maxsteer=40 |Hull=20000 |Maxshield=25 MJ |Shieldslots=5 |Maxshieldstrength=125 |Shieldreactor= 1100 |Cargoclass=L |Mincargo=120 |Maxcargo=255 |Lasercap=8000 |Laserrecharge=200 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Front |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The Notus is the most powerful [[Commonwealth]] fighter. It should not be underestimated, as its only drawback is a slightly paltry cargo capacity for its class. ==Background== ==Physical Characteristics== == Combat == The Notus is arguably an improvement on the [[Venti]], as although it has one less weapon in total, it has improved generation to fire them and two are now turreted. It makes an exceptional dogfighter. With improved shielding over its predecessor, its survivability in battle has also increased. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] | *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] | *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] *[[Aurora Missile]] | *[[Remote Guided Warhead]] *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] | *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == The Notus is not available to buy in Vanilla, nor is it available as a plot reward. It must be [[capping|capped]], which is possible, as there are Argon Notus Haulers patrolling some Argon sectors. Can be found home-based to OWPs, like in Aladna Hill. The Notus IS available at the OTAS shipyard in Albion Prelude. == Suggested Roles== == See Also== {{M3+}}
+==Background==
+==Physical Characteristics==
+== Combat ==
+The Notus is arguably an improvement on the [[Venti]], as although it has one less weapon in total, it has improved generation to fire them and two are now turreted. It makes an exceptional dogfighter. With improved shielding over its predecessor, its survivability in battle has also increased.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+|
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+|
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Aurora Missile]]
+|
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+|
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+== Availability ==
+The Notus is not available to buy in Vanilla, nor is it available as a plot reward. It must be [[capping|capped]], which is possible, as there are Argon Notus Haulers patrolling some Argon sectors. Can be found home-based to OWPs, like in Aladna Hill.  The Notus IS available at the OTAS shipyard in Albion Prelude.
+
+== Suggested Roles==
+== See Also==
+{{M3+}}

@@ -1,3 +1,38 @@
-<!-- source file: index__q01add413d908.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox basicstation
+|faction=Boron
+|station=Stock Exchange
+|hull=
+|shield=
+|generator=
+|hangar=
+|stationprice=
+}}
+{{Infobox close}}
 
-__NOTOC__ {{Infobox open}} {{Infobox basicstation |faction=Boron |station=Stock Exchange |hull= |shield= |generator= |hangar= |stationprice= }} {{Infobox close}} ((update this with fluff. Must not have unlocked it already. To unlock requires a low economic rank)) This stock exchange is located in [[Kingdom End]]. This station buys or sells the following: *[[Bofu]] *[[Cloth Rimes]] *[[Microchips]] *[[Navigation Relay Satellite]] *[[Quantum Tubes]] *[[Soja Husk]] *[[Stott Spices]] Upgrades at this station are: *[[Cargo Bay Extension]] *[[Engine Tuning]] *[[Rudder Optimisation]] *[[Police license|Boron Law Enforcement License]] *[[Singularity Engine Time Accelerator]] {{Stationcategory}}
+((update this with fluff. Must not have unlocked it already. To unlock requires a low economic rank))
+
+This stock exchange is located in [[Kingdom End]].
+
+
+This station buys or sells the following:
+
+*[[Bofu]]
+*[[Cloth Rimes]]
+*[[Microchips]]
+*[[Navigation Relay Satellite]]
+*[[Quantum Tubes]]
+*[[Soja Husk]]
+*[[Stott Spices]]
+
+
+Upgrades at this station are:
+*[[Cargo Bay Extension]]
+*[[Engine Tuning]]
+*[[Rudder Optimisation]]
+*[[Police license|Boron Law Enforcement License]]
+*[[Singularity Engine Time Accelerator]]
+
+
+{{Stationcategory}}

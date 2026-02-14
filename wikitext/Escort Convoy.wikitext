@@ -1,3 +1,27 @@
-<!-- source file: index__qc951fc34f555.html -->
+A [[Missions#Other Mission|Mission]] offered in space.
 
-A [[Missions#Other Mission|Mission]] offered in space. ==Objective== Escort a convoy of ships across several Sectors to their destination. ==General Difficulty:== Hard/Very hard. ==What you will need: == Exceptional combat ship. Likely with several escorts. ==What you will find: == * [[TS]] ships with weak shields that due to a weak AI will tend to stop dead in space whenever they take fire. * Sent to kill your charges, anything from [[M5]]s to [[:Category:Capital Ships|Capital-class]] ships, depending on [[combat rank]]. ==Commentary and Strategy== It might sound simple, just escort the guys. Now it is not that you face enemies that are that strong, more that they just keep spawning and every time a spacefly sneezes next to one of the convoy while they are about to go through a gate they just stop, turn around and go back for another round. Do these missions OOS and you should have an easier time getting the convoy to actually move through the gate. This mission is only good if you like watching TS ships die or you want to boost your rep by killing off the attackers sent to kill them. {{Missions}}
+==Objective==
+Escort a convoy of ships across several Sectors to their destination.
+
+==General Difficulty:==
+Hard/Very hard.
+
+==What you will need: ==
+
+Exceptional combat ship. Likely with several escorts.
+
+==What you will find: ==
+
+* [[TS]] ships with weak shields that due to a weak AI will tend to stop dead in space whenever they take fire.
+
+* Sent to kill your charges, anything from [[M5]]s to [[:Category:Capital Ships|Capital-class]] ships, depending on [[combat rank]].
+
+==Commentary and Strategy==
+It might sound simple, just escort the guys. Now it is not that you face enemies that are that strong, more that they just keep spawning and every time a spacefly sneezes next to one of the convoy while they are about to go through a gate they just stop, turn around and go back for another round.
+
+Do these missions OOS and you should have an easier time getting the convoy to actually move through the gate. 
+
+This mission is only good if you like watching TS ships die or you want to boost your rep by killing off the attackers sent to kill them.
+
+
+{{Missions}}

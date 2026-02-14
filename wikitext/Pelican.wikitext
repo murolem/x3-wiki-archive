@@ -1,3 +1,102 @@
-<!-- source file: index__qa18455a66bec.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Pelican
+|Faction=Teladi
+|Class={{TMclass}}
+|Priceblock={{Priceblock|| 316505}}
+|Minspeed=48.8
+|Maxspeed=88
+|Minaccel=4
+|Maxaccel=8
+|Minsteer=1.3
+|Maxsteer=2.3
+|Hull=16800
+|Maxshield=200 MJ
+|Shieldslots=3
+|Maxshieldstrength=600
+|Shieldreactor= 950
+|Cargoclass=XL
+|Mincargo=1200
+|Maxcargo=1700
+|Lasercap=850
+|Laserrecharge=34
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Turret Front
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Turret Back
+|Guncount=2
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay={{Dockbay|4 {{Fighterdock}}}}
+}}
+{{Infobox close}}
+==Overview==
+Large and with a good cargo capacity, the Pelican's weakness is its snail-like speed.
 
-{{Infobox open}} {{Infobox variant |Variant=Pelican |Faction=Teladi |Class={{TMclass}} |Priceblock={{Priceblock|| 316505}} |Minspeed=48.8 |Maxspeed=88 |Minaccel=4 |Maxaccel=8 |Minsteer=1.3 |Maxsteer=2.3 |Hull=16800 |Maxshield=200 MJ |Shieldslots=3 |Maxshieldstrength=600 |Shieldreactor= 950 |Cargoclass=XL |Mincargo=1200 |Maxcargo=1700 |Lasercap=850 |Laserrecharge=34 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Turret Front |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Turret Back |Guncount=2 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay={{Dockbay|4 {{Fighterdock}}}} }} {{Infobox close}} ==Overview== Large and with a good cargo capacity, the Pelican's weakness is its snail-like speed. ==Background== The Pelican was developed primarily for convoy protection, after growing numbers of Teladi Company transports had been lost to hostile action. ==Physical Characteristics== The Pelican is derived from the [[Vulture]]. == Combat == The Pelican has high survivability; however it needs it as it is slow to run away. The reduced number of hardpoints also reduce the offensive power of this ship slightly, although given the generally weak power of TM weapon generators this is not too much of a penalty in a long fight. The Pelican is capable of getting right into the middle of a dogfight and providing fire support without too much concern about its survival. == Equipment == '''Allowed Missiles''' *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] *[[Disruptor Missile]] *[[Firefly Missile]] *[[Hurricane Missile]] *[[Aurora Missile]] *[[Remote Guided Warhead]] *[[Rapier Missile]] *[[Firelance Missile]] *[[Wildfire Missile]] == Availability == {| style="text-align:center;" |- style="{{Colour/Teladi}}" ! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]] |- ! style="text-align:left;" | Pelican || || x || x || || x || x |} == Suggested Roles== This is the only TM that can be trusted in the middle of a fight; however, getting it to the fight is problematic. A good fighter tender, however its low speed are a severe penalty to any trading role. A Pelican with a full stock of fighters makes a useful escort to slower ships, and has been known to defeat ships as large as [[M6]] class with a little luck. == See Also== {{TM}} [[Category: Carrier]] {{Teladi Navbox}}
+==Background==
+The Pelican was developed primarily for convoy protection, after growing numbers of Teladi Company transports had been lost to hostile action.
+==Physical Characteristics==
+The Pelican is derived from the [[Vulture]].
+
+== Combat ==
+The Pelican has high survivability; however it needs it as it is slow to run away. The reduced number of hardpoints also reduce the offensive power of this ship slightly, although given the generally weak power of TM weapon generators this is not too much of a penalty in a long fight. The Pelican is capable of getting right into the middle of a dogfight and providing fire support without too much concern about its survival.
+
+== Equipment ==
+'''Allowed Missiles'''
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Hurricane Missile]]
+*[[Aurora Missile]]
+*[[Remote Guided Warhead]]
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+
+== Availability ==
+{| style="text-align:center;"
+|- style="{{Colour/Teladi}}"
+! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]]
+|-
+! style="text-align:left;" | Pelican ||   || x || x ||  || x || x
+|}
+
+== Suggested Roles==
+This is the only TM that can be trusted in the middle of a fight; however, getting it to the fight is problematic. A good fighter tender, however its low speed are a severe penalty to any trading role.
+
+A Pelican with a full stock of fighters makes a useful escort to slower ships, and has been known to defeat ships as large as [[M6]] class with a little luck.
+
+== See Also==
+{{TM}}
+[[Category: Carrier]]
+
+
+{{Teladi Navbox}}

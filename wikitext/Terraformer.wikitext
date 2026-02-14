@@ -1,3 +1,7 @@
-<!-- source file: index__q8917089a423a.html -->
+The Terrans had been using terraformer machines in order to make planets habitable, and when no longer needed these were often abandoned and left to float through space.
 
-The Terrans had been using terraformer machines in order to make planets habitable, and when no longer needed these were often abandoned and left to float through space. In time, a patch was created that corrupted all terraformers and turned them against their former masters, they were led into commonwealth space and the Terran gate was destroyed. They have since evolved into the [[Xenon]]. Some terraformers existed in isolation and developed independently, such as the terraformer found recently in Aldrin and another in a trackless Unknown Sector Terraformers are a form of [[AGI]] and are currently banned from development.
+In time, a patch was created that corrupted all terraformers and turned them against their former masters, they were led into commonwealth space and the Terran gate was destroyed. They have since evolved into the [[Xenon]].
+
+Some terraformers existed in isolation and developed independently, such as the terraformer found recently in Aldrin and another in a trackless Unknown Sector
+
+Terraformers are a form of [[AGI]] and are currently banned from development.

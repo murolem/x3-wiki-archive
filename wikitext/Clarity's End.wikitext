@@ -1,3 +1,76 @@
-<!-- source file: index__qc6430b331980.html -->
+{{Infobox Sector
+|Race=Paranid
+|SecLevel=Border
+|Population=69,106,948
+|Planets=1
+|SunLevel=150
+|GateDist=80
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|2500|	0|	34000|[[Hatikvah's Faith]]}}
+{{Gateblock2|East|40000|	0|	0|[[Third Redemption]]}}
+{{Gateblock/End}}
+}}
+==Description==
+Long-range scout patrols from [[Cardinal's Domain]] ventured upon this sectorat the same timeas the arrival of a mining expedition from [[Aladna Hill]]. The resulting tensions did little but re-open old wounds. Few [[Paranid]] would deny the opportunity to fan the flames of a war brought over from the old world.
 
-{{Infobox Sector |Race=Paranid |SecLevel=Border |Population=69,106,948 |Planets=1 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|North|2500| 0| 34000|[[Hatikvah's Faith]]}} {{Gateblock2|East|40000| 0| 0|[[Third Redemption]]}} {{Gateblock/End}} }} ==Description== Long-range scout patrols from [[Cardinal's Domain]] ventured upon this sectorat the same timeas the arrival of a mining expedition from [[Aladna Hill]]. The resulting tensions did little but re-open old wounds. Few [[Paranid]] would deny the opportunity to fan the flames of a war brought over from the old world. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|30|26633|6025|-18103}} {{Asteroid/Item|Ore|20|-10110|-4991|-3753}} {{Asteroid/Item|Ore|15|8776|-28372|-8395}} {{Asteroid/Item|Ore|15|21129|-21275|-34026}} {{Asteroid/Item|Ore|13|-10529|-21856|8252}} {{Asteroid/Item|Ore|11|8896|898|24490}} {{Asteroid/Item|Ore|10|-38206|28554|11342}} {{Asteroid/Item|Ore|10|-49816|14220|8151}} {{Asteroid/Item|Ore|9|-42735|20318|6203}} {{Asteroid/Item|Ore|9|12680|-4981|-38223}} {{Asteroid/Item|Ore|8|-36382|12148|4840}} {{Asteroid/Item|Ore|8|-49552|19141|-392}} {{Asteroid/Item|Ore|8|-5634|-23687|-6496}} {{Asteroid/Item|Ore|7|3713|5830|29578}} {{Asteroid/Item|Ore|6|-7045|16644|12077}} {{Asteroid/Item|Ore|6|-39061|22373|-2039}} {{Asteroid/Item|Ore|6|-7035|2555|-16061}} {{Asteroid/Item|Ore|6|10274|25113|-22772}} {{Asteroid/Item|Ore|5|-15026|-24502|1266}} {{Asteroid/Item|Ore|5|-23443|-4920|-8993}} {{Asteroid/Item|Ore|5|17547|-20262|-25927}} {{Asteroid/Item|Ore|4|-10529|-10529|6984}} {{Asteroid/Item|Ore|4|6408|9983|-12885}} {{Asteroid/Item|Ore|4|-10214|-7987|-30161}} {{Asteroid/Item|Ore|3|8463|-21677|34727}} {{Asteroid/Item|Ore|3|12259|-7426|11850}} {{Asteroid/Item|Ore|2|-40520|11433|19069}} {{Asteroid/Item|Ore|2|-37803|19304|-16166}} {{Asteroid/Item|Ore|2|-9461|21345|-21637}} {{Asteroid/Item|Ore|2|31417|-24199|-38758}} {{Asteroid/Item|Ore|1|-40520|11433|19069}} {{Asteroid/Item|Ore|1|-7246|-15941|18839}} {{Asteroid/Item|Ore|1|-48500|7419|16559}} {{Asteroid/Item|Ore|1|24420|644|-2506}} {{Asteroid/Item|Ore|1|-46033|-11523|-4281}} {{Asteroid/Item|Ore|1|-40759|816|-7788}} {{Asteroid/Item|Ore|1|5646|-31640|-36451}} {{Asteroid/Item|Ore|0|-34029|-10076|-21351}} {{Asteroid/Item|Silicon|40|-3472|3742|34759}} {{Asteroid/Item|Silicon|30|9462|-22871|-30264}} {{Asteroid/Item|Silicon|20|-1734|-10165|-32682}} {{Asteroid/Item|Silicon|20|19654|-9601|-39581}} {{Asteroid/Item|Silicon|12|-8746|24692|-33194}} {{Asteroid/Item|Silicon|10|-33347|-7746|23867}} {{Asteroid/Item|Silicon|10|-20208|32310|-14592}} {{Asteroid/Item|Silicon|10|-18992|-6488|-32853}} {{Asteroid/Item|Silicon|7|-2021|7995|20676}} {{Asteroid/Item|Silicon|7|-27418|-7608|13753}} {{Asteroid/Item|Silicon|7|-5434|12408|-1268}} {{Asteroid/Item|Silicon|2|27460|-10436|-36080}} {{Asteroid/Item|Silicon|1|-16092|-4920|-17418}} {{Asteroid/Item|Silicon|1|5434|3351|-25723}} {{Asteroid/End}} == See Also == {{Paranid Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|30|26633|6025|-18103}}
+{{Asteroid/Item|Ore|20|-10110|-4991|-3753}}
+{{Asteroid/Item|Ore|15|8776|-28372|-8395}}
+{{Asteroid/Item|Ore|15|21129|-21275|-34026}}
+{{Asteroid/Item|Ore|13|-10529|-21856|8252}}
+{{Asteroid/Item|Ore|11|8896|898|24490}}
+{{Asteroid/Item|Ore|10|-38206|28554|11342}}
+{{Asteroid/Item|Ore|10|-49816|14220|8151}}
+{{Asteroid/Item|Ore|9|-42735|20318|6203}}
+{{Asteroid/Item|Ore|9|12680|-4981|-38223}}
+{{Asteroid/Item|Ore|8|-36382|12148|4840}}
+{{Asteroid/Item|Ore|8|-49552|19141|-392}}
+{{Asteroid/Item|Ore|8|-5634|-23687|-6496}}
+{{Asteroid/Item|Ore|7|3713|5830|29578}}
+{{Asteroid/Item|Ore|6|-7045|16644|12077}}
+{{Asteroid/Item|Ore|6|-39061|22373|-2039}}
+{{Asteroid/Item|Ore|6|-7035|2555|-16061}}
+{{Asteroid/Item|Ore|6|10274|25113|-22772}}
+{{Asteroid/Item|Ore|5|-15026|-24502|1266}}
+{{Asteroid/Item|Ore|5|-23443|-4920|-8993}}
+{{Asteroid/Item|Ore|5|17547|-20262|-25927}}
+{{Asteroid/Item|Ore|4|-10529|-10529|6984}}
+{{Asteroid/Item|Ore|4|6408|9983|-12885}}
+{{Asteroid/Item|Ore|4|-10214|-7987|-30161}}
+{{Asteroid/Item|Ore|3|8463|-21677|34727}}
+{{Asteroid/Item|Ore|3|12259|-7426|11850}}
+{{Asteroid/Item|Ore|2|-40520|11433|19069}}
+{{Asteroid/Item|Ore|2|-37803|19304|-16166}}
+{{Asteroid/Item|Ore|2|-9461|21345|-21637}}
+{{Asteroid/Item|Ore|2|31417|-24199|-38758}}
+{{Asteroid/Item|Ore|1|-40520|11433|19069}}
+{{Asteroid/Item|Ore|1|-7246|-15941|18839}}
+{{Asteroid/Item|Ore|1|-48500|7419|16559}}
+{{Asteroid/Item|Ore|1|24420|644|-2506}}
+{{Asteroid/Item|Ore|1|-46033|-11523|-4281}}
+{{Asteroid/Item|Ore|1|-40759|816|-7788}}
+{{Asteroid/Item|Ore|1|5646|-31640|-36451}}
+{{Asteroid/Item|Ore|0|-34029|-10076|-21351}}
+{{Asteroid/Item|Silicon|40|-3472|3742|34759}}
+{{Asteroid/Item|Silicon|30|9462|-22871|-30264}}
+{{Asteroid/Item|Silicon|20|-1734|-10165|-32682}}
+{{Asteroid/Item|Silicon|20|19654|-9601|-39581}}
+{{Asteroid/Item|Silicon|12|-8746|24692|-33194}}
+{{Asteroid/Item|Silicon|10|-33347|-7746|23867}}
+{{Asteroid/Item|Silicon|10|-20208|32310|-14592}}
+{{Asteroid/Item|Silicon|10|-18992|-6488|-32853}}
+{{Asteroid/Item|Silicon|7|-2021|7995|20676}}
+{{Asteroid/Item|Silicon|7|-27418|-7608|13753}}
+{{Asteroid/Item|Silicon|7|-5434|12408|-1268}}
+{{Asteroid/Item|Silicon|2|27460|-10436|-36080}}
+{{Asteroid/Item|Silicon|1|-16092|-4920|-17418}}
+{{Asteroid/Item|Silicon|1|5434|3351|-25723}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Paranid Navbox}}

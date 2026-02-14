@@ -1,3 +1,30 @@
-<!-- source file: index__q3a57911ffd45.html -->
+{{Infobox Sector
+|Race=Boron
+|SecLevel=Border
+|Population=26,873,903
+|Planets=3
+|SunLevel=150
+|GateDist=100
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|625|	-1250|	28506|[[Rolk's Fate]]}}
+{{Gateblock2|South|-8250|	0|	-30131|[[Farnham's Legend]]}}
+{{Gateblock2|West|-43006|	0|	-2500|[[The Hole]]}}
+</table>
+}}
+==Description==
+===Encyclopedia Entry===
+The planet 'Tethys' has a huge population and the [[Boron]] are determined to protect the billions living there from the dangerous lawlessness of nearby 'uncivilized' systems. The local economy is very reliant on import of raw materials - most notably [[Teladianium]] which is required by the many [[Bio Gas Factory|Bio Gas Factories]]
+==Default [[Stations]]==
+*[[Military Outpost]]
+*[[Pirate Base]]
 
-{{Infobox Sector |Race=Boron |SecLevel=Border |Population=26,873,903 |Planets=3 |SunLevel=150 |GateDist=100 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|625| -1250| 28506|[[Rolk's Fate]]}} {{Gateblock2|South|-8250| 0| -30131|[[Farnham's Legend]]}} {{Gateblock2|West|-43006| 0| -2500|[[The Hole]]}} &lt;/table> }} ==Description== ===Encyclopedia Entry=== The planet 'Tethys' has a huge population and the [[Boron]] are determined to protect the billions living there from the dangerous lawlessness of nearby 'uncivilized' systems. The local economy is very reliant on import of raw materials - most notably [[Teladianium]] which is required by the many [[Bio Gas Factory|Bio Gas Factories]] ==Default [[Stations]]== *[[Military Outpost]] *[[Pirate Base]] ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|7|15391|-6365|-844}} {{Asteroid/Item|Ore|7|7427|3075|-2895}} {{Asteroid/End}} == See Also == {{Boron Navbox}}
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|7|15391|-6365|-844}}
+{{Asteroid/Item|Ore|7|7427|3075|-2895}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Boron Navbox}}

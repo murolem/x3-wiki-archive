@@ -1,3 +1,135 @@
-<!-- source file: index__q5b30a4554618.html -->
+{{Infobox Station
+|Name=OTAS HQ
+|Race=Argon
+|Type=Dock
+|Capacity=0
+|Hull=15,000,000
+|Shield=30 x [[2 GJ Shield]]
+|Production=none
+|Docking=10 x [[TS]]/[[TP]]/[[M6]]/[[M8]] <br> 2-4 x [[M1]]/[[M2]]/[[M7]]
+}}
 
-{{Infobox Station |Name=OTAS HQ |Race=Argon |Type=Dock |Capacity=0 |Hull=15,000,000 |Shield=30 x [[2 GJ Shield]] |Production=none |Docking=10 x [[TS]]/[[TP]]/[[M6]]/[[M8]] &lt;br> 2-4 x [[M1]]/[[M2]]/[[M7]] }} The OTAS HQ is a Corporation HQ that supplies a small selection of wares for the OTAS Fleet. When you discover the HQ in [[Legend's Home]], the OTAS Stock appears in your available Corporation Stocks. ===Goods &amp; Wares=== {| class="wikitable sortable" |+Goods |- !Name !Volume !Container Size !Max Stock |- |[[Advanced Satellite]] |4 |M |40 |- |[[Energy Cells]] |1 |S |5000 |- |[[Lasertower]] |100 |XL |2 |- |} {| class="wikitable sortable" |+Items |- !Name !Volume !Container Size !Max Stock |- |[[Salvage Insurance]] | | - |Upgrade |- |} {| class="wikitable sortable" |+Shields |- !Name !Volume !Container Size !Max Stock |- |[[1 GJ Shield]] |77 |XL |4 |- |[[1 MJ Shield]] |1 |S |250 |- |[[2 GJ Shield]] |222 |XL |4 |- |[[200 MJ Shield]] |25 |L |8 |- |[[25 MJ Shield]] |10 |M |14 |- |} {| class="wikitable sortable" |+Equipment |- !Name !Volume !Container Size !Max Stock |- |[[Docking Computer]] | | - |Upgrade |- |[[Freight Scanner]] | | - |Upgrade |- |[[Jumpdrive]] | | - |Upgrade |- |[[Singularity Engine Time Accelerator]] | | - |Upgrade |- |[[Supply Command Software]] | | - |Upgrade |- |[[Trade Command Software]] Mk3 | | - |Upgrade |- |[[Triplex Scanner]] | | - |Upgrade |- |}
+The OTAS HQ is a Corporation HQ that supplies a small selection of wares for the OTAS Fleet. When you discover the HQ in [[Legend's Home]], the OTAS Stock appears in your available Corporation Stocks.
+
+===Goods & Wares===
+
+{| class="wikitable sortable"
+|+Goods
+|-
+!Name
+!Volume
+!Container Size
+!Max Stock
+|-
+|[[Advanced Satellite]]
+|4
+|M
+|40
+|-
+|[[Energy Cells]]
+|1
+|S
+|5000
+|-
+|[[Lasertower]]
+|100
+|XL
+|2
+|-
+|}
+
+{| class="wikitable sortable"
+|+Items
+|-
+!Name
+!Volume
+!Container Size
+!Max Stock
+|-
+|[[Salvage Insurance]]
+|
+| -
+|Upgrade
+|-
+|}
+
+{| class="wikitable sortable"
+|+Shields
+|-
+!Name
+!Volume
+!Container Size
+!Max Stock
+|-
+|[[1 GJ Shield]]
+|77
+|XL
+|4
+|-
+|[[1 MJ Shield]]
+|1
+|S
+|250
+|-
+|[[2 GJ Shield]]
+|222
+|XL
+|4
+|-
+|[[200 MJ Shield]]
+|25
+|L
+|8
+|-
+|[[25 MJ Shield]]
+|10
+|M
+|14
+|-
+|}
+
+
+{| class="wikitable sortable"
+|+Equipment
+|-
+!Name
+!Volume
+!Container Size
+!Max Stock
+|-
+|[[Docking Computer]]
+|
+| -
+|Upgrade
+|-
+|[[Freight Scanner]]
+|
+| -
+|Upgrade
+|-
+|[[Jumpdrive]]
+|
+| -
+|Upgrade
+|-
+|[[Singularity Engine Time Accelerator]]
+|
+| -
+|Upgrade
+|-
+|[[Supply Command Software]]
+|
+| -
+|Upgrade
+|-
+|[[Trade Command Software]] Mk3
+|
+| -
+|Upgrade
+|-
+|[[Triplex Scanner]]
+|
+| -
+|Upgrade
+|-
+|}

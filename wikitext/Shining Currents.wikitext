@@ -1,3 +1,21 @@
-<!-- source file: index__q89d356ca31ec.html -->
+{{Infobox Sector
+|Race=Boron
+|SecLevel=Border
+|Population=70,587,038
+|Planets=2
+|SunLevel=100
+|GateDist=135
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|	0|	68350|[[Dark Waters]]}}
+{{Gateblock2|East|67500|	0|	0|[[Great Reef]]}}
+{{Gateblock/End}}
+}}
+==Description==
+The Boron sector of Shining Currents was founded as a food production centre to aid the continuing growth of the Boron Kingdom. The name comes from the reflexion of the mercury ocean on the moon of the primary planet.
 
-{{Infobox Sector |Race=Boron |SecLevel=Border |Population=70,587,038 |Planets=2 |SunLevel=100 |GateDist=135 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0| 0| 68350|[[Dark Waters]]}} {{Gateblock2|East|67500| 0| 0|[[Great Reef]]}} {{Gateblock/End}} }} ==Description== The Boron sector of Shining Currents was founded as a food production centre to aid the continuing growth of the Boron Kingdom. The name comes from the reflexion of the mercury ocean on the moon of the primary planet. ==Default [[Stations]]== ==[[Asteroids]]== == See Also == {{Boron Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+== See Also ==
+{{Boron Navbox}}

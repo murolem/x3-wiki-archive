@@ -1,3 +1,22 @@
-<!-- source file: index__q16ef2c48ee76.html -->
+{{Infobox Sector
+|Race=Paranid
+|SecLevel=Border
+|Population=91,543,285
+|Planets=2
+|SunLevel=150
+|GateDist=80
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|	0|	27975|[[Spring Of Belief]]}}
+{{Gateblock2|East|33975|	0|	3375|[[Consecrated Fire]]}}
+{{Gateblock2|West|-35475|	0|	-6000|[[Unknown Sector (7,15)]]}}
+{{Gateblock/End}}
+}}
+==Description==
+This sector lies in low orbit of the hostile planet Xhar'Bar, where the Xaarist priests accused earl colonists of not following the Paranid religion.
 
-{{Infobox Sector |Race=Paranid |SecLevel=Border |Population=91,543,285 |Planets=2 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0| 0| 27975|[[Spring Of Belief]]}} {{Gateblock2|East|33975| 0| 3375|[[Consecrated Fire]]}} {{Gateblock2|West|-35475| 0| -6000|[[Unknown Sector (7,15)]]}} {{Gateblock/End}} }} ==Description== This sector lies in low orbit of the hostile planet Xhar'Bar, where the Xaarist priests accused earl colonists of not following the Paranid religion. ==Default [[Stations]]== ==[[Asteroids]]== == See Also == {{Paranid Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+== See Also ==
+{{Paranid Navbox}}

@@ -1,3 +1,23 @@
-<!-- source file: index__q9cc03342dd05.html -->
+{{Infobox Sector
+|Race=Player
+|SecLevel=
+|Population=
+|Planets=1
+|SunLevel=600
+|GateDist=
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|South|0     |	0|	-60000|[[Void of Opportunity]]}}
+</table>
+}}
+==Description==
 
-{{Infobox Sector |Race=Player |SecLevel= |Population= |Planets=1 |SunLevel=600 |GateDist= |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|South|0 | 0| -60000|[[Void of Opportunity]]}} &lt;/table> }} ==Description== The Player Sector (galactic coordinates 12,4) is a sector awarded to the player after completing the Breaking Grounds plot (AP 3.0). It's actual name depends on player choice. ==Default [[Stations]]== None, although upon acquiring the sector, the player will be given the option of moving their [[Headquarters|Player HQ]] and/or Corporate HQ there, even if previously deployed elsewhere. ==[[Asteroids]]== Several asteroids, including [[Nividium]].
+The Player Sector (galactic coordinates 12,4) is a sector awarded to the player after completing the Breaking Grounds plot (AP 3.0). It's actual name depends on player choice.
+
+==Default [[Stations]]==
+
+None, although upon acquiring the sector, the player will be given the option of moving their [[Headquarters|Player HQ]] and/or Corporate HQ there, even if previously deployed elsewhere.
+
+==[[Asteroids]]==
+
+Several asteroids, including [[Nividium]].

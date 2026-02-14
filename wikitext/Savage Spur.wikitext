@@ -1,3 +1,83 @@
-<!-- source file: index__qf6e5b0547230.html -->
+{{Infobox Sector
+|Race=Unknown
+|SecLevel=Border
+|Population=60,589,048
+|Planets=2
+|SunLevel=150
+|GateDist=90
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|East|45315|	0|	-7312|[[Empire's Edge]]}}
+{{Gateblock2|South|0|	0|	-45363|[[Ocracoke's Storm]]}}
+</table>
+}}
+==Description==
+This sector is extremely crowded with asteroids. For a patient player willing to carefully tow their mines out of the dense thicket, this sector makes a good candidate for player complexes, as long as good relations with the Yaki to the south are maintained.
 
-{{Infobox Sector |Race=Unknown |SecLevel=Border |Population=60,589,048 |Planets=2 |SunLevel=150 |GateDist=90 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|East|45315| 0| -7312|[[Empire's Edge]]}} {{Gateblock2|South|0| 0| -45363|[[Ocracoke's Storm]]}} &lt;/table> }} ==Description== This sector is extremely crowded with asteroids. For a patient player willing to carefully tow their mines out of the dense thicket, this sector makes a good candidate for player complexes, as long as good relations with the Yaki to the south are maintained. ===Encyclopedia Entry=== Increased [[Kha'ak]] activity has meant that the [[Paranid]] have made no move to reclaim this inhospitable sector and no other race has shown interest as it borders only Paranid space. Localised [[Yaki]] activity is also a negative point to consider, leading some to believe it is used as a [[Pirate]] or Yaki safe-haven. ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|57|10392|14404|-24759}} {{Asteroid/Item|Ore|51|5992|7126|-8919}} {{Asteroid/Item|Ore|46|17901|2236|-336794}} {{Asteroid/Item|Ore|39|10511|20971|-20100}} {{Asteroid/Item|Ore|34|40485|9422|-27663}} {{Asteroid/Item|Ore|32|22161|931|-39095}} {{Asteroid/Item|Ore|29|24686|14908|3640}} {{Asteroid/Item|Ore|29|28259|9346|-22288}} {{Asteroid/Item|Ore|28|43426|-1377|3875}} {{Asteroid/Item|Ore|27|52263|13445|5525}} {{Asteroid/Item|Ore|27|49864|14259|-25991}} {{Asteroid/Item|Ore|26|14252|10869|-2396}} {{Asteroid/Item|Ore|23|37193|-20563|-1810}} {{Asteroid/Item|Ore|23|4026|8808|-26623}} {{Asteroid/Item|Ore|22|46363|-9216|-24044}} {{Asteroid/Item|Ore|21|32565|-14558|-49367}} {{Asteroid/Item|Ore|20|31788|9806|-37651}} {{Asteroid/Item|Ore|19|51967|4151|18177}} {{Asteroid/Item|Ore|18|38301|12482|14836}} {{Asteroid/Item|Ore|18|50197|10109|-17222}} {{Asteroid/Item|Ore|18|28390|-5590|-20388}} {{Asteroid/Item|Ore|17|37635|-5178|11559}} {{Asteroid/Item|Ore|16|39932|-14816|10184}} {{Asteroid/Item|Ore|16|14044|13511|-11783}} {{Asteroid/Item|Ore|14|24800|8386|-37197}} {{Asteroid/Item|Ore|13|43680|7811|-13997}} {{Asteroid/Item|Ore|12|26233|1256|-2217}} {{Asteroid/Item|Ore|12|47053|19844|-14851}} {{Asteroid/Item|Ore|12|22868|24968|-28922}} {{Asteroid/Item|Ore|11|57186|13284|-21039}} {{Asteroid/Item|Ore|10|25322|-8109|-9475}} {{Asteroid/Item|Ore|9|36686|9099|-16965}} {{Asteroid/Item|Ore|8|23394|7127|-43720}} {{Asteroid/Item|Ore|7|31776|-4850|7699}} {{Asteroid/Item|Ore|6|37021|4401|-41258}} {{Asteroid/Item|Ore|5|12459|-27192|58953}} {{Asteroid/Item|Ore|5|3836|7774|-2396}} {{Asteroid/Item|Ore|5|33952|-1195|-2930}} {{Asteroid/Item|Ore|5|16103|8160|-38471}} {{Asteroid/Item|Ore|3|22000|-4125|3972}} {{Asteroid/Item|Ore|3|42461|14541|-31701}} {{Asteroid/Item|Ore|1|36067|7765|-4284}} {{Asteroid/Item|Ore|0|64970|-16365|12358}} {{Asteroid/Item|Ore|0|-864|5875|-9398}} {{Asteroid/Item|Silicon|40|23421|2795|-33619}} {{Asteroid/Item|Silicon|31|66061|18583|-20013}} {{Asteroid/Item|Silicon|28|33648|18711|-29641}} {{Asteroid/Item|Silicon|23|29604|-2392|12887}} {{Asteroid/Item|Silicon|21|29448|-5439|1568}} {{Asteroid/Item|Silicon|21|32363|22262|-20313}} {{Asteroid/Item|Silicon|18|43278|15495|-19334}} {{Asteroid/Item|Silicon|18|35264|13632|-34794}} {{Asteroid/Item|Silicon|17|37767|2450|-23992}} {{Asteroid/Item|Silicon|15|27955|11665|-29743}} {{Asteroid/Item|Silicon|12|14976|1688|-14595}} {{Asteroid/Item|Silicon|10|15266|-5464|-19588}} {{Asteroid/Item|Silicon|9|4527|14514|-15676}} {{Asteroid/Item|Silicon|2|21346|13977|-36870}} {{Asteroid/Item|Silicon|1|26580|-15359|-11639}} {{Asteroid/Item|Silicon|0|14162|5590|-23334}} {{Asteroid/End}}
+===Encyclopedia Entry===
+Increased [[Kha'ak]] activity has meant that the [[Paranid]] have made no move to reclaim this inhospitable sector and no other race has shown interest as it borders only Paranid space. Localised [[Yaki]] activity is also a negative point to consider, leading some to believe it is used as a [[Pirate]] or Yaki safe-haven.
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|57|10392|14404|-24759}}
+{{Asteroid/Item|Ore|51|5992|7126|-8919}}
+{{Asteroid/Item|Ore|46|17901|2236|-336794}}
+{{Asteroid/Item|Ore|39|10511|20971|-20100}}
+{{Asteroid/Item|Ore|34|40485|9422|-27663}}
+{{Asteroid/Item|Ore|32|22161|931|-39095}}
+{{Asteroid/Item|Ore|29|24686|14908|3640}}
+{{Asteroid/Item|Ore|29|28259|9346|-22288}}
+{{Asteroid/Item|Ore|28|43426|-1377|3875}}
+{{Asteroid/Item|Ore|27|52263|13445|5525}}
+{{Asteroid/Item|Ore|27|49864|14259|-25991}}
+{{Asteroid/Item|Ore|26|14252|10869|-2396}}
+{{Asteroid/Item|Ore|23|37193|-20563|-1810}}
+{{Asteroid/Item|Ore|23|4026|8808|-26623}}
+{{Asteroid/Item|Ore|22|46363|-9216|-24044}}
+{{Asteroid/Item|Ore|21|32565|-14558|-49367}}
+{{Asteroid/Item|Ore|20|31788|9806|-37651}}
+{{Asteroid/Item|Ore|19|51967|4151|18177}}
+{{Asteroid/Item|Ore|18|38301|12482|14836}}
+{{Asteroid/Item|Ore|18|50197|10109|-17222}}
+{{Asteroid/Item|Ore|18|28390|-5590|-20388}}
+{{Asteroid/Item|Ore|17|37635|-5178|11559}}
+{{Asteroid/Item|Ore|16|39932|-14816|10184}}
+{{Asteroid/Item|Ore|16|14044|13511|-11783}}
+{{Asteroid/Item|Ore|14|24800|8386|-37197}}
+{{Asteroid/Item|Ore|13|43680|7811|-13997}}
+{{Asteroid/Item|Ore|12|26233|1256|-2217}}
+{{Asteroid/Item|Ore|12|47053|19844|-14851}}
+{{Asteroid/Item|Ore|12|22868|24968|-28922}}
+{{Asteroid/Item|Ore|11|57186|13284|-21039}}
+{{Asteroid/Item|Ore|10|25322|-8109|-9475}}
+{{Asteroid/Item|Ore|9|36686|9099|-16965}}
+{{Asteroid/Item|Ore|8|23394|7127|-43720}}
+{{Asteroid/Item|Ore|7|31776|-4850|7699}}
+{{Asteroid/Item|Ore|6|37021|4401|-41258}}
+{{Asteroid/Item|Ore|5|12459|-27192|58953}}
+{{Asteroid/Item|Ore|5|3836|7774|-2396}}
+{{Asteroid/Item|Ore|5|33952|-1195|-2930}}
+{{Asteroid/Item|Ore|5|16103|8160|-38471}}
+{{Asteroid/Item|Ore|3|22000|-4125|3972}}
+{{Asteroid/Item|Ore|3|42461|14541|-31701}}
+{{Asteroid/Item|Ore|1|36067|7765|-4284}}
+{{Asteroid/Item|Ore|0|64970|-16365|12358}}
+{{Asteroid/Item|Ore|0|-864|5875|-9398}}
+{{Asteroid/Item|Silicon|40|23421|2795|-33619}}
+{{Asteroid/Item|Silicon|31|66061|18583|-20013}}
+{{Asteroid/Item|Silicon|28|33648|18711|-29641}}
+{{Asteroid/Item|Silicon|23|29604|-2392|12887}}
+{{Asteroid/Item|Silicon|21|29448|-5439|1568}}
+{{Asteroid/Item|Silicon|21|32363|22262|-20313}}
+{{Asteroid/Item|Silicon|18|43278|15495|-19334}}
+{{Asteroid/Item|Silicon|18|35264|13632|-34794}}
+{{Asteroid/Item|Silicon|17|37767|2450|-23992}}
+{{Asteroid/Item|Silicon|15|27955|11665|-29743}}
+{{Asteroid/Item|Silicon|12|14976|1688|-14595}}
+{{Asteroid/Item|Silicon|10|15266|-5464|-19588}}
+{{Asteroid/Item|Silicon|9|4527|14514|-15676}}
+{{Asteroid/Item|Silicon|2|21346|13977|-36870}}
+{{Asteroid/Item|Silicon|1|26580|-15359|-11639}}
+{{Asteroid/Item|Silicon|0|14162|5590|-23334}}
+{{Asteroid/End}}

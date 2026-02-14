@@ -1,3 +1,55 @@
-<!-- source file: index__qf770b44044b8.html -->
+{{Infobox Sector
+|Race=Teladi
+|SecLevel=Border
+|Population=2,591,040
+|Planets=4
+|SunLevel=150
+|GateDist=60
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|-2900|	0|	30479|[[PTNI Headquarters]]}}
+{{Gateblock2|East|25041|	0|	0|[[Nyana's Hideout]]}}
+{{Gateblock2|South|0|	3262|	-30479|[[Xenon Sector 347]]}}
+{{Gateblock/End}}
+}}
+==Description==
+===Information===
+Scale plate green is a huge space cluster of factories and stations, far away from main Terran bases, it is next to a Xenon sector, and therefore, constantly under attack most of the missions here are escort and fighting, a perfect place for mercenaries who aren't afraid of being in a 4 cruiser battle crossfire, even though the Xenon presence here is really notorious, there are also frequent Kha'ak attacks, you can get high priced patrol contracts from different Terran and Teladi starships.
 
-{{Infobox Sector |Race=Teladi |SecLevel=Border |Population=2,591,040 |Planets=4 |SunLevel=150 |GateDist=60 |Gates={{Gateblock/Begin}} {{Gateblock2|North|-2900| 0| 30479|[[PTNI Headquarters]]}} {{Gateblock2|East|25041| 0| 0|[[Nyana's Hideout]]}} {{Gateblock2|South|0| 3262| -30479|[[Xenon Sector 347]]}} {{Gateblock/End}} }} ==Description== ===Information=== Scale plate green is a huge space cluster of factories and stations, far away from main Terran bases, it is next to a Xenon sector, and therefore, constantly under attack most of the missions here are escort and fighting, a perfect place for mercenaries who aren't afraid of being in a 4 cruiser battle crossfire, even though the Xenon presence here is really notorious, there are also frequent Kha'ak attacks, you can get high priced patrol contracts from different Terran and Teladi starships. ===Encyclopedia Entry=== Dedicated mostly to the production of [[Nostrop Oil]] for use in the industrial installations in the neighbouring systems, Scale Plate Green is situated in a small asteroid field near the garden planet 'Nature's Profit', the native home of the [[Swamp Plant]] and [[Sunrise Flowers|Sunrise Flower]]. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|36|14008|4399|1320}} {{Asteroid/Item|Ore|35|17562|-5456|14443}} {{Asteroid/Item|Ore|31|1222|6528|7849}} {{Asteroid/Item|Ore|24|4507|-4706|8443}} {{Asteroid/Item|Ore|20|12386|6400|11442}} {{Asteroid/Item|Ore|20|295|-3214|4275}} {{Asteroid/Item|Ore|20|295|-3214|4275}} {{Asteroid/Item|Ore|19|22629|-5635|9208}} {{Asteroid/Item|Ore|17|12064|5442|-7201}} {{Asteroid/Item|Ore|16|13445|-2532|952}} {{Asteroid/Item|Ore|16|-5716|-4791|-2285}} {{Asteroid/Item|Ore|13|-11568|-275|4280}} {{Asteroid/Item|Ore|11|4572|724|-10029}} {{Asteroid/Item|Ore|10|20266|2307|6476}} {{Asteroid/Item|Ore|9|-15259|-4297|13000}} {{Asteroid/Item|Ore|7|7455|9023|3078}} {{Asteroid/Item|Ore|6|-11535|6104|-3805}} {{Asteroid/Item|Ore|4|-6696|2631|17496}} {{Asteroid/Item|Silicon|29|15799|-6775|7309}} {{Asteroid/Item|Silicon|17|-7168|8114|6658}} {{Asteroid/Item|Silicon|17|-3524|275|-9234}} {{Asteroid/Item|Silicon|11|1298|227|-2020}} {{Asteroid/Item|Silicon|10|-22915|-56|4348}} {{Asteroid/Item|Silicon|10|-17272|3970|1956}} {{Asteroid/Item|Silicon|10|1222|-5624|-7016}} {{Asteroid/Item|Silicon|6|-11842|-3589|-8443}} {{Asteroid/End}} == See Also == {{Teladi Navbox}}
+===Encyclopedia Entry===
+Dedicated mostly to the production of [[Nostrop Oil]] for use in the industrial installations in the neighbouring systems, Scale Plate Green is situated in a small asteroid field near the garden planet 'Nature's Profit', the native home of the [[Swamp Plant]] and [[Sunrise Flowers|Sunrise Flower]].
+
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|36|14008|4399|1320}}
+{{Asteroid/Item|Ore|35|17562|-5456|14443}}
+{{Asteroid/Item|Ore|31|1222|6528|7849}}
+{{Asteroid/Item|Ore|24|4507|-4706|8443}}
+{{Asteroid/Item|Ore|20|12386|6400|11442}}
+{{Asteroid/Item|Ore|20|295|-3214|4275}}
+{{Asteroid/Item|Ore|20|295|-3214|4275}}
+{{Asteroid/Item|Ore|19|22629|-5635|9208}}
+{{Asteroid/Item|Ore|17|12064|5442|-7201}}
+{{Asteroid/Item|Ore|16|13445|-2532|952}}
+{{Asteroid/Item|Ore|16|-5716|-4791|-2285}}
+{{Asteroid/Item|Ore|13|-11568|-275|4280}}
+{{Asteroid/Item|Ore|11|4572|724|-10029}}
+{{Asteroid/Item|Ore|10|20266|2307|6476}}
+{{Asteroid/Item|Ore|9|-15259|-4297|13000}}
+{{Asteroid/Item|Ore|7|7455|9023|3078}}
+{{Asteroid/Item|Ore|6|-11535|6104|-3805}}
+{{Asteroid/Item|Ore|4|-6696|2631|17496}}
+{{Asteroid/Item|Silicon|29|15799|-6775|7309}}
+{{Asteroid/Item|Silicon|17|-7168|8114|6658}}
+{{Asteroid/Item|Silicon|17|-3524|275|-9234}}
+{{Asteroid/Item|Silicon|11|1298|227|-2020}}
+{{Asteroid/Item|Silicon|10|-22915|-56|4348}}
+{{Asteroid/Item|Silicon|10|-17272|3970|1956}}
+{{Asteroid/Item|Silicon|10|1222|-5624|-7016}}
+{{Asteroid/Item|Silicon|6|-11842|-3589|-8443}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Teladi Navbox}}

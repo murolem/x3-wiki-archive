@@ -1,3 +1,75 @@
-<!-- source file: index__q43c31c6888b4.html -->
+{{Infobox Sector
+|Race=Split
+|SecLevel=Border
+|Population=77,380,756
+|Planets=2
+|SunLevel=100
+|GateDist=60
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|East|29232|	0|	0|[[Ministry of Finance]]}}
+{{Gateblock2|South|0|	0|	-29232|[[Family Rhy]]}}
+{{Gateblock2|West|-71511|	0|	6101|[[Rhy's Crusade]]}}
+{{Gateblock/End}}
+}}
+==Description==
+This sector contains one half of Family Rhy's assets. They use this sytem as a supply depot to passing split craft. The planet's main colony consists of a large geodesic dome. Inside one can find large amounts of weaponry being sold in armoury markets. Pirate activity in this system is also increased because of the local activity, but the Rhy Family does nothing to stop this. Being on the border of the local Teladi Sectores, Rhy's Desire can usually find a large numbers of teladi coming in to trade and purchase these illegal goods.
 
-{{Infobox Sector |Race=Split |SecLevel=Border |Population=77,380,756 |Planets=2 |SunLevel=100 |GateDist=60 |Gates={{Gateblock/Begin}} {{Gateblock2|East|29232| 0| 0|[[Ministry of Finance]]}} {{Gateblock2|South|0| 0| -29232|[[Family Rhy]]}} {{Gateblock2|West|-71511| 0| 6101|[[Rhy's Crusade]]}} {{Gateblock/End}} }} ==Description== This sector contains one half of Family Rhy's assets. They use this sytem as a supply depot to passing split craft. The planet's main colony consists of a large geodesic dome. Inside one can find large amounts of weaponry being sold in armoury markets. Pirate activity in this system is also increased because of the local activity, but the Rhy Family does nothing to stop this. Being on the border of the local Teladi Sectores, Rhy's Desire can usually find a large numbers of teladi coming in to trade and purchase these illegal goods. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|51|-10674|-5885|-14270}} {{Asteroid/Item|Ore|25|-21837|-3790|32290}} {{Asteroid/Item|Ore|25|-43560|-4976|21951}} {{Asteroid/Item|Ore|25|-30399|302|17426}} {{Asteroid/Item|Ore|25|-41992|2560|16286}} {{Asteroid/Item|Ore|25|-44277|1208|5755}} {{Asteroid/Item|Ore|25|-52770|1734|-9351}} {{Asteroid/Item|Ore|21|-34535|-4762|23407}} {{Asteroid/Item|Ore|21|-52049|-5008|21971}} {{Asteroid/Item|Ore|18|-28435|-3990|26130}} {{Asteroid/Item|Ore|18|-47075|-1449|22007}} {{Asteroid/Item|Ore|18|-9907|1459|21808}} {{Asteroid/Item|Ore|18|-53807|-5412|12774}} {{Asteroid/Item|Ore|18|-56391|-713|9316}} {{Asteroid/Item|Ore|18|5434|1551|3770}} {{Asteroid/Item|Ore|18|-49463|-5195|-17005}} {{Asteroid/Item|Ore|13|-1376|-3461|27512}} {{Asteroid/Item|Ore|13|-38780|3987|18420}} {{Asteroid/Item|Ore|13|-24587|535|16884}} {{Asteroid/Item|Ore|13|-1963|-979|12637}} {{Asteroid/Item|Ore|13|4060|-4611|-4891}} {{Asteroid/Item|Ore|8|-43683|-2319|28463}} {{Asteroid/Item|Ore|8|-9462|5154|16591}} {{Asteroid/Item|Ore|8|-20114|-36|11179}} {{Asteroid/Item|Ore|8|-23931|-2721|9872}} {{Asteroid/Item|Ore|8|-14356|1931|9013}} {{Asteroid/Item|Ore|8|-15453|-3502|8867}} {{Asteroid/Item|Ore|8|-54429|2901|3674}} {{Asteroid/Item|Ore|8|-33721|-2421|-14065}} {{Asteroid/Item|Ore|5|-13948|1105|52688}} {{Asteroid/Item|Ore|5|6090|-5283|20486}} {{Asteroid/Item|Ore|5|-39471|-4815|11809}} {{Asteroid/Item|Ore|5|-40007|2053|8101}} {{Asteroid/Item|Ore|5|-47674|3785|-2137}} {{Asteroid/Item|Ore|5|-7269|-1892|-13454}} {{Asteroid/Item|Silicon|64|-19056|920|21302}} {{Asteroid/Item|Silicon|64|-7789|2832|-11781}} {{Asteroid/Item|Silicon|56|-41180|-5814|-6089}} {{Asteroid/Item|Silicon|26|-23444|-2448|24360}} {{Asteroid/Item|Silicon|26|-23902|5437|16309}} {{Asteroid/Item|Silicon|26|-39538|-2421|15595}} {{Asteroid/Item|Silicon|26|-24824|3254|8211}} {{Asteroid/Item|Silicon|26|-34903|1446|4830}} {{Asteroid/Item|Silicon|26|-36530|4029|1369}} {{Asteroid/Item|Silicon|18|-16095|2253|14163}} {{Asteroid/Item|Silicon|8|-7453|-5892|28831}} {{Asteroid/Item|Silicon|6|-44488|4043|31226}} {{Asteroid/Item|Silicon|6|-7814|2148|28815}} {{Asteroid/Item|Silicon|6|-3013|-730|6216}} {{Asteroid/Item|Silicon|5|6940|3865|13860}} {{Asteroid/End}} == See Also == {{Split Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|51|-10674|-5885|-14270}}
+{{Asteroid/Item|Ore|25|-21837|-3790|32290}}
+{{Asteroid/Item|Ore|25|-43560|-4976|21951}}
+{{Asteroid/Item|Ore|25|-30399|302|17426}}
+{{Asteroid/Item|Ore|25|-41992|2560|16286}}
+{{Asteroid/Item|Ore|25|-44277|1208|5755}}
+{{Asteroid/Item|Ore|25|-52770|1734|-9351}}
+{{Asteroid/Item|Ore|21|-34535|-4762|23407}}
+{{Asteroid/Item|Ore|21|-52049|-5008|21971}}
+{{Asteroid/Item|Ore|18|-28435|-3990|26130}}
+{{Asteroid/Item|Ore|18|-47075|-1449|22007}}
+{{Asteroid/Item|Ore|18|-9907|1459|21808}}
+{{Asteroid/Item|Ore|18|-53807|-5412|12774}}
+{{Asteroid/Item|Ore|18|-56391|-713|9316}}
+{{Asteroid/Item|Ore|18|5434|1551|3770}}
+{{Asteroid/Item|Ore|18|-49463|-5195|-17005}}
+{{Asteroid/Item|Ore|13|-1376|-3461|27512}}
+{{Asteroid/Item|Ore|13|-38780|3987|18420}}
+{{Asteroid/Item|Ore|13|-24587|535|16884}}
+{{Asteroid/Item|Ore|13|-1963|-979|12637}}
+{{Asteroid/Item|Ore|13|4060|-4611|-4891}}
+{{Asteroid/Item|Ore|8|-43683|-2319|28463}}
+{{Asteroid/Item|Ore|8|-9462|5154|16591}}
+{{Asteroid/Item|Ore|8|-20114|-36|11179}}
+{{Asteroid/Item|Ore|8|-23931|-2721|9872}}
+{{Asteroid/Item|Ore|8|-14356|1931|9013}}
+{{Asteroid/Item|Ore|8|-15453|-3502|8867}}
+{{Asteroid/Item|Ore|8|-54429|2901|3674}}
+{{Asteroid/Item|Ore|8|-33721|-2421|-14065}}
+{{Asteroid/Item|Ore|5|-13948|1105|52688}}
+{{Asteroid/Item|Ore|5|6090|-5283|20486}}
+{{Asteroid/Item|Ore|5|-39471|-4815|11809}}
+{{Asteroid/Item|Ore|5|-40007|2053|8101}}
+{{Asteroid/Item|Ore|5|-47674|3785|-2137}}
+{{Asteroid/Item|Ore|5|-7269|-1892|-13454}}
+{{Asteroid/Item|Silicon|64|-19056|920|21302}}
+{{Asteroid/Item|Silicon|64|-7789|2832|-11781}}
+{{Asteroid/Item|Silicon|56|-41180|-5814|-6089}}
+{{Asteroid/Item|Silicon|26|-23444|-2448|24360}}
+{{Asteroid/Item|Silicon|26|-23902|5437|16309}}
+{{Asteroid/Item|Silicon|26|-39538|-2421|15595}}
+{{Asteroid/Item|Silicon|26|-24824|3254|8211}}
+{{Asteroid/Item|Silicon|26|-34903|1446|4830}}
+{{Asteroid/Item|Silicon|26|-36530|4029|1369}}
+{{Asteroid/Item|Silicon|18|-16095|2253|14163}}
+{{Asteroid/Item|Silicon|8|-7453|-5892|28831}}
+{{Asteroid/Item|Silicon|6|-44488|4043|31226}}
+{{Asteroid/Item|Silicon|6|-7814|2148|28815}}
+{{Asteroid/Item|Silicon|6|-3013|-730|6216}}
+{{Asteroid/Item|Silicon|5|6940|3865|13860}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Split Navbox}}

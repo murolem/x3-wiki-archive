@@ -1,3 +1,6 @@
-<!-- source file: index__q9519abb18dc5.html -->
+This page holds links to pages categorized M7M.
 
-This page holds links to pages categorized M7M. The M7M is the missile frigate of the X universe. {{Shipcategory}} [[Category:Capital Ships]]
+The M7M is the missile frigate of the X universe.
+
+{{Shipcategory}}
+[[Category:Capital Ships]]

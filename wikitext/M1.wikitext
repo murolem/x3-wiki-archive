@@ -1,3 +1,92 @@
-<!-- source file: index__qdd8d93dcd868.html -->
+==Overview==
 
-==Overview== M1 Carriers are dangerous combat support ships carrying entire wings of [[M5]], [[M4]] and [[M3]] fighters. M1s are usually heavily armed and armored, but have fewer guns than [[M2]] class Destroyers, and usually have much smaller laser generators. As a rule, they can brush off attacks from [[M6|Corvette]]s or smaller, but should not be allowed to get into a slugging match with another [[:Category:Capital Ships|Capital-class]] ship. ==Acquiring== M1 ships include: {| ! Purchasable !! Capturable !! Not Boardable !! Does Not Spawn |- valign="top" | *[[Odin|ATF Odin]] *[[Woden|ATF Woden]] *[[Colossus|Argon Colossus]] *[[Shark|Boron Shark]] *[[Zeus|Paranid Zeus]] *[[Raptor|Split Raptor]] *[[Condor|Teladi Condor]] *[[Tokyo|Terran Tokyo]] *[[Hoshi|Yaki Hoshi]] | *[[Aran|Goner Aran]] *[[Galleon|Pirate Galleon]] *[[Deca|Terraformer #deca]] *[[Xenon J]] *[[Shuri|Yaki Shuri]] *[[Colossus#Colossus_Hauler|Argon Colossus Hauler]] | *[[Kha'ak Carrier]] *[[Hive Queen|Kha'ak Hive Queen]] | *[[Mobile Repair Ship|Goner Mobile Repair Ship]] |} ==Orbital Weapon Platforms== Orbital Weapons Platforms are classed as M1, but resemble space stations in most regards. They include: *[[Orbital Weapon Platform L]] *[[Orbital Weapon Platform M]] *[[Orbital Weapon Platform S]] == Sortable List == {| class="wikitable prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:right;" |+ '''M1 Carriers''' ! Name !! Race !! Class !! Speed !! Accel !! Steering !! Hull !! Shields !! Shield Reactor !! Turrets !! Laser Cap !! Laser Rchg. !! Cargo !! [[Cargo Class]] !! Hangar !! Price |- |[[Colossus]] || [[Argon]] || [[M1]] || 79.1 || 6.27 || 0.66 || 400,000 || 3 x 2GJ || 8,200 || 6 || 53,200 || 798 || 8,800 || XL || 60 || 67,823,098 |- |[[Odin]] || [[ATF]] || [[M1]] || 85 || 8 || 0.86 || 1,600,000 || 5 x 2GJ || 8,500 || 6 || 105,000 || 1,575 || 12,500 || XL || 44 || 67,891,874 |- |[[Woden]] || [[ATF]] || [[M1]] || 90 || 8 || 0.8 || 2,000,000 || 6 x 2GJ || 9,000 || 6 || 107,000 || 1,600 || 12,000 || XL || 30 || 76,102,339 |- |[[Shark]] || [[Boron]] || [[M1]] || 93 || 9.3 || 0.67 || 360,000 || 3 x 2GJ || 9,400 || 6 || 47,800 || 717 || 10,000 || XL || 45 || 61,790,791 |- |[[Aran]] || [[Goner]] || [[M1]] || 12.2 || 0 || 0.08 || 340,000 || 6 x 2GJ || 34,200 || 0 || 38,500 || 578 || 120,000 || XL || 30+ || Not for sale |- |[[Mobile Repair Ship]] || [[Goner]] || [[M1]] || 12.2 || 0 || 0.08 || 340,000 || 6 x 2GJ || 34,200 || 0 || 38,500 || 578 || 120,000 || XL || 30 || Not for sale |- |[[Kha'ak Carrier]] || [[Kha'ak]] || [[M1]] || 96.9 || 11 || 0.8 || 120,000 || 4 x 2GJ || 9,400 || 6 || 28,500 || 855 || 8,000 || XL || 25 || Not for sale |- |[[Hive Queen]] || [[Kha'ak]] || [[M1]] || 96.9 || 11 || 0.8 || 120,000 || 9 x 2GJ || 9,400 || 6 || 28,500 || 855 || 8,000 || XL || 25 || Not for sale |- |[[Zeus]] || [[Paranid]] || [[M1]] || 82 || 6 || 0.6 || 400,000 || 3 x 2GJ || 8,200 || 6 || 58,500 || 877 || 8,000 || XL || 42 || 86,730,365 |- |[[Galleon]] || [[Pirate]] || [[M1]] || 83.2 || 8 || 0.9 || 300,000 || 2 x 2GJ || 6,560 || 6 || 53,200 || 797 || 8,360 || XL || 25 || Not for sale |- |[[Raptor]] || [[Split]] || [[M1]] || 109.3 || 13 || 0.6 || 320,000 || 2 x 2GJ || 9,000 || 6 || 71,800 || 1,076 || 8,800 || XL || 65 || 80,276,604 |- |[[Condor]] || [[Teladi]] || [[M1]] || 64.5 || 4 || 0.5 || 480,000 || 4 x 2GJ || 7,600 || 6 || 53,200 || 797 || 12,000 || XL || 35 || 67,952,727 |- |[[Deca|#deca]] || [[Terraformer]] || [[M1]] || 36 || 9 || 0.9 || 900,000 || 6 x 2GJ || 9,400 || 4 || 250,000 || 3,746 || 8,000 || XL || 50 || Not for sale |- |[[Tokyo]] || [[Terran]] || [[M1]] || 87 || 8 || 0.8 || 340,000 || 5 x 2GJ || 10,660 || 6 || 100,000 || 3,000 || 7,040 || XL || 50 || 68,033,931 |- |[[J]] || [[Xenon]] || [[M1]] || 89.4 || 9 || 0.9 || 4,800,000 || 3 x 2GJ || 9,400 || 6 || 42,500 || 637 || 8,000 || XL || 50 || Not for sale |- |[[Hoshi]] || [[Yaki]] || [[M1]] || 112 || 12 || 0.5 || 280,000 || 2 x 2GJ || 8,200 || 6 || 51,000 || 799 || 8,800 || XL || 40 || 79,732,059 |- |[[Shuri]] || [[Yaki]] || [[M1]] || 79.1 || 6 || 0.7 || 400,000 || 3 x 2GJ || 8,200 || 6 || 53,200 || 797 || 8,800 || XL || 60 || Not for sale |- |} == See Also == {{M1}} {{M1category}}
+M1 Carriers are dangerous combat support ships carrying entire wings of [[M5]], [[M4]] and [[M3]] fighters.
+
+M1s are usually heavily armed and armored, but have fewer guns than [[M2]] class Destroyers, and usually have much smaller laser generators. As a rule, they can brush off attacks from [[M6|Corvette]]s or smaller, but should not be allowed to get into a slugging match with another [[:Category:Capital Ships|Capital-class]] ship.
+
+==Acquiring==
+
+M1 ships include:
+{|
+! Purchasable !! Capturable !! Not Boardable !! Does Not Spawn
+|- valign="top"
+|
+*[[Odin|ATF Odin]]
+*[[Woden|ATF Woden]]
+*[[Colossus|Argon Colossus]]
+*[[Shark|Boron Shark]]
+*[[Zeus|Paranid Zeus]]
+*[[Raptor|Split Raptor]]
+*[[Condor|Teladi Condor]]
+*[[Tokyo|Terran Tokyo]]
+*[[Hoshi|Yaki Hoshi]]
+
+|
+*[[Aran|Goner Aran]]
+*[[Galleon|Pirate Galleon]]
+*[[Deca|Terraformer #deca]]
+*[[Xenon J]]
+*[[Shuri|Yaki Shuri]]
+*[[Colossus#Colossus_Hauler|Argon Colossus Hauler]]
+|
+*[[Kha'ak Carrier]]
+*[[Hive Queen|Kha'ak Hive Queen]]
+|
+*[[Mobile Repair Ship|Goner Mobile Repair Ship]]
+|}
+
+
+==Orbital Weapon Platforms==
+Orbital Weapons Platforms are classed as M1, but resemble space stations in most regards. They include:
+*[[Orbital Weapon Platform L]]
+*[[Orbital Weapon Platform M]]
+*[[Orbital Weapon Platform S]]
+
+== Sortable List ==
+
+{| class="wikitable prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:right;"
+|+ '''M1 Carriers'''
+! Name !! Race !! Class !! Speed !! Accel !! Steering !! Hull !! Shields !! Shield Reactor !! Turrets !! Laser Cap !! Laser Rchg. !! Cargo !! [[Cargo Class]] !! Hangar !! Price
+
+|-
+|[[Colossus]] || [[Argon]] || [[M1]] || 79.1 || 6.27 || 0.66 || 400,000 || 3 x 2GJ || 8,200 || 6 || 53,200 || 798 || 8,800 || XL || 60 || 67,823,098
+|-
+|[[Odin]] || [[ATF]] || [[M1]] || 85 || 8 || 0.86 || 1,600,000 || 5 x 2GJ || 8,500 || 6 || 105,000 || 1,575 || 12,500 || XL || 44 || 67,891,874
+|-
+|[[Woden]] || [[ATF]] || [[M1]] || 90 || 8 || 0.8 || 2,000,000 || 6 x 2GJ || 9,000 || 6 || 107,000 || 1,600 || 12,000 || XL || 30 || 76,102,339
+|-
+|[[Shark]] || [[Boron]] || [[M1]] || 93 || 9.3 || 0.67 || 360,000 || 3 x 2GJ || 9,400 || 6 || 47,800 || 717 || 10,000 || XL || 45 || 61,790,791
+|-
+|[[Aran]] || [[Goner]] || [[M1]] || 12.2 || 0 || 0.08 || 340,000 || 6 x 2GJ || 34,200 || 0 || 38,500 || 578 || 120,000 || XL || 30+ || Not for sale
+|-
+|[[Mobile Repair Ship]] || [[Goner]] || [[M1]] || 12.2 || 0 || 0.08 || 340,000 || 6 x 2GJ || 34,200 || 0 || 38,500 || 578 || 120,000 || XL || 30 || Not for sale
+|-
+|[[Kha'ak Carrier]] || [[Kha'ak]] || [[M1]] || 96.9 || 11 || 0.8 || 120,000 || 4 x 2GJ || 9,400 || 6 || 28,500 || 855 || 8,000 || XL || 25 || Not for sale
+|-
+|[[Hive Queen]] || [[Kha'ak]] || [[M1]] || 96.9 || 11 || 0.8 || 120,000 || 9 x 2GJ || 9,400 || 6 || 28,500 || 855 || 8,000 || XL || 25 || Not for sale
+|-
+|[[Zeus]] || [[Paranid]] || [[M1]] || 82 || 6 || 0.6 || 400,000 || 3 x 2GJ || 8,200 || 6 || 58,500 || 877 || 8,000 || XL || 42 || 86,730,365
+|-
+|[[Galleon]] || [[Pirate]] || [[M1]] || 83.2 || 8 || 0.9 || 300,000 || 2 x 2GJ || 6,560 || 6 || 53,200 || 797 || 8,360 || XL || 25 || Not for sale
+|-
+|[[Raptor]] || [[Split]] || [[M1]] || 109.3 || 13 || 0.6 || 320,000 || 2 x 2GJ || 9,000 || 6 || 71,800 || 1,076 || 8,800 || XL || 65 || 80,276,604
+|-
+|[[Condor]] || [[Teladi]] || [[M1]] || 64.5 || 4 || 0.5 || 480,000 || 4 x 2GJ || 7,600 || 6 || 53,200 || 797 || 12,000 || XL || 35 || 67,952,727
+|-
+|[[Deca|#deca]] || [[Terraformer]] || [[M1]] || 36 || 9 || 0.9 || 900,000 || 6 x 2GJ || 9,400 || 4 || 250,000 || 3,746 || 8,000 || XL || 50 || Not for sale
+|-
+|[[Tokyo]] || [[Terran]] || [[M1]] || 87 || 8 || 0.8 || 340,000 || 5 x 2GJ || 10,660 || 6 || 100,000 || 3,000 || 7,040 || XL || 50 || 68,033,931
+|-
+|[[J]] || [[Xenon]] || [[M1]] || 89.4 || 9 || 0.9 || 4,800,000 || 3 x 2GJ || 9,400 || 6 || 42,500 || 637 || 8,000 || XL || 50 || Not for sale
+|-
+|[[Hoshi]] || [[Yaki]] || [[M1]] || 112 || 12 || 0.5 || 280,000 || 2 x 2GJ || 8,200 || 6 || 51,000 || 799 || 8,800 || XL || 40 || 79,732,059
+|-
+|[[Shuri]] || [[Yaki]] || [[M1]] || 79.1 || 6 || 0.7 || 400,000 || 3 x 2GJ || 8,200 || 6 || 53,200 || 797 || 8,800 || XL || 60 || Not for sale
+|-
+|}
+
+== See Also ==
+
+{{M1}}
+
+{{M1category}}

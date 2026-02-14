@@ -1,3 +1,181 @@
-<!-- source file: index__q3e6aff868652.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= Odysseus
+|Faction=Paranid
+|Class={{M2class}}
+|Priceblock={{Priceblock|Emperor's Protectorate| 104924277}}
+|Minspeed= 32.2
+|Maxspeed= 51.6
+|Minaccel= 3
+|Maxaccel= 5
+|Minsteer= 0.4
+|Maxsteer= 0.7
+|Hull= 500000 / 5000000 (AP)
+|Maxshield=2 GJ
+|Shieldslots=4
+|Maxshieldstrength=8000
+|Shieldreactor= 12400
+|Cargoclass=XL
+|Mincargo= 8000
+|Maxcargo= 8000
+|Lasercap= 304000
+|Laserrecharge=4555
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=8
+|ire=0|pac=0|hept=0|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=1|tbc=0|ebc=0|
+faa=0|gc=1|pbe=0|
+isr=1|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=8
+|ire=0|pac=0|hept=0|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=1|pbe=0|
+isr=1|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=8
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=1|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=8
+|ire=0|pac=0|hept=0|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=1|pbe=0|
+isr=1|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Top
+|Guncount=4
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=1|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Bottom
+|Guncount=4
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=1|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+Despite being the most expensive M2 in the game prior to the [[M2+]] ships of Albion Prelude, the '''Odysseus''' is a powerful destroyer well worth its expense. It has comparable stats to its rival M2s, but its unique shape combined with its ability to mount the deadly [[Phased Shockwave Generator]] make the Odysseus a particularly effective force  of destruction.  The Odysseus is expensive to purchase and equip, and its PSG armament is hazardous to its allies as well as its foes, so the Odysseus is not frequently used as part of of larger fleet actions.
 
-{{Infobox open}} {{Infobox variant |Variant= Odysseus |Faction=Paranid |Class={{M2class}} |Priceblock={{Priceblock|Emperor's Protectorate| 104924277}} |Minspeed= 32.2 |Maxspeed= 51.6 |Minaccel= 3 |Maxaccel= 5 |Minsteer= 0.4 |Maxsteer= 0.7 |Hull= 500000 / 5000000 (AP) |Maxshield=2 GJ |Shieldslots=4 |Maxshieldstrength=8000 |Shieldreactor= 12400 |Cargoclass=XL |Mincargo= 8000 |Maxcargo= 8000 |Lasercap= 304000 |Laserrecharge=4555 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=8 |ire=0|pac=0|hept=0| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=1|tbc=0|ebc=0| faa=0|gc=1|pbe=0| isr=1|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Right |Guncount=8 |ire=0|pac=0|hept=0| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=1|pbe=0| isr=1|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Rear |Guncount=8 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=1|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Left |Guncount=8 |ire=0|pac=0|hept=0| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=1|pbe=0| isr=1|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Top |Guncount=4 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=1|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Bottom |Guncount=4 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=1|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== Despite being the most expensive M2 in the game prior to the [[M2+]] ships of Albion Prelude, the '''Odysseus''' is a powerful destroyer well worth its expense. It has comparable stats to its rival M2s, but its unique shape combined with its ability to mount the deadly [[Phased Shockwave Generator]] make the Odysseus a particularly effective force of destruction. The Odysseus is expensive to purchase and equip, and its PSG armament is hazardous to its allies as well as its foes, so the Odysseus is not frequently used as part of of larger fleet actions. ==Background== This destroyer is the pride of the [[Paranid|Paranid Fleet]]. It was developed from an earlier model used by the Paranid in their alliance with the [[Split]] in the Boron Campaign. It is believed this ship was last updated during the threat of conflict between the Paranid and the Split. ==Physical Characteristics== Big, round and flat, the Odysseus sports the typical Paranid appearance: smooth lines and brownish bodywork, with criss-crossing lines as decoration. == Combat == When equipped with [[Phased Shockwave Generator]]s the Odysseus is a very anti-social warship, ripping apart friend and foe alike without too much discrimination. Nevertheless, the sheer violence and destructive power of this armament makes the Odysseus a prime choice for pilots with who want to fly solo in an enemy sector. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] | *[[Hornet Missile]] *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] | *[[Tempest Missile]] *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] | *[[Typhoon Missile]] *[[Firestorm Torpedo]] *[[Aurora Missile]] *[[Remote Guided Warhead]] | *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] *[[Firelance Missile]] | *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == {| style="text-align:center;" cellpadding="3" |+ '''Availability''' |- style="{{Colour/Paranid}}" ! Variant !! [[Paranid Prime]] !! [[Trinity Sanctum]] !! [[Third Redemption]] !! [[Cardinal's Domain]] !! [[Duke's Citadel]] !! [[Heaven's Assertion]] |- ! Odysseus || X || X || X || X || X || X |} == Suggested Roles== The Odysseus is best deployed on its own, as its PSG armaments are likely to cause significant friendly casualties. This makes it a good candidate for player piloting, or for use against swarms of enemy fighters. == See Also== {{M2}} {{Paranid Navbox}}
+==Background==
+This destroyer is the pride of the [[Paranid|Paranid Fleet]].  It was developed from an earlier model used by the Paranid in their alliance with the [[Split]] in the Boron Campaign.  It is believed this ship was last updated during the threat of conflict between the Paranid and the Split.
+
+==Physical Characteristics==
+Big, round and flat, the Odysseus sports the typical Paranid appearance: smooth lines and brownish bodywork, with criss-crossing lines as decoration.
+
+== Combat ==
+When equipped with [[Phased Shockwave Generator]]s the Odysseus is a very anti-social warship, ripping apart friend and foe alike without too much discrimination. Nevertheless, the sheer violence and destructive power of this armament makes the Odysseus a prime choice for pilots with who want to fly solo in an enemy sector.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;" 
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+|
+*[[Hornet Missile]]
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+|
+*[[Tempest Missile]]
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+|
+*[[Typhoon Missile]]
+*[[Firestorm Torpedo]]
+*[[Aurora Missile]]
+*[[Remote Guided Warhead]]
+|
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+|
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+== Availability ==
+{| style="text-align:center;" cellpadding="3"
+|+ '''Availability'''
+|- style="{{Colour/Paranid}}"
+! Variant !! [[Paranid Prime]] !! [[Trinity Sanctum]] !! [[Third Redemption]] !! [[Cardinal's Domain]] !! [[Duke's Citadel]] !! [[Heaven's Assertion]]
+|-
+! Odysseus || X || X || X || X || X || X
+|}
+
+== Suggested Roles==
+The Odysseus is best deployed on its own, as its PSG armaments are likely to cause significant friendly casualties.  This makes it a good candidate for player piloting, or for use against swarms of enemy fighters.
+
+== See Also==
+
+{{M2}}
+
+
+{{Paranid Navbox}}

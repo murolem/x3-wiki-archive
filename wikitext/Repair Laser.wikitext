@@ -1,3 +1,33 @@
-<!-- source file: index__qbf69317f43bf.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Repair Laser
+|hulldam=100 / 200 (AP)
+|shielddam=0
+|range=2.2
+|rof= 300
+|shotspeed= 4400
+|maxweapenergy= 8000
+|shotcost=100
+}}
+{{Infobox ware
+|ware=Repair Laser
+|cargoclass=-
+|volume=1
+|minprice=64
+|aveprice=64
+|maxprice=64
+}}
+{{Infobox close}}
+==Overview==
+The Repair Laser does not exist as an available ware in a [[Vanilla]] game, despite many ships listing it as compatible.
 
-{{Infobox open}} {{Infobox weapon |weapon=Repair Laser |hulldam=100 / 200 (AP) |shielddam=0 |range=2.2 |rof= 300 |shotspeed= 4400 |maxweapenergy= 8000 |shotcost=100 }} {{Infobox ware |ware=Repair Laser |cargoclass=- |volume=1 |minprice=64 |aveprice=64 |maxprice=64 }} {{Infobox close}} ==Overview== The Repair Laser does not exist as an available ware in a [[Vanilla]] game, despite many ships listing it as compatible. The only repair laser in-game is the one carried by the player's EVA suit. ==Encyclopedia Entry== This weapon is installed on repair drones to assist in the welding of new Teladianium Panelling to stations if they need to be repaired. ==Commentary== The Repair Laser is fitted as standard to the player's space suit, but does not exist otherwise, despite compatibility with multiple ships. It should be noted that despite the repair laser running out of energy while in use, it has no effect on the speed at which it repairs. ==Known Compatible Ships== ==Available at Known Docks== [[Category:Not Purchasable]]
+The only repair laser in-game is the one carried by the player's EVA suit.
+
+==Encyclopedia Entry==
+This weapon is installed on repair drones to assist in the welding of new Teladianium Panelling to stations if they need to be repaired.
+==Commentary==
+The Repair Laser is fitted as standard to the player's space suit, but does not exist otherwise, despite compatibility with multiple ships. It should be noted that despite the repair laser running out of energy while in use, it has no effect on the speed at which it repairs.
+
+==Known Compatible Ships==
+==Available at Known Docks==
+[[Category:Not Purchasable]]

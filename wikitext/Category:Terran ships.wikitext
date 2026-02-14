@@ -1,3 +1,5 @@
-<!-- source file: index__qb5c4138d0ae1.html -->
+This page contains ships built and used by the [[Terran]]s.
 
-This page contains ships built and used by the [[Terran]]s. See also [[:Category:ATF ships|ATF ships]]. [[Category:Terran|Ships]]
+See also [[:Category:ATF ships|ATF ships]].
+
+[[Category:Terran|Ships]]

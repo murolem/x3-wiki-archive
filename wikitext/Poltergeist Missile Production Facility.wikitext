@@ -1,3 +1,22 @@
-<!-- source file: index__q241f00fbc021.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Terran
+|station=Poltergeist Missile Production Facility
+|hull=
+|shield=
+|generator=
+|hangar=
+|cycle=00:00:00
+|productnum=[[Poltergeist Missile]] ()
+|stationprice=
+|reqresources=[[C-Ration]] ()<br>[[Energy Cells]] ()<br>[[Ore]] ()<br>[[Water]] ()
+|optresources=[[Matter/Anti-Matter Warhead]]
+}}
+{{Infobox close}}
+==Overview==
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Terran |station=Poltergeist Missile Production Facility |hull= |shield= |generator= |hangar= |cycle=00:00:00 |productnum=[[Poltergeist Missile]] () |stationprice= |reqresources=[[C-Ration]] ()&lt;br>[[Energy Cells]] ()&lt;br>[[Ore]] ()&lt;br>[[Water]] () |optresources=[[Matter/Anti-Matter Warhead]] }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== This facility produces the Poltergeist Missile. {{Stationcategory}}
+===Encyclopedia Entry===
+This facility produces the Poltergeist Missile.
+
+{{Stationcategory}}

@@ -1,3 +1,17 @@
-<!-- source file: index__qb93a25064b0b.html -->
+<noinclude>
+== Usage ==
+Use as:
+<pre>
+{{NaMissile|Missile Name|Damage number in 1000's}}
+</pre>
 
-&lt;noinclude> == Usage == Use as: &lt;pre> {{NaMissile|Missile Name|Damage number in 1000's}} &lt;/pre> ===Example=== &lt;Pre> {{NaMissile|Rapier Missile|1}} &lt;/Pre> Will give: {{NaMissile|Rapier Missile|1}} [[Category:Missile Templates]] &lt;/noinclude>&lt;includeonly>[[{{{1}}}|&lt;font color="maroon">{{{1}}}&lt;/font color>]] ({{{2}}}k)&lt;/includeonly>
+===Example===
+<Pre>
+{{NaMissile|Rapier Missile|1}}
+</Pre>
+Will give:
+
+{{NaMissile|Rapier Missile|1}}
+
+[[Category:Missile Templates]]
+</noinclude><includeonly>[[{{{1}}}|<font color="maroon">{{{1}}}</font color>]] ({{{2}}}k)</includeonly>

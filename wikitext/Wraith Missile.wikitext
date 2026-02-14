@@ -1,3 +1,22 @@
-<!-- source file: index__q59e46863765d.html -->
+{{Infobox open}}
+{{Infobox missile|Missile=Wraith Missile|Yield=125000|Speed=175|Range=51|Cooldown=6000|Seeker=Targetted|Submunitions=8|Fusing=Proximity|Torpedoclass=Torpedo|Guidance=Heat Seeking|AoE=}}
+{{Infobox ware|ware=Wraith Missile|cargoclass=L|volume=1|minprice=30323|aveprice=33692|maxprice=37061}}
+{{Infobox close}}
+==Overview==
+The Wraith is a [[Terran]] heavy munition. Being both obscenely potent and a [[Missiles#Overview|swarm]] weapon it is devastatingly effective against capital ships, if a little slow. It behaves similarly to the [[Poltergeist]], although it has a completely different role. It's a severe threat to anything with similar or lesser speed to it, as it has a very long range and very high damage.
 
-{{Infobox open}} {{Infobox missile|Missile=Wraith Missile|Yield=125000|Speed=175|Range=51|Cooldown=6000|Seeker=Targetted|Submunitions=8|Fusing=Proximity|Torpedoclass=Torpedo|Guidance=Heat Seeking|AoE=}} {{Infobox ware|ware=Wraith Missile|cargoclass=L|volume=1|minprice=30323|aveprice=33692|maxprice=37061}} {{Infobox close}} ==Overview== The Wraith is a [[Terran]] heavy munition. Being both obscenely potent and a [[Missiles#Overview|swarm]] weapon it is devastatingly effective against capital ships, if a little slow. It behaves similarly to the [[Poltergeist]], although it has a completely different role. It's a severe threat to anything with similar or lesser speed to it, as it has a very long range and very high damage. ===Encyclopedia Entry=== Wraith is a multiple-warhead heat-seeking missile armed with a proximity fuse. It is used by USC medium and larger ships against capital ships. ==Commentary== The Wraith contains 8 warheads doing 125k damage each. It takes only a few to destroy even the most heavily shielded capital ships, and although the swarm will take a while to reach its target and individual warheads are easy to shoot down, the sheer number will win the day in a nuclear inferno, especially considering their cargo requirement of only 1. The biggest difficulty in using Wraiths is the abysmal turning circle; great care must be exercised in picking a launch vector in order to land the Wraiths on target. Or wait 100 seconds for the warheads that missed to turn around. While called a missile, the Wraith is classed as a Torpedo. To put it in layman's terms, the Wraith is essentially a heat-seeking, swarm equivalent of the [[Firestorm Torpedo]], only with slightly worse range, marginally better speed, and the fact that it's Terran designed. Interestingly, the Wraith can be launched from the Paranid [[Hyperion Vanguard]], furthering its versatility. It is the only ship capable launching the Wraith while matching its top speed, so many volleys can be added on top of the other if the target is far enough. This technique completely overwhelms any defenses. [[Category:Swarm missiles]] [[Category:Proximity-fuse missiles]] {{Missile Navbox}}
+===Encyclopedia Entry===
+Wraith is a multiple-warhead heat-seeking missile armed with a proximity fuse. It is used by USC medium and larger ships against capital ships.
+
+==Commentary==
+The Wraith contains 8 warheads doing 125k damage each. It takes only a few to destroy even the most heavily shielded capital ships, and although the swarm will take a while to reach its target and individual warheads are easy to shoot down, the sheer number will win the day in a nuclear inferno, especially considering their cargo requirement of only 1.
+
+The biggest difficulty in using Wraiths is the abysmal turning circle; great care must be exercised in picking a launch vector in order to land the Wraiths on target. Or wait 100 seconds for the warheads that missed to turn around.
+
+While called a missile, the Wraith is classed as a Torpedo. To put it in layman's terms, the Wraith is essentially a heat-seeking, swarm equivalent of the [[Firestorm Torpedo]], only with slightly worse range, marginally better speed, and the fact that it's Terran designed.
+
+Interestingly, the Wraith can be launched from the Paranid [[Hyperion Vanguard]], furthering its versatility. It is the only ship capable launching the Wraith while matching its top speed, so many volleys can be added on top of the other if the target is far enough. This technique completely overwhelms any defenses.
+
+[[Category:Swarm missiles]]
+[[Category:Proximity-fuse missiles]]
+{{Missile Navbox}}

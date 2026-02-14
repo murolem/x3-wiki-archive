@@ -1,3 +1,56 @@
-<!-- source file: index__q58f872f0e8c5.html -->
+{{Infobox Sector
+|Race=Split
+|SecLevel=Border
+|Population=27,832,225
+|Planets=4
+|SunLevel=100
+|GateDist=180
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|South|0|	0|	-90789|[[Cho's Defeat]]}}
+{{Gateblock2|West|-84825|	0|	0|[[Rhonkar's Might]]}}
+{{Gateblock/End}}
+}}
+==Description==
+Originally discovered and claimed by the Split Patriarch as a hideaway, this sector is now a thriving commercial colony. It is from here that the Split Patriarch ordered his forces to repel attacks from the rebelling Family Rhonkar. In the final days of the war, the sector was thought to be impenetrable after the deployment of three of the Patriarch's latest prototype destroyers. They managed to defend the sector with their armament of 20 plasma throwers per ship. The Rhonkar Family eventually found a way through this blockade. Sending in a small fleet of heavy fighters, they made a successful kamikaze run against the command vessel. Finally a combined Rhonkar - Njy fleet attacked, eliminating the other two prototypes. The Patriarch was captured and deposed. The plans for the destroyers were lost in the battle.
 
-{{Infobox Sector |Race=Split |SecLevel=Border |Population=27,832,225 |Planets=4 |SunLevel=100 |GateDist=180 |Gates={{Gateblock/Begin}} {{Gateblock2|South|0| 0| -90789|[[Cho's Defeat]]}} {{Gateblock2|West|-84825| 0| 0|[[Rhonkar's Might]]}} {{Gateblock/End}} }} ==Description== Originally discovered and claimed by the Split Patriarch as a hideaway, this sector is now a thriving commercial colony. It is from here that the Split Patriarch ordered his forces to repel attacks from the rebelling Family Rhonkar. In the final days of the war, the sector was thought to be impenetrable after the deployment of three of the Patriarch's latest prototype destroyers. They managed to defend the sector with their armament of 20 plasma throwers per ship. The Rhonkar Family eventually found a way through this blockade. Sending in a small fleet of heavy fighters, they made a successful kamikaze run against the command vessel. Finally a combined Rhonkar - Njy fleet attacked, eliminating the other two prototypes. The Patriarch was captured and deposed. The plans for the destroyers were lost in the battle. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|45|55828|-8565|26749}} {{Asteroid/Item|Ore|25|-17325|-12814|50457}} {{Asteroid/Item|Ore|25|-907|15581|39674}} {{Asteroid/Item|Ore|24|39342|3107|16015}} {{Asteroid/Item|Ore|22|-6436|-3727|-8475}} {{Asteroid/Item|Ore|20|-8591|-17909|15747}} {{Asteroid/Item|Ore|16|-18414|9525|40751}} {{Asteroid/Item|Ore|16|32346|36838|-11346}} {{Asteroid/Item|Ore|15|8361|37852|-6622}} {{Asteroid/Item|Ore|15|-24604|-4498|-44845}} {{Asteroid/Item|Ore|14|-7052|34275|-34920}} {{Asteroid/Item|Ore|13|9601|-12557|12862}} {{Asteroid/Item|Ore|13|-48227|-7182|-10565}} {{Asteroid/Item|Ore|11|34115|-8270|-35200}} {{Asteroid/Item|Ore|10|19130|21267|27450}} {{Asteroid/Item|Ore|8|12792|-13940|-26001}} {{Asteroid/Item|Ore|7|-13397|16563|-27909}} {{Asteroid/Item|Ore|6|-23857|-6902|19518}} {{Asteroid/Item|Ore|5|33582|12783|37186}} {{Asteroid/Item|Ore|5|-5949|-544|24981}} {{Asteroid/Item|Ore|5|-8467|-18264|-35766}} {{Asteroid/Item|Ore|5|-27388|21873|-45433}} {{Asteroid/Item|Ore|3|-37335|-21824|29914}} {{Asteroid/Item|Silicon|54|36779|16185|-30428}} {{Asteroid/Item|Silicon|36|-36642|11540|-10414}} {{Asteroid/Item|Silicon|26|12949|-5443|48047}} {{Asteroid/Item|Silicon|25|-48823|-18847|14529}} {{Asteroid/Item|Silicon|25|-18324|25269|-583}} {{Asteroid/Item|Silicon|11|-6021|-10228|-59792}} {{Asteroid/Item|Silicon|9|11667|-33799|-21715}} {{Asteroid/Item|Silicon|8|-45999|10243|10785}} {{Asteroid/Item|Silicon|5|40352|20240|9056}} {{Asteroid/End}} == See Also == {{Split Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|45|55828|-8565|26749}}
+{{Asteroid/Item|Ore|25|-17325|-12814|50457}}
+{{Asteroid/Item|Ore|25|-907|15581|39674}}
+{{Asteroid/Item|Ore|24|39342|3107|16015}}
+{{Asteroid/Item|Ore|22|-6436|-3727|-8475}}
+{{Asteroid/Item|Ore|20|-8591|-17909|15747}}
+{{Asteroid/Item|Ore|16|-18414|9525|40751}}
+{{Asteroid/Item|Ore|16|32346|36838|-11346}}
+{{Asteroid/Item|Ore|15|8361|37852|-6622}}
+{{Asteroid/Item|Ore|15|-24604|-4498|-44845}}
+{{Asteroid/Item|Ore|14|-7052|34275|-34920}}
+{{Asteroid/Item|Ore|13|9601|-12557|12862}}
+{{Asteroid/Item|Ore|13|-48227|-7182|-10565}}
+{{Asteroid/Item|Ore|11|34115|-8270|-35200}}
+{{Asteroid/Item|Ore|10|19130|21267|27450}}
+{{Asteroid/Item|Ore|8|12792|-13940|-26001}}
+{{Asteroid/Item|Ore|7|-13397|16563|-27909}}
+{{Asteroid/Item|Ore|6|-23857|-6902|19518}}
+{{Asteroid/Item|Ore|5|33582|12783|37186}}
+{{Asteroid/Item|Ore|5|-5949|-544|24981}}
+{{Asteroid/Item|Ore|5|-8467|-18264|-35766}}
+{{Asteroid/Item|Ore|5|-27388|21873|-45433}}
+{{Asteroid/Item|Ore|3|-37335|-21824|29914}}
+{{Asteroid/Item|Silicon|54|36779|16185|-30428}}
+{{Asteroid/Item|Silicon|36|-36642|11540|-10414}}
+{{Asteroid/Item|Silicon|26|12949|-5443|48047}}
+{{Asteroid/Item|Silicon|25|-48823|-18847|14529}}
+{{Asteroid/Item|Silicon|25|-18324|25269|-583}}
+{{Asteroid/Item|Silicon|11|-6021|-10228|-59792}}
+{{Asteroid/Item|Silicon|9|11667|-33799|-21715}}
+{{Asteroid/Item|Silicon|8|-45999|10243|10785}}
+{{Asteroid/Item|Silicon|5|40352|20240|9056}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Split Navbox}}

@@ -1,3 +1,74 @@
-<!-- source file: index__qae25be85aef9.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Scout
+|Faction=Kha'ak
+|Class={{M5class}}
+|Priceblock=
+|Minspeed=78.8
+|Maxspeed=354.6
+|Minaccel=69
+|Maxaccel=314
+|Minsteer=14.7
+|Maxsteer=67.5
+|Hull=600 / 1200 (AP)
+|Maxshield=1 MJ
+|Shieldslots=3
+|Maxshieldstrength=3
+|Shieldreactor=100
+|Cargoclass=S
+|Mincargo=10
+|Maxcargo=27
+|Lasercap=600
+|Laserrecharge=15
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=1
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=1|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+A deceptively vulnerable craft, the Scout forms the backbone of the Kha'ak hive fleet.
 
-{{Infobox open}} {{Infobox variant |Variant=Scout |Faction=Kha'ak |Class={{M5class}} |Priceblock= |Minspeed=78.8 |Maxspeed=354.6 |Minaccel=69 |Maxaccel=314 |Minsteer=14.7 |Maxsteer=67.5 |Hull=600 / 1200 (AP) |Maxshield=1 MJ |Shieldslots=3 |Maxshieldstrength=3 |Shieldreactor=100 |Cargoclass=S |Mincargo=10 |Maxcargo=27 |Lasercap=600 |Laserrecharge=15 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=1 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=1|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== A deceptively vulnerable craft, the Scout forms the backbone of the Kha'ak hive fleet. ==Background== The Scout first appeared during the Kha'ak attack on President's End. In the first years of the Kha'ak war they carved out a reputation for deadliness but as [[Commonwealth]] ships have advanced, the Scout's effectiveness has faded. This ship was the first that was encountered of this species. It is considered to be a scout ship due to its speed and armament. It is very agile and its flying observed in a group formation suggests that they are some type of insectoid or based on Hive like behaviour and being controlled from one point. This theory has yet to be verified due to limited contact. Not much else is known about this ship. ==Physical Characteristics== Scouts like other Kha'ak fighters resemble purple pyramids. == Combat == Individually, Kha'ak Scouts are easy to kill and are limited threats. However, since they typically arrive in a [[Kha'ak Cluster]] it is unusual to encounter them in low numbers. Orphan Scouts are usually the result of a larger battle having killed off its siblings and opponents. While the [[Kha'ak Fighter]] appears to be the strongest and most lethal ship in the Cluster, the Scout, with its high speed and beam weapons poses a much greater threat when encountered in a swarm. Once engaged Scouts are difficult to disengage from and with their hard to evade beam weapons make their numbers very effective. Concentrated fire from a swarm can quickly overwhelm any defense. A swarm of Scouts is best engaged from beyond their firing range with large area of effect weapons. It should be noted that missile effectiveness is greatly reduced when facing a Scout swarm, as the myriad of beams generally provide a dense anti-missile net. In fact, firing missiles when in range of a swarm is very hazardous as their beams tend to detonate missiles immediately following launch, usually damaging the firer. Detonating their own missiles can be a very effective combat strategy. Even more effective against them is the [[Plasma Burst Generator]]. A single shot from this weapon can immediately roast the Scout. Yet another effective strategy with the weapon is when encountering a Cluster, firing the weapon as the Cluster breaks up into the smaller Scouts will pretty much one-hit kill every one of them except for the M3 fighter, although the [[Kha'ak Fighter|Fighter]] will usually not last another round of PBG fire. == Equipment == == Availability == The Scout is only available through [[bail|capping]] == Suggested Roles== == See Also== {{M5}} {{M5category}}
+==Background==
+The Scout first appeared during the Kha'ak attack on President's End. In the first years of the Kha'ak war they carved out a reputation for deadliness but as [[Commonwealth]] ships have advanced, the Scout's effectiveness has faded.
+
+This ship was the first that was encountered of this species. It is considered to be a scout ship due to its speed and armament. It is very agile and its flying observed in a group formation suggests that they are some type of insectoid or based on Hive like behaviour and being controlled from one point. This theory has yet to be verified due to limited contact. Not much else is known about this ship.
+
+==Physical Characteristics==
+Scouts like other Kha'ak fighters resemble purple pyramids.
+
+== Combat ==
+Individually, Kha'ak Scouts are easy to kill and are limited threats.
+
+However, since they typically arrive in a [[Kha'ak Cluster]] it is unusual to encounter them in low numbers. Orphan Scouts are usually the result of a larger battle having killed off its siblings and opponents.
+
+While the [[Kha'ak Fighter]] appears to be the strongest and most lethal ship in the Cluster, the Scout, with its high speed and beam weapons poses a much greater threat when encountered in a swarm.
+
+Once engaged Scouts are difficult to disengage from and with their hard to evade beam weapons make their numbers very effective. Concentrated fire from a swarm can quickly overwhelm any defense. A swarm of Scouts is best engaged from beyond their firing range with large area of effect weapons. It should be noted that missile effectiveness is greatly reduced when facing a Scout swarm, as the myriad of beams generally provide a dense anti-missile net. In fact, firing missiles when in range of a swarm is very hazardous as their beams tend to detonate missiles immediately following launch, usually damaging the firer.
+
+Detonating their own missiles can be a very effective combat strategy. Even more effective against them is the [[Plasma Burst Generator]]. A single shot from this weapon can immediately roast the Scout. Yet another effective strategy with the weapon is when encountering a Cluster, firing the weapon as the Cluster breaks up into the smaller Scouts will pretty much one-hit kill every one of them except for the M3 fighter, although the [[Kha'ak Fighter|Fighter]] will usually not last another round of PBG fire.
+
+== Equipment ==
+== Availability ==
+The Scout is only available through [[bail|capping]]
+
+== Suggested Roles==
+== See Also==
+
+{{M5}}
+
+{{M5category}}

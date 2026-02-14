@@ -1,3 +1,15 @@
-<!-- source file: index__qd78682be70be.html -->
+The Terran Resource Evaluation Commission missions, or Aldrin Expansion, is available in v2.0 and later.
 
-The Terran Resource Evaluation Commission missions, or Aldrin Expansion, is available in v2.0 and later. ==Starting Conditions== *Anywhere *[[Terran plot]] completed *[[Goner plot]] completed *[[Operation: Final Fury]] completed *[[Hub plot|HUB Gate Set 1 Unlocked (ore delivered)]], or [[HQ plot]] started ==Walkthrough== [{{linky}}forum.egosoft.com/viewtopic.php?p=3471561#3471561 Link to the Aldrin Expansion plot walkthrough on the Egosoft forums.] ==Spoilers== {{Missions}}
+==Starting Conditions==
+*Anywhere
+*[[Terran plot]] completed
+*[[Goner plot]] completed
+*[[Operation: Final Fury]] completed
+*[[Hub plot|HUB Gate Set 1 Unlocked (ore delivered)]], or [[HQ plot]] started
+
+==Walkthrough==
+[{{linky}}forum.egosoft.com/viewtopic.php?p=3471561#3471561 Link to the Aldrin Expansion plot walkthrough on the Egosoft forums.]
+
+==Spoilers==
+
+{{Missions}}

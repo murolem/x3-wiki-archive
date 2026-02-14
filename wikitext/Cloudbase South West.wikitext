@@ -1,3 +1,30 @@
-<!-- source file: index__q44a4ae738842.html -->
+{{Infobox Sector
+|Race=Argon
+|SecLevel=Border
+|Population=67,142,330
+|Planets=2
+|SunLevel=150
+|GateDist=40
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|0|1250|16410|[[Red Light]]}}
+{{Gateblock2|East|10660|-4750|1750|[[Ore Belt]]}}
+{{Gateblock2|South|-2000|0|-12410|[[Emperor Mines]]}}
+</table>
+}}
+==Description==
+===Encyclopedia Entry===
+This crowded system produces high quality wares and resources for the neighboring systems. In the past, the [[Goner]] sect used the orbital temple as a base in their search for the origins of sentient life throughout the known universe. Many spent their lives studying ancient legends and engaging in deep historical analysis that eventually lead to the existence of [[Earth]] being proven to be more than just a myth.
 
-{{Infobox Sector |Race=Argon |SecLevel=Border |Population=67,142,330 |Planets=2 |SunLevel=150 |GateDist=40 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|0|1250|16410|[[Red Light]]}} {{Gateblock2|East|10660|-4750|1750|[[Ore Belt]]}} {{Gateblock2|South|-2000|0|-12410|[[Emperor Mines]]}} &lt;/table> }} ==Description== ===Encyclopedia Entry=== This crowded system produces high quality wares and resources for the neighboring systems. In the past, the [[Goner]] sect used the orbital temple as a base in their search for the origins of sentient life throughout the known universe. Many spent their lives studying ancient legends and engaging in deep historical analysis that eventually lead to the existence of [[Earth]] being proven to be more than just a myth. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|25|-10,200|2,780|-9,550}} {{Asteroid/Item|Ore|13|-12,900|1,380|-5,760}} {{Asteroid/Item|Ore|8|-11,200|1,000|-421}} {{Asteroid/Item|Silicon|6|-11,800|5,780|-4,550}} {{Asteroid/End}} {{Argon Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|25|-10,200|2,780|-9,550}}
+{{Asteroid/Item|Ore|13|-12,900|1,380|-5,760}}
+{{Asteroid/Item|Ore|8|-11,200|1,000|-421}}
+{{Asteroid/Item|Silicon|6|-11,800|5,780|-4,550}}
+{{Asteroid/End}}
+
+{{Argon Navbox}}

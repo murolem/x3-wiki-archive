@@ -1,3 +1,19 @@
-<!-- source file: index__q19abd0e0e62d.html -->
+{{Infobox open}}
+{{Infobox missile|Missile=Tomahawk Heavy Missile [Albion Prelude]|Yield=625000|Speed=235|Range=43.1|Cooldown=4000|Seeker=Targetted|Submunitions=1|Fusing=Impact|Torpedoclass=|Guidance=Image-recognition|AoE=}}
+{{Infobox ware|ware=Tomahawk Heavy Missile|cargoclass=L|volume=6|minprice=20,888|aveprice=22,460|maxprice=24,032}}
+{{Infobox missile|Missile=Tomahawk Heavy Missile|Yield=625000|Speed=196|Range=43.12|Cooldown=4000|Seeker=Targetted|Submunitions=1|Fusing=Impact|Torpedoclass=|Guidance=Image-recognition|AoE=}}
+{{Infobox ware|ware=Tomahawk Heavy Missile|cargoclass=M|volume=2|minprice=20888|aveprice= 22460  |maxprice=24032}}
+{{Infobox close}}
+==Overview==
+The Tomahawk is the weapon used only by all [[Commonwealth]] [[M8|bombers]], a [[Missiles#Overview|tracking]] weapon that has automatic target re-acquisition and is most useful for destroying large, slow-moving targets.
+===Encyclopedia Entry===
+This heavy missile was specifically designed for use by the new bomber class of ships. The missile is generally fired in salvos by one or more bombers at relatively close range at enemy capital ships.
 
-{{Infobox open}} {{Infobox missile|Missile=Tomahawk Heavy Missile [Albion Prelude]|Yield=625000|Speed=235|Range=43.1|Cooldown=4000|Seeker=Targetted|Submunitions=1|Fusing=Impact|Torpedoclass=|Guidance=Image-recognition|AoE=}} {{Infobox ware|ware=Tomahawk Heavy Missile|cargoclass=L|volume=6|minprice=20,888|aveprice=22,460|maxprice=24,032}} {{Infobox missile|Missile=Tomahawk Heavy Missile|Yield=625000|Speed=196|Range=43.12|Cooldown=4000|Seeker=Targetted|Submunitions=1|Fusing=Impact|Torpedoclass=|Guidance=Image-recognition|AoE=}} {{Infobox ware|ware=Tomahawk Heavy Missile|cargoclass=M|volume=2|minprice=20888|aveprice= 22460 |maxprice=24032}} {{Infobox close}} ==Overview== The Tomahawk is the weapon used only by all [[Commonwealth]] [[M8|bombers]], a [[Missiles#Overview|tracking]] weapon that has automatic target re-acquisition and is most useful for destroying large, slow-moving targets. ===Encyclopedia Entry=== This heavy missile was specifically designed for use by the new bomber class of ships. The missile is generally fired in salvos by one or more bombers at relatively close range at enemy capital ships. ==Commentary== An extremely powerful missile exclusive to the Commonwealth's [[M8]] class of ship. When fired in barrages of 8 at a time, the Tomahawk becomes an incredibly dangerous weapon against battleships, corvettes and slow fighters, as well as stations. The low fire rate makes it unsuitable for launching sequentially. It is produced by all Commonwealth races and is quite common. Together with its Terran equivalent, the [[Phantom Missile]], it is the missile with the best cost-effectiveness available. Be aware to not launch even a single one of this munition when you're getting shot at, as one detonated missile too close to your ship and you will be vaporized. This is especially true in the vicinity of ships with beam weapons for missile defence; the Kha'ak are notorious in this regard. Any attempt to launch a Tomahawk instantly cuts to the Game Over screen, a true "Press L to die" feature. [[Category:Commonwealth missiles]] [[Category:Medium missiles]] {{Missile Navbox}}
+==Commentary==
+An extremely powerful missile exclusive to the Commonwealth's [[M8]] class of ship. When fired in barrages of 8 at a time, the Tomahawk becomes an incredibly dangerous weapon against battleships, corvettes and slow fighters, as well as stations. The low fire rate makes it unsuitable for launching sequentially. It is produced by all Commonwealth races and is quite common. Together with its Terran equivalent, the [[Phantom Missile]], it is the missile with the best cost-effectiveness available.
+
+Be aware to not launch even a single one of this munition when you're getting shot at, as one detonated missile too close to your ship and you will be vaporized. This is especially true in the vicinity of ships with beam weapons for missile defence; the Kha'ak are notorious in this regard. Any attempt to launch a Tomahawk instantly cuts to the Game Over screen, a true "Press L to die" feature.
+
+[[Category:Commonwealth missiles]]
+[[Category:Medium missiles]]
+{{Missile Navbox}}

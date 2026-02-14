@@ -1,3 +1,30 @@
-<!-- source file: index__qac406d00ec47.html -->
+{{Infobox open}}
+{{Infobox basicstation
+|faction=Paranid
+|station=Equipment Dock
+|hull=
+|shield=
+|generator=
+|hangar=
+|stationprice={{priceblock||48368296}}
+}}
+{{Infobox close}}
+==Overview==
+==Encyclopedia Entry==
+===Text===
+Paranid Space Equipment Docks are the places in the Paranid territory to upgrade space vehicles.
+===Voice Over===
+Paranid Space Equipment Docks are locations in Paranid territory for upgrading space vehicles.
 
-{{Infobox open}} {{Infobox basicstation |faction=Paranid |station=Equipment Dock |hull= |shield= |generator= |hangar= |stationprice={{priceblock||48368296}} }} {{Infobox close}} ==Overview== ==Encyclopedia Entry== ===Text=== Paranid Space Equipment Docks are the places in the Paranid territory to upgrade space vehicles. ===Voice Over=== Paranid Space Equipment Docks are locations in Paranid territory for upgrading space vehicles. ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Paranid#Shipyards|Paranid]]''' *{{sa|Duke's Citadel}} *{{sa|Heaven's Assertion}} *{{sa|Paranid Prime}} *{{sa|Third Redemption}} |} {{Stationcategory}}
+==Availability==
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Paranid#Shipyards|Paranid]]'''
+*{{sa|Duke's Citadel}}
+*{{sa|Heaven's Assertion}}
+*{{sa|Paranid Prime}}
+*{{sa|Third Redemption}}
+|}
+
+
+{{Stationcategory}}

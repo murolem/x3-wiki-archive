@@ -1,3 +1,63 @@
-<!-- source file: index__q82784f85f33a.html -->
+<noinclude>
+== Introduction ==
+Racial Navboxes are ordered as follows. All items are presented in alphabetical order within their various categories - this includes ship types etc.
 
-&lt;noinclude> == Introduction == Racial Navboxes are ordered as follows. All items are presented in alphabetical order within their various categories - this includes ship types etc. This template will also include any pages it is on in the appropriate racial category. It is designed as a quick reference for information on different races, but could also be used for organizations like [[OTAS]] etc with a bit of tweaking. Please see [[Template:Racial Navbox]] for the master template that this was copied from. == Usage == When making a new Racial Navbox, please just copy the text from this page (Or subsittute it - see [{{linky}}en.wikipedia.org/wiki/Wikipedia:Substitution Wikipedia on Substitution]) to your intended navigational page - e.g. [[Template:Argon Navbox]]. === Sectors and Shipyards === Sector names should be listed in alphabetical order, and separated by a single bar ("|"). ''Note:'' Two bars will break the table. Please be careful not to use two bars. === Ships === Ships should be listed in the order given. If no ship of a given type exists for a race, leave it as "None". If multiple ships of a type exist, list them in alphabetical order, each separated by a single comma. '''Examples:''' *"TL" comes before "TM", so TL is the first transport listed. *'''[[TP]]:''' [[Express]], [[Phantom]] === Shipyards === Please list all racial shipyards here, super or not. Do not worry about listing the same sector twice, as removing a sector from the Core or Border sectors would leave them incomplete. === Racial Wares === List these in alphabetical order. If in doubt whether something fits into the correct racial category, check if its production is exclusive to a race, or its use is exclusive to a race. If one but not the other is true, Production trumps Consumption. Example: [[Majaglit]] is used by Argon, Paranid, Split and Teladi stations ([[Satellite Factory]]), but is only produced by a [[Space Jewellery|Paranid Station]]. This makes it a Paranid [[wares|ware]]. == Important Notes == When using this page to create a new racial navbox, please take care to replace both the racial link and the category link at the bottom of the page. [[Category:Racial Navbox]] &lt;/noinclude> {| width="auto" style="text-align:center; border-width:1px; border-style:solid; border-color:lightgrey;" ! colspan="3" style="{{Colour/Split}}" | [[Split]] Navigation |- ! width="10em" style="background-color: #CCCCFF;" | Core [[Sectors]] || [[Family Njy]] | [[Family Pride]] | [[Family Rhonkar]] | [[Family Rhy]] | [[Family Tkr]] | [[Family Zein]] | [[Njy's Deception]] | [[Patriarch's Conclusion]] | [[Rhonkar's Might]] | [[Rhy's Crusade]] | [[Thuruk's Pride]] |- ! width="10em" style="background-color: #CCCCFF;" | [[Sector Security|Border]] Sectors | style="background-color: #EEEEEE;" | [[Cho's Defeat]] | [[Contorted Dominion]] | [[Family Ryk]] | [[Family Whi]] | [[Family Zyarth]] | [[Ghinn's Escape]] | [[Patriarch's Keep]] | [[Patriarch's Retreat]] | [[Rhonkar's Clouds]] | [[Rhonkar's Fire]] | [[Rhonkar's Trial]] | [[Rhy's Desire]] | [[Tharka's Sun]] | [[The Shallows]] | [[Thuruk's Beard]] | [[Thyn's Abyss]] | [[Thyn's Excavation]] | [[Tkr's Deprivation]] | [[Wretched Skies]] | [[Zyarth's Dominion]] | [[Zyarth's Stand]] |- ! width="10em" style="background-color: #CCCCFF;" | [[:Category:Capital Ships|Capital Ships]] | '''[[M1]]:''' [[Raptor]] | '''[[M2]]:''' [[Python]] | '''[[M2+]]:''' [[Pteranodon]] | '''[[M7]]:''' [[Tiger]], [[Panther]] | '''[[M7C]]:''' None | '''[[M7M]]:''' [[Cobra]] |- ! width="10em" style="background-color: #CCCCFF;" | [[:Category:Fighters|Fighters]] | style="background-color: #EEEEEE;" | '''[[M3]]:''' [[Mamba]] | '''[[M3+]]:''' [[Chimera]] | '''[[M4]]:''' [[Scorpion]] | '''[[M4+]]:''' [[Asp]] | '''[[M5]]:''' [[Jaguar]] |- ! width="10em" style="background-color: #CCCCFF;" | [[:Category:Escort|Escort Ships]] | '''[[M6]]:''' [[Dragon]] | '''[[M6+]]:''' [[Heavy Dragon]] | '''[[M8]]:''' [[Viper]] |- ! width="10em" style="background-color: #CCCCFF;" | [[:Category:Transport|Transports]] | style="background-color: #EEEEEE;" | '''[[TL]]:''' [[Elephant]] | '''[[TM]]:''' [[Boa]] | '''[[TP]]:''' [[Iguana]], [[Ocelot]] | '''[[TS]]:''' [[Caiman]] | '''[[TS+]]:''' [[Drake]] |- ! width="10em" style="background-color: #CCCCFF;" | [[Shipyard]]s | [[Cho's Defeat]] | [[Family Njy]] | [[Family Pride]] | [[Family Rhy]] | [[Family Tkr]] | [[Patriarch's Conclusion]] | [[Rhonkar's Might]] | [[Rhonkar's Trial]] | [[Zyarth's Dominion]] | [[Zyarth's Stand]] (AP only) |- ! width="10em" style="background-color: #CCCCFF;" | Racial [[Wares]] | style="background-color: #EEEEEE;" | [[Rastar Oil]] | [[Chelts Meat]] | [[Scruffin Fruits]] | [[Spaceflies]] | [[Massom Powder]] |} &lt;includeonly>[[Category:Split]]&lt;/includeonly>
+This template will also include any pages it is on in the appropriate racial category.
+
+It is designed as a quick reference for information on different races, but could also be used for organizations like [[OTAS]] etc with a bit of tweaking.
+
+Please see [[Template:Racial Navbox]] for the master template that this was copied from.
+
+== Usage ==
+When making a new Racial Navbox, please just copy the text from this page (Or subsittute it - see [{{linky}}en.wikipedia.org/wiki/Wikipedia:Substitution Wikipedia on Substitution]) to your intended navigational page - e.g. [[Template:Argon Navbox]].
+
+=== Sectors and Shipyards ===
+Sector names should be listed in alphabetical order, and separated by a single bar ("|").
+''Note:'' Two bars will break the table. Please be careful not to use two bars.
+
+=== Ships ===
+Ships should be listed in the order given. If no ship of a given type exists for a race, leave it as "None". If multiple ships of a type exist, list them in alphabetical order, each separated by a single comma.
+
+'''Examples:'''
+*"TL" comes before "TM", so TL is the first transport listed.
+*'''[[TP]]:''' [[Express]], [[Phantom]]
+
+=== Shipyards ===
+Please list all racial shipyards here, super or not. Do not worry about listing the same sector twice, as removing a sector from the Core or Border sectors would leave them incomplete.
+
+=== Racial Wares ===
+List these in alphabetical order. If in doubt whether something fits into the correct racial category, check if its production is exclusive to a race, or its use is exclusive to a race. If one but not the other is true, Production trumps Consumption.
+
+Example: [[Majaglit]] is used by Argon, Paranid, Split and Teladi stations ([[Satellite Factory]]), but is only produced by a [[Space Jewellery|Paranid Station]].  This makes it a Paranid [[wares|ware]].
+
+== Important Notes ==
+When using this page to create a new racial navbox, please take care to replace both the racial link and the category link at the bottom of the page.
+
+[[Category:Racial Navbox]]
+</noinclude> {| width="auto" style="text-align:center; border-width:1px; border-style:solid; border-color:lightgrey;"
+! colspan="3" style="{{Colour/Split}}" | [[Split]] Navigation
+|-
+! width="10em" style="background-color: #CCCCFF;"  | Core [[Sectors]]
+|| [[Family Njy]] | [[Family Pride]] | [[Family Rhonkar]] | [[Family Rhy]] | [[Family Tkr]] | [[Family Zein]] | [[Njy's Deception]] | [[Patriarch's Conclusion]] | [[Rhonkar's Might]] | [[Rhy's Crusade]] | [[Thuruk's Pride]]
+|-
+! width="10em" style="background-color: #CCCCFF;"  | [[Sector Security|Border]] Sectors
+| style="background-color: #EEEEEE;" | [[Cho's Defeat]] | [[Contorted Dominion]] | [[Family Ryk]] | [[Family Whi]] | [[Family Zyarth]] | [[Ghinn's Escape]] | [[Patriarch's Keep]] | [[Patriarch's Retreat]] | [[Rhonkar's Clouds]] | [[Rhonkar's Fire]] | [[Rhonkar's Trial]] | [[Rhy's Desire]] | [[Tharka's Sun]] | [[The Shallows]] | [[Thuruk's Beard]] | [[Thyn's Abyss]] | [[Thyn's Excavation]] | [[Tkr's Deprivation]] | [[Wretched Skies]] | [[Zyarth's Dominion]] | [[Zyarth's Stand]]
+|-
+! width="10em" style="background-color: #CCCCFF;" | [[:Category:Capital Ships|Capital Ships]]
+| '''[[M1]]:''' [[Raptor]] |  '''[[M2]]:''' [[Python]] | '''[[M2+]]:''' [[Pteranodon]] | '''[[M7]]:''' [[Tiger]], [[Panther]] | '''[[M7C]]:''' None | '''[[M7M]]:''' [[Cobra]]
+|-
+! width="10em" style="background-color: #CCCCFF;" | [[:Category:Fighters|Fighters]]
+| style="background-color: #EEEEEE;" | '''[[M3]]:''' [[Mamba]] | '''[[M3+]]:''' [[Chimera]] | '''[[M4]]:''' [[Scorpion]] | '''[[M4+]]:''' [[Asp]] | '''[[M5]]:''' [[Jaguar]]
+|-
+! width="10em" style="background-color: #CCCCFF;" | [[:Category:Escort|Escort Ships]]
+| '''[[M6]]:''' [[Dragon]] | '''[[M6+]]:''' [[Heavy Dragon]] | '''[[M8]]:''' [[Viper]]
+|-
+! width="10em" style="background-color: #CCCCFF;" | [[:Category:Transport|Transports]]
+| style="background-color: #EEEEEE;" | '''[[TL]]:''' [[Elephant]] | '''[[TM]]:''' [[Boa]] | '''[[TP]]:''' [[Iguana]], [[Ocelot]] | '''[[TS]]:''' [[Caiman]] | '''[[TS+]]:''' [[Drake]]
+|-
+! width="10em" style="background-color: #CCCCFF;" | [[Shipyard]]s
+| [[Cho's Defeat]] | [[Family Njy]] | [[Family Pride]] | [[Family Rhy]] | [[Family Tkr]] | [[Patriarch's Conclusion]] | [[Rhonkar's Might]] | [[Rhonkar's Trial]] | [[Zyarth's Dominion]] | [[Zyarth's Stand]] (AP only)
+|-
+! width="10em" style="background-color: #CCCCFF;" | Racial [[Wares]]
+| style="background-color: #EEEEEE;" | [[Rastar Oil]] | [[Chelts Meat]] | [[Scruffin Fruits]] | [[Spaceflies]] | [[Massom Powder]]
+|} <includeonly>[[Category:Split]]</includeonly>

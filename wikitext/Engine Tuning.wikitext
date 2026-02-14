@@ -1,3 +1,20 @@
-<!-- source file: index__qe681ae88eddd.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Engine Tuning
+|cargoclass=-
+|volume=1
+|minprice=128
+|aveprice=140
+|maxprice=152
+}}
+{{Infobox close}}
+==Overview==
+Engine Tuning improves the maximum speed of a ship.
 
-{{Infobox open}} {{Infobox ware |ware= Engine Tuning |cargoclass=- |volume=1 |minprice=128 |aveprice=140 |maxprice=152 }} {{Infobox close}} ==Overview== Engine Tuning improves the maximum speed of a ship. Speed is affected by hull damage and engine tuning. The more tuning your engines have the faster your ship can go. However, although it is possible to destroy engine tunings when attacking a ship, far more critical is the hull rating. Ships with severe hull damage will be limited to a small fraction of their maximum speed (which is affected by engine tuning). ==Encyclopedia Entry== This service is a time-limited special available only now. A team of highly-trained specialists using advanced equipment in this complicated procedure will optimise your engine, making your ship go faster than ever before. ==Availability== All Equipment Docks and most Trading Stations.
+Speed is affected by hull damage and engine tuning. The more tuning your engines have the faster your ship can go. However, although it is possible to destroy engine tunings when attacking a ship, far more critical is the hull rating. Ships with severe hull damage will be limited to a small fraction of their maximum speed (which is affected by engine tuning).
+
+==Encyclopedia Entry==
+This service is a time-limited special available only now. A team of highly-trained specialists using advanced equipment in this complicated procedure will optimise your engine, making your ship go faster than ever before.
+
+==Availability==
+All Equipment Docks and most Trading Stations.

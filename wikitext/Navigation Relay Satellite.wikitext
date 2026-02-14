@@ -1,3 +1,55 @@
-<!-- source file: index__q3982e996056a.html -->
+==Navigation Relay Satellite==
+{{Infobox open}}
+{{Infobox ware
+|ware= Navigation Relay <br>Satellite
+|cargoclass=M
+|volume=3
+|minprice=5797
+|aveprice=6740
+|maxprice=7683
+}}
+{{Infobox close}}
 
-==Navigation Relay Satellite== {{Infobox open}} {{Infobox ware |ware= Navigation Relay &lt;br>Satellite |cargoclass=M |volume=3 |minprice=5797 |aveprice=6740 |maxprice=7683 }} {{Infobox close}} Navigation Relay Satellites are products which may be deployed in space. Once deployed, the satellite relays a small [[Scanners|sensor]] bubble and acts as a presence in system. This presence coupled with a [[Trading System Extension]] allows a player to monitor trading information in the system. ===Encyclopedia Entry=== These satellites transmit all navigational data from the system they are installed in, to your ship computer to allow your universe map to display online information from all ships and stations. Installing such a satellite is mandatory to control distant systems remotely. &lt;br style="clear: both" /> ==Advanced Satellite== {{Infobox open}} {{Infobox ware |ware= Advanced Satellite |cargoclass=M |volume=4 |minprice=11051 |aveprice=13476 |maxprice=15901 }} {{Infobox close}} Advanced Satellites are longer ranged Navigation Relay Satellites. ===Encyclopedia Entry=== This satellite is the next generation of advanced communications. It is capable of video capture technology, a new feature that was developed to keep an eye on stations and ships. This satellite still has the old features that allow for navigation and information relay transfer. &lt;br style="clear: both" /> ==Commentary== The encyclopedia entries are misleading. Relay satellites are not required to control remote systems, Trading Extensions are. Any ship or station in a sector permits control and access to sector station services, shipyards for example. This assumes the ship you currently pilot has a Trading Extension, without a Trading extension, you may still control your own assets, but may not directly interact with other stations. Satellites grant slightly larger sensor bubbles than corresponding ship sensor packages. Nav Sats grant 2 km more range than Duplex Scanners and Adv Sats grant 2 km more range than Triplex Scanners. Advanced Satellites have the greatest sensor bubble range in the [[X-universe]]. The primary function of satellites is to monitor sectors for traffic, particularly hostile traffic to better inform players on safe routes or sending combat patrols. Satellites may also be deployed into combat to improve sensor radius. The [[Albion Prelude]]'s [[Bonus Pack]] adds an option to use the player's Satellite network as an early warning system, with customizable controls for when and what kind of alert to sound. ==Trading information== {| ! Sold by !! Traded at |- valign="top" | *[[Advanced Satellite Factory]] *[[Satellite Factory]] | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}}
+Navigation Relay Satellites are products which may be deployed in space. Once deployed, the satellite relays a small [[Scanners|sensor]] bubble and acts as a presence in system. This presence coupled with a [[Trading System Extension]] allows a player to monitor trading information in the system.
+===Encyclopedia Entry===
+These satellites transmit all navigational data from the system they are installed in, to your ship computer to allow your universe map to display online information from all ships and stations. Installing such a satellite is mandatory to control distant systems remotely.
+<br style="clear: both" />
+
+==Advanced Satellite==
+{{Infobox open}}
+{{Infobox ware
+|ware= Advanced Satellite
+|cargoclass=M
+|volume=4
+|minprice=11051
+|aveprice=13476
+|maxprice=15901
+}}
+{{Infobox close}}
+
+Advanced Satellites are longer ranged Navigation Relay Satellites.
+===Encyclopedia Entry===
+This satellite is the next generation of advanced communications. It is capable of video capture technology, a new feature that was developed to keep an eye on stations and ships. This satellite still has the old features that allow for navigation and information relay transfer.
+<br style="clear: both" />
+==Commentary==
+The encyclopedia entries are misleading. Relay satellites are not required to control remote systems, Trading Extensions are. Any ship or station in a sector permits control and access to sector station services, shipyards for example. This assumes the ship you currently pilot has a Trading Extension, without a Trading extension, you may still control your own assets, but may not directly interact with other stations.
+
+Satellites grant slightly larger sensor bubbles than corresponding ship sensor packages. Nav Sats grant 2 km more range than Duplex Scanners and Adv Sats grant 2 km more range than Triplex Scanners. Advanced Satellites have the greatest sensor bubble range in the [[X-universe]].
+
+The primary function of satellites is to monitor sectors for traffic, particularly hostile traffic to better inform players on safe routes or sending combat patrols. Satellites may also be deployed into combat to improve sensor radius.
+
+The [[Albion Prelude]]'s [[Bonus Pack]] adds an option to use the player's Satellite network as an early warning system, with customizable controls for when and what kind of alert to sound.
+
+==Trading information==
+{|
+! Sold by !! Traded at
+|- valign="top"
+|
+*[[Advanced Satellite Factory]]
+*[[Satellite Factory]]
+|
+*List of Trading Stations where this ware is traded (sector only)
+
+|}
+
+{{Warecategory}}

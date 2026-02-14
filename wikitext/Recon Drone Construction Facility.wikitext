@@ -1,3 +1,31 @@
-<!-- source file: index__q409a8dc5f96c.html -->
+{{Infobox open}}
+{{Infobox factory
+|faction=Boron
+|station=Recon Drone Construction Facility
+|hull=1 000 000
+|shield=9
+|generator=2 000
+|hangar=5
+|cycle=03:20:00
+|productnum=[[Recon Drone]] (12)
+|stationprice={{Priceblock|Boron Queen's Guard|2349724}}
+|reqresources=[[Energy Cells]] (3000) <br>[[BoFu]] (500) <br>[[Silicon Wafers]] (125)
+|optresources=[[Computer Components]] <br>[[Quantum Tubes]]
+}}
+{{Infobox close}}
 
-{{Infobox open}} {{Infobox factory |faction=Boron |station=Recon Drone Construction Facility |hull=1 000 000 |shield=9 |generator=2 000 |hangar=5 |cycle=03:20:00 |productnum=[[Recon Drone]] (12) |stationprice={{Priceblock|Boron Queen's Guard|2349724}} |reqresources=[[Energy Cells]] (3000) &lt;br>[[BoFu]] (500) &lt;br>[[Silicon Wafers]] (125) |optresources=[[Computer Components]] &lt;br>[[Quantum Tubes]] }} {{Infobox close}} ==Overview== Recon Drone Construction Facilities are Boron factories that produce the [[Recon Drone]] from [[Energy Cells]], [[BoFu]] and [[Silicon Wafers]]. NPC stations will buy [[Computer Components]] and [[Quantum Tubes]] as secondary resources. ===Encyclopedia Entry=== The Recon Drone Construction Facility now mass-produces these versatile and high-specification drones, capable of infiltrating well-defended areas. ==Availability== This factory is sold exclusively at [[Queen's Retribution]]. {{Stationcategory}}
+==Overview==
+
+Recon Drone Construction Facilities are Boron factories that produce the [[Recon Drone]] from [[Energy Cells]], [[BoFu]] and [[Silicon Wafers]]. 
+
+NPC stations will buy [[Computer Components]] and [[Quantum Tubes]] as secondary resources.
+
+===Encyclopedia Entry===
+
+The Recon Drone Construction Facility now mass-produces these versatile and high-specification drones, capable of infiltrating well-defended areas. 
+
+==Availability==
+
+This factory is sold exclusively at [[Queen's Retribution]].
+
+{{Stationcategory}}

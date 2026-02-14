@@ -1,3 +1,58 @@
-<!-- source file: index__qbd421e702873.html -->
+{{Infobox Faction
+|Faction=Split Strong Arms
+|Speciestype=Split
+|Homeworld=[[Thyn's Excavation]]
+|Systems=
+|Population=
+|Government=
+|Ranks={{Rank List|Honoured Strong Arms Legend
+|Imperator of Strong Arms
+|Strong Arms' Battlemaster
+|Strong Arms' Protector
+|Strong Arms' Assassin
+|Warrior Specialist
+|Warrior
+|Combat Support
+|Associate
+|Accomplice
+|Friend
+|Outcast
+|Combat Nuisance
+|Confirmed Enemy
+|Enemy Warrior
+|Enemy of Strong Arms}}
+}}
 
-{{Infobox Faction |Faction=Split Strong Arms |Speciestype=Split |Homeworld=[[Thyn's Excavation]] |Systems= |Population= |Government= |Ranks={{Rank List|Honoured Strong Arms Legend |Imperator of Strong Arms |Strong Arms' Battlemaster |Strong Arms' Protector |Strong Arms' Assassin |Warrior Specialist |Warrior |Combat Support |Associate |Accomplice |Friend |Outcast |Combat Nuisance |Confirmed Enemy |Enemy Warrior |Enemy of Strong Arms}} }} =General= This Split corporation exists only to manufacture and sell weapons. Ethically depraved, the company isn't particular about who pays top credit for its armaments. ==Government and politics== ===Foreign relations and military=== ==History== ==Culture== ==Geography and Climate== =Science and Technology= ===Ships=== Reward the player of these ships when reach specific ranks * Rank 4 (Warrior): [[Enhanced Jaguar]] ([[M5]]) * Rank 7 (Strong Arms' Protector): [[Advanced Mamba]] ([[M3]]) * Rank 10 (Honoured Strong Arms Legend): [[Enhanced Chimera]] ([[M3+]]) ===Stations=== * [[Strong Arms HQ]] =Territories= ==Core Worlds== # ==Border Worlds== # [[Thyn's Excavation]] (their home sector) =Food= [[]] {{Splitcategory}} [[Category:Corporations]] {{Races}}
+=General=
+This Split corporation exists only to manufacture and sell weapons. Ethically depraved, the company isn't particular about who pays top credit for its armaments.
+==Government and politics==
+
+===Foreign relations and military===
+
+==History==
+
+==Culture==
+==Geography and Climate==
+
+=Science and Technology=
+===Ships===
+Reward the player of these ships when reach specific ranks
+* Rank 4 (Warrior): [[Enhanced Jaguar]] ([[M5]])
+* Rank 7 (Strong Arms' Protector): [[Advanced Mamba]] ([[M3]])
+* Rank 10 (Honoured Strong Arms Legend): [[Enhanced Chimera]] ([[M3+]])
+
+===Stations===
+* [[Strong Arms HQ]]
+
+=Territories=
+==Core Worlds==
+#
+==Border Worlds==
+# [[Thyn's Excavation]] (their home sector)
+
+=Food=
+[[]]
+
+{{Splitcategory}}
+[[Category:Corporations]]
+{{Races}}

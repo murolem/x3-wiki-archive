@@ -1,3 +1,20 @@
-<!-- source file: index__q8e0bf5a18442.html -->
+==Overview==
+A [[Boron]] friend of Mahi Ma and [[Julian Brennan]].
+According to encyclopedia entries in-game, Bala Gi is the creator of the [[M3+]] spaceship concept, which are the most expensive though also the most powerful fighters available. Speaking to Bala Gi also starts a quest that ultimately gives the player control of a [[Xenon Hub]], allowing them to rewire limited sections of the X Universe to their liking at a time. However, this is easily the most difficult quest in the game and requires incredibly massive amounts of resources to complete.
 
-==Overview== A [[Boron]] friend of Mahi Ma and [[Julian Brennan]]. According to encyclopedia entries in-game, Bala Gi is the creator of the [[M3+]] spaceship concept, which are the most expensive though also the most powerful fighters available. Speaking to Bala Gi also starts a quest that ultimately gives the player control of a [[Xenon Hub]], allowing them to rewire limited sections of the X Universe to their liking at a time. However, this is easily the most difficult quest in the game and requires incredibly massive amounts of resources to complete. == In-Game Mentions == Bala Gi is Referred to in: *[[X3: Reunion]] *[[X3: Terran Conflict]] *[[Hub Plot Walkthrough]] *[[HQ plot]] === X3: Reunion === In X3: Reunion, Bala Gi is most predominantly mentioned as part of its [[HQ Plot]]. In it, the player must perform some tasks for Bala Gi, including scanning Nvidium asteroids, retrieving ships, and testing out his new [[M7]]-class ship - the [[Hyperion]]. At the end of this quest, Bala Gi gives Julian Brennan a personal [[Headquarters]], from which to build his own ships via blueprints. == See Also == {{stub}}
+
+== In-Game Mentions ==
+Bala Gi is Referred to in:
+*[[X3: Reunion]]
+*[[X3: Terran Conflict]]
+*[[Hub Plot Walkthrough]]
+*[[HQ plot]]
+
+=== X3: Reunion ===
+In X3: Reunion, Bala Gi is most predominantly mentioned as part of its [[HQ Plot]]. In it, the player must perform some tasks for Bala Gi, including scanning Nvidium asteroids, retrieving ships, and testing out his new [[M7]]-class ship - the [[Hyperion]].
+
+At the end of this quest, Bala Gi gives Julian Brennan a personal [[Headquarters]], from which to build his own ships via blueprints.
+
+
+== See Also ==
+{{stub}}

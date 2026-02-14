@@ -1,3 +1,36 @@
-<!-- source file: index__q7758539de1c5.html -->
+{{Infobox Sector
+|Race=Split
+|SecLevel=Border
+|Population=73,317,414
+|Planets=3
+|SunLevel=150
+|GateDist=80
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|0|34000|[[Contorted Dominion]]}}
+{{Gateblock/End}}
+}}
+==Description==
+Holding the Strong Arms HQ, Thyn's Excavation provides funds and resources for the ongoing conflict in Veil of Delusion. Naturally this has extended to arms shipments wherever else they are needed. For the Split, the price of war is never too high.
 
-{{Infobox Sector |Race=Split |SecLevel=Border |Population=73,317,414 |Planets=3 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0|0|34000|[[Contorted Dominion]]}} {{Gateblock/End}} }} ==Description== Holding the Strong Arms HQ, Thyn's Excavation provides funds and resources for the ongoing conflict in Veil of Delusion. Naturally this has extended to arms shipments wherever else they are needed. For the Split, the price of war is never too high. ==Default [[Stations]]== *[[Strong Arms|Strong Arms HQ]] ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|25|-907|15581|39674}} {{Asteroid/Item|Ore|20|-8591|-17909|15747}} {{Asteroid/Item|Ore|11|34115|-8270|-35200}} {{Asteroid/Item|Ore|5|33582|12783|37186}} {{Asteroid/Item|Ore|5|-5949|5955|24981}} {{Asteroid/Item|Silicon|54|36779|16185|-30428}} {{Asteroid/Item|Silicon|36|-52142|11540|-10414}} {{Asteroid/Item|Silicon|36|-45642|11540|-20414}} {{Asteroid/Item|Silicon|25|-48823|-18847|14529}} {{Asteroid/Item|Silicon|9|11667|-33799|-21715}} {{Asteroid/Item|Silicon|8|-45999|10243|10785}} {{Asteroid/Item|Silicon|5|40352|20240|9056}} {{Asteroid/End}} == See Also == {{Split Navbox}}
+==Default [[Stations]]==
+*[[Strong Arms|Strong Arms HQ]]
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|25|-907|15581|39674}}
+{{Asteroid/Item|Ore|20|-8591|-17909|15747}}
+{{Asteroid/Item|Ore|11|34115|-8270|-35200}}
+{{Asteroid/Item|Ore|5|33582|12783|37186}}
+{{Asteroid/Item|Ore|5|-5949|5955|24981}}
+{{Asteroid/Item|Silicon|54|36779|16185|-30428}}
+{{Asteroid/Item|Silicon|36|-52142|11540|-10414}}
+{{Asteroid/Item|Silicon|36|-45642|11540|-20414}}
+{{Asteroid/Item|Silicon|25|-48823|-18847|14529}}
+{{Asteroid/Item|Silicon|9|11667|-33799|-21715}}
+{{Asteroid/Item|Silicon|8|-45999|10243|10785}}
+{{Asteroid/Item|Silicon|5|40352|20240|9056}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Split Navbox}}

@@ -1,3 +1,15 @@
-<!-- source file: index__q8718eff76d07.html -->
+Treasure Hunt is a mission set added in the 2.1 patch.
 
-Treasure Hunt is a mission set added in the 2.1 patch. ==Starting Conditions== *Argon and Boron sectors *92 sectors visited *10 minutes after patch ==Spoilers== [[Treasure Hunt Spoilers|Click here to be taken to the spoiler information page]] ==Walkthroughs== *[{{linky}}forum.egosoft.com/viewtopic.php?t=250031&amp;postdays=0&amp;postorder=asc&amp;start=0 Mizzle's thread on the egosoft forum] *[{{linky}}forum.egosoft.com/viewtopic.php?t=292621&amp;highlight=treasure+hunt+walkthrough Spike's Walkthrough for the Treasure Hunt plot on the Egosoft forums] {{Missions}}
+==Starting Conditions==
+*Argon and Boron sectors
+*92 sectors visited
+*10 minutes after patch
+
+==Spoilers==
+[[Treasure Hunt Spoilers|Click here to be taken to the spoiler information page]]
+==Walkthroughs==
+*[{{linky}}forum.egosoft.com/viewtopic.php?t=250031&postdays=0&postorder=asc&start=0 Mizzle's thread on the egosoft forum]
+*[{{linky}}forum.egosoft.com/viewtopic.php?t=292621&highlight=treasure+hunt+walkthrough Spike's Walkthrough for the Treasure Hunt plot on the Egosoft forums]
+
+
+{{Missions}}

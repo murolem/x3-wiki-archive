@@ -1,3 +1,52 @@
-<!-- source file: index__q92c936a94964.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Atmospheric Lifter
+|Faction=Terran
+|Class={{TLclass}}
+|Priceblock={{Priceblock|| 24549345}}
+|Minspeed= 75.0
+|Maxspeed= 112.5
+|Minaccel= 2
+|Maxaccel= 4
+|Minsteer= 1.7
+|Maxsteer= 2.5
+|Hull= 150000
+|Maxshield= 200 MJ
+|Shieldslots= 5
+|Maxshieldstrength= 1000
+|Shieldreactor= 3300
+|Cargoclass= ST
+|Mincargo= 80000
+|Maxcargo= 80000
+|Lasercap= 17100
+|Laserrecharge= 171
+|Gunbay=
+|Dockbay={{Dockbay|5 [[M3+]]-[[M5]]}}
+}}
+{{Infobox close}}
+==Overview==
+One of the more sought-after [[TL]]s, the '''Atmospheric Lifter''' sports the second (or third) largest cargo bay of any ship in the game, at 80,000 units. It is fast for a TL, making it pretty much ideal for station hauling or storage. It is large, however, and has trouble docking and only barely fits through gates.
 
-{{Infobox open}} {{Infobox variant |Variant=Atmospheric Lifter |Faction=Terran |Class={{TLclass}} |Priceblock={{Priceblock|| 24549345}} |Minspeed= 75.0 |Maxspeed= 112.5 |Minaccel= 2 |Maxaccel= 4 |Minsteer= 1.7 |Maxsteer= 2.5 |Hull= 150000 |Maxshield= 200 MJ |Shieldslots= 5 |Maxshieldstrength= 1000 |Shieldreactor= 3300 |Cargoclass= ST |Mincargo= 80000 |Maxcargo= 80000 |Lasercap= 17100 |Laserrecharge= 171 |Gunbay= |Dockbay={{Dockbay|5 [[M3+]]-[[M5]]}} }} {{Infobox close}} ==Overview== One of the more sought-after [[TL]]s, the '''Atmospheric Lifter''' sports the second (or third) largest cargo bay of any ship in the game, at 80,000 units. It is fast for a TL, making it pretty much ideal for station hauling or storage. It is large, however, and has trouble docking and only barely fits through gates. ==Background== The Atmospheric Lifter is a specially equipped TL-class vessel which is able to efficiently lift heavy freight and infrastructure from a planet's surface to orbital and extra-orbital facilities. ==Physical Characteristics== The Atmospheric Lifter is a large white saucer with rectangular engine sections. It flies with the broad side of the saucer facing forward, causing it to bulldoze virtually anything in its way. == Combat == The Atmospheric Lifter has no guns (making one wonder why the shipbuilders bothered to fit it with a laser generator at all), and is limited to defending itself with [[fighter]]s and a small selection of missiles. == Equipment == Carries 5x200MJ shields, but no weaponry. Compatible with Poltergeist missiles and Spectre missiles (which can be used for mobile mining). == Availability == Atmospheric Lifters can only be [[Boarding|captured]], never bought. They are found in [[Terran]] sectors, flying from the planet to [[USC Orbital Logistics Dock]]s and [[USC Orbital Support Station|Support Stations]], to which they deliver their cargo with [[Freight Drone|freight drones]]. An easy way to target/locate these when they're typically very far out is to check the owned ships of the local Orbital Support Station - if the Atmospheric lifter is currently present it can be targeted from here. == Suggested Roles== Because the Atmospheric Lifter can be dangerous to fly through gates [[IS]], it is usually used as a floating storage dump, making use of its vast cargo capacity. Can be safer for station building when jumped in/out OoS, to take advantage of its large cargo bay. Also a very good personal mobile mining ship, able to break apart large asteroids with the Spectre missile (because it lacks any mounts for the MDS), has the shielding and size to physically plow through/collect rocks, and has a fighter bay for holding the XL-cargo capable, buyable Teladi Falcon hauler M3s. == See Also== {{TL}} [[Category: Carrier]] {{Terran Navbox}}
+==Background==
+The Atmospheric Lifter is a specially equipped TL-class vessel which is able to efficiently lift heavy freight and infrastructure from a planet's surface to orbital and extra-orbital facilities.
+
+==Physical Characteristics==
+The Atmospheric Lifter is a large white saucer with rectangular engine sections.  It flies with the broad side of the saucer facing forward, causing it to bulldoze virtually anything in its way.
+
+== Combat ==
+The Atmospheric Lifter has no guns (making one wonder why the shipbuilders bothered to fit it with a laser generator at all), and is limited to defending itself with [[fighter]]s and a small selection of missiles.
+
+== Equipment ==
+Carries 5x200MJ shields, but no weaponry. Compatible with Poltergeist missiles and Spectre missiles (which can be used for mobile mining).
+
+== Availability ==
+Atmospheric Lifters can only be [[Boarding|captured]], never bought.  They are found in [[Terran]] sectors, flying from the planet to [[USC Orbital Logistics Dock]]s and [[USC Orbital Support Station|Support Stations]], to which they deliver their cargo with [[Freight Drone|freight drones]]. An easy way to target/locate these when they're typically very far out is to check the owned ships of the local Orbital Support Station - if the Atmospheric lifter is currently present it can be targeted from here.
+
+== Suggested Roles==
+Because the Atmospheric Lifter can be dangerous to fly through gates [[IS]], it is usually used as a floating storage dump, making use of its vast cargo capacity. Can be safer for station building when jumped in/out OoS, to take advantage of its large cargo bay. Also a very good personal mobile mining ship, able to break apart large asteroids with the Spectre missile (because it lacks any mounts for the MDS), has the shielding and size to physically plow through/collect rocks, and has a fighter bay for holding the XL-cargo capable, buyable Teladi Falcon hauler M3s.
+
+== See Also==
+{{TL}}
+[[Category: Carrier]]
+
+{{Terran Navbox}}

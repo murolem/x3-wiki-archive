@@ -1,3 +1,12 @@
-<!-- source file: index__q80daf93eb2bc.html -->
-
-{{Infobox Sector |Race=Unknown |SecLevel=Border |Population= |Planets= |SunLevel= |GateDist= |Gates= }} ==Description== ==Default [[Stations]]== ==[[Asteroids]]==
+{{Infobox Sector
+|Race=Unknown
+|SecLevel=Border
+|Population=
+|Planets=
+|SunLevel=
+|GateDist=
+|Gates=
+}}
+==Description==
+==Default [[Stations]]==
+==[[Asteroids]]==

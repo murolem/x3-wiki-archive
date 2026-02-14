@@ -1,3 +1,113 @@
-<!-- source file: index__q65516a6b1315.html -->
+{{Infobox Sector
+|Race=Teladi
+|SecLevel=Border
+|Population=75904677
+|Planets=4
+|SunLevel=150
+|GateDist=120
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|0|27.0|36.6|[[Blue Profit]]}}
+{{Gateblock2|South|0|27.0|-32.8|[[Company Pride]]}}
+</table>
+}}
+==Description==
+Highly destructive [[Particle Accelerator Cannon|PAC]]/[[Photon Pulse Cannon|PPC]] Weapons are built here under strict Teladi Military guard. Most of the personnel in this system are tied to the military arm of the Profit Guild or the smaller Teladi Company Navy. The market for recreational and luxury goods is high among the personnel on guard detail in a relatively safe system.
 
-{{Infobox Sector |Race=Teladi |SecLevel=Border |Population=75904677 |Planets=4 |SunLevel=150 |GateDist=120 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|0|27.0|36.6|[[Blue Profit]]}} {{Gateblock2|South|0|27.0|-32.8|[[Company Pride]]}} &lt;/table> }} ==Description== Highly destructive [[Particle Accelerator Cannon|PAC]]/[[Photon Pulse Cannon|PPC]] Weapons are built here under strict Teladi Military guard. Most of the personnel in this system are tied to the military arm of the Profit Guild or the smaller Teladi Company Navy. The market for recreational and luxury goods is high among the personnel on guard detail in a relatively safe system. ==Shipyard Availability== A super shipyard with capability to craft near all Teladi stations. {{Shipyard/Begin|Station|ST Size|Cost}} {{Shipyard/Station|Teladi Trading Station||12000|28,241,892}} {{Shipyard/Station|Equipment Dock||10000|49,991,396}} {{Shipyard/Station|Weapon Component Factory||12000|655,732}} {{Shipyard/Station|Crystal Fab|M|15000|3,129,332}} {{Shipyard/Station|Quantum Tube Fab||13500|4,135,652}} {{Shipyard/Station|Chip Plant||16000|5,599,036}} {{Shipyard/Station|Computer Plant||14000|1,415,340}} {{Shipyard/Station|Mosquito Missile Factory||10000|525,884}} {{Shipyard/Station|Silkworm Missile Factory||13000|2,739,788}} {{Shipyard/Station|SQUASH Mine Factory||15000|2,473,600}} {{Shipyard/Station|Satellite Factory||16500|831,024}} {{Shipyard/Station|Impulse Ray Emitter Forge||15000|2,565,792}} {{Shipyard/Station|High Energy Plasma Thrower Forge||18000|6,439,672}} {{Shipyard/Station|Gauss Cannon Forge||21000|12,091,424}} {{Shipyard/Station|Concussion Impulse Generator Forge||21000|8,997,476}} {{Shipyard/Station|Flak Artillery Array Forge||15000|8,997,476}} {{Shipyard/Station|Mobile Drilling System Factory||18500|3,682,484}} {{Shipyard/Station|Shield Prod. Facility 1 MJ||11500|1,485,460}} {{Shipyard/Station|Shield Prod. Facility 5 MJ||12500|2,041,208}} {{Shipyard/Station|Flower Farm|M|11000|360,004}} {{Shipyard/Station|Flower Farm|L|16500|899,976}} {{Shipyard/Station|Teladianium Foundry|M|18000|325,008}} {{Shipyard/Station|Teladianium Foundry|L|18000|811,548}} {{Shipyard/Station|Dream Farm|M|9000|275,016}} {{Shipyard/Station|Dream Farm|L|13500|687,480}} {{Shipyard/Station|Sun Oil Refinery|M|12000|849,984}} {{Shipyard/Station|Sun Oil Refinery|L|18000|2,125,024}} {{Shipyard/Station|Bliss Place|M|9500|1,584,144}} {{Shipyard/Station|Bliss Place|L|14250|3,564,320}} {{Shipyard/Station|Solar Power Plant|M|10500|4,648,552}} {{Shipyard/Station|Solar Power Plant|L|15750|10,459,240}} {{Shipyard/Station|Solar Power Plant|XL|22000|18,594,200}} {{Shipyard/Station|Ore Mine|M|8000|424,992}} {{Shipyard/Station|Ore Mine|L|12000|849,984}} {{Shipyard/Station|Silicon Mine|M|9500|449,988}} {{Shipyard/Station|Silicon Mine|L|14250|905,688}} {{Shipyard/Station|Complex Construction Kit||4250|259,696}} {{Shipyard/Station|Cyclone Missile Factory||14000|4,161,620}} {{Shipyard/Station|Typhoon Missile Factory||17500|9,141,284}} {{Shipyard/Station|Tomahawk Missile Manufacturing Facility||13000|2,876,128}} {{Shipyard/Station|Hammer Torpedo Fabrication Facility||13000|2,876,128}} {{Shipyard/Station|Flail Missile Production Facility||13000|2,876,128}} {{Shipyard/Station|Crystal Fab|L|20500|6,557,312}} {{Shipyard/End}} {{Shipyard/Begin|Ship|Class|Cost}} {{Shipyard/Ship1|Albatross|TL|27,274,154}} {{Shipyard/Ship1|Vulture|TS|237,136}} {{Shipyard/Ship2|Vulture|Tanker|TS|237,136}} {{Shipyard/Ship2|Vulture|Hauler|TS|632,667}} {{Shipyard/Ship2|Vulture|Miner|TS|423,084}} {{Shipyard/Ship2|Vulture|Super Freighter|TS|632,667}} {{Shipyard/Ship2|Vulture|Super Freighter XL|TS|1,593,252}} {{Shipyard/Ship1|Toucan|TP|448,657}} {{Shipyard/Ship1|Pelican|TM|470,629}} {{Shipyard/Ship1|Condor|M1|67,952,727}} {{Shipyard/Ship1|Phoenix|M2|69,283,911}} {{Shipyard/Ship1|Falcon|M3|1,890,032}} {{Shipyard/Ship2|Falcon|Hauler|M3|2,229,223}} {{Shipyard/Ship2|Falcon|Vanguard|M3|2,511,909}} {{Shipyard/Ship1|Kea|M3+|5,373,157}} {{Shipyard/Ship1|Buzzard|M4|434,306}} {{Shipyard/Ship2|Buzzard|Vanguard|M4|541,585}} {{Shipyard/Ship2|Buzzard|Sentinel|M4|680,991}} {{Shipyard/Ship1|Kite|M4+|921,380}} {{Shipyard/Ship1|Harrier|M5|67,909}} {{Shipyard/Ship2|Harrier|Hauler|M5|74,206}} {{Shipyard/Ship2|Harrier|Vanguard|M5|83,655}} {{Shipyard/Ship1|Kestrel|M5|131,115}} {{Shipyard/Ship1|Osprey|M6|15,223,732}} {{Shipyard/Ship1|Heavy Osprey|M6+|16,517,250}} {{Shipyard/Ship1|Shrike|M7|29,944,060}} {{Shipyard/Ship1|Gannet|M7M|50,272,580}} {{Shipyard/Ship1|Peregrine|M8|5,469,216}} {{Shipyard/Ship1|Tern|TS+|1,708,856}} {{Shipyard/Ship1|Geochen|TP|1,460,659}} {{Shipyard/End}} *Note: [[Tern]] and [[Geochen]] are available in Albion Prelude ==Default [[Stations]]== *[[Teladi Shipyard|Super Teladi Shipyard]] *[[Military Outpost]] *[[Teladi Trading Station]] ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|5|-12927|-1536|-11519}} {{Asteroid/Item|Ore|3|-15566|-1090|-19619}} {{Asteroid/Item|Ore|2|-7947|-4518|-14228}} {{Asteroid/End}} == See Also == {{Teladi Navbox}}
+
+==Shipyard Availability==
+A super shipyard with capability to craft near all Teladi stations.
+{{Shipyard/Begin|Station|ST Size|Cost}}
+{{Shipyard/Station|Teladi Trading Station||12000|28,241,892}}
+{{Shipyard/Station|Equipment Dock||10000|49,991,396}}
+{{Shipyard/Station|Weapon Component Factory||12000|655,732}}
+{{Shipyard/Station|Crystal Fab|M|15000|3,129,332}}
+{{Shipyard/Station|Quantum Tube Fab||13500|4,135,652}}
+{{Shipyard/Station|Chip Plant||16000|5,599,036}}
+{{Shipyard/Station|Computer Plant||14000|1,415,340}}
+{{Shipyard/Station|Mosquito Missile Factory||10000|525,884}}
+{{Shipyard/Station|Silkworm Missile Factory||13000|2,739,788}}
+{{Shipyard/Station|SQUASH Mine Factory||15000|2,473,600}}
+{{Shipyard/Station|Satellite Factory||16500|831,024}}
+{{Shipyard/Station|Impulse Ray Emitter Forge||15000|2,565,792}}
+{{Shipyard/Station|High Energy Plasma Thrower Forge||18000|6,439,672}}
+{{Shipyard/Station|Gauss Cannon Forge||21000|12,091,424}}
+{{Shipyard/Station|Concussion Impulse Generator Forge||21000|8,997,476}}
+{{Shipyard/Station|Flak Artillery Array Forge||15000|8,997,476}}
+{{Shipyard/Station|Mobile Drilling System Factory||18500|3,682,484}}
+{{Shipyard/Station|Shield Prod. Facility 1 MJ||11500|1,485,460}}
+{{Shipyard/Station|Shield Prod. Facility 5 MJ||12500|2,041,208}}
+{{Shipyard/Station|Flower Farm|M|11000|360,004}}
+{{Shipyard/Station|Flower Farm|L|16500|899,976}}
+{{Shipyard/Station|Teladianium Foundry|M|18000|325,008}}
+{{Shipyard/Station|Teladianium Foundry|L|18000|811,548}}
+{{Shipyard/Station|Dream Farm|M|9000|275,016}}
+{{Shipyard/Station|Dream Farm|L|13500|687,480}}
+{{Shipyard/Station|Sun Oil Refinery|M|12000|849,984}}
+{{Shipyard/Station|Sun Oil Refinery|L|18000|2,125,024}}
+{{Shipyard/Station|Bliss Place|M|9500|1,584,144}}
+{{Shipyard/Station|Bliss Place|L|14250|3,564,320}}
+{{Shipyard/Station|Solar Power Plant|M|10500|4,648,552}}
+{{Shipyard/Station|Solar Power Plant|L|15750|10,459,240}}
+{{Shipyard/Station|Solar Power Plant|XL|22000|18,594,200}}
+{{Shipyard/Station|Ore Mine|M|8000|424,992}}
+{{Shipyard/Station|Ore Mine|L|12000|849,984}}
+{{Shipyard/Station|Silicon Mine|M|9500|449,988}}
+{{Shipyard/Station|Silicon Mine|L|14250|905,688}}
+{{Shipyard/Station|Complex Construction Kit||4250|259,696}}
+{{Shipyard/Station|Cyclone Missile Factory||14000|4,161,620}}
+{{Shipyard/Station|Typhoon Missile Factory||17500|9,141,284}}
+{{Shipyard/Station|Tomahawk Missile Manufacturing Facility||13000|2,876,128}}
+{{Shipyard/Station|Hammer Torpedo Fabrication Facility||13000|2,876,128}}
+{{Shipyard/Station|Flail Missile Production Facility||13000|2,876,128}}
+{{Shipyard/Station|Crystal Fab|L|20500|6,557,312}}
+{{Shipyard/End}}
+{{Shipyard/Begin|Ship|Class|Cost}}
+{{Shipyard/Ship1|Albatross|TL|27,274,154}}
+{{Shipyard/Ship1|Vulture|TS|237,136}}
+{{Shipyard/Ship2|Vulture|Tanker|TS|237,136}}
+{{Shipyard/Ship2|Vulture|Hauler|TS|632,667}}
+{{Shipyard/Ship2|Vulture|Miner|TS|423,084}}
+{{Shipyard/Ship2|Vulture|Super Freighter|TS|632,667}}
+{{Shipyard/Ship2|Vulture|Super Freighter XL|TS|1,593,252}}
+{{Shipyard/Ship1|Toucan|TP|448,657}}
+{{Shipyard/Ship1|Pelican|TM|470,629}}
+{{Shipyard/Ship1|Condor|M1|67,952,727}}
+{{Shipyard/Ship1|Phoenix|M2|69,283,911}}
+{{Shipyard/Ship1|Falcon|M3|1,890,032}}
+{{Shipyard/Ship2|Falcon|Hauler|M3|2,229,223}}
+{{Shipyard/Ship2|Falcon|Vanguard|M3|2,511,909}}
+{{Shipyard/Ship1|Kea|M3+|5,373,157}}
+{{Shipyard/Ship1|Buzzard|M4|434,306}}
+{{Shipyard/Ship2|Buzzard|Vanguard|M4|541,585}}
+{{Shipyard/Ship2|Buzzard|Sentinel|M4|680,991}}
+{{Shipyard/Ship1|Kite|M4+|921,380}}
+{{Shipyard/Ship1|Harrier|M5|67,909}}
+{{Shipyard/Ship2|Harrier|Hauler|M5|74,206}}
+{{Shipyard/Ship2|Harrier|Vanguard|M5|83,655}}
+{{Shipyard/Ship1|Kestrel|M5|131,115}}
+{{Shipyard/Ship1|Osprey|M6|15,223,732}}
+{{Shipyard/Ship1|Heavy Osprey|M6+|16,517,250}}
+{{Shipyard/Ship1|Shrike|M7|29,944,060}}
+{{Shipyard/Ship1|Gannet|M7M|50,272,580}}
+{{Shipyard/Ship1|Peregrine|M8|5,469,216}}
+{{Shipyard/Ship1|Tern|TS+|1,708,856}}
+{{Shipyard/Ship1|Geochen|TP|1,460,659}}
+{{Shipyard/End}}
+*Note: [[Tern]] and [[Geochen]] are available in Albion Prelude
+
+==Default [[Stations]]==
+*[[Teladi Shipyard|Super Teladi Shipyard]]
+*[[Military Outpost]]
+*[[Teladi Trading Station]]
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|5|-12927|-1536|-11519}}
+{{Asteroid/Item|Ore|3|-15566|-1090|-19619}}
+{{Asteroid/Item|Ore|2|-7947|-4518|-14228}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Teladi Navbox}}

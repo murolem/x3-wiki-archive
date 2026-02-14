@@ -1,3 +1,239 @@
-<!-- source file: index__qa80a26e1bd08.html -->
+{{Infobox open}}
+{{Infobox basicstation
+|faction=Terran
+|station=Orbital Defense Station
+|hull=1500000
+|shield=30
+|generator=
+|hangar=
+|stationprice=
+}}
+{{Infobox close}}
+==Overview==
+Upgrades ships.
+==Encyclopedia Entry==
+===Text===
+This station is designed for the sole purpose of providing maximum protection and security to the sector it is in.
+===Voice Over===
+This station is designed for the sole purpose of providing maximum protection and security to the sector it is in.
 
-{{Infobox open}} {{Infobox basicstation |faction=Terran |station=Orbital Defense Station |hull=1500000 |shield=30 |generator= |hangar= |stationprice= }} {{Infobox close}} ==Overview== Upgrades ships. ==Encyclopedia Entry== ===Text=== This station is designed for the sole purpose of providing maximum protection and security to the sector it is in. ===Voice Over=== This station is designed for the sole purpose of providing maximum protection and security to the sector it is in. ==Known Locations== *[[Asteroid Belt]] *[[Heretic's End]] *[[Mars]] *[[Neptune]] *[[Saturn]] *[[Saturn 2]] *[[The Moon]] *[[Uranus]] *[[Unknown Sector (Beyond Oort Cloud 2nd)]] *[[Venus]] ==Normal Goods, Wares and Equipment== {| class="wikitable sortable" |+Goods |- !Name !Volume !Container Size !Max Stock |- |[[C-Ration]] |4 |M |1666 |- |- |[[Hull Plating]] |10 |L |1250 |- |- |[[Matter/Anti-Matter Mine]] |5 |L |12 |- |- |[[Matter/Anti-Matter Warhead]] |4 |S |312 |- |- |[[Terran EMP Rifles]] |7 |S |4 |- |- |[[Terran MRE]] |7 |S |4 |- {| class="wikitable sortable" |+Items |- !Name !Volume !Container Size !Max Stock |- |[[Salvage Insurance]] | | - |Upgrade |- |} {| class="wikitable sortable" |+Weapons |- !Name !Volume !Container Size !Max Stock |- |- |[[Electro-Magnetic Plasma Cannon]] |5 |S |2 |- |- |[[Matter/Anti-Matter Launcher]] |21 |M |2 |- |- |[[Starburst Shockwave Cannon]] |28 |L |2 |- |- |[[Phantom Missile]] |1 |M |12 |- |- |[[Poltergeist Missile]] |2 |S |82 |- |- |[[Shadow Missile]] |18 |L |4 |- |- |[[Spectre Missile]] |5 |M |34 |- {| class="wikitable sortable" |+Shields |- !Name !Volume !Container Size !Max Stock |- |- |[[Shields#1 GJ|1 GJ Shield]] |77 |XL |2 |- |- |[[Shields#1 MJ|1 MJ Shield]] |1 |S |124 |- |- |[[Shields#200 MJ|200 MJ Shield]] |25 |L |4 |- |- |[[Shields#25 MJ|25 MJ Shield]] |10 |M |6 |- |- |[[Shields#5 MJ|5 MJ Shield]] |3 |S |30 |- {| class="wikitable sortable" |+Equipment |- !Name !Volume !Container Size !Max Stock |- |- |Boost Extension |0 |S |Upgrade |- |- |[[Duplex Scanner]] |0 |S |Upgrade |- |- |[[Fight Command Software]] MK1 |0 |S |Upgrade |- |- |[[Fight Command Software]] MK2 |0 |S |Upgrade |- |- |[[Freight Scanner]] |0 |S |Upgrade |- |- |[[Navigation Command Software]] |0 |S |Upgrade |- |- |[[Singularity Engine Time Accelerator]] |0 |S |Upgrade |- |- |[[Special Command Software]] |0 |S |Upgrade |- {{Stationcategory}}
+==Known Locations==
+*[[Asteroid Belt]] 
+*[[Heretic's End]] 
+*[[Mars]]
+*[[Neptune]] 
+*[[Saturn]]
+*[[Saturn 2]]
+*[[The Moon]] 
+*[[Uranus]] 
+*[[Unknown Sector (Beyond Oort Cloud 2nd)]]
+*[[Venus]]
+
+==Normal Goods, Wares and Equipment==
+{| class="wikitable sortable"
+|+Goods
+|-
+!Name
+!Volume
+!Container Size
+!Max Stock
+|-
+|[[C-Ration]]
+|4
+|M
+|1666
+|-
+|-
+|[[Hull Plating]]
+|10
+|L
+|1250
+|-
+|-
+|[[Matter/Anti-Matter Mine]]
+|5
+|L
+|12
+|-
+|-
+|[[Matter/Anti-Matter Warhead]]
+|4
+|S
+|312
+|-
+|-
+|[[Terran EMP Rifles]]
+|7
+|S
+|4
+|-
+|-
+|[[Terran MRE]]
+|7
+|S
+|4
+|-
+
+{| class="wikitable sortable"
+|+Items
+|-
+!Name
+!Volume
+!Container Size
+!Max Stock
+|-
+|[[Salvage Insurance]]
+|
+| -
+|Upgrade
+|-
+|}
+
+{| class="wikitable sortable"
+|+Weapons
+|-
+!Name
+!Volume
+!Container Size
+!Max Stock
+|-
+|-
+|[[Electro-Magnetic Plasma Cannon]]
+|5
+|S
+|2
+|-
+|-
+|[[Matter/Anti-Matter Launcher]]
+|21
+|M
+|2
+|-
+|-
+|[[Starburst Shockwave Cannon]]
+|28
+|L
+|2
+|-
+|-
+|[[Phantom Missile]]
+|1
+|M
+|12
+|-
+|-
+|[[Poltergeist Missile]]
+|2
+|S
+|82
+|-
+|-
+|[[Shadow Missile]]
+|18
+|L
+|4
+|-
+|-
+|[[Spectre Missile]]
+|5
+|M
+|34
+|-
+
+{| class="wikitable sortable"
+|+Shields
+|-
+!Name
+!Volume
+!Container Size
+!Max Stock
+|-
+|-
+|[[Shields#1 GJ|1 GJ Shield]]
+|77
+|XL
+|2
+|-
+|-
+|[[Shields#1 MJ|1 MJ Shield]]
+|1
+|S
+|124
+|-
+|-
+|[[Shields#200 MJ|200 MJ Shield]]
+|25
+|L
+|4
+|-
+|-
+|[[Shields#25 MJ|25 MJ Shield]]
+|10
+|M
+|6
+|-
+|-
+|[[Shields#5 MJ|5 MJ Shield]]
+|3
+|S
+|30
+|-
+
+{| class="wikitable sortable"
+|+Equipment
+|-
+!Name
+!Volume
+!Container Size
+!Max Stock
+|-
+|-
+|Boost Extension
+|0
+|S
+|Upgrade
+|-
+|-
+|[[Duplex Scanner]]
+|0
+|S
+|Upgrade
+|-
+|-
+|[[Fight Command Software]] MK1
+|0
+|S
+|Upgrade
+|-
+|-
+|[[Fight Command Software]] MK2
+|0
+|S
+|Upgrade
+|-
+|-
+|[[Freight Scanner]]
+|0
+|S
+|Upgrade
+|-
+|-
+|[[Navigation Command Software]]
+|0
+|S
+|Upgrade
+|-
+|-
+|[[Singularity Engine Time Accelerator]]
+|0
+|S
+|Upgrade
+|-
+|-
+|[[Special Command Software]]
+|0
+|S
+|Upgrade
+|-
+
+{{Stationcategory}}

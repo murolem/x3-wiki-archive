@@ -1,3 +1,72 @@
-<!-- source file: index__qbe7ab5ad61f8.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Drone Factory
+|hull=1,000,000
+|shield=9
+|generator=2,000
+|hangar=5
+|cycle=00:17:36
+|productnum=[[Fighter Drone]] (8)
+|stationprice=
+|reqresources=[[Energy Cells]] (264)<br>[[Massom Powder]] (352)<br>[[Silicon Wafers]] (11)
+|optresources=[[Computer Components]]<br>[[Quantum Tubes]]
+}}
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction= |station=Drone Factory |hull=1,000,000 |shield=9 |generator=2,000 |hangar=5 |cycle=00:17:36 |productnum=[[Fighter Drone]] (8) |stationprice= |reqresources=[[Energy Cells]] (264)&lt;br>[[Massom Powder]] (352)&lt;br>[[Silicon Wafers]] (11) |optresources=[[Computer Components]]&lt;br>[[Quantum Tubes]] }} {{Infobox factory |faction=Teladi |station=Drone Factory |hull=1,000,000 |shield=9 |generator=2,000 |hangar=5 |cycle=00:16:00 |productnum=[[Freight Drone]] (1) |stationprice={{Priceblock|Teladi Majority Shareholder|2617732}} |reqresources=[[Energy Cells]] (240)&lt;br>[[Massom Powder]] (320)&lt;br>[[Silicon Wafers]] (10) |optresources=[[Computer Components]]&lt;br>[[Quantum Tubes]] }} {{Infobox close}} ==Overview== The drone factories of the Argon and Split produce [[Fighter Drone|Fighter Drones]], while those of the Teladi produce [[Freight Drone|Freight Drones]]. NPC stations will buy [[Computer Components]] and [[Quantum Tubes]] as secondary resources. ===Encyclopedia Entry=== This drone production facility has the ability to produce the latest in remotely commanded space vehicles for a wide variety of applications. ==Race-specific attributes== {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |+'''Drone Factory''' |-style="background-color:LightBlue;text-align:center;" !Race!!Station Cost |- style="{{Colour/Argon}}" | [[Argon]] || {{Priceblock|Trusted Ally|2898204}} |- style="{{Colour/Split}}" | [[Split]] ||{{Priceblock|Distinguished Associate|3035320}} |- style="{{Colour/Teladi}}" | [[Teladi]] || {{Priceblock|Majority Shareholder|2617732}} |} &lt;br> ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Argon#Shipyards|Argon]]''' *{{sa|Argon Prime}} *{{sa|Argon Sector M148}} *{{sa|Cloudbase Southeast}} *{{sa|Legend's Home}} *{{sa|Omicron Lyrae}} | '''[[Split#Shipyards|Split]]''' *{{sa|Family Rhy}} *{{sa|Patriarch's Conclusion}} *{{sa|Rhonkar's Might}} *{{sa|Zyarth's Dominion}} | '''[[Teladi#Shipyards|Teladi]]''' *{{sa|Grand Exchange}} *{{sa|PTNI Headquarters}} |} {{Stationcategory}}
+{{Infobox factory
+|faction=Teladi
+|station=Drone Factory
+|hull=1,000,000
+|shield=9
+|generator=2,000
+|hangar=5
+|cycle=00:16:00
+|productnum=[[Freight Drone]] (1)
+|stationprice={{Priceblock|Teladi Majority Shareholder|2617732}}
+|reqresources=[[Energy Cells]] (240)<br>[[Massom Powder]] (320)<br>[[Silicon Wafers]] (10)
+|optresources=[[Computer Components]]<br>[[Quantum Tubes]]
+}}
+{{Infobox close}}
+
+==Overview==
+The drone factories of the Argon and Split produce [[Fighter Drone|Fighter Drones]], while those of the Teladi produce [[Freight Drone|Freight Drones]].
+
+NPC stations will buy [[Computer Components]] and [[Quantum Tubes]] as secondary resources.
+
+===Encyclopedia Entry===
+This drone production facility has the ability to produce the latest in remotely commanded space vehicles for a wide variety of applications.
+
+==Race-specific attributes==
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|+'''Drone Factory'''
+|-style="background-color:LightBlue;text-align:center;"
+!Race!!Station Cost
+|- style="{{Colour/Argon}}"
+| [[Argon]] || {{Priceblock|Trusted Ally|2898204}}
+|- style="{{Colour/Split}}"
+| [[Split]] ||{{Priceblock|Distinguished Associate|3035320}}
+|- style="{{Colour/Teladi}}"
+| [[Teladi]] || {{Priceblock|Majority Shareholder|2617732}}
+|}
+<br>
+==Availability==
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Argon#Shipyards|Argon]]'''
+*{{sa|Argon Prime}}
+*{{sa|Argon Sector M148}}
+*{{sa|Cloudbase Southeast}}
+*{{sa|Legend's Home}}
+*{{sa|Omicron Lyrae}}
+| '''[[Split#Shipyards|Split]]'''
+*{{sa|Family Rhy}}
+*{{sa|Patriarch's Conclusion}}
+*{{sa|Rhonkar's Might}}
+*{{sa|Zyarth's Dominion}}
+| '''[[Teladi#Shipyards|Teladi]]'''
+*{{sa|Grand Exchange}}
+*{{sa|PTNI Headquarters}}
+|}
+
+{{Stationcategory}}

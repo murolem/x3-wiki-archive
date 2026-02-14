@@ -1,3 +1,89 @@
-<!-- source file: index__q90870de0cfdf.html -->
+{{Infobox Sector
+|Race=Teladi
+|SecLevel=Core
+|Population=1,712,354,144
+|Planets=2
+|SunLevel=100
+|GateDist=70
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|0|0|35000|[[Eighteen Billion]]}}
+{{Gateblock2|East|35000|0|0|[[Homily of Perpetuity]]}}
+{{Gateblock2|West|-27000|0|0|[[New Income]]}}
+</table>
+}}
+==Description==
+The Teladi have only recently re-discovered this historically important system. Ianamus Zura already has its own thriving economy, mainly due to its position on a busy trade route. It provides a broad range of raw materials to many neighbouring systems and serves as the HQ of both the Profit Guild and Teladi Company in the new territories.
 
-{{Infobox Sector |Race=Teladi |SecLevel=Core |Population=1,712,354,144 |Planets=2 |SunLevel=100 |GateDist=70 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|0|0|35000|[[Eighteen Billion]]}} {{Gateblock2|East|35000|0|0|[[Homily of Perpetuity]]}} {{Gateblock2|West|-27000|0|0|[[New Income]]}} &lt;/table> }} ==Description== The Teladi have only recently re-discovered this historically important system. Ianamus Zura already has its own thriving economy, mainly due to its position on a busy trade route. It provides a broad range of raw materials to many neighbouring systems and serves as the HQ of both the Profit Guild and Teladi Company in the new territories. ==Shipyard Availability== {{Shipyard/Begin|Station|ST Size|Cost}} {{Shipyard/Station|Chip Plant||16000|5,599,036}} {{Shipyard/Station|Impulse Ray Emitter Forge||15000|2,565,792}} {{Shipyard/Station|High Energy Plasma Thrower Forge||18000|6,439,672}} {{Shipyard/Station|Energy Bolt Chaingun Forge||16500|6,396,300}} {{Shipyard/Station|Shield Prod. Facility 1 MJ||11500|1,485,460}} {{Shipyard/Station|Flower Farm|L|16500|899,976}} {{Shipyard/Station|Teladianium Foundry|M|18000|811,548}} {{Shipyard/Station|Dream Farm|M|9000|275,016}} {{Shipyard/Station|Sun Oil Refinery|M|12000|849,984}} {{Shipyard/Station|Bliss Place|L|14250|3,564,320}} {{Shipyard/Station|Solar Power Plant|XL|22000|18,594,200}} {{Shipyard/Station|Ore Mine|L|12000|849,984}} {{Shipyard/Station|Silicon Mine|M|9500|449,988}} {{Shipyard/Station|Complex Construction Kit||4250|259,696}} {{Shipyard/Station|Energy Bolt Chaingun Ammunition Forge||12000|3,538,352}} {{Shipyard/Station|Gauss Cannon Ammunition Forge||12000|4,187,592}} {{Shipyard/End}} {{Shipyard/Begin|Ship|Class|Cost}} {{Shipyard/Ship1|Albatross|TL|27,274,154}} {{Shipyard/Ship2|Vulture|Miner|TS|423,084}} {{Shipyard/Ship1|Toucan|TP|448,657}} {{Shipyard/Ship1|Pelican|TM|470,629}} {{Shipyard/Ship1|Condor|M1|67,952,727}} {{Shipyard/Ship1|Phoenix|M2|69,283,911}} {{Shipyard/Ship2|Falcon|Vanguard|M3|2,511,909}} {{Shipyard/Ship1|Kea|M3+|5,373,157}} {{Shipyard/Ship1|Buzzard|M4|434,306}} {{Shipyard/Ship1|Kite|M4+|921,380}} {{Shipyard/Ship2|Harrier|Hauler|M5|74,206}} {{Shipyard/Ship1|Kestrel|M5|131,115}} {{Shipyard/Ship1|Osprey|M6|15,223,732}} {{Shipyard/Ship1|Shrike|M7|29,944,060}} {{Shipyard/End}} ==Default [[Stations]]== *[[Teladi Shipyard]] *[[Teladi Space Equipment Dock]] *[[Teladi Trading Station]] *[[Crystal Fab]] M alpha *[[Energy Bolt Chaingun Ammunition Forge]] alpha *[[Energy Bolt Chaingun Forge]] alpha *[[Flower Farm]] L beta *[[Flower Farm]] M alpha *[[Heavy Shield Production Complex]] alpha *[[Photon Pulse Cannon Forge]] alpha *[[Quantum Tube Fab]] alpha *[[Teladianium Foundry]] L alpha ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|42|12250|-1708|7011}} {{Asteroid/Item|Ore|39|1413|-11061|-8487}} {{Asteroid/Item|Ore|23|-10828|-1766|-6520}} {{Asteroid/Item|Ore|23|-15902|7824|-14391}} {{Asteroid/Item|Ore|23|-8852|1375|-14391}} {{Asteroid/Item|Ore|21|18017|1300|-1228}} {{Asteroid/Item|Ore|18|-3207|12309|4512}} {{Asteroid/Item|Ore|13|-21438|-12200|-9434}} {{Asteroid/Item|Ore|8|-17647|-5803|-7873}} {{Asteroid/Item|Ore|8|-11318|-11445|-9472}} {{Asteroid/Item|Ore|7|-21889|12368|-12424}} {{Asteroid/Item|Ore|4|10893|9995|-4798}} {{Asteroid/Item|Silicon|18|-15976|-9538|3689}} {{Asteroid/Item|Silicon|10|932|-11988|4453}} {{Asteroid/End}} == See Also == {{Teladi Navbox}}
+
+==Shipyard Availability==
+{{Shipyard/Begin|Station|ST Size|Cost}}
+{{Shipyard/Station|Chip Plant||16000|5,599,036}}
+{{Shipyard/Station|Impulse Ray Emitter Forge||15000|2,565,792}}
+{{Shipyard/Station|High Energy Plasma Thrower Forge||18000|6,439,672}}
+{{Shipyard/Station|Energy Bolt Chaingun Forge||16500|6,396,300}}
+{{Shipyard/Station|Shield Prod. Facility 1 MJ||11500|1,485,460}}
+{{Shipyard/Station|Flower Farm|L|16500|899,976}}
+{{Shipyard/Station|Teladianium Foundry|M|18000|811,548}}
+{{Shipyard/Station|Dream Farm|M|9000|275,016}}
+{{Shipyard/Station|Sun Oil Refinery|M|12000|849,984}}
+{{Shipyard/Station|Bliss Place|L|14250|3,564,320}}
+{{Shipyard/Station|Solar Power Plant|XL|22000|18,594,200}}
+{{Shipyard/Station|Ore Mine|L|12000|849,984}}
+{{Shipyard/Station|Silicon Mine|M|9500|449,988}}
+{{Shipyard/Station|Complex Construction Kit||4250|259,696}}
+{{Shipyard/Station|Energy Bolt Chaingun Ammunition Forge||12000|3,538,352}}
+{{Shipyard/Station|Gauss Cannon Ammunition Forge||12000|4,187,592}}
+{{Shipyard/End}}
+{{Shipyard/Begin|Ship|Class|Cost}}
+{{Shipyard/Ship1|Albatross|TL|27,274,154}}
+{{Shipyard/Ship2|Vulture|Miner|TS|423,084}}
+{{Shipyard/Ship1|Toucan|TP|448,657}}
+{{Shipyard/Ship1|Pelican|TM|470,629}}
+{{Shipyard/Ship1|Condor|M1|67,952,727}}
+{{Shipyard/Ship1|Phoenix|M2|69,283,911}}
+{{Shipyard/Ship2|Falcon|Vanguard|M3|2,511,909}}
+{{Shipyard/Ship1|Kea|M3+|5,373,157}}
+{{Shipyard/Ship1|Buzzard|M4|434,306}}
+{{Shipyard/Ship1|Kite|M4+|921,380}}
+{{Shipyard/Ship2|Harrier|Hauler|M5|74,206}}
+{{Shipyard/Ship1|Kestrel|M5|131,115}}
+{{Shipyard/Ship1|Osprey|M6|15,223,732}}
+{{Shipyard/Ship1|Shrike|M7|29,944,060}}
+{{Shipyard/End}}
+
+==Default [[Stations]]==
+*[[Teladi Shipyard]]
+*[[Teladi Space Equipment Dock]]
+*[[Teladi Trading Station]]
+*[[Crystal Fab]] M alpha
+*[[Energy Bolt Chaingun Ammunition Forge]] alpha
+*[[Energy Bolt Chaingun Forge]] alpha
+*[[Flower Farm]] L beta
+*[[Flower Farm]] M alpha
+*[[Heavy Shield Production Complex]] alpha
+*[[Photon Pulse Cannon Forge]] alpha
+*[[Quantum Tube Fab]] alpha
+*[[Teladianium Foundry]] L alpha
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|42|12250|-1708|7011}}
+{{Asteroid/Item|Ore|39|1413|-11061|-8487}}
+{{Asteroid/Item|Ore|23|-10828|-1766|-6520}}
+{{Asteroid/Item|Ore|23|-15902|7824|-14391}}
+{{Asteroid/Item|Ore|23|-8852|1375|-14391}}
+{{Asteroid/Item|Ore|21|18017|1300|-1228}}
+{{Asteroid/Item|Ore|18|-3207|12309|4512}}
+{{Asteroid/Item|Ore|13|-21438|-12200|-9434}}
+{{Asteroid/Item|Ore|8|-17647|-5803|-7873}}
+{{Asteroid/Item|Ore|8|-11318|-11445|-9472}}
+{{Asteroid/Item|Ore|7|-21889|12368|-12424}}
+{{Asteroid/Item|Ore|4|10893|9995|-4798}}
+{{Asteroid/Item|Silicon|18|-15976|-9538|3689}}
+{{Asteroid/Item|Silicon|10|932|-11988|4453}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Teladi Navbox}}

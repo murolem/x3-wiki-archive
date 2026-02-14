@@ -1,3 +1,49 @@
-<!-- source file: index__q6e771d884df8.html -->
+{{Infobox Sector
+|Race=Teladi
+|SecLevel=Border
+|Population=27,637,444
+|Planets=2
+|SunLevel=100
+|GateDist=100
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|East|32242|	9800|	5512|[[Ianamus Zura]]}}
+{{Gateblock2|South|0|	0|	-49392|[[Ceo's Doubt]]}}
+{{Gateblock2|West|-51817|	0|	0|[[Unknown Sector (8,8)]]}}
+{{Gateblock/End}}
+}}
+==Description==
+The Teladi claimed this system with the sole intention of colonising the two massive planets here. The awful fate of the first scouting parties to the planets' surfaces and the discovery of the hostile nature of the indigenous life forms dwelling there have ended such plans and and the system is slowly decaying into a place of fear, lawlessness and anarchy.
 
-{{Infobox Sector |Race=Teladi |SecLevel=Border |Population=27,637,444 |Planets=2 |SunLevel=100 |GateDist=100 |Gates={{Gateblock/Begin}} {{Gateblock2|East|32242| 9800| 5512|[[Ianamus Zura]]}} {{Gateblock2|South|0| 0| -49392|[[Ceo's Doubt]]}} {{Gateblock2|West|-51817| 0| 0|[[Unknown Sector (8,8)]]}} {{Gateblock/End}} }} ==Description== The Teladi claimed this system with the sole intention of colonising the two massive planets here. The awful fate of the first scouting parties to the planets' surfaces and the discovery of the hostile nature of the indigenous life forms dwelling there have ended such plans and and the system is slowly decaying into a place of fear, lawlessness and anarchy. ==Default [[Stations]]== *[[Teladi Trading Station]] ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|36|12932|11526|-25317}} {{Asteroid/Item|Ore|29|21131|3259|4823}} {{Asteroid/Item|Ore|24|2325|6750|-25144}} {{Asteroid/Item|Ore|22|-2872|10085|2753}} {{Asteroid/Item|Ore|20|-32|-10456|-5546}} {{Asteroid/Item|Ore|20|-7591|-12769|-13903}} {{Asteroid/Item|Ore|20|-29507|4367|-39160}} {{Asteroid/Item|Ore|19|-8853|7585|-25659}} {{Asteroid/Item|Ore|15|-3253|15164|-19040}} {{Asteroid/Item|Ore|14|13167|5544|-6025}} {{Asteroid/Item|Ore|13|-18476|-7701|7058}} {{Asteroid/Item|Ore|11|27650|-11583|2296}} {{Asteroid/Item|Ore|10|-17838|7562|-17908}} {{Asteroid/Item|Ore|10|12001|9607|-36209}} {{Asteroid/Item|Ore|8|-28623|-11108|2411}} {{Asteroid/Item|Ore|4|28065|7783|-1744}} {{Asteroid/Item|Ore|3|9851|-18062|-4823}} {{Asteroid/Item|Ore|2|-9448|-61|12383}} {{Asteroid/Item|Silicon|21|-17404|4351|-43512}} {{Asteroid/Item|Silicon|20|-40660|4287|-51822}} {{Asteroid/Item|Silicon|11|12833|-7915|-1205}} {{Asteroid/Item|Silicon|10|-32219|11675|1033}} {{Asteroid/Item|Silicon|10|-22572|-74|-8096}} {{Asteroid/End}} == See Also == {{Teladi Navbox}}
+==Default [[Stations]]==
+*[[Teladi Trading Station]]
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|36|12932|11526|-25317}}
+{{Asteroid/Item|Ore|29|21131|3259|4823}}
+{{Asteroid/Item|Ore|24|2325|6750|-25144}}
+{{Asteroid/Item|Ore|22|-2872|10085|2753}}
+{{Asteroid/Item|Ore|20|-32|-10456|-5546}}
+{{Asteroid/Item|Ore|20|-7591|-12769|-13903}}
+{{Asteroid/Item|Ore|20|-29507|4367|-39160}}
+{{Asteroid/Item|Ore|19|-8853|7585|-25659}}
+{{Asteroid/Item|Ore|15|-3253|15164|-19040}}
+{{Asteroid/Item|Ore|14|13167|5544|-6025}}
+{{Asteroid/Item|Ore|13|-18476|-7701|7058}}
+{{Asteroid/Item|Ore|11|27650|-11583|2296}}
+{{Asteroid/Item|Ore|10|-17838|7562|-17908}}
+{{Asteroid/Item|Ore|10|12001|9607|-36209}}
+{{Asteroid/Item|Ore|8|-28623|-11108|2411}}
+{{Asteroid/Item|Ore|4|28065|7783|-1744}}
+{{Asteroid/Item|Ore|3|9851|-18062|-4823}}
+{{Asteroid/Item|Ore|2|-9448|-61|12383}}
+{{Asteroid/Item|Silicon|21|-17404|4351|-43512}}
+{{Asteroid/Item|Silicon|20|-40660|4287|-51822}}
+{{Asteroid/Item|Silicon|11|12833|-7915|-1205}}
+{{Asteroid/Item|Silicon|10|-32219|11675|1033}}
+{{Asteroid/Item|Silicon|10|-22572|-74|-8096}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Teladi Navbox}}

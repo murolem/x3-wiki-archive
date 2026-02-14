@@ -1,3 +1,45 @@
-<!-- source file: index__q7b3c17ff3d79.html -->
+{{Infobox Sector
+|Race=Unknown
+|SecLevel=Border
+|Population=Unknown
+|Planets=3
+|SunLevel=100
+|GateDist=40
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|East|19150|	0|	0|[[Unholy Descent]]}}
+{{Gateblock2|South|-13500|	0|	-22400|[[Unknown Sector (7,16)]]}}
+{{Gateblock/End}}
+}}
+==Description==
+===Encyclopedy Entry (Terran Conflict)===
+Sector is not recognisedd in the database
 
-{{Infobox Sector |Race=Unknown |SecLevel=Border |Population=Unknown |Planets=3 |SunLevel=100 |GateDist=40 |Gates={{Gateblock/Begin}} {{Gateblock2|East|19150| 0| 0|[[Unholy Descent]]}} {{Gateblock2|South|-13500| 0| -22400|[[Unknown Sector (7,16)]]}} {{Gateblock/End}} }} ==Description== ===Encyclopedy Entry (Terran Conflict)=== Sector is not recognisedd in the database ===Information=== Known as [[Emperor's Pride]] in Albion Pelude [[Ownerless ships]] in sector. ==Default [[Stations]]== No station known to be settled in this sector. ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|51|10392|14404|-24759}} {{Asteroid/Item|Ore|39|7511|20971|-19100}} {{Asteroid/Item|Ore|32|2661|931|-3095}} {{Asteroid/Item|Ore|29|6686|14908|5640}} {{Asteroid/Item|Ore|28|-2573|-1377|-1624}} {{Asteroid/Item|Ore|26|-1747|10869|-4896}} {{Asteroid/Item|Ore|25|6901|22363|-3794}} {{Asteroid/Item|Ore|22|5992|7126|-8919}} {{Asteroid/Item|Ore|16|14044|13511|-11783}} {{Asteroid/Item|Ore|3|-10750|5750|7750}} {{Asteroid/Item|Ore|3|-10750|5750|7750}} {{Asteroid/Item|Ore|3|1750|5750|750}} {{Asteroid/Item|Silicon|18|2278|15495|-9834}} {{Asteroid/Item|Silicon|17|8267|2450|-12992}} {{Asteroid/Item|Silicon|10|13266|-5464|-17588}} {{Asteroid/Item|Silicon|9|4527|14514|-15676}} {{Asteroid/Item|Silicon|0|14162|5590|-23334}} {{Asteroid/End}}
+===Information===
+Known as [[Emperor's Pride]] in Albion Pelude
+
+[[Ownerless ships]] in sector.
+
+==Default [[Stations]]==
+No station known to be settled in this sector.
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|51|10392|14404|-24759}}
+{{Asteroid/Item|Ore|39|7511|20971|-19100}}
+{{Asteroid/Item|Ore|32|2661|931|-3095}}
+{{Asteroid/Item|Ore|29|6686|14908|5640}}
+{{Asteroid/Item|Ore|28|-2573|-1377|-1624}}
+{{Asteroid/Item|Ore|26|-1747|10869|-4896}}
+{{Asteroid/Item|Ore|25|6901|22363|-3794}}
+{{Asteroid/Item|Ore|22|5992|7126|-8919}}
+{{Asteroid/Item|Ore|16|14044|13511|-11783}}
+{{Asteroid/Item|Ore|3|-10750|5750|7750}}
+{{Asteroid/Item|Ore|3|-10750|5750|7750}}
+{{Asteroid/Item|Ore|3|1750|5750|750}}
+{{Asteroid/Item|Silicon|18|2278|15495|-9834}}
+{{Asteroid/Item|Silicon|17|8267|2450|-12992}}
+{{Asteroid/Item|Silicon|10|13266|-5464|-17588}}
+{{Asteroid/Item|Silicon|9|4527|14514|-15676}}
+{{Asteroid/Item|Silicon|0|14162|5590|-23334}}
+{{Asteroid/End}}

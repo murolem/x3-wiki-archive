@@ -1,3 +1,63 @@
-<!-- source file: index__qe0c3738e602d.html -->
+{{Infobox open}}
+{{Infobox factory
+|faction=Boron
+|station=BoFu Chemical Lab L
+|hull=2000000
+|shield=15
+|generator=1500
+|hangar=5
+|cycle=00:01:12
+|productnum=[[BoFu]] (15)
+|stationprice={{Priceblock|Boron Noble Peer|2024976}}
+|reqresources=[[BoGas]] (5)<br>[[Energy Cells]] (90)
+|optresources=[[Plankton]]<bR>[[Soja Husk]]
+}}
+{{Infobox factory
+|faction=Boron
+|station=BoFu Chemical Lab M
+|hull=800000
+|shield=10
+|generator=1500
+|hangar=5
+|cycle=00:01:12
+|productnum=[[BoFu]] (6)
+|stationprice={{Priceblock|Boron Noble Peer|809992}}
+|reqresources=[[BoGas]] (2)<br>[[Energy Cells]] (36)
+|optresources=[[Plankton]]<bR>[[Soja Husk]]
+}}
+{{Infobox close}}
+==Overview==
+The BoFu Chemical Lab manufactures [[Boron]] [[BoFu]], an 
+important raw material for the Boron economy, from [[Energy Cells]] and [[BoGas]].
 
-{{Infobox open}} {{Infobox factory |faction=Boron |station=BoFu Chemical Lab L |hull=2000000 |shield=15 |generator=1500 |hangar=5 |cycle=00:01:12 |productnum=[[BoFu]] (15) |stationprice={{Priceblock|Boron Noble Peer|2024976}} |reqresources=[[BoGas]] (5)&lt;br>[[Energy Cells]] (90) |optresources=[[Plankton]]&lt;bR>[[Soja Husk]] }} {{Infobox factory |faction=Boron |station=BoFu Chemical Lab M |hull=800000 |shield=10 |generator=1500 |hangar=5 |cycle=00:01:12 |productnum=[[BoFu]] (6) |stationprice={{Priceblock|Boron Noble Peer|809992}} |reqresources=[[BoGas]] (2)&lt;br>[[Energy Cells]] (36) |optresources=[[Plankton]]&lt;bR>[[Soja Husk]] }} {{Infobox close}} ==Overview== The BoFu Chemical Lab manufactures [[Boron]] [[BoFu]], an important raw material for the Boron economy, from [[Energy Cells]] and [[BoGas]]. NPC factories take [[Plankton]] and [[Soja Husk]] as secondary resources. ===Encyclopedia Entry=== A BoFu Chemical Lab manufactures BoFu meals. The BoFu is then transported to the various Boron Space stations and other Boron factories where it is the main food product. BoFu is produced from BoGas, Plankton, and other secret ingredients. Even though the Boron are famous for their delicious Stott spices among other races, the taste of BoFu is no joy to anybody but them. ==Availability== This factory is unique to the Boron. {| |- valign="top" | style="padding-right:5em;" | ===L-type=== {| style="text-align:left;" |- valign="top" *{{sa|Kingdom End}} *{{sa|Great Reef}} *{{sa|Queen's Retribution}} |} | ===M-type=== {| style="text-align:left;" |- valign="top" *{{sa|Ocean of Fantasy}} *{{sa|Lucky Planets}} *{{sa|Depths of Silence}} *{{sa|Queen's Retribution}} |} |} {{Stationcategory}}
+NPC factories take [[Plankton]] and [[Soja Husk]] as secondary resources.
+===Encyclopedia Entry===
+A BoFu Chemical Lab manufactures BoFu meals. The BoFu is then transported to the various Boron Space stations and other Boron factories where it is the main food product. 
+
+BoFu is produced from BoGas, Plankton, and other secret ingredients. Even though the Boron are famous for their delicious Stott spices among other races, the taste of BoFu is no joy to anybody but them.
+
+==Availability==
+This factory is unique to the Boron.
+{|
+|- valign="top"
+| style="padding-right:5em;" |
+===L-type===
+{| style="text-align:left;"
+|- valign="top"
+*{{sa|Kingdom End}} 
+*{{sa|Great Reef}}
+*{{sa|Queen's Retribution}}
+|}
+
+|
+===M-type===
+{| style="text-align:left;"
+|- valign="top"
+*{{sa|Ocean of Fantasy}}  
+*{{sa|Lucky Planets}} 
+*{{sa|Depths of Silence}}
+*{{sa|Queen's Retribution}} 
+|}
+|}
+
+{{Stationcategory}}

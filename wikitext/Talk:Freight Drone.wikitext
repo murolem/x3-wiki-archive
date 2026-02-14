@@ -1,3 +1,2 @@
-<!-- source file: index__q60a363484111.html -->
-
-==Operating from M2s and other non-hangar ships== Of note is that the Freight Drone, and indeed drones in general, can be operated from ships without hangar bays. The difference is that the non-hangar ship has to run over the drone (as though it was collecting a ware) in order to retrieve it. This does give some more choices in supporting M2's and M7's, as you do not HAVE to use a transporter-equipped freighter to supply them. --[[Special:Contributions/96.51.193.40|96.51.193.40]] 20:53, 24 November 2011 (CST)
+==Operating from M2s and other non-hangar ships==
+Of note is that the Freight Drone, and indeed drones in general, can be operated from ships without hangar bays.  The difference is that the non-hangar ship has to run over the drone (as though it was collecting a ware) in order to retrieve it.  This does give some more choices in supporting M2's and M7's, as you do not HAVE to use a transporter-equipped freighter to supply them. --[[Special:Contributions/96.51.193.40|96.51.193.40]] 20:53, 24 November 2011 (CST)

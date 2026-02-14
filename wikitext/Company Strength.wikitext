@@ -1,3 +1,42 @@
-<!-- source file: index__q60d82fd280d8.html -->
+{{Infobox Sector
+|Race=Teladi
+|SecLevel=Border
+|Population=66,196,119
+|Planets=2
+|SunLevel=150
+|GateDist=80
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|	0|	34000|[[Bright Profit]]}}
+{{Gateblock2|West|-34000|	0|	0|[[Sanctity of Corruption]]}}
+{{Gateblock/End}}
+}}
+==Description==
+Forging ahead with the combined strength of a mining and military operation, the Teladi have strengthened their foothold in the new colonies with this sector. Their plans however do not rest within these gates alone.
 
-{{Infobox Sector |Race=Teladi |SecLevel=Border |Population=66,196,119 |Planets=2 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0| 0| 34000|[[Bright Profit]]}} {{Gateblock2|West|-34000| 0| 0|[[Sanctity of Corruption]]}} {{Gateblock/End}} }} ==Description== Forging ahead with the combined strength of a mining and military operation, the Teladi have strengthened their foothold in the new colonies with this sector. Their plans however do not rest within these gates alone. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|21|-8444|-14167|-16793}} {{Asteroid/Item|Ore|18|-27821|-4088|19478}} {{Asteroid/Item|Ore|13|1273|-12852|34589}} {{Asteroid/Item|Ore|13|-4978|-6156|21957}} {{Asteroid/Item|Ore|13|2650|-15494|21155}} {{Asteroid/Item|Ore|5|-9500|-16607|-3691}} {{Asteroid/Item|Ore|5|-11468|19574|-27862}} {{Asteroid/Item|Ore|3|2547|-137|2174}} {{Asteroid/Item|Silicon|33|11652|-10881|6325}} {{Asteroid/Item|Silicon|26|-17786|10094|5719}} {{Asteroid/Item|Silicon|17|19237|-433|21}} {{Asteroid/Item|Silicon|15|22114|3603|20178}} {{Asteroid/Item|Silicon|15|5554|11007|5483}} {{Asteroid/Item|Silicon|15|5554|11007|5483}} {{Asteroid/Item|Silicon|11|-445|-7590|12232}} {{Asteroid/Item|Silicon|10|5626|-7723|6555}} {{Asteroid/Item|Silicon|6|-26079|-11327|12466}} {{Asteroid/Item|Silicon|6|-21543|-22980|-36306}} {{Asteroid/End}} == See Also == {{Teladi Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|21|-8444|-14167|-16793}}
+{{Asteroid/Item|Ore|18|-27821|-4088|19478}}
+{{Asteroid/Item|Ore|13|1273|-12852|34589}}
+{{Asteroid/Item|Ore|13|-4978|-6156|21957}}
+{{Asteroid/Item|Ore|13|2650|-15494|21155}}
+{{Asteroid/Item|Ore|5|-9500|-16607|-3691}}
+{{Asteroid/Item|Ore|5|-11468|19574|-27862}}
+{{Asteroid/Item|Ore|3|2547|-137|2174}}
+{{Asteroid/Item|Silicon|33|11652|-10881|6325}}
+{{Asteroid/Item|Silicon|26|-17786|10094|5719}}
+{{Asteroid/Item|Silicon|17|19237|-433|21}}
+{{Asteroid/Item|Silicon|15|22114|3603|20178}}
+{{Asteroid/Item|Silicon|15|5554|11007|5483}}
+{{Asteroid/Item|Silicon|15|5554|11007|5483}}
+{{Asteroid/Item|Silicon|11|-445|-7590|12232}}
+{{Asteroid/Item|Silicon|10|5626|-7723|6555}}
+{{Asteroid/Item|Silicon|6|-26079|-11327|12466}}
+{{Asteroid/Item|Silicon|6|-21543|-22980|-36306}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Teladi Navbox}}

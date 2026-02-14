@@ -1,3 +1,36 @@
-<!-- source file: index__qfd8a5ac886e9.html -->
+{{Infobox Sector
+|Race=Argon
+|SecLevel=Border
+|Population=52,711,109
+|Planets=1
+|SunLevel=150
+|GateDist=65
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|	0|	32160|[[Xenon Sector 472]]}}
+{{Gateblock2|South|0|	0|	-30157|[[Nathan's Voyage]]}}
+{{Gateblock2|West|-31760|	0|	0|[[Treasure Chest]]}}
+{{Gateblock/End}}
+}}
+==Description==
+The furthest Federation outpost from [[Argon Prime]], this dangerous system is both a deep-space resupply point and military tracking station. [[Xenon]] activity in this system is carefully monitored by a covert Federation branch who are rumoured to have an inaccessible base hidden near the storm-battered planet 'Hades'.
 
-{{Infobox Sector |Race=Argon |SecLevel=Border |Population=52,711,109 |Planets=1 |SunLevel=150 |GateDist=65 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0| 0| 32160|[[Xenon Sector 472]]}} {{Gateblock2|South|0| 0| -30157|[[Nathan's Voyage]]}} {{Gateblock2|West|-31760| 0| 0|[[Treasure Chest]]}} {{Gateblock/End}} }} ==Description== The furthest Federation outpost from [[Argon Prime]], this dangerous system is both a deep-space resupply point and military tracking station. [[Xenon]] activity in this system is carefully monitored by a covert Federation branch who are rumoured to have an inaccessible base hidden near the storm-battered planet 'Hades'. ==Default [[Stations]]== *Argon [[Equipment Dock]] *[[Military Outpost]] ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|32|37188|0|-24222}} {{Asteroid/Item|Ore|12|34008|0|-28812}} {{Asteroid/Item|Ore|11|11155|4035|-4357}} {{Asteroid/Item|Ore|5|18139|-680|-5905}} {{Asteroid/Item|Ore|5|12409|-959|-7786}} {{Asteroid/Item|Silicon|25|3748|3726|-4147}} {{Asteroid/Item|Silicon|20|10809|-2046|-12483}} {{Asteroid/Item|Silicon|18|2457|-3195|-5592}} {{Asteroid/Item|Silicon|18|28968|0|-31524}} {{Asteroid/End}} {{Argon Navbox}}
+==Default [[Stations]]==
+*Argon [[Equipment Dock]]
+*[[Military Outpost]]
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|32|37188|0|-24222}}
+{{Asteroid/Item|Ore|12|34008|0|-28812}}
+{{Asteroid/Item|Ore|11|11155|4035|-4357}}
+{{Asteroid/Item|Ore|5|18139|-680|-5905}}
+{{Asteroid/Item|Ore|5|12409|-959|-7786}}
+{{Asteroid/Item|Silicon|25|3748|3726|-4147}}
+{{Asteroid/Item|Silicon|20|10809|-2046|-12483}}
+{{Asteroid/Item|Silicon|18|2457|-3195|-5592}}
+{{Asteroid/Item|Silicon|18|28968|0|-31524}}
+{{Asteroid/End}}
+
+
+{{Argon Navbox}}

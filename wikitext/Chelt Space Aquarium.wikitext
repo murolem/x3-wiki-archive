@@ -1,3 +1,70 @@
-<!-- source file: index__qc6696338cc29.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Split
+|station=Chelt Space Aquarium L
+|hull=2250000
+|shield=15
+|generator=1500
+|hangar=5
+|cycle=00:01:00
+|productnum=[[Chelt's Meat]] (15)
+|stationprice={{Priceblock|Split Confirmed friend|592496}}
+|reqresources=[[Energy Cells]] (75)<br>
+|optresources=[[Spaceflies]]<br>[[Teladianium]]
+}}
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Split |station=Chelt Space Aquarium L |hull=2250000 |shield=15 |generator=1500 |hangar=5 |cycle=00:01:00 |productnum=[[Chelt's Meat]] (15) |stationprice={{Priceblock|Split Confirmed friend|592496}} |reqresources=[[Energy Cells]] (75)&lt;br> |optresources=[[Spaceflies]]&lt;br>[[Teladianium]] }} {{Infobox factory |faction=Split |station=Chelt Space Aquarium M |hull=900000 |shield=10 |generator=1500 |hangar=5 |cycle=00:01:00 |productnum=[[Chelt's Meat]] (6) |stationprice={{Priceblock|Split Confirmed friend|236972}} |reqresources=[[Energy Cells]] (30)&lt;br> |optresources=[[Spaceflies]]&lt;br>[[Teladianium]] }} {{Infobox close}} ==Overview== The Chelt Space Aquarium is a nursery for Chelt creatures from the Split home planet. Their [[Chelt's Meat|meat]] is useful in many ways. Aquariums require a constant stream of [[Energy Cells]] to function. NPC versions also take [[Teladianium]] and [[Spaceflies]] as secondary resources. ===Encyclopedia Entry=== The Chelt Aquariums that are found inside Split sectors are vast salt water tanks kept inside geodesic domes where the Split farm the creature known as Chelts. These creatures are nourished and then culled to provide the Split with meat. The skin of the Chelt is used to make a tough leather, whilst the fatty tissue, after exportation to a Rastar refinery, is rendered down to manufacture the fine oil known as Rastar. Each Aquarium requires Energy and as the Split use the Markus Space fly to drive the engines required to control the giant salt-water tanks, they require a constant supply of these poor creatures and Nostrop their food. They also require Teladianium for construction and building, and Soja husk, which is used to feed the young Chelts. ==Availability== This factory is unique to the Split. {| style="text-align:left;" |- valign="top" | style="padding-right:5em;" | ===L-type=== {| | '''[[Split#Shipyards|Split]]''' *{{sa|Family Pride}} *{{sa|Family Rhy}} *{{sa|Family Tkr}} *{{sa|Patriarch's Conclusion}} *{{sa|Rhonkar's Might}} *{{sa|Rhonkar's Trial}} *{{sa|Zyarth's Dominion}} *{{sa|Zyarth's Stand}} |} | ===M-type=== {| | '''[[Split#Shipyards|Split]]''' *{{sa|Cho's Defeat}} *{{sa|Family Njy}} *{{sa|Patriarch's Conclusion}} *{{sa|Rhonkar's Trial}} *{{sa|Zyarth's Dominion}} *{{sa|Zyarth's Stand}} |} |} {{Stationcategory}}
+{{Infobox factory
+|faction=Split
+|station=Chelt Space Aquarium M
+|hull=900000
+|shield=10
+|generator=1500
+|hangar=5
+|cycle=00:01:00
+|productnum=[[Chelt's Meat]] (6)
+|stationprice={{Priceblock|Split Confirmed friend|236972}}
+|reqresources=[[Energy Cells]] (30)<br>
+|optresources=[[Spaceflies]]<br>[[Teladianium]]
+}}
+{{Infobox close}}
+==Overview==
+The Chelt Space Aquarium is a nursery for Chelt creatures from the Split home planet. Their [[Chelt's Meat|meat]] is useful in many ways. Aquariums require a constant stream of [[Energy Cells]] to function.
+
+NPC versions also take [[Teladianium]] and [[Spaceflies]] as secondary resources.
+
+===Encyclopedia Entry===
+The Chelt Aquariums that are found inside Split sectors are vast salt water tanks kept inside geodesic domes where the Split farm the creature known as Chelts. These creatures are nourished and then culled to provide the Split with meat.
+
+The skin of the Chelt is used to make a tough leather, whilst the fatty tissue, after exportation to a Rastar refinery, is rendered down to manufacture the fine oil known as Rastar. Each Aquarium requires Energy and as the Split use the Markus Space fly to drive the engines required to control the giant salt-water tanks, they require a constant supply of these poor creatures and Nostrop their food. They also require Teladianium for construction and building, and Soja husk, which is used to feed the young Chelts. 
+==Availability==
+This factory is unique to the Split.
+{| style="text-align:left;"
+|- valign="top"
+| style="padding-right:5em;" |
+===L-type===
+{|
+| '''[[Split#Shipyards|Split]]'''
+*{{sa|Family Pride}}
+*{{sa|Family Rhy}}
+*{{sa|Family Tkr}}
+*{{sa|Patriarch's Conclusion}}
+*{{sa|Rhonkar's Might}}
+*{{sa|Rhonkar's Trial}}
+*{{sa|Zyarth's Dominion}}
+*{{sa|Zyarth's Stand}}
+|}
+|
+===M-type===
+{|
+| '''[[Split#Shipyards|Split]]'''
+*{{sa|Cho's Defeat}}
+*{{sa|Family Njy}}
+*{{sa|Patriarch's Conclusion}}
+*{{sa|Rhonkar's Trial}}
+*{{sa|Zyarth's Dominion}}
+*{{sa|Zyarth's Stand}}
+|}
+|}
+
+{{Stationcategory}}

@@ -1,3 +1,120 @@
-<!-- source file: index__qbc7597354286.html -->
+{{Infobox Sector
+|Race=Argon
+|SecLevel=Border
+|Population=59,700,176
+|Planets=2
+|SunLevel=150
+|GateDist=60
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|0|	0|	30240|[[Home of Light]]}}
+{{Gateblock2|East|24240|	0|	-3000|[[Cloudbase South East]]}}
+{{Gateblock2|West|-29865|	0|	-2,250|[[Cloudbase South West]]}}
+</table>
+}}
+==Description==
+===Encyclopedia Entry===
+This mining outpost is surrounded by a field of mineral bearing asteroids with a particularly dense asteroid field to the north. Pirate activity is light and generally non-aggressive, mostly transports headed for the north gate. This is fortunate as high-speed combat in this system is made difficult by the asteroids which also play havoc with missile targeting scanners.
+===Information===
+In Albion Prelude, Plutarch has moved their headquarters to operations to the Albion systems, along with, apparently, most of the asteroids in this sector.
+==Default [[Stations]]==
+*[[Plutarch Mining Corporation HQ]]
+==[[Asteroids]]==
 
-{{Infobox Sector |Race=Argon |SecLevel=Border |Population=59,700,176 |Planets=2 |SunLevel=150 |GateDist=60 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|0| 0| 30240|[[Home of Light]]}} {{Gateblock2|East|24240| 0| -3000|[[Cloudbase South East]]}} {{Gateblock2|West|-29865| 0| -2,250|[[Cloudbase South West]]}} &lt;/table> }} ==Description== ===Encyclopedia Entry=== This mining outpost is surrounded by a field of mineral bearing asteroids with a particularly dense asteroid field to the north. Pirate activity is light and generally non-aggressive, mostly transports headed for the north gate. This is fortunate as high-speed combat in this system is made difficult by the asteroids which also play havoc with missile targeting scanners. ===Information=== In Albion Prelude, Plutarch has moved their headquarters to operations to the Albion systems, along with, apparently, most of the asteroids in this sector. ==Default [[Stations]]== *[[Plutarch Mining Corporation HQ]] ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|51|-11042|-6088|-14762}} {{Asteroid/Item|Ore|25|-12600|-3921|67369}} {{Asteroid/Item|Ore|25|1557|-5148|64000}} {{Asteroid/Item|Ore|25|-12804|2648|61470}} {{Asteroid/Item|Ore|25|-7179|-6186|59678}} {{Asteroid/Item|Ore|25|15676|3312|55989}} {{Asteroid/Item|Ore|25|8807|1249|53240}} {{Asteroid/Item|Ore|25|-6637|7794|52930}} {{Asteroid/Item|Ore|25|-14796|7214|50604}} {{Asteroid/Item|Ore|25|1249|1104|44852}} {{Asteroid/Item|Ore|25|-11110|5864|43968}} {{Asteroid/Item|Ore|25|-17637|-9644|30990}} {{Asteroid/Item|Ore|25|10666|693|12210}} {{Asteroid/Item|Ore|23|6337|-10794|-7942}} {{Asteroid/Item|Ore|21|15095|-5181|51457}} {{Asteroid/Item|Ore|21|6231|-4926|50188}} {{Asteroid/Item|Ore|21|7723|-5072|32054}} {{Asteroid/Item|Ore|21|-4000|-8807|-9805}} {{Asteroid/Item|Ore|18|5216|-4127|57667}} {{Asteroid/Item|Ore|18|7772|-9738|54925}} {{Asteroid/Item|Ore|18|-3049|-5599|52509}} {{Asteroid/Item|Ore|18|-4742|-1499|48074}} {{Asteroid/Item|Ore|18|9973|1128|42867}} {{Asteroid/Item|Ore|18|4402|1509|37212}} {{Asteroid/Item|Ore|18|-8535|5569|28995}} {{Asteroid/Item|Ore|18|3527|-8375|28362}} {{Asteroid/Item|Ore|18|-25290|-9593|21009}} {{Asteroid/Item|Ore|18|13675|430|13006}} {{Asteroid/Item|Ore|18|20997|3105|4650}} {{Asteroid/Item|Ore|13|-19172|-6573|40692}} {{Asteroid/Item|Ore|13|-9091|-2537|38977}} {{Asteroid/Item|Ore|13|-19441|554|32785}} {{Asteroid/Item|Ore|13|-4423|-3580|31460}} {{Asteroid/Item|Ore|13|-26584|7175|25404}} {{Asteroid/Item|Ore|13|-1489|4125|21719}} {{Asteroid/Item|Ore|13|-3531|-1013|15323}} {{Asteroid/Item|Ore|13|-11042|4195|14971}} {{Asteroid/Item|Ore|13|1011|6480|13600}} {{Asteroid/Item|Ore|13|-17248|596|-5730}} {{Asteroid/Item|Ore|13|-24454|-1753|-6116}} {{Asteroid/Item|Ore|9|-829|-3214|7650}} {{Asteroid/Item|Ore|9|295|-3214|4275}} {{Asteroid/Item|Ore|8|-15242|11783|43153}} {{Asteroid/Item|Ore|8|-13887|-9899|39435}} {{Asteroid/Item|Ore|8|-5690|3001|35103}} {{Asteroid/Item|Ore|8|3711|8332|23913}} {{Asteroid/Item|Ore|8|-22230|-37|19562}} {{Asteroid/Item|Ore|8|-9413|-4486|19063}} {{Asteroid/Item|Ore|8|-18513|6026|13600}} {{Asteroid/Item|Ore|8|-15986|-5873|9172}} {{Asteroid/Item|Ore|8|-10020|-8064|4218}} {{Asteroid/Item|Ore|8|-18900|-2504|-14550}} {{Asteroid/Item|Ore|8|2167|4311|-21825}} {{Asteroid/Item|Ore|5|-16024|3916|70149}} {{Asteroid/Item|Ore|5|-14429|1144|54505}} {{Asteroid/Item|Ore|5|-20410|2124|49168}} {{Asteroid/Item|Ore|5|-16596|-5234|47547}} {{Asteroid/Item|Ore|5|-16191|-4982|35526}} {{Asteroid/Item|Ore|5|6300|-5465|21193}} {{Asteroid/Item|Ore|5|2272|-6545|-12335}} {{Asteroid/Item|Ore|5|-12769|-1958|-20292}} {{Asteroid/Item|Silicon|64|-29838|952|24662}} {{Asteroid/Item|Silicon|64|-8058|2930|-12187}} {{Asteroid/Item|Silicon|56|14105|-6015|36744}} {{Asteroid/Item|Silicon|26|11027|-10855|30802}} {{Asteroid/Item|Silicon|26|-26085|2736|30484}} {{Asteroid/Item|Silicon|26|-17206|5596|26782}} {{Asteroid/Item|Silicon|26|-24252|-2532|25200}} {{Asteroid/Item|Silicon|26|-18644|11481|22564}} {{Asteroid/Item|Silicon|26|-11050|9746|20981}} {{Asteroid/Item|Silicon|26|1625|11616|17818}} {{Asteroid/Item|Silicon|26|-24726|5624|16871}} {{Asteroid/Item|Silicon|26|-19505|-6254|16133}} {{Asteroid/Item|Silicon|26|-9300|-1733|12898}} {{Asteroid/Item|Silicon|26|-22619|2794|3979}} {{Asteroid/Item|Silicon|26|-30290|4918|1416}} {{Asteroid/Item|Silicon|25|-24818|-10104|40144}} {{Asteroid/Item|Silicon|21|-25480|-5312|-14868}} {{Asteroid/Item|Silicon|18|-25960|-1810|35217}} {{Asteroid/Item|Silicon|13|-13945|-14122|10424}} {{Asteroid/Item|Silicon|8|947|-6095|40481}} {{Asteroid/Item|Silicon|6|-4064|4183|62939}} {{Asteroid/Item|Silicon|6|-2575|-9908|57246}} {{Asteroid/Item|Silicon|6|10277|7647|50815}} {{Asteroid/Item|Silicon|6|-10510|-5934|44869}} {{Asteroid/Item|Silicon|6|7576|8222|38971}} {{Asteroid/Item|Silicon|6|19007|-3756|9806}} {{Asteroid/Item|Silicon|6|7587|-4536|-15500}} {{Asteroid/Item|Silicon|6|-7857|2875|-19610}} {{Asteroid/Item|Silicon|5|7179|3999|14338}} {{Asteroid/End}} {{Argoncategory}} {{Argon Navbox}}
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|51|-11042|-6088|-14762}}
+{{Asteroid/Item|Ore|25|-12600|-3921|67369}}
+{{Asteroid/Item|Ore|25|1557|-5148|64000}}
+{{Asteroid/Item|Ore|25|-12804|2648|61470}}
+{{Asteroid/Item|Ore|25|-7179|-6186|59678}}
+{{Asteroid/Item|Ore|25|15676|3312|55989}}
+{{Asteroid/Item|Ore|25|8807|1249|53240}}
+{{Asteroid/Item|Ore|25|-6637|7794|52930}}
+{{Asteroid/Item|Ore|25|-14796|7214|50604}}
+{{Asteroid/Item|Ore|25|1249|1104|44852}}
+{{Asteroid/Item|Ore|25|-11110|5864|43968}}
+{{Asteroid/Item|Ore|25|-17637|-9644|30990}}
+{{Asteroid/Item|Ore|25|10666|693|12210}}
+{{Asteroid/Item|Ore|23|6337|-10794|-7942}}
+{{Asteroid/Item|Ore|21|15095|-5181|51457}}
+{{Asteroid/Item|Ore|21|6231|-4926|50188}}
+{{Asteroid/Item|Ore|21|7723|-5072|32054}}
+{{Asteroid/Item|Ore|21|-4000|-8807|-9805}}
+{{Asteroid/Item|Ore|18|5216|-4127|57667}}
+{{Asteroid/Item|Ore|18|7772|-9738|54925}}
+{{Asteroid/Item|Ore|18|-3049|-5599|52509}}
+{{Asteroid/Item|Ore|18|-4742|-1499|48074}}
+{{Asteroid/Item|Ore|18|9973|1128|42867}}
+{{Asteroid/Item|Ore|18|4402|1509|37212}}
+{{Asteroid/Item|Ore|18|-8535|5569|28995}}
+{{Asteroid/Item|Ore|18|3527|-8375|28362}}
+{{Asteroid/Item|Ore|18|-25290|-9593|21009}}
+{{Asteroid/Item|Ore|18|13675|430|13006}}
+{{Asteroid/Item|Ore|18|20997|3105|4650}}
+{{Asteroid/Item|Ore|13|-19172|-6573|40692}}
+{{Asteroid/Item|Ore|13|-9091|-2537|38977}}
+{{Asteroid/Item|Ore|13|-19441|554|32785}}
+{{Asteroid/Item|Ore|13|-4423|-3580|31460}}
+{{Asteroid/Item|Ore|13|-26584|7175|25404}}
+{{Asteroid/Item|Ore|13|-1489|4125|21719}}
+{{Asteroid/Item|Ore|13|-3531|-1013|15323}}
+{{Asteroid/Item|Ore|13|-11042|4195|14971}}
+{{Asteroid/Item|Ore|13|1011|6480|13600}}
+{{Asteroid/Item|Ore|13|-17248|596|-5730}}
+{{Asteroid/Item|Ore|13|-24454|-1753|-6116}}
+{{Asteroid/Item|Ore|9|-829|-3214|7650}}
+{{Asteroid/Item|Ore|9|295|-3214|4275}}
+{{Asteroid/Item|Ore|8|-15242|11783|43153}}
+{{Asteroid/Item|Ore|8|-13887|-9899|39435}}
+{{Asteroid/Item|Ore|8|-5690|3001|35103}}
+{{Asteroid/Item|Ore|8|3711|8332|23913}}
+{{Asteroid/Item|Ore|8|-22230|-37|19562}}
+{{Asteroid/Item|Ore|8|-9413|-4486|19063}}
+{{Asteroid/Item|Ore|8|-18513|6026|13600}}
+{{Asteroid/Item|Ore|8|-15986|-5873|9172}}
+{{Asteroid/Item|Ore|8|-10020|-8064|4218}}
+{{Asteroid/Item|Ore|8|-18900|-2504|-14550}}
+{{Asteroid/Item|Ore|8|2167|4311|-21825}}
+{{Asteroid/Item|Ore|5|-16024|3916|70149}}
+{{Asteroid/Item|Ore|5|-14429|1144|54505}}
+{{Asteroid/Item|Ore|5|-20410|2124|49168}}
+{{Asteroid/Item|Ore|5|-16596|-5234|47547}}
+{{Asteroid/Item|Ore|5|-16191|-4982|35526}}
+{{Asteroid/Item|Ore|5|6300|-5465|21193}}
+{{Asteroid/Item|Ore|5|2272|-6545|-12335}}
+{{Asteroid/Item|Ore|5|-12769|-1958|-20292}}
+{{Asteroid/Item|Silicon|64|-29838|952|24662}}
+{{Asteroid/Item|Silicon|64|-8058|2930|-12187}}
+{{Asteroid/Item|Silicon|56|14105|-6015|36744}}
+{{Asteroid/Item|Silicon|26|11027|-10855|30802}}
+{{Asteroid/Item|Silicon|26|-26085|2736|30484}}
+{{Asteroid/Item|Silicon|26|-17206|5596|26782}}
+{{Asteroid/Item|Silicon|26|-24252|-2532|25200}}
+{{Asteroid/Item|Silicon|26|-18644|11481|22564}}
+{{Asteroid/Item|Silicon|26|-11050|9746|20981}}
+{{Asteroid/Item|Silicon|26|1625|11616|17818}}
+{{Asteroid/Item|Silicon|26|-24726|5624|16871}}
+{{Asteroid/Item|Silicon|26|-19505|-6254|16133}}
+{{Asteroid/Item|Silicon|26|-9300|-1733|12898}}
+{{Asteroid/Item|Silicon|26|-22619|2794|3979}}
+{{Asteroid/Item|Silicon|26|-30290|4918|1416}}
+{{Asteroid/Item|Silicon|25|-24818|-10104|40144}}
+{{Asteroid/Item|Silicon|21|-25480|-5312|-14868}}
+{{Asteroid/Item|Silicon|18|-25960|-1810|35217}}
+{{Asteroid/Item|Silicon|13|-13945|-14122|10424}}
+{{Asteroid/Item|Silicon|8|947|-6095|40481}}
+{{Asteroid/Item|Silicon|6|-4064|4183|62939}}
+{{Asteroid/Item|Silicon|6|-2575|-9908|57246}}
+{{Asteroid/Item|Silicon|6|10277|7647|50815}}
+{{Asteroid/Item|Silicon|6|-10510|-5934|44869}}
+{{Asteroid/Item|Silicon|6|7576|8222|38971}}
+{{Asteroid/Item|Silicon|6|19007|-3756|9806}}
+{{Asteroid/Item|Silicon|6|7587|-4536|-15500}}
+{{Asteroid/Item|Silicon|6|-7857|2875|-19610}}
+{{Asteroid/Item|Silicon|5|7179|3999|14338}}
+{{Asteroid/End}}
+
+
+
+{{Argoncategory}}
+{{Argon Navbox}}

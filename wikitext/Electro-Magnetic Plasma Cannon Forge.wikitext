@@ -1,3 +1,30 @@
-<!-- source file: index__q198ea5a2f733.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Terran
+|station=Electro-Magnetic Plasma Cannon Forge
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=01:39:36
+|productnum=[[Electro-Magnetic Plasma Cannon]] (1)
+|stationprice={{priceblock|Terran Servant of Terra|8563460}}
+|reqresources=[[Energy Cells]] (1494) <br>[[Terran MRE]] (249) <br>[[Ore]] (249)
+|optresources=[[Hull Plating]]<br>[[Water]]
+}}
+{{Infobox close}}
+==Overview==
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Terran |station=Electro-Magnetic Plasma Cannon Forge |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=01:39:36 |productnum=[[Electro-Magnetic Plasma Cannon]] (1) |stationprice={{priceblock|Terran Servant of Terra|8563460}} |reqresources=[[Energy Cells]] (1494) &lt;br>[[Terran MRE]] (249) &lt;br>[[Ore]] (249) |optresources=[[Hull Plating]]&lt;br>[[Water]] }} {{Infobox close}} ==Overview== Electro-Magnetic Plasma Cannon Forge are Terran factories that produce the [[Electro-Magnetic Plasma Cannon]] from [[Energy Cells]], [[Terran MRE]] and [[Ore]]. NPC stations will buy [[Hull Plating]] and [[Water]] as secondary resources. ===Encyclopedia Entry=== This production facility manufactures the [[Electro-Magnetic Plasma Cannon]]. ==Availability== This factory is sold exclusively at [[Terran Unknown Sector 1]]. {{Stationcategory}}
+Electro-Magnetic Plasma Cannon Forge are Terran factories that produce the [[Electro-Magnetic Plasma Cannon]] from [[Energy Cells]], [[Terran MRE]] and [[Ore]]. 
+
+NPC stations will buy [[Hull Plating]] and [[Water]] as secondary resources.
+
+===Encyclopedia Entry===
+This production facility manufactures the [[Electro-Magnetic Plasma Cannon]].
+
+
+==Availability==
+This factory is sold exclusively at [[Terran Unknown Sector 1]].
+
+{{Stationcategory}}

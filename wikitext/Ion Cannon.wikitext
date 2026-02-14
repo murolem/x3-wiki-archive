@@ -1,3 +1,44 @@
-<!-- source file: index__q35a9e679d1f1.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Ion Cannon
+|hulldam= 3800
+|shielddam= 66100
+|range= 5.12 
+|rof= 33
+|shotspeed= 387 
+|maxweapenergy= 4000
+|shotcost= 503
+}}
+{{Infobox ware
+|ware=Ion Cannon
+|cargoclass= XL
+|volume= 150
+|minprice= 924167
+|aveprice= 973860
+|maxprice= 1022553
+}}
+{{Infobox close}}
+==Overview==
+The Ion Cannon, sometimes abbreviated to IC, is a [[Boron]] capital ship weapon that does minimal hull damage but massive damage to shields and causes many other side-effects.
 
-{{Infobox open}} {{Infobox weapon |weapon=Ion Cannon |hulldam= 3800 |shielddam= 66100 |range= 5.12 |rof= 33 |shotspeed= 387 |maxweapenergy= 4000 |shotcost= 503 }} {{Infobox ware |ware=Ion Cannon |cargoclass= XL |volume= 150 |minprice= 924167 |aveprice= 973860 |maxprice= 1022553 }} {{Infobox close}} ==Overview== The Ion Cannon, sometimes abbreviated to IC, is a [[Boron]] capital ship weapon that does minimal hull damage but massive damage to shields and causes many other side-effects. ==Encyclopedia Entry== A deadly weapon found on frigates, destroyers and carriers. Upscaling IPG technology and taking advantage of the massive energy available to capital ships, the Ion Cannon is the pinnacle of Boron ion weaponry. A huge amount of ion energy is concentrated into a single projectile and can disrupt a target ship's systems, such as engines and weapons, in addition to causing a large reduction in shield energy. ==Commentary== An unusual capital weapon with the highest shield damage rate in the game, the Ion Cannon deals a large variety of hidden effects, such as energy draining, high chance of equipment damage, speed reduction and suchlike. Its effectiveness against hulls is poor, leading it to be used in conjunction with the [[Gauss Cannon]] to cause massive damage on both sides of enemy defence. ==Known Compatible Ships== *[[Titan]] (M2, Argon) *[[Shark]] (M1, Boron) *[[Ray]] (M2, Boron) *[[Thresher]] (M7, Boron) *[[Phoenix]] (M2, Teladi) *[[Boreas]] (M2, OTAS/Argon) *[[Truelight Seeker]] (M6, Gon/Argon) *[[Megalodon]] (M2, Boron) *[[Brigantine]] (M2, Pirates) *[[Akuma]] (M2, Yaki) ==Available at Known Docks== Boron Equipment Dock - Queens Retribution
+==Encyclopedia Entry==
+A deadly weapon found on frigates, destroyers and carriers. Upscaling IPG technology and taking advantage of the massive energy available to capital ships, the Ion Cannon is the pinnacle of Boron ion weaponry. A huge amount of ion energy is concentrated into a single projectile and can disrupt a target ship's systems, such as engines and weapons, in addition to causing a large reduction in shield energy.
+
+==Commentary==
+An unusual capital weapon with the highest shield damage rate in the game, the Ion Cannon deals a large variety of hidden effects, such as energy draining, high chance of equipment damage, speed reduction and suchlike. Its effectiveness against hulls is poor, leading it to be used in conjunction with the [[Gauss Cannon]] to cause massive damage on both sides of enemy defence.
+
+==Known Compatible Ships==
+
+*[[Titan]] (M2, Argon)
+*[[Shark]] (M1, Boron)
+*[[Ray]] (M2, Boron)
+*[[Thresher]] (M7, Boron)
+*[[Phoenix]] (M2, Teladi)
+*[[Boreas]] (M2, OTAS/Argon)
+*[[Truelight Seeker]] (M6, Gon/Argon)
+*[[Megalodon]] (M2, Boron)
+*[[Brigantine]] (M2, Pirates)
+*[[Akuma]] (M2, Yaki)
+
+==Available at Known Docks==
+Boron Equipment Dock - Queens Retribution

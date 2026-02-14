@@ -1,3 +1,35 @@
-<!-- source file: index__qe296fce5c634.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Split
+|station=Thunderbolt Missile Factory
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:10:00
+|productnum=[[Thunderbolt Missile]] (4)
+|stationprice={{Priceblock|Distinguished Associate|3025452}}
+|reqresources=[[Energy Cells]] (150)<br>[[Ore]] (25)<br>[[Rastar Oil]] (15)
+}}
+{{Infobox close}}
+==Overview==
+Thunderbolt missiles are medium missiles.
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Split |station=Thunderbolt Missile Factory |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:10:00 |productnum=[[Thunderbolt Missile]] (4) |stationprice={{Priceblock|Distinguished Associate|3025452}} |reqresources=[[Energy Cells]] (150)&lt;br>[[Ore]] (25)&lt;br>[[Rastar Oil]] (15) }} {{Infobox close}} ==Overview== Thunderbolt missiles are medium missiles. ===Encyclopedia Entry=== This factory produces the Thunderbolt Missile. A Heat seeking armament that uses inbuilt guidance systems to lock on to heat signatures on both visible and infra-red spectrums. ==Availability== This factory is unique to the Split. {| style="text-align:left;" |- valign="top" | '''[[Split#Shipyards|Split]]''' *{{sa|Cho's Defeat}} *{{sa|Patriarch's Conclusion}} *{{sa|Rhonkar's Trial}} *{{sa|Zyarth's Dominion}} *{{sa|Zyarth's Stand}} |} {{Stationcategory}} [[Category:Factories]]
+===Encyclopedia Entry===
+This factory produces the Thunderbolt Missile. A Heat seeking armament that uses inbuilt guidance systems to lock on to heat signatures on both visible and infra-red spectrums.
+
+==Availability==
+This factory is unique to the Split.
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Split#Shipyards|Split]]'''
+*{{sa|Cho's Defeat}}
+*{{sa|Patriarch's Conclusion}}
+*{{sa|Rhonkar's Trial}}
+*{{sa|Zyarth's Dominion}}
+*{{sa|Zyarth's Stand}}
+|}
+
+{{Stationcategory}}
+[[Category:Factories]]

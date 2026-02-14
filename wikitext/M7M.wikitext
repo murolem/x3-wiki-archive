@@ -1,3 +1,54 @@
-<!-- source file: index__qbce60bf3490a.html -->
+The M7M Missile Frigates are dedicated missile platforms, and in practice are used largely differently from [[M7]] ships except for similarities in size and shielding. These ships carry few laser turrets, if any, and only for point defense purposes. Their primary form of attack is Missile Barrages, a capability unique to the class, where the ship can launch as many as 16 missiles simultaneously.  This ability easily overwhelms the point defenses of their targets, allowing the M7M Frigates to have tremendous anti-capital power. They are also a major threat to fighters as well due to their ability to launch deadly fast-moving swarm missiles. Generally speaking they are the deadliest ships in the game since they can overwhelm anything with the size of their barrages, though their reliance on missiles makes them expensive and supply intensive. They are slow for their size, but have good carrying capacity.
 
-The M7M Missile Frigates are dedicated missile platforms, and in practice are used largely differently from [[M7]] ships except for similarities in size and shielding. These ships carry few laser turrets, if any, and only for point defense purposes. Their primary form of attack is Missile Barrages, a capability unique to the class, where the ship can launch as many as 16 missiles simultaneously. This ability easily overwhelms the point defenses of their targets, allowing the M7M Frigates to have tremendous anti-capital power. They are also a major threat to fighters as well due to their ability to launch deadly fast-moving swarm missiles. Generally speaking they are the deadliest ships in the game since they can overwhelm anything with the size of their barrages, though their reliance on missiles makes them expensive and supply intensive. They are slow for their size, but have good carrying capacity. == Armament == The missiles used by M7Ms are unique to the class. [[Commonwealth]] and [[Terran]] weapons vary, as show below: === Commonwealth Missiles === Commonwealth ships mount: * [[Hammer Heavy Torpedo]], a heavy anti-capital missile. * [[Flail Barrage Missile]], a swarm anti-fighter missile. === Terran Missiles === The [[Skirnir|ATF Skirnir]], as with other Terran ships, is incompatible with Commonwealth weaponry. Instead, they fire: * [[Shadow Missile]], the counterpart to the Hammer. * [[Ghoul Missile]], the counterpart to the Flail. === Boarding Pods === In addition, most Commonwealth M7Ms can fire [[Boarding pods]] for [[Marines|Marine]] [[boarding]] operations. Using Boarding Pods makes delivering marines to the target significantly easier, and once they are there, using the pods significantly reduces the Mechanical skill required to cut through the hull. The [[Aquilo|OTAS Aquilo]] and the [[Skirnir|ATF Skirnir]] are incapable of firing boarding pods. The [[Sirokos|OTAS Sirokos]] is a special M7M intended for [[boarding]], and can mount [[boarding pods]], but not any offensive missiles. It can also carry 30 marines to the others' 20. == Sortable List == {| class="wikitable prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:right;" |+ '''M7M Missile Frigates''' ! Name !! Race !! Class !! Speed !! Accel !! Steering !! Hull !! Shields !! Shield Reactor !! Turrets !! Laser Cap !! Laser Rchg. !! Cargo !! [[Cargo Class]] !! Hangar !! Price |- |[[Minotaur]] || [[Argon]] || [[M7M]] || 69.9 || 8 || 0.9 || 1,400,000 ||data-sort-value="3000"|3 x 1GJ || 14,400 || 16MT || 50,500 || 1,262 || 8,000 || XL || 0 || 50,333,548 |- |[[Skirnir]] || [[ATF]] || [[M7M]] || 91 || 13 || 1 || 280,000 ||data-sort-value="8000"|4 x 2GJ || 12,500 || 16MT || 71,900 || 1,617 || 9,500 || XL || 0 || 51,426,360 |- |[[Kraken]] || [[Boron]] || [[M7M]] || 83.9 || 12 || 0.8 || 1,260,000 ||data-sort-value="3000"|3 x 1GJ || 14,200 || 16MT || 50,500 || 1,262 || 8,500 || XL || 0 || 51,019,915 |- |[[Aquilo]] || [[OTAS]] || [[M7M]] || 91.8 || 13 || 0.8 || 280,000 ||data-sort-value="6000"|3 x 2GJ || 5,900 || 16MT || 50,500 || 1,262 || 8,000 || XL || 0 || 38,206,712 |- |[[Sirokos]] || [[OTAS]] || [[M7M]] || 111.2 || 11.6 || 3.4 || 90,000 ||data-sort-value="3000"|3 x 1GJ || 5,900 || 16MT || 50,500 || 1,262 || 4,750 || XL || 0 || 38,206,712 |- |[[Ares]] || [[Paranid]] || [[M7M]] || 77 || 9 || 0.9 || 350,000 ||data-sort-value="4000"|2 x 2GJ || 12,400 || 12MT || 50,500 || 1,262 || 7,500 || XL || 0 || 50,675,750 |- |[[Cobra]] || [[Split]] || [[M7M]] || 97.9 || 16 || 0.8 || 280,000 ||data-sort-value="3000"|3 x 1GJ || 14,400 || 16MT || 50,500 || 1,262 || 7,000 || XL || 0 || 50,774,081 |- |[[Gannet]] || [[Teladi]] || [[M7M]] || 55.9 || 7 || 0.7 || 420,000 ||data-sort-value="6000"|3 x 2GJ || 8,000 || 16MT || 50,500 || 1,262 || 9,000 || XL || 0 || 50,272,580 |- |[[Senshi]] || [[Yaki]] || [[M7M]] || 69.9 || 8 || 0.9 || 360,000 ||data-sort-value="3000"|3 x 1GJ || 14,400 || 16MT || 50,500 || 1262 || 8,000 || XL || 0 || 29,969,691 |} == See Also == {{M7M}} {{M7Mcategory}}
+== Armament ==
+The missiles used by M7Ms are unique to the class. [[Commonwealth]] and [[Terran]] weapons vary, as show below:
+
+=== Commonwealth Missiles ===
+Commonwealth ships mount:
+
+* [[Hammer Heavy Torpedo]], a heavy anti-capital missile.
+* [[Flail Barrage Missile]], a swarm anti-fighter missile.
+
+=== Terran Missiles ===
+The [[Skirnir|ATF Skirnir]], as with other Terran ships, is incompatible with Commonwealth weaponry. Instead, they fire:
+
+* [[Shadow Missile]], the counterpart to the Hammer.
+* [[Ghoul Missile]], the counterpart to the Flail.
+
+=== Boarding Pods ===
+In addition, most Commonwealth M7Ms can fire  [[Boarding pods]] for [[Marines|Marine]] [[boarding]] operations.  Using Boarding Pods makes delivering marines to the target significantly easier, and once they are there, using the pods significantly reduces the Mechanical skill required to cut through the hull. 
+
+The [[Aquilo|OTAS Aquilo]] and the [[Skirnir|ATF Skirnir]] are incapable of firing boarding pods.
+
+The [[Sirokos|OTAS Sirokos]] is a special M7M intended for [[boarding]], and can mount [[boarding pods]], but not any offensive missiles. It can also carry 30 marines to the others' 20.
+
+== Sortable List ==
+
+{| class="wikitable prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:right;"
+|+ '''M7M Missile Frigates'''
+! Name !! Race !! Class !! Speed !! Accel !! Steering !! Hull !! Shields !! Shield Reactor !! Turrets !! Laser Cap !! Laser Rchg. !! Cargo !! [[Cargo Class]] !! Hangar !! Price
+|-
+|[[Minotaur]] || [[Argon]] || [[M7M]] || 69.9 || 8 || 0.9 || 1,400,000 ||data-sort-value="3000"|3 x 1GJ || 14,400 || 16MT || 50,500 || 1,262 || 8,000 || XL || 0 || 50,333,548
+|-
+|[[Skirnir]] || [[ATF]] || [[M7M]] || 91 || 13 || 1 || 280,000 ||data-sort-value="8000"|4 x 2GJ || 12,500 || 16MT || 71,900 || 1,617 || 9,500 || XL || 0 || 51,426,360
+|-
+|[[Kraken]] || [[Boron]] || [[M7M]] || 83.9 || 12 || 0.8 || 1,260,000 ||data-sort-value="3000"|3 x 1GJ || 14,200 || 16MT || 50,500 || 1,262 || 8,500 || XL || 0 || 51,019,915
+|-
+|[[Aquilo]] || [[OTAS]] || [[M7M]] || 91.8 || 13 || 0.8 || 280,000 ||data-sort-value="6000"|3 x 2GJ || 5,900 || 16MT || 50,500 || 1,262 || 8,000 || XL || 0 || 38,206,712
+|-
+|[[Sirokos]] || [[OTAS]] || [[M7M]] || 111.2 || 11.6 || 3.4 || 90,000 ||data-sort-value="3000"|3 x 1GJ || 5,900 || 16MT || 50,500 || 1,262 || 4,750 || XL || 0 || 38,206,712
+|-
+|[[Ares]] || [[Paranid]] || [[M7M]] || 77 || 9 || 0.9 || 350,000 ||data-sort-value="4000"|2 x 2GJ || 12,400 || 12MT || 50,500 || 1,262 || 7,500 || XL || 0 || 50,675,750
+|-
+|[[Cobra]] || [[Split]] || [[M7M]] || 97.9 || 16 || 0.8 || 280,000 ||data-sort-value="3000"|3 x 1GJ || 14,400 || 16MT || 50,500 || 1,262 || 7,000 || XL || 0 || 50,774,081
+|-
+|[[Gannet]] || [[Teladi]] || [[M7M]] || 55.9 || 7 || 0.7 || 420,000 ||data-sort-value="6000"|3 x 2GJ || 8,000 || 16MT || 50,500 || 1,262 || 9,000 || XL || 0 || 50,272,580
+|-
+|[[Senshi]] || [[Yaki]] || [[M7M]] || 69.9 || 8 || 0.9 || 360,000 ||data-sort-value="3000"|3 x 1GJ || 14,400 || 16MT || 50,500 || 1262 || 8,000 || XL || 0 || 29,969,691
+|}
+
+== See Also ==
+
+{{M7M}}
+
+{{M7Mcategory}}

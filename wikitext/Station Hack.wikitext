@@ -1,3 +1,7 @@
-<!-- source file: index__q9952be56079b.html -->
+Station hacks are [[Missions#Offers|offered]] at random Pirate Bases to provide a service to you, hacking a hostile station within a limited amount of sectors to become neutral. They are recognizable by the white light bulb sign over a station. No reputation loss for doing this, but it is rather expensive for beginners. 
 
-Station hacks are [[Missions#Offers|offered]] at random Pirate Bases to provide a service to you, hacking a hostile station within a limited amount of sectors to become neutral. They are recognizable by the white light bulb sign over a station. No reputation loss for doing this, but it is rather expensive for beginners. * Offered at Teladi Stations as well, and very rarely other race stations (for example, near Duke's Haven, since there are no Teladi or Pirate bases nearby). * You need to be within 3 sectors of the hostile station to be able to hack it. {{Missions}}
+* Offered at Teladi Stations as well, and very rarely other race stations (for example, near Duke's Haven, since there are no Teladi or Pirate bases nearby).
+* You need to be within 3 sectors of the hostile station to be able to hack it.
+
+
+{{Missions}}

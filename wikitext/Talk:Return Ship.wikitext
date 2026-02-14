@@ -1,3 +1,3 @@
-<!-- source file: index__q8ee92de0ecb7.html -->
-
-Greater challenges occur when trying to retrieve large ships (TS, M7) to their stations, especially if they're damaged with low maximum speed. Towing them with tractor beams can work nicely (it increased the max. speed of a damaged Shrike from 36m/s to 80m/s without which I couldn't have completed the mission on time. Curiously enough, turbo-boost on the towing ship has no effect when towing another ship, but I'm curious to see if it's a good enough alternative to towing when installing turbo-boost on the ship needed to be retrieved.
+Greater challenges occur when trying to retrieve large ships (TS, M7) to their stations, especially if they're damaged with low maximum speed.
+Towing them with tractor beams can work nicely (it increased the max. speed of a damaged Shrike from 36m/s to 80m/s without which I couldn't have completed the mission on time.
+Curiously enough, turbo-boost on the towing ship has no effect when towing another ship, but I'm curious to see if it's a good enough alternative to towing when installing turbo-boost on the ship needed to be retrieved.

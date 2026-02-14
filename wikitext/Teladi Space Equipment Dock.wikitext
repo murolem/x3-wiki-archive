@@ -1,3 +1,29 @@
-<!-- source file: index__qb9cd6587d4d6.html -->
+{{Infobox open}}
+{{Infobox basicstation
+|faction=Teladi
+|station=Equipment Dock
+|hull=
+|shield=
+|generator=
+|hangar=
+|stationprice={{priceblock||49991396}}
+}}
+{{Infobox close}}
+==Overview==
+Upgrades ships.
+==Encyclopedia Entry==
+===Text===
+Teladi Space Equipment Docks are basically functional but not built for comfort, they are solely built to upgrade space vehicles.
+===Voice Over===
+Teladi Space Equipment Docks are basically functional but not made for comfort, they are built solely to upgrade space vehicles.
 
-{{Infobox open}} {{Infobox basicstation |faction=Teladi |station=Equipment Dock |hull= |shield= |generator= |hangar= |stationprice={{priceblock||49991396}} }} {{Infobox close}} ==Overview== Upgrades ships. ==Encyclopedia Entry== ===Text=== Teladi Space Equipment Docks are basically functional but not built for comfort, they are solely built to upgrade space vehicles. ===Voice Over=== Teladi Space Equipment Docks are basically functional but not made for comfort, they are built solely to upgrade space vehicles. ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Teladi#Shipyards|Teladi]]''' *{{sa|Ceo's Sprite}} *{{sa|Seizewell}} |} {{Stationcategory}}
+==Availability==
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Teladi#Shipyards|Teladi]]'''
+*{{sa|Ceo's Sprite}}
+*{{sa|Seizewell}}
+|}
+
+
+{{Stationcategory}}

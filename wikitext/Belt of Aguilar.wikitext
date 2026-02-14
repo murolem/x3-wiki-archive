@@ -1,3 +1,23 @@
-<!-- source file: index__q05fa9f50f5d4.html -->
+{{Infobox Sector
+|Race=Argon
+|SecLevel=Border
+|Population=44,387,634
+|Planets=3
+|SunLevel=150
+|GateDist=70
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|East|38751|	0|	12510|[[Grand Exchange]]}}
+{{Gateblock2|West|-35025|	0|	0|[[Midnight Star]]}}
+{{Gateblock/End}}
+}}
+==Description==
+This sector was established shortly after the initial [[Kha'ak]] invasions, and was intended as support sector for supplying food and minerals to other Argon colonies.
 
-{{Infobox Sector |Race=Argon |SecLevel=Border |Population=44,387,634 |Planets=3 |SunLevel=150 |GateDist=70 |Gates={{Gateblock/Begin}} {{Gateblock2|East|38751| 0| 12510|[[Grand Exchange]]}} {{Gateblock2|West|-35025| 0| 0|[[Midnight Star]]}} {{Gateblock/End}} }} ==Description== This sector was established shortly after the initial [[Kha'ak]] invasions, and was intended as support sector for supplying food and minerals to other Argon colonies. ==Default [[Stations]]== *[[Jonferco Headquarters]] ==[[Asteroids]]== ==See Also== {{Argoncategory}} {{Argon Navbox}}
+==Default [[Stations]]==
+*[[Jonferco Headquarters]]
+
+==[[Asteroids]]==
+
+==See Also==
+{{Argoncategory}}
+{{Argon Navbox}}

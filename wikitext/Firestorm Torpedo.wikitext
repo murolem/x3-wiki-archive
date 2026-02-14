@@ -1,3 +1,19 @@
-<!-- source file: index__q7e88e249704a.html -->
+{{Infobox open}}
+{{Infobox missile|Missile= Firestorm  |Yield=1000000|Speed=165|Range=99|Cooldown=5000|Seeker=Targeted|Submunitions=1|Fusing=Impact|Torpedoclass=Torpedo|Guidance=Image-recognition|AoE=}}
+{{Infobox ware|ware=Firestorm Torpedo|cargoclass=M|volume=7|minprice=75197|aveprice= 80856  |maxprice=86515}}
+{{Infobox close}}
+==Overview==
+The Firestorm Torpedo is a slow but extraordinarily potent torpedo for use against capital ships.
 
-{{Infobox open}} {{Infobox missile|Missile= Firestorm |Yield=1000000|Speed=165|Range=99|Cooldown=5000|Seeker=Targeted|Submunitions=1|Fusing=Impact|Torpedoclass=Torpedo|Guidance=Image-recognition|AoE=}} {{Infobox ware|ware=Firestorm Torpedo|cargoclass=M|volume=7|minprice=75197|aveprice= 80856 |maxprice=86515}} {{Infobox close}} ==Overview== The Firestorm Torpedo is a slow but extraordinarily potent torpedo for use against capital ships. ===Encyclopedia Entry=== One of the slowest and most powerful projectile weapons in the current batch of armaments used, the Firestorm Torpedo holds devastating destructive force at the expense of speed and manoeuvrability. While remarkably easy to shoot down, if successful, this weapon can yield great damage to a station, and in volume, even destroy it. Its success against large combat craft can be equally devastating when employed on close range attack runs. ==Commentary== One of the slowest and most powerful single-warhead missiles available, the Firestorm is a very dangerous weapon, both to the target and the launcher. Its large blast radius makes it capable of instantly destroying patrols and furballs, and its massive damage puts a nasty dent in [[:Category:Capital Ships|capital ship]] shields. At [[Shields#1_GJ|1GJ]] of damage, it destroys all but the most heavily shielded [[M6|corvettes]], the lowest class of ship capable of launching it with the notable exception of the [[Medusa Prototype]]. As with the use of all nuclear based warheads - '''extreme caution is strongly adviced'''. Premature detonation can be caused by any sort of impact in space and may lead to immediate user atomization if you have insufficient shielding installed. [[Category:Commonwealth missiles]] [[Category:Medium missiles]] [[Category:Torpedoes]] {{Missile Navbox}}
+===Encyclopedia Entry===
+One of the slowest and most powerful projectile weapons in the current batch of armaments used, the Firestorm Torpedo holds devastating destructive force at the expense of speed and manoeuvrability. While remarkably easy to shoot down, if successful, this weapon can yield great damage to a station, and in volume, even destroy it. Its success against large combat craft can be equally devastating when employed on close range attack runs.
+
+==Commentary==
+One of the slowest and most powerful single-warhead missiles available, the Firestorm is a very dangerous weapon, both to the target and the launcher. Its large blast radius makes it capable of instantly destroying patrols and furballs, and its massive damage puts a nasty dent in [[:Category:Capital Ships|capital ship]] shields. At [[Shields#1_GJ|1GJ]] of damage, it destroys all but the most heavily shielded [[M6|corvettes]], the lowest class of ship capable of launching it with the notable exception of the [[Medusa Prototype]].
+
+As with the use of all nuclear based warheads - '''extreme caution is strongly adviced'''. Premature detonation can be caused by any sort of impact in space and may lead to immediate user atomization if you have insufficient shielding installed.
+
+[[Category:Commonwealth missiles]]
+[[Category:Medium missiles]]
+[[Category:Torpedoes]]
+{{Missile Navbox}}

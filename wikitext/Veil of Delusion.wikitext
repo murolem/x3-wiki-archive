@@ -1,3 +1,33 @@
-<!-- source file: index__qdedc6a4bc5e3.html -->
+{{Infobox Sector
+|Race=Pirates
+|SecLevel=Border
+|Population=43,834,285
+|Planets=2
+|SunLevel=150
+|GateDist=80
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|	0|	34000|[[Faded Dreams]]}}
+{{Gateblock/End}}
+}}
+==Description==
+This sector began life with relative peace, both sides shring resources equally. Open conflict between the [[Split]] and the [[Boron]] soon changed that. now a mire of lawlessness, the Boron no longer have the resources needed to engage both Pirate and Split forces.
 
-{{Infobox Sector |Race=Pirates |SecLevel=Border |Population=43,834,285 |Planets=2 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0| 0| 34000|[[Faded Dreams]]}} {{Gateblock/End}} }} ==Description== This sector began life with relative peace, both sides shring resources equally. Open conflict between the [[Split]] and the [[Boron]] soon changed that. now a mire of lawlessness, the Boron no longer have the resources needed to engage both Pirate and Split forces. ===Information=== [[Ownerless ships]] in sector. ==Default [[Stations]]== *[[Rehabilitation Facility]] ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|35|-13872|9255|18762}} {{Asteroid/Item|Ore|20|-14591|-6909|8747}} {{Asteroid/Item|Ore|8|16082|24783|23186}} {{Asteroid/Item|Ore|5|21488|1272|12001}} {{Asteroid/Item|Ore|5|-9704|22103|5302}} {{Asteroid/Item|Silicon|30|-412|7066|-4477}} {{Asteroid/End}} {{Pirates Navbox}}
+===Information===
+[[Ownerless ships]] in sector.
+
+==Default [[Stations]]==
+*[[Rehabilitation Facility]] 
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|35|-13872|9255|18762}}
+{{Asteroid/Item|Ore|20|-14591|-6909|8747}}
+{{Asteroid/Item|Ore|8|16082|24783|23186}}
+{{Asteroid/Item|Ore|5|21488|1272|12001}}
+{{Asteroid/Item|Ore|5|-9704|22103|5302}}
+{{Asteroid/Item|Silicon|30|-412|7066|-4477}}
+{{Asteroid/End}}
+
+
+{{Pirates Navbox}}

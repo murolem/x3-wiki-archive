@@ -1,3 +1,37 @@
-<!-- source file: index__qf28ab2651878.html -->
+A [[Missions#Other Mission|Mission]] offered at [[stations]].<br>
+Also known as taxi missions.
 
-A [[Missions#Other Mission|Mission]] offered at [[stations]].&lt;br> Also known as taxi missions. ==Objective== Two distinct missions in this article have the same objective; get the client to a given station within a time limit. Some, known as 'VIP Transport' missions, demand specifically a [[TP]]-class ship but pay much better than standard missions. It is not always obvious when you accept a mission whether it is a VIP or standard transport job. Also similar, but listed separately are the [[Transport Passengers]] mission which do not require M5 or TP class ships, these missions are usually noted by a reference to getting to work, oftentimes military personnel reporting for duty. ==General Difficulty== Depends very much on the distance, time limit and if you have a jumpdrive. ==What you will need== ===All Missions=== * Size M [[Cargo Class|cargo]] or bigger and [[Cargo Life Support System]] It is recommended to also have: * [[Docking Computer]], to save time. * [[Jumpdrive]] and energy cells ===Transport Passenger=== * [[M5]] class with decent speed. **Qualified Ships ::[[Discoverer]] ::[[Valkyrie]] ::[[Kestrel]] ::[[Fujin]] ===Transport VIP=== * {{TPclass}} ==Commentary and strategy== Dock at the given station in the appropriate ship and the passenger will board automatically. You will get a notification of his arrival on your ship. Deliver him to the station within the time limit and you will get your reward. Usage of jumpdrives is a good way to speed up the flight, and a Docking Computer can shave off valuable seconds from tight schedules. Deliver the passenger to a Pirate Base and you will get a slave, but unsurprisingly, you will forfeit your reward. {{Missions}}
+==Objective==
+Two distinct missions in this article have the same objective; get the client to a given station within a time limit. Some, known as 'VIP Transport' missions, demand specifically a [[TP]]-class ship but pay much better than standard missions. It is not always obvious when you accept a mission whether it is a VIP or standard transport job.
+
+Also similar, but listed separately are the [[Transport Passengers]] mission which do not require M5 or TP class ships, these missions are usually noted by a reference to getting to work, oftentimes military personnel reporting for duty.
+
+==General Difficulty==
+
+Depends very much on the distance, time limit and if you have a jumpdrive. 
+
+==What you will need==
+===All Missions===
+* Size M [[Cargo Class|cargo]] or bigger and [[Cargo Life Support System]]
+
+It is recommended to also have:
+* [[Docking Computer]], to save time.
+* [[Jumpdrive]] and energy cells
+===Transport Passenger===
+* [[M5]] class with decent speed.
+**Qualified Ships
+::[[Discoverer]]
+::[[Valkyrie]]
+::[[Kestrel]]
+::[[Fujin]]
+
+===Transport VIP===
+* {{TPclass}}
+
+==Commentary and strategy==
+Dock at the given station in the appropriate ship and the passenger will board automatically. You will get a notification of his arrival on your ship. Deliver him to the station within the time limit and you will get your reward. Usage of jumpdrives is a good way to speed up the flight, and a Docking Computer can shave off valuable seconds from tight schedules.
+
+Deliver the passenger to a Pirate Base and you will get a slave, but unsurprisingly, you will forfeit your reward.
+
+
+{{Missions}}

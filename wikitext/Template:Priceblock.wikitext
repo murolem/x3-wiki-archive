@@ -1,3 +1,6 @@
-<!-- source file: index__q05502f19f304.html -->
-
-&lt;table style="background-color: WhiteSmoke; text-align: right;width:100%;"> &lt;tr>&lt;th>Buy:&lt;/th>&lt;td>[[Reputation#{{{1}}}|{{{1}}} &lt;b>@&lt;/b>]]&lt;/td>&lt;td>{{formatnum:{{{2}}}}} [[Credits|Cr]]&lt;/td>&lt;/tr> &lt;/table>&lt;noinclude> hopefully a price block template that will fit inside the ship infobox [[category:page tools]] &lt;/noinclude>
+<table style="background-color: WhiteSmoke; text-align: right;width:100%;">
+<tr><th>Buy:</th><td>[[Reputation#{{{1}}}|{{{1}}} <b>@</b>]]</td><td>{{formatnum:{{{2}}}}} [[Credits|Cr]]</td></tr>
+</table><noinclude>
+hopefully a price block template that will fit inside the ship infobox
+[[category:page tools]]
+</noinclude>

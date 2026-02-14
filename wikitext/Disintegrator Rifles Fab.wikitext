@@ -1,3 +1,33 @@
-<!-- source file: index__q781e4af04d7a.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Split
+|station=Disintegrator Rifles Fab
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:16:00
+|productnum=[[Disintegrator Rifles]] (1)
+|stationprice={{Priceblock|Split Distinguished Associate|2 246 368}}
+|reqresources=[[Energy Cells]] (240)<br>[[Ore]] (40)<br>[[Rastar Oil]] (24)<br>
+|optresources=[[Majaglit]]<br>[[Quantum Tubes]]
+}}
+{{Infobox close}}
+==Overview==
+This station manufactures disruptor rifles, deadly small arms which are outlawed by many factions.
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Split |station=Disintegrator Rifles Fab |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:16:00 |productnum=[[Disintegrator Rifles]] (1) |stationprice={{Priceblock|Split Distinguished Associate|2 246 368}} |reqresources=[[Energy Cells]] (240)&lt;br>[[Ore]] (40)&lt;br>[[Rastar Oil]] (24)&lt;br> |optresources=[[Majaglit]]&lt;br>[[Quantum Tubes]] }} {{Infobox close}} ==Overview== This station manufactures disruptor rifles, deadly small arms which are outlawed by many factions. NPC stations will buy [[Majaglit]] and [[Quantum Tubes]] as secondary resources. ===Encyclopedia Entry=== Disintegrator Rifle Fabs manufacture this type of deadly infantry weapon, optimised for close combat especially in urban areas. ==Availability== This factory is unique to the Split. {| style="text-align:left;" |- valign="top" *{{sa|Patriarch's Conclusion}} *{{sa|Zyarth's Dominion}} |} {{Stationcategory}}
+NPC stations will buy [[Majaglit]] and [[Quantum Tubes]] as secondary resources.
+
+===Encyclopedia Entry===
+Disintegrator Rifle Fabs manufacture this type of deadly infantry weapon, optimised for close combat especially in urban areas.
+
+==Availability==
+This factory is unique to the Split.
+{| style="text-align:left;"
+|- valign="top"
+*{{sa|Patriarch's Conclusion}}
+*{{sa|Zyarth's Dominion}}
+|}
+
+{{Stationcategory}}

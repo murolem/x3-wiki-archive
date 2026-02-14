@@ -1,3 +1,64 @@
-<!-- source file: index__q2173b0bff1a0.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Rastar Oil
+|cargoclass=M
+|volume=6
+|minprice=252
+|aveprice=484
+|maxprice=716
+}}
+{{Infobox close}}
+==Overview==
+Rastar is an oil produced from the animal fat of the Chelt, A farmed Sea bound animal of the Split. This oil, once refined, is very fine and is used by most races to lubricate engines and other moving mechanical parts. It is refined in Rastar Refineries, and sold in large barrels known as Gretts.
+==Commentary==
+This is a product of the [[Rastar Refinery]]
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Rastar Refinery]]
+|
+*Split [[Ammunition Factory]]
+*Split [[Chip Plant]]
+*Split [[Cluster Flak Array Forge]]
+*Split [[Computer Plant]]
+*Split [[Concussion Impulse Generator Forge]]
+*Split [[Crystal Fab]]
+*[[Disintegrator Rifles Fab]]
+*Split [[Dumbfire Missile Production Complex]]
+*Split [[Flail Missile Production Facility]]
+*Split [[Hammer Torpedo Fabrication Facility]]
+*Split [[Heavy Shield Production Complex]]
+*Split [[Heavy Weapons Complex]]
+*Split [[High Energy Plasma Thrower Forge]]
+*Split [[High Yield Production Complex]]
+*Split [[Image Recognition Production Complex]]
+*Split [[Impulse Ray Emitter Forge]]
+*[[Ion Shard Railgun Forge]]
+*Split [[Lasertower Factory]]
+*Split [[Light Shield Production Complex]]
+*Split [[Low-yield Sidearms Fab]]
+*Split [[Mass Driver Forge]]
+*Split [[Medium Weapons Complex]]
+*Split [[Mobile Drilling System Factory]]
+*Split [[Particle Accelerator Cannon Forge]]
+*Split [[Phased Repeater Gun Forge]]
+*Split [[Photon Pulse Cannon Forge]]
+*Split [[Quantum Tube Fab]]
+*[[Rehabilitation Facility]]
+*Split [[Satellite Factory]]
+*Split [[Shield Production Facility 1MJ]]
+*Split [[SQUASH Mine Factory]]
+*Split [[Swarm Missile Production Complex]]
+*Split [[Tomahawk Missile Manufacturing Plant]]
+*Split [[Tracker Mine Factory]]
+|
+*[[Space Jewellery]]
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}
+{{Warecategory}}
+{{Waretable}}
 
-{{Infobox open}} {{Infobox ware |ware= Rastar Oil |cargoclass=M |volume=6 |minprice=252 |aveprice=484 |maxprice=716 }} {{Infobox close}} ==Overview== Rastar is an oil produced from the animal fat of the Chelt, A farmed Sea bound animal of the Split. This oil, once refined, is very fine and is used by most races to lubricate engines and other moving mechanical parts. It is refined in Rastar Refineries, and sold in large barrels known as Gretts. ==Commentary== This is a product of the [[Rastar Refinery]] ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Rastar Refinery]] | *Split [[Ammunition Factory]] *Split [[Chip Plant]] *Split [[Cluster Flak Array Forge]] *Split [[Computer Plant]] *Split [[Concussion Impulse Generator Forge]] *Split [[Crystal Fab]] *[[Disintegrator Rifles Fab]] *Split [[Dumbfire Missile Production Complex]] *Split [[Flail Missile Production Facility]] *Split [[Hammer Torpedo Fabrication Facility]] *Split [[Heavy Shield Production Complex]] *Split [[Heavy Weapons Complex]] *Split [[High Energy Plasma Thrower Forge]] *Split [[High Yield Production Complex]] *Split [[Image Recognition Production Complex]] *Split [[Impulse Ray Emitter Forge]] *[[Ion Shard Railgun Forge]] *Split [[Lasertower Factory]] *Split [[Light Shield Production Complex]] *Split [[Low-yield Sidearms Fab]] *Split [[Mass Driver Forge]] *Split [[Medium Weapons Complex]] *Split [[Mobile Drilling System Factory]] *Split [[Particle Accelerator Cannon Forge]] *Split [[Phased Repeater Gun Forge]] *Split [[Photon Pulse Cannon Forge]] *Split [[Quantum Tube Fab]] *[[Rehabilitation Facility]] *Split [[Satellite Factory]] *Split [[Shield Production Facility 1MJ]] *Split [[SQUASH Mine Factory]] *Split [[Swarm Missile Production Complex]] *Split [[Tomahawk Missile Manufacturing Plant]] *Split [[Tracker Mine Factory]] | *[[Space Jewellery]] | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}} {{Waretable}} {{Split Navbox}}
+{{Split Navbox}}

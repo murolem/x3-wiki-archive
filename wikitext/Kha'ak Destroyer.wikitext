@@ -1,3 +1,151 @@
-<!-- source file: index__q7bf9d0862e44.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= Destroyer
+|Faction=Kha'ak
+|Class={{M2class}}
+|Priceblock=
+|Minspeed= 44.6
+|Maxspeed= 62.4
+|Minaccel=6
+|Maxaccel=8
+|Minsteer=0.5
+|Maxsteer=0.7
+|Hull=162,000 (TC) / 1,620,000 (AP)
+|Maxshield=2 GJ
+|Shieldslots=5
+|Maxshieldstrength=10000
+|Shieldreactor= 7100
+|Cargoclass=ST
+|Mincargo= 7000
+|Maxcargo= 7000
+|Lasercap= 345600
+|Laserrecharge=5179
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=3
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=1|bke=1|gke=1|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=3
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=1|bke=1|gke=1|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=3
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=1|bke=1|gke=1|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=3
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=1|bke=1|gke=1|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Top
+|Guncount=3
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=1|bke=1|gke=1|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Bottom
+|Guncount=3
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=1|bke=1|gke=1|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The Kha'ak Destroyer is the most powerful Kha'ak warship. It is difficult to destroy in a fight, as it has considerably superior missile defences compared to other ships. However, it is not powerful enough to be of any major concern to another [[M2|destroyer]].
 
-{{Infobox open}} {{Infobox variant |Variant= Destroyer |Faction=Kha'ak |Class={{M2class}} |Priceblock= |Minspeed= 44.6 |Maxspeed= 62.4 |Minaccel=6 |Maxaccel=8 |Minsteer=0.5 |Maxsteer=0.7 |Hull=162,000 (TC) / 1,620,000 (AP) |Maxshield=2 GJ |Shieldslots=5 |Maxshieldstrength=10000 |Shieldreactor= 7100 |Cargoclass=ST |Mincargo= 7000 |Maxcargo= 7000 |Lasercap= 345600 |Laserrecharge=5179 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=3 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=1|bke=1|gke=1| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Right |Guncount=3 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=1|bke=1|gke=1| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Rear |Guncount=3 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=1|bke=1|gke=1| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Left |Guncount=3 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=1|bke=1|gke=1| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Top |Guncount=3 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=1|bke=1|gke=1| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Bottom |Guncount=3 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=1|bke=1|gke=1| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The Kha'ak Destroyer is the most powerful Kha'ak warship. It is difficult to destroy in a fight, as it has considerably superior missile defences compared to other ships. However, it is not powerful enough to be of any major concern to another [[M2|destroyer]]. ==Background== Kha'ak Destroyers were first seen in the Kha'ak attack on President's End. They also participated in the assault on Omicron Lyrae where several were destroyed and the tide of the war was turned. They are often found in Kha'ak sectors, defending against [[Commonwealth]] incursions. ===Encyclopedia Entry=== This ship is extremely dangerous. Keeping your distance would be advised. A scout recorded a count of at least 18 weapons, 3 mounted on 6 turrets. It has not been confirmed yet if this is true. This ship was also present at the first encounter, where it single-handedly destroyed two stations. It is approximately the equivalent of a Destroyer class ship. ==Physical Characteristics== The Kha'ak Destroyer is nearly identical to the [[Kha'ak Carrier]]. It has a spherical grey abdomen and several purple front "tentacles", giving the ship the overall appearance of a backward-facing squid. == Combat == As with the other Kha'ak battleships, the fact that it uses the sadly outdated [[Gamma Kyon Emitter]]s for its main defence against enemy capitals means it poses little threat to similar classed opponents, although it is still extremely dangerous against any craft [[M6]] and lower. Its main advantageous features in combat are its shielding, small size, and near-impeccable missile and fighter defence. It can be killed by smaller ships using the indentation in its rear to pump as much firepower as possible into it as well as being weak to any anti capital weapon, including even the [[Incendiary Bomb Launcher|IBL]]. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Sting]] *[[Needle]] *[[Thorn]] |} == Availability == The Kha'ak destroyer cannot be purchased, and like other Kha'ak ships, cannot be boarded. == Suggested Roles== The Kha'ak Destroyer is fast and well-shielded for a destroyer, but the [[Gamma Kyon Emitter]] is not competitive with other capital-class weaponry, so the Kha'ak M2 should not be used against other capital ships. Thanks to its (nearly) hit-scan weaponry, however, it makes a formidable anti-fighter swarm and anti-corvette platform, as well as making non-swarm missile attacks frustratingly difficult. This all assumes, of course, that modding had made the ship and weaponry available. Curiously, the Destroyer carries ST-class cargo, so it can carry a Complex Construction Kit to help with complexes if it must. == See Also== {{M2}}
+==Background==
+Kha'ak Destroyers were first seen in the Kha'ak attack on President's End. They also participated in the assault on Omicron Lyrae where several were destroyed and the tide of the war was turned. They are often found in Kha'ak sectors, defending against [[Commonwealth]] incursions.
+
+===Encyclopedia Entry===
+This ship is extremely dangerous. Keeping your distance would be advised. A scout recorded a count of at least 18 weapons, 3 mounted on 6 turrets. It has not been confirmed yet if this is true. This ship was also present at the first encounter, where it single-handedly destroyed two stations. It is approximately the equivalent of a Destroyer class ship.
+
+==Physical Characteristics==
+The Kha'ak Destroyer is nearly identical to the [[Kha'ak Carrier]]. It has a spherical grey abdomen and several purple front "tentacles", giving the ship the overall appearance of a backward-facing squid.
+
+== Combat ==
+As with the other Kha'ak battleships, the fact that it uses the sadly outdated [[Gamma Kyon Emitter]]s for its main defence against enemy capitals means it poses little threat to similar classed opponents, although it is still extremely dangerous against any craft [[M6]] and lower. Its main advantageous features in combat are its shielding, small size, and near-impeccable missile and fighter defence. It can be killed by smaller ships using the indentation in its rear to pump as much firepower as possible into it as well as being weak to any anti capital weapon, including even the [[Incendiary Bomb Launcher|IBL]].
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;" 
+|
+*[[Sting]]
+*[[Needle]]
+*[[Thorn]]
+|}
+== Availability ==
+The Kha'ak destroyer cannot be purchased, and like other Kha'ak ships, cannot be boarded.
+== Suggested Roles==
+The Kha'ak Destroyer is fast and well-shielded for a destroyer, but the [[Gamma Kyon Emitter]] is not competitive with other capital-class weaponry, so the Kha'ak M2 should not be used against other capital ships. Thanks to its (nearly) hit-scan weaponry, however, it makes a formidable anti-fighter swarm and anti-corvette platform, as well as making non-swarm missile attacks frustratingly difficult. This all assumes, of course, that modding had made the ship and weaponry available.
+
+Curiously, the Destroyer carries ST-class cargo, so it can carry a Complex Construction Kit to help with complexes if it must.
+
+== See Also==
+
+{{M2}}

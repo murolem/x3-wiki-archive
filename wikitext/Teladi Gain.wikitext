@@ -1,3 +1,22 @@
-<!-- source file: index__q59adb4749623.html -->
+{{Infobox Sector
+|Race=Teladi
+|SecLevel=Core
+|Population=20,675,064
+|Planets=2
+|SunLevel=150
+|GateDist=90
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|East|45360|	0|	0|[[Family Whi]]}}
+{{Gateblock2|South|0|	0|	-45360|[[Seizewell]]}}
+{{Gateblock2|West|-45360|	0|	0|[[Ceo's Buckzoid]]}}
+</table>
+}}
+==Description==
+Once the favoured retreat of Boron philosophers and visionaries, this sector is now managed by the Teladi and has become the preferred destination of fun seekers, weedheads and space-hippies of every race. The Bliss Place in the centre of the sector produces the narcotic Space Weed, the meditative drug of choice for the dreamers, artists and neo-philosophers that are drawn here.
+==Default [[Stations]]==
+==[[Asteroids]]==
 
-{{Infobox Sector |Race=Teladi |SecLevel=Core |Population=20,675,064 |Planets=2 |SunLevel=150 |GateDist=90 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|East|45360| 0| 0|[[Family Whi]]}} {{Gateblock2|South|0| 0| -45360|[[Seizewell]]}} {{Gateblock2|West|-45360| 0| 0|[[Ceo's Buckzoid]]}} &lt;/table> }} ==Description== Once the favoured retreat of Boron philosophers and visionaries, this sector is now managed by the Teladi and has become the preferred destination of fun seekers, weedheads and space-hippies of every race. The Bliss Place in the centre of the sector produces the narcotic Space Weed, the meditative drug of choice for the dreamers, artists and neo-philosophers that are drawn here. ==Default [[Stations]]== ==[[Asteroids]]== == See Also == {{Teladi Navbox}}
+
+== See Also ==
+{{Teladi Navbox}}

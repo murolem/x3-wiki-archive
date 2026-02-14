@@ -1,3 +1,34 @@
-<!-- source file: index__q1b7131546a99.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Gamma Kyon Emitter
+|hulldam=6400
+|shielddam=10700
+|range=4.85
+|rof= 85
+|shotspeed= 12143
+|maxweapenergy= 4000
+|shotcost=714
+}}
+{{Infobox ware
+|ware=Gamma Kyon Emitter
+|cargoclass=XL
+|volume=25
+|minprice=114527
+|aveprice=116864
+|maxprice=119201
+}}
+{{Infobox close}}
+==Overview==
+The most powerful weapon in the [[Kha'ak]] Kyon Emitter series, equipped on battleships.
 
-{{Infobox open}} {{Infobox weapon |weapon=Gamma Kyon Emitter |hulldam=6400 |shielddam=10700 |range=4.85 |rof= 85 |shotspeed= 12143 |maxweapenergy= 4000 |shotcost=714 }} {{Infobox ware |ware=Gamma Kyon Emitter |cargoclass=XL |volume=25 |minprice=114527 |aveprice=116864 |maxprice=119201 }} {{Infobox close}} ==Overview== The most powerful weapon in the [[Kha'ak]] Kyon Emitter series, equipped on battleships. ==Encyclopedia Entry== This weapon is of Kha'ak Origin. It generates and emits Kyon particles that line up in a straight line. How these particles are generated is not currently known. This version is more powerful than the Alpha or Beta Versions and is most commonly found on Kha'ak Capital Craft. ==Commentary== The Gamma KE version is showing its age. With a shorter range than Commonwealth capital weapons and very low attack power, this laser is quite underwhelming. It is still lethal to fighters however, being a [[Weapons#Beam weapons|beam weapon]], and can severely damage some frigates, though even Kha'ak destroyers can easily be killed by anti-capital equipped frigates. It also suffers from massive energy drain, and is highly inefficient- more so than any of the other kyon weapons. Interestingly, the Terraformer [[#Deca]] mothership can utilise these lasers. The only reason a player would spend any amount of time in the hostile Kha'ak sector for these is if they'd used the 'double-boarding' exploit to capture the #Deca during the terran plot, since the Kyon lasers are the only weapons it can use. Otherwise, they are useless: low resale price, no compatible player-ownable ships and general difficulty to acquire. ==Known Compatible Ships== ==Available at Known Docks== Not available for sale at any dock. [[Category:Not Purchasable]]
+==Encyclopedia Entry==
+This weapon is of Kha'ak Origin. It generates and emits Kyon particles that line up in a straight line. How these particles are generated is not currently known. This version is more powerful than the Alpha or Beta Versions and is most commonly found on Kha'ak Capital Craft.
+
+==Commentary==
+The Gamma KE version is showing its age. With a shorter range than Commonwealth capital weapons and very low attack power, this laser is quite underwhelming. It is still lethal to fighters however, being a [[Weapons#Beam weapons|beam weapon]], and can severely damage some frigates, though even Kha'ak destroyers can easily be killed by anti-capital equipped frigates. It also suffers from massive energy drain, and is highly inefficient- more so than any of the other kyon weapons. Interestingly, the Terraformer [[#Deca]] mothership can utilise these lasers. 
+The only reason a player would spend any amount of time in the hostile Kha'ak sector for these is if they'd used the 'double-boarding' exploit to capture the #Deca during the terran plot, since the Kyon lasers are the only weapons it can use. Otherwise, they are useless: low resale price, no compatible player-ownable ships and general difficulty to acquire.
+
+==Known Compatible Ships==
+==Available at Known Docks==
+Not available for sale at any dock.
+[[Category:Not Purchasable]]

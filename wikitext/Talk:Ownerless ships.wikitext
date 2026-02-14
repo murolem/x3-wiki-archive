@@ -1,3 +1,12 @@
-<!-- source file: index__qe4f4b8b7ea18.html -->
+The Iguana is at position 38000,0,35500, not 0,0,40000 - but the spam filter won't let me save the page (because of the link to the external site?) [[Special:Contributions/124.168.125.34|124.168.125.34]] 07:52, 24 March 2011 (CDT)
 
-The Iguana is at position 38000,0,35500, not 0,0,40000 - but the spam filter won't let me save the page (because of the link to the external site?) [[Special:Contributions/124.168.125.34|124.168.125.34]] 07:52, 24 March 2011 (CDT) yup. it's that little reference at the bottom to x3tc. way around that would be to unlink it. like so. [[User:Madned|Madned]] 05:14, 26 March 2011 (CDT) == lampy == hello, all == Зароботок на загрузке файловигры онлайн,игры новие,бесплатные игры,лучшие игры, новые игры,бесплатно скачать игры для мобильных телефо == Онлайн игры, аркадные игры, мини игры, игры для взрослых.
+yup. it's that little reference at the bottom to x3tc. way around that would be to unlink it. like so. [[User:Madned|Madned]] 05:14, 26 March 2011 (CDT)
+
+== lampy ==
+
+hello, all
+
+== Зароботок на загрузке файловигры онлайн,игры новие,бесплатные игры,лучшие игры, новые игры,бесплатно скачать игры для мобильных телефо ==
+
+ 
+Онлайн игры, аркадные игры, мини игры, игры для взрослых.

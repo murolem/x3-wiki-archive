@@ -1,3 +1,28 @@
-<!-- source file: index__qf385cf4fceb9.html -->
+{{Infobox open}}
+{{Infobox basicstation
+|faction=Paranid
+|station=Trading Station
+|hull=
+|shield=
+|generator=
+|hangar=
+|stationprice={{priceblock||}}
+}}
+{{Infobox close}}
+==Overview==
+[[Trading Station]]
+==Encyclopedia Entry==
+===Text===
 
-{{Infobox open}} {{Infobox basicstation |faction=Paranid |station=Trading Station |hull= |shield= |generator= |hangar= |stationprice={{priceblock||}} }} {{Infobox close}} ==Overview== [[Trading Station]] ==Encyclopedia Entry== ===Text=== ===Voice Over=== ==Availability== While for sale, Player Trading Stations and Equipment Docks are of limited utility since they don't come with the standard services. {| style="text-align:left;" |- valign="top" | |} {{Stationcategory}} {{stub}}
+===Voice Over===
+
+==Availability==
+While for sale, Player Trading Stations and Equipment Docks are of limited utility since they don't come with the standard services.
+{| style="text-align:left;"
+|- valign="top"
+| 
+|}
+
+
+{{Stationcategory}}
+{{stub}}

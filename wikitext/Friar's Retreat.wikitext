@@ -1,3 +1,31 @@
-<!-- source file: index__q0852133ae30b.html -->
+{{Infobox Sector
+|Race=Paranid
+|SecLevel=Border
+|Population=92,074,805
+|Planets=2
+|SunLevel=150
+|GateDist=60
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|	0|	29232|[[Cardinal's Domain]]}}
+{{Gateblock2|East|29232|	0|	0|[[Pontifex' Seclusion]]}}
+{{Gateblock2|South|0|	0|	-48067|[[Consecrated Fire]]}}
+{{Gateblock2|West|-29232|	0|	0|[[Spring Of Belief]]}}
+{{Gateblock/End}}
+}}
+==Description==
+This sector is occupied by one planet and the remains of its only moon. It is unknown how the moon was destroyed in this manner, but the fallout has caused the planet's atmosphere to become irradiated, leaving it deadly to all forms of life. When the Paranid moved in, they set up a standard colony with basic resources. Hopefully in time more will be built.
 
-{{Infobox Sector |Race=Paranid |SecLevel=Border |Population=92,074,805 |Planets=2 |SunLevel=150 |GateDist=60 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0| 0| 29232|[[Cardinal's Domain]]}} {{Gateblock2|East|29232| 0| 0|[[Pontifex' Seclusion]]}} {{Gateblock2|South|0| 0| -48067|[[Consecrated Fire]]}} {{Gateblock2|West|-29232| 0| 0|[[Spring Of Belief]]}} {{Gateblock/End}} }} ==Description== This sector is occupied by one planet and the remains of its only moon. It is unknown how the moon was destroyed in this manner, but the fallout has caused the planet's atmosphere to become irradiated, leaving it deadly to all forms of life. When the Paranid moved in, they set up a standard colony with basic resources. Hopefully in time more will be built. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|14|1463|14572|642}} {{Asteroid/Item|Ore|11|-6262|11757|4617}} {{Asteroid/Item|Ore|5|6906|7871|7482}} {{Asteroid/Item|Silicon|26|10541|35165|331}} {{Asteroid/Item|Silicon|15|3036|29464|7251}} {{Asteroid/End}} == See Also == {{Paranid Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|14|1463|14572|642}}
+{{Asteroid/Item|Ore|11|-6262|11757|4617}}
+{{Asteroid/Item|Ore|5|6906|7871|7482}}
+{{Asteroid/Item|Silicon|26|10541|35165|331}}
+{{Asteroid/Item|Silicon|15|3036|29464|7251}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Paranid Navbox}}

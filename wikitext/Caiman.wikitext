@@ -1,3 +1,445 @@
-<!-- source file: index__qcf1cd37c1f56.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= Caiman
+|Faction= Split
+|Class={{TSclass}}
+|Priceblock={{Priceblock|| 216360 }}
+|Minspeed= 69.4
+|Maxspeed= 124.4
+|Minaccel= 4
+|Maxaccel= 7
+|Minsteer= 3.3
+|Maxsteer= 5.9
+|Hull= 16,000
+|Maxshield= 25 MJ
+|Shieldslots= 2
+|Maxshieldstrength= 50
+|Shieldreactor= 500
+|Cargoclass= XL
+|Mincargo= 2500
+|Maxcargo= 3500
+|Lasercap= 2100
+|Laserrecharge= 21
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Caiman Hauler
+|Faction= Split
+|Class= {{TSclass}}
+|Priceblock= {{Priceblock|| 873658}}
+|Minspeed= 55.5
+|Maxspeed= 99.9
+|Minaccel= 3
+|Maxaccel= 6
+|Minsteer= 2.3
+|Maxsteer= 4.1
+|Hull= 15200
+|Maxshield= 25 MJ
+|Shieldslots= 3
+|Maxshieldstrength= 75
+|Shieldreactor= 500
+|Cargoclass= XL
+|Mincargo= 5000
+|Maxcargo= 7000
+|Lasercap= 2100
+|Laserrecharge= 21
+|Gunbay= <table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot= Main
+|Guncount= 4
+|ire=1|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot= Rear
+|Guncount= 1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Caiman Miner
+|Faction= Split
+|Class= {{TSclass}}
+|Priceblock= {{Priceblock|| 1818871 }}
+|Minspeed= 50
+|Maxspeed= 90
+|Minaccel= 3
+|Maxaccel= 6
+|Minsteer= 3.9
+|Maxsteer= 6.9
+|Hull= 15200
+|Maxshield= 25 MJ
+|Shieldslots= 3
+|Maxshieldstrength= 75
+|Shieldreactor= 500
+|Cargoclass= XL
+|Mincargo= 4500
+|Maxcargo= 7000
+|Lasercap= 2200
+|Laserrecharge= 22
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=4
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Caiman Super Freighter
+|Faction= Split
+|Class= {{TSclass}}
+|Priceblock= {{Priceblock|| 959358}}
+|Minspeed= 53.4
+|Maxspeed= 96.2
+|Minaccel= 3
+|Maxaccel= 6
+|Minsteer= 2.0
+|Maxsteer= 3.6
+|Hull= 15200
+|Maxshield= 25 MJ
+|Shieldslots= 4
+|Maxshieldstrength= 100
+|Shieldreactor= 550
+|Cargoclass= XL
+|Mincargo= 4625
+|Maxcargo= 6475
+|Lasercap= 2100
+|Laserrecharge= 21
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot= Main
+|Guncount= 4
+|ire=1|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot= Rear
+|Guncount= 1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Caiman Super Freighter XL
+|Faction= Split
+|Class= {{TSclass}}
+|Priceblock= {{Priceblock|| 2665721}}
+|Minspeed= 49.9
+|Maxspeed= 89.9
+|Minaccel= 4
+|Maxaccel= 7
+|Minsteer= 1.5
+|Maxsteer= 2.8
+|Hull= 13600
+|Maxshield= 25 MJ
+|Shieldslots= 4
+|Maxshieldstrength= 100
+|Shieldreactor= 550
+|Cargoclass= XL
+|Mincargo= 7375
+|Maxcargo= 10325
+|Lasercap= 2100
+|Laserrecharge= 21
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot= Main
+|Guncount= 4
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot= Rear
+|Guncount= 1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Caiman Tanker
+|Faction= Split
+|Class= {{TSclass}}
+|Priceblock= {{Priceblock|| 392527}}
+|Minspeed= 69.4
+|Maxspeed= 124.9
+|Minaccel= 4
+|Maxaccel= 7
+|Minsteer= 3.3
+|Maxsteer= 5.9
+|Hull= 16000
+|Maxshield= 25 MJ
+|Shieldslots= 2
+|Maxshieldstrength= 50
+|Shieldreactor= 500
+|Cargoclass= XL
+|Mincargo= 2500
+|Maxcargo= 3500
+|Lasercap= 2100
+|Laserrecharge= 21
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot= Rear
+|Guncount= 1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Caiman Tanker XL
+|Faction=Split
+|Class={{TSclass}}
+|Priceblock={{Priceblock|| 959358}}
+|Minspeed= 45.1
+|Maxspeed= 81.2
+|Minaccel= 2
+|Maxaccel= 5
+|Minsteer= 1.8
+|Maxsteer= 3.2
+|Hull= 16000
+|Maxshield= 25 MJ
+|Shieldslots= 4
+|Maxshieldstrength= 100
+|Shieldreactor= 500
+|Cargoclass= XL
+|Mincargo= 4750
+|Maxcargo= 6650
+|Lasercap= 2100
+|Laserrecharge= 21
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot= Main
+|Guncount= 4
+|ire=1|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot= Rear
+|Guncount= 1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The [[Split]] '''Caiman''' is the smallest TS, but aside from the [[Mistral]] it is also the fastest. Since speed is widely regarded as being more important than cargo capacity, the Caiman is one of the most commonly used freighters.
 
-{{Infobox open}} {{Infobox variant |Variant= Caiman |Faction= Split |Class={{TSclass}} |Priceblock={{Priceblock|| 216360 }} |Minspeed= 69.4 |Maxspeed= 124.4 |Minaccel= 4 |Maxaccel= 7 |Minsteer= 3.3 |Maxsteer= 5.9 |Hull= 16,000 |Maxshield= 25 MJ |Shieldslots= 2 |Maxshieldstrength= 50 |Shieldreactor= 500 |Cargoclass= XL |Mincargo= 2500 |Maxcargo= 3500 |Lasercap= 2100 |Laserrecharge= 21 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant= Caiman Hauler |Faction= Split |Class= {{TSclass}} |Priceblock= {{Priceblock|| 873658}} |Minspeed= 55.5 |Maxspeed= 99.9 |Minaccel= 3 |Maxaccel= 6 |Minsteer= 2.3 |Maxsteer= 4.1 |Hull= 15200 |Maxshield= 25 MJ |Shieldslots= 3 |Maxshieldstrength= 75 |Shieldreactor= 500 |Cargoclass= XL |Mincargo= 5000 |Maxcargo= 7000 |Lasercap= 2100 |Laserrecharge= 21 |Gunbay= &lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot= Main |Guncount= 4 |ire=1|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot= Rear |Guncount= 1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant= Caiman Miner |Faction= Split |Class= {{TSclass}} |Priceblock= {{Priceblock|| 1818871 }} |Minspeed= 50 |Maxspeed= 90 |Minaccel= 3 |Maxaccel= 6 |Minsteer= 3.9 |Maxsteer= 6.9 |Hull= 15200 |Maxshield= 25 MJ |Shieldslots= 3 |Maxshieldstrength= 75 |Shieldreactor= 500 |Cargoclass= XL |Mincargo= 4500 |Maxcargo= 7000 |Lasercap= 2200 |Laserrecharge= 22 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=4 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Rear |Guncount=1 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }}&lt;/table> |Dockbay= }} {{Infobox variant |Variant= Caiman Super Freighter |Faction= Split |Class= {{TSclass}} |Priceblock= {{Priceblock|| 959358}} |Minspeed= 53.4 |Maxspeed= 96.2 |Minaccel= 3 |Maxaccel= 6 |Minsteer= 2.0 |Maxsteer= 3.6 |Hull= 15200 |Maxshield= 25 MJ |Shieldslots= 4 |Maxshieldstrength= 100 |Shieldreactor= 550 |Cargoclass= XL |Mincargo= 4625 |Maxcargo= 6475 |Lasercap= 2100 |Laserrecharge= 21 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot= Main |Guncount= 4 |ire=1|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot= Rear |Guncount= 1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }}&lt;/table> |Dockbay= }} {{Infobox variant |Variant= Caiman Super Freighter XL |Faction= Split |Class= {{TSclass}} |Priceblock= {{Priceblock|| 2665721}} |Minspeed= 49.9 |Maxspeed= 89.9 |Minaccel= 4 |Maxaccel= 7 |Minsteer= 1.5 |Maxsteer= 2.8 |Hull= 13600 |Maxshield= 25 MJ |Shieldslots= 4 |Maxshieldstrength= 100 |Shieldreactor= 550 |Cargoclass= XL |Mincargo= 7375 |Maxcargo= 10325 |Lasercap= 2100 |Laserrecharge= 21 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot= Main |Guncount= 4 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot= Rear |Guncount= 1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }}&lt;/table> |Dockbay= }} {{Infobox variant |Variant= Caiman Tanker |Faction= Split |Class= {{TSclass}} |Priceblock= {{Priceblock|| 392527}} |Minspeed= 69.4 |Maxspeed= 124.9 |Minaccel= 4 |Maxaccel= 7 |Minsteer= 3.3 |Maxsteer= 5.9 |Hull= 16000 |Maxshield= 25 MJ |Shieldslots= 2 |Maxshieldstrength= 50 |Shieldreactor= 500 |Cargoclass= XL |Mincargo= 2500 |Maxcargo= 3500 |Lasercap= 2100 |Laserrecharge= 21 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot= Rear |Guncount= 1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant= Caiman Tanker XL |Faction=Split |Class={{TSclass}} |Priceblock={{Priceblock|| 959358}} |Minspeed= 45.1 |Maxspeed= 81.2 |Minaccel= 2 |Maxaccel= 5 |Minsteer= 1.8 |Maxsteer= 3.2 |Hull= 16000 |Maxshield= 25 MJ |Shieldslots= 4 |Maxshieldstrength= 100 |Shieldreactor= 500 |Cargoclass= XL |Mincargo= 4750 |Maxcargo= 6650 |Lasercap= 2100 |Laserrecharge= 21 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot= Main |Guncount= 4 |ire=1|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot= Rear |Guncount= 1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The [[Split]] '''Caiman''' is the smallest TS, but aside from the [[Mistral]] it is also the fastest. Since speed is widely regarded as being more important than cargo capacity, the Caiman is one of the most commonly used freighters. ==Background== The prototype replacement for the Mule, it was almost destroyed in the [[Dragon#Background|Dragon Incident]], but then managed to save 100 people who were nearly killed as the docking crew tried to escape. The Caiman Project went on in [[Cho's Defeat]] where it was eventually completed, and put into service taking supplies to rebuild the shipyard in [[Family Pride]]. The ship is armed with a single turret and is slightly faster than its predecessor. ==Physical Characteristics== The Caiman is easily recognizable, with an angular, rusty-red hull. ==Variants== ===Caiman=== {{regular}} The standard Caiman has one set of cargo boxes. ===Caiman Hauler=== {{hauler}} Caiman Haulers have two sets of cargo boxes. ===Caiman Miner=== {{miner}} Caiman Miners have two sets of cargo boxes. ===Caiman Super Freighter=== {{super freighter}} Caiman Super Freighters are identified by one set of cargo boxes and one set of tanks. ===Caiman Super Freighter XL=== {{super freighter xl}} Caiman Super Freighter XLs have two sets each of cargo boxes and tanks. ===Caiman Tanker=== {{tanker}} Caiman Tankers have one set of tanks. ===Caiman Tanker XL=== {{tanker xl}} Caiman Tanker XLs have two sets of tanks. == Combat == The Caiman has weaker shields than most TS class ships, so its ability to stand and fight is severely compromised. However, since all TS-class ships defend themselves best by running to the nearest combat vessel, the Caiman has something of an edge over its counterparts. == Equipment == ===Preinstalled=== All versions of the Caiman come with [[Trade Command Software#Trade_Command_Software_Mk1|Trade Command Software Mk1]] built in. ===Missiles=== *[[Mosquito Missile]] *[[Dragonfly Missile]] *[[Firefly Missile]] *[[Aurora Missile]] *[[Rapier Missile]] *[[Firelance Missile]] == Availability == At least one version of the Caiman is available at every [[Split Shipyard]]. {| style="text-align:center;" cellpadding="3" |+ '''Availability''' |- style="{{Colour/Split}}" ! Variant !! [[Cho's Defeat]] !! [[Family Njy]] !! [[Family Pride]] !! [[Family Rhy]] !! [[Family Tkr]] !! [[Patriarch's Conclusion]] !! [[Rhonkar's Might]] !! [[Rhonkar's Trial]] !! [[Zyarth's Dominion]] |- ! Caiman || || || X || X || || X || X || X || X |- ! Caiman Hauler || || || || || || X || || X || X |- ! Caiman Miner || || || X || X || || X || X || X || X |- ! Caiman Super Freighter || || || || X || X || X || X || X || X |- ! Caiman Super Freighter XL || || X || || || || X || || X || X |- ! Caiman Tanker || || X || || || || X || || X || X |- ! Caiman Tanker XL || X || || || || || X || || X || X |} == Suggested Roles== Due to its speed, the Caiman excels at trading in high-competition environments. == See Also== {{TS}} {{Split Navbox}}
+==Background==
+The prototype replacement for the Mule, it was almost destroyed in the [[Dragon#Background|Dragon Incident]], but then managed to save 100 people who were nearly killed as the docking crew tried to escape. The Caiman Project went on in [[Cho's Defeat]] where it was eventually completed, and put into service taking supplies to rebuild the shipyard in [[Family Pride]].  The ship is armed with a single turret and is slightly faster than its predecessor.
+
+==Physical Characteristics==
+The Caiman is easily recognizable, with an angular, rusty-red hull.
+
+==Variants==
+===Caiman===
+{{regular}}
+
+The standard Caiman has one set of cargo boxes.
+
+===Caiman Hauler===
+{{hauler}}
+
+Caiman Haulers have two sets of cargo boxes.
+
+===Caiman Miner===
+{{miner}}
+
+Caiman Miners have two sets of cargo boxes.
+
+===Caiman Super Freighter===
+{{super freighter}}
+
+Caiman Super Freighters are identified by one set of cargo boxes and one set of tanks.
+
+===Caiman Super Freighter XL===
+{{super freighter xl}}
+
+Caiman Super Freighter XLs have two sets each of cargo boxes and tanks.
+
+===Caiman Tanker===
+{{tanker}}
+
+Caiman Tankers have one set of tanks.
+
+===Caiman Tanker XL===
+{{tanker xl}}
+
+Caiman Tanker XLs have two sets of tanks.
+
+== Combat ==
+The Caiman has weaker shields than most TS class ships, so its ability to stand and fight is severely compromised. However, since all TS-class ships defend themselves best by running to the nearest combat vessel, the Caiman has something of an edge over its counterparts.
+
+== Equipment ==
+===Preinstalled===
+All versions of the Caiman come with [[Trade Command Software#Trade_Command_Software_Mk1|Trade Command Software Mk1]] built in.
+
+===Missiles===
+*[[Mosquito Missile]]
+*[[Dragonfly Missile]]
+*[[Firefly Missile]]
+*[[Aurora Missile]]
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+
+== Availability ==
+At least one version of the Caiman is available at every [[Split Shipyard]].
+
+{| style="text-align:center;" cellpadding="3"
+|+ '''Availability'''
+|- style="{{Colour/Split}}"
+! Variant !! [[Cho's Defeat]] !! [[Family Njy]] !! [[Family Pride]] !! [[Family Rhy]] !! [[Family Tkr]] !! [[Patriarch's Conclusion]] !! [[Rhonkar's Might]] !! [[Rhonkar's Trial]] !! [[Zyarth's Dominion]]
+|-
+! Caiman                    ||   ||   || X || X ||   || X || X || X || X
+|-
+! Caiman Hauler             ||   ||   ||   ||   ||   || X ||   || X || X
+|-
+! Caiman Miner              ||   ||   || X || X ||   || X || X || X || X
+|-
+! Caiman Super Freighter    ||   ||   ||   || X || X || X || X || X || X
+|-
+! Caiman Super Freighter XL ||   || X ||   ||   ||   || X ||   || X || X
+|-
+! Caiman Tanker             ||   || X ||   ||   ||   || X ||   || X || X
+|-
+! Caiman Tanker XL          || X ||   ||   ||   ||   || X ||   || X || X
+|}
+
+== Suggested Roles==
+Due to its speed, the Caiman excels at trading in high-competition environments.
+
+== See Also==
+{{TS}}
+
+
+{{Split Navbox}}

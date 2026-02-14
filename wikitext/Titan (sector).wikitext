@@ -1,3 +1,21 @@
-<!-- source file: index__qf85471b9a060.html -->
+{{Infobox Sector
+|Race=Terran
+|SecLevel=Core
+|Population=9368009
+|Planets=2
+|SunLevel=150
+|GateDist=80
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|South|14000|	3000|	-31000|[[Saturn]]}}
+{{Gateblock/End}}
+}}
+==Description==
+Within the cold dark seas of Titan, many see the primordial beginnings of a future home alongside Earth. Left untouched by terraforming, for now that future remains unblemished.
 
-{{Infobox Sector |Race=Terran |SecLevel=Core |Population=9368009 |Planets=2 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|South|14000| 3000| -31000|[[Saturn]]}} {{Gateblock/End}} }} ==Description== Within the cold dark seas of Titan, many see the primordial beginnings of a future home alongside Earth. Left untouched by terraforming, for now that future remains unblemished. ==Default [[Stations]]== ==[[Asteroids]]== No asteroid known in this sector == See Also == {{Terran Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+No asteroid known in this sector
+
+== See Also ==
+{{Terran Navbox}}

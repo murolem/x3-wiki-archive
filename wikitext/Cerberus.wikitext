@@ -1,3 +1,328 @@
-<!-- source file: index__q9cd46de69550.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Cerberus
+|Faction=Argon
+|Class={{M7class}}
+|Priceblock={{Priceblock|Federation Marshall| 36098766}}
+|Minspeed=56.5 
+|Maxspeed=101.70
+|Minaccel=4
+|Maxaccel=8
+|Minsteer=1.9 
+|Maxsteer=3.5
+|Hull=150000
+|Maxshield=1 GJ
+|Shieldslots=3
+|Maxshieldstrength=3000
+|Shieldreactor= 5500
+|Cargoclass=XL
+|Mincargo=3100 
+|Maxcargo=4200
+|Lasercap=63000
+|Laserrecharge=2199
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=0|hept=1|
+cig=1|ppc=0|
+md=0|us=1|prg=0|
+cfaa=1|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Top
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=1|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=2
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=0|
+cfaa=1|pbc=1|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=2
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=0|
+cfaa=1|pbc=1|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Bottom
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=1|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay={{Dockbay|6 [[M3+]]-[[M5]]}}
+}}
+{{Infobox variant
+|Variant=Cerberus (Albion Prelude)
+|Faction=Argon
+|Class={{M7class}}
+|Priceblock={{Priceblock|Federation Marshall| 36098766}}
+|Minspeed=56.5 
+|Maxspeed=101.70
+|Minaccel=4
+|Maxaccel=8
+|Minsteer=1.9 
+|Maxsteer=3.5
+|Hull=600000
+|Maxshield=1 GJ
+|Shieldslots=4
+|Maxshieldstrength=4000
+|Shieldreactor= 5500
+|Cargoclass=XL
+|Mincargo=3100 
+|Maxcargo=4200
+|Lasercap=63000
+|Laserrecharge=2199
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=0|hept=1|
+cig=1|ppc=0|
+md=0|us=1|prg=0|
+cfaa=1|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Top
+|Guncount=4
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=1|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=4
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=2
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=0|
+cfaa=1|pbc=1|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=2
+|ire=0|pac=0|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=0|
+cfaa=1|pbc=1|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Bottom
+|Guncount=4
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=1|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay={{Dockbay|10 [[M3+]]-[[M5]]}}
+}}
+{{Infobox close}}
+==Overview==
+The [[Argon]] Cerberus equipped with flak weapons is widely regarded as one of the prime choices for a fleet anti-fighter frigate, but is otherwise unexceptional and lacks the ability many other frigates possess of taking on other Capital-class ships successfully.
 
-{{Infobox open}} {{Infobox variant |Variant=Cerberus |Faction=Argon |Class={{M7class}} |Priceblock={{Priceblock|Federation Marshall| 36098766}} |Minspeed=56.5 |Maxspeed=101.70 |Minaccel=4 |Maxaccel=8 |Minsteer=1.9 |Maxsteer=3.5 |Hull=150000 |Maxshield=1 GJ |Shieldslots=3 |Maxshieldstrength=3000 |Shieldreactor= 5500 |Cargoclass=XL |Mincargo=3100 |Maxcargo=4200 |Lasercap=63000 |Laserrecharge=2199 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=0|hept=1| cig=1|ppc=0| md=0|us=1|prg=0| cfaa=1|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Top |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=1|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Rear |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Left |Guncount=2 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=1|us=0|prg=0| cfaa=1|pbc=1|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Right |Guncount=2 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=1|us=0|prg=0| cfaa=1|pbc=1|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Bottom |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=1|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay={{Dockbay|6 [[M3+]]-[[M5]]}} }} {{Infobox variant |Variant=Cerberus (Albion Prelude) |Faction=Argon |Class={{M7class}} |Priceblock={{Priceblock|Federation Marshall| 36098766}} |Minspeed=56.5 |Maxspeed=101.70 |Minaccel=4 |Maxaccel=8 |Minsteer=1.9 |Maxsteer=3.5 |Hull=600000 |Maxshield=1 GJ |Shieldslots=4 |Maxshieldstrength=4000 |Shieldreactor= 5500 |Cargoclass=XL |Mincargo=3100 |Maxcargo=4200 |Lasercap=63000 |Laserrecharge=2199 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=0|hept=1| cig=1|ppc=0| md=0|us=1|prg=0| cfaa=1|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Top |Guncount=4 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=1|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Rear |Guncount=4 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Left |Guncount=2 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=1|us=0|prg=0| cfaa=1|pbc=1|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Right |Guncount=2 |ire=0|pac=0|hept=1| cig=1|ppc=0| md=1|us=0|prg=0| cfaa=1|pbc=1|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Bottom |Guncount=4 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=1|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay={{Dockbay|10 [[M3+]]-[[M5]]}} }} {{Infobox close}} ==Overview== The [[Argon]] Cerberus equipped with flak weapons is widely regarded as one of the prime choices for a fleet anti-fighter frigate, but is otherwise unexceptional and lacks the ability many other frigates possess of taking on other Capital-class ships successfully. ==Background== The Cerberus was designed in the face of the increasing threat of Xenon and Pirate raiders. It boasts impressive weapons arrays, mainly intended to engage fighters and corvettes, although it can also hold its own against larger threats. ==Physical Characteristics== The Cerberus is of average to small size for an M7, and is of a grey cuboid design typical of Argon capital ships. == Combat == The Cerberus particularly excels as a flak platform but underperforms as a Corvette/Capital ship combat vessel. Though a tough as nails anti-fighter weapons platform, it is worth every penny of the 30+ million purchase price. In Albion Prelude, the Cerberus can mount 4 shields instead of 3, increasing its longevity. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] *[[Hornet Missile]] | *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] *[[Hurricane Missile]] | *[[Cyclone Missile]] *[[Tornado Missile]] *[[Typhoon Missile]] *[[Firestorm Torpedo]] *[[Aurora Missile]] | *[[Remote Guided Warhead]] *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] | *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == Purchasable at Argon Shipyards == Suggested Roles== Cerberuses are often deployed with heavy flak weapons to serve as anti-fighter fleet support ships. The Cerberus makes an excellent escort ship for large destroyers. Capital-class weapons like the PPC and PSP have difficulty hitting speedy fighters, who may avoid the arc of an M2's flak weapons entirely. The Cerberus can easily maneuver into position to take out these threats. The Cerberus cannot take on Capital Ships, due to its weapons being too weak to penetrate the shields. '''Good as''' Anti-fighter ship Sector patrol Base Defense Pirate Hunter Mini carrier, due to its 6 fighter slots Rapid Response Frigate '''Poor as''' Capital Ship killer, because it has inadequate anti-capital ship weaponry unless it is equipped with Firestorms, Hammerheads, and/or Typhoons. Trading Deep Space engagements Point Defense, as the Cerberus is too slow to intercept missiles with its guns. Fleet escort, as its pricing point for its abilities are far to expensive to justify == Albion Prelude == The Cerberus was buffed in Albion Prelude to include 4GJ of shielding, more weapons (on its dorsal, ventral and rear turrets) and a larger hanger (up to 10x fighters.) While this makes it more of a contender among M7s and an even more awesome anti-fighter escort, its ability to mount anti-capital weapons is still pretty limited. The Cerberus is one of the few ships compatible with the [[Plasma Beam Cannon]] which, depending on the role you have in mind for it, may be a better option for the side turrets, assuming you can acquire some... == See Also== *[[Griffon|Argon Griffon]] *[[Minotaur|Argon Minotaur]] {{M7}} [[Category: Carrier]] {{Argon Navbox}}
+==Background==
+The Cerberus was designed in the face of the increasing threat of Xenon and Pirate raiders. It boasts impressive weapons arrays, mainly intended to engage fighters and corvettes, although it can also hold its own against larger threats.
+==Physical Characteristics==
+The Cerberus is of average to small size for an M7, and is of a grey cuboid design typical of Argon capital ships.
+
+== Combat ==
+The Cerberus particularly excels as a flak platform but underperforms as a Corvette/Capital ship combat vessel.  Though a tough as nails anti-fighter weapons platform, it is worth every penny of the 30+ million purchase price.
+
+In Albion Prelude, the Cerberus can mount 4 shields instead of 3, increasing its longevity.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+*[[Hornet Missile]]
+|
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+*[[Hurricane Missile]]
+|
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Typhoon Missile]]
+*[[Firestorm Torpedo]]
+*[[Aurora Missile]]
+|
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+|
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+== Availability ==
+Purchasable at Argon Shipyards
+
+== Suggested Roles==
+Cerberuses are often deployed with heavy flak weapons to serve as anti-fighter fleet support ships.
+
+The Cerberus makes an excellent escort ship for large destroyers.  Capital-class weapons like the PPC and PSP have difficulty hitting speedy fighters, who may avoid the arc of an M2's flak weapons entirely.  The Cerberus can easily maneuver into position to take out these threats.
+
+The Cerberus cannot take on Capital Ships, due to its weapons being too weak to penetrate the shields. 
+
+'''Good as'''
+
+Anti-fighter ship
+
+Sector patrol
+
+Base Defense
+
+Pirate Hunter
+
+Mini carrier, due to its 6 fighter slots
+
+Rapid Response Frigate
+
+'''Poor as'''
+
+Capital Ship killer, because it has inadequate anti-capital ship weaponry unless it is equipped with Firestorms, Hammerheads, and/or Typhoons.
+
+Trading
+
+Deep Space engagements
+
+Point Defense, as the Cerberus is too slow to intercept missiles with its guns.
+
+Fleet escort, as its pricing point for its abilities are far to expensive to justify
+
+== Albion Prelude ==
+
+The Cerberus was buffed in Albion Prelude to include 4GJ of shielding, more weapons (on its dorsal, ventral and rear turrets) and a larger hanger (up to 10x fighters.) While this makes it more of a contender among M7s and an even more awesome anti-fighter escort, its ability to mount anti-capital weapons is still pretty limited. 
+
+The Cerberus is one of the few ships compatible with the [[Plasma Beam Cannon]] which, depending on the role you have in mind for it, may be a better option for the side turrets, assuming you can acquire some... 
+
+== See Also==
+
+*[[Griffon|Argon Griffon]]
+*[[Minotaur|Argon Minotaur]]
+
+{{M7}}
+[[Category: Carrier]]
+{{Argon Navbox}}

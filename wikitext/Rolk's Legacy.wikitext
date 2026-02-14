@@ -1,3 +1,41 @@
-<!-- source file: index__q2d4aa4a31377.html -->
+{{Infobox Sector
+|Race=Boron
+|SecLevel=Core
+|Population=19,589,693
+|Planets=3
+|SunLevel=150
+|GateDist=90
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|	30375|	30735|[[Montalaar]]}}
+{{Gateblock2|East|45360|	0|	0|[[Great Trench]]}}
+{{Gateblock2|South|-9000|	0|	-42250|[[Gunne's Crusade]]}}
+{{Gateblock2|West|-45360|	0|	0|[[Lucky Planets]]}}
+{{Gateblock/End}}
+}}
+==Description==
+This new Boron colony is being constructed with the aid of the [[Argon]]. After heavy losses in the Split and Xenon conflicts the Boron are eager not to confine themselves to one cluster of systems as they have in the past. The foundations of the thriving mining colony have already been completed and stage two is well underway.
 
-{{Infobox Sector |Race=Boron |SecLevel=Core |Population=19,589,693 |Planets=3 |SunLevel=150 |GateDist=90 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0| 30375| 30735|[[Montalaar]]}} {{Gateblock2|East|45360| 0| 0|[[Great Trench]]}} {{Gateblock2|South|-9000| 0| -42250|[[Gunne's Crusade]]}} {{Gateblock2|West|-45360| 0| 0|[[Lucky Planets]]}} {{Gateblock/End}} }} ==Description== This new Boron colony is being constructed with the aid of the [[Argon]]. After heavy losses in the Split and Xenon conflicts the Boron are eager not to confine themselves to one cluster of systems as they have in the past. The foundations of the thriving mining colony have already been completed and stage two is well underway. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|8|-41171|-6735|16732}} {{Asteroid/Item|Ore|8|13615|-3723|5533}} {{Asteroid/Item|Ore|8|-23674|-13744|-476}} {{Asteroid/Item|Ore|8|-13717|8149|-18820}} {{Asteroid/Item|Ore|7|-23178|-1273|29796}} {{Asteroid/Item|Ore|7|-24082|-7457|-8066}} {{Asteroid/Item|Ore|6|10951|3681|12037}} {{Asteroid/Item|Ore|6|-16053|-4040|-12492}} {{Asteroid/Item|Silicon|23|6097|6717|-21952}} {{Asteroid/Item|Silicon|23|-880|-6403|-23050}} {{Asteroid/Item|Silicon|19|3454|-4766|-14076}} {{Asteroid/Item|Silicon|19|-6181|-8784|-15185}} {{Asteroid/Item|Silicon|16|-4795|529|4061}} {{Asteroid/Item|Silicon|16|26933|3716|-14185}} {{Asteroid/Item|Silicon|4|22489|480|-4269}} {{Asteroid/Item|Silicon|4|13816|12866|-33530}} {{Asteroid/End}} == See Also == {{Boron Navbox}}
+==Default [[Stations]]==
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|8|-41171|-6735|16732}}
+{{Asteroid/Item|Ore|8|13615|-3723|5533}}
+{{Asteroid/Item|Ore|8|-23674|-13744|-476}}
+{{Asteroid/Item|Ore|8|-13717|8149|-18820}}
+{{Asteroid/Item|Ore|7|-23178|-1273|29796}}
+{{Asteroid/Item|Ore|7|-24082|-7457|-8066}}
+{{Asteroid/Item|Ore|6|10951|3681|12037}}
+{{Asteroid/Item|Ore|6|-16053|-4040|-12492}}
+{{Asteroid/Item|Silicon|23|6097|6717|-21952}}
+{{Asteroid/Item|Silicon|23|-880|-6403|-23050}}
+{{Asteroid/Item|Silicon|19|3454|-4766|-14076}}
+{{Asteroid/Item|Silicon|19|-6181|-8784|-15185}}
+{{Asteroid/Item|Silicon|16|-4795|529|4061}}
+{{Asteroid/Item|Silicon|16|26933|3716|-14185}}
+{{Asteroid/Item|Silicon|4|22489|480|-4269}}
+{{Asteroid/Item|Silicon|4|13816|12866|-33530}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Boron Navbox}}

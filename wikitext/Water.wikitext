@@ -1,3 +1,48 @@
-<!-- source file: index__q616f6d53f9ed.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Water
+|cargoclass=S
+|volume=2
+|minprice=10
+|aveprice=32
+|maxprice=54
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+Since the transport of water from Earth to outlying settlements was severely hampered by the increase in security imposed on the Earth sector by the AGI Task Force, the exploitation of water in remote asteroids has become vital to the Terran fleet and outposts.
+==Commentary==
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Water Purification Plant]]
+|
+*[[EMP Rifle Assembly Facility]]
+*[[Ghoul Missile Manufacturing Plant]]
+*[[Phantom Missile Production Facility]]
+*[[Poltergeist Missile Production Facility]]
+*[[Spectre Missile Production Facility]]
+*[[USC Food Supply Factory]]
+*[[Wraith Missile Production Plant]]
+|
+*[[Electro-Magnetic Plasma Cannon Forge]]
+*[[Food Preparation Facility]]
+*[[Hull Plating Production Facility]]
+*[[Keris Drone Factory]]
+*[[Matter/Anti-matter Launcher Forge]]
+*[[Matter/Anti-Matter Mine Fab]]
+*[[Point Singularity Projector Forge]]
+*[[Starburst Shockwave Cannon Forge]]
+|
+*[[Earth Torus]]
+*[[USC Orbital Logistics Dock]]
+*[[USC Orbital Supply Base]]
+*[[USC Orbital Support Station]]
+|}
 
-{{Infobox open}} {{Infobox ware |ware= Water |cargoclass=S |volume=2 |minprice=10 |aveprice=32 |maxprice=54 }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== Since the transport of water from Earth to outlying settlements was severely hampered by the increase in security imposed on the Earth sector by the AGI Task Force, the exploitation of water in remote asteroids has become vital to the Terran fleet and outposts. ==Commentary== ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Water Purification Plant]] | *[[EMP Rifle Assembly Facility]] *[[Ghoul Missile Manufacturing Plant]] *[[Phantom Missile Production Facility]] *[[Poltergeist Missile Production Facility]] *[[Spectre Missile Production Facility]] *[[USC Food Supply Factory]] *[[Wraith Missile Production Plant]] | *[[Electro-Magnetic Plasma Cannon Forge]] *[[Food Preparation Facility]] *[[Hull Plating Production Facility]] *[[Keris Drone Factory]] *[[Matter/Anti-matter Launcher Forge]] *[[Matter/Anti-Matter Mine Fab]] *[[Point Singularity Projector Forge]] *[[Starburst Shockwave Cannon Forge]] | *[[Earth Torus]] *[[USC Orbital Logistics Dock]] *[[USC Orbital Supply Base]] *[[USC Orbital Support Station]] |} {{Warecategory}} {{Waretable}} {{Terran Navbox}}
+{{Warecategory}}
+{{Waretable}}
+
+{{Terran Navbox}}

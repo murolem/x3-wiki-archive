@@ -1,3 +1,78 @@
-<!-- source file: index__q41111e12d90a.html -->
+== List of Illegal Wares by Faction ==
+<onlyinclude>
+{| cellspacing="10" cellpadding="10"
+|-valign="top"
+|
+===[[Argon]]===
+*[[Ion Mine]]
+*[[Matter/Anti-Matter Mine]]
+*[[Slaves]]
+*[[Space Fuel]]
+*[[Space Weed]]
+*[[Spaceflies]]
+*[[SQUASH Mine]]
+*[[System Override Software]]
+|
 
-== List of Illegal Wares by Faction == &lt;onlyinclude> {| cellspacing="10" cellpadding="10" |-valign="top" | ===[[Argon]]=== *[[Ion Mine]] *[[Matter/Anti-Matter Mine]] *[[Slaves]] *[[Space Fuel]] *[[Space Weed]] *[[Spaceflies]] *[[SQUASH Mine]] *[[System Override Software]] | ===[[Boron]]=== *[[Ion Mine]] *[[Matter/Anti-Matter Mine]] *[[Slaves]] *[[Space Fuel]] *[[Space Weed]] *[[Spaceflies]] *[[SQUASH Mine]] *[[System Override Software]] | ===[[Paranid]]=== *[[Matter/Anti-Matter Mine]] *[[Slaves]] *[[Space Fuel]] *[[Space Weed]] *[[Spaceflies]] *[[System Override Software]] |-valign="top" | ===[[Split]]=== *[[Matter/Anti-Matter Mine]] *[[Space Fuel]] *[[Space Weed]] *[[System Override Software]] | ===[[Teladi]]=== *[[Matter/Anti-Matter Mine]] *[[Slaves]] *[[Space Fuel]] *[[Spaceflies]] *[[System Override Software]] | ===[[Goner]]=== *Nothing |-valign="top" | ===[[Terran]]=== *Nothing | ===[[Pirate]]=== *Nothing | ===[[Yaki]]=== *Nothing |-valign="top" | ===[[Kha'ak]]=== *Nothing | ===[[Xenon]]=== *Nothing | ===[[Unknown]]=== *Nothing |} &lt;/onlyinclude>
+===[[Boron]]===
+*[[Ion Mine]]
+*[[Matter/Anti-Matter Mine]]
+*[[Slaves]]
+*[[Space Fuel]]
+*[[Space Weed]]
+*[[Spaceflies]]
+*[[SQUASH Mine]]
+*[[System Override Software]]
+|
+
+===[[Paranid]]===
+*[[Matter/Anti-Matter Mine]]
+*[[Slaves]]
+*[[Space Fuel]]
+*[[Space Weed]]
+*[[Spaceflies]]
+*[[System Override Software]]
+|-valign="top"
+|
+
+===[[Split]]===
+*[[Matter/Anti-Matter Mine]]
+*[[Space Fuel]]
+*[[Space Weed]]
+*[[System Override Software]]
+
+|
+
+===[[Teladi]]===
+*[[Matter/Anti-Matter Mine]]
+*[[Slaves]]
+*[[Space Fuel]]
+*[[Spaceflies]]
+*[[System Override Software]]
+
+|
+
+===[[Goner]]===
+*Nothing
+|-valign="top"
+|
+===[[Terran]]===
+*Nothing
+|
+===[[Pirate]]===
+*Nothing
+|
+===[[Yaki]]===
+*Nothing
+|-valign="top"
+|
+===[[Kha'ak]]===
+*Nothing
+|
+===[[Xenon]]===
+*Nothing
+|
+===[[Unknown]]===
+*Nothing
+|}
+</onlyinclude>

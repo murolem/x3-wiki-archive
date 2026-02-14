@@ -1,3 +1,33 @@
-<!-- source file: index__q3662088794be.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Tracker Mine
+|cargoclass=L
+|volume=6
+|minprice=7379
+|aveprice=10108
+|maxprice=12837
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+Tracker mines have a limited ability to track any target that gets too close and subsequently explode.
+==Commentary==
+Still as of Version 3.1, Tracker Mines do not track and appear to function exactly the same as regular SQUASH mines.
+==Trading information==
+{|
+! Sold by; !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*Race Factory where this ware is sold
 
-{{Infobox open}} {{Infobox ware |ware= Tracker Mine |cargoclass=L |volume=6 |minprice=7379 |aveprice=10108 |maxprice=12837 }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== Tracker mines have a limited ability to track any target that gets too close and subsequently explode. ==Commentary== Still as of Version 3.1, Tracker Mines do not track and appear to function exactly the same as regular SQUASH mines. ==Trading information== {| ! Sold by; !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *Race Factory where this ware is sold | *List of Race Factories where this ware is a primary resource | *List of Race Factories where this ware is a secondary resource | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}}
+|
+*List of Race Factories where this ware is a primary resource
+|
+*List of Race Factories where this ware is a secondary resource
+
+|
+*List of Trading Stations where this ware is traded (sector only)
+
+|}
+
+{{Warecategory}}

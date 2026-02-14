@@ -1,3 +1,175 @@
-<!-- source file: index__q231ab6d603dd.html -->
+{{Infobox open}}
+{{Infobox basicstation
+|faction=Terran
+|station=Shipyard
+|hull=
+|shield=
+|generator=
+|hangar=
+|stationprice={{Priceblock||649240}}
+}}
+{{Infobox close}}
+==Overview==
+The [[Shipyard]]s of the Terrans are where all [[Terran]] ships and stations are crafted.
 
-{{Infobox open}} {{Infobox basicstation |faction=Terran |station=Shipyard |hull= |shield= |generator= |hangar= |stationprice={{Priceblock||649240}} }} {{Infobox close}} ==Overview== The [[Shipyard]]s of the Terrans are where all [[Terran]] ships and stations are crafted. Terran Shipyards were built in response to the growing demands placed on the Earth Torus by the growing [[USC]] and [[ATF]] fleets. Much of the Terran concern for fleet maintenance now falls on these colossal space stations, which double as homes for those many Terrans who do not rank highly enough to access the homeworld. The Terrans have recently come into contact with the lost Aldrin colony. While they are nominally Terran and share a common technological root, the Aldrin cluster feature their own technology and shipbuilding methods housed in their [[Aldrin Ship Production Base]]s. ===Encyclopedia Entry=== This shipyard serves as a USC ship-production and repair facility. The majority of the Terran fleet used to be produced at the Torus station around Earth. In recent years increased security in the Earth sector and a huge rise in ship demand led to the building of this station. ==Products== ===Stations=== {| style="text-align:right;" class="wikitable sortable" cellpadding="3" ! Available Stations&lt;bR>!! Cost&lt;bR> !! {{sa|Mars}}&lt;bR>!! {{sa|Saturn}}&lt;bR> !! {{sa|The Moon}}&lt;bR> !! {{sa|Megnir}}&lt;bR> |- |Terran Aldrin Experimental EMPC Forge M ||3 128 032 {{TerranSyAvail|M=-|S=-|TM=-|Me=-}} |- |Terran Carbo Cake Factory L ||811 548 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- |Terran Carbo Cake Factory M ||325 008 {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} |- |Terran Crystal Fab L ||6 258 664 {{TerranSyAvail|M=-|S=x|TM=x|Me=-}} |- |Terran Crystal Fab M ||3 129 332 {{TerranSyAvail|M=x|S=-|TM=x|Me=x}} |- |Terran EMPC Forge ||8 563 460 {{TerranSyAvail|M=x|S=x|TM=x|Me=-}} |- |Terran EMP Rifle Assembly Facility ||2 246 368 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- |Terran Flavour Pack Production Facility L ||811 548 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- |Terran Flavour Pack Production Facility M ||325 008 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- |Terran Food Preparation Facility L ||2 337 260 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- |Terran Food Preparation Facility M ||1 038 784 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- |Terran Ghoul Missile Manufacturing Plan ||10 952 660 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- |Terran Hull Plating Production Facility M ||3 129 332 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- |Terran Ice Harvesting Facility L ||805 056 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- |Terran Ice Harvesting Facility M ||402 528 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- |Terran Keris Drone Factory M ||3 129 332 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- |Terran Matter/Anti-Matter Launcher Forge ||11 965 472 {{TerranSyAvail|M=x|S=-|TM=x|Me=-}} |- |Terran Matter/Anti-Matter Mine Fab ||2 246 368 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- |Terran Matter/Anti-Matter Warhead Production Fab M ||3 129 332 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- |Terran Ore Mine L ||805 056 {{TerranSyAvail|M=x|S=-|TM=x|Me=-}} |- |Terran Ore Mine M ||402 528 {{TerranSyAvail|M=-|S=x|TM=x|Me=x}} |- |Terran Phantom Missile Fabrication Facility ||2 889 112 {{TerranSyAvail|M=-|S=-|TM=x|Me=x}} |- |Terran Point Singularity Projector Forge ||15 971 276 {{TerranSyAvail|M=x|S=x|TM=x|Me=-}} |- |Terran Poltergeist Missile Fabrication Facility ||2 934 560 {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} |- |Terran Protein Paste Blending Facility L ||811 548 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- |Terran Protein Paste Blending Facility M ||325 008 {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} |- |Terran Shadow Missile Construction Facility ||2 934 560 {{TerranSyAvail|M=-|S=x|TM=x|Me=x}} |- |Terran Silicon Mine L ||805 056 {{TerranSyAvail|M=-|S=-|TM=x|Me=x}} |- |Terran Silicon Mine M ||402 528 {{TerranSyAvail|M=-|S=x|TM=x|Me=-}} |- |Terran Solar Power Plant L ||9 904 140 {{TerranSyAvail|M=-|S=-|TM=x|Me=x}} |- |Terran Solar Power Plant M ||6 998 796 {{TerranSyAvail|M=x|S=-|TM=x|Me=x}} |- |Terran Solar Power Plant XL ||17 607 360 {{TerranSyAvail|M=-|S=x|TM=x|Me=-}} |- |Terran Spectre Missile Manufacturing Facility ||2 876 128 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- |Terran Starburst Shockwave Cannon Forge ||14 237 808 {{TerranSyAvail|M=-|S=-|TM=x|Me=x}} |- |Terran USC Food Supply Factory L ||2 074 320 {{TerranSyAvail|M=-|S=x|TM=x|Me=x}} |- |Terran USC Food Supply Factory M ||921 920 {{TerranSyAvail|M=x|S=-|TM=x|Me=-}} |- |Terran Vita Kai Production Plant L ||811 548 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- |Terran Vita Kai Production Plant M ||325 008 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- |Terran Water Purification Plant L ||856 996 {{TerranSyAvail|M=x|S=-|TM=x|Me=x}} |- |Terran Water Purification Plant M ||402 528 {{TerranSyAvail|M=-|S=x|TM=x|Me=-}} |- |Terran Wraith Missile Production Plant ||10 952 660 {{TerranSyAvail|M=-|S=x|TM=x|Me=-}} |} ===Ships=== {| style="text-align:right;" class="wikitable sortable" cellpadding="3" ! Available Ships&lt;bR> ! style="width:5em;"| Type&lt;bR> ! style="width:5em;"| Cost&lt;bR> !! {{sa|Mars}}&lt;bR>!! {{sa|Saturn}}&lt;bR> !! {{sa|The Moon}}&lt;bR> !! {{sa|Megnir}}&lt;bR> |- {{ShipSyAvail|Link=Odin|Name=Odin|Type=M1|Cost=67891874}} {{TerranSyAvail|M=-|S=x|TM=x|Me=x}} |- {{ShipSyAvail|Link=Tokyo|Name=Tokyo|Type=M1|Cost=68033931}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} |- {{ShipSyAvail|Link=Woden|Name=Woden|Type=M1|Cost=76182339}} {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- {{ShipSyAvail|Link=Osaka|Name=Osaka|Type=M2|Cost=74774047}} {{TerranSyAvail|M=x|S=-|TM=x|Me=x}} |- {{ShipSyAvail|Link=Tyr|Name=Tyr|Type=M2|Cost=95666676}} {{TerranSyAvail|M=-|S=x|TM=x|Me=x}} |- {{ShipSyAvail|Link=Kyoto|Name=Kyoto|Type=M2+|Cost=154242935}} {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- {{ShipSyAvail|Link=Scimitar|Name=Scimitar|Type=M3|Cost=1905700}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} |- {{ShipSyAvail|Link=Thor|Name=Thor|Type=M3|Cost=2265386}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} |- {{ShipSyAvail|Link=Cutlass|Name=Cutlass|Type=M3+|Cost=5640001}} {{TerranSyAvail|M=x|S=-|TM=x|Me=-}} |- {{ShipSyAvail|Link=Fenrir|Name=Fenrir|Type=M3+|Cost=5373157}} {{TerranSyAvail|M=x|S=-|TM=x|Me=x}} |- {{ShipSyAvail|Link=Mjollnir|Name=Mjollnir|Type=M4|Cost=480638}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} |- {{ShipSyAvail|Link=Sabre|Name=Sabre|Type=M4|Cost=391246}} {{TerranSyAvail|M=x|S=-|TM=x|Me=x}} |- {{ShipSyAvail|Link=Rapier|Name=Rapier|Type=M5|Cost=61802}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} |- {{ShipSyAvail|Link=Valkyrie|Name=Valkyrie|Type=M5|Cost=41034}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} |- {{ShipSyAvail|Link=Katana|Name=Katana|Type=M6|Cost=6490494}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} |- {{ShipSyAvail|Link=Vidar|Name=Vidar|Type=M6|Cost=8867546}} {{TerranSyAvail|M=-|S=x|TM=x|Me=x}} |- {{ShipSyAvail|Link=Vali|Name=Vali|Type=M6+|Cost=14606957}} {{TerranSyAvail|M=-|S=-|TM=x|Me=x}} |- {{ShipSyAvail|Link=Aegir|Name=Aegir|Type=M7|Cost=36893300}} {{TerranSyAvail|M=-|S=x|TM=-|Me=x}} |- {{ShipSyAvail|Link=Yokohama|Name=Yokohama|Type=M7|Cost=34950881}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} |- {{ShipSyAvail|Link=Maccana|Name=Maccana|Type=M7C|Cost=17299092}} {{TerranSyAvail|M=-|S=x|TM=x|Me=-}} |- {{ShipSyAvail|Link=Skirnir|Name=Skirnir|Type=M7M|Cost=51426360}} {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- {{ShipSyAvail|Link=Claymore|Name=Claymore|Type=M8|Cost=5279520}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} |- {{ShipSyAvail|Link=Mobile Mining Base-Ship|Name=Mobile Mining Base Ship|Type=TL|Cost=28579548}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} |- {{ShipSyAvail|Link=Mani|Name=Mani|Type=TP|Cost=1260308}} {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- {{ShipSyAvail|Link=Scabbard|Name=Scabbard|Type=TP|Cost=931779}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} |- {{ShipSyAvail|Link=Baldric|Name=Baldric|Type=TS|Cost=811070}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} |- {{ShipSyAvail|Link=Hayabusa|Name=Hayabusa|Type=TS+|Cost=2502899}} {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |- {{ShipSyAvail|Link=Toukon|Name=Toukon|Type=TM|Cost=438338}} {{TerranSyAvail|M=-|S=-|TM=x|Me=-}} |} [[Category:Shipyards]] {{Terran Navbox}}
+Terran Shipyards were built in response to the growing demands placed on the Earth Torus by the growing [[USC]] and [[ATF]] fleets. Much of the Terran concern for fleet maintenance now falls on these colossal space stations, which double as homes for those many Terrans who do not rank highly enough to access the homeworld.
+
+The Terrans have recently come into contact with the lost Aldrin colony. While they are nominally Terran and share a common technological root, the Aldrin cluster feature their own technology and shipbuilding methods housed in their [[Aldrin Ship Production Base]]s.
+
+===Encyclopedia Entry===
+This shipyard serves as a USC ship-production and repair facility. The majority of the Terran fleet used to be produced at the Torus station around Earth. In recent years increased security in the Earth sector and a huge rise in ship demand led to the building of this station.
+
+==Products==
+===Stations===
+{| style="text-align:right;"  class="wikitable sortable" cellpadding="3"
+! Available Stations<bR>!! Cost<bR> !! {{sa|Mars}}<bR>!!  {{sa|Saturn}}<bR> !! {{sa|The Moon}}<bR> !! {{sa|Megnir}}<bR>
+|-
+|Terran Aldrin Experimental EMPC Forge M ||3 128 032 {{TerranSyAvail|M=-|S=-|TM=-|Me=-}}
+|-
+|Terran Carbo Cake Factory L ||811 548 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+|Terran Carbo Cake Factory M ||325 008 {{TerranSyAvail|M=x|S=x|TM=x|Me=x}}
+|-
+|Terran Crystal Fab L ||6 258 664 {{TerranSyAvail|M=-|S=x|TM=x|Me=-}}
+|-
+|Terran Crystal Fab M ||3 129 332 {{TerranSyAvail|M=x|S=-|TM=x|Me=x}}
+|-
+|Terran EMPC Forge ||8 563 460 {{TerranSyAvail|M=x|S=x|TM=x|Me=-}}
+|-
+|Terran EMP Rifle Assembly Facility ||2 246 368 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+|Terran Flavour Pack Production Facility L ||811 548 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+|Terran Flavour Pack Production Facility M ||325 008 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+|Terran Food Preparation Facility L ||2 337 260 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+|Terran Food Preparation Facility M ||1 038 784 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+|Terran Ghoul Missile Manufacturing Plan ||10 952 660 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+|Terran Hull Plating Production Facility M ||3 129 332 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+|Terran Ice Harvesting Facility L ||805 056 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+|Terran Ice Harvesting Facility M ||402 528 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+|Terran Keris Drone Factory M ||3 129 332 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+|Terran Matter/Anti-Matter Launcher Forge ||11 965 472 {{TerranSyAvail|M=x|S=-|TM=x|Me=-}}
+|-
+|Terran Matter/Anti-Matter Mine Fab ||2 246 368 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+|Terran Matter/Anti-Matter Warhead Production Fab M ||3 129 332 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+|Terran Ore Mine L ||805 056 {{TerranSyAvail|M=x|S=-|TM=x|Me=-}}
+|-
+|Terran Ore Mine M ||402 528 {{TerranSyAvail|M=-|S=x|TM=x|Me=x}}
+|-
+|Terran Phantom Missile Fabrication Facility ||2 889 112 {{TerranSyAvail|M=-|S=-|TM=x|Me=x}}
+|-
+|Terran Point Singularity Projector Forge ||15 971 276 {{TerranSyAvail|M=x|S=x|TM=x|Me=-}}
+|-
+|Terran Poltergeist Missile Fabrication Facility ||2 934 560 {{TerranSyAvail|M=x|S=x|TM=x|Me=x}}
+|-
+|Terran Protein Paste Blending Facility L ||811 548 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+|Terran Protein Paste Blending Facility M ||325 008 {{TerranSyAvail|M=x|S=x|TM=x|Me=x}}
+|-
+|Terran Shadow Missile Construction Facility ||2 934 560 {{TerranSyAvail|M=-|S=x|TM=x|Me=x}}
+|-
+|Terran Silicon Mine L ||805 056 {{TerranSyAvail|M=-|S=-|TM=x|Me=x}}
+|-
+|Terran Silicon Mine M ||402 528 {{TerranSyAvail|M=-|S=x|TM=x|Me=-}}
+|-
+|Terran Solar Power Plant L ||9 904 140 {{TerranSyAvail|M=-|S=-|TM=x|Me=x}}
+|-
+|Terran Solar Power Plant M ||6 998 796 {{TerranSyAvail|M=x|S=-|TM=x|Me=x}}
+|-
+|Terran Solar Power Plant XL ||17 607 360 {{TerranSyAvail|M=-|S=x|TM=x|Me=-}}
+|-
+|Terran Spectre Missile Manufacturing Facility ||2 876 128 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+|Terran Starburst Shockwave Cannon Forge ||14 237 808 {{TerranSyAvail|M=-|S=-|TM=x|Me=x}} 
+|-
+|Terran USC Food Supply Factory L ||2 074 320 {{TerranSyAvail|M=-|S=x|TM=x|Me=x}}
+|-
+|Terran USC Food Supply Factory M ||921 920 {{TerranSyAvail|M=x|S=-|TM=x|Me=-}}
+|-
+|Terran Vita Kai Production Plant L ||811 548 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+|Terran Vita Kai Production Plant M ||325 008 {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+|Terran Water Purification Plant L ||856 996 {{TerranSyAvail|M=x|S=-|TM=x|Me=x}}
+|-
+|Terran Water Purification Plant M ||402 528 {{TerranSyAvail|M=-|S=x|TM=x|Me=-}}
+|-
+|Terran Wraith Missile Production Plant ||10 952 660 {{TerranSyAvail|M=-|S=x|TM=x|Me=-}}
+|}
+
+===Ships===
+{| style="text-align:right;"  class="wikitable sortable" cellpadding="3"
+! Available Ships<bR>
+! style="width:5em;"| Type<bR> 
+! style="width:5em;"| Cost<bR> !! {{sa|Mars}}<bR>!!  {{sa|Saturn}}<bR> !! {{sa|The Moon}}<bR> !! {{sa|Megnir}}<bR>
+|-
+{{ShipSyAvail|Link=Odin|Name=Odin|Type=M1|Cost=67891874}} {{TerranSyAvail|M=-|S=x|TM=x|Me=x}} 
+|-
+{{ShipSyAvail|Link=Tokyo|Name=Tokyo|Type=M1|Cost=68033931}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} 
+|-
+{{ShipSyAvail|Link=Woden|Name=Woden|Type=M1|Cost=76182339}} {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+{{ShipSyAvail|Link=Osaka|Name=Osaka|Type=M2|Cost=74774047}} {{TerranSyAvail|M=x|S=-|TM=x|Me=x}}
+|-
+{{ShipSyAvail|Link=Tyr|Name=Tyr|Type=M2|Cost=95666676}} {{TerranSyAvail|M=-|S=x|TM=x|Me=x}}
+|-
+{{ShipSyAvail|Link=Kyoto|Name=Kyoto|Type=M2+|Cost=154242935}} {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+{{ShipSyAvail|Link=Scimitar|Name=Scimitar|Type=M3|Cost=1905700}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}}
+|-
+{{ShipSyAvail|Link=Thor|Name=Thor|Type=M3|Cost=2265386}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}}
+|-
+{{ShipSyAvail|Link=Cutlass|Name=Cutlass|Type=M3+|Cost=5640001}} {{TerranSyAvail|M=x|S=-|TM=x|Me=-}}
+|-
+{{ShipSyAvail|Link=Fenrir|Name=Fenrir|Type=M3+|Cost=5373157}} {{TerranSyAvail|M=x|S=-|TM=x|Me=x}}
+|-
+{{ShipSyAvail|Link=Mjollnir|Name=Mjollnir|Type=M4|Cost=480638}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} 
+|-
+{{ShipSyAvail|Link=Sabre|Name=Sabre|Type=M4|Cost=391246}} {{TerranSyAvail|M=x|S=-|TM=x|Me=x}} 
+|-
+{{ShipSyAvail|Link=Rapier|Name=Rapier|Type=M5|Cost=61802}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}}
+|-
+{{ShipSyAvail|Link=Valkyrie|Name=Valkyrie|Type=M5|Cost=41034}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} 
+|-
+{{ShipSyAvail|Link=Katana|Name=Katana|Type=M6|Cost=6490494}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}}  
+|-
+{{ShipSyAvail|Link=Vidar|Name=Vidar|Type=M6|Cost=8867546}} {{TerranSyAvail|M=-|S=x|TM=x|Me=x}}  
+|-
+{{ShipSyAvail|Link=Vali|Name=Vali|Type=M6+|Cost=14606957}} {{TerranSyAvail|M=-|S=-|TM=x|Me=x}} 
+|-
+{{ShipSyAvail|Link=Aegir|Name=Aegir|Type=M7|Cost=36893300}} {{TerranSyAvail|M=-|S=x|TM=-|Me=x}} 
+|-
+{{ShipSyAvail|Link=Yokohama|Name=Yokohama|Type=M7|Cost=34950881}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}}
+|-
+{{ShipSyAvail|Link=Maccana|Name=Maccana|Type=M7C|Cost=17299092}} {{TerranSyAvail|M=-|S=x|TM=x|Me=-}}  
+|-
+{{ShipSyAvail|Link=Skirnir|Name=Skirnir|Type=M7M|Cost=51426360}} {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+{{ShipSyAvail|Link=Claymore|Name=Claymore|Type=M8|Cost=5279520}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} 
+|-
+{{ShipSyAvail|Link=Mobile Mining Base-Ship|Name=Mobile Mining Base Ship|Type=TL|Cost=28579548}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} 
+|-
+{{ShipSyAvail|Link=Mani|Name=Mani|Type=TP|Cost=1260308}} {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+{{ShipSyAvail|Link=Scabbard|Name=Scabbard|Type=TP|Cost=931779}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}} 
+|-
+{{ShipSyAvail|Link=Baldric|Name=Baldric|Type=TS|Cost=811070}} {{TerranSyAvail|M=x|S=x|TM=x|Me=x}}
+|-
+{{ShipSyAvail|Link=Hayabusa|Name=Hayabusa|Type=TS+|Cost=2502899}} {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|-
+{{ShipSyAvail|Link=Toukon|Name=Toukon|Type=TM|Cost=438338}} {{TerranSyAvail|M=-|S=-|TM=x|Me=-}}
+|}
+
+[[Category:Shipyards]]
+
+{{Terran Navbox}}

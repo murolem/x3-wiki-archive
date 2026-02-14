@@ -1,3 +1,64 @@
-<!-- source file: index__q80fbfda4f537.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Photon Pulse Cannon Forge
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=04:48:00
+|productnum=[[Photon Pulse Cannon]] (1)
+|stationprice=
+|reqresources=[[Energy Cells]] (4320) <br>[[Ore]] (720) <br>[[Food]] by race
+|optresources=[[Crystals]]
+}}
+{{Infobox close}}
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction= |station=Photon Pulse Cannon Forge |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=04:48:00 |productnum=[[Photon Pulse Cannon]] (1) |stationprice= |reqresources=[[Energy Cells]] (4320) &lt;br>[[Ore]] (720) &lt;br>[[Food]] by race |optresources=[[Crystals]] }} {{Infobox close}} ==Overview== Photon Pulse Cannon Forges produce the [[Photon Pulse Cannon]] from [[Energy Cells]], [[Ore]] and [[Food]]. NPC stations will buy [[Crystals]] as a secondary resource. ===Encyclopedia Entry=== This production complex manufactures Photon Pulse Cannons. The most powerful PPC weapon is manufactured here. A fully upgraded forge with autonomous machinery to construct the most deadly capital weapon to date. ==Race-specific Attributes== {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |-style="background-color:LightGray;text-align:center;" !Race!!Food!!Amount!!Station Cost |- style="{{Colour/Argon}}" | [[Argon]] || [[Meatsteak Cahoonas]] || 2880 || {{Priceblock|Trusted Ally|12777020}} |- style="{{Colour/Boron}}" | [[Boron]] || [[Bofu]] || 720 ||{{Priceblock|King's Knight|12265940}} |- style="{{Colour/Paranid}}" | [[Paranid]] || [[Soja Husk]] || 576 ||{{Priceblock|Friend of Priest King|12521480}} |- style="{{Colour/Split}}" | [[Split]] || [[Rastar Oil]] || 432 ||{{Priceblock|Distinguished Associate|13032560}} |} ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Argon#Shipyards|Argon]]''' *{{sa|Cloudbase Southeast}} *{{sa|Legend's Home}} *{{sa|Light of Heart}} | '''[[Boron#Shipyards|Boron]]''' *{{sa|Great Reef}} *{{sa|Queen's Retribution}} | '''[[Paranid#Shipyards|Paranid]]''' *{{sa|Heaven's Assertion}} *{{sa|Third Redemption}} *{{sa|Trinity Sanctum}} | '''[[Split#Shipyards|Split]]''' *{{sa|Patriarch's Conclusion}} *{{sa|Rhonkar's Trial}} *{{sa|Zyarth's Dominion}} |} {{Stationcategory}}
+==Overview==
+
+Photon Pulse Cannon Forges produce the [[Photon Pulse Cannon]] from [[Energy Cells]], [[Ore]] and [[Food]]. 
+
+NPC stations will buy [[Crystals]] as a secondary resource.
+
+===Encyclopedia Entry===
+
+This production complex manufactures Photon Pulse Cannons. The most powerful PPC weapon is manufactured here. A fully upgraded forge with autonomous machinery to construct the most deadly capital weapon to date.
+
+==Race-specific Attributes==
+
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|-style="background-color:LightGray;text-align:center;"
+!Race!!Food!!Amount!!Station Cost
+|- style="{{Colour/Argon}}"
+| [[Argon]] || [[Meatsteak Cahoonas]] || 2880 || {{Priceblock|Trusted Ally|12777020}}
+|- style="{{Colour/Boron}}"
+| [[Boron]] || [[Bofu]] || 720 ||{{Priceblock|King's Knight|12265940}}
+|- style="{{Colour/Paranid}}"
+| [[Paranid]] || [[Soja Husk]] || 576 ||{{Priceblock|Friend of Priest King|12521480}}
+|- style="{{Colour/Split}}"
+| [[Split]] || [[Rastar Oil]] || 432 ||{{Priceblock|Distinguished Associate|13032560}}
+|}
+
+==Availability==
+
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Argon#Shipyards|Argon]]'''
+*{{sa|Cloudbase Southeast}}
+*{{sa|Legend's Home}}
+*{{sa|Light of Heart}}
+| '''[[Boron#Shipyards|Boron]]'''
+*{{sa|Great Reef}}
+*{{sa|Queen's Retribution}}
+| '''[[Paranid#Shipyards|Paranid]]'''
+*{{sa|Heaven's Assertion}}
+*{{sa|Third Redemption}}
+*{{sa|Trinity Sanctum}}
+| '''[[Split#Shipyards|Split]]'''
+*{{sa|Patriarch's Conclusion}}
+*{{sa|Rhonkar's Trial}}
+*{{sa|Zyarth's Dominion}}
+|}
+
+{{Stationcategory}}

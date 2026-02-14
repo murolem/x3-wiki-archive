@@ -1,3 +1,7 @@
-<!-- source file: index__qda8db84e0bc8.html -->
+Jumpgates are ancient spaceborne structures used for instantaneous travel between locations. Scientists of all Commonwealth races have failed to explain how they work, however [[Terran]] science is capable of reproducing them, as can the [[Sohnen]].
 
-Jumpgates are ancient spaceborne structures used for instantaneous travel between locations. Scientists of all Commonwealth races have failed to explain how they work, however [[Terran]] science is capable of reproducing them, as can the [[Sohnen]]. No-one knows who built the first jumpgate network, which the Earth-built gates connected into when they began their expansion across space. They have been known to reconfigure and for many centuries the Teladi capital of Seizewell was cut off from the home planet of Ianamus Zura. == See Also == {{SectorTravel}}
+No-one knows who built the first jumpgate network, which the Earth-built gates connected into when they began their expansion across space. They have been known to reconfigure and for many centuries the Teladi capital of Seizewell was cut off from the home planet of Ianamus Zura.
+
+== See Also ==
+
+{{SectorTravel}}

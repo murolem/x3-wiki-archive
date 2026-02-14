@@ -1,3 +1,65 @@
-<!-- source file: index__q9e357752a0b5.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Ares
+|Faction=Paranid
+|Class={{M7Mclass}}
+|Priceblock={{Priceblock|| 50675750}}
+|Minspeed=42.5
+|Maxspeed=77
+|Minaccel=5
+|Maxaccel=9
+|Minsteer=0.5
+|Maxsteer=0.9
+|Hull=350000
+|Maxshield=2 GJ
+|Shieldslots=2
+|Maxshieldstrength=4000
+|Shieldreactor= 12400
+|Cargoclass=XL
+|Mincargo=4210
+|Maxcargo=7500
+|Lasercap=50500
+|Laserrecharge=1262
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Missileturret|Slot=Left|Lcount=4}}
+{{Missileturret|Slot=Right|Lcount=4}}
+{{Missileturret|Slot=Up|Lcount=2}}
+{{Missileturret|Slot=Down|Lcount=2}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+Faster and with heavier shields than the benchmark M7M, the [[Argon]] [[Minotaur]], the Ares is well-balanced but lacks the standout speed and rear gunslots of the [[Split]] [[Cobra]] or the large cargobay of the [[Boron]] [[Kraken]].
 
-{{Infobox open}} {{Infobox variant |Variant=Ares |Faction=Paranid |Class={{M7Mclass}} |Priceblock={{Priceblock|| 50675750}} |Minspeed=42.5 |Maxspeed=77 |Minaccel=5 |Maxaccel=9 |Minsteer=0.5 |Maxsteer=0.9 |Hull=350000 |Maxshield=2 GJ |Shieldslots=2 |Maxshieldstrength=4000 |Shieldreactor= 12400 |Cargoclass=XL |Mincargo=4210 |Maxcargo=7500 |Lasercap=50500 |Laserrecharge=1262 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Missileturret|Slot=Left|Lcount=4}} {{Missileturret|Slot=Right|Lcount=4}} {{Missileturret|Slot=Up|Lcount=2}} {{Missileturret|Slot=Down|Lcount=2}} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== Faster and with heavier shields than the benchmark M7M, the [[Argon]] [[Minotaur]], the Ares is well-balanced but lacks the standout speed and rear gunslots of the [[Split]] [[Cobra]] or the large cargobay of the [[Boron]] [[Kraken]]. ==Background== The Ares missile frigate is a fearsome addition to the Paranid Fleet. Boasting a large array of launchers, the Ares packs a powerful punch. ==Physical Characteristics== While of obvious [[Paranid]] design and coloration, the Ares is longer, more cylindrical, and sleeker than its [[M7]] counterparts, the [[Deimos]] and [[Agamemnon]]. == Combat == The Ares is pretty much unbeatable in a fight; like all M7Ms, it can take out any enemy that threatens it before they get close enough to get a target lock, let alone a shot off. With moderate Capital-grade shielding, the few ships that might get close to an Ares will have a hard time pressing home the advantage before they find themselves sucking vacuum. == Equipment == '''Missiles:''' *[[Hammer Heavy Torpedo]] *[[Flail Barrage Missile]] *[[Boarding pods]] == Availability == *[[Third Redemption]] *[[Heaven's Assertion]] == Suggested Roles== The Ares is a capable missile platform and effective boarding ship due to its above average survivability and lack of weaknesses. == See Also== *[[Agamemnon|Paranid Agamemnon]] *[[Ariadne|Paranid Ariadne]] *[[Deimos|Paranid Deimos]] {{M7M}} {{Paranid Navbox}}
+==Background==
+The Ares missile frigate is a fearsome addition to the Paranid Fleet. Boasting a large array of launchers, the Ares packs a powerful punch.
+
+==Physical Characteristics==
+While of obvious [[Paranid]] design and coloration, the Ares is longer, more cylindrical, and sleeker than its [[M7]] counterparts, the [[Deimos]] and [[Agamemnon]].
+
+== Combat ==
+The Ares is pretty much unbeatable in a fight; like all M7Ms, it can take out any enemy that threatens it before they get close enough to get a target lock, let alone a shot off. With moderate Capital-grade shielding, the few ships that might get close to an Ares will have a hard time pressing home the advantage before they find themselves sucking vacuum.
+
+== Equipment ==
+'''Missiles:'''
+*[[Hammer Heavy Torpedo]]
+*[[Flail Barrage Missile]]
+*[[Boarding pods]]
+
+== Availability ==
+*[[Third Redemption]]
+*[[Heaven's Assertion]]
+
+== Suggested Roles==
+The Ares is a capable missile platform and effective boarding ship due to its above average survivability and lack of weaknesses.
+
+== See Also==
+*[[Agamemnon|Paranid Agamemnon]]
+*[[Ariadne|Paranid Ariadne]]
+*[[Deimos|Paranid Deimos]]
+
+{{M7M}}
+
+
+{{Paranid Navbox}}

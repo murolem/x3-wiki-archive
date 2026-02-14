@@ -1,3 +1,95 @@
-<!-- source file: index__q83d23dcb0b81.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Toukon
+|Faction=Terran
+|Class={{TMclass}}
+|Priceblock={{Priceblock|| 438338 }}
+|Minspeed=60.0
+|Maxspeed=120.0
+|Minaccel=6
+|Maxaccel=12
+|Minsteer=1.8
+|Maxsteer=3.6
+|Hull=63000
+|Maxshield=200 MJ
+|Shieldslots=2
+|Maxshieldstrength=400
+|Shieldreactor= 1000 
+|Cargoclass=XL
+|Mincargo=850
+|Maxcargo=1500
+|Lasercap= 1950 
+|Laserrecharge=34
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Turret Front
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Turret Rear
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay={{Dockbay|4 {{Fighterdock}}}}
+}}
+{{Infobox close}}
+==Overview==
+The Toukon is essentially an improved [[Magnetar]], offering the same steering, shielding and cargo space while offering slightly faster speed and a larger maximum laser energy, all for the exact same price.  It also sports the same shield generator and the same turret layout, but its smaller weapon compatibility means that the Toukon relies more on its fighter escort for fighting duties.
 
-{{Infobox open}} {{Infobox variant |Variant=Toukon |Faction=Terran |Class={{TMclass}} |Priceblock={{Priceblock|| 438338 }} |Minspeed=60.0 |Maxspeed=120.0 |Minaccel=6 |Maxaccel=12 |Minsteer=1.8 |Maxsteer=3.6 |Hull=63000 |Maxshield=200 MJ |Shieldslots=2 |Maxshieldstrength=400 |Shieldreactor= 1000 |Cargoclass=XL |Mincargo=850 |Maxcargo=1500 |Lasercap= 1950 |Laserrecharge=34 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Turret Front |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Turret Rear |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay={{Dockbay|4 {{Fighterdock}}}} }} {{Infobox close}} ==Overview== The Toukon is essentially an improved [[Magnetar]], offering the same steering, shielding and cargo space while offering slightly faster speed and a larger maximum laser energy, all for the exact same price. It also sports the same shield generator and the same turret layout, but its smaller weapon compatibility means that the Toukon relies more on its fighter escort for fighting duties. ==Background== The United Space Command commissioned the Toukon after seeing the value of the TM class ships used by the Commonwealth races. Intended to serve as a rapid response patrol carrier, the Toukon improves on established designs without adding any experimental or unstable features. Essentially a Terran variant of the widely successful [[Magnetar]], the Toukon combines the best of both worlds with virtually no downsides. ==Physical Characteristics== The Toukon, like all Terran ships, is long and sleek, yet angular. Its docking bays are a pair of racks on the side of the ship instead of inside the fuselage, unlike other TMs. == Combat == Like other [[TM]]s, the Toukon is not a primary combat vessel and relies on its squad of four fighters to engage in combat on its behalf. It is, however, well shielded, and with a total of four [[Electro-Magnetic Plasma Cannon|EMPCs]], it can contribute in light combat. == Equipment == {| |+'''Missiles''' |- | *[[Mosquito Missile]] *[[Poltergeist Missile]] |} == Availability == {| style="text-align:center;" |+'''Availability''' |- style="{{Colour/Terran}}" ! Variant !! [[The Moon]] |- ! Toukon || x |} == Suggested Roles== The Toukon is thoroughly middle-of-the-road as far as TMs go, except for above-average shielding. However, it is outclassed in almost every respect by the [[Zephyrus|OTAS Zephyrus]]. In addition, it is only available from the shipyard at [[The Moon]], making the ship difficult to equip and deploy quickly. Still, the ship is as useful as any other TM if you should acquire one. == See Also== {{TM}} {{TMcategory}} [[Category:Terran ships]] [[Category: Carrier]] {{Terran Navbox}}
+==Background==
+The United Space Command commissioned the Toukon after seeing the value of the TM class ships used by the Commonwealth races. Intended to serve as a rapid response patrol carrier, the Toukon improves on established designs without adding any experimental or unstable features. Essentially a Terran variant of the widely successful [[Magnetar]], the Toukon combines the best of both worlds with virtually no downsides.
+==Physical Characteristics==
+The Toukon, like all Terran ships, is long and sleek, yet angular. Its docking bays are a pair of racks on the side of the ship instead of inside the fuselage, unlike other TMs.
+
+== Combat ==
+Like other [[TM]]s, the Toukon is not a primary combat vessel and relies on its squad of four fighters to engage in combat on its behalf.  It is, however, well shielded, and with a total of four [[Electro-Magnetic Plasma Cannon|EMPCs]], it can contribute in light combat.
+
+== Equipment ==
+{|
+|+'''Missiles'''
+|-
+|
+*[[Mosquito Missile]]
+*[[Poltergeist Missile]]
+|}
+
+== Availability ==
+{| style="text-align:center;"
+|+'''Availability'''
+|- style="{{Colour/Terran}}"
+! Variant !! [[The Moon]]
+|-
+! Toukon || x
+|}
+== Suggested Roles==
+The Toukon is thoroughly middle-of-the-road as far as TMs go, except for above-average shielding.  However, it is outclassed in almost every respect by the [[Zephyrus|OTAS Zephyrus]]. In addition, it is only available from the shipyard at [[The Moon]], making the ship difficult to equip and deploy quickly. Still, the ship is as useful as any other TM if you should acquire one.
+
+== See Also==
+{{TM}}
+{{TMcategory}}
+[[Category:Terran ships]]
+[[Category: Carrier]]
+
+{{Terran Navbox}}

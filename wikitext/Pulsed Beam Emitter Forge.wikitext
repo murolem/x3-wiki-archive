@@ -1,3 +1,37 @@
-<!-- source file: index__qf64a80b37176.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Split
+|station=Pulsed Beam Emitter Forge
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=01:20:00
+|productnum=[[Pulsed Beam Emitter]] (1)
+|stationprice={{Priceblock|Split Distinguished Associate|9068568}}
+|reqresources=[[Energy Cells]] (1200) <br>[[Rastar Oil]] (120) <br>[[Ore]] (200)
+|optresources=None
+}}
+{{Infobox close}}
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Split |station=Pulsed Beam Emitter Forge |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=01:20:00 |productnum=[[Pulsed Beam Emitter]] (1) |stationprice={{Priceblock|Split Distinguished Associate|9068568}} |reqresources=[[Energy Cells]] (1200) &lt;br>[[Rastar Oil]] (120) &lt;br>[[Ore]] (200) |optresources=None }} {{Infobox close}} ==Overview== Pulsed Beam Emitter Forges are Split factories that produce the [[Pulsed Beam Emitter]] from [[Energy Cells]], [[Rastar Oil]] and [[Ore]]. ===Encyclopedia Entry=== This laser forge manufactures the Pulsed Beam Emitter. ==Availability== This factory is unique to the Split. {| style="text-align:left;" | '''[[Split#Shipyards|Split]]''' *{{sa|Family Njy}} *{{sa|Patriarch's Conclusion}} *{{sa|Rhonkar's Trial}} *{{sa|Zyarth's Dominion}} |} {{Stationcategory}}
+==Overview==
+Pulsed Beam Emitter Forges are Split factories that produce the [[Pulsed Beam Emitter]] from [[Energy Cells]], [[Rastar Oil]] and [[Ore]]. 
+
+===Encyclopedia Entry===
+
+This laser forge manufactures the Pulsed Beam Emitter.
+
+==Availability==
+
+This factory is unique to the Split.
+
+{| style="text-align:left;"
+| '''[[Split#Shipyards|Split]]'''
+*{{sa|Family Njy}}
+*{{sa|Patriarch's Conclusion}}
+*{{sa|Rhonkar's Trial}}
+*{{sa|Zyarth's Dominion}}
+|}
+
+{{Stationcategory}}

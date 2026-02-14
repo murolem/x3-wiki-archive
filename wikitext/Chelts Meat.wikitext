@@ -1,3 +1,32 @@
-<!-- source file: index__qf187ce1939fe.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Chelts Meat
+|cargoclass=S
+|volume=2
+|minprice=50
+|aveprice=104
+|maxprice=158
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+Chelts are marine animals that once roamed the seas and oceans on the Split home planet that the Split killed for meat, oil and their skins, which they processed to create a tough leather-like material. However for many years Chelts were over-hunted and almost brought to extinction. Nowadays Chelts are grown in space Chelt Aquariums and are later sold to Split food factories.
+==Commentary==
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Chelt Space Aquarium]]
+|
+*[[Rastar Refinery]]
+|
+*List of Race Factories where this ware is a secondary resource
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}
 
-{{Infobox open}} {{Infobox ware |ware= Chelts Meat |cargoclass=S |volume=2 |minprice=50 |aveprice=104 |maxprice=158 }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== Chelts are marine animals that once roamed the seas and oceans on the Split home planet that the Split killed for meat, oil and their skins, which they processed to create a tough leather-like material. However for many years Chelts were over-hunted and almost brought to extinction. Nowadays Chelts are grown in space Chelt Aquariums and are later sold to Split food factories. ==Commentary== ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Chelt Space Aquarium]] | *[[Rastar Refinery]] | *List of Race Factories where this ware is a secondary resource | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}} {{Waretable}} {{Split Navbox}}
+{{Warecategory}}
+{{Waretable}}
+
+{{Split Navbox}}

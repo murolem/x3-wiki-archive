@@ -1,3 +1,92 @@
-<!-- source file: index__qcee71f7da167.html -->
+{{Infobox Station
+|Name=USC Orbital Support Station
+|Race=Terran
+|Type=Dock
+|Capacity=0
+|Hull=15,000,000
+|Shield=30 x [[2 GJ Shield]]
+|Production=none
+|Docking=10 x [[TS]]/[[TP]]/[[M6]]/[[M8]]
+}}
 
-{{Infobox Station |Name=USC Orbital Support Station |Race=Terran |Type=Dock |Capacity=0 |Hull=15,000,000 |Shield=30 x [[2 GJ Shield]] |Production=none |Docking=10 x [[TS]]/[[TP]]/[[M6]]/[[M8]] }} The Orbital Support Station is related to the Commonwealth's [[Trading Station]]s in that it supplies various goods to the race... However, since the Terrans do like to keep to themselves, it is used to help supply the Terran's fleet. ===Known Locations=== #[[Saturn]] #[[Jupiter]] #[[Asteroid Belt]] #[[Mercury]] #[[The Moon]] ===Normal Goods, Wares and Equipment=== {| class="wikitable sortable" |+Goods |- !Name !Volume !Container Size !Max Stock |- |[[C-Ration]] |4 |M |3332 |- |[[Carbo Cake]] |2 |S |3332 |- |[[Energy Cells]] |1 |S |5000 |- |[[Flavour Pack]] |4 |S |1000 |- |[[Ice]] |8 |XL |832 |- |[[Ore]] |8 |XL |832 |- |[[Protein Paste]] |2 |S |3332 |- |[[Terran MRE]] |2 |S |832 |- |[[Vita Kai]] |4 |S |1000 |- |[[Water]] |2 |S |3332 |- |}
+The Orbital Support Station is related to the Commonwealth's [[Trading Station]]s in that it supplies various goods to the race... However, since the Terrans do like to keep to themselves, it is used to help supply the Terran's fleet.
+
+
+===Known Locations===
+#[[Saturn]]
+#[[Jupiter]]
+#[[Asteroid Belt]]
+#[[Mercury]]
+#[[The Moon]]
+
+
+===Normal Goods, Wares and Equipment===
+
+{| class="wikitable sortable"
+|+Goods
+|-
+!Name
+!Volume
+!Container Size
+!Max Stock
+|-
+|[[C-Ration]]
+|4
+|M
+|3332
+|-
+|[[Carbo Cake]]
+|2
+|S
+|3332
+|-
+
+|[[Energy Cells]]
+|1
+|S
+|5000
+|-
+|[[Flavour Pack]]
+|4
+|S
+|1000
+|-
+
+|[[Ice]]
+|8
+|XL
+|832
+|-
+
+|[[Ore]]
+|8
+|XL
+|832
+|-
+
+|[[Protein Paste]]
+|2
+|S
+|3332
+|-
+
+
+|[[Terran MRE]]
+|2
+|S
+|832
+|-
+
+|[[Vita Kai]]
+|4
+|S
+|1000
+|-
+
+|[[Water]]
+|2
+|S
+|3332
+|-
+
+|}

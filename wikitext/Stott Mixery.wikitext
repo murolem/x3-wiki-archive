@@ -1,3 +1,68 @@
-<!-- source file: index__qd08c1c1e14a8.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Boron
+|station=Stott Mixery L
+|hull=2000000
+|shield=15
+|generator=1500
+|hangar=5
+|cycle=00:01:00
+|productnum=[[Stott Spices]] (50)
+|stationprice={{Priceblock|Boron Queen's Guard|2483340}}
+|reqresources=[[Energy Cells]] (75)<br>[[Plankton]] (75)<br>
+|optresources=[[Delexian Wheat]]<br>[[Soja Husk]]
+}}
+{{Infobox factory
+|faction=Boron
+|station=Stott Mixery M
+|hull=800000
+|shield=10
+|generator=1500
+|hangar=5
+|cycle=00:01:00
+|productnum=[[Stott Spices]] (20)
+|stationprice={{Priceblock|Boron Queen's Guard|1103708}}
+|reqresources=[[Energy Cells]] (30)<br>[[Plankton]] (30)<br>
+|optresources=[[Delexian Wheat]]<br>[[Soja Husk]]
+}}
+{{Infobox close}}
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Boron |station=Stott Mixery L |hull=2000000 |shield=15 |generator=1500 |hangar=5 |cycle=00:01:00 |productnum=[[Stott Spices]] (50) |stationprice={{Priceblock|Boron Queen's Guard|2483340}} |reqresources=[[Energy Cells]] (75)&lt;br>[[Plankton]] (75)&lt;br> |optresources=[[Delexian Wheat]]&lt;br>[[Soja Husk]] }} {{Infobox factory |faction=Boron |station=Stott Mixery M |hull=800000 |shield=10 |generator=1500 |hangar=5 |cycle=00:01:00 |productnum=[[Stott Spices]] (20) |stationprice={{Priceblock|Boron Queen's Guard|1103708}} |reqresources=[[Energy Cells]] (30)&lt;br>[[Plankton]] (30)&lt;br> |optresources=[[Delexian Wheat]]&lt;br>[[Soja Husk]] }} {{Infobox close}} ==Overview== Stott Mixeries are Boron factories that produce [[Stott Spices]] from [[Energy Cells]] and [[Plankton]]. NPC stations will buy [[Delexian Wheat]] and [[Soja Husk]] as secondary resources. ===Encyclopedia Entry=== A Stott Mixery is a Boron food factory dedicated to the manufacture of many different Boron Spices. Inside these factories raw Plankton imported from Boron Plankton farms is processed and converted into the various Boron Spices by adding a number of minerals unique to the Boron. The Boron also add Delexian Wheat and Soja husk to the Plankton in an attempt to make a wider variety of food more suitable for inter-sector exportation. ==Availability== This factory is unique to the Boron. {| |- valign="top" | style="padding-right:5em;"| ===L-type=== {| style="text-align:left;" |- valign="top" | '''[[Boron#Shipyards|Boron]]''' *{{sa|Great Reef}} *{{sa|Lucky Planets}} *{{sa|Queen's Retribution}} |} | ===M-type=== {| style="text-align:left;" |- valign="top" | '''[[Boron#Shipyards|Boron]]''' *{{sa|Great Reef}} *{{sa|Kingdom End}} *{{sa|Ocean of Fantasy}} *{{sa|Queen's Retribution}} |} |} {{Stationcategory}}
+==Overview==
+Stott Mixeries are Boron factories that produce [[Stott Spices]] from [[Energy Cells]] and [[Plankton]]. 
+
+NPC stations will buy [[Delexian Wheat]] and [[Soja Husk]] as secondary resources.
+
+===Encyclopedia Entry===
+
+A Stott Mixery is a Boron food factory dedicated to the manufacture of many different Boron Spices. Inside these factories raw Plankton imported from Boron Plankton farms is processed and converted into the various Boron Spices by adding a number of minerals unique to the Boron. 
+
+The Boron also add Delexian Wheat and Soja husk to the Plankton in an attempt to make a wider variety of food more suitable for inter-sector exportation.
+
+==Availability==
+This factory is unique to the Boron.
+{|
+|- valign="top"
+| style="padding-right:5em;"|
+===L-type===
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Boron#Shipyards|Boron]]'''
+*{{sa|Great Reef}}
+*{{sa|Lucky Planets}}
+*{{sa|Queen's Retribution}}
+|}
+
+|
+===M-type===
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Boron#Shipyards|Boron]]'''
+*{{sa|Great Reef}}
+*{{sa|Kingdom End}}
+*{{sa|Ocean of Fantasy}}
+*{{sa|Queen's Retribution}}
+|}
+|}
+
+{{Stationcategory}}

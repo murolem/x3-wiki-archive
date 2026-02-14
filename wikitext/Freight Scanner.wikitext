@@ -1,3 +1,19 @@
-<!-- source file: index__qc29b2b3a7ad0.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Freight Scanner
+|cargoclass=-
+|volume=1
+|minprice=24527
+|aveprice=26952
+|maxprice=29377
+}}
+{{Infobox close}}
+A '''freight scanners''' is a sensor that allows one to determine another ship's freight, shield, and weapons loadouts.  Required equipment [[Freight Scan|freight scanning missions]], the sensor has a maximum range of four kilometers.
 
-{{Infobox open}} {{Infobox ware |ware= Freight Scanner |cargoclass=- |volume=1 |minprice=24527 |aveprice=26952 |maxprice=29377 }} {{Infobox close}} A '''freight scanners''' is a sensor that allows one to determine another ship's freight, shield, and weapons loadouts. Required equipment [[Freight Scan|freight scanning missions]], the sensor has a maximum range of four kilometers. It is considered illegal to scan someone's freight unless you have a [[police license]] for the race that owns the sector. ==Encyclopedia Entry== Pilots whose [[Ships|spaceships]] are equipped with a freight scanner can see exactly what is inside other ships they scan. Oftentimes this scanner is abused by [[pirates]] before they attack and rob peaceful pilots. [[Category:Scanners]] [[Category:Ship equipment]]
+It is considered illegal to scan someone's freight unless you have a [[police license]] for the race that owns the sector.
+
+==Encyclopedia Entry==
+Pilots whose [[Ships|spaceships]] are equipped with a freight scanner can see exactly what is inside other ships they scan.  Oftentimes this scanner is abused by [[pirates]] before they attack and rob peaceful pilots.
+
+[[Category:Scanners]]
+[[Category:Ship equipment]]

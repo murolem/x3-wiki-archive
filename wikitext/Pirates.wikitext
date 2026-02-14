@@ -1,3 +1,69 @@
-<!-- source file: index__qf55b9c1a0d7f.html -->
+{{Infobox Faction
+|Faction=Pirates
+|Speciestype=Assorted
+|Homeworld=
+|Systems=20
+|Population=
+|Government=Anarchy
+|Ranks=
+}}
 
-{{Infobox Faction |Faction=Pirates |Speciestype=Assorted |Homeworld= |Systems=20 |Population= |Government=Anarchy |Ranks= }} =General= Pirates are not a race in themselves but groups of like-minded criminals who specialize in all sorts of illegal activities. They have their own bases, usually hidden from view and well defended. Most pirate bases have large fleets of ships and will send out raiding patrols on a regular basis. They are known to be very aggressive and if they spot you across the sector they may start heading your way. If you encounter pirates, you may report them after you have scanned a pirate ship for illegal goods after scanning them with you freight scanner. Note: You can't see what's in the cargo hold without first scanning the ship and that scanning is illegal if you don't have a police license. ==Government and politics== ===Foreign relations and military=== The Pirates are treated as hostile by all governments. As such destroying them will earn you positive reputation while in their sectors. Pirates are often hostile to all ships and will attack them while on patrol. Some Pirate convoys have specific destinations however, and will not attack passing ships. ==History== ==Culture== Pirate clans are actually separate associations of like-minded criminals who make a living by killing, stealing, smuggling and other unscrupulous activities. Because of the existence of distinct groups, the Pirates are very poorly organised as a whole. ==Geography and Climate== =Science and Technology= ===Ships=== You will encounter pirate vessels of all types since pirates use other races' ships, modified for their own ends. The wealthy pirate groups even have their own custom ship designs, often including non-standard colours. Do not confuse pirates with smugglers who are much cleverer by using normal ships to conceal their activities. * ===Stations=== The Pirates are the only known faction that start out with Plasma Burst Generator and Incendiary Bomb Launcher forges (though by extension Yaki start with IBL forges too). *[[Pirate Base]] *[[Anarchy Port]] *[[Incendiary Bomb Launcher Forge]] *[[Plasma Burst Generator Forge]] =Territories= Pirate Sectors tend to be desolate empty places. Only a few scattered, hardy souls are willing enough or tough enough to live in such unregulated places. Pirate Sectors are often littered with asteroids, undisturbed by intensive corporate mining. ==Border Worlds== #[[Farnham's Legend]] #[[Bala Gi's Joy]] #[[Olmancketslat's Treaty]] #[[Split Fire]] #[[Brennan's Triumph]] #[[Danna's Chance]] #[[Nopileos' Memorial]] #[[Hatikvah's Faith]] #[[Gunne's Crusade]] #[[LooManckStrat's Legacy]] #[[Mi Ton's Refuge]] #[[Desecrated Skies]] #[[Moo-Kye's Revenge]] #[[Acquisition Repository]] #[[Spaceweed Grove]] #[[Vestibule of Creation]] #[[Unknown Sector (10,16)]] #[[Veil of Delusion]] #[[Gaian Star]] #[[Maelstrom]] {{Races}}
+=General=
+Pirates are not a race in themselves but groups of like-minded criminals who specialize in all sorts of illegal activities. They have their own bases, usually hidden from view and well defended. Most pirate bases have large fleets of ships and will send out raiding patrols on a regular basis. They are known to be very aggressive and if they spot you across the sector they may start heading your way. If you encounter pirates, you may report them after you have scanned a pirate ship for illegal goods after scanning them with you freight scanner. 
+
+Note: You can't see what's in the cargo hold without first scanning the ship and that scanning is illegal if you don't have a police license.
+==Government and politics==
+
+===Foreign relations and military===
+The Pirates are treated as hostile by all governments. As such destroying them will earn you positive reputation while in their sectors. Pirates are often hostile to all ships and will attack them while on patrol. Some Pirate convoys have specific destinations however, and will not attack passing ships.
+
+==History==
+
+==Culture==
+
+Pirate clans are actually separate associations of like-minded criminals who make a living by killing, stealing, smuggling and other unscrupulous activities. Because of the existence of distinct groups, the Pirates are very poorly organised as a whole.
+
+==Geography and Climate==
+
+=Science and Technology=
+===Ships===
+You will encounter pirate vessels of all types since pirates use other races' ships, modified for their own ends. The wealthy pirate groups even have their own custom ship designs, often including non-standard colours.
+
+Do not confuse pirates with smugglers who are much cleverer by using normal ships to conceal their activities.
+
+*
+===Stations===
+The Pirates are the only known faction that start out with Plasma Burst Generator and Incendiary Bomb Launcher forges (though by extension Yaki start with IBL forges too).
+
+*[[Pirate Base]]
+*[[Anarchy Port]]
+*[[Incendiary Bomb Launcher Forge]]
+*[[Plasma Burst Generator Forge]]
+
+=Territories=
+Pirate Sectors tend to be desolate empty places. Only a few scattered, hardy souls are willing enough or tough enough to live in such unregulated places.
+
+Pirate Sectors are often littered with asteroids, undisturbed by intensive corporate mining.
+==Border Worlds==
+#[[Farnham's Legend]]
+#[[Bala Gi's Joy]]
+#[[Olmancketslat's Treaty]]
+#[[Split Fire]]
+#[[Brennan's Triumph]]
+#[[Danna's Chance]]
+#[[Nopileos' Memorial]]
+#[[Hatikvah's Faith]]
+#[[Gunne's Crusade]]
+#[[LooManckStrat's Legacy]]
+#[[Mi Ton's Refuge]]
+#[[Desecrated Skies]]
+#[[Moo-Kye's Revenge]]
+#[[Acquisition Repository]]
+#[[Spaceweed Grove]]
+#[[Vestibule of Creation]]
+#[[Unknown Sector (10,16)]]
+#[[Veil of Delusion]]
+#[[Gaian Star]]
+#[[Maelstrom]]
+
+{{Races}}

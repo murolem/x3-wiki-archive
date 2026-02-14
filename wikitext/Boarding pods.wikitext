@@ -1,3 +1,27 @@
-<!-- source file: index__q99aa4346aded.html -->
+{{Infobox open}}
+{{Infobox missile|Missile=Boarding Pod|Yield=5|Speed=480|Range=76.8|Cooldown=4000|Seeker=Targeted|Submunitions=1|Fusing=Impact|Torpedoclass=|Guidance=Image-recognition|AoE=-}}
+{{Infobox ware|ware=Boarding Pod|cargoclass=S|volume=3|minprice=75197|aveprice=80856|maxprice=86515}}
+{{Infobox close}}
+==Overview==
+Boarding pods are [[Missiles|missiles]] carrying a [[Marines|marine]] [[Boarding|boarding]] team of up to 5 marines. They can be launched only from [[M7M]] missile frigates and from the [[Acinonyx Prototype]].
 
-{{Infobox open}} {{Infobox missile|Missile=Boarding Pod|Yield=5|Speed=480|Range=76.8|Cooldown=4000|Seeker=Targeted|Submunitions=1|Fusing=Impact|Torpedoclass=|Guidance=Image-recognition|AoE=-}} {{Infobox ware|ware=Boarding Pod|cargoclass=S|volume=3|minprice=75197|aveprice=80856|maxprice=86515}} {{Infobox close}} ==Overview== Boarding pods are [[Missiles|missiles]] carrying a [[Marines|marine]] [[Boarding|boarding]] team of up to 5 marines. They can be launched only from [[M7M]] missile frigates and from the [[Acinonyx Prototype]]. ===Encyclopedia Entry=== Boarding pods are designed to transport boarding parties short distances to enemy ships. ==Commentary== Boarding Pods are extremely effective tools to conduct boarding operations with. They have a number of advantages over space walk manuevers: * The boarding teams stay concentrated rather than each marine individually piercing the hull, which may lead to defeat in detail. * The pods move much faster than the marines EVA units can. * The pods simplify hull cutting and reduce the engineering skill required. The very fact boarding pods concentrate boarding teams into a single attack is also their greatest weakness.&lt;br> A single lucky anti-missile shot can destroy the accumulated time and expense of collecting and training up to 5 marines. Considering boarding operations often require 21 marines for best results, boarding pod interceptions can be a frustrating and expensive loss to take. To combat missile interception, pilots often screen the boarding pods with other missiles like [[Flail Barrage Missile|Flail]] missiles to draw point-defense weapons away from the pods and their valuable payload. The effectiveness of missile screens makes the use of pods vastly preferential to spacewalking. Boarding pods are only available in batches of up to 2 from [[Military Outpost]]s and [[Military Base]]s (6 in AP). == See Also == {{Piracy}} {{Missile Navbox}}
+===Encyclopedia Entry===
+Boarding pods are designed to transport boarding parties short distances to enemy ships.
+
+==Commentary==
+Boarding Pods are extremely effective tools to conduct boarding operations with.
+
+They have a number of advantages over space walk manuevers:
+* The boarding teams stay concentrated rather than each marine individually piercing the hull, which may lead to defeat in detail.
+* The pods move much faster than the marines EVA units can.
+* The pods simplify hull cutting and reduce the engineering skill required.
+
+The very fact boarding pods concentrate boarding teams into a single attack is also their greatest weakness.<br>
+A single lucky anti-missile shot can destroy the accumulated time and expense of collecting and training up to 5 marines. Considering boarding operations often require 21 marines for best results, boarding pod interceptions can be a frustrating and expensive loss to take. To combat missile interception, pilots often screen the boarding pods with other missiles like [[Flail Barrage Missile|Flail]] missiles to draw point-defense weapons away from the pods and their valuable payload. The effectiveness of missile screens makes the use of pods vastly preferential to spacewalking.
+
+Boarding pods are only available in batches of up to 2 from [[Military Outpost]]s and [[Military Base]]s (6 in AP).
+
+== See Also ==
+
+{{Piracy}}
+{{Missile Navbox}}

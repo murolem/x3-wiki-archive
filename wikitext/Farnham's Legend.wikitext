@@ -1,3 +1,37 @@
-<!-- source file: index__qcd8862c4c8ae.html -->
+{{Infobox Sector
+|Race=Pirate
+|SecLevel=Border
+|Population=95,139,430
+|Planets=2
+|SunLevel=150
+|GateDist=60
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|0|	6750|	22740|[[Atreus' Clouds]]}}
+{{Gateblock2|East|28740|	3000|	0|[[Bala Gi's Joy]]}}
+{{Gateblock2|South|0|	0|	-30240|[[Elena's Fortune]]}}
+</table>
+}}
+==Description==
+===Encyclopedia Entry===
+Originally discovered and declared lifeless by the Earth science vessel 'Winterblossom', under the command of Rene Farnham, this system is now a lawless community of high-tech criminals. The illegal computer and weapons systems covertly built here are renowned for innovation if not reliability, none of which you will find publicly available. The hackers and cyberpunks who operate here are notoriously paranoid and are heavily guarded by armed enforcers.
+==Default [[Stations]]==
 
-{{Infobox Sector |Race=Pirate |SecLevel=Border |Population=95,139,430 |Planets=2 |SunLevel=150 |GateDist=60 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|0| 6750| 22740|[[Atreus' Clouds]]}} {{Gateblock2|East|28740| 3000| 0|[[Bala Gi's Joy]]}} {{Gateblock2|South|0| 0| -30240|[[Elena's Fortune]]}} &lt;/table> }} ==Description== ===Encyclopedia Entry=== Originally discovered and declared lifeless by the Earth science vessel 'Winterblossom', under the command of Rene Farnham, this system is now a lawless community of high-tech criminals. The illegal computer and weapons systems covertly built here are renowned for innovation if not reliability, none of which you will find publicly available. The hackers and cyberpunks who operate here are notoriously paranoid and are heavily guarded by armed enforcers. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|23|8061|2260|3585}} {{Asteroid/Item|Ore|23|2659|5015|1381}} {{Asteroid/Item|Ore|21|4742|1010|13073}} {{Asteroid/Item|Ore|21|-947|-2731|-7696}} {{Asteroid/Item|Ore|13|-2280|-5748|9479}} {{Asteroid/Item|Ore|13|2303|-4903|4745}} {{Asteroid/Item|Ore|8|1423|-4044|14338}} {{Asteroid/Item|Ore|8|-4306|3160|-11599}} {{Asteroid/Item|Silicon|13|-947|3165|10755}} {{Asteroid/Item|Silicon|13|-165|2852|-16824}} {{Asteroid/Item|Silicon|6|12550|2197|13710}} {{Asteroid/Item|Silicon|6|7723|-6264|11070}} {{Asteroid/End}} {{Pirates Navbox}}
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|23|8061|2260|3585}}
+{{Asteroid/Item|Ore|23|2659|5015|1381}}
+{{Asteroid/Item|Ore|21|4742|1010|13073}}
+{{Asteroid/Item|Ore|21|-947|-2731|-7696}}
+{{Asteroid/Item|Ore|13|-2280|-5748|9479}}
+{{Asteroid/Item|Ore|13|2303|-4903|4745}}
+{{Asteroid/Item|Ore|8|1423|-4044|14338}}
+{{Asteroid/Item|Ore|8|-4306|3160|-11599}}
+{{Asteroid/Item|Silicon|13|-947|3165|10755}}
+{{Asteroid/Item|Silicon|13|-165|2852|-16824}}
+{{Asteroid/Item|Silicon|6|12550|2197|13710}}
+{{Asteroid/Item|Silicon|6|7723|-6264|11070}}
+{{Asteroid/End}}
+
+{{Pirates Navbox}}

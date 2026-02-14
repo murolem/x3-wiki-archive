@@ -1,3 +1,13 @@
-<!-- source file: index__q2bfe522650c7.html -->
+[[Escorts]] is a term used here to describe several hard to classify ships.
 
-[[Escorts]] is a term used here to describe several hard to classify ships. This includes: *[[M6]] *[[M6+]] *[[M8]] *[[TM]] Escorts can dock at all stations, but cannot dock with carriers. They typically are not armed with the heaviest weapons like the [[PSP]] or [[PPC]]. They generally feature cargo bays in the 500-1000 range. They work best in a group, escorting larger ships, leading fighters, or operating as a homogeneous flotilla. Individually they are extremely vulnerable, lacking fighters' speed to escape or the firepower and shields of a capital ship. {{Shipcategory}}
+This includes:
+*[[M6]]
+*[[M6+]]
+*[[M8]]
+*[[TM]]
+
+Escorts can dock at all stations, but cannot dock with carriers. They typically are not armed with the heaviest weapons like the [[PSP]] or [[PPC]]. They generally feature cargo bays in the 500-1000 range.
+
+They work best in a group, escorting larger ships, leading fighters, or operating as a homogeneous flotilla. Individually they are extremely vulnerable, lacking fighters' speed to escape or the firepower and shields of a capital ship.
+
+{{Shipcategory}}

@@ -1,3 +1,193 @@
-<!-- source file: index__q5e2cbc52a922.html -->
+{{Infobox open}}
+{{Infobox basicstation
+|faction=Boron
+|station=Royal Boron Shipyard
+|hull=
+|shield=
+|generator=
+|hangar=
+|stationprice={{Priceblock||649240}}
+}}
+{{Infobox close}}
+==Overview==
+The [[Shipyard]]s of the Kingdom of Boron are where all [[Boron]] ships and stations are crafted.
 
-{{Infobox open}} {{Infobox basicstation |faction=Boron |station=Royal Boron Shipyard |hull= |shield= |generator= |hangar= |stationprice={{Priceblock||649240}} }} {{Infobox close}} ==Overview== The [[Shipyard]]s of the Kingdom of Boron are where all [[Boron]] ships and stations are crafted. Ever the artisans, all Boron ships and stations are practically hand-built. Boron Shipyards are a hive of activity, with many skilled engineers and artisans at work with few tasks left to robots. ===Encyclopedia Entry=== Shipyards are the heart and soul of modern societies. They are factories of gigantic dimension, built to manufacture all the space vehicles and even build and sell whole construction kits for new factories. Because of immense resources and labour required to build as well as run a factory like this, shipyards are rare to encounter. The Boron shipyard is a hive of activity, mainly due to the fact that the Boron do not believe in a lot of automation, instead preferring to trust the fine skills and talents of their many engineers, craftsmen, and semi-skilled workers. Each Boron ship is virtually hand built, and they are rumoured to last longer, be more reliable, and are better made than the ships than many other races. ==Products== ===Stations=== {| style="text-align:right;" class="wikitable sortable" cellpadding="3" ! Available Stations&lt;bR> ! style="width:5em;"| Cost&lt;bR> ! style="width:5em;"| ST Size&lt;bR> ! {{sa|Depths of Silence}}&lt;bR>!! {{sa|Great Reef}}&lt;bR> !! {{sa|Kingdom End}}&lt;bR> !! {{sa|Lucky Planets}}&lt;bR> !! {{sa|Ocean of Fantasy}}&lt;bR> !! {{sa|Queen's Retribution}}&lt;br> |- {{StationSyAvail|[[Royal Boron Trading Station]]|30,514,228|14000}} {{BoronSyAvail|DS=-|GR=-|KE=X|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[Boron Equipment Dock]]|48,692,916|10500}} {{BoronSyAvail|DS=-|GR=-|KE=X|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[Bio Gas Factory]] L|561,528|16500}} {{BoronSyAvail|DS=X|GR=-|KE=X|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[Bio Gas Factory]] M|224,636|11000}} {{BoronSyAvail|DS=-|GR=X|KE=-|LP=X|OoF=X|QR=X}} |- {{StationSyAvail|[[BoFu Chemical Lab]] L|2,024,976|15000}} {{BoronSyAvail|DS=-|GR=X|KE=X|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[BoFu Chemical Lab]] M|809,992|10000}} {{BoronSyAvail|DS=X|GR=-|KE=-|LP=X|OoF=X|QR=X}} |- {{StationSyAvail|[[Chip Plant]]|5,012,124|16000}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=X|OoF=-|QR=X}} |- {{StationSyAvail|[[Complex Construction Kit]]|259,696|4250}} {{BoronSyAvail|DS=X|GR=X|KE=X|LP=X|OoF=X|QR=X}} |- {{StationSyAvail|[[Computer Plant]]|1,415,340|14000}} {{BoronSyAvail|DS=X|GR=-|KE=-|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[Crystal Fab]] L|6,622,236|20500}} {{BoronSyAvail|DS=-|GR=-|KE=X|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[Crystal Fab]] M|2,973,516|15000}} {{BoronSyAvail|DS=-|GR=-|KE=X|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[Cyclone Missile Factory]]|8,823,156|12500}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[Dragonfly Missile Factory]]|1,045,276|11000}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=X|OoF=-|QR=X}} |- {{StationSyAvail|[[Flail Missile Production Facility]]|2,876,128|13000}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[Hammer Torpedo Fabrication Facility]]|2,876,128|13000}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[Impulse Ray Emitter Forge]]|2,572,804|14500}} {{BoronSyAvail|DS=-|GR=-|KE=X|LP=-|OoF=-|QR=-}} |- {{StationSyAvail|[[Ion Cannon Forge]]|14,096,276|19000}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=X|OoF=X|QR=X}} |- {{StationSyAvail|[[Ion Disruptor Forge]]|10,461,836|13500}} {{BoronSyAvail|DS=-|GR=X|KE=-|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[Ion Mine Fab]]|2,246,368|15000}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[Ion Pulse Generator Forge]]|10,434,568|18000}} {{BoronSyAvail|DS=X|GR=-|KE=-|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[Mosquito Missile Factory]]|551,852|10000}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=X|QR=X}} |- {{StationSyAvail|[[Ore Mine]] L|1,139,416|12000}} {{BoronSyAvail|DS=X|GR=-|KE=-|LP=-|OoF=X|QR=X}} |- {{StationSyAvail|[[Ore Mine]] M|549,972|8000}} {{BoronSyAvail|DS=-|GR=X|KE=X|LP=X|OoF=-|QR=X}} |- {{StationSyAvail|[[Particle Accelerator Cannon Forge]]|4,028,788|16000}} {{BoronSyAvail|DS=-|GR=-|KE=X|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[Photon Pulse Cannon Forge]]|12,265,940|23500}} {{BoronSyAvail|DS=-|GR=X|KE=-|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[Plankton Farm]] L|799,992|13500}} {{BoronSyAvail|DS=-|GR=X|KE=-|LP=-|OoF=X|QR=X}} |- {{StationSyAvail|[[Plankton Farm]] M|320,008|9000}} {{BoronSyAvail|DS=X|GR=-|KE=X|LP=X|OoF=-|QR=X}} |- {{StationSyAvail|[[Quantum Tube Fab]]|5,051,080|13500}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=X|QR=X}} |- {{StationSyAvail|[[Recon Drone Construction Facility]]|2,349,724|14500}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[Satellite Factory]]|876,472|16500}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=X|QR=-}} |- {{StationSyAvail|[[Shield Prod. Fac. 200 MJ]]|5,386,084|16000}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=X|OoF=-|QR=X}} |- {{StationSyAvail|[[Shield Prod. Facility 1GJ]]|8,159,636|19500}} {{BoronSyAvail|DS=X|GR=-|KE=-|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[Silicon Mine]] L|1,402,356|14250}} {{BoronSyAvail|DS=X|GR=X|KE=-|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[Silicon Mine]] M|623,268|9500}} {{BoronSyAvail|DS=-|GR=-|KE=X|LP=X|OoF=X|QR=X}} |- {{StationSyAvail|[[Solar Power Plant]] M|4,401,840|10500}} {{BoronSyAvail|DS=-|GR=-|KE=X|LP=X|OoF=-|QR=X}} |- {{StationSyAvail|[[Solar Power Plant]] L|9,904,140|15750}} {{BoronSyAvail|DS=X|GR=X|KE=-|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[Solar Power Plant]] XL|17,607,360|22000}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=X|QR=X}} |- {{StationSyAvail|[[Stott Mixery]] L|2,483,340|18750}} {{BoronSyAvail|DS=-|GR=X|KE=-|LP=X|OoF=-|QR=X}} |- {{StationSyAvail|[[Stott Mixery]] M|1,103,708|12500}} {{BoronSyAvail|DS=-|GR=X|KE=X|LP=-|OoF=X|QR=X}} |- {{StationSyAvail|[[Tempest Missile Factory]]|7,706,464|15500}} {{BoronSyAvail|DS=X|GR=-|KE=-|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[Tomahawk Missile Manufacturing Plant]]|2,876,128|13000}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=X}} |- {{StationSyAvail|[[Weapon Component Factory]]|655,732|12000}} {{BoronSyAvail|DS=-|GR=X|KE=-|LP=-|OoF=-|QR=X}} |} ===Ships=== {| style="text-align:right;" class="wikitable sortable" cellpadding="3" name="ships" ! Available Ships&lt;bR> ! style="width:5em;"| Type&lt;bR> ! style="width:5em;"| Cost&lt;bR> ! {{sa|Depths of Silence}}&lt;bR>!! {{sa|Great Reef}}&lt;bR> !! {{sa|Kingdom End}}&lt;bR> !! {{sa|Lucky Planets}}&lt;bR> !! {{sa|Ocean of Fantasy}}&lt;bR> !! {{sa|Queen's Retribution}}&lt;br> |- {{ShipSyAvail|Link=Shark|Name=Shark|Type=M1|Cost=61,790,791}} {{BoronSyAvail|DS=x|GR=x|KE=x|LP=x|OoF=x|QR=x}} |- {{ShipSyAvail|Link=Megalodon|Name=Megalodon|Type=M2+|Cost=128,475,928}} {{BoronSyAvail|DS=-|GR=-|KE=AP|LP=-|OoF=AP|QR=AP}} |- {{ShipSyAvail|Link=Ray|Name=Ray|Type=M2|Cost=86,438,545}} {{BoronSyAvail|DS=x|GR=x|KE=x|LP=x|OoF=x|QR=x}} |- {{ShipSyAvail|Link=Barracuda|Name=Barracuda|Type=M3|Cost=2,211,155}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=x|QR=x}} |- {{ShipSyAvail|Link=Barracuda|Name=Barracuda Raider|Type=M3|Cost=2,864,863}} {{BoronSyAvail|DS=-|GR=x|KE=x|LP=-|OoF=-|QR=x}} |- {{ShipSyAvail|Link=Barracuda|Name=Barracuda Sentinel|Type=M3|Cost=2,894,386}} {{BoronSyAvail|DS=x|GR=-|KE=-|LP=-|OoF=-|QR=x}} |- {{ShipSyAvail|Link=Barracuda|Name=Barracuda Vanguard|Type=M3|Cost=2,580,859}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=x|OoF=-|QR=x}} |- {{ShipSyAvail|Link=Skate|Name=Skate|Type=M3+|Cost=5,984,203}} {{BoronSyAvail|DS=x|GR=x|KE=x|LP=x|OoF=x|QR=-}} |- {{ShipSyAvail|Link=Mako|Name=Mako|Type=M4|Cost=568,452}} {{BoronSyAvail|DS=-|GR=x|KE=-|LP=x|OoF=-|QR=x}} |- {{ShipSyAvail|Link=Mako|Name=Mako Sentinel|Type=M4|Cost=802,572}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=x|QR=x}} |- {{ShipSyAvail|Link=Mako|Name=Mako Vanguard|Type=M4|Cost=661,278}} {{BoronSyAvail|DS=x|GR=-|KE=x|LP=-|OoF=-|QR=x}} |- {{ShipSyAvail|Link=Pike|Name=Pike|Type=M4+|Cost=1,033,400}} {{BoronSyAvail|DS=x|GR=x|KE=x|LP=x|OoF=x|QR=-}} |- {{ShipSyAvail|Link=Octopus|Name=Octopus|Type=M5|Cost=73,732}} {{BoronSyAvail|DS=-|GR=x|KE=x|LP=-|OoF=x|QR=x}} |- {{ShipSyAvail|Link=Octopus|Name=Octopus Raider|Type=M5|Cost=108,914}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=x|OoF=-|QR=x}} |- {{ShipSyAvail|Link=Octopus|Name=Octopus Sentinel|Type=M5|Cost=106,543}} {{BoronSyAvail|DS=x|GR=-|KE=-|LP=-|OoF=-|QR=x}} |- {{ShipSyAvail|Link=Octopus|Name=Octopus Vanguard|Type=M5|Cost=81,325}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=x|QR=x}} |- {{ShipSyAvail|Link=Hydra|Name=Hydra|Type=M6|Cost=8,766,030}} {{BoronSyAvail|DS=x|GR=x|KE=x|LP=x|OoF=x|QR=x}} |- {{ShipSyAvail|Link=Heavy Hydra|Name=Heavy Hydra|Type=M6+|Cost=25,382,467}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=x}} |- {{ShipSyAvail|Link=Thresher|Name=Thresher|Type=M7|Cost=38,206,712}} {{BoronSyAvail|DS=x|GR=x|KE=x|LP=x|OoF=x|QR=-}} |- {{ShipSyAvail|Link=Kraken|Name=Kraken|Type=M7M|Cost=51,019,915}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=x}} |- {{ShipSyAvail|Link=Guppy|Name=Guppy|Type=M7C|Cost=16,412,847}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=-}} |- {{ShipSyAvail|Link=Marlin|Name=Marlin|Type=M8|Cost=5,270,638}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=-}} |- {{ShipSyAvail|Link=Orca|Name=Orca|Type=TL|Cost=22,344,668}} {{BoronSyAvail|DS=x|GR=x|KE=x|LP=x|OoF=x|QR=x}} |- {{ShipSyAvail|Link=Pleco|Name=Pleco|Type=TM|Cost=462,558}} {{BoronSyAvail|DS=x|GR=x|KE=x|LP=x|OoF=x|QR=-}} |- {{ShipSyAvail|Link=Angel|Name=Angel|Type=TP|Cost=2,174,887}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=x}} |- {{ShipSyAvail|Link=Manta|Name=Manta|Type=TP|Cost=638,110}} {{BoronSyAvail|DS=-|GR=x|KE=x|LP=x|OoF=-|QR=x}} |- {{ShipSyAvail|Link=Manta|Name=Manta Hauler|Type=TP|Cost=1,449,925}} {{BoronSyAvail|DS=x|GR=-|KE=-|LP=-|OoF=x|QR=x}} |- {{ShipSyAvail|Link=Dolphin|Name=Dolphin|Type=TS|Cost=510,514}} {{BoronSyAvail|DS=-|GR=x|KE=-|LP=-|OoF=-|QR=x}} |- {{ShipSyAvail|Link=Dolphin|Name=Dolphin Hauler|Type=TS|Cost=1,029,447}} {{BoronSyAvail|DS=-|GR=-|KE=x|LP=-|OoF=-|QR=x}} |- {{ShipSyAvail|Link=Dolphin|Name=Dolphin Super Freighter|Type=TS|Cost=1,115,147}} {{BoronSyAvail|DS=x|GR=-|KE=-|LP=-|OoF=-|QR=x}} |- {{ShipSyAvail|Link=Dolphin|Name=Dolphin Super Freighter XL|Type=TS|Cost=2,167,186 }} {{BoronSyAvail|DS=-|GR=-|KE=x|LP=-|OoF=-|QR=-}} |- {{ShipSyAvail|Link=Dolphin|Name=Dolphin Tanker|Type=TS|Cost=510,514}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=x|QR=x}} |- {{ShipSyAvail|Link=Dolphin|Name=Dolphin Tanker XL|Type=TS|Cost=1,115,147}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=x|OoF=-|QR=x}} |- {{ShipSyAvail|Link=Sturgeon|Name=Sturgeon|Type=TS+|Cost=1,831,183}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=AP}} |} *Note: [[Marlin]] is not available anymore [[Category:Shipyards]] ==See Also== {{Boron Navbox}}
+Ever the artisans, all Boron ships and stations are practically hand-built. Boron Shipyards are a hive of activity, with many skilled engineers and artisans at work with few tasks left to robots.
+
+===Encyclopedia Entry===
+Shipyards are the heart and soul of modern societies. They are factories of gigantic dimension, built to manufacture all the space vehicles and even build and sell whole construction kits for new factories. Because of immense resources and labour required to build as well as run a factory like this, shipyards are rare to encounter. The Boron shipyard is a hive of activity, mainly due to the fact that the Boron do not believe in a lot of automation, instead preferring to trust the fine skills and talents of their many engineers, craftsmen, and semi-skilled workers. Each Boron ship is virtually hand built, and they are rumoured to last longer, be more reliable, and are better made than the ships than many other races.
+
+==Products==
+===Stations===
+{| style="text-align:right;"  class="wikitable sortable" cellpadding="3"
+! Available Stations<bR>
+! style="width:5em;"| Cost<bR>
+! style="width:5em;"| ST Size<bR> 
+! {{sa|Depths of Silence}}<bR>!!  {{sa|Great Reef}}<bR> !! {{sa|Kingdom End}}<bR> !! {{sa|Lucky Planets}}<bR> !! {{sa|Ocean of Fantasy}}<bR> !! {{sa|Queen's Retribution}}<br>
+|-
+{{StationSyAvail|[[Royal Boron Trading Station]]|30,514,228|14000}} {{BoronSyAvail|DS=-|GR=-|KE=X|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Boron Equipment Dock]]|48,692,916|10500}} {{BoronSyAvail|DS=-|GR=-|KE=X|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Bio Gas Factory]] L|561,528|16500}} {{BoronSyAvail|DS=X|GR=-|KE=X|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Bio Gas Factory]] M|224,636|11000}} {{BoronSyAvail|DS=-|GR=X|KE=-|LP=X|OoF=X|QR=X}}
+|-
+{{StationSyAvail|[[BoFu Chemical Lab]] L|2,024,976|15000}} {{BoronSyAvail|DS=-|GR=X|KE=X|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[BoFu Chemical Lab]] M|809,992|10000}} {{BoronSyAvail|DS=X|GR=-|KE=-|LP=X|OoF=X|QR=X}}
+|-
+{{StationSyAvail|[[Chip Plant]]|5,012,124|16000}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=X|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Complex Construction Kit]]|259,696|4250}} {{BoronSyAvail|DS=X|GR=X|KE=X|LP=X|OoF=X|QR=X}}
+|-
+{{StationSyAvail|[[Computer Plant]]|1,415,340|14000}} {{BoronSyAvail|DS=X|GR=-|KE=-|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Crystal Fab]] L|6,622,236|20500}} {{BoronSyAvail|DS=-|GR=-|KE=X|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Crystal Fab]] M|2,973,516|15000}} {{BoronSyAvail|DS=-|GR=-|KE=X|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Cyclone Missile Factory]]|8,823,156|12500}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Dragonfly Missile Factory]]|1,045,276|11000}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=X|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Flail Missile Production Facility]]|2,876,128|13000}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Hammer Torpedo Fabrication Facility]]|2,876,128|13000}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Impulse Ray Emitter Forge]]|2,572,804|14500}} {{BoronSyAvail|DS=-|GR=-|KE=X|LP=-|OoF=-|QR=-}}
+|-
+{{StationSyAvail|[[Ion Cannon Forge]]|14,096,276|19000}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=X|OoF=X|QR=X}}
+|-
+{{StationSyAvail|[[Ion Disruptor Forge]]|10,461,836|13500}} {{BoronSyAvail|DS=-|GR=X|KE=-|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Ion Mine Fab]]|2,246,368|15000}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Ion Pulse Generator Forge]]|10,434,568|18000}} {{BoronSyAvail|DS=X|GR=-|KE=-|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Mosquito Missile Factory]]|551,852|10000}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=X|QR=X}}
+|-
+{{StationSyAvail|[[Ore Mine]] L|1,139,416|12000}} {{BoronSyAvail|DS=X|GR=-|KE=-|LP=-|OoF=X|QR=X}}
+|-
+{{StationSyAvail|[[Ore Mine]] M|549,972|8000}} {{BoronSyAvail|DS=-|GR=X|KE=X|LP=X|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Particle Accelerator Cannon Forge]]|4,028,788|16000}} {{BoronSyAvail|DS=-|GR=-|KE=X|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Photon Pulse Cannon Forge]]|12,265,940|23500}} {{BoronSyAvail|DS=-|GR=X|KE=-|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Plankton Farm]] L|799,992|13500}} {{BoronSyAvail|DS=-|GR=X|KE=-|LP=-|OoF=X|QR=X}}
+|-
+{{StationSyAvail|[[Plankton Farm]] M|320,008|9000}} {{BoronSyAvail|DS=X|GR=-|KE=X|LP=X|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Quantum Tube Fab]]|5,051,080|13500}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=X|QR=X}}
+|-
+{{StationSyAvail|[[Recon Drone Construction Facility]]|2,349,724|14500}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Satellite Factory]]|876,472|16500}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=X|QR=-}}
+|-
+{{StationSyAvail|[[Shield Prod. Fac. 200 MJ]]|5,386,084|16000}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=X|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Shield Prod. Facility 1GJ]]|8,159,636|19500}} {{BoronSyAvail|DS=X|GR=-|KE=-|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Silicon Mine]] L|1,402,356|14250}} {{BoronSyAvail|DS=X|GR=X|KE=-|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Silicon Mine]] M|623,268|9500}} {{BoronSyAvail|DS=-|GR=-|KE=X|LP=X|OoF=X|QR=X}}
+|-
+{{StationSyAvail|[[Solar Power Plant]] M|4,401,840|10500}} {{BoronSyAvail|DS=-|GR=-|KE=X|LP=X|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Solar Power Plant]] L|9,904,140|15750}} {{BoronSyAvail|DS=X|GR=X|KE=-|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Solar Power Plant]] XL|17,607,360|22000}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=X|QR=X}}
+|-
+{{StationSyAvail|[[Stott Mixery]] L|2,483,340|18750}} {{BoronSyAvail|DS=-|GR=X|KE=-|LP=X|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Stott Mixery]] M|1,103,708|12500}} {{BoronSyAvail|DS=-|GR=X|KE=X|LP=-|OoF=X|QR=X}}
+|-
+{{StationSyAvail|[[Tempest Missile Factory]]|7,706,464|15500}} {{BoronSyAvail|DS=X|GR=-|KE=-|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Tomahawk Missile Manufacturing Plant]]|2,876,128|13000}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=X}}
+|-
+{{StationSyAvail|[[Weapon Component Factory]]|655,732|12000}} {{BoronSyAvail|DS=-|GR=X|KE=-|LP=-|OoF=-|QR=X}}
+|}
+
+===Ships===
+{| style="text-align:right;"  class="wikitable sortable" cellpadding="3" name="ships"
+! Available Ships<bR>
+! style="width:5em;"| Type<bR> 
+! style="width:5em;"| Cost<bR>
+! {{sa|Depths of Silence}}<bR>!!  {{sa|Great Reef}}<bR> !! {{sa|Kingdom End}}<bR> !! {{sa|Lucky Planets}}<bR> !! {{sa|Ocean of Fantasy}}<bR> !! {{sa|Queen's Retribution}}<br>
+|-
+{{ShipSyAvail|Link=Shark|Name=Shark|Type=M1|Cost=61,790,791}} {{BoronSyAvail|DS=x|GR=x|KE=x|LP=x|OoF=x|QR=x}}
+|-
+{{ShipSyAvail|Link=Megalodon|Name=Megalodon|Type=M2+|Cost=128,475,928}} {{BoronSyAvail|DS=-|GR=-|KE=AP|LP=-|OoF=AP|QR=AP}}
+|-
+{{ShipSyAvail|Link=Ray|Name=Ray|Type=M2|Cost=86,438,545}} {{BoronSyAvail|DS=x|GR=x|KE=x|LP=x|OoF=x|QR=x}}
+|-
+{{ShipSyAvail|Link=Barracuda|Name=Barracuda|Type=M3|Cost=2,211,155}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=x|QR=x}}
+|-
+{{ShipSyAvail|Link=Barracuda|Name=Barracuda Raider|Type=M3|Cost=2,864,863}} {{BoronSyAvail|DS=-|GR=x|KE=x|LP=-|OoF=-|QR=x}}
+|-
+{{ShipSyAvail|Link=Barracuda|Name=Barracuda Sentinel|Type=M3|Cost=2,894,386}} {{BoronSyAvail|DS=x|GR=-|KE=-|LP=-|OoF=-|QR=x}}
+|-
+{{ShipSyAvail|Link=Barracuda|Name=Barracuda Vanguard|Type=M3|Cost=2,580,859}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=x|OoF=-|QR=x}}
+|-
+{{ShipSyAvail|Link=Skate|Name=Skate|Type=M3+|Cost=5,984,203}} {{BoronSyAvail|DS=x|GR=x|KE=x|LP=x|OoF=x|QR=-}}
+|-
+{{ShipSyAvail|Link=Mako|Name=Mako|Type=M4|Cost=568,452}} {{BoronSyAvail|DS=-|GR=x|KE=-|LP=x|OoF=-|QR=x}}
+|-
+{{ShipSyAvail|Link=Mako|Name=Mako Sentinel|Type=M4|Cost=802,572}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=x|QR=x}}
+|-
+{{ShipSyAvail|Link=Mako|Name=Mako Vanguard|Type=M4|Cost=661,278}} {{BoronSyAvail|DS=x|GR=-|KE=x|LP=-|OoF=-|QR=x}}
+|-
+{{ShipSyAvail|Link=Pike|Name=Pike|Type=M4+|Cost=1,033,400}} {{BoronSyAvail|DS=x|GR=x|KE=x|LP=x|OoF=x|QR=-}}
+|-
+{{ShipSyAvail|Link=Octopus|Name=Octopus|Type=M5|Cost=73,732}} {{BoronSyAvail|DS=-|GR=x|KE=x|LP=-|OoF=x|QR=x}}
+|-
+{{ShipSyAvail|Link=Octopus|Name=Octopus Raider|Type=M5|Cost=108,914}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=x|OoF=-|QR=x}}
+|-
+{{ShipSyAvail|Link=Octopus|Name=Octopus Sentinel|Type=M5|Cost=106,543}} {{BoronSyAvail|DS=x|GR=-|KE=-|LP=-|OoF=-|QR=x}}
+|-
+{{ShipSyAvail|Link=Octopus|Name=Octopus Vanguard|Type=M5|Cost=81,325}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=x|QR=x}}
+|-
+{{ShipSyAvail|Link=Hydra|Name=Hydra|Type=M6|Cost=8,766,030}} {{BoronSyAvail|DS=x|GR=x|KE=x|LP=x|OoF=x|QR=x}}
+|-
+{{ShipSyAvail|Link=Heavy Hydra|Name=Heavy Hydra|Type=M6+|Cost=25,382,467}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=x}}
+|-
+{{ShipSyAvail|Link=Thresher|Name=Thresher|Type=M7|Cost=38,206,712}} {{BoronSyAvail|DS=x|GR=x|KE=x|LP=x|OoF=x|QR=-}}
+|-
+{{ShipSyAvail|Link=Kraken|Name=Kraken|Type=M7M|Cost=51,019,915}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=x}}
+|-
+{{ShipSyAvail|Link=Guppy|Name=Guppy|Type=M7C|Cost=16,412,847}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=-}}
+|-
+{{ShipSyAvail|Link=Marlin|Name=Marlin|Type=M8|Cost=5,270,638}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=-}}
+|-
+{{ShipSyAvail|Link=Orca|Name=Orca|Type=TL|Cost=22,344,668}} {{BoronSyAvail|DS=x|GR=x|KE=x|LP=x|OoF=x|QR=x}}
+|-
+{{ShipSyAvail|Link=Pleco|Name=Pleco|Type=TM|Cost=462,558}} {{BoronSyAvail|DS=x|GR=x|KE=x|LP=x|OoF=x|QR=-}}
+|-
+{{ShipSyAvail|Link=Angel|Name=Angel|Type=TP|Cost=2,174,887}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=x}}
+|-
+{{ShipSyAvail|Link=Manta|Name=Manta|Type=TP|Cost=638,110}} {{BoronSyAvail|DS=-|GR=x|KE=x|LP=x|OoF=-|QR=x}}
+|-
+{{ShipSyAvail|Link=Manta|Name=Manta Hauler|Type=TP|Cost=1,449,925}} {{BoronSyAvail|DS=x|GR=-|KE=-|LP=-|OoF=x|QR=x}}
+|-
+{{ShipSyAvail|Link=Dolphin|Name=Dolphin|Type=TS|Cost=510,514}} {{BoronSyAvail|DS=-|GR=x|KE=-|LP=-|OoF=-|QR=x}}
+|-
+{{ShipSyAvail|Link=Dolphin|Name=Dolphin Hauler|Type=TS|Cost=1,029,447}} {{BoronSyAvail|DS=-|GR=-|KE=x|LP=-|OoF=-|QR=x}}
+|-
+{{ShipSyAvail|Link=Dolphin|Name=Dolphin Super Freighter|Type=TS|Cost=1,115,147}} {{BoronSyAvail|DS=x|GR=-|KE=-|LP=-|OoF=-|QR=x}}
+|-
+{{ShipSyAvail|Link=Dolphin|Name=Dolphin Super Freighter XL|Type=TS|Cost=2,167,186 }} {{BoronSyAvail|DS=-|GR=-|KE=x|LP=-|OoF=-|QR=-}}
+|-
+{{ShipSyAvail|Link=Dolphin|Name=Dolphin Tanker|Type=TS|Cost=510,514}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=x|QR=x}}
+|-
+{{ShipSyAvail|Link=Dolphin|Name=Dolphin Tanker XL|Type=TS|Cost=1,115,147}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=x|OoF=-|QR=x}}
+|-
+{{ShipSyAvail|Link=Sturgeon|Name=Sturgeon|Type=TS+|Cost=1,831,183}} {{BoronSyAvail|DS=-|GR=-|KE=-|LP=-|OoF=-|QR=AP}}
+|}
+*Note: [[Marlin]] is not available anymore
+
+[[Category:Shipyards]]
+
+==See Also==
+{{Boron Navbox}}

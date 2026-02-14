@@ -1,3 +1,40 @@
-<!-- source file: index__q2a359253ab9a.html -->
+==Spoiler Tags==
+If possible the inclusion of:
+<pre>
+.spoiler {padding: 0;margin: 0;list-style: none;clear:left;}
+.spoiler li div {visibility:hidden;}
+.spoiler li:hover div {visibility:visible;}
+</pre>
 
-==Spoiler Tags== If possible the inclusion of: &lt;pre> .spoiler {padding: 0;margin: 0;list-style: none;clear:left;} .spoiler li div {visibility:hidden;} .spoiler li:hover div {visibility:visible;} &lt;/pre> into one of the page global css files would permit the creation of a spoiler tag template: &lt;pre> &lt;ul class="spoiler"> &lt;li>&lt;span style="background-color:yellow;color:red;padding:0 1em 0 1em;">Hover to Reveal Spoiler&lt;/span>&lt;br> &lt;div>{{{1}}}&lt;/div> &lt;/li> &lt;/ul> &lt;/pre> which should hide the passed contents until the cursor is hovered over the hover spoiler text. The text would be concealed, but would still reserve space in page rendering so it would appear as gaps. this would alleviate the necessity of storing the spoiler information off page. it would be more prone to accidental reveal however, so may be undesirable. some additional experimentation may be required to adjust presentation to suit. [[User:Madned|Madned]] 14:37, 25 February 2011 (CST) ==Standard layout for pages== &lt;pre> ==Objective== A brief (one- or two- liner) intro giving the basic jist of the mission. ==General Difficulty:== Easy/medium/hard/depends. Keep it brief ==What you will need: == Ships and equipment (necessary and useful categories) listed. ==What you will find: == What sort of ship/how far to fly/other appropriate info. ==Commentary and Strategy== This is the place for long spiels on the above topics. Everything else should be brief. &lt;/pre>
+into one of the page global css files would permit the creation of a spoiler tag template:
+<pre>
+<ul class="spoiler">
+	<li><span style="background-color:yellow;color:red;padding:0 1em 0 1em;">Hover to Reveal Spoiler</span><br>
+		<div>{{{1}}}</div>
+	</li>
+</ul>
+</pre>
+which should hide the passed contents until the cursor is hovered over the hover spoiler text.
+The text would be concealed, but would still reserve space in page rendering so it would appear as gaps. this would alleviate the necessity of storing the spoiler information off page. it would be more prone to accidental reveal however, so may be undesirable. some additional experimentation may be required to adjust presentation to suit. [[User:Madned|Madned]] 14:37, 25 February 2011 (CST)
+
+
+
+==Standard layout for pages==
+<pre>
+==Objective==
+A brief (one- or two- liner) intro giving the basic jist of the mission.
+
+==General Difficulty:==
+Easy/medium/hard/depends. Keep it brief
+
+==What you will need: ==
+
+Ships and equipment (necessary and useful categories) listed.
+
+==What you will find: ==
+
+What sort of ship/how far to fly/other appropriate info.
+
+==Commentary and Strategy==
+This is the place for long spiels on the above topics. Everything else should be brief.
+</pre>

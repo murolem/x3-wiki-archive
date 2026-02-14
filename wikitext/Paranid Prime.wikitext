@@ -1,3 +1,78 @@
-<!-- source file: index__q380690ea014b.html -->
+{{Infobox Sector
+|Race=Paranid
+|SecLevel=Core
+|Population=107,468,312
+|Planets=1
+|SunLevel=150
+|GateDist=40
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|East|20240|	-10000|	10000|[[Priest Rings]]}}
+{{Gateblock2|South|-5000|	0|	-25240|[[Empire's Edge]]}}
+{{Gateblock2|West|-20240|	7000|	5000|[[Emperor Mines]]}}
+{{Gateblock/End}}
+}}
+==Description==
+Paranid Prime is a great place to get weapons and missiles of many types, as they tend to accumulate at the stations found in the sector. Often, many missile and ship weapons factories can be found there as well. It's often a good one-stop shop for early players who aren't yet producing their own equipment, but, like everything in the X-Universe, this is not always the case.
+===Encyclopedia Entry===
+The jewel of the [[Paranid|Paranid Empire]] produces some of the finest ship equipment available - devastating thermonuclear missiles, semi-organic ship hulls, artificially intelligent flight systems and highly powerful lasers are among the tech products to be found. The skies of Paranid Prime are dominated by a fiery gas cloud, the aftermath of a terrible Xenon experiment.
 
-{{Infobox Sector |Race=Paranid |SecLevel=Core |Population=107,468,312 |Planets=1 |SunLevel=150 |GateDist=40 |Gates={{Gateblock/Begin}} {{Gateblock2|East|20240| -10000| 10000|[[Priest Rings]]}} {{Gateblock2|South|-5000| 0| -25240|[[Empire's Edge]]}} {{Gateblock2|West|-20240| 7000| 5000|[[Emperor Mines]]}} {{Gateblock/End}} }} ==Description== Paranid Prime is a great place to get weapons and missiles of many types, as they tend to accumulate at the stations found in the sector. Often, many missile and ship weapons factories can be found there as well. It's often a good one-stop shop for early players who aren't yet producing their own equipment, but, like everything in the X-Universe, this is not always the case. ===Encyclopedia Entry=== The jewel of the [[Paranid|Paranid Empire]] produces some of the finest ship equipment available - devastating thermonuclear missiles, semi-organic ship hulls, artificially intelligent flight systems and highly powerful lasers are among the tech products to be found. The skies of Paranid Prime are dominated by a fiery gas cloud, the aftermath of a terrible Xenon experiment. ==Shipyard Availability== {{Shipyard/Begin|Station|ST Size|Cost}} {{Shipyard/Station|Paranid Trading Dock||12000|29,800,064}} {{Shipyard/Station|Equipment Dock||10000|48,368,296}} {{Shipyard/Station|Crystal Fab|M|15000|3,440,968}} {{Shipyard/Station|Quantum Tube Fab||13500|4,590,120}} {{Shipyard/Station|Computer Plant||14000|1,733,468}} {{Shipyard/Station|Hornet Missile Factory||17000|2,934,560}} {{Shipyard/Station|SQUASH Mine Factory||15000|2,246,368}} {{Shipyard/Station|High Energy Plasma Thrower Forge||18000|6,713,716}} {{Shipyard/Station|Concussion Impulse Generator Forge||21000|9,380,204}} {{Shipyard/Station|Phased Shockwave Generator Forge||15000|8,917,944}} {{Shipyard/Station|Mobile Drilling System Factory||18500|3,682,484}} {{Shipyard/Station|Shield Prod. Facility 25 MJ||14000|3,999,312}} {{Shipyard/Station|Soyfarm|M|10500|479,984}} {{Shipyard/Station|Snail Ranch|M|12000|300,012}} {{Shipyard/Station|Space Jewellery|M|9000|1,181,616}} {{Shipyard/Station|Soyery|L|15750|2,087,496}} {{Shipyard/Station|Solar Power Plant|M|10500|5,141,972}} {{Shipyard/Station|Ore Mine|M|8000|494,980}} {{Shipyard/Station|Silicon Mine|L|14250|1,227,060}} {{Shipyard/Station|Complex Construction Kit||4250|259,696}} {{Shipyard/Station|Low-yield Sidearms Fab||15000|2,246,368}} {{Shipyard/Station|Crystal Fab|L|20500|6,531,344}} {{Shipyard/End}} {{Shipyard/Begin|Ship|Class|Cost}} {{Shipyard/Ship1|Hercules|TL|19,879,848}} {{Shipyard/Ship2|Demeter|Tanker|TS|183,296}} {{Shipyard/Ship2|Demeter|Miner|TS|342,363}} {{Shipyard/Ship1|Hermes|TP|437,438}} {{Shipyard/Ship1|Helios|TM|406,051}} {{Shipyard/Ship1|Zeus|M1|86,439,545}} {{Shipyard/Ship1|Odysseus|M2|104,924,277}} {{Shipyard/Ship1|Perseus|M3|1,545,597}} {{Shipyard/Ship1|Medusa|M3+|5,521,117}} {{Shipyard/Ship2|Pericles|Raider|M4|596,643}} {{Shipyard/Ship1|Theseus|M4+|828,549}} {{Shipyard/Ship2|Pegasus|Vanguard|M5|78,000}} {{Shipyard/Ship1|Nemesis|M6|9,304,199}} {{Shipyard/Ship1|Deimos|M7|38,237,259}} {{Shipyard/End}} ==Default [[Stations]]== *[[Paranid Shipyard]] *[[Paranid Equipment Dock]] *[[Paranid Stock Exchange]] *[[Heavy Weapons Complex]] alpha *[[Image Recognition Production Complex]] alpha *[[Light Shield Production Complex]] alpha *[[Light Weapons Complex]] alpha *[[Medium Shield Production Complex]] alpha *[[Mobile Drilling System Factory]] alpha *[[Phased Shockwave Generator Forge]] alpha ==[[Asteroids]]== == See Also == {{Paranid Navbox}}
+==Shipyard Availability==
+{{Shipyard/Begin|Station|ST Size|Cost}}
+{{Shipyard/Station|Paranid Trading Dock||12000|29,800,064}}
+{{Shipyard/Station|Equipment Dock||10000|48,368,296}}
+{{Shipyard/Station|Crystal Fab|M|15000|3,440,968}}
+{{Shipyard/Station|Quantum Tube Fab||13500|4,590,120}}
+{{Shipyard/Station|Computer Plant||14000|1,733,468}}
+{{Shipyard/Station|Hornet Missile Factory||17000|2,934,560}}
+{{Shipyard/Station|SQUASH Mine Factory||15000|2,246,368}}
+{{Shipyard/Station|High Energy Plasma Thrower Forge||18000|6,713,716}}
+{{Shipyard/Station|Concussion Impulse Generator Forge||21000|9,380,204}}
+{{Shipyard/Station|Phased Shockwave Generator Forge||15000|8,917,944}}
+{{Shipyard/Station|Mobile Drilling System Factory||18500|3,682,484}}
+{{Shipyard/Station|Shield Prod. Facility 25 MJ||14000|3,999,312}}
+{{Shipyard/Station|Soyfarm|M|10500|479,984}}
+{{Shipyard/Station|Snail Ranch|M|12000|300,012}}
+{{Shipyard/Station|Space Jewellery|M|9000|1,181,616}}
+{{Shipyard/Station|Soyery|L|15750|2,087,496}}
+{{Shipyard/Station|Solar Power Plant|M|10500|5,141,972}}
+{{Shipyard/Station|Ore Mine|M|8000|494,980}}
+{{Shipyard/Station|Silicon Mine|L|14250|1,227,060}}
+{{Shipyard/Station|Complex Construction Kit||4250|259,696}}
+{{Shipyard/Station|Low-yield Sidearms Fab||15000|2,246,368}}
+{{Shipyard/Station|Crystal Fab|L|20500|6,531,344}}
+{{Shipyard/End}}
+{{Shipyard/Begin|Ship|Class|Cost}}
+{{Shipyard/Ship1|Hercules|TL|19,879,848}}
+{{Shipyard/Ship2|Demeter|Tanker|TS|183,296}}
+{{Shipyard/Ship2|Demeter|Miner|TS|342,363}}
+{{Shipyard/Ship1|Hermes|TP|437,438}}
+{{Shipyard/Ship1|Helios|TM|406,051}}
+{{Shipyard/Ship1|Zeus|M1|86,439,545}}
+{{Shipyard/Ship1|Odysseus|M2|104,924,277}}
+{{Shipyard/Ship1|Perseus|M3|1,545,597}}
+{{Shipyard/Ship1|Medusa|M3+|5,521,117}}
+{{Shipyard/Ship2|Pericles|Raider|M4|596,643}}
+{{Shipyard/Ship1|Theseus|M4+|828,549}}
+{{Shipyard/Ship2|Pegasus|Vanguard|M5|78,000}}
+{{Shipyard/Ship1|Nemesis|M6|9,304,199}}
+{{Shipyard/Ship1|Deimos|M7|38,237,259}}
+{{Shipyard/End}}
+
+==Default [[Stations]]==
+*[[Paranid Shipyard]]
+*[[Paranid Equipment Dock]]
+*[[Paranid Stock Exchange]]
+*[[Heavy Weapons Complex]] alpha
+*[[Image Recognition Production Complex]] alpha
+*[[Light Shield Production Complex]] alpha
+*[[Light Weapons Complex]] alpha
+*[[Medium Shield Production Complex]] alpha
+*[[Mobile Drilling System Factory]] alpha
+*[[Phased Shockwave Generator Forge]] alpha
+
+
+==[[Asteroids]]==
+
+
+== See Also ==
+{{Paranid Navbox}}

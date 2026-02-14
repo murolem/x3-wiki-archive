@@ -1,3 +1,80 @@
-<!-- source file: index__qe012edf5f9fc.html -->
+{{Infobox Sector
+|Race=Split
+|SecLevel=Border
+|Population=99,093,573
+|Planets=3
+|SunLevel=100
+|GateDist=60
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|0|30028|[[Patriarch's Retreat]]}}
+{{Gateblock2|South|0|0|-30076|[[Patriarch's Keep]]}}
+{{Gateblock2|West|-30031|0|0|[[Tharka's Sun]]}}
+{{Gateblock/End}}
+}}
+==Description==
+The Split secured this mineral rich system from the Xenon rearguard early after the last Xenon conflict but sustained heavy losses doing so. It now exists as a welcome, if rough, trading post on a busy route between many species' systems. Few communities hate the Xenon more than the inhabitants of the system.
 
-{{Infobox Sector |Race=Split |SecLevel=Border |Population=99,093,573 |Planets=3 |SunLevel=100 |GateDist=60 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0|0|30028|[[Patriarch's Retreat]]}} {{Gateblock2|South|0|0|-30076|[[Patriarch's Keep]]}} {{Gateblock2|West|-30031|0|0|[[Tharka's Sun]]}} {{Gateblock/End}} }} ==Description== The Split secured this mineral rich system from the Xenon rearguard early after the last Xenon conflict but sustained heavy losses doing so. It now exists as a welcome, if rough, trading post on a busy route between many species' systems. Few communities hate the Xenon more than the inhabitants of the system. ==Shipyard Availability== Cho's Defeat shipyard is located on the border with Teladi interests.&lt;br> It is in close proximity to the Split shipyards in [[Family Pride]] and [[Rhonkar's Might]]. {{Shipyard/Begin|Station|ST Size|Cost}} {{Shipyard/Station|Crystal Fab|M|15000|3,285,148}} {{Shipyard/Station|Advanced Satellite Factory||18000|3,389,028}} {{Shipyard/Station|Scruffin Farm|M|10000|320,008}} {{Shipyard/Station|Chelt Space Aquarium|M|12500|236,972}} {{Shipyard/Station|Massom Mill|M|11000|804,992}} {{Shipyard/Station|Rastar Refinery|M|13500|1,116,692}} {{Shipyard/Station|Solar Power Plant|L|15750|12,124,536}} {{Shipyard/Station|Ore Mine|L|12000|818,040}} {{Shipyard/Station|Silicon Mine|L|14250|1,022,552}} {{Shipyard/Station|Complex Construction Kit||4250|259,696}} {{Shipyard/Station|Thunderbolt Missile Factory||16500|3,025,452}} {{Shipyard/Station|Low-yield sidearms Fab||15000|2,246,368}} {{Shipyard/Station|Crystal Fab|L|20500|6,583,284}} {{Shipyard/End}} {{Shipyard/Begin|Ship|Class|Cost}} {{Shipyard/Ship1|Elephant|TL|17,415,102}} {{Shipyard/Ship1|Caiman|TS|603,046}} {{Shipyard/Ship1|Iguana|TP|334,918}} {{Shipyard/Ship1|Boa|TM|450,448}} {{Shipyard/Ship1|Raptor|M1|80,276,604}} {{Shipyard/Ship1|Python|M2|92,622,480}} {{Shipyard/Ship1|Mamba|M3|1,607,266}} {{Shipyard/Ship1|Chimera|M3+|5,413,515}} {{Shipyard/Ship2|Scorpion|Vanguard|M4|396,609}} {{Shipyard/Ship1|Asp|M4+|696,165}} {{Shipyard/Ship2|Jaguar|Raider|M5|88,182}} {{Shipyard/Ship1|Dragon|M6|7,689,771}} {{Shipyard/Ship1|Tiger|M7|36,461,288}} {{Shipyard/End}} ==Default [[Stations]]== *[[Split Shipyard]] *Split Equipment Dock ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|21|-7087|7647|5938}} {{Asteroid/Item|Ore|20|11147|-2585|-5195}} {{Asteroid/Item|Ore|16|14724|1512|3339}} {{Asteroid/Item|Ore|11|6330|579|-556}} {{Asteroid/Item|Ore|8|9843|-1056|3525}} {{Asteroid/Item|Ore|6|1626|8490|3876}} {{Asteroid/Item|Ore|4|6007|-5182|-10306}} {{Asteroid/Item|Silicon|70|20206|-10499|11091}} {{Asteroid/Item|Silicon|26|-10611|5428|-2579}} {{Asteroid/Item|Silicon|20|-11128|-364|-12618}} {{Asteroid/Item|Silicon|19|-11684|-5027|3339}} {{Asteroid/Item|Silicon|18|-14700|3882|-10938}} {{Asteroid/Item|Silicon|15|5373|-11342|-5959}} {{Asteroid/Item|Silicon|8|-15466|-7449|-14103}} {{Asteroid/Item|Silicon|7|-5933|-2042|-12897}} {{Asteroid/Item|Silicon|6|-17424|-5219|5102}} {{Asteroid/Item|Silicon|6|-11504|-59|-5949}} {{Asteroid/Item|Silicon|6|-7690|3614|-10391}} {{Asteroid/Item|Silicon|5|-10848|2237|6495}} {{Asteroid/End}} == See Also == {{Split Navbox}}
+==Shipyard Availability==
+Cho's Defeat shipyard is located on the border with Teladi interests.<br>
+It is in close proximity to the Split shipyards in [[Family Pride]] and [[Rhonkar's Might]].
+
+{{Shipyard/Begin|Station|ST Size|Cost}}
+{{Shipyard/Station|Crystal Fab|M|15000|3,285,148}}
+{{Shipyard/Station|Advanced Satellite Factory||18000|3,389,028}}
+{{Shipyard/Station|Scruffin Farm|M|10000|320,008}}
+{{Shipyard/Station|Chelt Space Aquarium|M|12500|236,972}}
+{{Shipyard/Station|Massom Mill|M|11000|804,992}}
+{{Shipyard/Station|Rastar Refinery|M|13500|1,116,692}}
+{{Shipyard/Station|Solar Power Plant|L|15750|12,124,536}}
+{{Shipyard/Station|Ore Mine|L|12000|818,040}}
+{{Shipyard/Station|Silicon Mine|L|14250|1,022,552}}
+{{Shipyard/Station|Complex Construction Kit||4250|259,696}}
+{{Shipyard/Station|Thunderbolt Missile Factory||16500|3,025,452}}
+{{Shipyard/Station|Low-yield sidearms Fab||15000|2,246,368}}
+{{Shipyard/Station|Crystal Fab|L|20500|6,583,284}}
+{{Shipyard/End}}
+{{Shipyard/Begin|Ship|Class|Cost}}
+{{Shipyard/Ship1|Elephant|TL|17,415,102}}
+{{Shipyard/Ship1|Caiman|TS|603,046}}
+{{Shipyard/Ship1|Iguana|TP|334,918}}
+{{Shipyard/Ship1|Boa|TM|450,448}}
+{{Shipyard/Ship1|Raptor|M1|80,276,604}}
+{{Shipyard/Ship1|Python|M2|92,622,480}}
+{{Shipyard/Ship1|Mamba|M3|1,607,266}}
+{{Shipyard/Ship1|Chimera|M3+|5,413,515}}
+{{Shipyard/Ship2|Scorpion|Vanguard|M4|396,609}}
+{{Shipyard/Ship1|Asp|M4+|696,165}}
+{{Shipyard/Ship2|Jaguar|Raider|M5|88,182}}
+{{Shipyard/Ship1|Dragon|M6|7,689,771}}
+{{Shipyard/Ship1|Tiger|M7|36,461,288}}
+{{Shipyard/End}}
+
+==Default [[Stations]]==
+*[[Split Shipyard]]
+*Split Equipment Dock
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|21|-7087|7647|5938}}
+{{Asteroid/Item|Ore|20|11147|-2585|-5195}}
+{{Asteroid/Item|Ore|16|14724|1512|3339}}
+{{Asteroid/Item|Ore|11|6330|579|-556}}
+{{Asteroid/Item|Ore|8|9843|-1056|3525}}
+{{Asteroid/Item|Ore|6|1626|8490|3876}}
+{{Asteroid/Item|Ore|4|6007|-5182|-10306}}
+{{Asteroid/Item|Silicon|70|20206|-10499|11091}}
+{{Asteroid/Item|Silicon|26|-10611|5428|-2579}}
+{{Asteroid/Item|Silicon|20|-11128|-364|-12618}}
+{{Asteroid/Item|Silicon|19|-11684|-5027|3339}}
+{{Asteroid/Item|Silicon|18|-14700|3882|-10938}}
+{{Asteroid/Item|Silicon|15|5373|-11342|-5959}}
+{{Asteroid/Item|Silicon|8|-15466|-7449|-14103}}
+{{Asteroid/Item|Silicon|7|-5933|-2042|-12897}}
+{{Asteroid/Item|Silicon|6|-17424|-5219|5102}}
+{{Asteroid/Item|Silicon|6|-11504|-59|-5949}}
+{{Asteroid/Item|Silicon|6|-7690|3614|-10391}}
+{{Asteroid/Item|Silicon|5|-10848|2237|6495}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Split Navbox}}

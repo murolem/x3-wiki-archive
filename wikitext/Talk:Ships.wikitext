@@ -1,3 +1,247 @@
-<!-- source file: index__q27ca4177d7ef.html -->
+===Some tools===
+[[:Category:Ship Tool]]
 
-===Some tools=== [[:Category:Ship Tool]] [[:Category:page tools]] expanded tools category, moved some stuff around. infobox open and close should be incompatible with the infobox ship [[User:Madned|Madned]] 20:17, 25 June 2010 (UTC) ---- Perhaps instead of having a chart/table on this page, we could have a link to each ship class (eg M3, M1, M8 etc) --[[User:Technojerk36|Technojerk36]] 19:21, 1 May 2010 (UTC) Same thing as with stations, I dont think it would be possible to sort if we do that. --[[User:rexde500]] 19:42, 1 May 2010 (UTC) ===Standard form=== whoa when'd this thing come back, well it's mostly empty, but as before we should probably use a standard form. since i'm writing this i'm going to put up a modified version. switched to variant version as of 20100624. If we use switch to variants on one page, it'll be easier to copy paste entries. if not, no harm done. &lt;pre> {{Infobox open}} {{Infobox variant |Variant= |Faction= |Class= |Priceblock= |Minspeed= |Maxspeed= |Minaccel= |Maxaccel= |Minsteer= |Maxsteer= |Hull= |Maxshield= |Shieldslots= |Maxshieldstrength= |Shieldreactor= |Cargoclass= |Mincargo= |Maxcargo= |Lasercap= |Laserrecharge= |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot= |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== A '''brief''' paragraph explaining key strengths and weaknesses and any unuaual characteristics. 5 lines max. ==Background== Lore concerning the ship. Encyclopedia entires go here. ==Variants== List of variants. Note that [[list of variant templates|templates]] exist with standard blurb. ==Physical Characteristics== Explain what the ship looks like, and how big it is. == Combat == A rundown of useful combat tactics, strengths and weaknesses. == Equipment == Lists possible ship equipment. == Availability == Where this ship can be bought, of if it needs to be capped. == Player Headquarters Production Info == {{PHQBuild||Ecells=|Tldium=|CRimes=|ROil=|Ore=|SWafer=|Crystal=|QTube=|MChips=|CComp=|SFee=|BTime=}} == Suggested Roles== Brief list of suggestions, no more than 1.5 lines per suggestion. == See Also== Other ships in this class and related ships. &lt;/pre> there are a couple more templates created but they're a little messy.&lt;nowiki>{{gunslot}} and {{Priceblock}}&lt;/nowiki> there's also a couple of m1 specific templates &lt;nowiki>{{M1class}} and {{M1category}}&lt;/nowiki> categories are up for debate on usage, esp if we're going to use the back link methodology. the M1 class deals with the M1-Carrier nomeclature problem simplifying into one declaration which can be altered across all cases if it's determined M1s shouldn't be called carriers anymore or should just be called carriers. removes the class long and short thing. in any case these should be expanded to the other ship classes, so be aware they're going to be there. suggested form for capital ship gunbays&lt;br> set the gun abbreviations which are allowed to: 1&lt;br> example [[Shark]] it may be desirable to set one mostly common b-ank arrangement and copy it to the others instead and then make the smaller modifications. &lt;pre>&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Right |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Rear |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Top |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Bottom |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table>&lt;/pre> example all on gunslot: &lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Example |Guncount=gunslot |ire=1|pac=1|hept=1| cig=1|ppc=1| md=1|us=1|prg=1| cfaa=1|pbc=1|id=1| ipg=1|ic=1|fbl=1| psg=1|tbc=1|ebc=1| faa=1|gc=1|pbe=1| isr=1|palc=1|pbg=1|ibl=1| empc=1|maml=1|ssc=1|psp=1| fbc=1|ake=1|bke=1|gke=1| eempc=1|pmaml=1|pssc=1 }} &lt;/table> gunslot makes the pretty gun display, but requires an table tags for correct operation, it may be simpler to make two more templates to deal with that then you know, gunslot open, gunslot..., gunslot close. priceblock is a little funky in operation and can probably use some display tuning, but is pretty simple to use. the premise is, you only have prices if you have notoriety. can't buy it? then you don't need the priceblock. suggested priceblock usage &lt;nowiki>{{Priceblock|(1)|(2)}}&lt;/nowiki>&lt;br> (1) is notoriety&lt;br> (2) is price suggested dockbay usage &lt;nowiki>{{Dockbay|}}&lt;/nowiki> Dockbay entry should be formatted like: &lt;nowiki>40 [[M3+]]-[[M5]]&lt;/nowiki> Cheers! [[User:Madned|Madned]] 02:45, 23 June 2010 (UTC) == Variants == I'm of two minds about variants. A lot of stuff like the encyclopedia entry I think is the same between variants so logically you could probably keep everything based on the same hull form on the same page. it does however create a length problem especially if you use infoboxes for the tech info, particularly with gunslots input. Unfortunately a lot changes in the tech numbers side. most have different price, speed, steering, accel, hull, shield slots, sometimes max shield, cargospace, sometimes cargo class and various energy stuff. mostly on tech info it's the source race, ship class, I tried it out before with the nova. it started to get a little ungainly at about 5 variants. A major advantage is that you'll frequently be comparing variants so having them in one place is good. having variants as independent pages is good from a clean layout standpoint, but you replicate a bunch of info for pretty limited changes between versions. ie: overviews will tend to stumble over each other, background is going to be the same, combat will be cross referential, phys char is the same, roles will generally be cross referential. ideas? [[User:Madned|Madned]] 23:37, 23 June 2010 (UTC) example of variants on one page [[Nova]] [[User:Madned|Madned]] 20:12, 25 June 2010 (UTC) ------------- The way it's turned out is that variants are listed on the main page with an overview of their principle deviations from the standard variant (which the informaton on the page is based on). To facilitate this I've just created a series of [[List of variant templates|templates]] which contain standard blurb for each variant. This makes it easy to say something about that variant, instead of just leaving the headings above blank text. [[User:Spychotic|Spychotic]] 11:53, 28 November 2010 (CST) ===repair laser factories=== that new with albion or you using a scr-ipt? ie: {{linky}}forum.egosoft.com/viewtopic.php?t=221081 [[User:Madned|Madned]] 17:35, 10 February 2012 (CST) == Images == I'm not sure if this has been addressed, but is there a reason that none of the ship pages have images? It seems like it would be much easier than just trying to describe them.--[[User:Aikidu|Aikidu]] ([[User talk:Aikidu|talk]]) 17:58, 16 October 2012 (CDT)
+[[:Category:page tools]] expanded tools category, moved some stuff around.
+
+
+infobox open and close should be incompatible with the infobox ship
+[[User:Madned|Madned]] 20:17, 25 June 2010 (UTC)
+----
+Perhaps instead of having a chart/table on this page, we could have a link to each ship class (eg M3, M1, M8 etc) 
+--[[User:Technojerk36|Technojerk36]] 19:21, 1 May 2010 (UTC)
+
+Same thing as with stations, I dont think it would be possible to sort if we do that.
+--[[User:rexde500]] 19:42, 1 May 2010 (UTC)
+
+===Standard form===
+whoa when'd this thing come back, well it's mostly empty, but as before we should probably use a standard form.
+since i'm writing this i'm going to put up a modified version. switched to variant version as of 20100624. If we use switch to variants on one page, it'll be easier to copy paste entries. if not, no harm done.
+
+<pre>
+{{Infobox open}}
+{{Infobox variant
+|Variant=
+|Faction=
+|Class=
+|Priceblock=
+|Minspeed=
+|Maxspeed=
+|Minaccel=
+|Maxaccel=
+|Minsteer=
+|Maxsteer=
+|Hull=
+|Maxshield=
+|Shieldslots=
+|Maxshieldstrength=
+|Shieldreactor= 
+|Cargoclass=
+|Mincargo=
+|Maxcargo=
+|Lasercap=
+|Laserrecharge=
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+A '''brief''' paragraph explaining key strengths and weaknesses and any unuaual characteristics. 5 lines max.
+==Background==
+Lore concerning the ship. Encyclopedia entires go here.
+==Variants==
+List of variants. Note that [[list of variant templates|templates]] exist with standard blurb.
+==Physical Characteristics==
+Explain what the ship looks like, and how big it is.
+== Combat ==
+A rundown of useful combat tactics, strengths and weaknesses.
+== Equipment ==
+Lists possible ship equipment.
+== Availability ==
+Where this ship can be bought, of if it needs to be capped.
+== Player Headquarters Production Info ==
+{{PHQBuild||Ecells=|Tldium=|CRimes=|ROil=|Ore=|SWafer=|Crystal=|QTube=|MChips=|CComp=|SFee=|BTime=}}
+== Suggested Roles==
+Brief list of suggestions, no more than 1.5 lines per suggestion.
+== See Also==
+Other ships in this class and related ships.
+</pre>
+there are a couple more templates created but they're a little messy.<nowiki>{{gunslot}} and {{Priceblock}}</nowiki> 
+there's also a couple of m1 specific templates <nowiki>{{M1class}} and {{M1category}}</nowiki> categories are up for debate on usage, esp if we're going to use the back link methodology.  the M1 class deals with the M1-Carrier nomeclature problem simplifying into one declaration which can be altered across all cases if it's determined M1s shouldn't be called carriers anymore or should just be called carriers. removes the class long and short thing. in any case these should be expanded to the other ship classes, so be aware they're going to be there.
+
+suggested form for capital ship gunbays<br>
+set the gun abbreviations which are allowed to: 1<br>
+
+example [[Shark]]
+it may be desirable to set one mostly common b-ank arrangement and copy it to the others instead and then make the smaller modifications.
+<pre><table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Top
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Bottom
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table></pre>
+
+example all on gunslot:
+<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Example
+|Guncount=gunslot
+|ire=1|pac=1|hept=1|
+cig=1|ppc=1|
+md=1|us=1|prg=1|
+cfaa=1|pbc=1|id=1|
+ipg=1|ic=1|fbl=1|
+psg=1|tbc=1|ebc=1|
+faa=1|gc=1|pbe=1|
+isr=1|palc=1|pbg=1|ibl=1|
+empc=1|maml=1|ssc=1|psp=1|
+fbc=1|ake=1|bke=1|gke=1|
+eempc=1|pmaml=1|pssc=1
+}}
+</table>
+
+gunslot makes the pretty gun display, but requires an table tags for correct operation, it may be simpler to make two more templates to deal with that then you know, gunslot open, gunslot..., gunslot close. priceblock is a little funky in operation and can probably use some display tuning, but is pretty simple to use. the premise is, you only have prices if you have notoriety. can't buy it? then you don't need the priceblock.
+
+suggested priceblock usage
+<nowiki>{{Priceblock|(1)|(2)}}</nowiki><br>
+(1) is notoriety<br>
+(2) is price
+
+suggested dockbay usage <nowiki>{{Dockbay|}}</nowiki> Dockbay entry should be formatted like: <nowiki>40 [[M3+]]-[[M5]]</nowiki>
+
+Cheers!
+[[User:Madned|Madned]] 02:45, 23 June 2010 (UTC)
+
+== Variants ==
+
+I'm of two minds about variants.
+
+A lot of stuff like the encyclopedia entry I think is the same between variants so logically you could probably keep everything based on the same hull form on the same page. it does however create a length problem especially if you use infoboxes for the tech info, particularly with gunslots input.
+
+Unfortunately a lot changes in the tech numbers side. most have different price, speed, steering, accel, hull, shield slots, sometimes max shield, cargospace, sometimes cargo class and various energy stuff.
+mostly on tech info it's the source race, ship class, 
+
+I tried it out before with the nova. it started to get a little ungainly at about 5 variants.
+
+A major advantage is that you'll frequently be comparing variants so having them in one place is good.
+
+having variants as independent pages is good from a clean layout standpoint, but you replicate a bunch of info for pretty limited changes between versions. ie: overviews will tend to stumble over each other, background is going to be the same, combat will be cross referential, phys char is the same, roles will generally be cross referential.
+
+ideas?
+[[User:Madned|Madned]] 23:37, 23 June 2010 (UTC)
+
+
+example of variants on one page [[Nova]]
+[[User:Madned|Madned]] 20:12, 25 June 2010 (UTC)
+-------------
+The way it's turned out is that variants are listed on the main page with an overview of their principle deviations from the standard variant (which the informaton on the page is based on).
+
+To facilitate this I've just created a series of [[List of variant templates|templates]] which contain standard blurb for each variant. This makes it easy to say something about that variant, instead of just leaving the headings above blank text. [[User:Spychotic|Spychotic]] 11:53, 28 November 2010 (CST)
+
+===repair laser factories===
+that new with albion or you using a scr-ipt? ie: {{linky}}forum.egosoft.com/viewtopic.php?t=221081 [[User:Madned|Madned]] 17:35, 10 February 2012 (CST)
+
+== Images ==
+
+I'm not sure if this has been addressed, but is there a reason that none of the ship pages have images? It seems like it would be much easier than just trying to describe them.--[[User:Aikidu|Aikidu]] ([[User talk:Aikidu|talk]]) 17:58, 16 October 2012 (CDT)

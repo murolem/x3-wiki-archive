@@ -1,3 +1,72 @@
-<!-- source file: index__q0602ef5776c9.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Split
+|station=Scruffin Farm L
+|hull=2250000
+|shield=15
+|generator=1500
+|hangar=5
+|cycle=00:01:00
+|productnum=[[Scruffin Fruits]] (75)
+|stationprice={{Priceblock|Split Distinguished Associate|799992}}
+|reqresources=[[Energy Cells]] (75)<br>
+|optresources=[[Spaceflies]]<br>[[Sunrise Flowers]]
+}}
+{{Infobox factory
+|faction=Split
+|station=Scruffin Farm M
+|hull=900000
+|shield=10
+|generator=1500
+|hangar=5
+|cycle=00:01:00
+|productnum=[[Scruffin Fruits]] (30)
+|stationprice={{Priceblock|Split Distinguished Associate|320008}}
+|reqresources=[[Energy Cells]] (30)<br>
+|optresources=[[Spaceflies]]<br>[[Sunrise Flowers]]
+}}
+{{Infobox close}}
+==Overview==
+Scruffin Farms grow [[Scruffin Fruits]], a basic Split food ingredient. They require [[Energy Cells]].
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Split |station=Scruffin Farm L |hull=2250000 |shield=15 |generator=1500 |hangar=5 |cycle=00:01:00 |productnum=[[Scruffin Fruits]] (75) |stationprice={{Priceblock|Split Distinguished Associate|799992}} |reqresources=[[Energy Cells]] (75)&lt;br> |optresources=[[Spaceflies]]&lt;br>[[Sunrise Flowers]] }} {{Infobox factory |faction=Split |station=Scruffin Farm M |hull=900000 |shield=10 |generator=1500 |hangar=5 |cycle=00:01:00 |productnum=[[Scruffin Fruits]] (30) |stationprice={{Priceblock|Split Distinguished Associate|320008}} |reqresources=[[Energy Cells]] (30)&lt;br> |optresources=[[Spaceflies]]&lt;br>[[Sunrise Flowers]] }} {{Infobox close}} ==Overview== Scruffin Farms grow [[Scruffin Fruits]], a basic Split food ingredient. They require [[Energy Cells]]. NPC factories also accept as secondary resources [[Spaceflies]] and [[Sunrise Flowers]]. ===Encyclopedia Entry=== Scruffin Farms are large agricultural complexes where the Split grow vast numbers of Scruffin. The farms are vast geodesic domes that simulate the natural atmosphere and artificial sunlight found on the Split home planet. The huge power resources required to run such a plant are provided by unique Split engines that, like their space ship engines, are powered by the use of the Markus Space Fly. This requires that each farm needs large amounts of Nostrop, which they feed to the Markus Space Fly. In many farms the Split are refurbishing their older building with new ones manufactured from Teladianium. ==Availability== This factory is unique to the Split. {| style="text-align:left;" |- valign="top" | style="padding-right:5em;"| ===L-type=== {| | '''[[Split#Shipyards|Split]]''' *{{sa|Family Njy}} *{{sa|Family Pride}} *{{sa|Family Rhy}} *{{sa|Patriarch's Conclusion}} *{{sa|Rhonkar's Might}} *{{sa|Rhonkar's Trial}} *{{sa|Zyarth's Dominion}} *{{sa|Zyarth's Stand}} |} | ===M-type=== {| | '''[[Split#Shipyards|Split]]''' *{{sa|Cho's Defeat}} *{{sa|Family Rhy}} *{{sa|Family Tkr}} *{{sa|Patriarch's Conclusion}} *{{sa|Rhonkar's Might}} *{{sa|Rhonkar's Trial}} *{{sa|Zyarth's Dominion}} *{{sa|Zyarth's Stand}} |} |} {{Stationcategory}}
+NPC factories also accept as secondary resources [[Spaceflies]] and [[Sunrise Flowers]].
+
+===Encyclopedia Entry===
+Scruffin Farms are large agricultural complexes where the Split grow vast numbers of Scruffin. The farms are vast geodesic domes that simulate the natural atmosphere and artificial sunlight found on the Split home planet. The huge power resources required to run such a plant are provided by unique Split engines that, like their space ship engines, are powered by the use of the Markus Space Fly. 
+
+This requires that each farm needs large amounts of Nostrop, which they feed to the Markus Space Fly. In many farms the Split are refurbishing their older building with new ones manufactured from Teladianium.
+
+==Availability==
+This factory is unique to the Split.
+{| style="text-align:left;"
+|- valign="top"
+| style="padding-right:5em;"|
+===L-type===
+{|
+| '''[[Split#Shipyards|Split]]'''
+*{{sa|Family Njy}}
+*{{sa|Family Pride}}
+*{{sa|Family Rhy}}
+*{{sa|Patriarch's Conclusion}}
+*{{sa|Rhonkar's Might}}
+*{{sa|Rhonkar's Trial}}
+*{{sa|Zyarth's Dominion}}
+*{{sa|Zyarth's Stand}}
+|}
+|
+===M-type===
+{|
+| '''[[Split#Shipyards|Split]]'''
+*{{sa|Cho's Defeat}}
+*{{sa|Family Rhy}}
+*{{sa|Family Tkr}}
+*{{sa|Patriarch's Conclusion}}
+*{{sa|Rhonkar's Might}}
+*{{sa|Rhonkar's Trial}}
+*{{sa|Zyarth's Dominion}}
+*{{sa|Zyarth's Stand}}
+|}
+|}
+
+{{Stationcategory}}

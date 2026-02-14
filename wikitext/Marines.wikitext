@@ -1,3 +1,172 @@
-<!-- source file: index__q435435229088.html -->
+{{see also|Boarding}}
+{{Infobox open}}
+{{Infobox ware
+|ware= Marines/Mercenary
+|cargoclass= M
+|volume=8
+|minprice=
+|aveprice=
+|maxprice=
+}}
+{{Infobox close}}
+===Encyclopedia Entry===
+====Marine====
+A marine is a simple creature. Feed it and tell it what to do and many things become possible. The marine's primary role now is combat boarding operations and for this reason, as well as being proficient soldiers, Marines are also well versed in either computers or engineering.
+====Mercenary====
+Trained in a variety of combat skills and technical specialisations, Mercenaries are developed for a wide range of tasks and are essentially sold on to pirate clans and guilds. Private security firms also make use of mercenaries for their own aims.
 
-{{see also|Boarding}} {{Infobox open}} {{Infobox ware |ware= Marines/Mercenary |cargoclass= M |volume=8 |minprice= |aveprice= |maxprice= }} {{Infobox close}} ===Encyclopedia Entry=== ====Marine==== A marine is a simple creature. Feed it and tell it what to do and many things become possible. The marine's primary role now is combat boarding operations and for this reason, as well as being proficient soldiers, Marines are also well versed in either computers or engineering. ====Mercenary==== Trained in a variety of combat skills and technical specialisations, Mercenaries are developed for a wide range of tasks and are essentially sold on to pirate clans and guilds. Private security firms also make use of mercenaries for their own aims. ==Overview== Marines are soldiers trained in [[boarding]] and defending ships. A strong marine is a major investment of time and [[Credits]]. Marines may be recruited from Military Outposts, Military Stations, [[Marine Training Barracks]], or Mercenary Stations. Their cost varies depending on skill ratings. Sometimes another race's marines can be seen floating in space which is an opportunity to collect well-trained marines for free; there does not seem to be a reputation penalty for abducting them. Marines are rated in several areas: ===Combat=== Marine combat rating indicates their fighting strength and will only increase through boarding operations. It is the most important stat as it influences the survival of the boarding team and the suppression of onboard defenses. Or on defense it dictates how effective the marine is at opposing the boarding team. ===Engineering=== Engineering affects how much damage the marine does as they pass through the ship. A marine with low engineering skill will cause higher hull damage during a capture. If the ship has moderate to high hull damage marines with low engineering skill may lower the hull too far and cause the boarding operation to fail. ===Hacking=== Hacking is important for the final stage of the boarding operation, hacking the ship's core. A successful hack will grant you control of the ship. An unsuccessful hack means the boarding operation was a failure. Of the surviving marines who reach the core some must have hacking skill in order to succeed. As you cannot determine which marines may survive to reach the core it is important that a large number of the boarding party have high hacking skill. ===Mechanical=== The mechanical skill is the ability of the marine to cut through a ships hull, different ship classes have different minimum required mechanical skill to successfully breach the hull. {| cellspacing="0" cellpadding="4" style="text-align:center;" border="1" |+'''Min Mech Skill for Hull Breaching''' ! Ship Class !! Min Space Walk Mech !! Min [[Boarding Pod]] Mech |- | M1 || 100 || 50 |- | M2 || 100 || 50 |- | M6 || 17 || 10 |- | M7 || 50 || 35 |- | TM || 10 || 10 |- | TL || 85 || 35 |} Warning: If the target ship has hull polarization equipped then the required mech skill is much higher. e.g. A M1 with hull polarization will require 85 mech skill with boarding pods to breach. Here is a table of equivalence between the five-star rating system and the actual skill values: {| cellspacing="0" cellpadding="6" border="1" !Rating !! Skill |- | 1 star || 0 to 33 |- | 2 stars || 34 to 50 |- | 3 stars || 51 to 67 |- | 4 stars || 68 to 84 |- | 5 stars || 85 to 100 |} ==Training Marines== To reach peak effectiveness, Marines must be trained. === Engineering, Hacking and Mechanical === Engineering, Hacking and Mechanical skills can all be improved at training facilities which are typically the same stations where they can be hired: [[Military Outpost|Military Outposts]], [[Military Base|Military Bases]], or [[Marine Training Barracks]], but also at [[Trading Station|Trading Stations]] and [[Stock Exchange|Stock Exchanges]]. Training duration, cost, and effectiveness is the same everywhere. Training these skills is expensive and varies between 20,000Cr to 500,000Cr per course and will take anywhere from a few minutes to several days. The training cost and duration depend on whether a Quick, a Normal or an Advanced training course is selected, and on the skill level the marine has when he starts training. The number of skill points gained in the training is random, but depends on whether a Quick, Normal, or Advanced course is chosen. The formulas (see: forum.egosoft.com/viewtopic.php?t=362077) for the duration of training a single skill are as follows, where all divisions are truncating (i.e., rounding down to an integer): {| !Course !! Skill increase (random) !! Formula: time in minutes with starting skill level ''S'' |- | Quick || 5&amp;ndash;9 || 5 + (''S'' / 5 + 1)^2 |- | Normal || 15&amp;ndash;27 || 15 + (''S'' / 5 + 1)^2 + (''S'' / 5 + 3)^2 + (''S'' / 5 + 5)^2 |- | Advanced || 25&amp;ndash;45 || 25 + (''S'' / 5 + 1)^2 + (''S'' / 5 + 3)^2 + (''S'' / 5 + 5)^2 +(''S'' / 5 + 7)^2 + (''S'' / 5 + 9)^2 |} Training "All skills" takes as long as the three separate courses for each trainable skill would take combined, plus 20% longer. The fastest training is achieved by training each skill individually with Quick courses, but this also requires the most player attention. The actual numbers for the duration in minutes for the single-skill courses at different skill levels are {| !Starting skill !! Quick !! Normal !! Advanced |- | 0&amp;ndash;4 || 6 || 50 || 190 |- | 5&amp;ndash;9 || 9 || 71 || 245 |- | 10&amp;ndash;14 || 14 || 98 || 310 |- | 15&amp;ndash;19 || 21 || 131 || 385 |- | 20&amp;ndash;24 || 30 || 170 || 470 |- | 25&amp;ndash;29 || 41 || 215 || 565 |- | 30&amp;ndash;34 || 54 || 266 || 670 |- | 35&amp;ndash;39 || 69 || 323 || 785 |- | 40&amp;ndash;44 || 86 || 386 || 910 |- | 45&amp;ndash;49 || 105 || 455 || 1045 |- | 50&amp;ndash;54 || 126 || 530 || 1190 |- | 55&amp;ndash;59 || 149 || 611 || 1345 |- | 60&amp;ndash;64 || 174 || 698 || 1510 |- | 65&amp;ndash;69 || 201 || 791 || 1685 |- | 70&amp;ndash;74 || 230 || 890 || 1870 |- | 75&amp;ndash;79 || 261 || 995 || 2065 |- | 80&amp;ndash;84 || 294 || 1106 || 2270 |- | 85&amp;ndash;89 || 329 || 1223 || 2485 |- | 90&amp;ndash;94 || 366 || 1346 || 2710 |- | 95&amp;ndash;99 || 405 || 1475 || 2945 |} === Fighting === Fighting skill can be trained only by successfully completing boarding operations. After each successful boarding, each marine that participated in the boarding increases his Fighting skill by a random amount between 5 to 9 points, like a Quick training course in the other three skills does. The success probability of boarding well-defended ships depends very greatly on the combined Fighting skill of the marines involved, so one should specifically train the marines' Fighting skill through practice boarding operations before taking on, say, Xenon or Terran vessels. Boardable pirate vessels and ships from [[Return Ship]] missions are ideal for this: the former are quite easy to board, and the latter spawn without shield, weapons, or equipment, making them sitting ducks waiting to be boarded. After the boarding, the ship can be returned to its owner normally to complete the mission. One should send the largest boarding party the target ship can hold, to minimize the risk of losses and to maximize the number of marines trained. However, low Engineering skill can cause a large boarding party to deal too much damage to the hull and result in the boarding being aborted; in this case, a smaller boarding party may have to be used, excluding those marines with particularly poor Engineering skill. ==Aboard Ship== To transport marines, a [[Cargo Lifesupport System]] is required. Ships may only carry a limited number of marines: {| style="text-align:center;" ! Ship Class !! Marines Allowed (TC) !! Marines Allowed (AP) |- | {{M1class}} || 20 || 20 |- | {{M2class}} || 20 || 20 |- | {{M6class}} || 5 || 8 |- | {{M7class}} || 20 || 20 |- | {{M7Mclass}}&lt;sup>1&lt;/sup> || 20 || 20 |- | {{TMclass}} || 5 || 8 |- | {{TLclass}} || 20 || 20 |- | {{TPclass}} || 10 || 40 |} &lt;sup>1&lt;/sup> {{M7Mclass}} [[Sirokos]] carries 30 marines. For unknown reasons the maximum boarding party is '''one''' more than the maximum carriage limit. For example, 21 Marines can be fighting aboard a [[Colossus]] at once. If the supernumerary survives the boarding attempt, that marine will leave the boarded ship to return home to the boarding ship. Boarding ships equipped with transporter devices can transport them back aboard when they pass within 5 km of the space walker. == See Also == {{Piracy}}
+==Overview==
+Marines are soldiers trained in [[boarding]] and defending ships.
+
+A strong marine is a major investment of time and [[Credits]].
+
+Marines may be recruited from Military Outposts, Military Stations, [[Marine Training Barracks]], or Mercenary Stations. Their cost varies depending on skill ratings. Sometimes another race's marines can be seen floating in space which is an opportunity to collect well-trained marines for free; there does not seem to be a reputation penalty for abducting them.
+
+Marines are rated in several areas:
+===Combat===
+Marine combat rating indicates their fighting strength and will only increase through boarding operations.  
+
+It is the most important stat as it influences the survival of the boarding team and the suppression of onboard defenses. Or on defense it dictates how effective the marine is at opposing the boarding team.
+
+===Engineering===
+Engineering affects how much damage the marine does as they pass through the ship. A marine with low engineering skill will cause higher hull damage during a capture. If the ship has moderate to high hull damage marines with low engineering skill may lower the hull too far and cause the boarding operation to fail.
+
+===Hacking===
+Hacking is important for the final stage of the boarding operation, hacking the ship's core. A successful hack will grant you control of the ship. An unsuccessful hack means the boarding operation was a failure. Of the surviving marines who reach the core some must have hacking skill in order to succeed. As you cannot determine which marines may survive to reach the core it is important that a large number of the boarding party have high hacking skill. 
+
+===Mechanical===
+The mechanical skill is the ability of the marine to cut through a ships hull, different ship classes have different minimum required mechanical skill to successfully breach the hull.
+
+{| cellspacing="0" cellpadding="4" style="text-align:center;" border="1"
+|+'''Min Mech Skill for Hull Breaching'''
+! Ship Class !! Min Space Walk Mech !! Min [[Boarding Pod]] Mech
+|-
+| M1 || 100 || 50
+|-
+| M2 || 100 || 50
+|-
+| M6 || 17 || 10
+|-
+| M7 || 50 || 35
+|-
+| TM || 10 || 10
+|-
+| TL || 85 || 35
+|}
+Warning: If the target ship has hull polarization equipped then the required mech skill is much higher. e.g. A M1 with hull polarization will require 85 mech skill with boarding pods to breach.
+
+
+Here is a table of equivalence between the five-star rating system and the actual skill values:
+{| cellspacing="0" cellpadding="6" border="1"
+!Rating !! Skill
+|-
+| 1 star || 0 to 33
+|-
+| 2 stars || 34 to 50
+|-
+| 3 stars || 51 to 67
+|-
+| 4 stars || 68 to 84
+|-
+| 5 stars || 85 to 100
+|}
+
+==Training Marines==
+To reach peak effectiveness, Marines must be trained.
+
+=== Engineering, Hacking and Mechanical ===
+Engineering, Hacking and Mechanical skills can all be improved at training facilities which are typically the same stations where they can be hired: [[Military Outpost|Military Outposts]], [[Military Base|Military Bases]], or [[Marine Training Barracks]], but also at [[Trading Station|Trading Stations]] and [[Stock Exchange|Stock Exchanges]]. Training duration, cost, and effectiveness is the same everywhere.
+Training these skills is expensive and varies between 20,000Cr to 500,000Cr per course and will take anywhere from a few minutes to several days. The training cost and duration depend on whether a Quick, a Normal or an Advanced training course is selected, and on the skill level the marine has when he starts training. The number of skill points gained in the training is random, but depends on whether a Quick, Normal, or Advanced course is chosen. The formulas (see: forum.egosoft.com/viewtopic.php?t=362077) for the duration of training a single skill are as follows, where all divisions are truncating (i.e., rounding down to an integer):
+
+{|
+!Course !! Skill increase (random) !! Formula: time in minutes with starting skill level ''S''
+|-
+| Quick || 5&ndash;9 || 5 + (''S'' / 5 + 1)^2
+|-
+| Normal || 15&ndash;27 || 15 + (''S'' / 5 + 1)^2 + (''S'' / 5 + 3)^2 + (''S'' / 5 + 5)^2
+|-
+| Advanced || 25&ndash;45 || 25 + (''S'' / 5 + 1)^2 + (''S'' / 5 + 3)^2 + (''S'' / 5 + 5)^2 +(''S'' / 5 + 7)^2 + (''S'' / 5 + 9)^2
+|}
+
+Training "All skills" takes as long as the three separate courses for each trainable skill would take combined, plus 20% longer. The fastest training is achieved by training each skill individually with Quick courses, but this also requires the most player attention.
+
+The actual numbers for the duration in minutes for the single-skill courses at different skill levels are
+{|
+!Starting skill !! Quick !! Normal !! Advanced
+|-
+| 0&ndash;4 || 6 || 50 || 190
+|-
+| 5&ndash;9 || 9 || 71 || 245
+|-
+| 10&ndash;14 || 14 || 98 || 310
+|-
+| 15&ndash;19 || 21 || 131 || 385
+|-
+| 20&ndash;24 || 30 || 170 || 470
+|-
+| 25&ndash;29 || 41 || 215 || 565
+|-
+| 30&ndash;34 || 54 || 266 || 670
+|-
+| 35&ndash;39 || 69 || 323 || 785
+|-
+| 40&ndash;44 || 86 || 386 || 910
+|-
+| 45&ndash;49 || 105 || 455 || 1045
+|-
+| 50&ndash;54 || 126 || 530 || 1190
+|-
+| 55&ndash;59 || 149 || 611 || 1345
+|-
+| 60&ndash;64 || 174 || 698 || 1510
+|-
+| 65&ndash;69 || 201 || 791 || 1685
+|-
+| 70&ndash;74 || 230 || 890 || 1870
+|-
+| 75&ndash;79 || 261 || 995 || 2065
+|-
+| 80&ndash;84 || 294 || 1106 || 2270
+|-
+| 85&ndash;89 || 329 || 1223 || 2485
+|-
+| 90&ndash;94 || 366 || 1346 || 2710
+|-
+| 95&ndash;99 || 405 || 1475 || 2945
+|}
+
+=== Fighting ===
+Fighting skill can be trained only by successfully completing boarding operations. After each successful boarding, each marine that participated in the boarding increases his Fighting skill by a random amount between 5 to 9 points, like a Quick training course in the other three skills does. The success probability of boarding well-defended ships depends very greatly on the combined Fighting skill of the marines involved, so one should specifically train the marines' Fighting skill through practice boarding operations before taking on, say, Xenon or Terran vessels. Boardable pirate vessels and ships from [[Return Ship]] missions are ideal for this: the former are quite easy to board, and the latter spawn without shield, weapons, or equipment, making them sitting ducks waiting to be boarded. After the boarding, the ship can be returned to its owner normally to complete the mission. One should send the largest boarding party the target ship can hold, to minimize the risk of losses and to maximize the number of marines trained. However, low Engineering skill can cause a large boarding party to deal too much damage to the hull and result in the boarding being aborted; in this case, a smaller boarding party may have to be used, excluding those marines with particularly poor Engineering skill.
+
+==Aboard Ship==
+To transport marines, a [[Cargo Lifesupport System]] is required.
+Ships may only carry a limited number of marines:
+
+{| style="text-align:center;"
+! Ship Class !! Marines Allowed (TC) !! Marines Allowed (AP)
+|-
+| {{M1class}} || 20 || 20
+|-
+| {{M2class}} || 20 || 20
+|-
+| {{M6class}} || 5 || 8
+|-
+| {{M7class}} || 20 || 20
+|-
+| {{M7Mclass}}<sup>1</sup> || 20 || 20
+|-
+| {{TMclass}} || 5 || 8
+|-
+| {{TLclass}} || 20 || 20
+|-
+| {{TPclass}} || 10 || 40
+|}
+<sup>1</sup> {{M7Mclass}} [[Sirokos]] carries 30 marines.
+
+For unknown reasons the maximum boarding party is '''one''' more than the maximum carriage limit. For example, 21 Marines can be fighting aboard a [[Colossus]] at once.
+
+If the supernumerary survives the boarding attempt, that marine will leave the boarded ship to return home to the boarding ship. Boarding ships equipped with transporter devices can transport them back aboard when they pass within 5 km of the space walker.
+
+== See Also ==
+
+{{Piracy}}

@@ -1,3 +1,29 @@
-<!-- source file: index__q40081523f066.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Terran
+|station=Poltergeist Missile Production Facility
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:02:00
+|productnum=[[Poltergeist Missile]] (2)
+|stationprice={{Priceblock|Terran Servant of Terra|2934560}}
+|reqresources=[[Energy Cells]] (30)<br>[[Ore]] (5)<br>[[Terran MRE]] (5)
+|optresources=[[Matter/Anti-Matter Warhead]]
+}}
+{{Infobox close}}
+==Overview==
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Terran |station=Poltergeist Missile Production Facility |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:02:00 |productnum=[[Poltergeist Missile]] (2) |stationprice={{Priceblock|Terran Servant of Terra|2934560}} |reqresources=[[Energy Cells]] (30)&lt;br>[[Ore]] (5)&lt;br>[[Terran MRE]] (5) |optresources=[[Matter/Anti-Matter Warhead]] }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== This facility produces the [[Poltergeist Missile]]. ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Terran#Shipyards|Terran]]''' *{{sa|Terran Unknown Sector 1}} |} {{Stationcategory}}
+===Encyclopedia Entry===
+This facility produces the [[Poltergeist Missile]].
+
+==Availability==
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Terran#Shipyards|Terran]]'''
+*{{sa|Terran Unknown Sector 1}}
+|}
+
+{{Stationcategory}}

@@ -1,3 +1,32 @@
-<!-- source file: index__qb008be40e5a4.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Paranid
+|station=Hornet Missile Factory
+|hull=1,000,000
+|shield=9
+|generator=2,000
+|hangar=10
+|cycle=00:06:00
+|productnum=[[Hornet Missile]] ()
+|stationprice={{Priceblock|Friend of Priest King|2934560}}
+|reqresources=[[Energy Cells]] ()<br>[[Ore]] ()<br>[[Soja Husk]] ()
+}}
+{{Infobox close}}
+==Overview==
+Makes Hornet Missiles.
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Paranid |station=Hornet Missile Factory |hull=1,000,000 |shield=9 |generator=2,000 |hangar=10 |cycle=00:06:00 |productnum=[[Hornet Missile]] () |stationprice={{Priceblock|Friend of Priest King|2934560}} |reqresources=[[Energy Cells]] ()&lt;br>[[Ore]] ()&lt;br>[[Soja Husk]] () }} {{Infobox close}} ==Overview== Makes Hornet Missiles. ===Encyclopedia Entry=== This Space Missile Factory manufactures Hornet Class Space-Space missile. The gigantic resources needed to produce this monster also make it extremely expensive. ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Paranid#Shipyards|Paranid]]''' *{{sa|Duke's Citadel}} *{{sa|Heaven's Assertion}} *{{sa|Paranid Prime}} *{{sa|Third Redemption}} |} {{Stationcategory}}
+===Encyclopedia Entry===
+This Space Missile Factory manufactures Hornet Class Space-Space missile. The gigantic resources needed to produce this monster also make it extremely expensive.
+
+==Availability==
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Paranid#Shipyards|Paranid]]'''
+*{{sa|Duke's Citadel}}
+*{{sa|Heaven's Assertion}}
+*{{sa|Paranid Prime}}
+*{{sa|Third Redemption}}
+|}
+
+{{Stationcategory}}

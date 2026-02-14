@@ -1,3 +1,29 @@
-<!-- source file: index__q9666fff5ecaa.html -->
+{{Infobox open}}
+{{Infobox basicstation
+|faction=Terran
+|station=Earth Torus 
+|hull=1500000
+|shield=30
+|generator=
+|hangar=
+|stationprice=
+}}
+{{Infobox close}}
+==Overview==
+The Torus, the imposing orbital ring around the planet Earth.<br>
+Most travelers will never encounter Earth or the Torus. It makes some minor shipbuilding functions available to pilots, but most contact with Terrans will be guided to other stations and sectors.
 
-{{Infobox open}} {{Infobox basicstation |faction=Terran |station=Earth Torus |hull=1500000 |shield=30 |generator= |hangar= |stationprice= }} {{Infobox close}} ==Overview== The Torus, the imposing orbital ring around the planet Earth.&lt;br> Most travelers will never encounter Earth or the Torus. It makes some minor shipbuilding functions available to pilots, but most contact with Terrans will be guided to other stations and sectors. Access to Earth and the Torus is highly restricted and jealously guarded.&lt;br> In Earth orbit, any ship seeking to fly beyond or around the Earth Torus will be fired upon by the station's defense network, even against friends. ===Encyclopedia Entry=== ==Docking== The Torus is one of a few stations that accepts unlimited fighter [[docking]]. ==Commentary== Seriously, just stay away. The Torus will have you for a snack. Nomnomnom. No jokes. If you deviate from your course in Earth sector, you'll be blasted. {{Stationcategory}}
+Access to Earth and the Torus is highly restricted and jealously guarded.<br>
+In Earth orbit, any ship seeking to fly beyond or around the Earth Torus will be fired upon by the station's defense network, even against friends.
+
+===Encyclopedia Entry===
+
+==Docking==
+The Torus is one of a few stations that accepts unlimited fighter [[docking]].
+
+==Commentary==
+Seriously, just stay away. The Torus will have you for a snack. Nomnomnom.
+
+No jokes. If you deviate from your course in Earth sector, you'll be blasted.
+
+{{Stationcategory}}

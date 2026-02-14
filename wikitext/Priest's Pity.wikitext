@@ -1,3 +1,27 @@
-<!-- source file: index__qd2c38fcad878.html -->
+{{Infobox Sector
+|Race=Paranid
+|SecLevel=Border
+|Population=1,968,211
+|Planets=3
+|SunLevel=150
+|GateDist=90
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|-10125|	6187|	35235|[[Split Fire]]}}
+{{Gateblock2|South|20250|	0|	-37485|[[Emperor's Ridge]]}}
+{{Gateblock2|West|-44235|	-6750|	-5625|[[Priest Rings]]}}
+</table>
+}}
+==Description==
+===Encyclopedia Entry===
+This system manufactures hardware for the refit yards in [[Emperor's Ridge]]. It also provides masses of mineral and organic products to be consumed by their crews. Despite a heavy security around the military installations, the [[Space Jewellery]] workshop provides rich pickings for the more aggressive and desperate looters and pirates based in nearby systems.
+==Default [[Stations]]==
+==[[Asteroids]]==
 
-{{Infobox Sector |Race=Paranid |SecLevel=Border |Population=1,968,211 |Planets=3 |SunLevel=150 |GateDist=90 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|-10125| 6187| 35235|[[Split Fire]]}} {{Gateblock2|South|20250| 0| -37485|[[Emperor's Ridge]]}} {{Gateblock2|West|-44235| -6750| -5625|[[Priest Rings]]}} &lt;/table> }} ==Description== ===Encyclopedia Entry=== This system manufactures hardware for the refit yards in [[Emperor's Ridge]]. It also provides masses of mineral and organic products to be consumed by their crews. Despite a heavy security around the military installations, the [[Space Jewellery]] workshop provides rich pickings for the more aggressive and desperate looters and pirates based in nearby systems. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|16|-13921|-8705|10799}} {{Asteroid/Item|Ore|8|-26013|6743|-2664}} {{Asteroid/End}} == See Also == {{Paranid Navbox}}
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|16|-13921|-8705|10799}}
+{{Asteroid/Item|Ore|8|-26013|6743|-2664}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Paranid Navbox}}

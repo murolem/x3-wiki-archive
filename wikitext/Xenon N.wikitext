@@ -1,3 +1,101 @@
-<!-- source file: index__qf15c0f952cc3.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=N
+|Faction=Xenon
+|Class={{M5class}}
+|Priceblock=
+|Minspeed=120.2
+|Maxspeed=360.7
+|Minaccel=47
+|Maxaccel=142
+|Minsteer=26.8
+|Maxsteer=80.5
+|Hull=
+|Maxshield=1 MJ
+|Shieldslots=2
+|Maxshieldstrength=2
+|Shieldreactor= 70
+|Cargoclass=S
+|Mincargo=12
+|Maxcargo=62
+|Lasercap=800
+|Laserrecharge=20
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=4
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+A dangerous M5 to combat due to its tendency to appear in swarms with other [[Xenon]] craft. It packs [[Particle Accelerator Cannon]]s, which are a powerful weapon against most foes.
 
-{{Infobox open}} {{Infobox variant |Variant=N |Faction=Xenon |Class={{M5class}} |Priceblock= |Minspeed=120.2 |Maxspeed=360.7 |Minaccel=47 |Maxaccel=142 |Minsteer=26.8 |Maxsteer=80.5 |Hull= |Maxshield=1 MJ |Shieldslots=2 |Maxshieldstrength=2 |Shieldreactor= 70 |Cargoclass=S |Mincargo=12 |Maxcargo=62 |Lasercap=800 |Laserrecharge=20 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=4 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== A dangerous M5 to combat due to its tendency to appear in swarms with other [[Xenon]] craft. It packs [[Particle Accelerator Cannon]]s, which are a powerful weapon against most foes. ==Background== ==Physical Characteristics== == Combat == As M5s go the N packs a punch. However, turn the gun on it and you also find that it gets vaporised by a clip round the ear. Not an effective combat vessel on its own, and serves little more than to distract patrol ships from the real threats in [[Xenon]] task forces. == Equipment == == Availability == As with all [[Xenon]] ships, the N must be [[capping|capped]] to be used. == Suggested Roles== == Headquarters Production Info == This ship can be reverse engineered and produced at the player Headquarters. Required materials and build time as follows: HQ Production Materials {| style="text-align:right;" ! Ware !! Amount |- valign="top" |[[Energy Cells]]||{{formatnum:32}} |- |[[Teladianium]]||{{formatnum:1}} |- |[[Cloth Rimes]]||0 |- |[[Rastar Oil]]||0 |- |[[Ore]]||{{formatnum:1}} |- |[[Silicon|Silicon Wafers]]||{{formatnum:1}} |- |[[Crystals]]||1 |- |[[Quantum Tubes]]||0 |- |[[Microchips]]||0 |- |[[Computer Components]]||0 |- |Shipwright Fee ([[Credits]])|| {{formatnum:9609}} |- |Build Time (game time)&lt;bR>(hh:mm:ss)|| 00:02:53 |} == See Also== *[[M5]] class; **[[Discoverer|Argon Discoverer]] **[[Octopus|Boron Octopus]] **[[Kha'ak Scout]] **[[Pegasus|Paranid Pegasus]] **[[Jaguar|Split Jaguar]] **[[Harrier|Teladi Harrier]] **[[Kestrel|Teladi Kestrel]] **[[Rapier|Terran Rapier]] **[[Fujin|Yaki Fujin]] **[[Valkyrie|ATF Valkyrie]] {{M5category}}
+==Background==
+==Physical Characteristics==
+== Combat ==
+As M5s go the N packs a punch. However, turn the gun on it and you also find that it gets vaporised by a clip round the ear. Not an effective combat vessel on its own, and serves little more than to distract patrol ships from the real threats in [[Xenon]] task forces.
+
+== Equipment ==
+== Availability ==
+As with all [[Xenon]] ships, the N must be [[capping|capped]] to be used.
+
+== Suggested Roles==
+
+== Headquarters Production Info ==
+This ship can be reverse engineered and produced at the player Headquarters. Required materials and build time as follows:
+
+HQ Production Materials
+{| style="text-align:right;"
+! Ware !! Amount
+|- valign="top"
+|[[Energy Cells]]||{{formatnum:32}}
+|-
+|[[Teladianium]]||{{formatnum:1}}
+|-
+|[[Cloth Rimes]]||0
+|-
+|[[Rastar Oil]]||0
+|-
+|[[Ore]]||{{formatnum:1}}
+|-
+|[[Silicon|Silicon Wafers]]||{{formatnum:1}}
+|-
+|[[Crystals]]||1
+|-
+|[[Quantum Tubes]]||0
+|-
+|[[Microchips]]||0
+|-
+|[[Computer Components]]||0
+|-
+|Shipwright Fee ([[Credits]])|| {{formatnum:9609}}
+|-
+|Build Time (game time)<bR>(hh:mm:ss)||	00:02:53
+|}
+
+== See Also==
+*[[M5]] class;
+**[[Discoverer|Argon Discoverer]]
+**[[Octopus|Boron Octopus]]
+**[[Kha'ak Scout]]
+**[[Pegasus|Paranid Pegasus]]
+**[[Jaguar|Split Jaguar]]
+**[[Harrier|Teladi Harrier]]
+**[[Kestrel|Teladi Kestrel]]
+**[[Rapier|Terran Rapier]]
+**[[Fujin|Yaki Fujin]]
+**[[Valkyrie|ATF Valkyrie]]
+{{M5category}}

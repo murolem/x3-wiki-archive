@@ -1,3 +1,363 @@
-<!-- source file: index__q6314a8b6577b.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= Demeter
+|Faction=Paranid
+|Class={{TSclass}}
+|Priceblock={{Priceblock|Priest Confidante| 435204}}
+|Minspeed= 55 
+|Maxspeed= 110
+|Minaccel= 2
+|Maxaccel= 5
+|Minsteer= 3.0 
+|Maxsteer= 6.0
+|Hull= 20000
+|Maxshield= 25 MJ
+|Shieldslots= 3
+|Maxshieldstrength=75
+|Shieldreactor= 600
+|Cargoclass=XL
+|Mincargo= 2800
+|Maxcargo= 3800
+|Lasercap= 950
+|Laserrecharge= 9
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Demeter Hauler
+|Faction= Paranid
+|Class= {{TSclass}}
+|Priceblock= {{Priceblock|Priest Confidante| 822235}}
+|Minspeed= 44
+|Maxspeed= 88
+|Minaccel= 2
+|Maxaccel= 4
+|Minsteer= 2.1
+|Maxsteer= 4.2
+|Hull= 19000
+|Maxshield= 25 MJ
+|Shieldslots=4
+|Maxshieldstrength= 100
+|Shieldreactor= 600
+|Cargoclass=XL
+|Mincargo= 5600
+|Maxcargo= 7600
+|Lasercap= 950
+|Laserrecharge= 9
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Demeter Miner
+|Faction= Paranid
+|Class= {{TSclass}}
+|Priceblock= {{Priceblock|Priest Confidante| 594271}}
+|Minspeed= 58.8
+|Maxspeed= 117.7
+|Minaccel= 2
+|Maxaccel= 4
+|Minsteer= 3.0
+|Maxsteer= 6.1
+|Hull= 19600
+|Maxshield= 25 MJ
+|Shieldslots= 3
+|Maxshieldstrength= 75
+|Shieldreactor= 660
+|Cargoclass= XL
+|Mincargo= 3220
+|Maxcargo= 4370
+|Lasercap= 950
+|Laserrecharge= 9
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Demeter Prototype
+|Faction= Paranid
+|Class= {{TSclass}}
+|Priceblock= {{Priceblock|| 523690}}
+|Minspeed= 65
+|Maxspeed= 130
+|Minaccel= 2
+|Maxaccel= 5
+|Minsteer= 3.2
+|Maxsteer= 6.5
+|Hull= 19000
+|Maxshield= 25 MJ
+|Shieldslots= 3
+|Maxshieldstrength= 75
+|Shieldreactor= 600
+|Cargoclass= XL
+|Mincargo= 2500
+|Maxcargo= 3900
+|Lasercap= 950
+|Laserrecharge= 9
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Demeter Super Freighter
+|Faction=Paranid
+|Class={{TSclass}}
+|Priceblock={{Priceblock|Priest Confidante| 907935}}
+|Minspeed= 42.3
+|Maxspeed= 84.7
+|Minaccel= 2
+|Maxaccel= 4
+|Minsteer= 1.8
+|Maxsteer= 3.7
+|Hull= 19000
+|Maxshield= 25 MJ
+|Shieldslots= 5
+|Maxshieldstrength= 125
+|Shieldreactor= 660
+|Cargoclass= XL
+|Mincargo= 5180
+|Maxcargo= 7030
+|Lasercap= 950
+|Laserrecharge= 9
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Demeter Super Freighter XL
+|Faction= Paranid
+|Class= {{TSclass}}
+|Priceblock= {{Priceblock|Priest Confidante| 1639833}}
+|Minspeed= 39.6
+|Maxspeed= 79.2
+|Minaccel= 2
+|Maxaccel= 5
+|Minsteer= 1.4
+|Maxsteer= 2.8
+|Hull= 17000
+|Maxshield= 25 MJ
+|Shieldslots= 5
+|Maxshieldstrength= 125
+|Shieldreactor= 660
+|Cargoclass= XL
+|Mincargo= 8260
+|Maxcargo= 11210
+|Lasercap= 950
+|Laserrecharge= 9
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Demeter Tanker
+|Faction= Paranid
+|Class= {{TSclass}}
+|Priceblock= {{Priceblock|Priest Confidante| 435204}}
+|Minspeed= 55
+|Maxspeed= 110
+|Minaccel= 2
+|Maxaccel= 5
+|Minsteer= 3.0
+|Maxsteer= 6.0
+|Hull= 20000
+|Maxshield= 25 MJ
+|Shieldslots= 3
+|Maxshieldstrength= 75
+|Shieldreactor= 600
+|Cargoclass= XL
+|Mincargo= 2800
+|Maxcargo= 3800
+|Lasercap= 950
+|Laserrecharge= 9
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+A reasonable freighter, the '''Demeter''' is slightly faster than its [[Argon]] counterpart the [[Mercury(ship)|Mercury]], but trading off a slightly smaller cargo bay.
 
-{{Infobox open}} {{Infobox variant |Variant= Demeter |Faction=Paranid |Class={{TSclass}} |Priceblock={{Priceblock|Priest Confidante| 435204}} |Minspeed= 55 |Maxspeed= 110 |Minaccel= 2 |Maxaccel= 5 |Minsteer= 3.0 |Maxsteer= 6.0 |Hull= 20000 |Maxshield= 25 MJ |Shieldslots= 3 |Maxshieldstrength=75 |Shieldreactor= 600 |Cargoclass=XL |Mincargo= 2800 |Maxcargo= 3800 |Lasercap= 950 |Laserrecharge= 9 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant= Demeter Hauler |Faction= Paranid |Class= {{TSclass}} |Priceblock= {{Priceblock|Priest Confidante| 822235}} |Minspeed= 44 |Maxspeed= 88 |Minaccel= 2 |Maxaccel= 4 |Minsteer= 2.1 |Maxsteer= 4.2 |Hull= 19000 |Maxshield= 25 MJ |Shieldslots=4 |Maxshieldstrength= 100 |Shieldreactor= 600 |Cargoclass=XL |Mincargo= 5600 |Maxcargo= 7600 |Lasercap= 950 |Laserrecharge= 9 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant= Demeter Miner |Faction= Paranid |Class= {{TSclass}} |Priceblock= {{Priceblock|Priest Confidante| 594271}} |Minspeed= 58.8 |Maxspeed= 117.7 |Minaccel= 2 |Maxaccel= 4 |Minsteer= 3.0 |Maxsteer= 6.1 |Hull= 19600 |Maxshield= 25 MJ |Shieldslots= 3 |Maxshieldstrength= 75 |Shieldreactor= 660 |Cargoclass= XL |Mincargo= 3220 |Maxcargo= 4370 |Lasercap= 950 |Laserrecharge= 9 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Rear |Guncount=1 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant= Demeter Prototype |Faction= Paranid |Class= {{TSclass}} |Priceblock= {{Priceblock|| 523690}} |Minspeed= 65 |Maxspeed= 130 |Minaccel= 2 |Maxaccel= 5 |Minsteer= 3.2 |Maxsteer= 6.5 |Hull= 19000 |Maxshield= 25 MJ |Shieldslots= 3 |Maxshieldstrength= 75 |Shieldreactor= 600 |Cargoclass= XL |Mincargo= 2500 |Maxcargo= 3900 |Lasercap= 950 |Laserrecharge= 9 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant= Demeter Super Freighter |Faction=Paranid |Class={{TSclass}} |Priceblock={{Priceblock|Priest Confidante| 907935}} |Minspeed= 42.3 |Maxspeed= 84.7 |Minaccel= 2 |Maxaccel= 4 |Minsteer= 1.8 |Maxsteer= 3.7 |Hull= 19000 |Maxshield= 25 MJ |Shieldslots= 5 |Maxshieldstrength= 125 |Shieldreactor= 660 |Cargoclass= XL |Mincargo= 5180 |Maxcargo= 7030 |Lasercap= 950 |Laserrecharge= 9 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant= Demeter Super Freighter XL |Faction= Paranid |Class= {{TSclass}} |Priceblock= {{Priceblock|Priest Confidante| 1639833}} |Minspeed= 39.6 |Maxspeed= 79.2 |Minaccel= 2 |Maxaccel= 5 |Minsteer= 1.4 |Maxsteer= 2.8 |Hull= 17000 |Maxshield= 25 MJ |Shieldslots= 5 |Maxshieldstrength= 125 |Shieldreactor= 660 |Cargoclass= XL |Mincargo= 8260 |Maxcargo= 11210 |Lasercap= 950 |Laserrecharge= 9 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant= Demeter Tanker |Faction= Paranid |Class= {{TSclass}} |Priceblock= {{Priceblock|Priest Confidante| 435204}} |Minspeed= 55 |Maxspeed= 110 |Minaccel= 2 |Maxaccel= 5 |Minsteer= 3.0 |Maxsteer= 6.0 |Hull= 20000 |Maxshield= 25 MJ |Shieldslots= 3 |Maxshieldstrength= 75 |Shieldreactor= 600 |Cargoclass= XL |Mincargo= 2800 |Maxcargo= 3800 |Lasercap= 950 |Laserrecharge= 9 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== A reasonable freighter, the '''Demeter''' is slightly faster than its [[Argon]] counterpart the [[Mercury(ship)|Mercury]], but trading off a slightly smaller cargo bay. ==Background== The Demeter has been used for some years now, replacing the old [[Paranid]] Ganymede model. It has improved on all of its predecessor's systems. This ship was first brought into service to serve only the Paranid Fleet, but later slowly replaced the Ganymede because of its speed to bring the Paranid economy back to the levels of the Argon and [[Boron]]. ==Physical Characteristics== Like most Paranid ships, the Demeter is gracefully curved, painted blue with gold trim. It features a flat-front bow, modular cargo section, and engine block mounted low on the stern. ==Variants== ===Demeter=== {{regular}} ===Demeter Hauler=== {{hauler}} ===Demeter Miner=== {{miner}} ===Demeter Prototype=== {{prototype}} ===Demeter Super Freighter=== {{super freighter}} ===Demeter Super Freighter XL=== {{super freighter xl}} ===Demeter Tanker=== {{tanker}} Unlike most Tanker models, the Demeter Tanker is statistically identical to the basic Demeter. == Combat == The Demeter is a freighter. Unless you fill it full of medium [[missiles]] it's not going to kill anything. Its best chance to survive if attacked is to sic [[Fighter Drone|fighter drones]] on the enemy and flee. == Equipment == ;Missiles *[[Disruptor Missile]] *[[Hurricane Missile]] *[[Remote Guided Warhead]] *[[Silkworm Missile]] *[[Wasp Missile]] *[[Wildfire Missile]] == Availability == At least two Demeter variants are available at every [[Paranid Shipyard]]. {| style="text-align:center;" |+'''Availability''' |- style="{{Colour/Paranid}}" ! Variant !! [[Cardinal's Domain]] !! [[Duke's Citadel]] !! [[Heaven's Assertion]] !! [[Paranid Prime]] !! [[Third Redemption]]!! [[Trinity Sanctum]] |- ! Demeter || X || || X || || X || |- ! Demeter Hauler || || || X || || X || X |- ! Demeter Miner || || X || X || X || X || |- ! Demeter Super Freighter || X || || X || || X || |- ! Demeter Super Freighter XL || || || X || || X || X |- ! Demeter Tanker || || X || X || X || X || |} The Demeter Prototype cannot be bought, and must be [[Bail|captured]]. Some Paranid Weapons Transporters are Demeter Prototypes (check ship stats to determine if it is a prototype or standard variant). === [[Duke's|Dukes Buccaneers]] === A decent source of free {{TSclass}}s and {{TPclass}}s in the early game is the Demeters and [[Hermes]] that appear as Duke's Freight Transporters and Dangerous Materials Transporters. The Demeters and Hermes may [[bail]], gaining the player a free TS or TP. Since Duke's Buccaneers is a crime syndicate, attacking these vessels does not hurt your [[Reputation|legal status]] with the major governments of the [[Commonwealth]]. In fact, destroying the vessels if they do not bail actually ''improves'' your status with them. The only issue with doing this is that if you ever wish to work through the Duke's corporate missions for their reward ships, you'll first need to improve your relations with the [[pirates]]. == Suggested Roles== The Demeter works well selling goods from factories in any races' space. == See Also== {{TS}} {{Paranid Navbox}}
+==Background==
+The Demeter has been used for some years now, replacing the old [[Paranid]] Ganymede model.  It has improved on all of its predecessor's systems.  This ship was first brought into service to serve only the Paranid Fleet, but later slowly replaced the Ganymede because of its speed to bring the Paranid economy back to the levels of the Argon and [[Boron]].
+
+==Physical Characteristics==
+Like most Paranid ships, the Demeter is gracefully curved, painted blue with gold trim.  It features a flat-front bow, modular cargo section, and engine block mounted low on the stern.
+
+==Variants==
+===Demeter===
+{{regular}}
+
+===Demeter Hauler===
+{{hauler}}
+
+===Demeter Miner===
+{{miner}}
+
+===Demeter Prototype===
+{{prototype}}
+
+===Demeter Super Freighter===
+{{super freighter}}
+
+===Demeter Super Freighter XL===
+{{super freighter xl}}
+
+===Demeter Tanker===
+{{tanker}}
+
+Unlike most Tanker models, the Demeter Tanker is statistically identical to the basic Demeter.
+
+== Combat ==
+The Demeter is a freighter. Unless you fill it full of medium [[missiles]] it's not going to kill anything. Its best chance to survive if attacked is to sic [[Fighter Drone|fighter drones]] on the enemy and flee.
+
+== Equipment ==
+;Missiles
+*[[Disruptor Missile]]
+*[[Hurricane Missile]]
+*[[Remote Guided Warhead]]
+*[[Silkworm Missile]]
+*[[Wasp Missile]]
+*[[Wildfire Missile]]
+
+== Availability ==
+At least two Demeter variants are available at every [[Paranid Shipyard]].
+{| style="text-align:center;"
+|+'''Availability'''
+|- style="{{Colour/Paranid}}"
+! Variant !! [[Cardinal's Domain]] !! [[Duke's Citadel]] !! [[Heaven's Assertion]] !! [[Paranid Prime]] !! [[Third Redemption]]!! [[Trinity Sanctum]]
+|-
+! Demeter                    || X ||   || X ||   || X ||  
+|-
+! Demeter Hauler             ||   ||   || X ||   || X || X
+|-
+! Demeter Miner              ||   || X || X || X || X ||  
+|-
+! Demeter Super Freighter    || X ||   || X ||   || X || 
+|-
+! Demeter Super Freighter XL ||   ||   || X ||   || X || X
+|-
+! Demeter Tanker             ||   || X || X || X || X || 
+|}
+
+The Demeter Prototype cannot be bought, and must be [[Bail|captured]]. Some Paranid Weapons Transporters are Demeter Prototypes (check ship stats to determine if it is a prototype or standard variant). 
+
+=== [[Duke's|Dukes Buccaneers]] ===
+A decent source of free {{TSclass}}s and {{TPclass}}s in the early game is the Demeters and [[Hermes]] that appear as Duke's Freight Transporters and Dangerous Materials Transporters.  The Demeters and Hermes may [[bail]], gaining the player a free TS or TP.  Since Duke's Buccaneers is a crime syndicate, attacking these vessels does not hurt your [[Reputation|legal status]] with the major governments of the [[Commonwealth]].  In fact, destroying the vessels if they do not bail actually ''improves'' your status with them.
+
+The only issue with doing this is that if you ever wish to work through the Duke's corporate missions for their reward ships, you'll first need to improve your relations with the [[pirates]].
+
+== Suggested Roles==
+The Demeter works well selling goods from factories in any races' space.
+
+== See Also==
+
+{{TS}}
+
+
+{{Paranid Navbox}}

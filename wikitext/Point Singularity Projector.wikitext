@@ -1,3 +1,42 @@
-<!-- source file: index__qb97a2aeeeb67.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Point Singularity Projector
+|hulldam=9500
+|shielddam=25200
+|range=6.42
+|rof= 6
+|shotspeed= 321
+|maxweapenergy=4000 
+|shotcost=250
+}}
+{{Infobox ware
+|ware=Point Singularity Projector
+|cargoclass=XL
+|volume=200
+|minprice=957856
+|aveprice=1029952
+|maxprice=1102048
+}}
+{{Infobox close}}
+==Overview==
+The Point Sigularity Projector or PSP is the most powerful [[Terran]] weapon, used in an anti-capital role.
 
-{{Infobox open}} {{Infobox weapon |weapon=Point Singularity Projector |hulldam=9500 |shielddam=25200 |range=6.42 |rof= 6 |shotspeed= 321 |maxweapenergy=4000 |shotcost=250 }} {{Infobox ware |ware=Point Singularity Projector |cargoclass=XL |volume=200 |minprice=957856 |aveprice=1029952 |maxprice=1102048 }} {{Infobox close}} ==Overview== The Point Sigularity Projector or PSP is the most powerful [[Terran]] weapon, used in an anti-capital role. ==Encyclopedia Entry== A deadly weapon found on frigates, destroyers and carriers. Recently developed by Terran scientists, the Point Singularity Projector essentially generates a tiny 'jump event' and using a tremendous amount of energy, accelerates it away. The singularity eventually destabilises, collapses and releases an tremendous amount of energy expanding rapidly outwards, causing massive damage to any nearby ships or stations. ==Commentary== The Terran analogue to the [[Photon Pulse Cannon]], each shot from a Point Singularity Projector is massively powerful, though it can only fire six shots per minute and has 0.2km less range, making it technically inferior to the PPC as it only just barely deals half the averaged [[damage per second]]. This is partially made up for by its decreased energy drain, which, in tandem with the powerful recharge rates of Terran ships, give it good qualities for sustained fire, though obviously its ability to do a lot of initial damage is poorer than many other capital weapons. It can be charged as with the PPC, making it awesome in the player's hands since the charged broadside can one hit kill a [[Xenon Q]] if the player can land the hit on target, however the turret AI cannot charge weapons. Used only by the Truelight Seeker, [[Xenon I]], [[Xenon K]] and Terran/[[ATF]] large ships, though not their frigates: Terran and ATF M7s are primarily flak platforms. ==Known Compatible Ships== *[[Odin|ATF Odin]] *[[Tyr|ATF Tyr]] *[[Woden|ATF Woden]] *[[Truelight Seeker|Goner Truelight Seeker]] *[[Mobile Mining Base Ship|Terran Mobile Mining Base Ship]] *[[Osaka|Terran Osaka]] *[[Tokyo|Terran Tokyo]] *[[Kyoto|Terran Kyoto]] *[[Xenon K]] ==Available at Known Docks==
+==Encyclopedia Entry==
+A deadly weapon found on frigates, destroyers and carriers.
+
+Recently developed by Terran scientists, the Point Singularity Projector essentially generates a tiny 'jump event' and using a tremendous amount of energy, accelerates it away. The singularity eventually destabilises, collapses and releases an tremendous amount of energy expanding rapidly outwards, causing massive damage to any nearby ships or stations.
+==Commentary==
+The Terran analogue to the [[Photon Pulse Cannon]], each shot from a Point Singularity Projector is massively powerful, though it can only fire six shots per minute and has 0.2km less range, making it technically inferior to the PPC as it only just barely deals half the averaged [[damage per second]]. This is partially made up for by its decreased energy drain, which, in tandem with the powerful recharge rates of Terran ships, give it good qualities for sustained fire, though obviously its ability to do a lot of initial damage is poorer than many other capital weapons. It can be charged as with the PPC, making it awesome in the player's hands since the charged broadside can one hit kill a [[Xenon Q]] if the player can land the hit on target, however the turret AI cannot charge weapons. Used only by the Truelight Seeker, [[Xenon I]], [[Xenon K]] and Terran/[[ATF]] large ships, though not their frigates: Terran and ATF M7s are primarily flak platforms.
+
+==Known Compatible Ships==
+*[[Odin|ATF Odin]]
+*[[Tyr|ATF Tyr]]
+*[[Woden|ATF Woden]]
+*[[Truelight Seeker|Goner Truelight Seeker]]
+*[[Mobile Mining Base Ship|Terran Mobile Mining Base Ship]]
+*[[Osaka|Terran Osaka]]
+*[[Tokyo|Terran Tokyo]]
+*[[Kyoto|Terran Kyoto]]
+*[[Xenon K]]
+
+==Available at Known Docks==

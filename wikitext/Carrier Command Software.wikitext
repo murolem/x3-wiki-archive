@@ -1,3 +1,17 @@
-<!-- source file: index__qb8c0b1638392.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware=Carrier Command Software
+|cargoclass=-
+|volume=1
+|minprice=2,919
+|aveprice=2,948
+|maxprice=2,977
+}}
+{{Infobox close}}
+==Overview==
+A [[wares|ware]] software upgrade.
 
-{{Infobox open}} {{Infobox ware |ware=Carrier Command Software |cargoclass=- |volume=1 |minprice=2,919 |aveprice=2,948 |maxprice=2,977 }} {{Infobox close}} ==Overview== A [[wares|ware]] software upgrade. Carrier Command Software enables the quick command 'launch fighter attack' as well as the command 'deploy fighters and retreat'. This is often much faster than trying to go through the landed ships menu, and allows you to launch multiple wings as quickly as they can be ejected from the Carrier's launch bay. ==See Also== *[[Autopilot]]
+Carrier Command Software enables the quick command 'launch fighter attack' as well as the command 'deploy fighters and retreat'. This is often much faster than trying to go through the landed ships menu, and allows you to launch multiple wings as quickly as they can be ejected from the Carrier's launch bay.
+
+==See Also==
+*[[Autopilot]]

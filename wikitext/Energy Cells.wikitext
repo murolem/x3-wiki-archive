@@ -1,3 +1,137 @@
-<!-- source file: index__q9f4c2ba6e94e.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Energy Cells
+|cargoclass=S
+|volume=1
+|minprice=12
+|aveprice=16
+|maxprice=20
+}}
+{{Infobox close}}
+==Overview==
+With the unification of the Energy Standard, trading this valuable commodity became possible.
 
-{{Infobox open}} {{Infobox ware |ware= Energy Cells |cargoclass=S |volume=1 |minprice=12 |aveprice=16 |maxprice=20 }} {{Infobox close}} ==Overview== With the unification of the Energy Standard, trading this valuable commodity became possible. ==Commentary== Energy Cells are the most ubiquitous trading ware in the [[X-universe]]. Every factory requires energy cells to run and thus can be sold universally across factions. While low priced, the sheer volume of trade makes energy cell trade and transport very profitable. There are many regions of space where solar plants are common or readily available, leaving good money making opportunities. It is not however, the most profitable trading good, nor does it have the best return on investment. Use of a [[Jumpdrive]] uses up a determined amount of energy cells. ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Solar Power Plant]] *[[Energy Production Base XL]] | *[[Ammunition Factory]] *[[Bio Gas Factory]] *[[Bliss Place]] *[[Bofu Chemical Lab]] *[[Cahoona Bakery]] *[[Cattle Ranch]] *[[Chelt Space Aquarium]] *[[Chip Plant]] *[[Cluster Flak Array Forge]] *[[Computer Plant]] *[[Crystal Fab]] *[[Concussion Impulse Generator Forge]] *[[Cyclone Missile Factory]] *[[Disintegrator Rifles Fab]] *[[Dream Farm]] *[[Drone Factory]] *[[Drone Production Facility]] *[[Dumbfire Missile Production Complex]] *[[Electro-Magnetic Plasma Cannon Forge]] *[[EMP Rifle Assembly Facility]] *[[Energy Bolt Chaingun Forge]] *[[Energy Bolt Chaingun Ammunition Forge]] *[[Flail Missile Production Facility]] *[[Flower Farm]] *[[Food Preparation Facility]] *[[Gauss Cannon Forge]] *[[Gauss Cannon Ammunition Forge]] *[[Ghoul Missile Manufacturing Plant]] *[[Hammer Torpedo Fabrication Facility]] *[[Heavy Shield Production Complex]] *[[Heavy Weapons Complex]] *[[High Energy Plasma Thrower Forge]] *[[High Yield Production Complex]] *[[Hull Plating Production Facility]] *[[Ice Harvesting Facility]] *[[Image Recognition Production Complex]] *[[Impulse Ray Emitter Forge]] *[[Incendiary Bomb Launcher Forge]] *[[Ion Cannon Forge]] *[[Ion Disruptor Forge]] *[[Ion Pulse Generator Forge]] *[[Ion Shard Railgun Forge]] *[[Keris Drone Factory]] *[[Lasertower Factory]] *[[Light Shield Production Complex]] *[[Light Weapons Complex]] *[[Low-yield Sidearms Fab]] *[[Marine Training Barracks]] *[[Mass Driver Forge]] *[[Massom Mill]] *[[Matter/Anti-matter Launcher Forge]] *[[Matter/Anti-Matter Mine Fab]] *[[Matter/Anti-Matter Warhead Production Fab]] *[[Medium Shield Production Complex]] *[[Medium Weapons Complex]] *[[Mobile Drilling System Factory]] *[[Ore Mine]] *[[Particle Accelerator Cannon Forge]] *[[Phantom Missile Production Facility]] *[[Phased Repeater Gun Forge]] *[[Phased Shockwave Generator Forge]] *[[Photon Pulse Cannon Forge]] *[[Plankton Farm]] *[[Plasma Burst Generator Forge]] *[[Point Singularity Projector Forge]] *[[Poltergeist Missile Production Facility]] *[[Quantum Tube Fab]] *[[Rastar Refinery]] *[[Rehabilitation Facility]] *[[Rimes Fact]] *[[Satellite Factory]] *[[Scruffin Farm]] *[[Seeker Missile Production Complex]] *[[Shield Production Facility 1MJ]] *[[Silicon Mine]] *[[Snail Ranch]] *[[Soyery]] *[[Soyfarm]] *[[Space Fuel Distillery]] *[[Space Jewellery]] *[[Spectre Missile Production Facility]] *[[SQUASH Mine Factory]] *[[Starburst Shockwave Cannon Forge]] *[[Stott Mixery]] *[[Sun Oil Refinery]] *[[Swarm Missile Production Complex]] *[[Teladianium Foundry]] *[[Tomahawk Missile Manufacturing Plant]] *[[Tracker Mine Factory]] *[[Tractor Beam Factory]] *[[USC Food Supply Factory]] *[[Water Purification Plant]] *[[Weapon Component Factory]] *[[Wheat Farm]] *[[Wraith Missile Production Plant]] | *List of Race Factories where this ware is a secondary resource | *List of Trading Stations where this ware is traded (sector only) |} == See Also == {{Warecategory}} {{Waretable}} {{SectorTravel}}
+==Commentary==
+Energy Cells are the most ubiquitous trading ware in the [[X-universe]]. Every factory requires energy cells to run and thus can be sold universally across factions.  
+
+While low priced, the sheer volume of trade makes energy cell trade and transport very profitable. There are many regions of space where solar plants are common or readily available, leaving good money making opportunities.
+
+It is not however, the most profitable trading good, nor does it have the best return on investment.
+
+Use of a [[Jumpdrive]] uses up a determined amount of energy cells.
+
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Solar Power Plant]]
+*[[Energy Production Base XL]]
+|
+*[[Ammunition Factory]]
+*[[Bio Gas Factory]]
+*[[Bliss Place]]
+*[[Bofu Chemical Lab]]
+*[[Cahoona Bakery]]
+*[[Cattle Ranch]]
+*[[Chelt Space Aquarium]]
+*[[Chip Plant]]
+*[[Cluster Flak Array Forge]]
+*[[Computer Plant]]
+*[[Crystal Fab]]
+*[[Concussion Impulse Generator Forge]]
+*[[Cyclone Missile Factory]]
+*[[Disintegrator Rifles Fab]]
+*[[Dream Farm]]
+*[[Drone Factory]]
+*[[Drone Production Facility]]
+*[[Dumbfire Missile Production Complex]]
+*[[Electro-Magnetic Plasma Cannon Forge]]
+*[[EMP Rifle Assembly Facility]]
+*[[Energy Bolt Chaingun Forge]]
+*[[Energy Bolt Chaingun Ammunition Forge]]
+*[[Flail Missile Production Facility]]
+*[[Flower Farm]]
+*[[Food Preparation Facility]]
+*[[Gauss Cannon Forge]]
+*[[Gauss Cannon Ammunition Forge]]
+*[[Ghoul Missile Manufacturing Plant]]
+*[[Hammer Torpedo Fabrication Facility]]
+*[[Heavy Shield Production Complex]]
+*[[Heavy Weapons Complex]]
+*[[High Energy Plasma Thrower Forge]]
+*[[High Yield Production Complex]]
+*[[Hull Plating Production Facility]]
+*[[Ice Harvesting Facility]]
+*[[Image Recognition Production Complex]]
+*[[Impulse Ray Emitter Forge]]
+*[[Incendiary Bomb Launcher Forge]]
+*[[Ion Cannon Forge]]
+*[[Ion Disruptor Forge]]
+*[[Ion Pulse Generator Forge]]
+*[[Ion Shard Railgun Forge]]
+*[[Keris Drone Factory]]
+*[[Lasertower Factory]]
+*[[Light Shield Production Complex]]
+*[[Light Weapons Complex]]
+*[[Low-yield Sidearms Fab]]
+*[[Marine Training Barracks]]
+*[[Mass Driver Forge]]
+*[[Massom Mill]]
+*[[Matter/Anti-matter Launcher Forge]]
+*[[Matter/Anti-Matter Mine Fab]]
+*[[Matter/Anti-Matter Warhead Production Fab]]
+*[[Medium Shield Production Complex]]
+*[[Medium Weapons Complex]]
+*[[Mobile Drilling System Factory]]
+*[[Ore Mine]]
+*[[Particle Accelerator Cannon Forge]]
+*[[Phantom Missile Production Facility]]
+*[[Phased Repeater Gun Forge]]
+*[[Phased Shockwave Generator Forge]]
+*[[Photon Pulse Cannon Forge]]
+*[[Plankton Farm]]
+*[[Plasma Burst Generator Forge]]
+*[[Point Singularity Projector Forge]]
+*[[Poltergeist Missile Production Facility]]
+*[[Quantum Tube Fab]]
+*[[Rastar Refinery]]
+*[[Rehabilitation Facility]]
+*[[Rimes Fact]]
+*[[Satellite Factory]]
+*[[Scruffin Farm]]
+*[[Seeker Missile Production Complex]]
+*[[Shield Production Facility 1MJ]]
+*[[Silicon Mine]]
+*[[Snail Ranch]]
+*[[Soyery]]
+*[[Soyfarm]]
+*[[Space Fuel Distillery]]
+*[[Space Jewellery]]
+*[[Spectre Missile Production Facility]]
+*[[SQUASH Mine Factory]]
+*[[Starburst Shockwave Cannon Forge]]
+*[[Stott Mixery]]
+*[[Sun Oil Refinery]]
+*[[Swarm Missile Production Complex]]
+*[[Teladianium Foundry]]
+*[[Tomahawk Missile Manufacturing Plant]]
+*[[Tracker Mine Factory]]
+*[[Tractor Beam Factory]]
+*[[USC Food Supply Factory]]
+*[[Water Purification Plant]]
+*[[Weapon Component Factory]]
+*[[Wheat Farm]]
+*[[Wraith Missile Production Plant]]
+|
+*List of Race Factories where this ware is a secondary resource
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}
+
+== See Also ==
+
+{{Warecategory}}
+{{Waretable}}
+
+{{SectorTravel}}

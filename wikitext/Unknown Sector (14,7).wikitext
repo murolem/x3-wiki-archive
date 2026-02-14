@@ -1,3 +1,37 @@
-<!-- source file: index__q45c128ba735b.html -->
+{{Infobox Sector
+|Race=Unknown
+|SecLevel=Border
+|Population=unknown
+|Planets=2
+|SunLevel=150
+|GateDist=120
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|East|54250|	0|	16500|[[Nathan's Voyage]]}}
+{{Gateblock2|South|-24750|	0|	-71500|[[Argon Sector M148]]}}
+{{Gateblock/End}}
+}}
+==Description==
+Sector is not recognised in the database.
 
-{{Infobox Sector |Race=Unknown |SecLevel=Border |Population=unknown |Planets=2 |SunLevel=150 |GateDist=120 |Gates={{Gateblock/Begin}} {{Gateblock2|East|54250| 0| 16500|[[Nathan's Voyage]]}} {{Gateblock2|South|-24750| 0| -71500|[[Argon Sector M148]]}} {{Gateblock/End}} }} ==Description== Sector is not recognised in the database. ==Default [[Stations]]== No station known in this sector. ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Nividium|12|106813|45822|75056}} {{Asteroid/Item|Nividium|2|29315|46117|-47684}} {{Asteroid/Item|Ore|6|2904|15590|13916}} {{Asteroid/Item|Ore|5|69391|20449|49155}} {{Asteroid/Item|Ore|5|76919|11193|32980}} {{Asteroid/Item|Ore|4|-42395|23334|53727}} {{Asteroid/Item|Ore|3|-54512|13819|45773}} {{Asteroid/Item|Ore|1|3948|-15448|-33426}} {{Asteroid/Item|Silicon|3|-17563|-5657|3376}} {{Asteroid/Item|Silicon|3|23143|-13581|-11206}} {{Asteroid/Item|Silicon|3|-57493|-30394|-64072}} {{Asteroid/Item|Silicon|2|-59782|2953|30147}} {{Asteroid/Item|Silicon|2|79521|113|-20549}} {{Asteroid/Item|Silicon|2|48974|-17054|-49741}} {{Asteroid/Item|Silicon|2|33717|21629|-63038}} {{Asteroid/End}}
+==Default [[Stations]]==
+No station known in this sector.
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Nividium|12|106813|45822|75056}}
+{{Asteroid/Item|Nividium|2|29315|46117|-47684}}
+{{Asteroid/Item|Ore|6|2904|15590|13916}}
+{{Asteroid/Item|Ore|5|69391|20449|49155}}
+{{Asteroid/Item|Ore|5|76919|11193|32980}}
+{{Asteroid/Item|Ore|4|-42395|23334|53727}}
+{{Asteroid/Item|Ore|3|-54512|13819|45773}}
+{{Asteroid/Item|Ore|1|3948|-15448|-33426}}
+{{Asteroid/Item|Silicon|3|-17563|-5657|3376}}
+{{Asteroid/Item|Silicon|3|23143|-13581|-11206}}
+{{Asteroid/Item|Silicon|3|-57493|-30394|-64072}}
+{{Asteroid/Item|Silicon|2|-59782|2953|30147}}
+{{Asteroid/Item|Silicon|2|79521|113|-20549}}
+{{Asteroid/Item|Silicon|2|48974|-17054|-49741}}
+{{Asteroid/Item|Silicon|2|33717|21629|-63038}}
+{{Asteroid/End}}

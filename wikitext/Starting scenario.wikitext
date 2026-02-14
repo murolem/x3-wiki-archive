@@ -1,3 +1,189 @@
-<!-- source file: index__q51e72fd14fc8.html -->
+''[[X3: Terran Conflict]]'' has a grand total of nineteen different '''starting scenarios''', each of which starts you off in a different sector and with a different ship.  Five are available when the game is first installed, and the others are unlocked as the player meets various prerequisites.
 
-''[[X3: Terran Conflict]]'' has a grand total of nineteen different '''starting scenarios''', each of which starts you off in a different sector and with a different ship. Five are available when the game is first installed, and the others are unlocked as the player meets various prerequisites. This page lists all the starting scenarios as of ''X3:TC'' version 3.1.1. Notes on special conditions at the beginning are included as necessary. ==Key== ;[[Sectors|Sector]]: The sector(s) the player enters the game in after the opening cinematic. ;[[Ships|Ship]]: The Ships|ship(s) the player starts out owning. ;[[Weapons]]: The guns the starting ship is equipped with. ;[[Credits]]: The amount of money the player starts with ;Prerequisites: What the player must do to unlock this gamestart. ;Storyline: Which plots are available. All gamestarts except [[#Terran Defender|Terran Defender]], [[#USC Commander|USC Commander]], and [[#Aldran Adventurer|Aldran Adventurer]] require a bridging mission to begin the [[Terran plot]]. ==Terran Defender== ;Sector: [[Uranus]] ;Ship: [[Terran]] [[M4]] [[Sabre]] ;Weapons: 2 [[Electro-Magnetic Plasma Cannon]]s ;Credits: 1,000 Cr ;Prerequisites: None ;Storyline: All This is arguably the most commonly chosen gamestart, particularly for new players. It puts the player into the Terran plot without requiring a bridging mission. ==USC Commander== ;Sector: Uranus ;Ship: Terran [[M3]] [[Scimitar]] ;Weapons: 6 EMPCs ;Credits: 1,000 Cr ;Prerequisites: Terran plot completed, [[Fight rank]] 16 "Specialist" ;Storyline: All This gamestart allows the player to enter the Terran plot without a bridging mission. ==Argon Patriot== ;Sector: [[Omicron Lyrae]] ;Ship: [[Argon]] [[M4+]] [[Elite]] ;Weapons: 4 [[Particle Accelerator Cannon]]s ;Credits: 1,928 Cr ;Prerequisites: None ;Storyline: All ==Humble Merchant== ;Sector: [[Herron's Nebula]] ;Ships: Argon [[TS]] [[Mercury(ship)|Mercury]], Argon [[M5]] [[Discoverer]] ;Weapons: None ;Credits: 9,650 Cr ;Prerequisites: None ;Storyline: All This is arguably the second most common gamestart, as the player begins with a trade vessel they can put to work immediately. ==Bancrupt Assassin== ;Sector: [[Aladna Hill]] ;Ship: [[Split]] [[M3]] [[Mamba]] ;Weapons: 2 [[High Energy Plasma Thrower]]s ;Credits: 0 Cr ;Prerequisites: None ;Storyline: All This gamestart claims to be challenging and may prove itself right, occasionally sending strong waves of pirate vessels to periodically harass the player. A good start for skilled pilots. {{sectstub}} (Author's Note: The misspelling of this start is intentional, as the actual title is blocked by the wiki's spam filter.) ==Tormented Teladi== ;Sector: [[Sanctity of Corruption]], [[Tears of Greed]], or [[Acquisition Repository]] ;Ship: [[Teladi]] M5 [[Harrier|Harrier Hauler]] ;Weapons: 2 [[Impulse Ray Emitter]]s ;Credits: 1,960 Cr ;Prerequisites: [[Trade rank]] 15 "Petty Financier" ;Storyline: All This gamestart allows the player to obtain an overtuned [[Kea|Enhanced Kea]]. ==Poisoned Paranid== ;Sector: [[Preacher's Refuge]] or [[Heaven's Assertion]] ;Ship: [[Paranid]] TS [[Demeter|Demeter Hauler]] ;Weapons: 1 IRE ;Credits: 9,268 Cr ;Prerequisites: Complete the mission at the beginning of the [[#Tormented Teladi|Tormented Teladi]] gamestart ;Storyline: All This gamestart gives the player a deadline to obtain several million credits. If he is successful, he gets an overtuned [[Hyperion Vanguard]]. ==Aldran Adventurer== ;Sector: [[Aldrin]] ;Ship: Aldrin M3 [[Spitfyre]] ;Weapons: 5 [[Experimental Electro-Magnetic Plasma Cannon]]s ;Credits: 4,090 Cr ;Prerequisites: Terran plot completed, Fight Rank 24 "Crusader", [[Reputation#Argon|Argon rank]] 7 "Argon Federal Marshal" ;Storyline: Terran plot flagged as complete, all others enabled ==Goner Witness== ;Sector: [[Elysium of Light]] ;Ship: [[Goner]] [[GO]] [[Ranger]] ;Weapons: None ;Credits: 350 Cr ;Prerequisites: [[Goner plot]] completed ;Storyline: All ==Unholy Traitor== ;Sector: Random between several sectors ;Ship: Paranid [[M3+]] [[Medusa|Medusa Prototype]] ;Weapons: 2 PACs, 6 [[Pulsed Beam Emitter]]s ;Credits: 21,331 Cr ;Prerequisites: Fight rank 16 "Specialist", [[Reputation#Split|Split Rank]] 7 "Split Privileged Associate of Rhonkar" ;Storyline: All Note: You typically start in a split sector, and with low enough reputation for the split to shoot on site, and the paranid sending bounty hunters after you. You are flying a great ship with good weapons, however it lacks many basic upgrades like Fight command software, shields, and engine tunings, which make this a difficult scenario. {{sectstub}} ==Teladi Trafficker== ;Sector: [[Seizewell]] ;Ship: Teladi TS [[Vulture]] ;Weapons: None ;Credits: 12,693 Cr ;Prerequisites: [[Reputation#Teladi|Teladi Rank]] 7 "Teladi Company Owner" ;Storyline: All ==Lost Lar== ;Sector: [[Xenon Core 023]] ;Ship: [[Boron]] [[TP]] [[Angel]] ;Weapons: 2 PACs ;Credits: 1,350 Cr ;Prerequisites: [[Hub plot]] completed, [[Reputation#Boron|Boron Rank]] 7 "Boron Queen's Protectorate" ;Storyline: All As this gamestart puts you in a TP in the middle of a [[Xenon]] core sector, it is not to be trifled with. ==Savage Split== ;Sector: [[Family Pride]] ;Ship: Split M5 [[Jaguar]] ;Weapons: 2 PACs ;Credits: 1,400 Cr ;Prerequisites: Fight rank 16 "Specialist" ;Storyline: All ==Anonymous Argon== ;Sector: [[Argon Prime]] ;Ship: Argon M5 Discoverer ;Weapons: None ;Credits: 2,400 Cr ;Prerequisites: Argon Rank 4 "Accepted Adviser" ;Storyline: All ==Boring Boron== ;Sector: [[Kingdom End]] ;Ship: Boron M5 [[Octopus]] ;Weapons: None ;Credits: 2,000 Cr ;Prerequisites: Trade rank 15 "Petty Financier" ;Storyline: All ==Pious Paranid== ;Sector: [[Paranid Prime]] ;Ship: Paranid TS [[Demeter]] ;Weapons: None ;Credits: 3,633 Cr ;Prerequisites: Fight rank 17 "Fighter Chief 24%" (3333 points) ;Storyline: All ==Nostalgic Argon== ;Sector: Argon Prime ;Ship: Argon M4 [[Buster]] ;Weapons: 2 IREs ;Credits: 1,000 Cr ;Prerequisites: None ;Storyline: All ==Suicidal Squid== ;Sector: [[Queen's Harbor]] ;Ship: Boron M4 [[Mako]] ;Weapons: None ;Credits: 1,000 Cr ;Prerequisites: Only available on Steam version of X3TC ;Storyline: All This gamestart is "Dead Is Dead" only. ==Custom Start== ;Sector: Argon Prime ;Ship: Argon M4 [[Buster]] ;Weapons: 2 IREs ;Credits: 1,000 Cr ;Prerequisites: None ;Plots: None Custom Start is meant as a testbed for mods and scripts. No plots are available.
+This page lists all the starting scenarios as of ''X3:TC'' version 3.1.1.  Notes on special conditions at the beginning are included as necessary.
+
+==Key==
+;[[Sectors|Sector]]: The sector(s) the player enters the game in after the opening cinematic.
+;[[Ships|Ship]]:  The Ships|ship(s) the player starts out owning.
+;[[Weapons]]:  The guns the starting ship is equipped with.
+;[[Credits]]:  The amount of money the player starts with
+;Prerequisites:  What the player must do to unlock this gamestart.
+;Storyline:  Which plots are available.  All gamestarts except [[#Terran Defender|Terran Defender]], [[#USC Commander|USC Commander]], and [[#Aldran Adventurer|Aldran Adventurer]] require a bridging mission to begin the [[Terran plot]].
+
+==Terran Defender==
+;Sector: [[Uranus]]
+;Ship:  [[Terran]] [[M4]] [[Sabre]]
+;Weapons:  2 [[Electro-Magnetic Plasma Cannon]]s
+;Credits:  1,000 Cr
+;Prerequisites:  None
+;Storyline:  All
+
+This is arguably the most commonly chosen gamestart, particularly for new players.  It puts the player into the Terran plot without requiring a bridging mission.
+
+==USC Commander==
+;Sector: Uranus
+;Ship:  Terran [[M3]] [[Scimitar]]
+;Weapons:  6 EMPCs
+;Credits:  1,000 Cr
+;Prerequisites:  Terran plot completed, [[Fight rank]] 16 "Specialist"
+;Storyline:  All
+
+This gamestart allows the player to enter the Terran plot without a bridging mission.
+
+==Argon Patriot==
+;Sector:  [[Omicron Lyrae]]
+;Ship:  [[Argon]] [[M4+]] [[Elite]]
+;Weapons:  4 [[Particle Accelerator Cannon]]s
+;Credits:  1,928 Cr
+;Prerequisites:  None
+;Storyline:  All
+
+==Humble Merchant==
+;Sector:  [[Herron's Nebula]]
+;Ships:  Argon [[TS]] [[Mercury(ship)|Mercury]], Argon [[M5]] [[Discoverer]]
+;Weapons:  None
+;Credits:  9,650 Cr
+;Prerequisites:  None
+;Storyline:  All
+
+This is arguably the second most common gamestart, as the player begins with a trade vessel they can put to work immediately.
+
+==Bancrupt Assassin==
+;Sector:  [[Aladna Hill]]
+;Ship:  [[Split]] [[M3]] [[Mamba]]
+;Weapons:  2 [[High Energy Plasma Thrower]]s
+;Credits:  0 Cr
+;Prerequisites:  None
+;Storyline:  All
+
+This gamestart claims to be challenging and may prove itself right, occasionally sending strong waves of pirate vessels to periodically harass the player. A good start for skilled pilots.
+
+{{sectstub}}
+
+(Author's Note:  The misspelling of this start is intentional, as the actual title is blocked by the wiki's spam filter.)
+
+==Tormented Teladi==
+;Sector:  [[Sanctity of Corruption]], [[Tears of Greed]], or [[Acquisition Repository]]
+;Ship:  [[Teladi]] M5 [[Harrier|Harrier Hauler]]
+;Weapons:  2 [[Impulse Ray Emitter]]s
+;Credits:  1,960 Cr
+;Prerequisites:  [[Trade rank]] 15 "Petty Financier"
+;Storyline:  All
+
+This gamestart allows the player to obtain an overtuned [[Kea|Enhanced Kea]].
+
+==Poisoned Paranid==
+;Sector:  [[Preacher's Refuge]] or [[Heaven's Assertion]]
+;Ship:  [[Paranid]] TS [[Demeter|Demeter Hauler]]
+;Weapons:  1 IRE
+;Credits:  9,268 Cr
+;Prerequisites:  Complete the mission at the beginning of the [[#Tormented Teladi|Tormented Teladi]] gamestart
+;Storyline:  All
+
+This gamestart gives the player a deadline to obtain several million credits.  If he is successful, he gets an overtuned [[Hyperion Vanguard]].
+
+==Aldran Adventurer==
+;Sector: [[Aldrin]]
+;Ship: Aldrin M3 [[Spitfyre]]
+;Weapons: 5 [[Experimental Electro-Magnetic Plasma Cannon]]s
+;Credits: 4,090 Cr
+;Prerequisites:  Terran plot completed, Fight Rank 24 "Crusader", [[Reputation#Argon|Argon rank]] 7 "Argon Federal Marshal"
+;Storyline:  Terran plot flagged as complete, all others enabled
+
+==Goner Witness==
+;Sector:  [[Elysium of Light]]
+;Ship:  [[Goner]] [[GO]] [[Ranger]]
+;Weapons:  None
+;Credits:  350 Cr
+;Prerequisites:  [[Goner plot]] completed
+;Storyline:  All
+
+==Unholy Traitor==
+;Sector:  Random between several sectors
+;Ship:  Paranid [[M3+]] [[Medusa|Medusa Prototype]]
+;Weapons:  2 PACs, 6 [[Pulsed Beam Emitter]]s
+;Credits:  21,331 Cr
+;Prerequisites:  Fight rank 16 "Specialist", [[Reputation#Split|Split Rank]] 7 "Split Privileged Associate of Rhonkar"
+;Storyline:  All
+
+Note: You typically start in a split sector, and with low enough reputation for the split to shoot on site, and the paranid sending bounty hunters after you. You are flying a great ship with good weapons, however it lacks many basic upgrades like Fight command software, shields, and engine tunings, which make this a difficult scenario.
+
+{{sectstub}}
+
+==Teladi Trafficker==
+;Sector:  [[Seizewell]]
+;Ship:  Teladi TS [[Vulture]]
+;Weapons:  None
+;Credits:  12,693 Cr
+;Prerequisites:  [[Reputation#Teladi|Teladi Rank]] 7 "Teladi Company Owner"
+;Storyline:  All
+
+==Lost Lar==
+;Sector:  [[Xenon Core 023]]
+;Ship:  [[Boron]] [[TP]] [[Angel]]
+;Weapons:  2 PACs
+;Credits:  1,350 Cr
+;Prerequisites:  [[Hub plot]] completed, [[Reputation#Boron|Boron Rank]] 7 "Boron Queen's Protectorate"
+;Storyline:  All
+
+As this gamestart puts you in a TP in the middle of a [[Xenon]] core sector, it is not to be trifled with.
+
+==Savage Split==
+;Sector:  [[Family Pride]]
+;Ship:  Split M5 [[Jaguar]]
+;Weapons:  2 PACs
+;Credits:  1,400 Cr
+;Prerequisites:  Fight rank 16 "Specialist"
+;Storyline:  All
+
+==Anonymous Argon==
+;Sector:  [[Argon Prime]]
+;Ship:  Argon M5 Discoverer
+;Weapons:  None
+;Credits:  2,400 Cr
+;Prerequisites:  Argon Rank 4 "Accepted Adviser"
+;Storyline:  All
+
+==Boring Boron==
+;Sector:  [[Kingdom End]]
+;Ship:  Boron M5 [[Octopus]]
+;Weapons:  None
+;Credits:  2,000 Cr
+;Prerequisites:  Trade rank 15 "Petty Financier"
+;Storyline:  All
+
+==Pious Paranid==
+;Sector:  [[Paranid Prime]]
+;Ship:  Paranid TS [[Demeter]]
+;Weapons:  None
+;Credits:  3,633 Cr
+;Prerequisites:  Fight rank 17 "Fighter Chief 24%" (3333 points) 
+;Storyline:  All
+
+==Nostalgic Argon==
+;Sector:  Argon Prime
+;Ship:  Argon M4 [[Buster]]
+;Weapons:  2 IREs
+;Credits:  1,000 Cr
+;Prerequisites:  None
+;Storyline:  All
+
+==Suicidal Squid==
+;Sector:  [[Queen's Harbor]]
+;Ship:  Boron M4 [[Mako]]
+;Weapons:  None
+;Credits:  1,000 Cr
+;Prerequisites:  Only available on Steam version of X3TC
+;Storyline:  All
+
+This gamestart is "Dead Is Dead" only.
+
+==Custom Start==
+;Sector:  Argon Prime
+;Ship:  Argon M4 [[Buster]]
+;Weapons:  2 IREs
+;Credits:  1,000 Cr
+;Prerequisites:  None
+;Plots:  None
+
+Custom Start is meant as a testbed for mods and scripts.  No plots are available.

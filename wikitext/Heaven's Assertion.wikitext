@@ -1,3 +1,127 @@
-<!-- source file: index__q74d1175f1d8c.html -->
+{{Infobox Sector
+|Race=Paranid
+|SecLevel=Border
+|Population=93,563,655
+|Planets=4
+|SunLevel=150
+|GateDist=80
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|0|35000|[[Pontifex's Seclusion]]}}
+{{Gateblock2|East|34000|0|0|[[Patriarch's Conclusion]]}}
+{{Gateblock2|South|44000|0|-57000|[[Unknown Sector (10,16)]]}}
+{{Gateblock/End}}
+}}
+==Description==
+The Priest Xaar ordained this sector in clear understanding that the nearby nova was seen by many to be a gateway to higher dimensions. Deemed secure enough for a strong agricultural and mining operation, it also poved to be a gateway to the [[Split]] expansion, and a means by which to curtail further [[Boron]] growth.
 
-{{Infobox Sector |Race=Paranid |SecLevel=Border |Population=93,563,655 |Planets=4 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0|0|35000|[[Pontifex's Seclusion]]}} {{Gateblock2|East|34000|0|0|[[Patriarch's Conclusion]]}} {{Gateblock2|South|44000|0|-57000|[[Unknown Sector (10,16)]]}} {{Gateblock/End}} }} ==Description== The Priest Xaar ordained this sector in clear understanding that the nearby nova was seen by many to be a gateway to higher dimensions. Deemed secure enough for a strong agricultural and mining operation, it also poved to be a gateway to the [[Split]] expansion, and a means by which to curtail further [[Boron]] growth. ==Shipyard Availability== {{Shipyard/Begin|Station|ST Size|Cost}} {{Shipyard/Station|Paranid Trading Dock||12000|29,800,064}} {{Shipyard/Station|Equipment Dock||10000|48,368,296}} {{Shipyard/Station|Weapon Component Factory||12000|623,268}} {{Shipyard/Station|Crystal Fab|M|15000|3,440,968}} {{Shipyard/Station|Quantum Tube Fab||13500|4,590,120}} {{Shipyard/Station|Chip Plant||16000|6,778,056}} {{Shipyard/Station|Computer Plant||14000|1,733,468}} {{Shipyard/Station|Wasp Missile Factory||11500|1,447,804}} {{Shipyard/Station|Hornet Missile Factory||17000|2,934,560}} {{Shipyard/Station|SQUASH Mine Factory||15000|2,246,368}} {{Shipyard/Station|Lasertower Factory||18500|1,220,568}} {{Shipyard/Station|Advanced Satellite Factory||18000|2,616,432}} {{Shipyard/Station|Particle Accelerator Cannon Forge||16000|4,112,732}} {{Shipyard/Station|High Energy Plasma Thrower Forge||18000|6,713,716}} {{Shipyard/Station|Concussion Impulse Generator Forge||21000|9,380,204}} {{Shipyard/Station|Photon Pulse Cannon Forge||24000|12,521,480}} {{Shipyard/Station|Fragmentation Bomb Launcher Forge||13500|5,126,392}} {{Shipyard/Station|Phased Shockwave Generator Forge||15000|8,917,944}} {{Shipyard/Station|Mobile Drilling System Factory||18500|3,682,484}} {{Shipyard/Station|Shield Prod. Facility 5 MJ||12500|2,150,280}} {{Shipyard/Station|Shield Prod. Facility 25 MJ||14000|3,999,312}} {{Shipyard/Station|Shield Prod. Facility 2 GJ||21000|13,561,300}} {{Shipyard/Station|Soyfarm|M|10500|479,984}} {{Shipyard/Station|Soyfarm|L|15750|1,199,988}} {{Shipyard/Station|Snail Ranch|M|12000|300,012}} {{Shipyard/Station|Snail Ranch|L|18000|750,000}} {{Shipyard/Station|Space Jewellery|M|9000|1,181,616}} {{Shipyard/Station|Space Jewellery|L|13500|2,658,632}} {{Shipyard/Station|Soyery|M|12861|1,077,736}} {{Shipyard/Station|Soyery|L|15750|2,087,496}} {{Shipyard/Station|Solar Power Plant|M|10500|5,141,972}} {{Shipyard/Station|Solar Power Plant|L|15750|11,569,436}} {{Shipyard/Station|Solar Power Plant|XL|22000|20,567,888}} {{Shipyard/Station|Ore Mine|M|8000|494,980}} {{Shipyard/Station|Ore Mine|L|12000|993,336}} {{Shipyard/Station|Silicon Mine|M|9500|545,360}} {{Shipyard/Station|Silicon Mine|L|14250|1,227,060}} {{Shipyard/Station|Complex Construction Kit||4250|259,696}} {{Shipyard/Station|Hurricane Missile Factory||16000|2,447,632}} {{Shipyard/Station|Aurora Missile Factory||13500|2,155,472}} {{Shipyard/Station|Tractor Beam Factory||23999|14,200,152}} {{Shipyard/Station|Tomahawk Missile Manufacturing Facility||13000|2,876,128}} {{Shipyard/Station|Hammer Torpedo Fabrication Facility||13000|2,876,128}} {{Shipyard/Station|Flail Missile Production Facility||13000|2,876,128}} {{Shipyard/Station|Crystal Fab|L|20500|6,531,344}} {{Shipyard/End}} {{Shipyard/Begin|Ship|Class|Cost}} {{Shipyard/Ship1|Hercules|TL|19,879,848}} {{Shipyard/Ship1|Demeter|TS|183,296}} {{Shipyard/Ship2|Demeter|Tanker|TS|183,296}} {{Shipyard/Ship2|Demeter|Hauler|TS|484,627}} {{Shipyard/Ship2|Demeter|Miner|TS|342,363}} {{Shipyard/Ship2|Demeter|Super Freighter|TS|484,627}} {{Shipyard/Ship2|Demeter|Super Freighter XL|TS|1,216,525}} {{Shipyard/Ship1|Hermes|TP|437,438}} {{Shipyard/Ship2|Hermes|Hauler|TP|1,188,951}} {{Shipyard/Ship1|Zeus|M1|86,439,545}} {{Shipyard/Ship1|Odysseus|M2|104,924,277}} {{Shipyard/Ship1|Perseus|M3|1,545,597}} {{Shipyard/Ship2|Perseus|Raider|M3|2,315,840}} {{Shipyard/Ship2|Perseus|Vanguard|M3|1,930,718}} {{Shipyard/Ship2|Perseus|Sentinel|M3|2,167,746}} {{Shipyard/Ship1|Pericles|M4|399,513}} {{Shipyard/Ship2|Pericles|Raider|M4|596,643}} {{Shipyard/Ship2|Pericles|Vanguard|M4|498,074}} {{Shipyard/Ship2|Pericles|Sentinel|M4|626,181}} {{Shipyard/Ship1|Pegasus|M5|63,473}} {{Shipyard/Ship2|Pegasus|Raider|M5|92,612}} {{Shipyard/Ship2|Pegasus|Vanguard|M5|78,000}} {{Shipyard/Ship2|Pegasus|Sentinel|M5|107,144}} {{Shipyard/Ship1|Nemesis|M6|9,304,199}} {{Shipyard/Ship1|Heavy Nemesis|M6+|14,377,642}} {{Shipyard/Ship1|Ares|M7M|50,675,750}} {{Shipyard/Ship1|Hades|M8|5,442,574}} {{Shipyard/End}} ==Default [[Stations]]== *[[Paranid Shipyard|Paranid Super Shipyard]] ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|43|-17656|14149|21931}} {{Asteroid/Item|Ore|25|-19800|-11228|29826}} {{Asteroid/Item|Ore|25|-12072|-13968|17960}} {{Asteroid/Item|Ore|21|8309|-6568|66917}} {{Asteroid/Item|Ore|20|-16892|-24839|14240}} {{Asteroid/Item|Ore|18|24126|-7166|37816}} {{Asteroid/Item|Ore|17|16330|-8925|-9642}} {{Asteroid/Item|Ore|15|-18516|-7859|41321}} {{Asteroid/Item|Ore|14|27318|10500|13863}} {{Asteroid/Item|Ore|13|-32089|2161|2501}} {{Asteroid/Item|Ore|13|-16549|-7392|-7590}} {{Asteroid/Item|Ore|10|-8850|2392|76789}} {{Asteroid/Item|Ore|10|-6323|10211|40037}} {{Asteroid/Item|Ore|8|22321|5748|-44420}} {{Asteroid/Item|Ore|5|-91740|-6642|66905}} {{Asteroid/Item|Ore|5|-10026|-2610|-18557}} {{Asteroid/Item|Silicon|40|-36776|-8876|44256}} {{Asteroid/Item|Silicon|26|-27007|-3339|21510}} {{Asteroid/Item|Silicon|26|-27007|-3339|21510}} {{Asteroid/Item|Silicon|26|-30159|3726|5305}} {{Asteroid/Item|Silicon|8|1263|-9127|53975}} {{Asteroid/Item|Silicon|6|-1898|2963|45961}} {{Asteroid/Item|Silicon|5|-24927|5332|14118}} {{Asteroid/End}} == See Also == {{Paranid Navbox}}
+==Shipyard Availability==
+{{Shipyard/Begin|Station|ST Size|Cost}}
+{{Shipyard/Station|Paranid Trading Dock||12000|29,800,064}}
+{{Shipyard/Station|Equipment Dock||10000|48,368,296}}
+{{Shipyard/Station|Weapon Component Factory||12000|623,268}}
+{{Shipyard/Station|Crystal Fab|M|15000|3,440,968}}
+{{Shipyard/Station|Quantum Tube Fab||13500|4,590,120}}
+{{Shipyard/Station|Chip Plant||16000|6,778,056}}
+{{Shipyard/Station|Computer Plant||14000|1,733,468}}
+{{Shipyard/Station|Wasp Missile Factory||11500|1,447,804}}
+{{Shipyard/Station|Hornet Missile Factory||17000|2,934,560}}
+{{Shipyard/Station|SQUASH Mine Factory||15000|2,246,368}}
+{{Shipyard/Station|Lasertower Factory||18500|1,220,568}}
+{{Shipyard/Station|Advanced Satellite Factory||18000|2,616,432}}
+{{Shipyard/Station|Particle Accelerator Cannon Forge||16000|4,112,732}}
+{{Shipyard/Station|High Energy Plasma Thrower Forge||18000|6,713,716}}
+{{Shipyard/Station|Concussion Impulse Generator Forge||21000|9,380,204}}
+{{Shipyard/Station|Photon Pulse Cannon Forge||24000|12,521,480}}
+{{Shipyard/Station|Fragmentation Bomb Launcher Forge||13500|5,126,392}}
+{{Shipyard/Station|Phased Shockwave Generator Forge||15000|8,917,944}}
+{{Shipyard/Station|Mobile Drilling System Factory||18500|3,682,484}}
+{{Shipyard/Station|Shield Prod. Facility 5 MJ||12500|2,150,280}}
+{{Shipyard/Station|Shield Prod. Facility 25 MJ||14000|3,999,312}}
+{{Shipyard/Station|Shield Prod. Facility 2 GJ||21000|13,561,300}}
+{{Shipyard/Station|Soyfarm|M|10500|479,984}}
+{{Shipyard/Station|Soyfarm|L|15750|1,199,988}}
+{{Shipyard/Station|Snail Ranch|M|12000|300,012}}
+{{Shipyard/Station|Snail Ranch|L|18000|750,000}}
+{{Shipyard/Station|Space Jewellery|M|9000|1,181,616}}
+{{Shipyard/Station|Space Jewellery|L|13500|2,658,632}}
+{{Shipyard/Station|Soyery|M|12861|1,077,736}}
+{{Shipyard/Station|Soyery|L|15750|2,087,496}}
+{{Shipyard/Station|Solar Power Plant|M|10500|5,141,972}}
+{{Shipyard/Station|Solar Power Plant|L|15750|11,569,436}}
+{{Shipyard/Station|Solar Power Plant|XL|22000|20,567,888}}
+{{Shipyard/Station|Ore Mine|M|8000|494,980}}
+{{Shipyard/Station|Ore Mine|L|12000|993,336}}
+{{Shipyard/Station|Silicon Mine|M|9500|545,360}}
+{{Shipyard/Station|Silicon Mine|L|14250|1,227,060}}
+{{Shipyard/Station|Complex Construction Kit||4250|259,696}}
+{{Shipyard/Station|Hurricane Missile Factory||16000|2,447,632}}
+{{Shipyard/Station|Aurora Missile Factory||13500|2,155,472}}
+{{Shipyard/Station|Tractor Beam Factory||23999|14,200,152}}
+{{Shipyard/Station|Tomahawk Missile Manufacturing Facility||13000|2,876,128}}
+{{Shipyard/Station|Hammer Torpedo Fabrication Facility||13000|2,876,128}}
+{{Shipyard/Station|Flail Missile Production Facility||13000|2,876,128}}
+{{Shipyard/Station|Crystal Fab|L|20500|6,531,344}}
+{{Shipyard/End}}
+{{Shipyard/Begin|Ship|Class|Cost}}
+{{Shipyard/Ship1|Hercules|TL|19,879,848}}
+{{Shipyard/Ship1|Demeter|TS|183,296}}
+{{Shipyard/Ship2|Demeter|Tanker|TS|183,296}}
+{{Shipyard/Ship2|Demeter|Hauler|TS|484,627}}
+{{Shipyard/Ship2|Demeter|Miner|TS|342,363}}
+{{Shipyard/Ship2|Demeter|Super Freighter|TS|484,627}}
+{{Shipyard/Ship2|Demeter|Super Freighter XL|TS|1,216,525}}
+{{Shipyard/Ship1|Hermes|TP|437,438}}
+{{Shipyard/Ship2|Hermes|Hauler|TP|1,188,951}}
+{{Shipyard/Ship1|Zeus|M1|86,439,545}}
+{{Shipyard/Ship1|Odysseus|M2|104,924,277}}
+{{Shipyard/Ship1|Perseus|M3|1,545,597}}
+{{Shipyard/Ship2|Perseus|Raider|M3|2,315,840}}
+{{Shipyard/Ship2|Perseus|Vanguard|M3|1,930,718}}
+{{Shipyard/Ship2|Perseus|Sentinel|M3|2,167,746}}
+{{Shipyard/Ship1|Pericles|M4|399,513}}
+{{Shipyard/Ship2|Pericles|Raider|M4|596,643}}
+{{Shipyard/Ship2|Pericles|Vanguard|M4|498,074}}
+{{Shipyard/Ship2|Pericles|Sentinel|M4|626,181}}
+{{Shipyard/Ship1|Pegasus|M5|63,473}}
+{{Shipyard/Ship2|Pegasus|Raider|M5|92,612}}
+{{Shipyard/Ship2|Pegasus|Vanguard|M5|78,000}}
+{{Shipyard/Ship2|Pegasus|Sentinel|M5|107,144}}
+{{Shipyard/Ship1|Nemesis|M6|9,304,199}}
+{{Shipyard/Ship1|Heavy Nemesis|M6+|14,377,642}}
+{{Shipyard/Ship1|Ares|M7M|50,675,750}}
+{{Shipyard/Ship1|Hades|M8|5,442,574}}
+{{Shipyard/End}}
+
+==Default [[Stations]]==
+*[[Paranid Shipyard|Paranid Super Shipyard]]
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|43|-17656|14149|21931}}
+{{Asteroid/Item|Ore|25|-19800|-11228|29826}}
+{{Asteroid/Item|Ore|25|-12072|-13968|17960}}
+{{Asteroid/Item|Ore|21|8309|-6568|66917}}
+{{Asteroid/Item|Ore|20|-16892|-24839|14240}}
+{{Asteroid/Item|Ore|18|24126|-7166|37816}}
+{{Asteroid/Item|Ore|17|16330|-8925|-9642}}
+{{Asteroid/Item|Ore|15|-18516|-7859|41321}}
+{{Asteroid/Item|Ore|14|27318|10500|13863}}
+{{Asteroid/Item|Ore|13|-32089|2161|2501}}
+{{Asteroid/Item|Ore|13|-16549|-7392|-7590}}
+{{Asteroid/Item|Ore|10|-8850|2392|76789}}
+{{Asteroid/Item|Ore|10|-6323|10211|40037}}
+{{Asteroid/Item|Ore|8|22321|5748|-44420}}
+{{Asteroid/Item|Ore|5|-91740|-6642|66905}}
+{{Asteroid/Item|Ore|5|-10026|-2610|-18557}}
+{{Asteroid/Item|Silicon|40|-36776|-8876|44256}}
+{{Asteroid/Item|Silicon|26|-27007|-3339|21510}}
+{{Asteroid/Item|Silicon|26|-27007|-3339|21510}}
+{{Asteroid/Item|Silicon|26|-30159|3726|5305}}
+{{Asteroid/Item|Silicon|8|1263|-9127|53975}}
+{{Asteroid/Item|Silicon|6|-1898|2963|45961}}
+{{Asteroid/Item|Silicon|5|-24927|5332|14118}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Paranid Navbox}}

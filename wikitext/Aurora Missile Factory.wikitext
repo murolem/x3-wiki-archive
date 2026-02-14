@@ -1,3 +1,38 @@
-<!-- source file: index__qba04ee3c910f.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Paranid
+|station=Aurora Missile Factory
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:02:00
+|productnum=[[Aurora Missile]] (3)
+|stationprice={{Priceblock|Paranid Friend of Priest King|2155472}}
+|reqresources=[[Energy Cells]] (30) <br>[[Soja Husk]] (4) <br>[[Ore]] (5) 
+|optresources=None
+}}
+{{Infobox close}}
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Paranid |station=Aurora Missile Factory |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:02:00 |productnum=[[Aurora Missile]] (3) |stationprice={{Priceblock|Paranid Friend of Priest King|2155472}} |reqresources=[[Energy Cells]] (30) &lt;br>[[Soja Husk]] (4) &lt;br>[[Ore]] (5) |optresources=None }} {{Infobox close}} ==Overview== Aurora Missile Factories are Paranid factories that produce the [[Aurora Missile]] from [[Energy Cells]], [[Soja Husk]] and [[Ore]]. ===Encyclopedia Entry=== This factory produces the Aurora Synaptic Missile. A new technology that allows detonation of the missile to be controlled by the pilot. ==Availability== This factory is exclusive to the Paranid. {| style="text-align:left;" |- valign="top" | '''[[Paranid#Shipyards|Paranid]]''' *{{sa|Heaven's Assertion}} *{{sa|Third Redemption}} *{{sa|Trinity Sanctum}} |} {{Stationcategory}}
+==Overview==
+
+Aurora Missile Factories are Paranid factories that produce the [[Aurora Missile]] from [[Energy Cells]], [[Soja Husk]] and [[Ore]].
+
+===Encyclopedia Entry===
+
+This factory produces the Aurora Synaptic Missile. A new technology that allows detonation of the missile to be controlled by the pilot.
+
+==Availability==
+
+This factory is exclusive to the Paranid.
+
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Paranid#Shipyards|Paranid]]'''
+*{{sa|Heaven's Assertion}}
+*{{sa|Third Redemption}}
+*{{sa|Trinity Sanctum}}
+|}
+
+{{Stationcategory}}

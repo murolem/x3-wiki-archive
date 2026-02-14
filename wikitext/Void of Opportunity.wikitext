@@ -1,3 +1,27 @@
-<!-- source file: index__q2fd753640c5d.html -->
+{{Infobox Sector
+|Race=Pirates
+|SecLevel=Border
+|Population=Unknown
+|Planets=2
+|SunLevel=150
+|GateDist=80
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|0|	-13000|	55000|[[Player Sector]]}}
+{{Gateblock2|West|-35000|	0|	0|[[PTNI Headquarters]]}}
+</table>
+}}
+==Description==
+===Information===
+Known as Unknown Sector (12,5) in previous versions of X3.
 
-{{Infobox Sector |Race=Pirates |SecLevel=Border |Population=Unknown |Planets=2 |SunLevel=150 |GateDist=80 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|0| -13000| 55000|[[Player Sector]]}} {{Gateblock2|West|-35000| 0| 0|[[PTNI Headquarters]]}} &lt;/table> }} ==Description== ===Information=== Known as Unknown Sector (12,5) in previous versions of X3. ===Encyclopedy Entry (Terran Conflict)=== Sector is not recognised in database ==Default [[Stations]]== *[[Pirate Base]] *[[Rehabilitation Facility]] ==[[Asteroids]]== {{Pirates Navbox}}
+===Encyclopedy Entry (Terran Conflict)===
+Sector is not recognised in database
+
+==Default [[Stations]]==
+*[[Pirate Base]]
+*[[Rehabilitation Facility]]
+
+==[[Asteroids]]==
+
+{{Pirates Navbox}}

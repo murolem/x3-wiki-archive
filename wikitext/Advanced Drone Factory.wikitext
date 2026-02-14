@@ -1,3 +1,53 @@
-<!-- source file: index__qdcae9d70ec28.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Advanced Drone Factory
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:16:00
+|productnum=[[Fighter Drone MKII]] (1)
+|stationprice=
+|reqresources=[[Energy Cells]] (240)<br>[[Silicon Wafers]] (10)<bR>[[Food]] by Race
+|optresources=[[Computer Components]]<br>[[Quantum Tubes]]
+}}
+{{Infobox close}}
+==Overview==
+Advanced Fighter Drone Factories produce [[Fighter Drone MKII]] from [[Energy Cells]], [[Silicon Wafers]] and [[Food]]. 
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction= |station=Advanced Drone Factory |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:16:00 |productnum=[[Fighter Drone MKII]] (1) |stationprice= |reqresources=[[Energy Cells]] (240)&lt;br>[[Silicon Wafers]] (10)&lt;bR>[[Food]] by Race |optresources=[[Computer Components]]&lt;br>[[Quantum Tubes]] }} {{Infobox close}} ==Overview== Advanced Fighter Drone Factories produce [[Fighter Drone MKII]] from [[Energy Cells]], [[Silicon Wafers]] and [[Food]]. NPC stations will buy [[Computer Components]] and [[Quantum Tubes]] as secondary resources. ===Encyclopedia Entry=== The MkII Drone offers an increase in both maneuverability and firepower over the previous version, while also enjoying an extended range of operation. ==Race-specific attributes== {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |+'''Advanced Drone Factory''' |-style="background-color:LightGray;text-align:center;" !Race!!Food!!Amount!!Station Cost |- style="{{Colour/Argon}}" | [[Argon]] || [[Meatsteak Cahoonas]] || 160 || {{Priceblock|Trusted Ally|2898204}} |- style="{{Colour/Split}}" | [[Split]] || [[Rastar Oil]] || 24 || {{Priceblock|Distinguished Associate|3035320}} |} ==Availability== {| style="text-align:left;" ! [[Argon]] !! [[Split]] |-valign="top" | *{{sa|Argon Prime}} *{{sa|Argon Sector M148}} *{{sa|Cloudbase Southeast}} *{{sa|Legend's Home}} | *{{sa|Family Njy}} *{{sa|Family Pride}} *{{sa|Patriarch's Conclusion}} *{{sa|Rhonkar's Trial}} *{{sa|Zyarth's Dominion}} *{{sa|Zyarth's Stand}} |} {{Stationcategory}}
+NPC stations will buy [[Computer Components]] and [[Quantum Tubes]] as secondary resources.
+
+===Encyclopedia Entry===
+The MkII Drone offers an increase in both maneuverability and firepower over the previous version, while also enjoying an extended range of operation.
+
+==Race-specific attributes==
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|+'''Advanced Drone Factory'''
+|-style="background-color:LightGray;text-align:center;"
+!Race!!Food!!Amount!!Station Cost
+|- style="{{Colour/Argon}}"
+| [[Argon]] || [[Meatsteak Cahoonas]] || 160 || {{Priceblock|Trusted Ally|2898204}}
+|- style="{{Colour/Split}}"
+| [[Split]] || [[Rastar Oil]] || 24 || {{Priceblock|Distinguished Associate|3035320}}
+|}
+==Availability==
+{| style="text-align:left;"
+! [[Argon]] !! [[Split]]
+|-valign="top"
+| 
+*{{sa|Argon Prime}}
+*{{sa|Argon Sector M148}}
+*{{sa|Cloudbase Southeast}}
+*{{sa|Legend's Home}}
+|
+*{{sa|Family Njy}}
+*{{sa|Family Pride}}
+*{{sa|Patriarch's Conclusion}}
+*{{sa|Rhonkar's Trial}}
+*{{sa|Zyarth's Dominion}}
+*{{sa|Zyarth's Stand}}
+|}
+
+{{Stationcategory}}

@@ -1,3 +1,28 @@
-<!-- source file: index__q09ea34c12937.html -->
+A ship's autopilot allows the ship to perform automated tasks. These tasks are defined based upon installed [[:Category:Command Software|command software]] and ship's class, as well as its status in a [[Wing]] or [[Fleet]].
 
-A ship's autopilot allows the ship to perform automated tasks. These tasks are defined based upon installed [[:Category:Command Software|command software]] and ship's class, as well as its status in a [[Wing]] or [[Fleet]]. == Software Types == {| |+ '''Allowed Options''' |- | {{:Explorer Command Software}} |- | {{:Fight Command Software}} |- | {{:Navigation Command Software}} |- | {{:Patrol Command Software}} |- | {{:Supply Command Software}} |- | {{:Trade Command Software}} |} == See Also == *[[Wing]]s *[[Fleet]]s
+== Software Types ==
+{| 
+|+ '''Allowed Options'''
+|-
+|
+{{:Explorer Command Software}}
+|-
+|
+{{:Fight Command Software}}
+|-
+|
+{{:Navigation Command Software}}
+|-
+|
+{{:Patrol Command Software}}
+|-
+|
+{{:Supply Command Software}}
+|-
+|
+{{:Trade Command Software}}
+|}
+
+== See Also ==
+*[[Wing]]s
+*[[Fleet]]s

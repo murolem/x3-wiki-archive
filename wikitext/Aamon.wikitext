@@ -1,3 +1,133 @@
-<!-- source file: index__qf257ca86d33a.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Aamon Prototype
+|Faction=Argon
+|Class={{M3+class}}
+|Priceblock={{Priceblock|| }}
+|Minspeed=72.0
+|Maxspeed=180
+|Minaccel=12
+|Maxaccel=31
+|Minsteer=16.9
+|Maxsteer=42.2
+|Hull=20000
+|Maxshield=25 MJ
+|Shieldslots=6
+|Maxshieldstrength=150
+|Shieldreactor= 1100
+|Cargoclass=L
+|Mincargo=120
+|Maxcargo=255
+|Lasercap=8500
+|Laserrecharge=266
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Front
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The final reward to Albion Prelude's plot, the Aamon Prototype is an extremely powerful heavy fighter.
 
-{{Infobox open}} {{Infobox variant |Variant=Aamon Prototype |Faction=Argon |Class={{M3+class}} |Priceblock={{Priceblock|| }} |Minspeed=72.0 |Maxspeed=180 |Minaccel=12 |Maxaccel=31 |Minsteer=16.9 |Maxsteer=42.2 |Hull=20000 |Maxshield=25 MJ |Shieldslots=6 |Maxshieldstrength=150 |Shieldreactor= 1100 |Cargoclass=L |Mincargo=120 |Maxcargo=255 |Lasercap=8500 |Laserrecharge=266 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=1|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Front |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The final reward to Albion Prelude's plot, the Aamon Prototype is an extremely powerful heavy fighter. ==Background== A prototype developed by the Argon Secret Service. It is a hybrid of Terran and Argon technology and although still in development, it is already very powerful. ==Physical Characteristics== == Combat == The Aamon is essentially an improved Notus Hauler, but with slightly better speed and handling, one additional 25 MJ shield, and higher laser capacity and recharge rate. The only other notable difference is that the Aamon can also mount Terran EMPCs and can launch the Terran Poltergeist and Spectre missiles. It is one of the best [[M3+]] craft available. It is capable of carrying typical Commonwealth weapons for its class as well as Terran ones, and features two turrets unlike most heavy fighter designs. Combined with strong overall stats, it is both a flexible and powerful design. In terms of raw power its only real competitor is the deadly [[Fenrir]]. == Equipment == == Availability == The Aamon is only available as a prototype, and only attainable after finishing the Albion Prelude plot as a final reward. == Suggested Roles== An excellent playership, as only one is available. The heavy shielding and weaponry, combined with good speed and passable cargo, make it a very competent ship. == Headquarters Production Info == This ship can be reverse engineered and produced at the player Headquarters. Required materials and build time as follows: HQ Production Materials {| style="text-align:right;" ! Ware !! Amount |- valign="top" |[[Energy Cells]]||{{formatnum:5502}} |- |[[Teladianium]]||{{formatnum:171}} |- |[[Cloth Rimes]]||57 |- |[[Rastar Oil]]||114 |- |[[Ore]]||{{formatnum:229}} |- |[[Silicon|Silicon Wafers]]||{{formatnum:171}} |- |[[Crystals]]||57 |- |[[Quantum Tubes]]||57 |- |[[Microchips]]||114 |- |[[Computer Components]]||57 |- |Shipwright Fee ([[Credits]])|| {{formatnum:1623097}} |- |Build Time (game time)&lt;bR>(hh:mm:ss)||4:52:48 |} == See Also== *[[Eclipse|Argon Eclipse]] *[[Skate|Boron Skate]] *[[Medusa|Paranid Medusa]] *[[Chimera|Split Chimera]] *[[Kea|Teladi Kea]] *[[Cutlass|Terran Cutlass]] *[[Xenon LX]] *[[Tenjin|Yaki Tenjin]] *[[Fenrir|ATF Fenrir]] {{M3+category}}
+==Background==
+A prototype developed by the Argon Secret Service. It is a hybrid of Terran and Argon technology and although still in development, it is already very powerful.
+==Physical Characteristics==
+== Combat ==
+The Aamon is essentially an improved Notus Hauler, but with slightly better speed and handling, one additional 25 MJ shield, and higher laser capacity and recharge rate. The only other notable difference is that the Aamon can also mount Terran EMPCs and can launch the Terran Poltergeist and Spectre missiles.
+
+It is one of the best [[M3+]] craft available. It is capable of carrying typical Commonwealth weapons for its class as well as Terran ones, and features two turrets unlike most heavy fighter designs. Combined with strong overall stats, it is both a flexible and powerful design. In terms of raw power its only real competitor is the deadly [[Fenrir]].
+
+== Equipment ==
+== Availability ==
+The Aamon is only available as a prototype, and only attainable after finishing the Albion Prelude plot as a final reward.
+
+== Suggested Roles==
+An excellent playership, as only one is available. The  heavy shielding and weaponry, combined with good speed and passable cargo, make it a very competent ship.
+
+== Headquarters Production Info ==
+This ship can be reverse engineered and produced at the player Headquarters. Required materials and build time as follows:
+
+HQ Production Materials
+{| style="text-align:right;"
+! Ware !! Amount
+|- valign="top"
+|[[Energy Cells]]||{{formatnum:5502}}
+|-
+|[[Teladianium]]||{{formatnum:171}}
+|-
+|[[Cloth Rimes]]||57
+|-
+|[[Rastar Oil]]||114
+|-
+|[[Ore]]||{{formatnum:229}}
+|-
+|[[Silicon|Silicon Wafers]]||{{formatnum:171}}
+|-
+|[[Crystals]]||57
+|-
+|[[Quantum Tubes]]||57
+|-
+|[[Microchips]]||114
+|-
+|[[Computer Components]]||57
+|-
+|Shipwright Fee ([[Credits]])|| {{formatnum:1623097}}
+|-
+|Build Time (game time)<bR>(hh:mm:ss)||4:52:48	
+|}
+
+== See Also==
+*[[Eclipse|Argon Eclipse]]
+*[[Skate|Boron Skate]]
+*[[Medusa|Paranid Medusa]]
+*[[Chimera|Split Chimera]]
+*[[Kea|Teladi Kea]]
+*[[Cutlass|Terran Cutlass]]
+*[[Xenon LX]]
+*[[Tenjin|Yaki Tenjin]]
+*[[Fenrir|ATF Fenrir]]
+{{M3+category}}

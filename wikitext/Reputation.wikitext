@@ -1,3 +1,375 @@
-<!-- source file: index__q075b37de41f1.html -->
+{{See also|Ranks}}
 
-{{See also|Ranks}} Reputation is a reflection of how a [[Races|faction]] views you. Sufficiently negative reputation means that the faction in question considers you an enemy, will [[combat|attempt to kill you on sight]], and are usually marked with red reticules and sector map markers for your visual convenience. Combat and Trade Ranks can be found [[Ranks|Here]]. At a race rank of -1 you may [[docking|dock]] with a race's stations in border sectors and at a rank of 0 in core sectors. Each rank requires roughly 3 times the points to advance. For each rank you gain, you must do 3 times the work, or do things worth 3 times the notability. Each step being (more or less) geometrically harder then the last. An "L" displayed in-game after the race's rank indicated the player owns a [[Police License]] for that faction. == Introduction == &lt;br> ===Minimum Notoriety Points for Race Rank=== {{Rank List|333,333 (to 1,000,000) |100,000 |33,333 |10,000 |3,333 |1,000 |333 |100 |33 |10 |-10 |-100 |-1,000 |-10,000 |-100,000 |-1,000,000}} ==Reputation== {| cellpadding="10" |- style="vertical-align:top;" | ===[[Argon]]=== {{Rank List|Hero of the Federation |Protector of the Federation |Federation Overwatch |Federation Marshall |Federation Guardian |Trusted Ally |Accepted Advisor |Confirmed Friend |Federation Associate |Federation Member |Citizen |Suspected Foe |Known antagonist |Confirmed Insurgent |Confirmed enemy |Enemy of the Federation}} | ===[[Boron]]=== {{Rank List|Knight of the Kingdom |King's Protectorate |Kings Knight |Queen's Protectorate |Queens Knight |Queen's Guard |Noble Peer |Trusted Courtier |Accepted Friend |Friend (Boron) |Acquaintance |Antagonist |Confirmed Adversary |Enemy of Menelaus |Queen's Nemesis |Enemy of the Kingdom}} | ===[[Terran]]=== {{Rank List|Hero of Sol |Solar Sentinel |Guardian of Earth |Planetary Senator |Servant of Terra |Warrior of Io |Marshall of Mars |Senatorial Advisor |Regional Representative |Local Councillor |Citizen |Revolutionary |Renegade |Insurgent |Terrorist |Enemy of Sol}} | ===[[Paranid]]=== {{Rank List|Honour Guard of Xaar |Seeker of the Holy Light |Emperor's Protectorate |Friend of Emperor |Priest Protectorate |Friend of Priest King |Friend of Priest Duke |Priest Confidante |Friend of Priest |Friend |Nomad |Unholy Nomad |Tainted Wanderer |Desecrator of Holy Light |Enemy of Priest Duke |Enemy of Priest Xaar}} |- style="vertical-align:top;" | ===[[Split]]=== {{Rank List|Honoured Strong Arm of Rhonkar |Honoured Imperator of Rhonkar |Inner Circle of Rhonkar |Privileged Associate of Rhonkar |Family Protector |Distinguished Associate |Family Friend |Comrade |Friend |Known Venturer |Creature |Shameless Creature |Family Outcast |Family Enemy |Enemy of Rhonkar |Enemy of all Split Families}} | ===[[Teladi]]=== {{Rank List|Company Director |Venture Capitalist |Venture Profiteer |Company Owner |Company Manager |Majority Shareholder |Shareholder |Company Trader |Company Helper |Profit Opportunity |Profit Initiate |Profit Liability |Mercantile Rebel |Commercial Anarchist |Commercial Enemy |Enemy of the Corporation}} | ===[[ATF]]=== {{Rank List|Command Access |Operations Access |Research Access |Earth Access |Lunar Access |Mercury Access |Venus Access |Mars Access |Asteroid Belt Access |Outer System Access |System Access |Suspect Programmer |Tech Fugitive |Known AGI Sympathiser |Illegal AGI Developer |AGI Task Force Nemesis}} | ===[[Goner]]=== {{Rank List|Protector of the Goners |Holy Order of the Goners |Goner Evangelist |Goner Preacher |Honoured Pilgrim |Trusted Pilgrim |Faithful Believer |Believer |Follower |Accepted Member |Sceptic |Agnostic |Heathen |Blasphemer |Heretic |Defiler of the Truth}} |- style="vertical-align:top;" | ===[[Pirates]] &lt;sup>*&lt;/sup>=== | ===[[Yaki]] &lt;sup>*&lt;/sup>=== | ===[[Atreus]]=== {{Rank List|Knight of Atreus |Shipbuilding Guardian |Atreus Currents Shareholder |Shipbuilding Protector |Trusted Wholesaler |Shipbuilding Specialist |Technology Broker |Specialist Supplier |Confirmed Supplier |Potential Contact |Potential Friend |Antagonist |Adversary |Confirmed Enemy |Enemy of Shipbuilding |Enemy of Atreus}} | ===[[Duke's]]=== {{Rank List|Honour Guard of Priest Duke |Priest Duke's Guardian |Priest Duke's Warrior |Priest's Guard |Buccaneers' Specialist |Buccaneers' Assassin |Buccaneers' Professional |Duke's Buccaneer |Associate |Accomplice |Potential Contact |Suspected Informer |Enemy |Confirmed Enemy |Confirmed Insurgent |Enemy of the Duke}} |- style="vertical-align:top;" | ===[[Jonferco]]=== {{Rank List|Hero of Jonferson |Jonferson Crusader |JSDD Shareholder |JSDD Protector |JSDD Specialist |JSDD Broker |JSDD Professional |Capitalist |Skilled Dealer |Hired |Apprentice |Nuisance |Disruption |Confirmed Enemy |Enemy of Progress |Enemy of Jonferson}} | ===[[NMMC]]=== {{Rank List|Hero of Profit |Profit Overlord |PTNI Shareholder |Nividium Specialist |Professional Nividium Broker |Nividium Broker |Mineral Specialist |Professional Supplier |Confirmed Supplier |Contracted Trader |Friend |Trade Nuisance |Mining Disruption |Kha'ak Sympathiser |Enemy of Nividium |Enemy of PTNI}} | ===[[OTAS]]=== {{Rank List|OTAS Legend |OTAS Hero |OTAS Guardian |OTAS Master Chief |Combat Expert |Combat Field Agent |Armaments Professional |Security Specialist |Combat Support |Hired Security |Contracted |Suspected Security Breach |Known Antagonist |Confirmed Enemy |Confirmed Insurgent |Enemy of OTAS}} | ===[[Plutarch]]=== {{Rank List|Industrialist Legend |Trade Guardian |Plutarch Shareholder |Merchant Protector |Transportation Specialist |Merchant Miner |Mineral Specialist |Professional Supplier |Confirmed Supplier |Hired Trader |Potential Contact |Nuisance |Disruption |Confirmed Enemy |Enemy of Free Trade |Enemy of Plutarch}} |- style="vertical-align:top;" | ===[[Strongarms]]=== {{Rank List|Honoured Strong Arms Legend |Imperator of Strong Arms |Strong Arms' Battlemaster |Strong Arms' Protector |Strong Arms' Assassin |Warrior Specialist |Warrior |Combat Support |Associate |Accomplice |Friend |Outcast |Combat Nuisance |Confirmed Enemy |Enemy Warrior |Enemy of Strong Arms}} | ===[[Terracorp]]=== {{Rank List|Terracorp Legend |Kho's Hero |Crusader of Getsu Fune |Security Master Chief |Terracorp Protection Specialist |Terracorp Protection Agent |Terracorp Professional |Security Specialist |Combat Support |Hired Protection |Contracted |Potential Security Breach |Suspected Enemy |Confirmed Antagonist |Confirmed Insurgent |Enemy of Terracorp}} | ===[[Operation: Final Fury]]=== {{Rank List|General |Colonel |Major |Captain |Lieutenant |Second Lieutenant |Ensign |Flight Sergeant |Specialist |Trainee |Recruit |Disciplinary Lv1 |Disciplinary Lv2 |Disciplinary Lv3 |Expelled |Enemy}} |} &lt;sup>*&lt;/sup> Note:The Pirates and Yaki both use the same setup of notoriety ranks as other races, however these are not viewable in game and therefore have no name.
+Reputation is a reflection of how a [[Races|faction]] views you.  Sufficiently negative reputation means that the faction in question considers you an enemy, will [[combat|attempt to kill you on sight]], and are usually marked with red reticules and sector map markers for your visual convenience.
+
+Combat and Trade Ranks can be found [[Ranks|Here]].
+
+At a race rank of -1 you may [[docking|dock]] with a race's stations in border sectors and at a rank of 0 in core sectors.
+
+Each rank requires roughly 3 times the points to advance. For each rank you gain, you must do 3 times the work, or do things worth 3 times the notability. Each step being (more or less) geometrically harder then the last.
+
+An "L" displayed in-game after the race's rank indicated the player owns a [[Police License]] for that faction.
+
+== Introduction ==
+
+<br>
+===Minimum Notoriety Points for Race Rank===
+{{Rank List|333,333 (to 1,000,000)
+|100,000
+|33,333
+|10,000
+|3,333
+|1,000
+|333
+|100
+|33
+|10
+|-10
+|-100
+|-1,000
+|-10,000
+|-100,000
+|-1,000,000}}
+
+
+==Reputation== 
+{| cellpadding="10"
+|- style="vertical-align:top;"
+|
+===[[Argon]]===
+{{Rank List|Hero of the Federation
+|Protector of the Federation
+|Federation Overwatch
+|Federation Marshall
+|Federation Guardian
+|Trusted Ally
+|Accepted Advisor
+|Confirmed Friend
+|Federation Associate
+|Federation Member
+|Citizen
+|Suspected Foe
+|Known antagonist
+|Confirmed Insurgent
+|Confirmed enemy
+|Enemy of the Federation}}
+
+|
+
+===[[Boron]]===
+{{Rank List|Knight of the Kingdom
+|King's Protectorate
+|Kings Knight
+|Queen's Protectorate
+|Queens Knight
+|Queen's Guard
+|Noble Peer
+|Trusted Courtier
+|Accepted Friend
+|Friend (Boron)
+|Acquaintance
+|Antagonist
+|Confirmed Adversary
+|Enemy of Menelaus
+|Queen's Nemesis
+|Enemy of the Kingdom}}
+
+|
+===[[Terran]]===
+{{Rank List|Hero of Sol
+|Solar Sentinel
+|Guardian of Earth
+|Planetary Senator
+|Servant of Terra
+|Warrior of Io
+|Marshall of Mars
+|Senatorial Advisor
+|Regional Representative
+|Local Councillor
+|Citizen
+|Revolutionary
+|Renegade
+|Insurgent
+|Terrorist
+|Enemy of Sol}}
+
+|
+
+===[[Paranid]]===
+{{Rank List|Honour Guard of Xaar
+|Seeker of the Holy Light
+|Emperor's Protectorate
+|Friend of Emperor
+|Priest Protectorate
+|Friend of Priest King
+|Friend of Priest Duke
+|Priest Confidante
+|Friend of Priest
+|Friend
+|Nomad
+|Unholy Nomad
+|Tainted Wanderer
+|Desecrator of Holy Light
+|Enemy of Priest Duke
+|Enemy of Priest Xaar}}
+
+|- style="vertical-align:top;"
+|
+===[[Split]]===
+{{Rank List|Honoured Strong Arm of Rhonkar
+|Honoured Imperator of Rhonkar
+|Inner Circle of Rhonkar
+|Privileged Associate of Rhonkar
+|Family Protector
+|Distinguished Associate
+|Family Friend
+|Comrade
+|Friend
+|Known Venturer
+|Creature
+|Shameless Creature
+|Family Outcast
+|Family Enemy
+|Enemy of Rhonkar
+|Enemy of all Split Families}}
+
+|
+===[[Teladi]]===
+{{Rank List|Company Director
+|Venture Capitalist
+|Venture Profiteer
+|Company Owner
+|Company Manager
+|Majority Shareholder
+|Shareholder
+|Company Trader
+|Company Helper
+|Profit Opportunity
+|Profit Initiate
+|Profit Liability
+|Mercantile Rebel
+|Commercial Anarchist
+|Commercial Enemy
+|Enemy of the Corporation}}
+
+|
+===[[ATF]]===
+{{Rank List|Command Access
+|Operations Access
+|Research Access
+|Earth Access
+|Lunar Access
+|Mercury Access
+|Venus Access
+|Mars Access
+|Asteroid Belt Access
+|Outer System Access
+|System Access
+|Suspect Programmer
+|Tech Fugitive
+|Known AGI Sympathiser
+|Illegal AGI Developer
+|AGI Task Force Nemesis}}
+
+|
+===[[Goner]]===
+{{Rank List|Protector of the Goners
+|Holy Order of the Goners
+|Goner Evangelist
+|Goner Preacher
+|Honoured Pilgrim
+|Trusted Pilgrim
+|Faithful Believer
+|Believer
+|Follower
+|Accepted Member
+|Sceptic
+|Agnostic
+|Heathen
+|Blasphemer
+|Heretic
+|Defiler of the Truth}}
+
+|- style="vertical-align:top;"
+|
+===[[Pirates]] <sup>*</sup>===
+|
+===[[Yaki]] <sup>*</sup>===
+|
+===[[Atreus]]===
+{{Rank List|Knight of Atreus
+|Shipbuilding Guardian
+|Atreus Currents Shareholder
+|Shipbuilding Protector
+|Trusted Wholesaler
+|Shipbuilding Specialist
+|Technology Broker
+|Specialist Supplier
+|Confirmed Supplier
+|Potential Contact
+|Potential Friend
+|Antagonist
+|Adversary
+|Confirmed Enemy
+|Enemy of Shipbuilding
+|Enemy of Atreus}}
+
+
+|
+===[[Duke's]]===
+{{Rank List|Honour Guard of Priest Duke
+|Priest Duke's Guardian
+|Priest Duke's Warrior
+|Priest's Guard
+|Buccaneers' Specialist
+|Buccaneers' Assassin
+|Buccaneers' Professional
+|Duke's Buccaneer
+|Associate
+|Accomplice
+|Potential Contact
+|Suspected Informer
+|Enemy
+|Confirmed Enemy
+|Confirmed Insurgent
+|Enemy of the Duke}}
+
+|- style="vertical-align:top;"
+|
+===[[Jonferco]]===
+{{Rank List|Hero of Jonferson
+|Jonferson Crusader
+|JSDD Shareholder
+|JSDD Protector
+|JSDD Specialist
+|JSDD Broker
+|JSDD Professional
+|Capitalist
+|Skilled Dealer
+|Hired
+|Apprentice
+|Nuisance
+|Disruption
+|Confirmed Enemy
+|Enemy of Progress
+|Enemy of Jonferson}}
+
+|
+===[[NMMC]]===
+{{Rank List|Hero of Profit
+|Profit Overlord
+|PTNI Shareholder
+|Nividium Specialist
+|Professional Nividium Broker
+|Nividium Broker
+|Mineral Specialist
+|Professional Supplier
+|Confirmed Supplier
+|Contracted Trader
+|Friend
+|Trade Nuisance
+|Mining Disruption
+|Kha'ak Sympathiser
+|Enemy of Nividium
+|Enemy of PTNI}}
+
+|
+===[[OTAS]]===
+{{Rank List|OTAS Legend
+|OTAS Hero
+|OTAS Guardian
+|OTAS Master Chief
+|Combat Expert
+|Combat Field Agent
+|Armaments Professional
+|Security Specialist
+|Combat Support
+|Hired Security
+|Contracted
+|Suspected Security Breach
+|Known Antagonist
+|Confirmed Enemy
+|Confirmed Insurgent
+|Enemy of OTAS}}
+
+|
+===[[Plutarch]]===
+{{Rank List|Industrialist Legend
+|Trade Guardian
+|Plutarch Shareholder
+|Merchant Protector
+|Transportation Specialist
+|Merchant Miner
+|Mineral Specialist
+|Professional Supplier
+|Confirmed Supplier
+|Hired Trader
+|Potential Contact
+|Nuisance
+|Disruption
+|Confirmed Enemy
+|Enemy of Free Trade
+|Enemy of Plutarch}}
+
+|- style="vertical-align:top;"
+|
+===[[Strongarms]]===
+{{Rank List|Honoured Strong Arms Legend
+|Imperator of Strong Arms
+|Strong Arms' Battlemaster
+|Strong Arms' Protector
+|Strong Arms' Assassin
+|Warrior Specialist
+|Warrior
+|Combat Support
+|Associate
+|Accomplice
+|Friend
+|Outcast
+|Combat Nuisance
+|Confirmed Enemy
+|Enemy Warrior
+|Enemy of Strong Arms}}
+
+|
+===[[Terracorp]]===
+{{Rank List|Terracorp Legend
+|Kho's Hero
+|Crusader of Getsu Fune
+|Security Master Chief
+|Terracorp Protection Specialist
+|Terracorp Protection Agent
+|Terracorp Professional
+|Security Specialist
+|Combat Support
+|Hired Protection
+|Contracted
+|Potential Security Breach
+|Suspected Enemy
+|Confirmed Antagonist
+|Confirmed Insurgent
+|Enemy of Terracorp}}
+
+|
+===[[Operation: Final Fury]]===
+{{Rank List|General
+|Colonel
+|Major
+|Captain
+|Lieutenant
+|Second Lieutenant
+|Ensign
+|Flight Sergeant
+|Specialist
+|Trainee
+|Recruit
+|Disciplinary Lv1
+|Disciplinary Lv2
+|Disciplinary Lv3
+|Expelled
+|Enemy}}
+|}
+
+
+
+<sup>*</sup> Note:The Pirates and Yaki both use the same setup of notoriety ranks as other races, however these are not viewable in game and therefore have no name.

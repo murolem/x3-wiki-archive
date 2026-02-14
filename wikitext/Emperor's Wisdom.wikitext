@@ -1,3 +1,38 @@
-<!-- source file: index__q850f742bdab0.html -->
+{{Infobox Sector
+|Race=Paranid
+|SecLevel=Border
+|Population=34,530,217
+|Planets=3
+|SunLevel=150
+|GateDist=160
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|East|65788|	17000|	-22000|[[Trinity Sanctum]]}}
+{{Gateblock2|West|-65788|	-9000|	0|[[Duke's Vision]]}}
+{{Gateblock/End}}
+}}
+==Description==
+This sector is considered to be one of the high importance. In ancient times, the Emperor's palace in the high mountains of the Paranid Homeworld became so cold the ice would keep away any travellers. The Emperor chose on such occasions to stay at his winter palace in the equatorial region. When the Xenon nearly destroyed [[Paranid Prime]]'s atmosphere, the equatorial region was all but lost. Until recently the Emperor stayed at his palace in the mountains, accessible because of the heat from the [[Xenon]] experiment. In order to keep with tradition he set up a new winter palace in this sector, overlooking a great lake at the foot on the Kar Miat Mountains. In the winter of Paranid Prime's northern hemisphere, the Emperor usually occupies this sector with his advisory Dukes, keeping the long tradition that was lost fro so long.
 
-{{Infobox Sector |Race=Paranid |SecLevel=Border |Population=34,530,217 |Planets=3 |SunLevel=150 |GateDist=160 |Gates={{Gateblock/Begin}} {{Gateblock2|East|65788| 17000| -22000|[[Trinity Sanctum]]}} {{Gateblock2|West|-65788| -9000| 0|[[Duke's Vision]]}} {{Gateblock/End}} }} ==Description== This sector is considered to be one of the high importance. In ancient times, the Emperor's palace in the high mountains of the Paranid Homeworld became so cold the ice would keep away any travellers. The Emperor chose on such occasions to stay at his winter palace in the equatorial region. When the Xenon nearly destroyed [[Paranid Prime]]'s atmosphere, the equatorial region was all but lost. Until recently the Emperor stayed at his palace in the mountains, accessible because of the heat from the [[Xenon]] experiment. In order to keep with tradition he set up a new winter palace in this sector, overlooking a great lake at the foot on the Kar Miat Mountains. In the winter of Paranid Prime's northern hemisphere, the Emperor usually occupies this sector with his advisory Dukes, keeping the long tradition that was lost fro so long. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|41|138739|17522|18278}} {{Asteroid/Item|Ore|29|131119|28030|-45213}} {{Asteroid/Item|Ore|25|153938|-41752|13914}} {{Asteroid/Item|Ore|21|148518|-24625|35145}} {{Asteroid/Item|Ore|17|125934|-25936|-60799}} {{Asteroid/Item|Ore|9|136575|42886|-26805}} {{Asteroid/Item|Ore|3|152675|-13148|-30425}} {{Asteroid/Item|Ore|1|154714|36432|-40420}} {{Asteroid/Item|Silicon|45|151516|924|-59749}} {{Asteroid/Item|Silicon|19|125365|5392|28114}} {{Asteroid/Item|Silicon|12|163249|2520|-9274}} {{Asteroid/Item|Silicon|12|146554|-57230|-50962}} {{Asteroid/Item|Silicon|10|135092|-37670|3698}} {{Asteroid/Item|Silicon|5|127962|-64963|-745}} {{Asteroid/End}} == See Also == {{Paranid Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|41|138739|17522|18278}}
+{{Asteroid/Item|Ore|29|131119|28030|-45213}}
+{{Asteroid/Item|Ore|25|153938|-41752|13914}}
+{{Asteroid/Item|Ore|21|148518|-24625|35145}}
+{{Asteroid/Item|Ore|17|125934|-25936|-60799}}
+{{Asteroid/Item|Ore|9|136575|42886|-26805}}
+{{Asteroid/Item|Ore|3|152675|-13148|-30425}}
+{{Asteroid/Item|Ore|1|154714|36432|-40420}}
+{{Asteroid/Item|Silicon|45|151516|924|-59749}}
+{{Asteroid/Item|Silicon|19|125365|5392|28114}}
+{{Asteroid/Item|Silicon|12|163249|2520|-9274}}
+{{Asteroid/Item|Silicon|12|146554|-57230|-50962}}
+{{Asteroid/Item|Silicon|10|135092|-37670|3698}}
+{{Asteroid/Item|Silicon|5|127962|-64963|-745}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Paranid Navbox}}

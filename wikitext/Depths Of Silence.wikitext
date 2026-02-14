@@ -1,3 +1,70 @@
-<!-- source file: index__qf16b64a5acc3.html -->
+{{Infobox Sector
+|Race=Boron
+|SecLevel=Core
+|Population=49,340,890
+|Planets=1
+|SunLevel=150
+|GateDist=80
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|East|24894|	0|	-21000|[[Dark Waters]]}}
+{{Gateblock/End}}
+}}
+==Description==
+The RBMD or Royal Boron Military Defense, system 'Depths of Silence', was formed to build new ships and develop new technologies. This system is heavily guarded in case of attack by Xenon or other forces hostile to the Boron Navy. The sector is filled with high-tech Boron Stations, including those that specialise in the production of new Boron weapons systems. Entrance to this system is granted if you're carrying cargo to this system, or if you have previous access rights.
 
-{{Infobox Sector |Race=Boron |SecLevel=Core |Population=49,340,890 |Planets=1 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|East|24894| 0| -21000|[[Dark Waters]]}} {{Gateblock/End}} }} ==Description== The RBMD or Royal Boron Military Defense, system 'Depths of Silence', was formed to build new ships and develop new technologies. This system is heavily guarded in case of attack by Xenon or other forces hostile to the Boron Navy. The sector is filled with high-tech Boron Stations, including those that specialise in the production of new Boron weapons systems. Entrance to this system is granted if you're carrying cargo to this system, or if you have previous access rights. ==Shipyard Availability== A small shipyard lost at the end of nothing. {{Shipyard/Begin|Station|ST Size|Cost}} {{Shipyard/Station|Computer Plant||14000|1,415,340}} {{Shipyard/Station|Ion Pulse Generator Forge||18000|10,434,568}} {{Shipyard/Station|Shield Prod. Facility 1GJ||19500|8,159,636}} {{Shipyard/Station|Plankton Farm|M|9000|320,008}} {{Shipyard/Station|Bio Gas Factory|L|16500|561,528}} {{Shipyard/Station|BoFu Chemical Lab|M|10000|809,992}} {{Shipyard/Station|Solar Power Plant|L|15750|9,904,140}} {{Shipyard/Station|Ore Mine|L|12000|1,139,416}} {{Shipyard/Station|Silicon Mine|L|14250|1,402,356}} {{Shipyard/Station|Complex Construction Kit||4250|259,696}} {{Shipyard/Station|Tempest Missile Factory||15500|7,706,464}} {{Shipyard/End}} {{Shipyard/Begin|Ship|Class|Cost}} {{Shipyard/Ship1|Orca|TL|22,344,668}} {{Shipyard/Ship2|Dolphin|Super Freighter|TS|691,839}} {{Shipyard/Ship2|Manta|Hauler|TP|1,283,717}} {{Shipyard/Ship1|Pleco|TM|462,558}} {{Shipyard/Ship1|Shark|M1|61,790,791}} {{Shipyard/Ship1|Ray|M2|86,438,545}} {{Shipyard/Ship2|Barracuda|Sentinel|M3|2,081,534}} {{Shipyard/Ship1|Skate|M3+|5,171,351}} {{Shipyard/Ship2|Mako|Vanguard|M4|469,094}} {{Shipyard/Ship1|Pike|M4+|797,068}} {{Shipyard/Ship2|Octopus|Sentinel|M5|91,483}} {{Shipyard/Ship1|Hydra|M6|8,766,030}} {{Shipyard/Ship1|Thresher|M7|38,206,712}} {{Shipyard/End}} ==Default [[Stations]]== *[[Royal Boron Shipyard]] *Boron [[Equipment Dock]] *[[Military Outpost]] *Royal Boron Trading Station *[[Dumbfire Missile Production Complex]] alpha *[[Hammer Torpedo Fabrication Facility]] alpha *[[Heavy Shield Production Complex]] alpha *[[Impulse Ray Emitter Forge]] alpha *[[Satellite Factory]] alpha ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|19|-9435|0|-15540}} {{Asteroid/Item|Silicon|32|1110|222|36630}} {{Asteroid/Item|Silicon|22|-23474|0|-1810}} {{Asteroid/Item|Silicon|21|-14020|0|17760}} {{Asteroid/Item|Silicon|17|-19980|-444|-36630}} {{Asteroid/Item|Silicon|16|16650|0|4440}} {{Asteroid/Item|Silicon|8|-11655|222|-26640}} {{Asteroid/End}} == See Also == {{Boron Navbox}}
+==Shipyard Availability==
+A small shipyard lost at the end of nothing.
+{{Shipyard/Begin|Station|ST Size|Cost}}
+{{Shipyard/Station|Computer Plant||14000|1,415,340}}
+{{Shipyard/Station|Ion Pulse Generator Forge||18000|10,434,568}}
+{{Shipyard/Station|Shield Prod. Facility 1GJ||19500|8,159,636}}
+{{Shipyard/Station|Plankton Farm|M|9000|320,008}}
+{{Shipyard/Station|Bio Gas Factory|L|16500|561,528}}
+{{Shipyard/Station|BoFu Chemical Lab|M|10000|809,992}}
+{{Shipyard/Station|Solar Power Plant|L|15750|9,904,140}}
+{{Shipyard/Station|Ore Mine|L|12000|1,139,416}}
+{{Shipyard/Station|Silicon Mine|L|14250|1,402,356}}
+{{Shipyard/Station|Complex Construction Kit||4250|259,696}}
+{{Shipyard/Station|Tempest Missile Factory||15500|7,706,464}}
+{{Shipyard/End}}
+{{Shipyard/Begin|Ship|Class|Cost}}
+{{Shipyard/Ship1|Orca|TL|22,344,668}}
+{{Shipyard/Ship2|Dolphin|Super Freighter|TS|691,839}}
+{{Shipyard/Ship2|Manta|Hauler|TP|1,283,717}}
+{{Shipyard/Ship1|Pleco|TM|462,558}}
+{{Shipyard/Ship1|Shark|M1|61,790,791}}
+{{Shipyard/Ship1|Ray|M2|86,438,545}}
+{{Shipyard/Ship2|Barracuda|Sentinel|M3|2,081,534}}
+{{Shipyard/Ship1|Skate|M3+|5,171,351}}
+{{Shipyard/Ship2|Mako|Vanguard|M4|469,094}}
+{{Shipyard/Ship1|Pike|M4+|797,068}}
+{{Shipyard/Ship2|Octopus|Sentinel|M5|91,483}}
+{{Shipyard/Ship1|Hydra|M6|8,766,030}}
+{{Shipyard/Ship1|Thresher|M7|38,206,712}}
+{{Shipyard/End}}
+
+==Default [[Stations]]==
+*[[Royal Boron Shipyard]]
+*Boron [[Equipment Dock]]
+*[[Military Outpost]]
+*Royal Boron Trading Station
+*[[Dumbfire Missile Production Complex]] alpha
+*[[Hammer Torpedo Fabrication Facility]] alpha
+*[[Heavy Shield Production Complex]] alpha
+*[[Impulse Ray Emitter Forge]] alpha
+*[[Satellite Factory]] alpha
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|19|-9435|0|-15540}}
+{{Asteroid/Item|Silicon|32|1110|222|36630}}
+{{Asteroid/Item|Silicon|22|-23474|0|-1810}}
+{{Asteroid/Item|Silicon|21|-14020|0|17760}}
+{{Asteroid/Item|Silicon|17|-19980|-444|-36630}}
+{{Asteroid/Item|Silicon|16|16650|0|4440}}
+{{Asteroid/Item|Silicon|8|-11655|222|-26640}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Boron Navbox}}

@@ -1,3 +1,56 @@
-<!-- source file: index__q546a8b12c30a.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Particle Accelerator Cannon Forge
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:14:00
+|productnum=[[Particle Accelerator Cannon]] (1)
+|stationprice=
+|reqresources=[[Energy Cells]] (210)<br>[[Ore]] (35)<br>[[Food]] by race
+|optresources=[[Crystals]]
+}}
+{{Infobox close}}
+==Overview==
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction= |station=Particle Accelerator Cannon Forge |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:14:00 |productnum=[[Particle Accelerator Cannon]] (1) |stationprice= |reqresources=[[Energy Cells]] (210)&lt;br>[[Ore]] (35)&lt;br>[[Food]] by race |optresources=[[Crystals]] }} {{Infobox close}} ==Overview== Particle Accelerator Cannon Forges produce the [[Particle Accelerator Cannon]] from [[Energy Cells]], [[Ore]] and [[Food]]. NPC stations will buy [[Crystals]] as a secondary resource. ===Encyclopedia Entry=== This production facility manufactures Particle Accelerator Cannons. ==Race-specific attributes== {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |-style="background-color:LightGrey;text-align:center;" !Race!!Food!!Amount!!Station Cost |- style="{{Colour/Argon}}" | [[Argon]] || [[Meatsteak Cahoonas]] || 140 || {{Priceblock|Trusted Ally|4196680}} |- style="{{Colour/Boron}}" | [[Boron]] || [[BoFu]] || 35 ||{{Priceblock|Queen's Guard|4028787}} |- style="{{Colour/Paranid}}" | [[Paranid]] || [[Soja Husk]] || 28 ||{{Priceblock|Friend of Priest King|4112733}} |} ==Availability== While all races have the factories, only the Argon, Boron and Paranid sell them. {| style="text-align:left;" |-valign="top" | '''[[Argon#Shipyards|Argon]]''' *{{sa|Argon Prime}} *{{sa|Cloudbase Southeast}} *{{sa|Legend's Home}} *{{sa|Argon Sector M148}} | '''[[Boron#Shipyards|Boron]]''' *{{sa|Kingdom End}} *{{sa|Queen's Retribution}} | '''[[Paranid#Shipyards|Paranid]]''' *{{sa|Cardinal's Domain}} *{{sa|Heaven's Assertion}} *{{sa|Third Redemption}} |} {{Stationcategory}}
+Particle Accelerator Cannon Forges produce the [[Particle Accelerator Cannon]] from [[Energy Cells]], [[Ore]] and [[Food]]. 
+
+NPC stations will buy [[Crystals]] as a secondary resource.
+
+===Encyclopedia Entry===
+
+This production facility manufactures Particle Accelerator Cannons.
+ 
+==Race-specific attributes==
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|-style="background-color:LightGrey;text-align:center;"
+!Race!!Food!!Amount!!Station Cost
+|- style="{{Colour/Argon}}"
+| [[Argon]] || [[Meatsteak Cahoonas]] || 140 || {{Priceblock|Trusted Ally|4196680}}
+|- style="{{Colour/Boron}}"
+| [[Boron]] || [[BoFu]] || 35 ||{{Priceblock|Queen's Guard|4028787}}
+|- style="{{Colour/Paranid}}"
+| [[Paranid]] || [[Soja Husk]] || 28 ||{{Priceblock|Friend of Priest King|4112733}}
+|}
+
+==Availability==
+While all races have the factories, only the Argon, Boron and Paranid sell them.
+{| style="text-align:left;"
+|-valign="top"
+| '''[[Argon#Shipyards|Argon]]'''
+*{{sa|Argon Prime}}
+*{{sa|Cloudbase Southeast}}
+*{{sa|Legend's Home}}
+*{{sa|Argon Sector M148}}
+| '''[[Boron#Shipyards|Boron]]'''
+*{{sa|Kingdom End}} 
+*{{sa|Queen's Retribution}}
+| '''[[Paranid#Shipyards|Paranid]]'''
+*{{sa|Cardinal's Domain}} 
+*{{sa|Heaven's Assertion}}
+*{{sa|Third Redemption}} 
+|}
+{{Stationcategory}}

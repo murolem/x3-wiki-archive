@@ -1,3 +1,93 @@
-<!-- source file: index__q21eb91495dad.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Tractor Beam
+|hulldam=0
+|shielddam=0
+|range=2
+|rof= 120
+|shotspeed= 4000
+|maxweapenergy= 7000
+|shotcost=2000
+}}
+{{Infobox ware
+|ware=Tractor Beam
+|cargoclass=S
+|volume=50
+|minprice=763507
+|aveprice=779088
+|maxprice=794669
+}}
+{{Infobox close}}
+==Overview==
+A very useful item, the TB allows station repositioning, most helpful when complexing. It can be used by most [[M6]] class and above, and has no combatative worth.
 
-{{Infobox open}} {{Infobox weapon |weapon=Tractor Beam |hulldam=0 |shielddam=0 |range=2 |rof= 120 |shotspeed= 4000 |maxweapenergy= 7000 |shotcost=2000 }} {{Infobox ware |ware=Tractor Beam |cargoclass=S |volume=50 |minprice=763507 |aveprice=779088 |maxprice=794669 }} {{Infobox close}} ==Overview== A very useful item, the TB allows station repositioning, most helpful when complexing. It can be used by most [[M6]] class and above, and has no combatative worth. ==Encyclopedia Entry== The Tractor Beam is a new invention, designed primarily to move stations without the need for large and clumsy grappling systems. The beam uses a series of projected gravitic fields, which in effect reduce the mass of the object, making it easier to move. ==Commentary== The Tractor Beam is commonly used to assemble mines into complexes. The idea of using it to tow asteroids into enemy capital ships is frequently touted, but this cannot be done (unless the asteroid is a mine) as the tractor beam cannot lock on to an object not owned by the player. While technically "compatible", the tractor beam cannot actually be used by ships smaller than M6 corvettes, due to the energy requirements. From [http://forum.egosoft.com/viewtopic.php?p=2805572 Nanook's post on the Egosoft X3 forum] : ''"Tractor beams are really designed to be used by M6's, TL's and larger ships. The fact that they fit on a Mercury is probably due to the fact that all 'special weapons' are lumped together - tractor beam, repair laser, mobile drilling system (mining laser). If it can mount one, it can mount them all. Most likely, that Mercury was designed to mount a MDS, so it can also mount, but not use, the TB. In short, get an M6."'' ==Known Compatible Ships== {| cellpadding="5" |- valign="top" | Argon *[[Centaur]] *[[Cerberus]] *[[Colossus]] *[[Griffon]] *[[Heavy Centaur]] *[[Mammoth]] *[[Mistral]] *[[Orbital Weapon Platform L]] *[[Orbital Weapon Platform M]] *[[Orbital Weapon Platform S]] | ATF *[[Aegir]] *[[Vali]] *[[Vidar]] | Boron *[[Heavy Hydra]] *[[Hydra]] *[[Orca]] *[[Shark]] *[[Thresher]] | Paranid *[[Agamemnon]] *[[Deimos]] *[[Demeter Miner]] *[[Heavy Nemesis]] *[[Hercules]] *[[Hyperion]] *[[Nemesis]] *[[Zeus]] | Pirate *[[Carrack]] *[[Galleon]] | Split *[[Caiman#Caiman_Miner|Caiman Miner]] *[[Cobra]] *[[Dragon]] *[[Elephant]] *[[Heavy Dragon]] *[[Panther]] *[[Raptor]] *[[Tiger]] | Terran *[[Mobile Mining Base Ship]] *[[Yokohama]] |} ==Available at Known Docks== Third Redemption *Tractor Beam Factory Alpha *Tractor Beam Factory Beta
+==Encyclopedia Entry==
+The Tractor Beam is a new invention, designed primarily to move stations without the need for large and clumsy grappling systems. The beam uses a series of projected gravitic fields, which in effect reduce the mass of the object, making it easier to move.
+==Commentary==
+The Tractor Beam is commonly used to assemble mines into complexes. The idea of using it to tow asteroids into enemy capital ships is frequently touted, but this cannot be done (unless the asteroid is a mine) as the tractor beam cannot lock on to an object not owned by the player.
+
+While technically "compatible", the tractor beam cannot actually be used by ships smaller than M6 corvettes, due to the energy requirements. 
+From [http://forum.egosoft.com/viewtopic.php?p=2805572 Nanook's post on the Egosoft X3 forum] :
+''"Tractor beams are really designed to be used by M6's, TL's and larger ships. The fact that they fit on a Mercury is probably due to the fact that all 'special weapons' are lumped together - tractor beam, repair laser, mobile drilling system (mining laser). If it can mount one, it can mount them all. Most likely, that Mercury was designed to mount a MDS, so it can also mount, but not use, the TB. In short, get an M6."''
+
+==Known Compatible Ships==
+{| cellpadding="5"
+|- valign="top"
+|
+Argon
+*[[Centaur]]
+*[[Cerberus]]
+*[[Colossus]]
+*[[Griffon]]
+*[[Heavy Centaur]]
+*[[Mammoth]]
+*[[Mistral]]
+*[[Orbital Weapon Platform L]]
+*[[Orbital Weapon Platform M]]
+*[[Orbital Weapon Platform S]]
+|
+ATF
+*[[Aegir]]
+*[[Vali]]
+*[[Vidar]]
+|
+Boron
+*[[Heavy Hydra]]
+*[[Hydra]]
+*[[Orca]]
+*[[Shark]]
+*[[Thresher]]
+|
+Paranid
+*[[Agamemnon]]
+*[[Deimos]]
+*[[Demeter Miner]]
+*[[Heavy Nemesis]]
+*[[Hercules]]
+*[[Hyperion]]
+*[[Nemesis]]
+*[[Zeus]]
+|
+Pirate
+*[[Carrack]]
+*[[Galleon]]
+|
+Split
+*[[Caiman#Caiman_Miner|Caiman Miner]]
+*[[Cobra]]
+*[[Dragon]]
+*[[Elephant]]
+*[[Heavy Dragon]]
+*[[Panther]]
+*[[Raptor]]
+*[[Tiger]]
+|
+Terran
+*[[Mobile Mining Base Ship]]
+*[[Yokohama]]
+|}
+
+==Available at Known Docks==
+Third Redemption
+*Tractor Beam Factory Alpha
+*Tractor Beam Factory Beta

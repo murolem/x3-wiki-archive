@@ -1,3 +1,23 @@
-<!-- source file: index__q22b8790f89ac.html -->
+{{Infobox Sector
+|Race=Boron
+|SecLevel=Border
+|Population=39,552,870
+|Planets=1
+|SunLevel=150
+|GateDist=80
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|East|32000|	0|	500|[[Queen's Harbour]]}}
+{{Gateblock2|South|3000|	0|	-32500|[[Veil of Delusion]]}}
+{{Gateblock2|West|-32500|	0|	2500|[[Contorted Dominion]]}}
+{{Gateblock/End}}
+}}
+==Description==
+The Boron colonised this sector with dreams of such magnificence even the Queen offered her blessings. Flourishing for a great while, such dreams indeed became reality until the [[Split]] discovered and gained control over the connecting sector. Trade turned to war and dreams once cherished were left faded and broken.
 
-{{Infobox Sector |Race=Boron |SecLevel=Border |Population=39,552,870 |Planets=1 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|East|32000| 0| 500|[[Queen's Harbour]]}} {{Gateblock2|South|3000| 0| -32500|[[Veil of Delusion]]}} {{Gateblock2|West|-32500| 0| 2500|[[Contorted Dominion]]}} {{Gateblock/End}} }} ==Description== The Boron colonised this sector with dreams of such magnificence even the Queen offered her blessings. Flourishing for a great while, such dreams indeed became reality until the [[Split]] discovered and gained control over the connecting sector. Trade turned to war and dreams once cherished were left faded and broken. ==Default [[Stations]]== *[[Military Outpost]] ==[[Asteroids]]== == See Also == {{Boron Navbox}}
+==Default [[Stations]]==
+*[[Military Outpost]]
+
+==[[Asteroids]]==
+
+== See Also ==
+{{Boron Navbox}}

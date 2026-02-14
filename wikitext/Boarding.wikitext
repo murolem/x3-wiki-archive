@@ -1,3 +1,69 @@
-<!-- source file: index__q19448fdc9909.html -->
+{{See also|Not Purchasable}}
 
-{{See also|Not Purchasable}} ==Overview== [[Boarding]] is the act of getting [[marines]] onto a ship you don't control, in order to [[capping|capture]] it. The marines then automatically progress through a number of decks to get to the controls and hack them. If successful, the boarding operation grants control of the ship to the boarding faction. ==Types of Boarding== There are two types of boarding: === Spacewalk === Marines are put directly in space and must use suit units to get in contact with the hull. Each marine must make transit as an individual and cut through the hull by themselves. Scattering from launch or landing may separate a boarding team, which will reduce their effectiveness as they take casualties from their isolated combat power facing the total defensive might of the ship. === Boarding Pods === [[Boarding pods|Pods]] containing a marine boarding team of up to 5 marines are launched from a missile frigate and upon impacting the hull begin to cut through. Pods may be destroyed in transit so it is worthwhile to suppress anti-missile defenses during transit. == Ships that can be Boarded == Only [[M1]], [[M2]]/[[M2+]], [[M6]]/[[M6+]], [[M7]]/[[M7M]]/[[M7C]], [[TL]], and [[TM]] class ships ([[:Category:Board to Capture|full list]]) can or need to be boarded to be [[capping|captured]]. Others, like [[:Category:Fighters|Fighters]] may be forced to [[bail]] and then be [[claim|claimed]]. == Ships that can Perform Boarding == Only [[M6]]/[[M6+]], [[TP]], and [[M7M]] class ships ([[:Category:Boarding Ship|full list]]) are capable of performing boarding operations. Of those, only M7M class ships (and the sole M6+ [[Acinonyx Prototype]]) are capable of using [[boarding pods]]. == Steps To Board == # Load marines onto a boarding ship* that is outfitted with [[Cargo Life Support System]]. # Give a 'Piracy' order to board a valid target. # Keep the target's shields down until the marines are inside the hull. # Monitor marine chatter and wait until they've successfully hacked the firewall. The boarding operation can be further monitored via the personnel tab of the properties window. # After successful boarding the marines will remain inside the new spacecraft. Surplus marines eject and must be picked up. The player may also directly control the boarding operation, in which case the player will launch the marines manually.&lt;br> Use "launch marines" from "additional ship commands" under the turret control options. This command allows for somewhat more direct control over the location the marines are ejected, potentially reducing spacewalk times and risks. == Other Considerations == * Boarding causes hull damage, so a heavily damaged ship may explode or otherwise be impossible to board successfully. * A ship changing allegiance in the midst of enemies will be fired upon by those enemies. * Like most captured ships, boarded ships often lose all their shields. * Different classes of ships may take on different [[Marines#Aboard Ship|numbers of marines]]. * Ships have a base resistance level and may have devices or marines on board to make success more difficult. * Marine combat skill can be improved by boarding applicable ships in [[Return Ship]] missions. * Marine combat skills only improve through actual boarding operations. * Ion Weapons, although useful in these operations to keep the target's shields down without damaging the hull, will also destroy some of the equipment onboard. * Equipment destruction is potentially useful for removing defense equipment. * Area Effect weapons may also destroy boarding marines so care should be taken when firing one when supporting boarding operations. ==Boarding Resolution Algorithm== Boarding resolution is evaluated by comparing the relative combat power of the boarders versus the defense power of the ship. Thus a concentrated boarding will be more effective as the boarding team's combat power all comes in together in a large block. A separated team will face the defense of the ship in small groups and likely take casualties while the team reforms aboard ship, this in turn will likely reduce the total power of the team and generate more casualties. == See Also == {{Piracy}}
+==Overview==
+[[Boarding]] is the act of getting [[marines]] onto a ship you don't control, in order to [[capping|capture]] it.
+
+The marines then automatically progress through a number of decks to get to the controls and hack them.
+
+If successful, the boarding operation grants control of the ship to the boarding faction.
+
+==Types of Boarding==
+
+There are two types of boarding:
+
+=== Spacewalk ===
+
+Marines are put directly in space and must use suit units to get in contact with the hull.
+
+Each marine must make transit as an individual and cut through the hull by themselves.  Scattering from launch or landing may separate a boarding team, which will reduce their effectiveness as they take casualties from their isolated combat power facing the total defensive might of the ship.
+
+=== Boarding Pods ===
+
+[[Boarding pods|Pods]] containing a marine boarding team of up to 5 marines are launched from a missile frigate and upon impacting the hull begin to cut through.
+
+Pods may be destroyed in transit so it is worthwhile to suppress anti-missile defenses during transit.
+
+== Ships that can be Boarded ==
+
+Only [[M1]], [[M2]]/[[M2+]], [[M6]]/[[M6+]], [[M7]]/[[M7M]]/[[M7C]], [[TL]], and [[TM]] class ships ([[:Category:Board to Capture|full list]]) can or need to be boarded to be [[capping|captured]]. 
+
+Others, like [[:Category:Fighters|Fighters]] may be forced to [[bail]] and then be [[claim|claimed]].
+
+== Ships that can Perform Boarding ==
+
+Only [[M6]]/[[M6+]], [[TP]], and [[M7M]] class ships ([[:Category:Boarding Ship|full list]]) are capable of performing boarding operations. 
+
+Of those, only M7M class ships (and the sole M6+ [[Acinonyx Prototype]]) are capable of using [[boarding pods]].
+
+== Steps To Board ==
+# Load marines onto a boarding ship* that is outfitted with [[Cargo Life Support System]].
+# Give a 'Piracy' order to board a valid target.
+# Keep the target's shields down until the marines are inside the hull.
+# Monitor marine chatter and wait until they've successfully hacked the firewall. The boarding operation can be further monitored via the personnel tab of the properties window.
+# After successful boarding the marines will remain inside the new spacecraft. Surplus marines eject and must be picked up.
+
+The player may also directly control the boarding operation, in which case the player will launch the marines manually.<br>
+Use "launch marines" from "additional ship commands" under the turret control options. This command allows for somewhat more direct control over the location the marines are ejected, potentially reducing spacewalk times and risks.
+
+== Other Considerations ==
+* Boarding causes hull damage, so a heavily damaged ship may explode or otherwise be impossible to board successfully.
+* A ship changing allegiance in the midst of enemies will be fired upon by those enemies.
+* Like most captured ships, boarded ships often lose all their shields.
+* Different classes of ships may take on different [[Marines#Aboard Ship|numbers of marines]].
+* Ships have a base resistance level and may have devices or marines on board to make success more difficult.
+* Marine combat skill can be improved by boarding applicable ships in [[Return Ship]] missions.
+* Marine combat skills only improve through actual boarding operations.
+* Ion Weapons, although useful in these operations to keep the target's shields down without damaging the hull, will also destroy some of the equipment onboard. 
+* Equipment destruction is potentially useful for removing defense equipment.
+* Area Effect weapons may also destroy boarding marines so care should be taken when firing one when supporting boarding operations.
+
+==Boarding Resolution Algorithm==
+Boarding resolution is evaluated by comparing the relative combat power of the boarders versus the defense power of the ship.
+
+Thus a concentrated boarding will be more effective as the boarding team's combat power all comes in together in a large block.
+
+A separated team will face the defense of the ship in small groups and likely take casualties while the team reforms aboard ship, this in turn will likely reduce the total power of the team and generate more casualties.
+
+== See Also ==
+
+{{Piracy}}

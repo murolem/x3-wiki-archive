@@ -1,3 +1,67 @@
-<!-- source file: index__qb549ff5b96d7.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Teladi
+|station=Teladianium Foundry L
+|hull=2250000
+|shield=15
+|generator=1500
+|hangar=5
+|cycle=00:01:00
+|productnum=[[Teladianium]] (10)
+|stationprice={{Priceblock|Teladi Majority Shareholder|811548}}
+|reqresources=[[Energy Cells]] (75)
+|optresources=[[Ore]]
+}}
+{{Infobox factory
+|faction=Teladi
+|station=Teladianium Foundry M
+|hull=900000
+|shield=10
+|generator=1500
+|hangar=5
+|cycle=00:01:00
+|productnum=[[Teladianium]] (4)
+|stationprice={{Priceblock|Teladi Majority Shareholder|325008}}
+|reqresources=[[Energy Cells]] (30)
+|optresources=[[Ore]]
+}}
+{{Infobox close}}
+==Overview==
+Teladianium Foundries are Teladi factories that produce [[Teladianium]] from [[Energy Cells]]. 
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Teladi |station=Teladianium Foundry L |hull=2250000 |shield=15 |generator=1500 |hangar=5 |cycle=00:01:00 |productnum=[[Teladianium]] (10) |stationprice={{Priceblock|Teladi Majority Shareholder|811548}} |reqresources=[[Energy Cells]] (75) |optresources=[[Ore]] }} {{Infobox factory |faction=Teladi |station=Teladianium Foundry M |hull=900000 |shield=10 |generator=1500 |hangar=5 |cycle=00:01:00 |productnum=[[Teladianium]] (4) |stationprice={{Priceblock|Teladi Majority Shareholder|325008}} |reqresources=[[Energy Cells]] (30) |optresources=[[Ore]] }} {{Infobox close}} ==Overview== Teladianium Foundries are Teladi factories that produce [[Teladianium]] from [[Energy Cells]]. NPC stations will buy [[Ore]] as a secondary resource. ===Encyclopedia Entry=== A Teladianium Foundry is a large factory dedicated to the production of the hard tough material known as Teladianium that is used throughout the universe in the construction of buildings and in the interiors of spaceships. It is made from mixing dried out Teladian mud with a number of chemicals before being added to synthetic plastic to produce the final material. ==Comments== Because it only requires energy, it works well absorbing excess NPC energy capacity. However, unlike basic food products, the demand is relatively low which makes selling it more difficult. ==Availability== This factory is unique to the Teladi. {| |- valign="top" | style="padding-right:5em;" | ===L-type=== {| style="text-align:left;" |- valign="top" *{{sa|Ceo's Sprite}} *{{sa|Ministry of Finance}} *{{sa|Seizewell}} |} | ===M-type=== {| style="text-align:left;" |- valign="top" *{{sa|Ceo's Sprite}} *{{sa|Grand Exchange}} *{{sa|Ianamus Zura}} *{{sa|PTNI Headquarters}} |} |} {{Stationcategory}}
+NPC stations will buy [[Ore]] as a secondary resource.
+
+===Encyclopedia Entry===
+A Teladianium Foundry is a large factory dedicated to the production of the hard tough material known as Teladianium that is used throughout the universe in the construction of buildings and in the interiors of spaceships. 
+
+It is made from mixing dried out Teladian mud with a number of chemicals before being added to synthetic plastic to produce the final material.
+
+==Comments==
+Because it only requires energy, it works well absorbing excess NPC energy capacity. However, unlike basic food products, the demand is relatively low which makes selling it more difficult. 
+
+==Availability==
+This factory is unique to the Teladi.
+{|
+|- valign="top"
+| style="padding-right:5em;" |
+===L-type===
+{| style="text-align:left;"
+|- valign="top"
+*{{sa|Ceo's Sprite}}
+*{{sa|Ministry of Finance}}
+*{{sa|Seizewell}}
+|}
+
+|
+===M-type===
+{| style="text-align:left;"
+|- valign="top"
+*{{sa|Ceo's Sprite}}
+*{{sa|Grand Exchange}}
+*{{sa|Ianamus Zura}}
+*{{sa|PTNI Headquarters}}
+|}
+|}
+
+{{Stationcategory}}

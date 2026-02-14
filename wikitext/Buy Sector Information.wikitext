@@ -1,3 +1,6 @@
-<!-- source file: index__q462bd5769d78.html -->
+A free standing [[Missions#Offers|Offer]] in space.
 
-A free standing [[Missions#Offers|Offer]] in space. Offered randomly. A guy will say he has information for a few sectors. You can pay him for the whole lot, or just for one specific sector. Be warned: It will not reveal the whole sector. Only where it is and a few stations will be revealed. {{Missions}}
+Offered randomly. A guy will say he has information for a few sectors. You can pay him for the whole lot, or just for one specific sector. Be warned: It will not reveal the whole sector. Only where it is and a few stations will be revealed.
+
+
+{{Missions}}

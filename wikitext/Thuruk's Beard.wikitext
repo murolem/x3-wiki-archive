@@ -1,3 +1,25 @@
-<!-- source file: index__q17eb4a0d1b60.html -->
+{{Infobox Sector
+|Race=Split
+|SecLevel=Border
+|Population=66,534,325
+|Planets=1
+|SunLevel=150
+|GateDist=140
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|0|	0|	44310|[[Family Rhonkar]]}}
+{{Gateblock2|South|0|	0|	-40810|[[Hatikvah's Faith]]}}
+{{Gateblock2|West|-44310|	0|	0|[[Company Pride]]}}
+</table>
+}}
+==Description==
+On the fringes of civilized space, this deep space system is no stranger to raids by pirates and other hostile ships. Founded by the [[Split]] leader Thuruk as a prison colony for [[Boron]] captured during their wars, it has evolved into a thriving industrial outpost.
 
-{{Infobox Sector |Race=Split |SecLevel=Border |Population=66,534,325 |Planets=1 |SunLevel=150 |GateDist=140 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|0| 0| 44310|[[Family Rhonkar]]}} {{Gateblock2|South|0| 0| -40810|[[Hatikvah's Faith]]}} {{Gateblock2|West|-44310| 0| 0|[[Company Pride]]}} &lt;/table> }} ==Description== On the fringes of civilized space, this deep space system is no stranger to raids by pirates and other hostile ships. Founded by the [[Split]] leader Thuruk as a prison colony for [[Boron]] captured during their wars, it has evolved into a thriving industrial outpost. ==Default [[Stations]]== *[[Split Equipment Dock]] *[[Split Trading Port]] ==[[Asteroids]]== == See Also == {{Split Navbox}}
+==Default [[Stations]]==
+*[[Split Equipment Dock]]
+*[[Split Trading Port]]
+
+==[[Asteroids]]==
+
+== See Also ==
+{{Split Navbox}}

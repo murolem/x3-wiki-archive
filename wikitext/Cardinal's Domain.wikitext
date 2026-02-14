@@ -1,3 +1,68 @@
-<!-- source file: index__q2132e6acdc9f.html -->
+{{Infobox Sector
+|Race=Paranid
+|SecLevel=Core
+|Population=80,663,427
+|Planets=1
+|SunLevel=150
+|GateDist=70
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|0|35000|[[Moo-Kye's Revenge]]}}
+{{Gateblock2|East|26000|0|0|[[Sacred Relic]]}}
+{{Gateblock2|South|0|-13000|-21000|[[Friar's Retreat]]}}
+{{Gateblock2|West|-36000|0|0|[[Priest Refuge]]}}
+{{Gateblock/End}}
+}}
+==Description==
+===Encyclopedia Entry===
+With most of the Paranid now in space-borne colonies, the high priest of the Paranid chose to seek a new Cardinal to set up his religious sections in the new Dutchy Systems. This setor is now home to the Cardinal who chose this sector for the capital of the Second Dutchy. The system boasts shipyard facilities, and equipment dock, as well as being guarded by a [[M2|Destroyer]] ship, mainly for protection from the Pirates from past the north gate.
 
-{{Infobox Sector |Race=Paranid |SecLevel=Core |Population=80,663,427 |Planets=1 |SunLevel=150 |GateDist=70 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0|0|35000|[[Moo-Kye's Revenge]]}} {{Gateblock2|East|26000|0|0|[[Sacred Relic]]}} {{Gateblock2|South|0|-13000|-21000|[[Friar's Retreat]]}} {{Gateblock2|West|-36000|0|0|[[Priest Refuge]]}} {{Gateblock/End}} }} ==Description== ===Encyclopedia Entry=== With most of the Paranid now in space-borne colonies, the high priest of the Paranid chose to seek a new Cardinal to set up his religious sections in the new Dutchy Systems. This setor is now home to the Cardinal who chose this sector for the capital of the Second Dutchy. The system boasts shipyard facilities, and equipment dock, as well as being guarded by a [[M2|Destroyer]] ship, mainly for protection from the Pirates from past the north gate. ==Shipyard Availability== {{Shipyard/Begin|Station|ST Size|Cost}} {{Shipyard/Station|Weapon Component Factory||12000|623,268}} {{Shipyard/Station|Chip Plant||16000|6,778,056}} {{Shipyard/Station|Wasp Missile Factory||11500|1,447,804}} {{Shipyard/Station|Lasertower Factory||18500|1,220,568}} {{Shipyard/Station|Particle Accelerator Cannon Forge||16000|4,112,732}} {{Shipyard/Station|Shield Prod. Facility 5 MJ||12500|2,150,280}} {{Shipyard/Station|Soyfarm|M|10500|479,984}} {{Shipyard/Station|Snail Ranch|L|18000|750,000}} {{Shipyard/Station|Space Jewellery|M|9000|1,181,616}} {{Shipyard/Station|Soyery|L|15750|2,087,496}} {{Shipyard/Station|Solar Power Plant|XL|22000|20,567,888}} {{Shipyard/Station|Ore Mine|L|12000|993,336}} {{Shipyard/Station|Silicon Mine|M|9500|545,360}} {{Shipyard/Station|Complex Construction Kit||4250|259,696}} {{Shipyard/Station|Low-yield Sidearms Fab||15000|2,246,368}} {{Shipyard/End}} {{Shipyard/Begin|Ship|Class|Cost}} {{Shipyard/Ship1|Hercules|TL|19,879,848}} {{Shipyard/Ship1|Demeter|TS|435,204}} {{Shipyard/Ship2|Demeter|Super Freighter|TS|907,935}} {{Shipyard/Ship1|Helios|TM|406,051}} {{Shipyard/Ship1|Zeus|M1|86,438,545}} {{Shipyard/Ship1|Odysseus|M2|104,924,277}} {{Shipyard/Ship2|Perseus|Vanguard|M3|2,657,870}} {{Shipyard/Ship1|Medusa|M3+|6,419,669}} {{Shipyard/Ship2|Pericles|Sentinel|M4|1,311,785}} {{Shipyard/Ship1|Theseus|M4+|1,399,885}} {{Shipyard/Ship1|Pegasus|M5|92,561}} {{Shipyard/Ship2|Pegasus|Sentinel|M5|141,424}} {{Shipyard/Ship1|Nemesis|M6|9,304,199}} {{Shipyard/Ship1|Deimos|M7|38,237,259}} {{Shipyard/End}} ==Default [[Stations]]== *[[Paranid Shipyard]] *Paranid [[Equipment Dock]] ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|16|-8249|-5158|6399}} {{Asteroid/Item|Ore|8|-18565|7596|-1579}} {{Asteroid/Item|Silicon|8|-14370|12012|-6414}} {{Asteroid/End}} == See Also == {{Paranid Navbox}}
+==Shipyard Availability==
+{{Shipyard/Begin|Station|ST Size|Cost}}
+{{Shipyard/Station|Weapon Component Factory||12000|623,268}}
+{{Shipyard/Station|Chip Plant||16000|6,778,056}}
+{{Shipyard/Station|Wasp Missile Factory||11500|1,447,804}}
+{{Shipyard/Station|Lasertower Factory||18500|1,220,568}}
+{{Shipyard/Station|Particle Accelerator Cannon Forge||16000|4,112,732}}
+{{Shipyard/Station|Shield Prod. Facility 5 MJ||12500|2,150,280}}
+{{Shipyard/Station|Soyfarm|M|10500|479,984}}
+{{Shipyard/Station|Snail Ranch|L|18000|750,000}}
+{{Shipyard/Station|Space Jewellery|M|9000|1,181,616}}
+{{Shipyard/Station|Soyery|L|15750|2,087,496}}
+{{Shipyard/Station|Solar Power Plant|XL|22000|20,567,888}}
+{{Shipyard/Station|Ore Mine|L|12000|993,336}}
+{{Shipyard/Station|Silicon Mine|M|9500|545,360}}
+{{Shipyard/Station|Complex Construction Kit||4250|259,696}}
+{{Shipyard/Station|Low-yield Sidearms Fab||15000|2,246,368}}
+{{Shipyard/End}}
+
+{{Shipyard/Begin|Ship|Class|Cost}}
+{{Shipyard/Ship1|Hercules|TL|19,879,848}}
+{{Shipyard/Ship1|Demeter|TS|435,204}}
+{{Shipyard/Ship2|Demeter|Super Freighter|TS|907,935}}
+{{Shipyard/Ship1|Helios|TM|406,051}}
+{{Shipyard/Ship1|Zeus|M1|86,438,545}}
+{{Shipyard/Ship1|Odysseus|M2|104,924,277}}
+{{Shipyard/Ship2|Perseus|Vanguard|M3|2,657,870}}
+{{Shipyard/Ship1|Medusa|M3+|6,419,669}}
+{{Shipyard/Ship2|Pericles|Sentinel|M4|1,311,785}}
+{{Shipyard/Ship1|Theseus|M4+|1,399,885}}
+{{Shipyard/Ship1|Pegasus|M5|92,561}}
+{{Shipyard/Ship2|Pegasus|Sentinel|M5|141,424}}
+{{Shipyard/Ship1|Nemesis|M6|9,304,199}}
+{{Shipyard/Ship1|Deimos|M7|38,237,259}}
+{{Shipyard/End}}
+
+==Default [[Stations]]==
+*[[Paranid Shipyard]]
+*Paranid [[Equipment Dock]]
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|16|-8249|-5158|6399}}
+{{Asteroid/Item|Ore|8|-18565|7596|-1579}}
+{{Asteroid/Item|Silicon|8|-14370|12012|-6414}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Paranid Navbox}}

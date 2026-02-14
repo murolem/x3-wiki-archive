@@ -1,3 +1,3 @@
-<!-- source file: index__qa7e039452489.html -->
+All {{M0class}}s.
 
-All {{M0class}}s. [[Category:Ship]]
+[[Category:Ship]]

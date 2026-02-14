@@ -1,3 +1,37 @@
-<!-- source file: index__qf86bc29e1843.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Beta Kyon Emitter
+|hulldam=3000
+|shielddam=5000
+|range=3.41
+|rof= 120
+|shotspeed= 9765
+|maxweapenergy= 700
+|shotcost=300
+}}
+{{Infobox ware
+|ware=Beta Kyon Emitter
+|cargoclass=M
+|volume=5
+|minprice=45810
+|aveprice=46744
+|maxprice=47678
+}}
+{{Infobox close}}
+==Overview==
+The Beta Kyon Emitter is the medium power Kha'ak beam weapon, equipped on Corvettes.
 
-{{Infobox open}} {{Infobox weapon |weapon=Beta Kyon Emitter |hulldam=3000 |shielddam=5000 |range=3.41 |rof= 120 |shotspeed= 9765 |maxweapenergy= 700 |shotcost=300 }} {{Infobox ware |ware=Beta Kyon Emitter |cargoclass=M |volume=5 |minprice=45810 |aveprice=46744 |maxprice=47678 }} {{Infobox close}} ==Overview== The Beta Kyon Emitter is the medium power Kha'ak beam weapon, equipped on Corvettes. ==Encyclopedia Entry== This weapon is of Kha'ak Origin. It generates and emits Kyon particles that line up in a straight line. How these particles are generated is not currently known. This version is more powerful than the Alpha Version, it is most commonly found on Kha'ak ships. ==Commentary== A dangerous [[M3]] and [[M6]] [[Kha'ak]] beam weapon, this is the mid-range variant. Its power against shields is relatively poor, but its damage to ship hulls is deadly. This weapon works well in tandem with many [[Alpha Kyon Emitter]]s, due to their more normal shield-hull damage ratio. This is the main reason for [[Kha'ak Cluster]]s' dangerous reputation. The new [[Kha'ak Corvette]] has a large array of these due to its newer design, making it uncharacteristically deadly even alone. ==Known Compatible Ships== * [[Kha'ak Corvette]] * [[Kha'ak Fighter]] ==Available at Known Docks== Not available for sale at any dock. [[Category:Not Purchasable]]
+==Encyclopedia Entry==
+This weapon is of Kha'ak Origin. It generates and emits Kyon particles that line up in a straight line. How these particles are generated is not currently known. This version is more powerful than the Alpha Version, it is most commonly found on Kha'ak ships.
+
+==Commentary==
+A dangerous [[M3]] and [[M6]] [[Kha'ak]] beam weapon, this is the mid-range variant. Its power against shields is relatively poor, but its damage to ship hulls is deadly. This weapon works well in tandem with many [[Alpha Kyon Emitter]]s, due to their more normal shield-hull damage ratio. This is the main reason for [[Kha'ak Cluster]]s' dangerous reputation. The new [[Kha'ak Corvette]] has a large array of these due to its newer design, making it uncharacteristically deadly even alone.
+
+==Known Compatible Ships==
+
+* [[Kha'ak Corvette]]
+* [[Kha'ak Fighter]]
+
+==Available at Known Docks==
+Not available for sale at any dock.
+[[Category:Not Purchasable]]

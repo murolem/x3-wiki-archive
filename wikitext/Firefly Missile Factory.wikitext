@@ -1,3 +1,38 @@
-<!-- source file: index__q7afa153cc52d.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Argon
+|station=Firefly Missile Factory
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:01:12
+|productnum=[[Firefly Missile]] (12)
+|stationprice={{Priceblock|Argon Trusted Ally|714164}}
+|reqresources=[[Energy Cells]] (18) <br>[[Meatsteak Cahoonas]] (12) <br>[[Ore]] (3) 
+|optresources=None
+}}
+{{Infobox close}}
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Argon |station=Firefly Missile Factory |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:01:12 |productnum=[[Firefly Missile]] (12) |stationprice={{Priceblock|Argon Trusted Ally|714164}} |reqresources=[[Energy Cells]] (18) &lt;br>[[Meatsteak Cahoonas]] (12) &lt;br>[[Ore]] (3) |optresources=None }} {{Infobox close}} ==Overview== Firefly Missile Factories are Argon factories that produce the [[Firefly Missile]] from [[Energy Cells]], [[Meatsteak Cahoonas]] and [[Ore]]. ===Encyclopedia Entry=== This factory produces the Firefly Missile. A standard dumbfire missile. ==Availability== This factory is exclusive to the Argon. {| style="text-align:left;" | '''[[Argon#Shipyards|Argon]]''' *{{sa|Argon Prime}} *{{sa|Argon Sector M148}} *{{sa|Cloudbase South East}} *{{sa|Legend's Home}} |} {{Stationcategory}}
+==Overview==
+
+Firefly Missile Factories are Argon factories that produce the [[Firefly Missile]] from [[Energy Cells]], [[Meatsteak Cahoonas]] and [[Ore]]. 
+
+===Encyclopedia Entry===
+
+This factory produces the Firefly Missile. A standard dumbfire missile.
+
+==Availability==
+
+This factory is exclusive to the Argon.
+
+{| style="text-align:left;"
+| '''[[Argon#Shipyards|Argon]]'''
+*{{sa|Argon Prime}}
+*{{sa|Argon Sector M148}}
+*{{sa|Cloudbase South East}}
+*{{sa|Legend's Home}}
+|}
+
+{{Stationcategory}}

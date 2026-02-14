@@ -1,3 +1,35 @@
-<!-- source file: index__q79575893e187.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Stott Spices
+|cargoclass=S
+|volume=1
+|minprice=47
+|aveprice=72
+|maxprice=97
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+Stott Spices also known as Boron spices are highly regarded by all races in the known universe. They are used to mix with many different basic foodstuffs to provide tastier foods with more exotic flavouring and different flavours and tastes. They are traded in containers known as Stott Jagos. It is not known to outsiders how the chefs working inside Space Stott Mixeries archive those delicate products out of just Boron Plankton and only a few other ingredients.
 
-{{Infobox open}} {{Infobox ware |ware= Stott Spices |cargoclass=S |volume=1 |minprice=47 |aveprice=72 |maxprice=97 }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== Stott Spices also known as Boron spices are highly regarded by all races in the known universe. They are used to mix with many different basic foodstuffs to provide tastier foods with more exotic flavouring and different flavours and tastes. They are traded in containers known as Stott Jagos. It is not known to outsiders how the chefs working inside Space Stott Mixeries archive those delicate products out of just Boron Plankton and only a few other ingredients. ==Commentary== ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Stott Mixery]] | *List of Race Factories where this ware is a primary resource | *[[Bliss Place]] *[[Cahoona Bakery]] *[[Space Fuel Distillery]] *[[Sun Oil Refinery]] | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}} {{Waretable}} {{Boron Navbox}}
+==Commentary==
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Stott Mixery]]
+|
+*List of Race Factories where this ware is a primary resource
+|
+*[[Bliss Place]]
+*[[Cahoona Bakery]]
+*[[Space Fuel Distillery]]
+*[[Sun Oil Refinery]]
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}
+
+{{Warecategory}}
+{{Waretable}}
+{{Boron Navbox}}

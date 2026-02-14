@@ -1,3 +1,180 @@
-<!-- source file: index__qbe0d1a087555.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= Akuma
+|Faction=Yaki
+|Class={{M2class}}
+|Priceblock={{Priceblock|(Hidden)|108187931}}
+|Minspeed=48
+|Maxspeed=67.20
+|Minaccel=6
+|Maxaccel=8
+|Minsteer=0.4
+|Maxsteer=0.6
+|Hull=350,000 (TC) / 3,500,000 (AP)
+|Maxshield=2 GJ
+|Shieldslots=3
+|Maxshieldstrength=6000
+|Shieldreactor= 14400
+|Cargoclass=XL
+|Mincargo= 9000
+|Maxcargo= 9000
+|Lasercap= 280000
+|Laserrecharge=3999
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=4
+|ire=0|pac=0|hept=0|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=1|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=1|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot= Left
+|Guncount= 8
+|ire=0|pac=0|hept=0|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=1|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=1|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=8
+|ire=0|pac=0|hept=0|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=1|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=1|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot= Up
+|Guncount=8
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=1|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Down
+|Guncount=8
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=1|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot= Back
+|Guncount=6
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+Statwise, a pumped up version of the [[Pirate]] [[Brigantine]], the Akuma is a lightly shielded but fast and powerful destroyer with a curious weapon layout. Sporting less anti-capital weaponry than other battleships but far more anti fighter weaponry also, it can fend off massed fighters better than most battleships. Quite a bit more expensive than comparable Commonwealth destroyers.
 
-{{Infobox open}} {{Infobox variant |Variant= Akuma |Faction=Yaki |Class={{M2class}} |Priceblock={{Priceblock|(Hidden)|108187931}} |Minspeed=48 |Maxspeed=67.20 |Minaccel=6 |Maxaccel=8 |Minsteer=0.4 |Maxsteer=0.6 |Hull=350,000 (TC) / 3,500,000 (AP) |Maxshield=2 GJ |Shieldslots=3 |Maxshieldstrength=6000 |Shieldreactor= 14400 |Cargoclass=XL |Mincargo= 9000 |Maxcargo= 9000 |Lasercap= 280000 |Laserrecharge=3999 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=4 |ire=0|pac=0|hept=0| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=1|ic=1|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=1|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot= Left |Guncount= 8 |ire=0|pac=0|hept=0| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=1|ic=1|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=1|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Right |Guncount=8 |ire=0|pac=0|hept=0| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=1|ic=1|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=1|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot= Up |Guncount=8 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=1|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Down |Guncount=8 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=1|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot= Back |Guncount=6 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== Statwise, a pumped up version of the [[Pirate]] [[Brigantine]], the Akuma is a lightly shielded but fast and powerful destroyer with a curious weapon layout. Sporting less anti-capital weaponry than other battleships but far more anti fighter weaponry also, it can fend off massed fighters better than most battleships. Quite a bit more expensive than comparable Commonwealth destroyers. ==Background== ===Encyclopedia Entry=== The recently-introduced Akuma destroyer, as its name suggests, is considered a demon among the innocent pilots trying to get safely to their destination. Little is known about the capabilities of this ship. ==Physical Characteristics== The Akuma bears a passing resemblance to the [[Ryu]], except with a longer fuselage with a small section connecting the bow to the large stern. It bears forward-facing spikes reminiscent of Teladi ships. == Combat == With 8 slots in its up/down turrets, the Akuma absolutely shreds fighters and corvettes. Its anti-capital broadsides are not lacking but its forward turret is, with only 4 guns, meaning it is least dangerous from the front - unlike others in its class. A loadout trick to further improve its fighter defence is the 'ionised flak' in its up/down mounts. With some flak weapons and some [[Ion Disruptor]]s, it can extend the range of the IDs considerably, damaging enemy ships' shields constantly as it fires. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] | *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] | *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] *[[Aurora Missile]] | *[[Remote Guided Warhead]] *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] | *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] | *[[Hornet Missile]] *[[Typhoon Missile]] *[[Firestorm Torpedo]] |} == Availability == {| style="text-align:center;" |+'''Availability''' |- style="{{Colour/Yaki}}" ! Variant !![[Senator's Badlands]] |- ! Akuma || x || |} For players looking to [[boarding|board]] an Akuma, there is usually one on patrol in [[Senator's Badlands]] or [[Weaver's Tempest]]. == Suggested Roles== The Akuma is lightly shielded for a destroyer, but is second only to the [[Python]] for speed, and with more reliable anti-fighter defenses, it makes for an excellent raiding ship among destroyers. == See Also== {{M2}} {{Yaki Navbox}}
+==Background==
+===Encyclopedia Entry===
+The recently-introduced Akuma destroyer, as its name suggests, is considered a demon among the innocent pilots trying to get safely to their destination. Little is known about the capabilities of this ship.
+
+==Physical Characteristics==
+The Akuma bears a passing resemblance to the [[Ryu]], except with a longer fuselage with a small section connecting the bow to the large stern. It bears forward-facing spikes reminiscent of Teladi ships.
+== Combat ==
+With 8 slots in its up/down turrets, the Akuma absolutely shreds fighters and corvettes. Its anti-capital broadsides are not lacking but its forward turret is, with only 4 guns, meaning it is least dangerous from the front - unlike others in its class. A loadout trick to further improve its fighter defence is the 'ionised flak' in its up/down mounts. With some flak weapons and some [[Ion Disruptor]]s, it can extend the range of the IDs considerably, damaging enemy ships' shields constantly as it fires.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;" 
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+|
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+|
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Aurora Missile]]
+|
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+|
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|
+*[[Hornet Missile]]
+*[[Typhoon Missile]]
+*[[Firestorm Torpedo]]
+|}
+== Availability ==
+{| style="text-align:center;"
+|+'''Availability'''
+|- style="{{Colour/Yaki}}"
+! Variant !![[Senator's Badlands]]
+|-
+! Akuma || x ||
+|}
+
+For players looking to [[boarding|board]] an Akuma, there is usually one on patrol in [[Senator's Badlands]] or [[Weaver's Tempest]].
+
+== Suggested Roles==
+The Akuma is lightly shielded for a destroyer, but is second only to the [[Python]] for speed, and with more reliable anti-fighter defenses, it makes for an excellent raiding ship among destroyers.
+== See Also==
+{{M2}}
+
+{{Yaki Navbox}}

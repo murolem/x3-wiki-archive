@@ -1,3 +1,53 @@
-<!-- source file: index__q85b7f081cf36.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Shield Production Facility 200MJ
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:54:00
+|productnum=[[Shields#200MJ|200 MJ Shield]] (1)
+|stationprice=
+|reqresources=[[Energy Cells]] (810)<br>[[Ore]] (135)<br>[[Food]] by Race
+|optresources=None
+}}
+{{Infobox close}}
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction= |station=Shield Production Facility 200MJ |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:54:00 |productnum=[[Shields#200MJ|200 MJ Shield]] (1) |stationprice= |reqresources=[[Energy Cells]] (810)&lt;br>[[Ore]] (135)&lt;br>[[Food]] by Race |optresources=None }} {{Infobox close}} ==Overview== 200 MJ Shield Production Facilities produce the [[Shields#200MJ|200 MJ Shield]] from [[Energy Cells]], [[Ore]] and [[Food]]. ===Encyclopedia Entry=== This production facility manufactures the medium defense shields used by heavy fighters and corvettes. Shields are vital for survival in space. They protect the ship from small impacting objects like mini asteroids as well as during fights. ==Race-specific attributes== {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |-style="background-color:lightgray;text-align:center;" !Race!!Food!!Amount!!Station Cost |- style="{{Colour/Argon}}" | [[Argon]] || [[Meatsteak Cahoonas]] || 540 || {{Priceblock|Trusted Ally|6336572}} |- style="{{Colour/Boron}}" | [[Boron]] || [[Bofu]] || 135 ||{{Priceblock|Queen's Knight|5386084}} |} ==Availability== This factory is exclusive to the Argon and Boron. {| style="text-align:left;" |- valign="top" | '''[[Argon#Shipyards|Argon]]''' *{{sa|Argon Sector M148}} *{{sa|Cloudbase Southeast}} *{{sa|Legend's Home}} *{{sa|Omicron Lyrae}} | '''[[Boron#Shipyards|Boron]]''' *{{sa|Lucky Planets}} *{{sa|Queen's Retribution}} |} {{Stationcategory}}
+==Overview==
+
+200 MJ Shield Production Facilities produce the [[Shields#200MJ|200 MJ Shield]] from [[Energy Cells]], [[Ore]] and [[Food]]. 
+
+===Encyclopedia Entry===
+
+This production facility manufactures the medium defense shields used by heavy fighters and corvettes. Shields are vital for survival in space. They protect the ship from small impacting objects like mini asteroids as well as during fights.
+
+==Race-specific attributes==
+
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|-style="background-color:lightgray;text-align:center;"
+!Race!!Food!!Amount!!Station Cost
+|- style="{{Colour/Argon}}"
+| [[Argon]] || [[Meatsteak Cahoonas]] || 540 || {{Priceblock|Trusted Ally|6336572}}
+|- style="{{Colour/Boron}}"
+| [[Boron]] || [[Bofu]] || 135 ||{{Priceblock|Queen's Knight|5386084}}
+|}
+
+==Availability==
+
+This factory is exclusive to the Argon and Boron.
+
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Argon#Shipyards|Argon]]'''
+*{{sa|Argon Sector M148}}
+*{{sa|Cloudbase Southeast}}
+*{{sa|Legend's Home}}
+*{{sa|Omicron Lyrae}}
+| '''[[Boron#Shipyards|Boron]]'''
+*{{sa|Lucky Planets}}
+*{{sa|Queen's Retribution}}
+|}
+
+{{Stationcategory}}

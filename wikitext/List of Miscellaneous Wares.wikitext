@@ -1,3 +1,30 @@
-<!-- source file: index__qf25baba16c01.html -->
+Miscellaneous Wares have no function in the X universe aside from adding color and character. 
 
-Miscellaneous Wares have no function in the X universe aside from adding color and character. Sometimes they are included as plot items or serve as a mission item, usually they are dropped by attacked NPC ships who are carrying them. {| class="prettytable sortable" style="text-align:center;" ! Ware !! [[Cargo Class]] !! Volume !! Min Price !! Ave Price !! Max Price!!Encyclopedia Entry |- |Artefacts||M||4||3||4||5|| Relics of ancient civilisations can be found all over the universe. These artefacts vary in size and shape, but most were built with sophisticated advanced technology. The origins of these artefacts is still unclear and Argon and Boron archaeologists are working to decipher their purpose. |- |Cartography Chips ||S || 1 ||3 ||4 ||5||Designed and produced by the military, these cartography chips contain important information on individual sectors or the universe as a whole. They detail the positions of all known military facilities and stellar phenomena. |- |Cleaning Robots ||- || 1 ||4 ||4 ||4|| |- |Container ||-||1 ||4 ||4 ||4|| |- |Debris ||S||3 ||3 ||4 ||5||No information about this object exists in the ship computer database. |- |Engine Components || XL || 5 ||3 ||4 ||5|| |- |Entertainment Chips ||S || 1 ||3 ||4 ||5||Entertainment chips contain films, books, or interactive entertainment. They are used throughout the known universe. Many Boron titles, however, have been banned in the Split sectors. |- |Jumpdrive Components || S ||3 ||3 ||4 ||5|| Jumpdrive Components consist of items of advanced technology used in the assembly of jumpdrive systems. |- |Posters || - ||1 ||4 ||4 ||4|| |- |Promotional Plates ||- ||1 ||4 ||4 ||4|| |- |Teladianium Paneling || L || 4 ||3 ||4 ||5|| Teladianium paneling is produced at rolling mills at shipyards and when added to a ship's hull provides additional protection from space borne particles. |} {{Waretable}}
+Sometimes they are included as plot items or serve as a mission item, usually they are dropped by attacked NPC ships who are carrying them.
+
+{| class="prettytable sortable" style="text-align:center;"
+! Ware !! [[Cargo Class]] !! Volume !! Min Price !! Ave Price !! Max Price!!Encyclopedia Entry
+|-
+|Artefacts||M||4||3||4||5|| Relics of ancient civilisations can be found all over the universe. These artefacts vary in size and shape, but most were built with sophisticated advanced technology. The origins of these artefacts is still unclear and Argon and Boron archaeologists are working to decipher their purpose.
+|-
+|Cartography Chips  ||S || 1 ||3 ||4 ||5||Designed and produced by the military, these cartography chips contain important information on individual sectors or the universe as a whole. They detail the positions of all known military facilities and stellar phenomena.
+|-
+|Cleaning Robots ||- || 1 ||4 ||4 ||4||
+|-
+|Container ||-||1 ||4 ||4 ||4||
+|-
+|Debris ||S||3 ||3 ||4 ||5||No information about this object exists in the ship computer database.
+|-
+|Engine Components || XL || 5 ||3 ||4 ||5||
+|-
+|Entertainment Chips ||S || 1 ||3 ||4 ||5||Entertainment chips contain films, books, or interactive entertainment. They are used throughout the known universe. Many Boron titles, however, have been banned in the Split sectors.
+|-
+|Jumpdrive Components || S ||3 ||3 ||4 ||5|| Jumpdrive Components consist of items of advanced technology used in the assembly of jumpdrive systems.
+|-
+|Posters || - ||1 ||4 ||4 ||4||
+|-
+|Promotional Plates ||- ||1 ||4 ||4 ||4||
+|-
+|Teladianium Paneling || L || 4 ||3 ||4 ||5|| Teladianium paneling is produced at rolling mills at shipyards and when added to a ship's hull provides additional protection from space borne particles.
+|}
+{{Waretable}}

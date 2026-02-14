@@ -1,3 +1,36 @@
-<!-- source file: index__q14f7df691ac1.html -->
+{{Infobox Sector
+|Race=Boron
+|SecLevel=Border
+|Population=58,264,253
+|Planets=2
+|SunLevel=100
+|GateDist=90
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|East|40297|	0|	24187|[[Xenon Sector 597]]}}
+{{Gateblock2|South|0|	0|	-35235|[[Bluish Snout]]}}
+{{Gateblock2|West|-39735|	6750|	-12937|[[Getsu Fune]]}}
+{{Gateblock/End}}
+}}
+==Description==
+The planet 'Oceania' is a huge world enveloped in swirling coloured mists and encircled with spectacular dust rings. It is a popular medidative resort for Boron monks who spend weeks in isolation in the planet's aquatic wilderness to contemplate the purpose and meaning of life. The installations here service these pilgrims' basic needs.
 
-{{Infobox Sector |Race=Boron |SecLevel=Border |Population=58,264,253 |Planets=2 |SunLevel=100 |GateDist=90 |Gates={{Gateblock/Begin}} {{Gateblock2|East|40297| 0| 24187|[[Xenon Sector 597]]}} {{Gateblock2|South|0| 0| -35235|[[Bluish Snout]]}} {{Gateblock2|West|-39735| 6750| -12937|[[Getsu Fune]]}} {{Gateblock/End}} }} ==Description== The planet 'Oceania' is a huge world enveloped in swirling coloured mists and encircled with spectacular dust rings. It is a popular medidative resort for Boron monks who spend weeks in isolation in the planet's aquatic wilderness to contemplate the purpose and meaning of life. The installations here service these pilgrims' basic needs. ==Default [[Stations]]== *Boron [[Equipment Dock]] ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|40|5995|-2181|32054}} {{Asteroid/Item|Ore|32|14853|-2181|20559}} {{Asteroid/Item|Ore|26|10568|8569|-1273}} {{Asteroid/Item|Ore|23|6097|619|10281}} {{Asteroid/Item|Ore|15|22513|-2528|2502}} {{Asteroid/Item|Ore|4|12496|7072|25620}} {{Asteroid/Item|Silicon|8|-17172|7522|158}} {{Asteroid/Item|Silicon|8|-11990|-6036|-291}} {{Asteroid/Item|Silicon|8|-7314|5484|-2260}} {{Asteroid/Item|Silicon|8|-17256|-3073|-10200}} {{Asteroid/End}} == See Also == {{Boron Navbox}}
+==Default [[Stations]]==
+*Boron [[Equipment Dock]]
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|40|5995|-2181|32054}}
+{{Asteroid/Item|Ore|32|14853|-2181|20559}}
+{{Asteroid/Item|Ore|26|10568|8569|-1273}}
+{{Asteroid/Item|Ore|23|6097|619|10281}}
+{{Asteroid/Item|Ore|15|22513|-2528|2502}}
+{{Asteroid/Item|Ore|4|12496|7072|25620}}
+{{Asteroid/Item|Silicon|8|-17172|7522|158}}
+{{Asteroid/Item|Silicon|8|-11990|-6036|-291}}
+{{Asteroid/Item|Silicon|8|-7314|5484|-2260}}
+{{Asteroid/Item|Silicon|8|-17256|-3073|-10200}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Boron Navbox}}

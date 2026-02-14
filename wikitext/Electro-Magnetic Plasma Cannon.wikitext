@@ -1,3 +1,93 @@
-<!-- source file: index__q84ee7a6005da.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Electro-Magnetic Plasma Cannon
+|hulldam= 2000
+|shielddam= 5200
+|range= 2
+|rof= 157 
+|shotspeed= 588 
+|maxweapenergy= 1500 
+|shotcost= 81
+}}
+{{Infobox ware
+|ware=Electro-Magnetic Plasma Cannon
+|cargoclass=S
+|volume=5
+|minprice= 306413
+|aveprice= 322540
+|maxprice= 338667
+}}
+{{Infobox close}}
+==Overview==
+The standard weapon for all [[Terran]] fighters, and the least potent Terran weapon. Very expensive and fairly powerful for its class.
 
-{{Infobox open}} {{Infobox weapon |weapon=Electro-Magnetic Plasma Cannon |hulldam= 2000 |shielddam= 5200 |range= 2 |rof= 157 |shotspeed= 588 |maxweapenergy= 1500 |shotcost= 81 }} {{Infobox ware |ware=Electro-Magnetic Plasma Cannon |cargoclass=S |volume=5 |minprice= 306413 |aveprice= 322540 |maxprice= 338667 }} {{Infobox close}} ==Overview== The standard weapon for all [[Terran]] fighters, and the least potent Terran weapon. Very expensive and fairly powerful for its class. ==Encyclopedia Entry== A weapon mostly found on some medium to larger-sized fighter craft. The Earth Fleet's powerful and highly advanced Electro-Magnetic Plasma Cannon is the most common weapon found on Terran fighters. It uses powerful EM field generators to propel concentrated plasma bolts at enemies. ==Commentary== The EMPC is both the lightest Terran gun and the sole gun permitted to Terran and ATF fighters, and is almost exclusively found mounted on Terran or Xenon ships. It is also the sole weapon mounted on the [[Keris]] drone. The EMPC features projectile speed between the [[Particle Accelerator Cannon|PAC]] and [[High Energy Plasma Thrower|HEPT]], shield DPS 13.33% below the PAC, hull DPS 33.33% above the HEPT, and range 0.08km above the PAC. Additionally, it touts approximately half the RoF of the HEPT, less than half the energy usage of a HEPT, and costs a bit over twice as much as a HEPT. The EMPC is very efficient (and fairly powerful) against heavily hulled ships, and the lower shield damage is typically negligible versus light opponents. Against fast ships like {{M5class}}s the EMPC will prove somewhat more accurate than a HEPT, but the lower volume of fire will result in less frequent hits. A light vessel when struck by the EMPC's shots will often be crippled by the heavy hull damage. The primary weaknesses of this armament are that it is the sole Terran fighter gun, the firing rate is comparatively sub-par, shots are relatively slow-moving which correlates to poor DPS, and that it is the most expensive/slowest to produce/hardest to source of any fighter gun. [[Commonwealth]] ships in contrast typically have a variety of lighter, cheaper weapons ideal for engaging fast targets like the [[IRE]], [[PRG]] and [[PBE]], or more powerful weapons like the [[EBC]] and [[HEPT]]. In essence, Terran and ATF craft below [[M6]] corvettes must get within point-blank range to close the distance with its opponents when utilizing the EMPC and it will prove quite frustrating when attempting to dogfight with [[M5]] and [[M4]] craft due to the gun's aforementioned weaknesses. The standard version of the EMPC is cheaper, more powerful and shoots more rapidly than the (Aldrin) [[EEMPC|Experimental version]]. ==Known Compatible Ships== {| cellpadding="5" |- valign="top" | '''Terran''' * [[Rapier]] * [[Sabre]] * [[Scimitar]] * [[Cutlass]] * [[Yokohama]] * [[Mobile Mining Base-Ship]] * [[Tokyo]] * [[Osaka]] * [[Baldric]] * [[Baldric Miner]] * [[Scabbard]] | '''ATF''' * [[Valkyrie]] * [[Mjolnir]] * [[Thor]] * [[Fenrir]] * [[Vidar]] * [[Vali]] * [[Aegir]] * [[Skirnir]] * [[Odin]] * [[Woden]] (not in vanilla) * [[Tyr]] * [[Valhalla]] (not in vanilla) | '''Aldrin''' * [[deca.deaf|#deca.deaf]] * [[deca.cefa|#deca.cefa]] * [[Spitfyre]] | '''Xenon''' * [[Xenon P]] * [[Xenon PX]] * [[Xenon J]] * [[Xenon K]] | '''Goner''' * [[Truelight Seeker]] | '''Argon''' * [[Aamon]] |} ==Available at Known Docks== *Orbital Patrol Base *Orbital Defense Station *EMPC Forge *Military Base *Unknown Aldrin Base *Earth Torus
+==Encyclopedia Entry==
+A weapon mostly found on some medium to larger-sized fighter craft. The Earth Fleet's powerful and highly advanced Electro-Magnetic Plasma Cannon is the most common weapon found on Terran fighters. It uses powerful EM field generators to propel concentrated plasma bolts at enemies.
+
+==Commentary==
+The EMPC is both the lightest Terran gun and the sole gun permitted to Terran and ATF fighters, and is almost exclusively found mounted on Terran or Xenon ships. It is also the sole weapon mounted on the [[Keris]] drone.
+
+The EMPC features projectile speed between the [[Particle Accelerator Cannon|PAC]] and [[High Energy Plasma Thrower|HEPT]], shield DPS 13.33% below the PAC, hull DPS 33.33% above the HEPT, and range 0.08km above the PAC. Additionally, it touts approximately half the RoF of the HEPT, less than half the energy usage of a HEPT, and costs a bit over twice as much as a HEPT.
+
+The EMPC is very efficient (and fairly powerful) against heavily hulled ships, and the lower shield damage is typically negligible versus light opponents. Against fast ships like {{M5class}}s the EMPC will prove somewhat more accurate than a HEPT, but the lower volume of fire will result in less frequent hits. A light vessel when struck by the EMPC's shots will often be crippled by the heavy hull damage.
+
+The primary weaknesses of this armament are that it is the sole Terran fighter gun, the firing rate is comparatively sub-par, shots are relatively slow-moving which correlates to poor DPS, and that it is the most expensive/slowest to produce/hardest to source of any fighter gun. [[Commonwealth]] ships in contrast typically have a variety of lighter, cheaper weapons ideal for engaging fast targets like the [[IRE]], [[PRG]] and [[PBE]], or more powerful weapons like the [[EBC]] and [[HEPT]]. In essence, Terran and ATF craft below [[M6]] corvettes must get within point-blank range to close the distance with its opponents when utilizing the EMPC and it will prove quite frustrating when attempting to dogfight with [[M5]] and [[M4]] craft due to the gun's aforementioned weaknesses.
+
+The standard version of the EMPC is cheaper, more powerful and shoots more rapidly than the (Aldrin) [[EEMPC|Experimental version]].
+
+==Known Compatible Ships==
+{| cellpadding="5"
+|- valign="top"
+|
+'''Terran'''
+* [[Rapier]]
+* [[Sabre]]
+* [[Scimitar]]
+* [[Cutlass]]
+* [[Yokohama]]
+* [[Mobile Mining Base-Ship]]
+* [[Tokyo]]
+* [[Osaka]]
+* [[Baldric]]
+* [[Baldric Miner]]
+* [[Scabbard]]
+|
+'''ATF'''
+* [[Valkyrie]]
+* [[Mjolnir]]
+* [[Thor]]
+* [[Fenrir]]
+* [[Vidar]]
+* [[Vali]]
+* [[Aegir]]
+* [[Skirnir]]
+* [[Odin]]
+* [[Woden]] (not in vanilla)
+* [[Tyr]]
+* [[Valhalla]] (not in vanilla)
+|
+'''Aldrin'''
+* [[deca.deaf|#deca.deaf]]
+* [[deca.cefa|#deca.cefa]]
+* [[Spitfyre]]
+|
+'''Xenon'''
+* [[Xenon P]]
+* [[Xenon PX]]
+* [[Xenon J]]
+* [[Xenon K]]
+|
+'''Goner'''
+* [[Truelight Seeker]]
+|
+'''Argon'''
+* [[Aamon]]
+|}
+
+==Available at Known Docks==
+*Orbital Patrol Base
+*Orbital Defense Station
+*EMPC Forge
+*Military Base
+*Unknown Aldrin Base
+*Earth Torus

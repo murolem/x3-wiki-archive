@@ -1,3 +1,216 @@
-<!-- source file: index__qe58e998b15c9.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Harrier
+|Faction=Pirate
+|Class={{M5class}}
+|Priceblock=
+|Minspeed=150.2
+|Maxspeed=375.6
+|Minaccel=54
+|Maxaccel=135
+|Minsteer=21.1
+|Maxsteer=52.7
+|Hull=900
+|Maxshield=1 MJ
+|Shieldslots=4
+|Maxshieldstrength=4
+|Shieldreactor= 150
+|Cargoclass=S
+|Mincargo=20
+|Maxcargo=90
+|Lasercap=1100
+|Laserrecharge=27
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=4
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Harrier Hauler
+|Faction=Pirate
+|Class={{M5class}}
+|Priceblock=
+|Minspeed=87.1
+|Maxspeed=217.8
+|Minaccel=23
+|Maxaccel=57
+|Minsteer=15.7
+|Maxsteer=39.2
+|Hull=1236
+|Maxshield=5 MJ
+|Shieldslots=1
+|Maxshieldstrength=5
+|Shieldreactor= 65
+|Cargoclass=S
+|Mincargo=22
+|Maxcargo=124
+|Lasercap=1000
+|Laserrecharge=25
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=4
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Harrier Raider
+|Faction=Pirate
+|Class={{M5class}}
+|Priceblock=
+|Minspeed=150.2
+|Maxspeed=525.9
+|Minaccel=96
+|Maxaccel=338
+|Minsteer=16.7
+|Maxsteer=58.5 
+|Hull=
+|Maxshield=1 MJ
+|Shieldslots=2
+|Maxshieldstrength=2
+|Shieldreactor= 93
+|Cargoclass=S
+|Mincargo=9  
+|Maxcargo=28
+|Lasercap=1200
+|Laserrecharge=30
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=4
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Harrier Vanguard
+|Faction=Pirate
+|Class={{M5class}}
+|Priceblock=
+|Minspeed=145.7
+|Maxspeed=510.1
+|Minaccel=47
+|Maxaccel=166
+|Minsteer=16
+|Maxsteer=55.9
+|Hull=
+|Maxshield=1 MJ
+|Shieldslots=4
+|Maxshieldstrength=4
+|Shieldreactor= 110
+|Cargoclass=S
+|Mincargo=51
+|Maxcargo=64
+|Lasercap=550
+|Laserrecharge=14
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=4
+|ire=1|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+==Background==
+==Variants==
+===Pirate Harrier===
+{{regular}}
 
-{{Infobox open}} {{Infobox variant |Variant=Harrier |Faction=Pirate |Class={{M5class}} |Priceblock= |Minspeed=150.2 |Maxspeed=375.6 |Minaccel=54 |Maxaccel=135 |Minsteer=21.1 |Maxsteer=52.7 |Hull=900 |Maxshield=1 MJ |Shieldslots=4 |Maxshieldstrength=4 |Shieldreactor= 150 |Cargoclass=S |Mincargo=20 |Maxcargo=90 |Lasercap=1100 |Laserrecharge=27 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=4 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Harrier Hauler |Faction=Pirate |Class={{M5class}} |Priceblock= |Minspeed=87.1 |Maxspeed=217.8 |Minaccel=23 |Maxaccel=57 |Minsteer=15.7 |Maxsteer=39.2 |Hull=1236 |Maxshield=5 MJ |Shieldslots=1 |Maxshieldstrength=5 |Shieldreactor= 65 |Cargoclass=S |Mincargo=22 |Maxcargo=124 |Lasercap=1000 |Laserrecharge=25 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=4 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Harrier Raider |Faction=Pirate |Class={{M5class}} |Priceblock= |Minspeed=150.2 |Maxspeed=525.9 |Minaccel=96 |Maxaccel=338 |Minsteer=16.7 |Maxsteer=58.5 |Hull= |Maxshield=1 MJ |Shieldslots=2 |Maxshieldstrength=2 |Shieldreactor= 93 |Cargoclass=S |Mincargo=9 |Maxcargo=28 |Lasercap=1200 |Laserrecharge=30 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=4 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Harrier Vanguard |Faction=Pirate |Class={{M5class}} |Priceblock= |Minspeed=145.7 |Maxspeed=510.1 |Minaccel=47 |Maxaccel=166 |Minsteer=16 |Maxsteer=55.9 |Hull= |Maxshield=1 MJ |Shieldslots=4 |Maxshieldstrength=4 |Shieldreactor= 110 |Cargoclass=S |Mincargo=51 |Maxcargo=64 |Lasercap=550 |Laserrecharge=14 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=4 |ire=1|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== ==Background== ==Variants== ===Pirate Harrier=== {{regular}} ===Pirate Harrier Hauler=== {{Hauler}} ===Pirate Harrier Raider=== {{Raider}} ===Pirate Harrier Vanguard=== {{Vanguard}} ==Physical Characteristics== == Combat == The Pirate Harrier in general is neither a formidable foe nor a powerful Player Ship. Avoid acquiring the Hauler variant for personal use, as notwithstanding its larger cargo bay, it is the slowest M5 in the game and can be easy prey for any attacking craft who decide to victimize it. That being said, if the player is lucky enough to capture a Pirate Harrier Raider or Vanguard early on in the game they can prove powerful if upgraded to their maximum speed via engine tuning and also made nimbler with rudder optimisation. Thus, when souped up, it is capable of taking on all other M5s and certain M4s, even when armed only with IREs (Beta's are advised). To best make use of this fighter variant, one must be patient, whittling down the enemy ship - particularly M4s - with repeated high-speed passes. Due to the limited power reserves however the player must be aware that taking down more than one M4 requires a middling recharge period if you've been landing all shots on target. Regardless, with a 525m/s top speed, the Raider can outrun all M4s, allowing you to pick off large groups with a bit of luck and plenty of patience. Suitably upgraded, this is an excellent ship for the player intent on making a living from capturing enemy ships. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Dragonfly Missile]] | *[[Firefly Missile]] *[[Aurora Missile]] | *[[Rapier Missile]] *[[Firelance Missile]] |} == Availability == The pirates have no shipyards and thus their ships must be capped to fly one. The Harrier is no exception. == Suggested Roles== The Raider and the Vanguard variants make for good ships during early runs in the game. IS and OOS, however, combat should be avoided because the Harrier doesn't have the stamina to last long in a fight. == See Also== {{M5}} {{M5category}} {{Pirates Navbox}}
+===Pirate Harrier Hauler===
+{{Hauler}}
+
+===Pirate Harrier Raider===
+{{Raider}}
+
+===Pirate Harrier Vanguard===
+{{Vanguard}}
+
+==Physical Characteristics==
+== Combat ==
+
+The Pirate Harrier in general is neither a formidable foe nor a powerful Player Ship. Avoid acquiring the Hauler variant for personal use, as notwithstanding its larger cargo bay, it is the slowest M5 in the game and can be easy prey for any attacking craft who decide to victimize it.
+
+That being said, if the player is lucky enough to capture a Pirate Harrier Raider or Vanguard early on in the game they can prove powerful if upgraded to their maximum speed via engine tuning and also made nimbler with rudder optimisation. Thus, when souped up, it is capable of taking on all other M5s and certain M4s, even when armed only with IREs (Beta's are advised). To best make use of this fighter variant, one must be patient, whittling down the enemy ship - particularly M4s - with repeated high-speed passes. Due to the limited power reserves however the player must be aware that taking down more than one M4 requires a middling recharge period if you've been landing all shots on target. Regardless, with a 525m/s top speed, the Raider can outrun all M4s, allowing you to pick off large groups with a bit of luck and plenty of patience.
+
+Suitably upgraded, this is an excellent ship for the player intent on making a living from capturing enemy ships.
+
+== Equipment ==
+
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Dragonfly Missile]]
+|
+*[[Firefly Missile]]
+*[[Aurora Missile]]
+|
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+|}
+
+== Availability ==
+
+The pirates have no shipyards and thus their ships must be capped to fly one. The Harrier is no exception.
+
+== Suggested Roles==
+
+The Raider and the Vanguard variants make for good ships during early runs in the game. IS and OOS, however, combat should be avoided because the Harrier doesn't have the stamina to last long in a fight.
+
+== See Also==
+{{M5}}
+
+{{M5category}}
+
+{{Pirates Navbox}}

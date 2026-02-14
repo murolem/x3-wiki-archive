@@ -1,3 +1,18 @@
-<!-- source file: index__q4dc43fc9baf8.html -->
+{{Infobox open}}
+{{Infobox missile|Missile= Thorn |Yield=15000|Speed=158|Range=17.7|Cooldown=1000|Seeker=Targetted|Submunitions=1|Fusing=Proximity|Torpedoclass=|Guidance=Image-recognition|AoE=}}
+{{Infobox ware|ware= Thorn |cargoclass=M|volume=3|minprice=13342|aveprice= 13476|maxprice=13610}}
+{{Infobox close}}
+==Overview==
+The '''Thorn''' is the [[Kha'ak]] heavy missile, although it terms of power only falls into the light/medium classes and is not much of a threat to anything [[M3]]-sized or bigger.
 
-{{Infobox open}} {{Infobox missile|Missile= Thorn |Yield=15000|Speed=158|Range=17.7|Cooldown=1000|Seeker=Targetted|Submunitions=1|Fusing=Proximity|Torpedoclass=|Guidance=Image-recognition|AoE=}} {{Infobox ware|ware= Thorn |cargoclass=M|volume=3|minprice=13342|aveprice= 13476|maxprice=13610}} {{Infobox close}} ==Overview== The '''Thorn''' is the [[Kha'ak]] heavy missile, although it terms of power only falls into the light/medium classes and is not much of a threat to anything [[M3]]-sized or bigger. ===Encyclopedia Entry=== This is a missile that will explode near the target ship, with a great power and wide radius. It has deadly power against all ships. Only used in Kha'ak capital ships. Avoid it at all costs! ==Commentary== Despite the terror the Encyclopedia entry tries to invoke, the Thorn is too weak to destroy outright the few ships it can catch. It deals so little damage that even the most lightly shielded M3s will need several hits to destroy. All in all, an unimpressive weapon and not something for an adversary to be concerned with, as they will either be too fast to hit or too strong to kill. [[Category:Kha'ak missiles]] [[Category:Proximity-fuse missiles]] [[Category:Medium missiles]] [[Category:Not Purchasable]] {{Missile Navbox}}
+===Encyclopedia Entry===
+This is a missile that will explode near the target ship, with a great power and wide radius. It has deadly power against all ships. Only used in Kha'ak capital ships. Avoid it at all costs!
+
+==Commentary==
+Despite the terror the Encyclopedia entry tries to invoke, the Thorn is too weak to destroy outright the few ships it can catch. It deals so little damage that even the most lightly shielded M3s will need several hits to destroy. All in all, an unimpressive weapon and not something for an adversary to be concerned with, as they will either be too fast to hit or too strong to kill.
+
+[[Category:Kha'ak missiles]]
+[[Category:Proximity-fuse missiles]]
+[[Category:Medium missiles]]
+[[Category:Not Purchasable]]
+{{Missile Navbox}}

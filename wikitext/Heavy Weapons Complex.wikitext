@@ -1,3 +1,45 @@
-<!-- source file: index__q03410a092418.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Heavy Weapons Complex
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=20
+|cycle=Varies
+|productnum=Varies
+|stationprice=
+|reqresources=[[Energy Cells]] <br>[[Ore]] <br>[[Food]]
+|optresources=[[Crystals]] <br>[[Teladianium]]
+}}
+{{Infobox close}}
+==Overview==
+Heavy Weapons Complexes are NPC factories that produce heavy weapons from [[Energy Cells]], [[Ore]] and [[Food]]. 
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction= |station=Heavy Weapons Complex |hull=1000000 |shield=9 |generator=2000 |hangar=20 |cycle=Varies |productnum=Varies |stationprice= |reqresources=[[Energy Cells]] &lt;br>[[Ore]] &lt;br>[[Food]] |optresources=[[Crystals]] &lt;br>[[Teladianium]] }} {{Infobox close}} ==Overview== Heavy Weapons Complexes are NPC factories that produce heavy weapons from [[Energy Cells]], [[Ore]] and [[Food]]. They will also buy [[Crystals]] and [[Teladianium]] as secondary resources. Teladi heavy weapons complexes produce the [[Gauss Cannon]] as well as the [[Gauss Cannon Ammunition]] for it. ===Encyclopedia Entry=== This laser production complex produces several types of heavy ship weapons, used mostly on destroyers and carriers. ==Race-specific attributes== {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |+ |-style="background-color:LightGray;text-align:center;" !Race!!Food!!Weapons Produced |- style="{{Colour/Argon}}" | [[Argon]] || [[Meatsteak Cahoonas]] || [[Cluster Flak Array]] &amp; [[Photon Pulse Cannon]] |- style="{{Colour/Boron}}" | [[Boron]] || [[Bofu]] || [[Ion Cannon]] &amp; [[Photon Pulse Cannon]] |- style="{{Colour/Paranid}}" | [[Paranid]] || [[Soja Husk]] || [[Phased Shockwave Generator]] &amp; [[Photon Pulse Cannon]] |- style="{{Colour/Teladi}}" | [[Teladi]] || [[Nostrop Oil]] || [[Flak Artillery Array]] &amp; [[Gauss Cannon]] |} ==Availability== Heavy Weapons Complexes are default stations in race sectors. They are not sold at Shipyards. {{Stationcategory}}
+They will also buy [[Crystals]] and [[Teladianium]] as secondary resources.
+
+Teladi heavy weapons complexes produce the [[Gauss Cannon]] as well as the [[Gauss Cannon Ammunition]] for it.
+
+===Encyclopedia Entry===
+This laser production complex produces several types of heavy ship weapons, used mostly on destroyers and carriers.
+
+==Race-specific attributes==
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|+
+|-style="background-color:LightGray;text-align:center;"
+!Race!!Food!!Weapons Produced
+|- style="{{Colour/Argon}}"
+| [[Argon]] || [[Meatsteak Cahoonas]] || [[Cluster Flak Array]] & [[Photon Pulse Cannon]]
+|- style="{{Colour/Boron}}"
+| [[Boron]] || [[Bofu]] || [[Ion Cannon]] & [[Photon Pulse Cannon]]
+|- style="{{Colour/Paranid}}"
+| [[Paranid]] || [[Soja Husk]] || [[Phased Shockwave Generator]] & [[Photon Pulse Cannon]]
+|- style="{{Colour/Teladi}}"
+| [[Teladi]] || [[Nostrop Oil]] || [[Flak Artillery Array]] & [[Gauss Cannon]] 
+|}
+
+==Availability==
+Heavy Weapons Complexes are default stations in race sectors. They are not sold at Shipyards.
+
+{{Stationcategory}}

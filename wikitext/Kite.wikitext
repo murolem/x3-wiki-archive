@@ -1,3 +1,154 @@
-<!-- source file: index__qd942a329764f.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Kite
+|Faction=Teladi
+|Class={{M4+class}}
+|Priceblock={{Priceblock|Company Trader| 1809548}}
+|Minspeed=52.2
+|Maxspeed=135.8
+|Minaccel=14
+|Maxaccel=37
+|Minsteer=14.9
+|Maxsteer=38.7
+|Hull= 4200 / 8400 (AP)
+|Maxshield=5 MJ
+|Shieldslots=4
+|Maxshieldstrength=20
+|Shieldreactor= 265
+|Cargoclass=M
+|Mincargo=35
+|Maxcargo=140
+|Lasercap=2050
+|Laserrecharge=51
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Kite Vanguard
+|Faction=Teladi
+|Class={{M4+class}}
+|Priceblock=
+|Minspeed=54
+|Maxspeed=140.4
+|Minaccel=13
+|Maxaccel=35
+|Minsteer=15.6
+|Maxsteer=40.6
+|Hull=14820 (AP)
+|Maxshield=25 MJ
+|Shieldslots=4
+|Maxshieldstrength=100
+|Shieldreactor= 612
+|Cargoclass=L
+|Mincargo=33
+|Maxcargo=133
+|Lasercap=546
+|Laserrecharge=91
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The Teladi's M4+ ship is identical to the [[Buzzard|Teladi Buzzard]] in almost every way except for missile compatibility. It is not commonly utilized by players thanks to its poor performance for its cost.
 
-{{Infobox open}} {{Infobox variant |Variant=Kite |Faction=Teladi |Class={{M4+class}} |Priceblock={{Priceblock|Company Trader| 1809548}} |Minspeed=52.2 |Maxspeed=135.8 |Minaccel=14 |Maxaccel=37 |Minsteer=14.9 |Maxsteer=38.7 |Hull= 4200 / 8400 (AP) |Maxshield=5 MJ |Shieldslots=4 |Maxshieldstrength=20 |Shieldreactor= 265 |Cargoclass=M |Mincargo=35 |Maxcargo=140 |Lasercap=2050 |Laserrecharge=51 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Kite Vanguard |Faction=Teladi |Class={{M4+class}} |Priceblock= |Minspeed=54 |Maxspeed=140.4 |Minaccel=13 |Maxaccel=35 |Minsteer=15.6 |Maxsteer=40.6 |Hull=14820 (AP) |Maxshield=25 MJ |Shieldslots=4 |Maxshieldstrength=100 |Shieldreactor= 612 |Cargoclass=L |Mincargo=33 |Maxcargo=133 |Lasercap=546 |Laserrecharge=91 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The Teladi's M4+ ship is identical to the [[Buzzard|Teladi Buzzard]] in almost every way except for missile compatibility. It is not commonly utilized by players thanks to its poor performance for its cost. ==Background== ===Encyclopedia Entry=== In an effort to keep up with the other races' combat ship development, the Teladi developed the Kite to provide a quick but more heavily-armed interceptor than the [[Buzzard]] ==Variants== ===Kite=== The Kite is vulnerable to everything on the field, being so slow that it can even be outrun by many [[M6]] class ships. It has less shielding than some regular M4s and completely misses the point of an M4+, which is to have superiority over a standard M4. ===Kite Vanguard=== The Kite Vanguard is totally different to its regular counterpart. With its 4 shield slots upgraded to take 25MJ shields, it is more heavily armoured than most [[M3]] class ships. It possesses a slight advantage in speed over the original, typical of Vanguard variants. It is not available for purchase; to be used it must be [[capping|capped]], earned as a corporation reward, or bought secondhand. In contrast to the regular Kite, the Vanguard variant is lethal in a short fight due to its high survivability. However, it has a tiny laser generator so can run out of puff in a longer battle. ==Physical Characteristics== == Combat == This ship has only one strategy in a fight; attempt to stay alive, which it isn't very good at executing. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] | *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] | *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] *[[Aurora Missile]] | *[[Remote Guided Warhead]] *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] | *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == {| style="text-align:center;" |- style="{{Colour/Teladi}}" ! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]] |- ! style="text-align:left;" | Kite || || x || x || x || x || x || |- ! style="text-align:left;" | Kite Vanguard || || || || || || |} The Kite Vanguard is granted by the [[NMMC]] upon reaching [[Reputation#NMMC|rank 7]]. It may also be found disguised as a Teladi High-Tech Trader. == Suggested Roles== While the standard Kite is essentially useless, the Kite Vanguard has potential as a damage sink to be used in conjunction with less durable craft - the Kite being used to attract enemy attention and draw fire away from the ships that can actually do damage. With a very poor laser generator, it has a lot of trouble causing damage alone. == See Also== *[[Buzzard|Teladi Buzzard]] {{M4+}} {{Teladi Navbox}}
+==Background==
+===Encyclopedia Entry===
+In an effort to keep up with the other races' combat ship development, the Teladi developed the Kite to provide a quick but more heavily-armed interceptor than the [[Buzzard]]
+==Variants==
+===Kite===
+The Kite is vulnerable to everything on the field, being so slow that it can even be outrun by many [[M6]] class ships. It has less shielding than some regular M4s and completely misses the point of an M4+, which is to have superiority over a standard M4.
+
+===Kite Vanguard===
+The Kite Vanguard is totally different to its regular counterpart. With its 4 shield slots upgraded to take 25MJ shields, it is more heavily armoured than most [[M3]] class ships. It possesses a slight advantage in speed over the original, typical of Vanguard variants. It is not available for purchase; to be used it must be [[capping|capped]], earned as a corporation reward, or bought secondhand.
+
+In contrast to the regular Kite, the Vanguard variant is lethal in a short fight due to its high survivability. However, it has a tiny laser generator so can run out of puff in a longer battle.
+
+==Physical Characteristics==
+== Combat ==
+This ship has only one strategy in a fight; attempt to stay alive, which it isn't very good at executing.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+|
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+|
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Aurora Missile]]
+|
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+|
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+== Availability ==
+
+{| style="text-align:center;"
+|- style="{{Colour/Teladi}}"
+! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]]
+|-
+! style="text-align:left;" | Kite || || x || x || x || x || x ||
+|-
+! style="text-align:left;" | Kite Vanguard ||  ||  ||  ||  ||  ||
+|}
+
+The Kite Vanguard is granted by the [[NMMC]] upon reaching [[Reputation#NMMC|rank 7]]. It may also be found disguised as a Teladi High-Tech Trader.
+
+== Suggested Roles==
+While the standard Kite is essentially useless, the Kite Vanguard has potential as a damage sink to be used in conjunction with less durable craft - the Kite being used to attract enemy attention and draw fire away from the ships that can actually do damage. With a very poor laser generator, it has a lot of trouble causing damage alone.
+
+== See Also==
+*[[Buzzard|Teladi Buzzard]]
+
+{{M4+}}
+
+
+{{Teladi Navbox}}

@@ -1,3 +1,99 @@
-<!-- source file: index__q463d999ad0a6.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Helios
+|Faction=Paranid
+|Class={{TMclass}}
+|Priceblock={{Priceblock|| 406051}}
+|Minspeed=60.5
+|Maxspeed=121
+|Minaccel=6
+|Maxaccel=13
+|Minsteer=1.7
+|Maxsteer=3.4
+|Hull=21000
+|Maxshield=200 MJ
+|Shieldslots=2
+|Maxshieldstrength=400
+|Shieldreactor= 1100
+|Cargoclass=XL
+|Mincargo=1000
+|Maxcargo=1550
+|Lasercap=950
+|Laserrecharge=38
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Turret Front
+|Guncount=2
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Turret Rear
+|Guncount=2
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay={{Dockbay|4 {{Fighterdock}}}}
+}}
+{{Infobox close}}
+==Overview==
+A good all-rounder, the '''Helios''' is a capable [[TM]] and is in almost every way an improvement on the [[Argon]] [[Magnetar]].
 
-{{Infobox open}} {{Infobox variant |Variant=Helios |Faction=Paranid |Class={{TMclass}} |Priceblock={{Priceblock|| 406051}} |Minspeed=60.5 |Maxspeed=121 |Minaccel=6 |Maxaccel=13 |Minsteer=1.7 |Maxsteer=3.4 |Hull=21000 |Maxshield=200 MJ |Shieldslots=2 |Maxshieldstrength=400 |Shieldreactor= 1100 |Cargoclass=XL |Mincargo=1000 |Maxcargo=1550 |Lasercap=950 |Laserrecharge=38 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Turret Front |Guncount=2 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Turret Rear |Guncount=2 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay={{Dockbay|4 {{Fighterdock}}}} }} {{Infobox close}} ==Overview== A good all-rounder, the '''Helios''' is a capable [[TM]] and is in almost every way an improvement on the [[Argon]] [[Magnetar]]. ==Background== The [[Paranid]] Helios military transport, adding the ability to carry fighter protection, ensures the Paranid Navy can respond faster to emerging threats. ==Physical Characteristics== The Helios is a modified [[Demeter]] freighter. == Combat == Whilst a little restricted for weapon choices, the Helios is nevertheless quite capable of defending itself with the weapons available to it and does not need assistance to fight off an attack by a [[M4+|light fighter]] or two. == Equipment == {| |+'''Missiles''' |- | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] *[[Disruptor Missile]] *[[Firefly Missile]] *[[Hurricane Missile]] *[[Aurora Missile]] *[[Remote Guided Warhead]] *[[Rapier Missile]] *[[Firelance Missile]] *[[Wildfire Missile]] |} == Availability == The Helios can be bought at the [[Paranid Shipyard]]s in [[Cardinal's Domain]], [[Duke's Citadel]], [[Paranid Prime]], and [[Trinity Sanctum]]. == Suggested Roles== The Helios does well as a fighter tender, or in trading roles. It is also the cheapest ship that can carry other ships, making it an early-game option for delivering Jump Drives to new ships or collecting them after you retrieve a ship for a mission. == See Also== {{TM}} [[Category: Carrier]] {{Paranid Navbox}}
+==Background==
+The [[Paranid]] Helios military transport, adding the ability to carry fighter protection, ensures the Paranid Navy can respond faster to emerging threats.
+
+==Physical Characteristics==
+The Helios is a modified [[Demeter]] freighter.
+
+== Combat ==
+Whilst a little restricted for weapon choices, the Helios is nevertheless quite capable of defending itself with the weapons available to it and does not need assistance to fight off an attack by a [[M4+|light fighter]] or two.
+
+== Equipment ==
+{|
+|+'''Missiles'''
+|-
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Hurricane Missile]]
+*[[Aurora Missile]]
+*[[Remote Guided Warhead]]
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+|}
+== Availability ==
+The Helios can be bought at the [[Paranid Shipyard]]s in [[Cardinal's Domain]], [[Duke's Citadel]], [[Paranid Prime]], and [[Trinity Sanctum]].
+
+== Suggested Roles==
+The Helios does well as a fighter tender, or in trading roles. It is also the cheapest ship that can carry other ships, making it an early-game option for delivering Jump Drives to new ships or collecting them after you retrieve a ship for a mission.
+
+== See Also==
+{{TM}}
+[[Category: Carrier]]
+
+
+{{Paranid Navbox}}

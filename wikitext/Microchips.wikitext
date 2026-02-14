@@ -1,3 +1,57 @@
-<!-- source file: index__qf9b08d28c7be.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Microchips
+|cargoclass=S
+|volume=2
+|minprice=11725
+|aveprice=13476
+|maxprice=15227
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+Microchips are manufactured from silicon wafers that are especially treated with various coatings to create the required conductivity. They are mainly used in the production process of computer components.
 
-{{Infobox open}} {{Infobox ware |ware= Microchips |cargoclass=S |volume=2 |minprice=11725 |aveprice=13476 |maxprice=15227 }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== Microchips are manufactured from silicon wafers that are especially treated with various coatings to create the required conductivity. They are mainly used in the production process of computer components. ==Production== Microchips are made at a [[Chip Plant]]. They require [[Silicon Wafers]], [[Energy Cells]] and [[Wares#Food|Food]]. ==Commentary== The [[Hub plot]] requires 75500 Microchips. It is wise to set up a production facility for them, preferably near a [[Silicon Mine]]. ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Chip Plant]] | *List of Race Factories where this ware is a primary resource | *[[Computer Plant]] *[[Tracker Mine Factory]] | *List of Trading Stations where this ware is traded (sector only) |} == Sold as Products at Known Stations == * [[Acquisition Repository]] * [[Bala Gi's Joy]] * [[Cloudbase South West]] * [[Family Zyarth]] * [[Greater Profit]] * [[Hila's Joy]] * [[Homily of Perpetuity]] * [[Legend's Home]] * [[Menelaus' Oasis]] * [[Preacher's Refuge]] * [[PTNI Headquarters]] * [[Red Light]] * [[Thuruk's Beard]] {{Warecategory}} {{Waretable}}
+==Production==
+
+Microchips are made at a [[Chip Plant]]. They require [[Silicon Wafers]], [[Energy Cells]] and [[Wares#Food|Food]].
+
+==Commentary==
+
+The [[Hub plot]] requires 75500 Microchips. It is wise to set up a production facility for them, preferably near a [[Silicon Mine]].
+
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Chip Plant]]
+|
+*List of Race Factories where this ware is a primary resource
+|
+*[[Computer Plant]]
+*[[Tracker Mine Factory]]
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}
+
+== Sold as Products at Known Stations ==
+
+* [[Acquisition Repository]]
+* [[Bala Gi's Joy]]
+* [[Cloudbase South West]]
+* [[Family Zyarth]]
+* [[Greater Profit]]
+* [[Hila's Joy]]
+* [[Homily of Perpetuity]]
+* [[Legend's Home]]
+* [[Menelaus' Oasis]]
+* [[Preacher's Refuge]]
+* [[PTNI Headquarters]]
+* [[Red Light]]
+* [[Thuruk's Beard]]
+
+
+
+{{Warecategory}}
+{{Waretable}}

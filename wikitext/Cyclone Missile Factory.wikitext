@@ -1,3 +1,50 @@
-<!-- source file: index__qc167067127ab.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Cyclone Missile Factory
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:06:00
+|productnum=[[Cyclone Missile]] (1)
+|stationprice=
+|reqresources=[[Energy Cells]] (90) <br>[[Ore]] (15) <br>[[Food]] by Race
+|optresources=None
+}}
+{{Infobox close}}
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction= |station=Cyclone Missile Factory |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:06:00 |productnum=[[Cyclone Missile]] (1) |stationprice= |reqresources=[[Energy Cells]] (90) &lt;br>[[Ore]] (15) &lt;br>[[Food]] by Race |optresources=None }} {{Infobox close}} ==Overview== Cyclone Missile Factories produce the [[Cyclone Missile]] from [[Energy Cells]], [[Ore]] and [[Food]]. ===Encyclopedia Entry=== This factory produces the Cyclone Missile. A Proximity Image Recognition missile. ==Race-specific attributes== {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |+ |-style="background-color:LightGray;text-align:center;" !Race!!Food!!Amount!!Station Cost |- style="{{Colour/Boron}}" | [[Boron]] || [[BoFu]] || 15 ||{{Priceblock|Queen's Guard|8823156}} |- style="{{Colour/Teladi}}" | [[Teladi]] || [[Nostrop Oil]] || 60 || {{Priceblock|Majority Shareholder|4161620}} |} ==Availability== This factory is exclusive to the Boron and Teladi. {| style="text-align:left;" |- valign="top" | '''[[Boron#Shipyards|Boron]]''' *{{sa|Queen's Retribution}} | '''[[Teladi#Shipyards|Teladi]]''' *{{sa|Ceo's Sprite}} |} {{Stationcategory}}
+==Overview==
+
+Cyclone Missile Factories produce the [[Cyclone Missile]] from [[Energy Cells]], [[Ore]] and [[Food]]. 
+
+===Encyclopedia Entry===
+
+This factory produces the Cyclone Missile. A Proximity Image Recognition missile.
+
+==Race-specific attributes==
+
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|+
+|-style="background-color:LightGray;text-align:center;"
+!Race!!Food!!Amount!!Station Cost
+|- style="{{Colour/Boron}}"
+| [[Boron]] || [[BoFu]] || 15 ||{{Priceblock|Queen's Guard|8823156}}
+|- style="{{Colour/Teladi}}"
+| [[Teladi]] || [[Nostrop Oil]] || 60 || {{Priceblock|Majority Shareholder|4161620}}
+|}
+
+==Availability==
+
+This factory is exclusive to the Boron and Teladi.
+
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Boron#Shipyards|Boron]]'''
+*{{sa|Queen's Retribution}}
+| '''[[Teladi#Shipyards|Teladi]]'''
+*{{sa|Ceo's Sprite}}
+|}
+
+{{Stationcategory}}

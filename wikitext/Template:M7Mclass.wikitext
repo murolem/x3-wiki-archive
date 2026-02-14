@@ -1,3 +1,1 @@
-<!-- source file: index__q806f9451f9ec.html -->
-
-[[M7M|M7M Missile Frigate]]&lt;noinclude> creates link and label for M7M class{{catShipclasstmplt}}&lt;/noinclude>
+[[M7M|M7M Missile Frigate]]<noinclude> creates link and label for M7M class{{catShipclasstmplt}}</noinclude>

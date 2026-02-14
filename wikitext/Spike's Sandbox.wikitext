@@ -1,3 +1,15 @@
-<!-- source file: index__qcad1c5954666.html -->
-
-&lt;tr style="text-align:center;">&lt;th colspan="2" style="background-color:LightBlue;">{{{faction}}} {{{station}}}&lt;/th>&lt;/tr> &lt;tr>&lt;th>[[Weapons#Damage|Hull]]&lt;/th>&lt;td>{{formatnum:{{{hull}}}}}&lt;/td>&lt;/tr> &lt;tr>&lt;th>[[Shields]]&lt;/th>&lt;td>{{{shield}}} [[Physics#Energy|GJ]]&lt;/td>&lt;/tr> &lt;tr>&lt;th>Generator&lt;/th>&lt;td>{{{generator}}}&lt;/td>&lt;/tr> &lt;tr>&lt;th>[[Docking|Hangar]]&lt;/th>&lt;td>{{{hangar}}}&lt;/td>&lt;/tr> &lt;tr>&lt;td colspan="2">{{{stationprice}}}&lt;/td>&lt;/tr> &lt;tr style="text-align:center;">&lt;th colspan="2" style="background-color:LightBlue;">Manufacturing&lt;/th>&lt;/tr> &lt;tr>&lt;th>Production Time&lt;/th>&lt;td>{{{cycle}}}&lt;/td>&lt;/tr> &lt;tr>&lt;th> Product &lt;/th>&lt;td>{{{productnum}}}&lt;/td>&lt;/tr> &lt;tr style="text-align:center;">&lt;th colspan="2" style="background-color:LightBlue;">Required Resources&lt;/th>&lt;/tr> &lt;tr style="text-align:center;">&lt;td colspan="2">{{{reqresources}}}&lt;/td>&lt;/tr> &lt;tr style="text-align:center;">&lt;th colspan="2" style="background-color:LightBlue;">Optional Resources&lt;/th>&lt;/tr> &lt;tr style="text-align:center;">&lt;td colspan="2">{{{optresources}}}&lt;/td>&lt;/tr>&lt;noinclude> Creates a info box entry for factory &lt;/noinclude>
+<tr style="text-align:center;"><th colspan="2" style="background-color:LightBlue;">{{{faction}}} {{{station}}}</th></tr>
+<tr><th>[[Weapons#Damage|Hull]]</th><td>{{formatnum:{{{hull}}}}}</td></tr>
+<tr><th>[[Shields]]</th><td>{{{shield}}} [[Physics#Energy|GJ]]</td></tr>
+<tr><th>Generator</th><td>{{{generator}}}</td></tr>
+<tr><th>[[Docking|Hangar]]</th><td>{{{hangar}}}</td></tr>
+<tr><td colspan="2">{{{stationprice}}}</td></tr>
+<tr style="text-align:center;"><th colspan="2" style="background-color:LightBlue;">Manufacturing</th></tr>
+<tr><th>Production Time</th><td>{{{cycle}}}</td></tr>
+<tr><th> Product </th><td>{{{productnum}}}</td></tr>
+<tr style="text-align:center;"><th colspan="2" style="background-color:LightBlue;">Required Resources</th></tr>
+<tr style="text-align:center;"><td colspan="2">{{{reqresources}}}</td></tr>
+<tr style="text-align:center;"><th colspan="2" style="background-color:LightBlue;">Optional Resources</th></tr>
+<tr style="text-align:center;"><td colspan="2">{{{optresources}}}</td></tr><noinclude>
+Creates a info box entry for factory
+</noinclude>

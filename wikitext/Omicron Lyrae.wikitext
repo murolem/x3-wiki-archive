@@ -1,3 +1,94 @@
-<!-- source file: index__qa4de42eb5f4d.html -->
+{{Infobox Sector
+|Race=Argon
+|SecLevel=Core
+|Population=43,998,271
+|Planets=2
+|SunLevel=150
+|GateDist=55
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|6300|28220|[[Circle Of Labour]]}}
+{{Gateblock2|East|20870|0|-3500|[[Treasure Chest]]}}
+{{Gateblock2|West|-28220|0|0|[[Nyana's Hideout]]}}
+{{Gateblock/End}}
+}}
+==Description==
+===Encyclopedia Entry===
+Omycron Lyrae remains true to the courage and conviction of those who knew that this sector would not be the last will and testament to the battle fought against the [[Kha'ak]]. Here lie the souls of those not forgotten, those who understood that this would be the point at which all races would stand tall and take the battle onwards. Those remaining here are neither forsaken nor left without hope. Life goes on, while in the shadows lurk the destroyers of worlds.
 
-{{Infobox Sector |Race=Argon |SecLevel=Core |Population=43,998,271 |Planets=2 |SunLevel=150 |GateDist=55 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0|6300|28220|[[Circle Of Labour]]}} {{Gateblock2|East|20870|0|-3500|[[Treasure Chest]]}} {{Gateblock2|West|-28220|0|0|[[Nyana's Hideout]]}} {{Gateblock/End}} }} ==Description== ===Encyclopedia Entry=== Omycron Lyrae remains true to the courage and conviction of those who knew that this sector would not be the last will and testament to the battle fought against the [[Kha'ak]]. Here lie the souls of those not forgotten, those who understood that this would be the point at which all races would stand tall and take the battle onwards. Those remaining here are neither forsaken nor left without hope. Life goes on, while in the shadows lurk the destroyers of worlds. ===Information=== Start of the plot Terran Conflict. ==Shipyard Availability== Located at a crossroads between Xenon, Terran and Teladi space, this shipyard provides vessels for patrols in Black Hole Sun. {{Shipyard/Begin|Station|ST Size|Cost}} {{Shipyard/Station|Crystal Fab|M|15000|3,129,332}} {{Shipyard/Station|Computer Plant||14000|1,723,468}} {{Shipyard/Station|Drone Factory||14500|2,898,204}} {{Shipyard/Station|Satellite Factory||16500|746,624}} {{Shipyard/Station|Impulse Ray Emitter Forge||15000|2,721,092}} {{Shipyard/Station|Concussion Impulse Generator Forge||20000|9,572,120}} {{Shipyard/Station|Shield Prod. Facility 200 MJ||16000|6,336,572}} {{Shipyard/Station|Wheat Farm|M|10000|367,016}} {{Shipyard/Station|Cattle Ranch|L|17250|687,480}} {{Shipyard/Station|Rimes Fact|M|13000|799,992}} {{Shipyard/Station|Space Fuel Distillery|L|12000|5,500,028}} {{Shipyard/Station|Solar Power Plant|L|15750|11,014,336}} {{Shipyard/Station|Ore Mine|M|8000|449,988}} {{Shipyard/Station|Silicon Mine|M|9500|549,972}} {{Shipyard/Station|Complex Construction Kit||4250|259,696}} {{Shipyard/Station|Firestorm Torpedo Factory||19500|10,952,660}} {{Shipyard/Station|Low-yield Sidearms Fab||15000|2,246,368}} {{Shipyard/Station|Crystal Fab|L|20500|6,492,388}} {{Shipyard/End}} {{Shipyard/Begin|Ship|Class|Cost}} {{Shipyard/Ship1|Mammoth|TL|28,506,608}} {{Shipyard/Ship|Mercury (ship)|Mercury Tanker|TS|199,439}} {{Shipyard/Ship|Mercury (ship)|Mercury Super Freighter XL|TS|1,329,533}} {{Shipyard/Ship1|Express|TP|413,864}} {{Shipyard/Ship1|Magnetar|TM|438,338}} {{Shipyard/Ship1|Colossus|M1|67,823,098}} {{Shipyard/Ship|Titan (ship)|Titan|M2|69,283,911}} {{Shipyard/Ship2|Nova|Raider|M3|1,607,266}} {{Shipyard/Ship1|Eclipse|M3+|5,483,418}} {{Shipyard/Ship2|Buster|Raider|M4|614,071}} {{Shipyard/Ship1|Elite|M4+|854,539}} {{Shipyard/Ship2|Discoverer|Vanguard|M5|72,430}} {{Shipyard/Ship1|Centaur|M6|9,842,368}} {{Shipyard/Ship1|Cerberus|M7|36,098,766}} {{Shipyard/End}} ==Default [[Stations]]== #[[Cahoona Bakery M]] #[[Advanced Satellite Factory ]] #[[Argon Trading Station ]] #[[Drone Factory ]] #[[Cahoona Bakery ]] L #[[Argon Equipment Dock ]] #[[Argon Federal Shipyard ]] #[[Rimes Fact ]] L #[[Light Weapons Complex ]] #[[Computer Plant ]] #[[Crystal Fab ]] M #[[Impulse Ray Emitter Forge ]] ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|34|-6197|-4492|20763}} {{Asteroid/Item|Ore|27|5203|-5783|17079}} {{Asteroid/Item|Ore|17|-14669|2323|3838}} {{Asteroid/Item|Ore|11|-1040|-10674|16469}} {{Asteroid/Item|Ore|8|-232|3784|13088}} {{Asteroid/Item|Ore|7|-2403|-5101|14859}} {{Asteroid/Item|Silicon|31|15415|-3052|-8561}} {{Asteroid/Item|Silicon|13|-18512|4885|8703}} {{Asteroid/Item|Silicon|13|-9408|-5538|1002}} {{Asteroid/Item|Silicon|13|7902|3130|-6592}} {{Asteroid/Item|Silicon|5|14475|265|-15100}} {{Asteroid/Item|Silicon|3|7208|-747|-18579}} {{Asteroid/End}} {{Argon Navbox}}
+===Information===
+Start of the plot Terran Conflict.
+
+==Shipyard Availability==
+Located at a crossroads between Xenon, Terran and Teladi space, this shipyard provides vessels for patrols in Black Hole Sun.
+
+{{Shipyard/Begin|Station|ST Size|Cost}}
+{{Shipyard/Station|Crystal Fab|M|15000|3,129,332}}
+{{Shipyard/Station|Computer Plant||14000|1,723,468}}
+{{Shipyard/Station|Drone Factory||14500|2,898,204}}
+{{Shipyard/Station|Satellite Factory||16500|746,624}}
+{{Shipyard/Station|Impulse Ray Emitter Forge||15000|2,721,092}}
+{{Shipyard/Station|Concussion Impulse Generator Forge||20000|9,572,120}}
+{{Shipyard/Station|Shield Prod. Facility 200 MJ||16000|6,336,572}}
+{{Shipyard/Station|Wheat Farm|M|10000|367,016}}
+{{Shipyard/Station|Cattle Ranch|L|17250|687,480}}
+{{Shipyard/Station|Rimes Fact|M|13000|799,992}}
+{{Shipyard/Station|Space Fuel Distillery|L|12000|5,500,028}}
+{{Shipyard/Station|Solar Power Plant|L|15750|11,014,336}}
+{{Shipyard/Station|Ore Mine|M|8000|449,988}}
+{{Shipyard/Station|Silicon Mine|M|9500|549,972}}
+{{Shipyard/Station|Complex Construction Kit||4250|259,696}}
+{{Shipyard/Station|Firestorm Torpedo Factory||19500|10,952,660}}
+{{Shipyard/Station|Low-yield Sidearms Fab||15000|2,246,368}}
+{{Shipyard/Station|Crystal Fab|L|20500|6,492,388}}
+{{Shipyard/End}}
+{{Shipyard/Begin|Ship|Class|Cost}}
+{{Shipyard/Ship1|Mammoth|TL|28,506,608}}
+{{Shipyard/Ship|Mercury (ship)|Mercury Tanker|TS|199,439}}
+{{Shipyard/Ship|Mercury (ship)|Mercury Super Freighter XL|TS|1,329,533}}
+{{Shipyard/Ship1|Express|TP|413,864}}
+{{Shipyard/Ship1|Magnetar|TM|438,338}}
+{{Shipyard/Ship1|Colossus|M1|67,823,098}}
+{{Shipyard/Ship|Titan (ship)|Titan|M2|69,283,911}}
+{{Shipyard/Ship2|Nova|Raider|M3|1,607,266}}
+{{Shipyard/Ship1|Eclipse|M3+|5,483,418}}
+{{Shipyard/Ship2|Buster|Raider|M4|614,071}}
+{{Shipyard/Ship1|Elite|M4+|854,539}}
+{{Shipyard/Ship2|Discoverer|Vanguard|M5|72,430}}
+{{Shipyard/Ship1|Centaur|M6|9,842,368}}
+{{Shipyard/Ship1|Cerberus|M7|36,098,766}}
+{{Shipyard/End}}
+
+==Default [[Stations]]==
+#[[Cahoona Bakery M]]
+#[[Advanced Satellite Factory ]]
+#[[Argon Trading Station ]]
+#[[Drone Factory ]]
+#[[Cahoona Bakery ]] L
+#[[Argon Equipment Dock ]]
+#[[Argon Federal Shipyard ]]
+#[[Rimes Fact ]] L
+#[[Light Weapons Complex ]]
+#[[Computer Plant ]]
+#[[Crystal Fab ]] M
+#[[Impulse Ray Emitter Forge ]]
+
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|34|-6197|-4492|20763}}
+{{Asteroid/Item|Ore|27|5203|-5783|17079}}
+{{Asteroid/Item|Ore|17|-14669|2323|3838}}
+{{Asteroid/Item|Ore|11|-1040|-10674|16469}}
+{{Asteroid/Item|Ore|8|-232|3784|13088}}
+{{Asteroid/Item|Ore|7|-2403|-5101|14859}}
+{{Asteroid/Item|Silicon|31|15415|-3052|-8561}}
+{{Asteroid/Item|Silicon|13|-18512|4885|8703}}
+{{Asteroid/Item|Silicon|13|-9408|-5538|1002}}
+{{Asteroid/Item|Silicon|13|7902|3130|-6592}}
+{{Asteroid/Item|Silicon|5|14475|265|-15100}}
+{{Asteroid/Item|Silicon|3|7208|-747|-18579}}
+{{Asteroid/End}}
+
+
+{{Argon Navbox}}

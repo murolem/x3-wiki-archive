@@ -1,3 +1,99 @@
-<!-- source file: index__qf44c03f00b7d.html -->
+{{Infobox Sector
+|Race=Pirates
+|SecLevel=Border
+|Population=9,846,460
+|Planets=0
+|SunLevel=0
+|GateDist=40
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|	2000|	20657|[[Ceo's Doubt]]}}
+{{Gateblock2|East|66000|	0|	6,000|[[Spaceweed Grove]]}}
+{{Gateblock2|South|0|	0|	-20160|[[Mi Ton's Refuge]]}}
+{{Gateblock/End}}
+}}
+==Description==
+===Encyclopedy Entry===
+LooManckStrat's Legacy famously has an extensive minefield covering the elliptic plane.  New visitors to the sector are advised to stay within the lane markers. Deviating from the cleared path risks sudden death.
 
-{{Infobox Sector |Race=Pirates |SecLevel=Border |Population=9,846,460 |Planets=0 |SunLevel=0 |GateDist=40 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0| 2000| 20657|[[Ceo's Doubt]]}} {{Gateblock2|East|66000| 0| 6,000|[[Spaceweed Grove]]}} {{Gateblock2|South|0| 0| -20160|[[Mi Ton's Refuge]]}} {{Gateblock/End}} }} ==Description== ===Encyclopedy Entry=== LooManckStrat's Legacy famously has an extensive minefield covering the elliptic plane. New visitors to the sector are advised to stay within the lane markers. Deviating from the cleared path risks sudden death. ===Scanner Entry=== This dark system is located on the far edge of the Garenisk Void, a large area of space where no stars can form. The remnants of an ancient battle were found in this system by a [[Boron]] fleet on its first pass through this system. Subsequently many years of archeology and recovery were undertaken with the assistance of the [[Argon]]. After the system was cleared of debris, Boron colonial ships were cleared to move in, but the jump into the system did not go as planned. On entry, they found themselves in the middle of a pirate ambush. The fourteen colonial passanger and freighter ships were destroyed with the capture of some smaller craft. Over two thousand Boron were killed. The pirates have since planted a large minefield in the hope of capturing other ships, travel through this system be undertaken with great care. ===Information=== [[Ownerless ships]] in this sector. ==Default [[Stations]]== *[[Anarchy Port]] *Pirate Base ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|51|4936|-3371|-16748}} {{Asteroid/Item|Ore|50|19722|2797|-26871}} {{Asteroid/Item|Ore|32|14669|0|2486}} {{Asteroid/Item|Ore|30|11625|3712|11338}} {{Asteroid/Item|Ore|29|-10256|0|-12343}} {{Asteroid/Item|Ore|27|-23035|-1263|17245}} {{Asteroid/Item|Ore|25|-8400|-2614|44913}} {{Asteroid/Item|Ore|25|-4786|-4124|39785}} {{Asteroid/Item|Ore|25|7450|208|37326}} {{Asteroid/Item|Ore|25|15625|462|30228}} {{Asteroid/Item|Ore|25|8979|833|25281}} {{Asteroid/Item|Ore|25|12331|1765|18336}} {{Asteroid/Item|Ore|24|-7407|3909|29312}} {{Asteroid/Item|Ore|21|5149|-3381|21369}} {{Asteroid/Item|Ore|20|181|-492|36617}} {{Asteroid/Item|Ore|20|-23696|155|23256}} {{Asteroid/Item|Ore|20|22267|-3454|8048}} {{Asteroid/Item|Ore|18|5959|-3732|35006}} {{Asteroid/Item|Ore|18|21702|-999|32049}} {{Asteroid/Item|Ore|18|14273|-1599|26290}} {{Asteroid/Item|Ore|18|2434|1006|24532}} {{Asteroid/Item|Ore|18|4882|-2415|-10756}} {{Asteroid/Item|Ore|17|25991|1809|10204}} {{Asteroid/Item|Ore|15|-11758|-3929|20660}} {{Asteroid/Item|Ore|14|-3417|369|17528}} {{Asteroid/Item|Ore|14|13659|2750|6931}} {{Asteroid/Item|Ore|13|-12781|-3882|27128}} {{Asteroid/Item|Ore|13|19858|-1691|23488}} {{Asteroid/Item|Ore|13|-9222|2783|1508}} {{Asteroid/Item|Ore|13|-24294|-1169|1250}} {{Asteroid/Item|Ore|13|-6817|3820|-2033}} {{Asteroid/Item|Ore|13|-12499|-102|-3820}} {{Asteroid/Item|Ore|12|-10288|-1876|-18055}} {{Asteroid/Item|Ore|10|-4425|1196|38394}} {{Asteroid/Item|Ore|8|-10342|3517|8622}} {{Asteroid/Item|Ore|8|-17647|2874|-20322}} {{Asteroid/Item|Ore|8|-11905|3554|-26185}} {{Asteroid/Item|Ore|8|-12793|-1990|-30165}} {{Asteroid/Item|Ore|5|-9619|762|36336}} {{Asteroid/Item|Ore|5|-31218|-3321|16580}} {{Asteroid/Item|Ore|5|4200|-3643|14128}} {{Asteroid/Item|Ore|5|-34152|-3489|13494}} {{Asteroid/Item|Ore|5|17693|-2363|-17103}} {{Asteroid/Item|Ore|4|-24972|-25|9041}} {{Asteroid/Item|Ore|3|16404|2610|-1917}} {{Asteroid/Item|Ore|1|-14360|1604|13454}} {{Asteroid/Item|Silicon|72|16050|4154|15042}} {{Asteroid/Item|Silicon|70|-2130|1916|-26393}} {{Asteroid/Item|Silicon|40|-18388|-1688|22128}} {{Asteroid/Item|Silicon|40|-3108|-155|-31701}} {{Asteroid/Item|Silicon|26|-6367|997|13987}} {{Asteroid/Item|Silicon|26|-19148|3749|11247}} {{Asteroid/Item|Silicon|26|-4200|-1155|7573}} {{Asteroid/Item|Silicon|26|6082|0|3729}} {{Asteroid/Item|Silicon|26|-15079|1863|2652}} {{Asteroid/Item|Silicon|26|-27028|-675|-17088}} {{Asteroid/Item|Silicon|16|-368|-2736|1770}} {{Asteroid/Item|Silicon|15|-7045|-3736|23262}} {{Asteroid/Item|Silicon|8|-4252|-4063|32315}} {{Asteroid/Item|Silicon|7|27632|-3956|24365}} {{Asteroid/Item|Silicon|6|-2709|2788|41959}} {{Asteroid/Item|Silicon|6|-3169|1481|25644}} {{Asteroid/Item|Silicon|5|4786|2666|9559}} {{Asteroid/Item|Silicon|1|10287|-401|28993}} {{Asteroid/End}} == See Also == {{Pirates Navbox}}
+===Scanner Entry===
+This dark system is located on the far edge of the Garenisk Void, a large area of space where no stars can form. The remnants of an ancient battle were found in this system by a [[Boron]] fleet on its first pass through this system. Subsequently many years of archeology and recovery were undertaken with the assistance of the [[Argon]]. After the system was cleared of debris, Boron colonial ships were cleared to move in, but the jump into the system did not go as planned. On entry, they found themselves in the middle of a pirate ambush. The fourteen colonial passanger and freighter ships were destroyed with the capture of some smaller craft. Over two thousand Boron were killed. The pirates have since planted a large minefield in the hope of capturing other ships, travel through this system be undertaken with great care.
+
+===Information===
+[[Ownerless ships]] in this sector.
+
+==Default [[Stations]]==
+*[[Anarchy Port]]
+*Pirate Base
+
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|51|4936|-3371|-16748}}
+{{Asteroid/Item|Ore|50|19722|2797|-26871}}
+{{Asteroid/Item|Ore|32|14669|0|2486}}
+{{Asteroid/Item|Ore|30|11625|3712|11338}}
+{{Asteroid/Item|Ore|29|-10256|0|-12343}}
+{{Asteroid/Item|Ore|27|-23035|-1263|17245}}
+{{Asteroid/Item|Ore|25|-8400|-2614|44913}}
+{{Asteroid/Item|Ore|25|-4786|-4124|39785}}
+{{Asteroid/Item|Ore|25|7450|208|37326}}
+{{Asteroid/Item|Ore|25|15625|462|30228}}
+{{Asteroid/Item|Ore|25|8979|833|25281}}
+{{Asteroid/Item|Ore|25|12331|1765|18336}}
+{{Asteroid/Item|Ore|24|-7407|3909|29312}}
+{{Asteroid/Item|Ore|21|5149|-3381|21369}}
+{{Asteroid/Item|Ore|20|181|-492|36617}}
+{{Asteroid/Item|Ore|20|-23696|155|23256}}
+{{Asteroid/Item|Ore|20|22267|-3454|8048}}
+{{Asteroid/Item|Ore|18|5959|-3732|35006}}
+{{Asteroid/Item|Ore|18|21702|-999|32049}}
+{{Asteroid/Item|Ore|18|14273|-1599|26290}}
+{{Asteroid/Item|Ore|18|2434|1006|24532}}
+{{Asteroid/Item|Ore|18|4882|-2415|-10756}}
+{{Asteroid/Item|Ore|17|25991|1809|10204}}
+{{Asteroid/Item|Ore|15|-11758|-3929|20660}}
+{{Asteroid/Item|Ore|14|-3417|369|17528}}
+{{Asteroid/Item|Ore|14|13659|2750|6931}}
+{{Asteroid/Item|Ore|13|-12781|-3882|27128}}
+{{Asteroid/Item|Ore|13|19858|-1691|23488}}
+{{Asteroid/Item|Ore|13|-9222|2783|1508}}
+{{Asteroid/Item|Ore|13|-24294|-1169|1250}}
+{{Asteroid/Item|Ore|13|-6817|3820|-2033}}
+{{Asteroid/Item|Ore|13|-12499|-102|-3820}}
+{{Asteroid/Item|Ore|12|-10288|-1876|-18055}}
+{{Asteroid/Item|Ore|10|-4425|1196|38394}}
+{{Asteroid/Item|Ore|8|-10342|3517|8622}}
+{{Asteroid/Item|Ore|8|-17647|2874|-20322}}
+{{Asteroid/Item|Ore|8|-11905|3554|-26185}}
+{{Asteroid/Item|Ore|8|-12793|-1990|-30165}}
+{{Asteroid/Item|Ore|5|-9619|762|36336}}
+{{Asteroid/Item|Ore|5|-31218|-3321|16580}}
+{{Asteroid/Item|Ore|5|4200|-3643|14128}}
+{{Asteroid/Item|Ore|5|-34152|-3489|13494}}
+{{Asteroid/Item|Ore|5|17693|-2363|-17103}}
+{{Asteroid/Item|Ore|4|-24972|-25|9041}}
+{{Asteroid/Item|Ore|3|16404|2610|-1917}}
+{{Asteroid/Item|Ore|1|-14360|1604|13454}}
+{{Asteroid/Item|Silicon|72|16050|4154|15042}}
+{{Asteroid/Item|Silicon|70|-2130|1916|-26393}}
+{{Asteroid/Item|Silicon|40|-18388|-1688|22128}}
+{{Asteroid/Item|Silicon|40|-3108|-155|-31701}}
+{{Asteroid/Item|Silicon|26|-6367|997|13987}}
+{{Asteroid/Item|Silicon|26|-19148|3749|11247}}
+{{Asteroid/Item|Silicon|26|-4200|-1155|7573}}
+{{Asteroid/Item|Silicon|26|6082|0|3729}}
+{{Asteroid/Item|Silicon|26|-15079|1863|2652}}
+{{Asteroid/Item|Silicon|26|-27028|-675|-17088}}
+{{Asteroid/Item|Silicon|16|-368|-2736|1770}}
+{{Asteroid/Item|Silicon|15|-7045|-3736|23262}}
+{{Asteroid/Item|Silicon|8|-4252|-4063|32315}}
+{{Asteroid/Item|Silicon|7|27632|-3956|24365}}
+{{Asteroid/Item|Silicon|6|-2709|2788|41959}}
+{{Asteroid/Item|Silicon|6|-3169|1481|25644}}
+{{Asteroid/Item|Silicon|5|4786|2666|9559}}
+{{Asteroid/Item|Silicon|1|10287|-401|28993}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Pirates Navbox}}

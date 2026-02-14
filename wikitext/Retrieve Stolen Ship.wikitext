@@ -1,3 +1,18 @@
-<!-- source file: index__qb6deb5b90e64.html -->
+A [[Missions#Other Mission|Mission]] offered at [[stations]].
 
-A [[Missions#Other Mission|Mission]] offered at [[stations]]. General difficulty: Moderate to Hard You will need to make the pilot of the specified ship bail so you can claim it or board for bigger ships. What you will need: * M3/M4 - smaller target. Don't shoot too much or you'll destroy him! * M6 &amp; TP or M7M - necessary to board the target. What you will find: * M3/M4 - smaller targets * M6/M7 - bigger targets. You need to board these. {{Missions}}
+General difficulty: Moderate to Hard 
+
+You will need to make the pilot of the specified ship bail so you can claim it or board for bigger ships. 
+
+What you will need: 
+
+* M3/M4 - smaller target. Don't shoot too much or you'll destroy him! 
+* M6 & TP or M7M - necessary to board the target. 
+
+What you will find: 
+
+* M3/M4 - smaller targets 
+* M6/M7 - bigger targets. You need to board these.
+
+
+{{Missions}}

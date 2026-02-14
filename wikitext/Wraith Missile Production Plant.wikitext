@@ -1,3 +1,30 @@
-<!-- source file: index__qa82d5a2921d2.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Terran
+|station=Wraith Missile Production Facility
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=10
+|cycle=00:10:00
+|productnum=[[Wraith Missile]] (1)
+|stationprice={{Priceblock|Terran Planetary Senator|10952660}}
+|reqresources=[[Energy Cells]] (150)<br>[[Ore]] (25)<br>[[Terran MRE]] (25)
+|optresources=[[Matter/Anti-Matter Warhead]]
+}}
+{{Infobox close}}
+==Overview==
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Terran |station=Wraith Missile Production Facility |hull=1000000 |shield=9 |generator=2000 |hangar=10 |cycle=00:10:00 |productnum=[[Wraith Missile]] (1) |stationprice={{Priceblock|Terran Planetary Senator|10952660}} |reqresources=[[Energy Cells]] (150)&lt;br>[[Ore]] (25)&lt;br>[[Terran MRE]] (25) |optresources=[[Matter/Anti-Matter Warhead]] }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== This production facility manufactures the [[Wraith Missile]]. ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Terran#Shipyards|Terran]]''' *{{sa|Terran Unknown Sector 1}} |} {{Stationcategory}}
+===Encyclopedia Entry===
+This production facility manufactures the [[Wraith Missile]].
+
+==Availability==
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Terran#Shipyards|Terran]]'''
+*{{sa|Terran Unknown Sector 1}}
+|}
+
+
+{{Stationcategory}}

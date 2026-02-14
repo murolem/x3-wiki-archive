@@ -1,3 +1,6 @@
-<!-- source file: index__q931d10b41431.html -->
+{| bgcolor=white align=center style=border-style:dotted;border-width:2px;margin-top:5px;border-color:#aaaaaa
+|''This section is a [[Project:stub|stub]]. You can help us by [{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit}} expanding it].''
+|}
+<includeonly>[[Category:Pages with stub sections]][[Category:Stub]]</includeonly>
 
-{| bgcolor=white align=center style=border-style:dotted;border-width:2px;margin-top:5px;border-color:#aaaaaa |''This section is a [[Project:stub|stub]]. You can help us by [{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit}} expanding it].'' |} &lt;includeonly>[[Category:Pages with stub sections]][[Category:Stub]]&lt;/includeonly> &lt;noinclude>[[Category:Category Tools‏‎]]&lt;/noinclude>
+<noinclude>[[Category:Category Tools‏‎]]</noinclude>

@@ -1,3 +1,83 @@
-<!-- source file: index__qaafff0b57a39.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=#deca.deaf
+|Faction=Terran
+|Class={{M4class}}
+|Priceblock={{Priceblock|| 465803}}
+|Minspeed= 64
+|Maxspeed= 256
+|Minaccel= 20
+|Maxaccel= 83
+|Minsteer= 24.2
+|Maxsteer= 72.6
+|Hull= 4200
+|Maxshield= 5 MJ
+|Shieldslots= 4
+|Maxshieldstrength= 20
+|Shieldreactor= 350
+|Cargoclass= M
+|Mincargo= 39
+|Maxcargo= 114
+|Lasercap= 1650
+|Laserrecharge= 41
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=1|pmaml=1|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+Fast, well defended, and capable of carrying the [[M6|corvette]]-grade weapon the [[Prototype Matter/Anti-Matter Launcher]], the '''#deca.deaf''' is potentially a lethal ship.
 
-{{Infobox open}} {{Infobox variant |Variant=#deca.deaf |Faction=Terran |Class={{M4class}} |Priceblock={{Priceblock|| 465803}} |Minspeed= 64 |Maxspeed= 256 |Minaccel= 20 |Maxaccel= 83 |Minsteer= 24.2 |Maxsteer= 72.6 |Hull= 4200 |Maxshield= 5 MJ |Shieldslots= 4 |Maxshieldstrength= 20 |Shieldreactor= 350 |Cargoclass= M |Mincargo= 39 |Maxcargo= 114 |Lasercap= 1650 |Laserrecharge= 41 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=1|pmaml=1|pssc=0 }} {{Gunslot |Slot=Rear |Guncount=1 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== Fast, well defended, and capable of carrying the [[M6|corvette]]-grade weapon the [[Prototype Matter/Anti-Matter Launcher]], the '''#deca.deaf''' is potentially a lethal ship. ==Background== Originally terraforming drones deployed from the [[Deca|#deca]] CPU ship, these ships appear to have been modified along with #deca to perform a defensive role. ==Physical Characteristics== The #deca.deaf has a spindly, blocky construction, with its main guns mounted in a forward-protruding bay. == Combat == With a turret for [[missiles|missile]] defense, the #deca.deaf has an advantage over other M4s in that it isn't as vulnerable to being one-shotted by medium missiles. This gives it a better chance of survival when fighting other small craft. == Equipment == The #deca.deaf can mount either [[EEMPC]]s or [[PMAML]]s in its forward gun bays, and an [[EMPC]] in its tailgun. It can also carry [[Poltergeist Missile|Poltergeist missile]]s. == Availability == The #deca.deaf can be bought at either of the [[Aldrin Ship Production Base]]s in [[Aldrin]] orbit. == Suggested Roles== As an M4, the #deca.deaf lacks the durability to be a frontline fighter. It is fairly quick and well shielded for its class though, so makes a very effective interceptor. == See Also== {{M4}} {{Aldrin Navbox}}
+==Background==
+Originally terraforming drones deployed from the [[Deca|#deca]] CPU ship, these ships appear to have been modified along with #deca to perform a defensive role. 
+
+==Physical Characteristics==
+The #deca.deaf has a spindly, blocky construction, with its main guns mounted in a forward-protruding bay.
+
+== Combat == 
+With a turret for [[missiles|missile]] defense, the #deca.deaf has an advantage over other M4s in that it isn't as vulnerable to being one-shotted by medium missiles. This gives it a better chance of survival when fighting other small craft.
+
+== Equipment ==
+The #deca.deaf can mount either [[EEMPC]]s or [[PMAML]]s in its forward gun bays, and an [[EMPC]] in its tailgun.  It can also carry [[Poltergeist Missile|Poltergeist missile]]s.
+
+== Availability ==
+The #deca.deaf can be bought at either of the [[Aldrin Ship Production Base]]s in [[Aldrin]] orbit.
+
+== Suggested Roles==
+As an M4, the #deca.deaf lacks the durability to be a frontline fighter. It is fairly quick and well shielded for its class though, so makes a very effective interceptor.
+
+== See Also==
+{{M4}}
+
+
+{{Aldrin Navbox}}

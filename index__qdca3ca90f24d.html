@@ -1,6 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
-	<head><script src="/script.js" type="module"></script><link href="/styles.css" rel="stylesheet">
+	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta http-equiv="Content-Style-Type" content="text/css">
 		<meta name="generator" content="MediaWiki 1.15.3">
@@ -9,7 +9,7 @@
 		<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="X3 Wiki (en)">
 		<link rel="alternate" type="application/rss+xml" title="X3 Wiki RSS Feed" href="/index.php?title=Special:RecentChanges&feed=rss">
 		<link rel="alternate" type="application/atom+xml" title="X3 Wiki Atom Feed" href="/index.php?title=Special:RecentChanges&feed=atom">
-		<title>Log in / create account - X3 Wiki | Archive</title>
+		<title>Log in / create account - X3 Wiki</title>
 		<link rel="stylesheet" href="/skins/common/shared.css?207" type="text/css" media="screen">
 		<link rel="stylesheet" href="/skins/common/commonPrint.css?207" type="text/css" media="print">
 		<link rel="stylesheet" href="/skins/monobook/main.css?207" type="text/css" media="screen">
@@ -76,7 +76,7 @@
 <div id="userloginForm">
 <form name="userlogin" method="post" action="/index.php?title=Special:UserLogin&action=submitlogin&type=login&returnto=Osaka">
 	<h2>Log in</h2>
-	<p id="userloginlink">Don't have an account? <a class="new" href="/index.php?title=Special:UserLogin&type=signup&returnto=Osaka">Create an account</a>.</p>
+	<p id="userloginlink">Don't have an account? <a href="/index.php?title=Special:UserLogin&type=signup&returnto=Osaka">Create an account</a>.</p>
 		<div id="userloginprompt"><p>You must have cookies enabled to log in to X3 Wiki.
 </p></div>
 		<table>
@@ -109,7 +109,7 @@
 </div>
 <div id="loginend"></div>
 <div class="printfooter">
-Retrieved from "<a href="/index.php/Special:UserLogin">/index.php/Special:UserLogin</a>"</div>
+Retrieved from "<a href="http://x3wiki.com/index.php/Special:UserLogin">http://x3wiki.com/index.php/Special:UserLogin</a>"</div>
 						<!-- end content -->
 						<div class="visualClear"></div>
 		</div>
@@ -121,32 +121,41 @@ Retrieved from "<a href="/index.php/Special:UserLogin">/index.php/Special:UserLo
 		<div class="pBody">
 			<ul>
 	
-				 <li id="ca-nstab-special" class="selected new"><a class="new" href="/index.php?title=Special:UserLogin&returnto=Osaka" title="This is a special page, you cannot edit the page itself">Special page</a></li>			</ul>
+				 <li id="ca-nstab-special" class="selected"><a href="/index.php?title=Special:UserLogin&returnto=Osaka" title="This is a special page, you cannot edit the page itself">Special page</a></li>			</ul>
 		</div>
 	</div>
-	
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="/index.php/User:174.129.228.67" title="The user page for the ip you're editing as [.]" accesskey="." class="new">174.129.228.67</a></li>
+				<li id="pt-anontalk"><a href="/index.php/User_talk:174.129.228.67" title="Discussion about edits from this IP address [n]" accesskey="n" class="new">Talk for this IP</a></li>
+				<li id="pt-anonlogin" class="active"><a href="/index.php?title=Special:UserLogin&returnto=Special:UserLogin" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
 	<div class="portlet" id="p-logo">
-		<a style="background-image: url(/x3.jpg);" href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+		<a style="background-image: url(http://www.x3wiki.com/x3.jpg);" href="/index.php/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
 	</div>
 	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
-	
 	<div id="p-search" class="portlet">
 		<h5><label for="searchInput">Search</label></h5>
 		<div id="searchBody" class="pBody">
-			<form id="searchform"><div>
+			<form action="/index.php" id="searchform"><div>
 				<input type="hidden" name="title" value="Special:Search">
 				<input id="searchInput" name="search" type="text" title="Search X3 Wiki [f]" accesskey="f" value="">
 				<input type="submit" name="go" class="searchButton" id="searchGoButton" value="Go" title="Go to a page with this exact name if exists">&#160;
 				<input type="submit" name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text">
 			</div></form>
 		</div>
-	</div><div class="generated-sidebar portlet" id="p-navigation">
+	</div>
+	<div class="generated-sidebar portlet" id="p-navigation">
 		<h5>Navigation</h5>
 		<div class="pBody">
 			<ul>
 				<li id="n-mainpage-description"><a href="/index.php/Main_Page">Main Page</a></li>
 				<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
-				<li id="n-randompage"><a href="javascript:void(0)" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
 				<li id="n-help"><a href="/index.php/Help:Contents" title="The place to find out">Help</a></li>
 				<li id="n-To-do-list"><a href="/index.php/To_do_List">To do list</a></li>
 			</ul>

@@ -1,3 +1,58 @@
-<!-- source file: index__q43c2ac25e1a0.html -->
+==Standard form==
+<pre>
+{{Infobox Faction
+|Faction=
+|Speciestype=
+|Homeworld=[[]]
+|Systems=
+|Population=
+|Government=
+|Ranks=
+}}
 
-==Standard form== &lt;pre> {{Infobox Faction |Faction= |Speciestype= |Homeworld=[[]] |Systems= |Population= |Government= |Ranks= }} =General= ==Government and politics== ===Foreign relations and military=== ==History== ==Culture== ==Geography and Climate== =Science and Technology= ===Ships=== * ===Stations=== * =Territories= ==Core Worlds== # ==Border Worlds== # =Food= [[]] &lt;/pre> [[User:Madned|Madned]] 01:05, 25 June 2010 (UTC) ---- also suggest using template Rank List for ranks it will display the ranks with a numeric ranking 10 to -5. ie: &lt;pre>{{Rank List|Hero of the Federation |Protector of the Federation |Federation Overwatch |Federation Marshall |Federation Guardian |Trusted Ally |Accepted Advisor |Confirmed friend |Federation Associate |Federation Member |Citizen |Suspected Foe |Known antagonist |Confirmed Insurgent |Confirmed enemy |Enemy of the Federation}}&lt;/pre> [[User:Madned|Madned]] 22:03, 6 July 2010 (UTC)
+=General=
+==Government and politics==
+
+===Foreign relations and military===
+
+==History==
+
+==Culture==
+==Geography and Climate==
+
+=Science and Technology=
+===Ships===
+*
+===Stations===
+*
+=Territories=
+==Core Worlds==
+#
+==Border Worlds==
+#
+=Food=
+[[]]
+</pre>
+
+[[User:Madned|Madned]] 01:05, 25 June 2010 (UTC)
+----
+also suggest using template Rank List for ranks
+it will display the ranks with a numeric ranking 10 to -5.
+ie:
+<pre>{{Rank List|Hero of the Federation
+|Protector of the Federation
+|Federation Overwatch
+|Federation Marshall
+|Federation Guardian
+|Trusted Ally
+|Accepted Advisor
+|Confirmed friend
+|Federation Associate
+|Federation Member
+|Citizen
+|Suspected Foe
+|Known antagonist
+|Confirmed Insurgent
+|Confirmed enemy
+|Enemy of the Federation}}</pre>
+[[User:Madned|Madned]] 22:03, 6 July 2010 (UTC)

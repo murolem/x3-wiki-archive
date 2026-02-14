@@ -1,3 +1,23 @@
-<!-- source file: index__qa75298b6266e.html -->
+{{Infobox Sector
+|Race=Teladi
+|SecLevel=Border
+|Population=89,875,207
+|Planets=2
+|SunLevel=100
+|GateDist=60
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|	0|	52780|[[Grand Exchange]]}}
+{{Gateblock2|South|0|	0|	-35380|[[Maelstrom]]}}
+{{Gateblock/End}}
+}}
+==Description==
+Merchant Haven was established to be a major trade port for the new Teladi expansion campaign. However the plans failed when surprise attacks by hostile forces stopped the advance into nearby systems. The sector serves the local Teladi population and trades with the nearby Argon and Split.
 
-{{Infobox Sector |Race=Teladi |SecLevel=Border |Population=89,875,207 |Planets=2 |SunLevel=100 |GateDist=60 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0| 0| 52780|[[Grand Exchange]]}} {{Gateblock2|South|0| 0| -35380|[[Maelstrom]]}} {{Gateblock/End}} }} ==Description== Merchant Haven was established to be a major trade port for the new Teladi expansion campaign. However the plans failed when surprise attacks by hostile forces stopped the advance into nearby systems. The sector serves the local Teladi population and trades with the nearby Argon and Split. ==Default [[Stations]]== *[[Military Outpost]] ==[[Asteroids]]== == See Also == {{Teladi Navbox}}
+==Default [[Stations]]==
+*[[Military Outpost]]
+
+==[[Asteroids]]==
+
+
+== See Also ==
+{{Teladi Navbox}}

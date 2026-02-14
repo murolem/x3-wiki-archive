@@ -1,3 +1,26 @@
-<!-- source file: index__q2678a1a05269.html -->
-
-{{Infobox open}} {{Infobox weapon |weapon=Spare Laser 2 |hulldam=1100 |shielddam=2300 |range=1.79 |rof= 200 |shotspeed= 5993 |maxweapenergy= 500 |shotcost=56 }} {{Infobox ware |ware=Spare Laser 2 |cargoclass=S |volume=1 |minprice=4583 |aveprice=4676 |maxprice=4769 }} {{Infobox close}} ==Overview== ==Encyclopedia Entry== ==Commentary== ==Known Compatible Ships== ==Available at Known Docks== Not available for sale at any dock.
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Spare Laser 2
+|hulldam=1100
+|shielddam=2300
+|range=1.79
+|rof= 200
+|shotspeed= 5993
+|maxweapenergy= 500
+|shotcost=56
+}}
+{{Infobox ware
+|ware=Spare Laser 2
+|cargoclass=S
+|volume=1
+|minprice=4583
+|aveprice=4676
+|maxprice=4769
+}}
+{{Infobox close}}
+==Overview==
+==Encyclopedia Entry==
+==Commentary==
+==Known Compatible Ships==
+==Available at Known Docks==
+Not available for sale at any dock.

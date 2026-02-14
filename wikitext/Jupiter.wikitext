@@ -1,3 +1,24 @@
-<!-- source file: index__qa79d7f9f6db7.html -->
+{{Infobox Sector
+|Race=Terran
+|SecLevel=Core
+|Population=82,991,122
+|Planets=1
+|SunLevel=150
+|GateDist=120
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|500|	0|	37000|[[Saturn]]}}
+{{Gateblock2|East|59250|	0|	25750|[[Jupiter 2]]}}
+{{Gateblock2|South|0|	0|	-34500|[[Asteroid Belt]]}}
+{{Gateblock/End}}
+}}
+==Description==
+Massive by even Terran standards, Jupiter's magnificence is rarely lost on those who enter this sector. The planet's upper atmosphere hosts a wide array of semi-organic life, much of which is still under analysis.
 
-{{Infobox Sector |Race=Terran |SecLevel=Core |Population=82,991,122 |Planets=1 |SunLevel=150 |GateDist=120 |Gates={{Gateblock/Begin}} {{Gateblock2|North|500| 0| 37000|[[Saturn]]}} {{Gateblock2|East|59250| 0| 25750|[[Jupiter 2]]}} {{Gateblock2|South|0| 0| -34500|[[Asteroid Belt]]}} {{Gateblock/End}} }} ==Description== Massive by even Terran standards, Jupiter's magnificence is rarely lost on those who enter this sector. The planet's upper atmosphere hosts a wide array of semi-organic life, much of which is still under analysis. ==Default [[Stations]]== *Orbital Patrol Base ==[[Asteroids]]== No asteroid known in this sector ==See Also== {{Terran Navbox}}
+==Default [[Stations]]==
+*Orbital Patrol Base
+
+==[[Asteroids]]==
+No asteroid known in this sector
+
+==See Also==
+{{Terran Navbox}}

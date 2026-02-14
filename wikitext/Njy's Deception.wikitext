@@ -1,3 +1,35 @@
-<!-- source file: index__qafe40e622ef5.html -->
+{{Infobox Sector
+|Race=Split
+|SecLevel=Core
+|Population=96,317,063
+|Planets=2
+|SunLevel=150
+|GateDist=50
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th></tr>
+{{Gateblock2|East|22072|	2187|	0|[[Family Ryk]]}}
+{{Gateblock2|West|-25197|	0|	0|[[Family Njy]]}}
+</table>
+}}
+==Description==
+===Encyclopedia Entry===
+This system used to belong to the Split Family Ryk, but after a dispute with the Family Njy, was taken in a rather strange battle. Njy outfitted some of their freighters with large explosives and changed their transmitter signal to say they were from Family Whi. They later sent a distress signal saying they were under attack by pirates. The Ryk Family Carrier came in to assist the freighters that were near the west gate, but when it was in range each of the six freighters simultaneously exploded, heavily damaging the carrier. Njy then moved in their destroyers and attacked the Ryk's military forces, destroying the carrier with relative ease, and seizing the system in the name of the family Njy.
+===Information===
+This system has disappeared without a trace as of Albion Prelude. The fate of the nearly 100 million inhabitants is unknown.
+==Default [[Stations]]==
+==[[Asteroids]]==
 
-{{Infobox Sector |Race=Split |SecLevel=Core |Population=96,317,063 |Planets=2 |SunLevel=150 |GateDist=50 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;/tr> {{Gateblock2|East|22072| 2187| 0|[[Family Ryk]]}} {{Gateblock2|West|-25197| 0| 0|[[Family Njy]]}} &lt;/table> }} ==Description== ===Encyclopedia Entry=== This system used to belong to the Split Family Ryk, but after a dispute with the Family Njy, was taken in a rather strange battle. Njy outfitted some of their freighters with large explosives and changed their transmitter signal to say they were from Family Whi. They later sent a distress signal saying they were under attack by pirates. The Ryk Family Carrier came in to assist the freighters that were near the west gate, but when it was in range each of the six freighters simultaneously exploded, heavily damaging the carrier. Njy then moved in their destroyers and attacked the Ryk's military forces, destroying the carrier with relative ease, and seizing the system in the name of the family Njy. ===Information=== This system has disappeared without a trace as of Albion Prelude. The fate of the nearly 100 million inhabitants is unknown. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|47|-11972|-1942|-19980}} {{Asteroid/Item|Ore|21|19795|-5328|-18075}} {{Asteroid/Item|Ore|18|14208|-6660|-14874}} {{Asteroid/Item|Ore|14|-6490|-888|-20607}} {{Asteroid/Item|Ore|11|3885|5550|5550}} {{Asteroid/Item|Silicon|54|-7714|-5772|9729}} {{Asteroid/Item|Silicon|13|-154|4440|10184}} {{Asteroid/Item|Silicon|8|12838|-8269|-20700}} {{Asteroid/Item|Silicon|5|-8713|-3885|-15484}} {{Asteroid/End}} == See Also == {{Split Navbox}}
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|47|-11972|-1942|-19980}}
+{{Asteroid/Item|Ore|21|19795|-5328|-18075}}
+{{Asteroid/Item|Ore|18|14208|-6660|-14874}}
+{{Asteroid/Item|Ore|14|-6490|-888|-20607}}
+{{Asteroid/Item|Ore|11|3885|5550|5550}}
+{{Asteroid/Item|Silicon|54|-7714|-5772|9729}}
+{{Asteroid/Item|Silicon|13|-154|4440|10184}}
+{{Asteroid/Item|Silicon|8|12838|-8269|-20700}}
+{{Asteroid/Item|Silicon|5|-8713|-3885|-15484}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Split Navbox}}

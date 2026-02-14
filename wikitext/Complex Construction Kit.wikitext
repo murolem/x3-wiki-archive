@@ -1,3 +1,47 @@
-<!-- source file: index__q93d8f336115c.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox basicstation
+|faction=
+|station=Complex Construction Kit
+|hull=200000
+|shield=7
+|generator=3500
+|hangar=20
+|stationprice=
+}}
+{{Infobox close}}
 
-__NOTOC__ {{Infobox open}} {{Infobox basicstation |faction= |station=Complex Construction Kit |hull=200000 |shield=7 |generator=3500 |hangar=20 |stationprice= }} {{Infobox close}} ==Overview== The Complex Construction Kit is used to connect two factories together. The resulting composite factory consists of all the original stations in their original locations, with their docking ports removed, and joined by transit tubes to a central [[Complex Hub]] that is placed when the complex is first founded. This handles docking arrangements for every factory in the complex. Factories in the complex share all their resources; every unit of any ware in the complex is available to be used by any of its constituent factories. This means that factories can feed each other directly without the need for [[TS|freighters]]. ===Placement limitations=== Any two factories within 25km of each other may be joined to form a complex. Any factory within 25km of the resulting Hub can be joined to that complex. Two complexes can be joined together, in such a case, the first Hub to be selected will remain and the second will be demolished. ==Race-specific attributes== {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |+'''Complex Construction Kit''' |-style="background-color:LightGray;text-align:center;" !Race!!Station Cost |- style="{{Colour/Argon}}" | [[Argon]]|| {{Priceblock|Trusted Ally|259696}} |- style="{{Colour/Boron}}" | [[Boron]]||{{Priceblock|Queen's Guard|259696}} |- style="{{Colour/Paranid}}" | [[Paranid]]||{{Priceblock|Friend of Priest King|259696}} |- style="{{Colour/Split}}" | [[Split]]||{{Priceblock|Distinguished Associate|259696}} |- style="{{Colour/Teladi}}" | [[Teladi]]|| {{Priceblock|Majority Shareholder|259696}} |} ==Availability== Complex Construction Kits are available at all [[Commonwealth]] [[Shipyard]]s. ==See Also== *[[Complex|Complexing Strategy]] {{Stationcategory}}
+==Overview==
+The Complex Construction Kit is used to connect two factories together. The resulting composite factory consists of all the original stations in their original locations, with their docking ports removed, and joined by transit tubes to a central [[Complex Hub]] that is placed when the complex is first founded. This handles docking arrangements for every factory in the complex. Factories in the complex share all their resources; every unit of any ware in the complex is available to be used by any of its constituent factories. This means that factories can feed each other directly without the need for [[TS|freighters]].
+
+===Placement limitations===
+Any two factories within 25km of each other may be joined to form a complex.
+
+Any factory within 25km of the resulting Hub can be joined to that complex.
+
+Two complexes can be joined together, in such a case, the first Hub to be selected will remain and the second will be demolished.
+
+==Race-specific attributes==
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|+'''Complex Construction Kit'''
+|-style="background-color:LightGray;text-align:center;"
+!Race!!Station Cost
+|- style="{{Colour/Argon}}"
+| [[Argon]]|| {{Priceblock|Trusted Ally|259696}}
+|- style="{{Colour/Boron}}"
+| [[Boron]]||{{Priceblock|Queen's Guard|259696}}
+|- style="{{Colour/Paranid}}"
+| [[Paranid]]||{{Priceblock|Friend of Priest King|259696}}
+|- style="{{Colour/Split}}"
+| [[Split]]||{{Priceblock|Distinguished Associate|259696}}
+|- style="{{Colour/Teladi}}"
+| [[Teladi]]|| {{Priceblock|Majority Shareholder|259696}}
+|}
+
+==Availability==
+Complex Construction Kits are available at all [[Commonwealth]] [[Shipyard]]s.
+
+==See Also==
+*[[Complex|Complexing Strategy]]
+
+{{Stationcategory}}

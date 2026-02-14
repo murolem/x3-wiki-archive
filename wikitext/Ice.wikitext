@@ -1,3 +1,36 @@
-<!-- source file: index__q87421ec9bdb8.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Ice
+|cargoclass=XL
+|volume=8
+|minprice=50
+|aveprice=128
+|maxprice=206
+}}
+{{Infobox close}}
+==Overview==
+Ice is the solid state of water and the primary source of water for Terran space operations ever since the ATF restricted access to Earth.
 
-{{Infobox open}} {{Infobox ware |ware= Ice |cargoclass=XL |volume=8 |minprice=50 |aveprice=128 |maxprice=206 }} {{Infobox close}} ==Overview== Ice is the solid state of water and the primary source of water for Terran space operations ever since the ATF restricted access to Earth. ==Asteroids== [[Ice asteroid list]] ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Ice Harvesting Facility]] | *[[Water Purification Plant]] | *List of Race Factories where this ware is a secondary resource | *[[Earth Torus]] *[[USC Orbital Logistics Dock]] *[[USC Orbital Supply Base]] *[[USC Orbital Support Station]] |} {{Waretable}} [[Category:Wares]] {{Terran Navbox}}
+==Asteroids==
+[[Ice asteroid list]]
+
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Ice Harvesting Facility]]
+|
+*[[Water Purification Plant]]
+|
+*List of Race Factories where this ware is a secondary resource
+|
+*[[Earth Torus]]
+*[[USC Orbital Logistics Dock]]
+*[[USC Orbital Supply Base]]
+*[[USC Orbital Support Station]]
+|}
+{{Waretable}}
+[[Category:Wares]]
+
+{{Terran Navbox}}

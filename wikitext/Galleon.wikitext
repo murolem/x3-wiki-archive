@@ -1,3 +1,140 @@
-<!-- source file: index__q7cee3ec68008.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Galleon
+|Faction=Pirate
+|Class={{M1class}}
+|Priceblock=
+|Minspeed= 52.0
+|Maxspeed= 83.2 
+|Minaccel= 5.0
+|Maxaccel= 8.0
+|Minsteer= 0.5
+|Maxsteer= 0.9
+|Hull= 300000
+|Maxshield= 2 GJ
+|Shieldslots= 2
+|Maxshieldstrength= 4000
+|Shieldreactor= 6560 
+|Cargoclass=XL
+|Mincargo= 7500
+|Maxcargo= 8360
+|Lasercap= 53200 
+|Laserrecharge= 797
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=4
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=6
+|ire=0|pac=0|hept=1|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=1|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=6
+|ire=0|pac=0|hept=1|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=1|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Up
+|Guncount=6
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=1|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Down
+|Guncount=4
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=1|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Back
+|Guncount=4
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay= {{Dockbay|25 [[M3+]]-[[M5]]}} 
+}}
+{{Infobox close}}
 
-{{Infobox open}} {{Infobox variant |Variant=Galleon |Faction=Pirate |Class={{M1class}} |Priceblock= |Minspeed= 52.0 |Maxspeed= 83.2 |Minaccel= 5.0 |Maxaccel= 8.0 |Minsteer= 0.5 |Maxsteer= 0.9 |Hull= 300000 |Maxshield= 2 GJ |Shieldslots= 2 |Maxshieldstrength= 4000 |Shieldreactor= 6560 |Cargoclass=XL |Mincargo= 7500 |Maxcargo= 8360 |Lasercap= 53200 |Laserrecharge= 797 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=4 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount=6 |ire=0|pac=0|hept=1| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=1|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Right |Guncount=6 |ire=0|pac=0|hept=1| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=1|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Up |Guncount=6 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=1|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Down |Guncount=4 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=1|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Back |Guncount=4 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= {{Dockbay|25 [[M3+]]-[[M5]]}} }} {{Infobox close}} ==Overview== The Galleon is the [[Pirates|Pirate]] faction {{M1class}}. It represents a major advancement in offensive capabilities for the Pirates, but is still no match for a [[Commonwealth]] task force unless covered by other pirate ships. It is tied with the [[Kha'ak Carrier]] for the lowest number of fighter bays out of any [[M1]] (though the Kha'ak Carrier itself has a bugged hangar bay, which effectively reduces its number to zero), and probably is the least effective of its class; this makes it unpopular as a command ship. ==Background== ===Encyclopedia Entry=== The Galleon carrier represents many years of secluded development and reverse-engineering by a cooperative of Pirate shipbuilders. Pirates can now project a fighter capability where it is most needed. ==Physical Characteristics== == Combat == The Galleon's weapons array packs a punch compared to mainstream [[M1]] class ships and has above average speed to boot for its class, however, it suffers from a serious lack of shielding which gives it even less survivability against aggressive [[:Category:Capital Ships|capital ships]] than usual for a carrier. The quite small hangar capacity (bested even by the M7 Split Panther) severely limits its role as a conventional M1. == Equipment == == Availability == This ship is not available at any [[shipyard]]s, and must be [[boarding|captured]] in order to be used. == Suggested Roles== Backwater patrols/trophy ship: being inferior in every meaningful aspect to a Yaki Hoshi or a Split Raptor, its use is not recommended. == See Also== {{M1}} [[Category: Carrier]]
+==Overview==
+The Galleon is the [[Pirates|Pirate]] faction {{M1class}}. It represents a major advancement in offensive capabilities for the Pirates, but is still no match for a [[Commonwealth]] task force unless covered by other pirate ships. It is tied with the [[Kha'ak Carrier]] for the lowest number of fighter bays out of any [[M1]] (though the Kha'ak Carrier itself has a bugged hangar bay, which effectively reduces its number to zero), and probably is the least effective of its class; this makes it unpopular as a command ship.
+
+==Background==
+===Encyclopedia Entry===
+The Galleon carrier represents many years of secluded development and reverse-engineering by a cooperative of Pirate shipbuilders. Pirates can now project a fighter capability where it is most needed.
+
+==Physical Characteristics==
+== Combat ==
+The Galleon's weapons array packs a punch compared to mainstream [[M1]] class ships and has above average speed to boot for its class, however, it suffers from a serious lack of shielding which gives it even less survivability against aggressive [[:Category:Capital Ships|capital ships]] than usual for a carrier. The quite small hangar capacity (bested even by the M7 Split Panther) severely limits its role as a conventional M1.
+
+== Equipment ==
+== Availability ==
+This ship is not available at any [[shipyard]]s, and must be [[boarding|captured]] in order to be used.
+
+== Suggested Roles==
+Backwater patrols/trophy ship: being inferior in every meaningful aspect to a Yaki Hoshi or a Split Raptor, its use is not recommended.
+
+== See Also==
+
+{{M1}}
+[[Category: Carrier]]

@@ -1,3 +1,31 @@
-<!-- source file: index__qfe013db92f75.html -->
+{{Infobox open}}
+{{Infobox factory
+|faction=Teladi
+|station=Typhoon Missile Factory
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:10:00
+|productnum=[[Typhoon Missile]] (1)
+|stationprice={{Priceblock|Majority Shareholder|9141284}}
+|reqresources=[[Energy Cells]] (48)<br>[[Ore]] (25)<br>[[Nostrop Oil]] (100)
+|optresources=
+}}
+{{Infobox close}}
+==Overview==
+NPC factories also purchase  as secondary resources.
 
-{{Infobox open}} {{Infobox factory |faction=Teladi |station=Typhoon Missile Factory |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:10:00 |productnum=[[Typhoon Missile]] (1) |stationprice={{Priceblock|Majority Shareholder|9141284}} |reqresources=[[Energy Cells]] (48)&lt;br>[[Ore]] (25)&lt;br>[[Nostrop Oil]] (100) |optresources= }} {{Infobox close}} ==Overview== NPC factories also purchase as secondary resources. ===Encyclopedia Entry=== ==Availability== This factory is unique to the Teladi. {| style="text-align:left;" |- valign="top" | '''[[Teladi#Shipyards|Teladi]]''' *{{sa|Ceo's Sprite}} *{{sa|Grand Exchange}} |} {{Stationcategory}} {{stub}}
+===Encyclopedia Entry===
+
+==Availability==
+This factory is unique to the Teladi.
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Teladi#Shipyards|Teladi]]'''
+*{{sa|Ceo's Sprite}}
+*{{sa|Grand Exchange}}
+|}
+
+{{Stationcategory}}
+{{stub}}

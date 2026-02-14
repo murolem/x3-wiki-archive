@@ -1,3 +1,196 @@
-<!-- source file: index__q13c18373d802.html -->
+{{Infobox open}}
+{{Infobox basicstation
+|faction=Terran
+|station=Orbital Patrol Base
+|hull=1500000
+|shield=30
+|generator=
+|hangar=
+|stationprice=
+}}
+{{Infobox close}}
+==Overview==
+Upgrades ships.
+==Encyclopedia Entry==
+This station is used as a base of operations for nearby patrol craft, providing resupply, communications relay and response coordination when necessary.
 
-{{Infobox open}} {{Infobox basicstation |faction=Terran |station=Orbital Patrol Base |hull=1500000 |shield=30 |generator= |hangar= |stationprice= }} {{Infobox close}} ==Overview== Upgrades ships. ==Encyclopedia Entry== This station is used as a base of operations for nearby patrol craft, providing resupply, communications relay and response coordination when necessary. ==Known Locations== *[[Asteroid Belt]] *[[Jupiter]] *[[Kuiper Belt]] *[[Oort Cloud]] *[[Pluto]] *[[Titan]] ==Normal Goods, Wares and Equipment== {| class="wikitable sortable" |+Goods |- !Name !Volume !Container Size !Max Stock |- |[[Matter/Anti-Matter Warhead]] |4 |S |312 |- |- |[[Terran MRE]] |7 |S |4 |- {| class="wikitable sortable" |+Weapons |- !Name !Volume !Container Size !Max Stock |- |- |[[Electro-Magnetic Plasma Cannon]] |5 |S |2 |- |- |[[Matter/Anti-Matter Launcher]] |21 |M |2 |- |- |[[Starburst Shockwave Cannon]] |28 |L |2 |- |- |[[Mobile Drilling System]] |100 |XL |8 |- |- |[[Poltergeist Missile]] |2 |S |82 |- {| class="wikitable sortable" |+Shields |- !Name !Volume !Container Size !Max Stock |- |- |[[Shields#1 MJ|1 MJ Shield]] |1 |S |124 |- |- |[[Shields#25 MJ|25 MJ Shield]] |10 |M |6 |- |- |[[Shields#5 MJ|5 MJ Shield]] |3 |S |30 |- {| class="wikitable sortable" |+Upgrades |- !Name !Volume !Container Size !Max Stock |- |- |[[Engine Tuning]] |0 |S |Upgrade |- |- |[[Cargo Bay Extension]] |0 |S |Upgrade |- |- |[[Rudder Optimisation]] |0 |S |Upgrade |- {| class="wikitable sortable" |+Equipment |- !Name !Volume !Container Size !Max Stock |- |- |Boost Extension |0 |S |Upgrade |- |- |[[Duplex Scanner]] |0 |S |Upgrade |- |- |[[Fight Command Software]] MK1 |0 |S |Upgrade |- |- |[[Fight Command Software]] MK2 |0 |S |Upgrade |- |- |[[Freight Scanner]] |0 |S |Upgrade |- |- |[[Navigation Command Software]] |0 |S |Upgrade |- |- |[[Singularity Engine Time Accelerator]] |0 |S |Upgrade |- |- |[[Special Command Software]] |0 |S |Upgrade |- {{Stationcategory}}
+==Known Locations==
+*[[Asteroid Belt]] 
+*[[Jupiter]]
+*[[Kuiper Belt]] 
+*[[Oort Cloud]]
+*[[Pluto]] 
+*[[Titan]]
+
+==Normal Goods, Wares and Equipment==
+{| class="wikitable sortable"
+|+Goods
+|-
+!Name
+!Volume
+!Container Size
+!Max Stock
+|-
+|[[Matter/Anti-Matter Warhead]]
+|4
+|S
+|312
+|-
+|-
+|[[Terran MRE]]
+|7
+|S
+|4
+|-
+
+{| class="wikitable sortable"
+|+Weapons
+|-
+!Name
+!Volume
+!Container Size
+!Max Stock
+|-
+|-
+|[[Electro-Magnetic Plasma Cannon]]
+|5
+|S
+|2
+|-
+|-
+|[[Matter/Anti-Matter Launcher]]
+|21
+|M
+|2
+|-
+|-
+|[[Starburst Shockwave Cannon]]
+|28
+|L
+|2
+|-
+|-
+|[[Mobile Drilling System]]
+|100
+|XL
+|8
+|-
+|-
+|[[Poltergeist Missile]]
+|2
+|S
+|82
+|-
+
+{| class="wikitable sortable"
+|+Shields
+|-
+!Name
+!Volume
+!Container Size
+!Max Stock
+|-
+|-
+|[[Shields#1 MJ|1 MJ Shield]]
+|1
+|S
+|124
+|-
+|-
+|[[Shields#25 MJ|25 MJ Shield]]
+|10
+|M
+|6
+|-
+|-
+|[[Shields#5 MJ|5 MJ Shield]]
+|3
+|S
+|30
+|-
+
+{| class="wikitable sortable"
+|+Upgrades
+|-
+!Name
+!Volume
+!Container Size
+!Max Stock
+|-
+|-
+|[[Engine Tuning]]
+|0
+|S
+|Upgrade
+|-
+|-
+|[[Cargo Bay Extension]]
+|0
+|S
+|Upgrade
+|-
+|-
+|[[Rudder Optimisation]]
+|0
+|S
+|Upgrade
+|-
+
+{| class="wikitable sortable"
+|+Equipment
+|-
+!Name
+!Volume
+!Container Size
+!Max Stock
+|-
+|-
+|Boost Extension
+|0
+|S
+|Upgrade
+|-
+|-
+|[[Duplex Scanner]]
+|0
+|S
+|Upgrade
+|-
+|-
+|[[Fight Command Software]] MK1
+|0
+|S
+|Upgrade
+|-
+|-
+|[[Fight Command Software]] MK2
+|0
+|S
+|Upgrade
+|-
+|-
+|[[Freight Scanner]]
+|0
+|S
+|Upgrade
+|-
+|-
+|[[Navigation Command Software]]
+|0
+|S
+|Upgrade
+|-
+|-
+|[[Singularity Engine Time Accelerator]]
+|0
+|S
+|Upgrade
+|-
+|-
+|[[Special Command Software]]
+|0
+|S
+|Upgrade
+|-
+
+{{Stationcategory}}

@@ -1,3 +1,261 @@
-<!-- source file: index__q732cff18b026.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Heavy Centaur 
+|Faction=Argon
+|Class={{M6+class}}
+|Priceblock={{Priceblock|Federation Guardian| 14377642}}
+|Minspeed= 57.5 
+|Maxspeed= 115
+|Minaccel=4
+|Maxaccel=8
+|Minsteer= 1.6
+|Maxsteer= 3.3
+|Hull= 67000 / 268000 (AP)
+|Maxshield=200 MJ
+|Shieldslots=4
+|Maxshieldstrength= 800
+|Shieldreactor= 2800
+|Cargoclass=XL
+|Mincargo= 500 
+|Maxcargo= 975
+|Lasercap= 14500
+|Laserrecharge=435 / 1750 (AP)
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Heavy Centaur Prototype
+|Faction=Argon
+|Class={{M6+class}}
+|Priceblock=
+|Minspeed= 77 
+|Maxspeed= 154
+|Minaccel= 5
+|Maxaccel= 10
+|Minsteer= 1.62 
+|Maxsteer= 3.24 
+|Hull= 67000 / 268000 (AP)
+|Maxshield=200 MJ
+|Shieldslots=4
+|Maxshieldstrength= 800
+|Shieldreactor= 2900
+|Cargoclass=XL
+|Mincargo= 500 
+|Maxcargo= 690
+|Lasercap= 16500
+|Laserrecharge=485 / 2000 (AP)
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+A vastly improved version of the basic centaur design, improving on almost everything apart from turning, speed and cargo space. A much appreciated design improvement is its increased range of weapon choices and its impressive angle of turret coverage. 
+   
+==Background==
+Argon naval draughtsmen spent months asking themselves how to improve the [[Centaur]]. With better shields, weapons and engines and absolutely no frills, the new 'Heavy' Centaur is their response.
 
-{{Infobox open}} {{Infobox variant |Variant=Heavy Centaur |Faction=Argon |Class={{M6+class}} |Priceblock={{Priceblock|Federation Guardian| 14377642}} |Minspeed= 57.5 |Maxspeed= 115 |Minaccel=4 |Maxaccel=8 |Minsteer= 1.6 |Maxsteer= 3.3 |Hull= 67000 / 268000 (AP) |Maxshield=200 MJ |Shieldslots=4 |Maxshieldstrength= 800 |Shieldreactor= 2800 |Cargoclass=XL |Mincargo= 500 |Maxcargo= 975 |Lasercap= 14500 |Laserrecharge=435 / 1750 (AP) |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Right |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Rear |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Left |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Heavy Centaur Prototype |Faction=Argon |Class={{M6+class}} |Priceblock= |Minspeed= 77 |Maxspeed= 154 |Minaccel= 5 |Maxaccel= 10 |Minsteer= 1.62 |Maxsteer= 3.24 |Hull= 67000 / 268000 (AP) |Maxshield=200 MJ |Shieldslots=4 |Maxshieldstrength= 800 |Shieldreactor= 2900 |Cargoclass=XL |Mincargo= 500 |Maxcargo= 690 |Lasercap= 16500 |Laserrecharge=485 / 2000 (AP) |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Right |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Rear |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Left |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== A vastly improved version of the basic centaur design, improving on almost everything apart from turning, speed and cargo space. A much appreciated design improvement is its increased range of weapon choices and its impressive angle of turret coverage. ==Background== Argon naval draughtsmen spent months asking themselves how to improve the [[Centaur]]. With better shields, weapons and engines and absolutely no frills, the new 'Heavy' Centaur is their response. ==Variants== ===Heavy Centaur=== The basic heavy centaur is much like the regular centaur, but with better firepower and protection. It has an extra 200MJ shield slot, but, more importantly, it has a largely improved energy reserve and recharge rates, giving it much better damage potential. In terms of speed it is slightly slower. While the standard version packs a nasty punch for its size it does suffer from low top speed which is comparable to many [[M7]] class craft. If it enters a heavy firefight it does not lend itself well to conventional escape; it must rely on its Jumpdrive. ===Heavy Centaur Prototype=== Built for testing before full production, this design proved to be far too expensive and sacrifices were made to its engines, shield and laser batteries to reduce production costs. Some examples can still be seen flying in space, but are operated by the Argon military and are not for sale. It eliminates the major flaw of the standard design; instead of being relatively slow for an [[M6]] it is one of the fastest. This version is favored by players because of its speed and versatility, however its cargo space is even more limited. ==Physical Characteristics== Apart from having similar lines, the design team threw out the original hull and started anew. Its main characteristics is its vastly increased engine/thruster design, rotating radar/Ldar scanner array and moving twin barrelled turrets on both port/starboard and aft behind the conning tower. Note the bridge/pilot is situated on the front of the conning tower and not on the front prow (unlike the original centaur). == Combat == The ship's most major flaw is a blindspot directly below its undercarriage which its turrets cannot bear on. Using the roll thrusters is a quick and effective way around this problem, and when used to good effect, the Heavy Centaur will have the upper hand against most ships in its class and all ships it outclasses. Much like the [[Centaur]], the ability to fit [[Plasma Burst Generator|Plasma Burst Generators]] can often provide fearsome offensive potential well in excess of most M6/M6+ vessels. As an improvement over the [[Centaur]], the Heavy variant can fit them on '''every''' turret, making the ship incredibly lethal to frigates, and over time, just as lethal to capitals that outclass it. The only trade-off is a loss of 2 frontal turrets, compared with the Centaur. However, this is counterbalanced by the fact that now, when passing a ship or strafing by it, the pilot can continue raining down plasma fire. A Heavy Centaur fitted with nothing but PBGs can destroy a Xenon Q in short order, and many other capitals that have blind spots or otherwise easily dodged weaponry. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] *[[Hornet Missile]] | *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] *[[Hurricane Missile]] | *[[Cyclone Missile]] *[[Tornado Missile]] *[[Typhoon Missile]] *[[Firestorm Torpedo]] *[[Aurora Missile]] | *[[Remote Guided Warhead]] *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] | *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == Heavy Centaur basic variant can be purchased from the [[Argon Federal Shipyard]] in [[Legend's Home]]. The Prototype variant of the Heavy Centaur is a reward for reaching rank 10 with either [[Plutarch]] or [[Jonferco]]. == Suggested Roles== Because of its impressive range of weapons choice and turret coverage, it can be made as a pure anti corvette or a pure anti fighter class of M6. With specific fittings, it can take on some capital vessels as well (see above section: Combat) '''''Excels as:''''' Anti-Fighter Vessel Anti-Corvette Vessel '''''Good as:''''' Freighter Escort OOS Patrol ship '''''Poor as:''''' Anti Capital ship vessel (with exceptions, see above section: Combat) Lone Vessel Refueling ship Jump-Drive ship (Due to the low cargo capacity, although its capacity still allows a moderate amount of jumping around/turbo-boosting before refueling is needed) Missile frigate == See Also== *[[Centaur|Argon Centaur]] {{M6+}} {{Argon Navbox}}
+==Variants==
+===Heavy Centaur===
+The basic heavy centaur is much like the regular centaur, but with better firepower and protection. It has an extra 200MJ shield slot, but, more importantly, it has a largely improved energy reserve and recharge rates, giving it much better damage potential. In terms of speed it is slightly slower. While the standard version packs a nasty punch for its size it does suffer from low top speed which is comparable to many [[M7]] class craft. If it enters a heavy firefight it does not lend itself well to conventional escape; it must rely on its Jumpdrive.
+
+===Heavy Centaur Prototype===
+Built for testing before full production, this design proved to be far too expensive and sacrifices were made to its engines, shield and laser batteries to reduce production costs. Some examples can still be seen flying in space, but are operated by the Argon military and are not for sale. It eliminates the major flaw of the standard design; instead of being relatively slow for an [[M6]] it is one of the fastest. This version is favored by players because of its speed and versatility, however its cargo space is even more limited.
+
+==Physical Characteristics==
+Apart from having similar lines, the design team threw out the original hull and started anew. Its main characteristics is its vastly increased engine/thruster design, rotating radar/Ldar scanner array and moving twin barrelled turrets on both port/starboard and aft behind the conning tower. Note the bridge/pilot is situated on the front of the conning tower and not on the front prow (unlike the original centaur).
+
+== Combat ==
+The ship's most major flaw is a blindspot directly below its undercarriage which its turrets cannot bear on. Using the roll thrusters is a quick and effective way around this problem, and when used to good effect, the Heavy Centaur will have the upper hand against most ships in its class and all ships it outclasses. Much like the [[Centaur]], the ability to fit [[Plasma Burst Generator|Plasma Burst Generators]] can often provide fearsome offensive potential well in excess of most M6/M6+ vessels. As an improvement over the [[Centaur]], the Heavy variant can fit them on '''every''' turret, making the ship incredibly lethal to frigates, and over time, just as lethal to capitals that outclass it. The only trade-off is a loss of 2 frontal turrets, compared with the Centaur. However, this is counterbalanced by the fact that now, when passing a ship or strafing by it, the pilot can continue raining down plasma fire. A Heavy Centaur fitted with nothing but PBGs can destroy a Xenon Q in short order, and many other capitals that have blind spots or otherwise easily dodged weaponry.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+*[[Hornet Missile]]
+|
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+*[[Hurricane Missile]]
+|
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Typhoon Missile]]
+*[[Firestorm Torpedo]]
+*[[Aurora Missile]]
+|
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+|
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+== Availability ==
+Heavy Centaur basic variant can be purchased from the [[Argon Federal Shipyard]] in [[Legend's Home]].
+
+The Prototype variant of the Heavy Centaur is a reward for reaching rank 10 with either [[Plutarch]] or [[Jonferco]].
+
+== Suggested Roles==
+Because of its impressive range of weapons choice and turret coverage, it can be made as a pure anti corvette or a pure anti fighter class of M6. With specific fittings, it can take on some capital vessels as well (see above section: Combat)
+
+'''''Excels as:'''''
+
+Anti-Fighter Vessel
+
+Anti-Corvette Vessel
+
+'''''Good as:'''''
+
+Freighter Escort
+
+OOS Patrol ship
+
+'''''Poor as:'''''
+
+Anti Capital ship vessel (with exceptions, see above section: Combat)
+
+Lone Vessel
+
+Refueling ship
+
+Jump-Drive ship (Due to the low cargo capacity, although its capacity still allows a moderate amount of jumping around/turbo-boosting before refueling is needed)
+
+Missile frigate
+
+== See Also==
+*[[Centaur|Argon Centaur]]
+
+{{M6+}}
+{{Argon Navbox}}

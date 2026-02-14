@@ -1,3 +1,22 @@
-<!-- source file: index__q806bbbde3e45.html -->
+{{Infobox open}}
+{{Infobox factory
+|faction=Terran
+|station=Hull Plating Production Facility
+|hull=2000000
+|shield=15
+|generator=1500
+|hangar=10
+|cycle=00:01:12
+|productnum=[[Hull Plating]] (18)
+|stationprice=
+|reqresources=[[Energy Cells]] (41)<br>[[Terran MRE]] (7)<br>[[Ore]] (7)
+|optresources=[[Water]]
+}}
+{{Infobox close}}
 
-{{Infobox open}} {{Infobox factory |faction=Terran |station=Hull Plating Production Facility |hull=2000000 |shield=15 |generator=1500 |hangar=10 |cycle=00:01:12 |productnum=[[Hull Plating]] (18) |stationprice= |reqresources=[[Energy Cells]] (41)&lt;br>[[Terran MRE]] (7)&lt;br>[[Ore]] (7) |optresources=[[Water]] }} {{Infobox close}} ==Overview== Hull Plating Facilities are Terran factories that produce [[Hull Plating]] from [[Energy Cells]], [[Terran MRE]] and [[Ore]]. NPC stations will buy [[Water]] as a secondary resource. ===Encyclopedia Entry=== The Hull Plating Production Facility is central to the Terran defense industry and forms an important part of the overall economy since the demand for military ships has gone through the roof in recent years.
+==Overview==
+Hull Plating Facilities are Terran factories that produce [[Hull Plating]] from [[Energy Cells]], [[Terran MRE]] and [[Ore]]. 
+
+NPC stations will buy [[Water]] as a secondary resource.
+===Encyclopedia Entry===
+The Hull Plating Production Facility is central to the Terran defense industry and forms an important part of the overall economy since the demand for military ships has gone through the roof in recent years.

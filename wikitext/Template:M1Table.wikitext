@@ -1,3 +1,18 @@
-<!-- source file: index__q03550dbcde4f.html -->
+<noinclude>The template for [[M1]] ship table.[[category:Ship List Templates]]</noinclude>
 
-&lt;noinclude>The template for [[M1]] ship table.[[category:Ship List Templates]]&lt;/noinclude> {{Shipbox |Title = [[M1|M1 Ships]] |ArgonShips = [[Colossus]] |ATFShips = [[Odin]] • [[Woden]] |BoronShips = [[Shark]] |GonerShips = [[Aran]] • [[Mobile Repair Ship]] |Kha'akShips = [[Kha'ak Carrier]] • [[Hive Queen]] |OTASShips = none |ParanidShips = [[Zeus]] |PirateShips = [[Galleon]] |SplitShips = [[Raptor]] |TeladiShips = [[Condor]] |TerranShips = [[Deca|#deca]] • [[Tokyo]] |XenonShips = [[J]] |YakiShips = [[Hoshi]] • [[Shuri]] }}
+{{Shipbox
+|Title = [[M1|M1 Ships]]
+|ArgonShips = [[Colossus]]
+|ATFShips = [[Odin]] • [[Woden]]
+|BoronShips = [[Shark]]
+|GonerShips = [[Aran]] • [[Mobile Repair Ship]]
+|Kha'akShips = [[Kha'ak Carrier]] • [[Hive Queen]]
+|OTASShips = none
+|ParanidShips = [[Zeus]]
+|PirateShips = [[Galleon]]
+|SplitShips = [[Raptor]]
+|TeladiShips = [[Condor]]
+|TerranShips =  [[Deca|#deca]] • [[Tokyo]]
+|XenonShips = [[J]]
+|YakiShips = [[Hoshi]] • [[Shuri]]
+}}

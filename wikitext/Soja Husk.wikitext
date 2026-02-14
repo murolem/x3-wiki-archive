@@ -1,3 +1,64 @@
-<!-- source file: index__q5b43910d6bdf.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Soja Husk
+|cargoclass=S
+|volume=4
+|minprice=204
+|aveprice=364
+|maxprice=524
+}}
+{{Infobox close}}
+==Overview==
+Soja Husk is the dried and processed form of the Soja Bean. it is the number one food in the [[Paranid]] territory. It can be mixed with many different indigenous things to produce a wide variety of flavors. Soja Husk is produced in factories called Soyeries.
+==Commentary==
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Soyery]]
+|
+*Paranid [[Chip Plant]]
+*Paranid [[Cluster Flak Array Forge]]
+*Paranid [[Computer Plant]]
+*Paranid [[Concussion Impulse Generator Forge]]
+*Paranid [[Crystal Fab]]
+*Paranid [[Dumbfire Missile Production Complex]]
+*Paranid [[Flail Missile Production Facility]]
+*Paranid [[Hammer Torpedo Fabrication Facility]]
+*Paranid [[Heavy Shield Production Complex]]
+*Paranid [[Heavy Weapons Complex]]
+*Paranid [[High Energy Plasma Thrower Forge]]
+*Paranid [[High Yield Production Complex]]
+*Paranid [[Image Recognition Production Complex]]
+*Paranid [[Impulse Ray Emitter Forge]]
+*Paranid [[Lasertower Factory]]
+*Paranid [[Light Shield Production Complex]]
+*Paranid [[Light Weapons Complex]]
+*Paranid [[Low-yield Sidearms Fab]]
+*Paranid [[Medium Shield Production Complex]]
+*Paranid [[Mobile Drilling System Factory]]
+*Paranid [[Particle Accelerator Cannon Forge]]
+*Paranid [[Phased Repeater Gun Forge]]
+*[[Phased Shockwave Generator Forge]]
+*[[Photon Pulse Cannon Forge]]
+*Paranid [[Quantum Tube Fab]]
+*Paranid [[Satellite Factory]]
+*Paranid [[Seeker Missile Production Complex]]
+*Paranid [[Shield Production Facility 1MJ]]
+*Paranid [[SQUASH Mine Factory]]
+*Paranid [[Swarm Missile Production Complex]]
+*Paranid [[Tomahawk Missile Manufacturing Plant]]
+*Paranid [[Tracker Mine Factory]]
+*[[Tractor Beam Factory]]
+|
+*[[Bofu Chemical Lab]]
+*[[Massom Mill]]
+*[[Stott Mixery]]
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}
+{{Warecategory}}
+{{Waretable}}
 
-{{Infobox open}} {{Infobox ware |ware= Soja Husk |cargoclass=S |volume=4 |minprice=204 |aveprice=364 |maxprice=524 }} {{Infobox close}} ==Overview== Soja Husk is the dried and processed form of the Soja Bean. it is the number one food in the [[Paranid]] territory. It can be mixed with many different indigenous things to produce a wide variety of flavors. Soja Husk is produced in factories called Soyeries. ==Commentary== ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Soyery]] | *Paranid [[Chip Plant]] *Paranid [[Cluster Flak Array Forge]] *Paranid [[Computer Plant]] *Paranid [[Concussion Impulse Generator Forge]] *Paranid [[Crystal Fab]] *Paranid [[Dumbfire Missile Production Complex]] *Paranid [[Flail Missile Production Facility]] *Paranid [[Hammer Torpedo Fabrication Facility]] *Paranid [[Heavy Shield Production Complex]] *Paranid [[Heavy Weapons Complex]] *Paranid [[High Energy Plasma Thrower Forge]] *Paranid [[High Yield Production Complex]] *Paranid [[Image Recognition Production Complex]] *Paranid [[Impulse Ray Emitter Forge]] *Paranid [[Lasertower Factory]] *Paranid [[Light Shield Production Complex]] *Paranid [[Light Weapons Complex]] *Paranid [[Low-yield Sidearms Fab]] *Paranid [[Medium Shield Production Complex]] *Paranid [[Mobile Drilling System Factory]] *Paranid [[Particle Accelerator Cannon Forge]] *Paranid [[Phased Repeater Gun Forge]] *[[Phased Shockwave Generator Forge]] *[[Photon Pulse Cannon Forge]] *Paranid [[Quantum Tube Fab]] *Paranid [[Satellite Factory]] *Paranid [[Seeker Missile Production Complex]] *Paranid [[Shield Production Facility 1MJ]] *Paranid [[SQUASH Mine Factory]] *Paranid [[Swarm Missile Production Complex]] *Paranid [[Tomahawk Missile Manufacturing Plant]] *Paranid [[Tracker Mine Factory]] *[[Tractor Beam Factory]] | *[[Bofu Chemical Lab]] *[[Massom Mill]] *[[Stott Mixery]] | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}} {{Waretable}} {{Paranid Navbox}}
+{{Paranid Navbox}}

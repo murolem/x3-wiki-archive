@@ -1,3 +1,19 @@
-<!-- source file: index__qdd611cc09909.html -->
+{{Infobox Sector
+|Race=Xenon 
+|SecLevel=Border
+|Population=20,384,544
+|Planets=2
+|SunLevel=150
+|GateDist=80
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|	1000|	42320|[[Scale Plate Green]]}}
+{{Gateblock2|West|-40320|	0|	0|[[Eighteen Billion]]}}
+{{Gateblock/End}}
+}}
+==Description==
+There is no data on this sector save that it contains a huge watery planet known bu the [[Boron]] as 'Saa-Russ' of 'Life of the Sea' which legend insisits in inhabited by giant sea dragons. Many ships have set out to explore this system, though very few have returned.
 
-{{Infobox Sector |Race=Xenon |SecLevel=Border |Population=20,384,544 |Planets=2 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0| 1000| 42320|[[Scale Plate Green]]}} {{Gateblock2|West|-40320| 0| 0|[[Eighteen Billion]]}} {{Gateblock/End}} }} ==Description== There is no data on this sector save that it contains a huge watery planet known bu the [[Boron]] as 'Saa-Russ' of 'Life of the Sea' which legend insisits in inhabited by giant sea dragons. Many ships have set out to explore this system, though very few have returned. ==Default [[Stations]]== *Xenon Station ==[[Asteroids]]==
+==Default [[Stations]]==
+*Xenon Station
+
+==[[Asteroids]]==

@@ -1,3 +1,17 @@
-<!-- source file: index__q39b3f3a92f1f.html -->
+Questline: [[x3ap_quests | X3:AP Quests]]
 
-Questline: [[x3ap_quests | X3:AP Quests]] You must help [[Jonferco]] with the threat. # Fly to [[Belt of Aguilar]] # Watch [[Jonferco Headquarters]] get destroyed # Clean out the sector of Terran presence ===Completion Rewards=== none(?) {{MoveBox|X3ap:3_Highway_Patrol|X3ap:5 Protecting the Heavy load transporter}}
+
+You must help [[Jonferco]] with the threat.
+
+# Fly to [[Belt of Aguilar]]
+# Watch [[Jonferco Headquarters]] get destroyed
+# Clean out the sector of Terran presence
+
+
+===Completion Rewards===
+
+none(?)
+
+
+
+{{MoveBox|X3ap:3_Highway_Patrol|X3ap:5 Protecting the Heavy load transporter}}

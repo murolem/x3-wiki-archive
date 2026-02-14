@@ -1,3 +1,147 @@
-<!-- source file: index__q456870740780.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=PX
+|Faction=Xenon
+|Class={{M6+class}}
+|Priceblock=
+|Minspeed=55
+|Maxspeed=126.5
+|Minaccel=6
+|Maxaccel=14
+|Minsteer=1.4
+|Maxsteer=4.2
+|Hull=48000 / 192000 (AP)
+|Maxshield=200 MJ
+|Shieldslots=4
+|Maxshieldstrength=800
+|Shieldreactor= 3450
+|Cargoclass=XL
+|Mincargo=750
+|Maxcargo=1150
+|Lasercap=15250
+|Laserrecharge=762 / 2000 (AP)
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=7
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=1|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=2
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=2
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+One of the most dangerous ships in its class, the PX is quick, tough and powerful. It has a large laser generator, one more weapon slot in its main than the [[Argon]] [[Heavy Centaur]] and [[Boron]] [[Heavy Hydra]], and boasts [[Pulsed Beam Emitter]] capable turrets with enviable coverage. Its appearance is similar to the [[Xenon P]], but it has more engines and a slightly larger hull. Its huge agility advantage is lost however, and it is more in line with its fellow [[M6+]]es. Like the Xenon J and K, is very quick/cheap to manufacture for its class, being an M6+ costing the same as the M6 Xenon P.
 
-{{Infobox open}} {{Infobox variant |Variant=PX |Faction=Xenon |Class={{M6+class}} |Priceblock= |Minspeed=55 |Maxspeed=126.5 |Minaccel=6 |Maxaccel=14 |Minsteer=1.4 |Maxsteer=4.2 |Hull=48000 / 192000 (AP) |Maxshield=200 MJ |Shieldslots=4 |Maxshieldstrength=800 |Shieldreactor= 3450 |Cargoclass=XL |Mincargo=750 |Maxcargo=1150 |Lasercap=15250 |Laserrecharge=762 / 2000 (AP) |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=7 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=0|us=1|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=1|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount=2 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Right |Guncount=2 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== One of the most dangerous ships in its class, the PX is quick, tough and powerful. It has a large laser generator, one more weapon slot in its main than the [[Argon]] [[Heavy Centaur]] and [[Boron]] [[Heavy Hydra]], and boasts [[Pulsed Beam Emitter]] capable turrets with enviable coverage. Its appearance is similar to the [[Xenon P]], but it has more engines and a slightly larger hull. Its huge agility advantage is lost however, and it is more in line with its fellow [[M6+]]es. Like the Xenon J and K, is very quick/cheap to manufacture for its class, being an M6+ costing the same as the M6 Xenon P. ==Background== Recently spotted on incursions from Xenon sectors, this heavily modified variant of the P represents a considerable step forward in Xenon manufacturing capability. ==Physical Characteristics== The PX looks very similar to the P except the frame is a bit more boxy and it has two more engines mounted at the top of the craft. == Combat == A dangerous foe, the PX is rarely encountered alone, generally found at the head of scouting parties or protecting [[Xenon]] capital craft. It should be avoided by light and medium fighters, and combated with extreme caution by heavy fighters and other corvettes. Its PBE turrets will shred anything trying to find a blindspot and its lethal main array will obliterate anything in front of it. Best fought at either long range or, in the case of other corvettes, very close range assuming the pilot is confident they can remain behind it. Compared to the regular P class the PX has about 50% larger maximum laser capacity, about 50% better laser recharge rate, 15% better shield recharge rate and 100% more maximum shielding and 50% more hull strength. The PX has better acceleration than its standard counterpart though slightly lower speed. Its major weakness is its poor turn rate compared to the standard P; at a maximum rate of 4.2 versus the P's 24.4. Overall it is much more suited to a heavy-duty firefight involving capital ships and other corvettes, but it is worse at standard patrolling or dealing with fighters. If you are lucky enough to capture one, they are useful in escort or player ship roles, as the AI should never be left unescorted. == Equipment == One of the few [[M6]] ships that can effectively use the mid-level weapons like the [[Ion Shard Railgun]] due to its good laser generator. Uses 4x200Mj shields. Often used with [[PBE]]s in the turrets and a mix of PBE/[[HEPT]] in the main. Occasionally even used with [[EMPC]] in the main, being curiously able to mount this highly efficient Terran alternative to the [[PAC]]/HEPT and achieve greater sustained firepower. {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] *[[Hornet Missile]] | *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] *[[Hurricane Missile]] | *[[Cyclone Missile]] *[[Tornado Missile]] *[[Typhoon Missile]] *[[Firestorm Torpedo]] *[[Aurora Missile]] | *[[Remote Guided Warhead]] *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] | *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == Board only - very difficult. == Suggested Roles== == See Also== *[[Xenon P]] {{M6+}}
+==Background==
+Recently spotted on incursions from Xenon sectors, this heavily modified variant of the P represents a considerable step forward in Xenon manufacturing capability.
+
+==Physical Characteristics==
+
+The PX looks very similar to the P except the frame is a bit more boxy and it has two more engines mounted at the top of the craft.
+
+== Combat ==
+A dangerous foe, the PX is rarely encountered alone, generally found at the head of scouting parties or protecting [[Xenon]] capital craft. It should be avoided by light and medium fighters, and combated with extreme caution by heavy fighters and other corvettes. Its PBE turrets will shred anything trying to find a blindspot and its lethal main array will obliterate anything in front of it. Best fought at either long range or, in the case of other corvettes, very close range assuming the pilot is confident they can remain behind it. 
+Compared to the regular P class the PX has about 50% larger maximum laser capacity, about 50% better laser recharge rate, 15% better shield recharge rate and 100% more maximum shielding and 50% more hull strength. The PX has better acceleration than its standard counterpart though slightly lower speed. Its major weakness is its poor turn rate compared to the standard P; at a maximum rate of 4.2 versus the P's 24.4. Overall it is much more suited to a heavy-duty firefight involving capital ships and other corvettes, but it is worse at standard patrolling or dealing with fighters.
+
+If you are lucky enough to capture one, they are useful in escort or player ship roles, as the AI should never be left unescorted.
+
+== Equipment ==
+One of the few [[M6]] ships that can effectively use the mid-level weapons like the [[Ion Shard Railgun]] due to its good laser generator. Uses 4x200Mj shields. Often used with [[PBE]]s in the turrets and a mix of PBE/[[HEPT]] in the main. Occasionally even used with [[EMPC]] in the main, being curiously able to mount this highly efficient Terran alternative to the [[PAC]]/HEPT and achieve greater sustained firepower.
+
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+*[[Hornet Missile]]
+|
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+*[[Hurricane Missile]]
+|
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Typhoon Missile]]
+*[[Firestorm Torpedo]]
+*[[Aurora Missile]]
+|
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+|
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+
+== Availability ==
+Board only - very difficult.
+
+== Suggested Roles==
+== See Also==
+*[[Xenon P]]
+
+{{M6+}}

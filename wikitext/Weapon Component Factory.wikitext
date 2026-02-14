@@ -1,3 +1,70 @@
-<!-- source file: index__q7eb3b2d9fa45.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Weapon Component Factory
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:01:12
+|productnum=8 [[Warheads]]
+|stationprice=
+|reqresources=[[Energy Cells]] (18) <br>[[Cloth Rimes]] (3) <br>[[Ore]] (3)
+|optresources=[[Food]] by race
+}}
+{{Infobox close}}
+==Overview==
+Weapon Component Factories produce [[Warheads]] from [[Energy Cells]], [[Cloth Rimes]] and [[Ore]]. 
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction= |station=Weapon Component Factory |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:01:12 |productnum=8 [[Warheads]] |stationprice= |reqresources=[[Energy Cells]] (18) &lt;br>[[Cloth Rimes]] (3) &lt;br>[[Ore]] (3) |optresources=[[Food]] by race }} {{Infobox close}} ==Overview== Weapon Component Factories produce [[Warheads]] from [[Energy Cells]], [[Cloth Rimes]] and [[Ore]]. NPC stations will buy [[Food]] as a secondary resource. ===Encyclopedia Entry=== The weapon component factory manufactures a wide range of warheads that suit many different missiles. Each factory is heavily protected and well guarded, and its buildings are well armoured. The warheads are manufactured on a series of automated production lines before being carefully stored ready for transportation. ==Race-specific attributes== {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |+'''Weapon Component Factory''' |-style="background-color:LightGray;text-align:center;" !Race!!Station Cost |- style="{{Colour/Argon}}" | [[Argon]] || {{Priceblock|Trusted Ally|720656}} |- style="{{Colour/Boron}}" | [[Boron]] || {{Priceblock|Queen's Guard|655732}} |- style="{{Colour/Paranid}}" | [[Paranid]] || {{Priceblock|Friend of Priest King|623268}} |- style="{{Colour/Split}}" | [[Split]] || {{Priceblock|Distinguished Associate|688192}} |- style="{{Colour/Teladi}}" | [[Teladi]] || {{Priceblock|Majority Shareholder|655732}} |} ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Argon#Shipyards|Argon]]''' *{{sa|Argon Prime}} *{{sa|Cloudbase Southeast}} *{{sa|Legend's Home}} *{{sa|Argon Sector M148}} | '''[[Boron#Shipyards|Boron]]''' *{{sa|Great Reef}} *{{sa|Queen's Retribution}} | '''[[Paranid#Shipyards|Paranid]]''' *{{sa|Cardinal's Domain}} *{{sa|Heaven's Assertion}} *{{sa|Paranid Prime}} *{{sa|Third Redemption}} | '''[[Teladi#Shipyards|Teladi]]''' *{{sa|Ceo's Sprite}} *{{sa|Seizewell}} | '''[[Split#Shipyards|Split]]''' *{{sa|Family Pride}} *{{sa|Rhonkar's Might}} *{{sa|Zyarth's Dominion}} *{{sa|Rhonkar's Trial}} *{{sa|Family Rhy}} *{{sa|Patriarch's Conclusion}} |} {{Stationcategory}}
+NPC stations will buy [[Food]] as a secondary resource.
+
+===Encyclopedia Entry===
+The weapon component factory manufactures a wide range of warheads that suit many different missiles. Each factory is heavily protected and well guarded, and its buildings are well armoured.
+
+The warheads are manufactured on a series of automated production lines before being carefully stored ready for transportation. 
+==Race-specific attributes==
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|+'''Weapon Component Factory'''
+|-style="background-color:LightGray;text-align:center;"
+!Race!!Station Cost
+|- style="{{Colour/Argon}}"
+| [[Argon]] || {{Priceblock|Trusted Ally|720656}}
+|- style="{{Colour/Boron}}"
+| [[Boron]] || {{Priceblock|Queen's Guard|655732}}
+|- style="{{Colour/Paranid}}"
+| [[Paranid]] || {{Priceblock|Friend of Priest King|623268}}
+|- style="{{Colour/Split}}"
+| [[Split]] || {{Priceblock|Distinguished Associate|688192}}
+|- style="{{Colour/Teladi}}"
+| [[Teladi]] || {{Priceblock|Majority Shareholder|655732}}
+|}
+==Availability==
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Argon#Shipyards|Argon]]'''
+*{{sa|Argon Prime}}
+*{{sa|Cloudbase Southeast}}
+*{{sa|Legend's Home}}
+*{{sa|Argon Sector M148}}
+| '''[[Boron#Shipyards|Boron]]'''
+*{{sa|Great Reef}}
+*{{sa|Queen's Retribution}}
+| '''[[Paranid#Shipyards|Paranid]]'''
+*{{sa|Cardinal's Domain}}
+*{{sa|Heaven's Assertion}}
+*{{sa|Paranid Prime}}
+*{{sa|Third Redemption}}
+| '''[[Teladi#Shipyards|Teladi]]'''
+*{{sa|Ceo's Sprite}}
+*{{sa|Seizewell}}
+| '''[[Split#Shipyards|Split]]'''
+*{{sa|Family Pride}}
+*{{sa|Rhonkar's Might}}
+*{{sa|Zyarth's Dominion}}
+*{{sa|Rhonkar's Trial}}
+*{{sa|Family Rhy}}
+*{{sa|Patriarch's Conclusion}}
+|}
+
+{{Stationcategory}}

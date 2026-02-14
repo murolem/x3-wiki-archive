@@ -1,3 +1,31 @@
-<!-- source file: index__qc15daa50907f.html -->
+A [[Missions#Other Mission|Mission]] offered at [[stations]].
 
-A [[Missions#Other Mission|Mission]] offered at [[stations]]. ==Objective== This is where a client offers you a mission to follow a ship that is a company rival or has stolen something. You have to find out where the ship is headed to by following it. He will travel through a few sectors. ==General difficulty== These missions are easy if you have the right ship. A little harder with the wrong ship. ==What you will need== * A souped up [[M5]] or a ship with a [[jumpdrive]] if you have the patience and energy cells to jump from sector to sector keeping an eye on him all the time. ==What you will find== * A fighter class ship that you must tail, potentially a faster M5. * Sometimes you will face spawned pirates or Xenon (which is ironic in the case of the latter, since Xenon don't take orders from anybody and will attack anybody) sent to protect the ship you are following. The ships spawned depend on the ship you are using. ==Commentary and strategy== Usually a rather time-consuming mission compared to the reward, but it does have the advantage of not requiring docking at any station, thus it allows building rep with hostile factions. The target ship will become wary if you get too close (less than 8km). If you get too close for too long a period, mission fails. Get too far, typically more than 22km, mission fails. So stay approximately 10-15 km from the ship with the ship targeted. The targets destination can be seen in the ship info window. He will dock at a station and if you have followed him to this point you will finish the mission and get your reward. If you face a group of opponents who spawn to throw you off the scent, they will usually jump out of a Gate in front of you two Sectors before the destination just as the target flies through. Try to avoid getting caught up by them; unless you can dispatch them within a couple of seconds your target will get away and you'll fail the mission. The match speed keys (Shift-F by default) are your friends on these missions. Sometimes, when near a Xenon-infested sector, the target will eventually decide that it will go over there just to get to its destined place. Unfortunately, this turns out to be a ''very'' bad idea for both parties involved as Xenon ships will quickly make mincemeat out of any ship thanks to their frighteningly powerful arsenal and implacable persistence, and thus the mission will most likely fail because of the target's idea to go there in the first place. If this happens, simply resist the temptation to do this mission unless if you're working for a particular corporation (such as the NMMC); you won't have any other choice but to take it. {{Missions}}
+==Objective==
+
+This is where a client offers you a mission to follow a ship that is a company rival or has stolen something. You have to find out where the ship is headed to by following it. He will travel through a few sectors.
+
+==General difficulty==
+These missions are easy if you have the right ship. A little harder with the wrong ship.
+
+==What you will need==
+
+* A souped up [[M5]] or a ship with a [[jumpdrive]] if you have the patience and energy cells to jump from sector to sector keeping an eye on him all the time. 
+
+==What you will find==
+
+* A fighter class ship that you must tail, potentially a faster M5.
+* Sometimes you will face spawned pirates or Xenon (which is ironic in the case of the latter, since Xenon don't take orders from anybody and will attack anybody) sent to protect the ship you are following. The ships spawned depend on the ship you are using.
+
+==Commentary and strategy==
+
+Usually a rather time-consuming mission compared to the reward, but it does have the advantage of not requiring docking at any station, thus it allows building rep with hostile factions.
+
+The target ship will become wary if you get too close (less than 8km). If you get too close for too long a period, mission fails. Get too far, typically more than 22km, mission fails. So stay approximately 10-15 km from the ship with the ship targeted. The targets destination can be seen in the ship info window. He will dock at a station and if you have followed him to this point you will finish the mission and get your reward.
+
+If you face a group of opponents who spawn to throw you off the scent, they will usually jump out of a Gate in front of you two Sectors before the destination just as the target flies through. Try to avoid getting caught up by them; unless you can dispatch them within a couple of seconds your target will get away and you'll fail the mission.
+
+The match speed keys (Shift-F by default) are your friends on these missions.
+
+Sometimes, when near a Xenon-infested sector, the target will eventually decide that it will go over there just to get to its destined place. Unfortunately, this turns out to be a ''very'' bad idea for both parties involved as Xenon ships will quickly make mincemeat out of any ship thanks to their frighteningly powerful arsenal and implacable persistence, and thus the mission will most likely fail because of the target's idea to go there in the first place. If this happens, simply resist the temptation to do this mission unless if you're working for a particular corporation (such as the NMMC); you won't have any other choice but to take it.
+
+{{Missions}}

@@ -1,3 +1,13 @@
-<!-- source file: index__qa42e8e59b157.html -->
+==Overview==
+One of the five possible sector names a player gets to choose from at the end of the [[A New Home]] [[missions]]. It is located north of the [[Unknown Sector (20,5)]] east of [[Zyarth's Dominion]].
 
-==Overview== One of the five possible sector names a player gets to choose from at the end of the [[A New Home]] [[missions]]. It is located north of the [[Unknown Sector (20,5)]] east of [[Zyarth's Dominion]]. ==Appearance== Upon entering the sector, the player sees a white sun, and what appears to be two planets. The largest planet being rather rocky and barren looking, the other being what seems to look like a blue, water-abundant planet. As the player looks around they will see a much larger, cloud-filled planet, somewhat resembling XylaXaar in the sector, Emperor Mines. The rest of the system contains a kind of "rust brown/green" like nebula. http://i55.tinypic.com/j5f6rn.jpg ==Asteroid/s== This sector contains approx. 27 asteroids for the player's own uses. Out of all of the possible player owned sectors, CEO's Wellspring has the most ore, but has the second least amount of silicon. However, the Unknown Sector south of it contains asteroids of varying yields in case this isn't enough for you. ==Sun/s== As with all other possible sector choices, CEO's Wellspring contains 300% sun. (2 separate suns)
+==Appearance==
+Upon entering the sector, the player sees a white sun, and what appears to be two planets. The largest planet being rather rocky and barren looking, the other being what seems to look like a blue, water-abundant planet. As the player looks around they will see a much larger, cloud-filled planet, somewhat resembling XylaXaar in the sector, Emperor Mines. The rest of the system contains a kind of "rust brown/green" like nebula.
+
+http://i55.tinypic.com/j5f6rn.jpg
+
+==Asteroid/s==
+This sector contains approx. 27 asteroids for the player's own uses. Out of all of the possible player owned sectors, CEO's Wellspring has the most ore, but has the second least amount of silicon. However, the Unknown Sector south of it contains asteroids of varying yields in case this isn't enough for you.
+
+==Sun/s==
+As with all other possible sector choices, CEO's Wellspring contains 300% sun. (2 separate suns)

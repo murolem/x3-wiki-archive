@@ -1,3 +1,8 @@
-<!-- source file: index__qb1c3b60c0fb5.html -->
-
-{| class="wikitable" style="text-align:center;" width="100%" |- | style="background-color:#CCCCFF;" | List of '''[[Missions]]''' |} {{Plot Missions}} {{Other Missions}} {{Offers}} [[Category:Missions]]
+{| class="wikitable" style="text-align:center;" width="100%"
+|- 
+| style="background-color:#CCCCFF;" | List of '''[[Missions]]'''
+|}
+{{Plot Missions}}
+{{Other Missions}}
+{{Offers}}
+[[Category:Missions]]

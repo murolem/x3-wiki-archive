@@ -1,3 +1,60 @@
-<!-- source file: index__q0c801936ce2f.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Tomahawk Missile Manufacturing Plant
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:20:00
+|productnum=[[Tomahawk Heavy Missile]] (3)
+|stationprice=
+|reqresources=[[Energy Cells]] ()<br>[[Ore]] ()<br>[[Silicon Wafers]] ()<br>[[Food]] by Race
+|optresources=[[Cloth Rimes]]<br>[[Warheads]]
+}}
+{{Infobox close}}
+==Overview==
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction= |station=Tomahawk Missile Manufacturing Plant |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:20:00 |productnum=[[Tomahawk Heavy Missile]] (3) |stationprice= |reqresources=[[Energy Cells]] ()&lt;br>[[Ore]] ()&lt;br>[[Silicon Wafers]] ()&lt;br>[[Food]] by Race |optresources=[[Cloth Rimes]]&lt;br>[[Warheads]] }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== This production facility manufactures the Tomahawk Heavy Missile. ==Race-specific attributes== {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |+'''Tomahawk Missile Manufacturing Plant''' |-style="background-color:LightGray;text-align:center;" !Race!!Food!!Amount!!Station Cost |- style="{{Colour/Argon}}" | [[Argon]] || [[Meatsteak Cahoonas]] || || {{Priceblock|Trusted Ally|2876128}} |- style="{{Colour/Boron}}" | [[Boron]] || [[Bofu]] || ||{{Priceblock|Queen's Guard|2876128}} |- style="{{Colour/Paranid}}" | [[Paranid]] || [[Soja Husk]] || ||{{Priceblock|Friend of Priest King|2876128}} |- style="{{Colour/Split}}" | [[Split]] || [[Rastar Oil]] || ||{{Priceblock|Distinguished Associate|2876128}} |- style="{{Colour/Teladi}}" | [[Teladi]] || [[Nostrop Oil]] || || {{Priceblock|Majority Shareholder|2876128}} |} ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Argon#Shipyards|Argon]]''' *{{sa|Cloudbase Southeast}} *{{sa|Legend's Home}} | '''[[Boron#Shipyards|Boron]]''' *{{sa|Queen's Retribution}} | '''[[Paranid#Shipyards|Paranid]]''' *{{sa|Heaven's Assertion}} *{{sa|Third Redemption}} | '''[[Split#Shipyards|Split]]''' *{{sa|Patriarch's Conclusion}} *{{sa|Rhonkar's Trial}} *{{sa|Zyarth's Dominion}} *{{sa|Zyarth's Stand}} | '''[[Teladi#Shipyards|Teladi]]''' *{{sa|Ceo's Sprite}} |} {{Stationcategory}} [[Category:Factories]]
+===Encyclopedia Entry===
+This production facility manufactures the Tomahawk Heavy Missile.
+
+==Race-specific attributes==
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|+'''Tomahawk Missile Manufacturing Plant'''
+|-style="background-color:LightGray;text-align:center;"
+!Race!!Food!!Amount!!Station Cost
+|- style="{{Colour/Argon}}"
+| [[Argon]] || [[Meatsteak Cahoonas]] || || {{Priceblock|Trusted Ally|2876128}}
+|- style="{{Colour/Boron}}"
+| [[Boron]] || [[Bofu]] || ||{{Priceblock|Queen's Guard|2876128}}
+|- style="{{Colour/Paranid}}"
+| [[Paranid]] || [[Soja Husk]] || ||{{Priceblock|Friend of Priest King|2876128}}
+|- style="{{Colour/Split}}"
+| [[Split]] || [[Rastar Oil]] || ||{{Priceblock|Distinguished Associate|2876128}}
+|- style="{{Colour/Teladi}}"
+| [[Teladi]] || [[Nostrop Oil]] || || {{Priceblock|Majority Shareholder|2876128}}
+|}
+
+==Availability==
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Argon#Shipyards|Argon]]'''
+*{{sa|Cloudbase Southeast}}
+*{{sa|Legend's Home}}
+| '''[[Boron#Shipyards|Boron]]'''
+*{{sa|Queen's Retribution}}
+| '''[[Paranid#Shipyards|Paranid]]'''
+*{{sa|Heaven's Assertion}}
+*{{sa|Third Redemption}}
+| '''[[Split#Shipyards|Split]]'''
+*{{sa|Patriarch's Conclusion}}
+*{{sa|Rhonkar's Trial}}
+*{{sa|Zyarth's Dominion}}
+*{{sa|Zyarth's Stand}}
+| '''[[Teladi#Shipyards|Teladi]]'''
+*{{sa|Ceo's Sprite}}
+|}
+
+{{Stationcategory}}
+[[Category:Factories]]

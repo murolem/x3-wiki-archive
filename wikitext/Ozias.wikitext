@@ -1,3 +1,52 @@
-<!-- source file: index__qcf53d1147856.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Ozias
+|Faction=Goner
+|Class={{TLclass}}
+|Priceblock=
+|Minspeed=56.3
+|Maxspeed=112.6
+|Minaccel=8
+|Maxaccel=16
+|Minsteer=0.2
+|Maxsteer=0.3
+|Hull=160000
+|Maxshield=200 MJ
+|Shieldslots=8
+|Maxshieldstrength=1600
+|Shieldreactor= 3200
+|Cargoclass=ST
+|Mincargo=50000
+|Maxcargo=52500
+|Lasercap=0
+|Laserrecharge=0
+|Gunbay=
+|Dockbay={{Dockbay|12 [[TP]]-[[TS]]}}
+}}
+{{Infobox close}}
+==Overview==
+In keeping with their pacifistic creed, the Goners chose not to arm the Ozias class ship. They did, however, make it one of the best [[TL]]s in its class. The Ozias has reasonably big cargo space, great shielding (the highest in the class) and good speed, making it theoretically one of the most useful TLs.  However, there is no way to acquire one in an unmodified TC game, as it is not available for purchase and cannot be captured. You can capture it in AP.
 
-{{Infobox open}} {{Infobox variant |Variant=Ozias |Faction=Goner |Class={{TLclass}} |Priceblock= |Minspeed=56.3 |Maxspeed=112.6 |Minaccel=8 |Maxaccel=16 |Minsteer=0.2 |Maxsteer=0.3 |Hull=160000 |Maxshield=200 MJ |Shieldslots=8 |Maxshieldstrength=1600 |Shieldreactor= 3200 |Cargoclass=ST |Mincargo=50000 |Maxcargo=52500 |Lasercap=0 |Laserrecharge=0 |Gunbay= |Dockbay={{Dockbay|12 [[TP]]-[[TS]]}} }} {{Infobox close}} ==Overview== In keeping with their pacifistic creed, the Goners chose not to arm the Ozias class ship. They did, however, make it one of the best [[TL]]s in its class. The Ozias has reasonably big cargo space, great shielding (the highest in the class) and good speed, making it theoretically one of the most useful TLs. However, there is no way to acquire one in an unmodified TC game, as it is not available for purchase and cannot be captured. You can capture it in AP. ==Background== ===Encyclopedia Entry=== Since the settlement of [[Elysium of Light]] by the Goner, the TL Ozias, a gift from the Federal Argon Government, has been key to Goner installation development. ==Physical Characteristics== The Ozias has a decidedly unique appearance. It is comprised of a thin rod running the length of its hull, with hollow cylinders attached over an energy beam in the middle. It has a somewhat normal bridge in front and a trio of ovular engines in a triangle patter. It has bright yellow lighting; a feature instantly recognizable as Goner and one it shares with the [[Aran]] == Combat == The Ozias is completely unarmed and cannot even fire missiles in defense. It can, however, dock up to 12 fighters, allowing it to carry a modest escort. == Equipment == The Ozias cannot carry any missiles. == Availability == The Ozias is not available for purchase or capture in X3: Terran Conflict. It is only seen in Terran Conflict as part of the Goner plot. In Albion Prelude 3.0 or 3.1 you can safely board it during "Shady Business" plot (it's an "evil" choice which will lead to war going on). Alternatively you can use this exploit [http://forum.egosoft.com/viewtopic.php?t=344232|exploit] to simultaneously end the war and capture Ozias for yourself. == Suggested Roles== If the player acquires one through scripts, the Ozias makes a good complex building TL, as it has a large cargo bay and a good maximum speed. It should not be used in sector extensively, since its atrocious turning radius makes it difficult to maneuver. == See Also== *[[Aran|Goner Aran]] {{TL}} {{TLcategory}} [[Category:Not Purchasable]]
+==Background==
+===Encyclopedia Entry===
+Since the settlement of [[Elysium of Light]] by the Goner, the TL Ozias, a gift from the Federal Argon Government, has been key to Goner installation development.
+==Physical Characteristics==
+The Ozias has a decidedly unique appearance. It is comprised of a thin rod running the length of its hull, with hollow cylinders attached over an energy beam in the middle. It has a somewhat normal bridge in front and a trio of ovular engines in a triangle patter.  It has bright yellow lighting; a feature instantly recognizable as Goner and one it shares with the [[Aran]]
+== Combat ==
+The Ozias is completely unarmed and cannot even fire missiles in defense. It can, however, dock up to 12 fighters, allowing it to carry a modest escort.
+== Equipment ==
+The Ozias cannot carry any missiles.
+== Availability ==
+The Ozias is not available for purchase or capture in X3: Terran Conflict. It is only seen in Terran Conflict as part of the Goner plot.
+
+In Albion Prelude 3.0 or 3.1 you can safely board it during "Shady Business" plot (it's an "evil" choice which will lead to war going on).
+
+Alternatively you can use this exploit [http://forum.egosoft.com/viewtopic.php?t=344232|exploit] to simultaneously end the war and capture Ozias for yourself.
+
+== Suggested Roles==
+If the player acquires one through scripts, the Ozias makes a good complex building TL, as it has a large cargo bay and a good maximum speed. It should not be used in sector extensively, since its atrocious turning radius makes it difficult to maneuver.
+== See Also==
+*[[Aran|Goner Aran]]
+{{TL}}
+{{TLcategory}}
+[[Category:Not Purchasable]]

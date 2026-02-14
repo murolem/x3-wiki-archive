@@ -1,3 +1,6 @@
-<!-- source file: index__q787667927fdc.html -->
+This page holds links to pages categorized M5.
 
-This page holds links to pages categorized M5. The M5 is the light fighter or scout of the X universe. {{Shipcategory}} [[Category:Fighters]]
+The M5 is the light fighter or scout of the X universe.
+
+{{Shipcategory}}
+[[Category:Fighters]]

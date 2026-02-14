@@ -1,3 +1,64 @@
-<!-- source file: index__qce2326358e4c.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Argon
+|station=Cahoona Bakery L
+|hull=2000000
+|shield=15
+|generator=1500
+|hangar=5
+|cycle=00:01:00
+|productnum=[[Meatsteak Cahoonas]] (50)
+|stationprice={{Priceblock|Argon Accepted Advisor|2187480}}
+|reqresources=[[Energy Cells]] (75)<br>[[Argnu Beef]] (15)
+|optresources=[[Stott Spices]]
+}}
+{{Infobox factory
+|faction=Argon
+|station=Cahoona Bakery M
+|hull=800000
+|shield=10
+|generator=1500
+|hangar=5
+|cycle=00:01:00
+|productnum=[[Meatsteak Cahoonas]] (20)
+|stationprice={{Priceblock|Argon Accepted Advisor|874980}}
+|reqresources=[[Energy Cells]] (30)<br>[[Argnu Beef]] (6)
+|optresources=[[Stott Spices]]
+}}
+{{Infobox close}}
+==Overview==
+The Cahoona Bakery manufactures [[Argon]] [[Meatsteak Cahoonas]], an important raw material for the Argon economy, from [[Energy Cells]] and [[Argnu Beef]].
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Argon |station=Cahoona Bakery L |hull=2000000 |shield=15 |generator=1500 |hangar=5 |cycle=00:01:00 |productnum=[[Meatsteak Cahoonas]] (50) |stationprice={{Priceblock|Argon Accepted Advisor|2187480}} |reqresources=[[Energy Cells]] (75)&lt;br>[[Argnu Beef]] (15) |optresources=[[Stott Spices]] }} {{Infobox factory |faction=Argon |station=Cahoona Bakery M |hull=800000 |shield=10 |generator=1500 |hangar=5 |cycle=00:01:00 |productnum=[[Meatsteak Cahoonas]] (20) |stationprice={{Priceblock|Argon Accepted Advisor|874980}} |reqresources=[[Energy Cells]] (30)&lt;br>[[Argnu Beef]] (6) |optresources=[[Stott Spices]] }} {{Infobox close}} ==Overview== The Cahoona Bakery manufactures [[Argon]] [[Meatsteak Cahoonas]], an important raw material for the Argon economy, from [[Energy Cells]] and [[Argnu Beef]]. NPC factories require [[Delexian Wheat]] as a primary resource and will buy [[Stott Spices]] as a secondary resource. ===Encyclopedia Entry=== Cahoona Bakeries are huge orbit factories processing Argnu beef into meatsteaks. Armies of robots are needed to maintain the complex process. During more than a dozen stages the raw meat is slowly processed into the food product everybody knows as meatsteaks. It is a nutritious meat based food stuff that, when blended with Boron Spices, makes a diverse range of foods that suit the tastes of most races. The Argon blend Meatsteaks with Scruffin to create food specifically for the Split market in order to expand their trade. ==Availability== This factory is unique to the Argon. {| |- valign="top" | style="padding-right:5em;" | ===L-type=== {| style="text-align:left;" |- valign="top" *{{sa|Argon Prime}} *{{sa|Cloudbase Southeast}} *{{sa|Legend's Home}} |} | ===M-type=== {| style="text-align:left;" |- valign="top" *{{sa|Argon Prime}} *{{sa|Cloudbase Southeast}} *{{sa|Legend's Home}} *{{sa|Light of Heart}} |} |} {{Stationcategory}}
+NPC factories require [[Delexian Wheat]] as a primary resource and will buy [[Stott Spices]] as a secondary resource.
+
+===Encyclopedia Entry===
+Cahoona Bakeries are huge orbit factories processing Argnu beef into meatsteaks. Armies of robots are needed to maintain the complex process. During more than a dozen stages the raw meat is slowly processed into the food product everybody knows as meatsteaks.
+
+It is a nutritious meat based food stuff that, when blended with Boron Spices, makes a diverse range of foods that suit the tastes of most races. The Argon blend Meatsteaks with Scruffin to create food specifically for the Split market in order to expand their trade.
+
+==Availability==
+This factory is unique to the Argon.
+{|
+|- valign="top"
+| style="padding-right:5em;" |
+===L-type===
+{| style="text-align:left;"
+|- valign="top"
+*{{sa|Argon Prime}}
+*{{sa|Cloudbase Southeast}}
+*{{sa|Legend's Home}}
+|}
+
+|
+===M-type===
+{| style="text-align:left;"
+|- valign="top"
+*{{sa|Argon Prime}}
+*{{sa|Cloudbase Southeast}}
+*{{sa|Legend's Home}}
+*{{sa|Light of Heart}}
+|}
+|}
+
+{{Stationcategory}}

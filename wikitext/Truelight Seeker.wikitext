@@ -1,3 +1,89 @@
-<!-- source file: index__q67272f801501.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Truelight Seeker
+|Faction=Goner
+|Class={{M6class}}
+|Priceblock=
+|Minspeed=60
+|Maxspeed=138
+|Minaccel=5
+|Maxaccel=11
+|Minsteer=3.0
+|Maxsteer=8.7
+|Hull=50000 / 200000 (AP)
+|Maxshield=200 MJ
+|Shieldslots=2
+|Maxshieldstrength=400
+|Shieldreactor=250
+|Cargoclass=XL
+|Mincargo=750
+|Maxcargo=1250
+|Lasercap=10000
+|Laserrecharge=500
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=0|pac=1|hept=1|
+cig=1|ppc=1|
+md=1|us=0|prg=1|
+cfaa=1|pbc=1|id=1|
+ipg=1|ic=1|fbl=1|
+psg=1|tbc=1|ebc=1|
+faa=1|gc=1|pbe=1|
+isr=1|palc=1|pbg=1|ibl=1|
+empc=1|maml=1|ssc=1|psp=1|
+fbc=1|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+An unusual ship given as a quest reward by the [[Goner|Goners]]. It is compatible with nearly all weapon systems in the X-Universe.
 
-{{Infobox open}} {{Infobox variant |Variant=Truelight Seeker |Faction=Goner |Class={{M6class}} |Priceblock= |Minspeed=60 |Maxspeed=138 |Minaccel=5 |Maxaccel=11 |Minsteer=3.0 |Maxsteer=8.7 |Hull=50000 / 200000 (AP) |Maxshield=200 MJ |Shieldslots=2 |Maxshieldstrength=400 |Shieldreactor=250 |Cargoclass=XL |Mincargo=750 |Maxcargo=1250 |Lasercap=10000 |Laserrecharge=500 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=0|pac=1|hept=1| cig=1|ppc=1| md=1|us=0|prg=1| cfaa=1|pbc=1|id=1| ipg=1|ic=1|fbl=1| psg=1|tbc=1|ebc=1| faa=1|gc=1|pbe=1| isr=1|palc=1|pbg=1|ibl=1| empc=1|maml=1|ssc=1|psp=1| fbc=1|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== An unusual ship given as a quest reward by the [[Goner|Goners]]. It is compatible with nearly all weapon systems in the X-Universe. ==Background== The Truelight Seeker is a modified [[Goner]]-owned vessel. It is designed to assist other [[Goner]] vessels should they require aid. ==Physical Characteristics== The Truelight Seeker is similar in appearance and size to the [[Argon]] [[Centaur]], but with a wider, bulkier bow. == Combat == While relatively lightly armored for a [[M6]] class ship, the unusual variety of weapons allowed make the Truelight Seeker unusually lethal. The [[Gauss Cannon]] is typically only permitted on [[M1]] and [[M2]] class ships. Its high damage and long range, combined with the sustained fire capability allowed by its ammo requirement, make the Truelight Seeker a significant threat. However, permitted only 400 [[Shields|MJ]] in shielding and average [[M6]] speed, the Truelight Seeker is at a disadvantage in a slugging match, rendering it an eggshell armed with a sledgehammer. Against [[M6]] or smaller ships, a tactic available to the Truelight Seeker is to utilize the greater range allowed by its heavy guns to try to cripple enemies before they can get close enough to fight back, then retreating to a standoff position to finish them off. Against [[M7]], [[M2]] and [[M1]] ships, the Truelight Seeker must rely on its greater speed and much smaller profile to avoid fire, while replying with equivalent weapons. Against a swarm of [[M5]], [[M4]], and [[M3]] ships the Truelight Seeker may employ the [[Phased Shockwave Generator]], which is capable of covering a broad cone in front of the ship. In close quarters combat, the lack of independent turrets does hurt as it is unable to defend itself against attacks in multiple directions. == Equipment == *[[Wasp Missile]] *[[Silkworm Missile]] *[[Disruptor Missile]] *[[Hurricane Missile]] *[[Remote Guided Warhead]] *[[Wildfire Missile]] Unsurprisingly, the Truelight Seeker is not compatible with Kyon Emitters or spare lasers. However, the Truelight Seeker is very unusual in being curiously unable to equip [[Impulse Ray Emitter]] guns. == Availability == The Truelight Seeker may only be acquired during the [[Goner_plot|Goner plot]]. This ship is given to you by the Goners before the end of the plot, after you rescue it from a pirate attack, and it has returned to base. == Suggested Roles== Long range high damage weapons, coupled with light shields, make this ship better in standoff roles as fire support or artillery. == See Also== {{M6}} {{M6category}} [[Category:Not Purchasable]]
+==Background==
+The Truelight Seeker is a modified [[Goner]]-owned vessel. It is designed to assist other [[Goner]] vessels should they require aid.
+
+==Physical Characteristics==
+The Truelight Seeker is similar in appearance and size to the [[Argon]] [[Centaur]], but with a wider, bulkier bow.
+
+== Combat ==
+While relatively lightly armored for a [[M6]] class ship, the unusual variety of weapons allowed make the Truelight Seeker unusually lethal.
+
+The [[Gauss Cannon]] is typically only permitted on [[M1]] and [[M2]] class ships. Its high damage and long range, combined with the sustained fire capability allowed by its ammo requirement, make the Truelight Seeker a significant threat. However, permitted only 400 [[Shields|MJ]] in shielding and average [[M6]] speed, the Truelight Seeker is at a disadvantage in a slugging match, rendering it an eggshell armed with a sledgehammer.
+
+Against [[M6]] or smaller ships, a tactic available to the Truelight Seeker is to utilize the greater range allowed by its heavy guns to try to cripple enemies before they can get close enough to fight back, then retreating to a standoff position to finish them off.
+
+Against [[M7]], [[M2]] and [[M1]] ships, the Truelight Seeker must rely on its greater speed and much smaller profile to avoid fire, while replying with equivalent weapons.
+
+Against a swarm of [[M5]], [[M4]], and [[M3]] ships the Truelight Seeker may employ the [[Phased Shockwave Generator]], which is capable of covering a broad cone in front of the ship.
+
+In close quarters combat, the lack of independent turrets does hurt as it is unable to defend itself against attacks in multiple directions.
+
+== Equipment ==
+*[[Wasp Missile]]
+*[[Silkworm Missile]]
+*[[Disruptor Missile]]
+*[[Hurricane Missile]]
+*[[Remote Guided Warhead]]
+*[[Wildfire Missile]]
+
+Unsurprisingly, the Truelight Seeker is not compatible with Kyon Emitters or spare lasers. However, the Truelight Seeker is very unusual in being curiously unable to equip [[Impulse Ray Emitter]] guns.
+
+== Availability ==
+The Truelight Seeker may only be acquired during the [[Goner_plot|Goner plot]].
+
+This ship is given to you by the Goners before the end of the plot, after you rescue it from a pirate attack, and it has returned to base.
+
+== Suggested Roles==
+Long range high damage weapons, coupled with light shields, make this ship better in standoff roles as fire support or artillery.
+
+== See Also==
+
+{{M6}}
+
+{{M6category}}
+
+[[Category:Not Purchasable]]

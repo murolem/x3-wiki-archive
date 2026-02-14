@@ -1,3 +1,16 @@
-<!-- source file: index__qb43af5a922ad.html -->
+==Overview==
+A shield reactor charges the [[shields]] of [[ships]] in X3, are not upgradeable or interchangeable and have a fixed value for the lifetime of the ships or [[stations]] they are installed in.
 
-==Overview== A shield reactor charges the [[shields]] of [[ships]] in X3, are not upgradeable or interchangeable and have a fixed value for the lifetime of the ships or [[stations]] they are installed in. ==Detail== The power of a shield reactor’s recharge is measured in [[Physics#Power|Watts (W)]]. Each shield type in X3 (e.g. [[Shields#1MJ|1MJ Shield]]) requires a certain amount of reactor power to recharge it in a certain time. The relationship between the shield reactor power and the installed shield type power usage determines how quickly a ship’s shields will recharge. Installing a smaller shield on a ship will result in it recharging to capacity faster than a larger shield would take to reach capacity on the same ship. Ships with higher rated shield reactors (more [[Physics|W]]) will recharge a specific shield type faster than a similar ship which has a lower rated shield reactor. ==Application== This means that two similar class ships, both with the same shield load out (e.g. 2 x [[Shields#25MJ|25MJ Shields]]), may have different performance in maintaining shields in combat if one has a more powerful shield reactor. The choice of which ship has better shielding goes beyond just how many shields it can mount of a specific type. NB: Shields do not have to reach zero before they recharge.
+==Detail==
+The power of a shield reactor’s recharge is measured in [[Physics#Power|Watts (W)]].
+
+Each shield type in X3 (e.g. [[Shields#1MJ|1MJ Shield]]) requires a certain amount of reactor power to recharge it in a certain time. The relationship between the shield reactor power and the installed shield type power usage determines how quickly a ship’s shields will recharge.
+
+Installing a smaller shield on a ship will result in it recharging to capacity faster than a larger shield would take to reach capacity on the same ship. Ships with higher rated shield reactors (more [[Physics|W]]) will recharge a specific shield type faster than a similar ship which has a lower rated shield reactor.
+
+==Application==
+This means that two similar class ships, both with the same shield load out (e.g. 2 x [[Shields#25MJ|25MJ Shields]]), may have different performance in maintaining shields in combat if one has a more powerful shield reactor.
+
+The choice of which ship has better shielding goes beyond just how many shields it can mount of a specific type.
+
+NB: Shields do not have to reach zero before they recharge.

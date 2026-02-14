@@ -1,3 +1,52 @@
-<!-- source file: index__qbdf5f57f26f7.html -->
+{{Infobox Sector
+|Race=Paranid
+|SecLevel=Border
+|Population=39,428,152
+|Planets=3
+|SunLevel=150
+|GateDist=80
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|	0|	40320|[[Emperor's Ridge]]}}
+{{Gateblock2|South|0|	0|	-40320|[[Trinity Sanctum]]}}
+{{Gateblock/End}}
+}}
+==Description==
+===Encyclopedia Entry===
+Despite fanciful miners' tales that the asteroids in this system are all made of solid Nvidium they seems to be rich in only the more mundane ore and silicon. The two factories producing cheap, commercial jewellery for the export market are well defended against opportunistic attack but attract the occasional raids from determined freeloaders.
 
-{{Infobox Sector |Race=Paranid |SecLevel=Border |Population=39,428,152 |Planets=3 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0| 0| 40320|[[Emperor's Ridge]]}} {{Gateblock2|South|0| 0| -40320|[[Trinity Sanctum]]}} {{Gateblock/End}} }} ==Description== ===Encyclopedia Entry=== Despite fanciful miners' tales that the asteroids in this system are all made of solid Nvidium they seems to be rich in only the more mundane ore and silicon. The two factories producing cheap, commercial jewellery for the export market are well defended against opportunistic attack but attract the occasional raids from determined freeloaders. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|37|21845|10297|13638}} {{Asteroid/Item|Ore|23|4814|-8683|17074}} {{Asteroid/Item|Ore|23|-29901|7620|8574}} {{Asteroid/Item|Ore|21|20143|-816|7872}} {{Asteroid/Item|Ore|21|3551|-2449|-858}} {{Asteroid/Item|Ore|15|-13607|10550|9418}} {{Asteroid/Item|Ore|14|25562|-5634|19400}} {{Asteroid/Item|Ore|14|20956|870|16870}} {{Asteroid/Item|Ore|12|10207|-6199|4075}} {{Asteroid/Item|Ore|12|4707|-14460|4075}} {{Asteroid/Item|Ore|12|12608|161|-10154}} {{Asteroid/Item|Ore|11|6232|6800|6609}} {{Asteroid/Item|Ore|10|24749|-8084|8154}} {{Asteroid/Item|Ore|6|22633|-13799|15109}} {{Asteroid/Item|Ore|5|-23032|7277|14340}} {{Asteroid/Item|Ore|5|-8703|-1106|-13716}} {{Asteroid/Item|Silicon|45|-21679|-8000|14715}} {{Asteroid/Item|Silicon|45|-14632|-5100|-1827}} {{Asteroid/Item|Silicon|32|29356|7264|16309}} {{Asteroid/Item|Silicon|27|-29422|-4673|7452}} {{Asteroid/Item|Silicon|27|-16401|2348|-9405}} {{Asteroid/Item|Silicon|21|13063|-9027|13776}} {{Asteroid/Item|Silicon|16|-11833|90|5060}} {{Asteroid/Item|Silicon|15|-13597|-8121|-10654}} {{Asteroid/Item|Silicon|12|32932|7025|6280}} {{Asteroid/Item|Silicon|11|-21856|5658|-2671}} {{Asteroid/Item|Silicon|5|-26103|-7943|-1545}} {{Asteroid/End}} == See Also == {{Paranid Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|37|21845|10297|13638}}
+{{Asteroid/Item|Ore|23|4814|-8683|17074}}
+{{Asteroid/Item|Ore|23|-29901|7620|8574}}
+{{Asteroid/Item|Ore|21|20143|-816|7872}}
+{{Asteroid/Item|Ore|21|3551|-2449|-858}}
+{{Asteroid/Item|Ore|15|-13607|10550|9418}}
+{{Asteroid/Item|Ore|14|25562|-5634|19400}}
+{{Asteroid/Item|Ore|14|20956|870|16870}}
+{{Asteroid/Item|Ore|12|10207|-6199|4075}}
+{{Asteroid/Item|Ore|12|4707|-14460|4075}}
+{{Asteroid/Item|Ore|12|12608|161|-10154}}
+{{Asteroid/Item|Ore|11|6232|6800|6609}}
+{{Asteroid/Item|Ore|10|24749|-8084|8154}}
+{{Asteroid/Item|Ore|6|22633|-13799|15109}}
+{{Asteroid/Item|Ore|5|-23032|7277|14340}}
+{{Asteroid/Item|Ore|5|-8703|-1106|-13716}}
+{{Asteroid/Item|Silicon|45|-21679|-8000|14715}}
+{{Asteroid/Item|Silicon|45|-14632|-5100|-1827}}
+{{Asteroid/Item|Silicon|32|29356|7264|16309}}
+{{Asteroid/Item|Silicon|27|-29422|-4673|7452}}
+{{Asteroid/Item|Silicon|27|-16401|2348|-9405}}
+{{Asteroid/Item|Silicon|21|13063|-9027|13776}}
+{{Asteroid/Item|Silicon|16|-11833|90|5060}}
+{{Asteroid/Item|Silicon|15|-13597|-8121|-10654}}
+{{Asteroid/Item|Silicon|12|32932|7025|6280}}
+{{Asteroid/Item|Silicon|11|-21856|5658|-2671}}
+{{Asteroid/Item|Silicon|5|-26103|-7943|-1545}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Paranid Navbox}}

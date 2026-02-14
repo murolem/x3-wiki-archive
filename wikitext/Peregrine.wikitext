@@ -1,3 +1,77 @@
-<!-- source file: index__qf6de1b2d9594.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Peregrine
+|Faction=Teladi
+|Class={{M8class}}
+|Priceblock={{Priceblock|Company Manager| 5469216}}
+|Minspeed=50
+|Maxspeed=100
+|Minaccel=6
+|Maxaccel=13
+|Minsteer=9.8
+|Maxsteer=19.6
+|Hull=30000 / 120000 (AP)
+|Maxshield=25 MJ
+|Shieldslots=6
+|Maxshieldstrength=150
+|Shieldreactor= 1056
+|Cargoclass=L
+|Mincargo=200
+|Maxcargo=800
+|Lasercap=900
+|Laserrecharge=28
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Missileturret|Slot=Front|Lcount=2}}
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The [[Teladi]] Peregrine has a slightly larger cargo capacity than other [[Commonwealth]] bombers, but is dreadfully slow and hence represents a sitting duck to a fighter swarm unless some of its precious cargo capacity is eaten up with a [[jumpdrive]] and energy cell reserve.
 
-{{Infobox open}} {{Infobox variant |Variant=Peregrine |Faction=Teladi |Class={{M8class}} |Priceblock={{Priceblock|Company Manager| 5469216}} |Minspeed=50 |Maxspeed=100 |Minaccel=6 |Maxaccel=13 |Minsteer=9.8 |Maxsteer=19.6 |Hull=30000 / 120000 (AP) |Maxshield=25 MJ |Shieldslots=6 |Maxshieldstrength=150 |Shieldreactor= 1056 |Cargoclass=L |Mincargo=200 |Maxcargo=800 |Lasercap=900 |Laserrecharge=28 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Missileturret|Slot=Front|Lcount=2}} {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The [[Teladi]] Peregrine has a slightly larger cargo capacity than other [[Commonwealth]] bombers, but is dreadfully slow and hence represents a sitting duck to a fighter swarm unless some of its precious cargo capacity is eaten up with a [[jumpdrive]] and energy cell reserve. ==Background== Confronted with an ever-rising threat of enemy [[:Category:Capital Ships|capital ships]], the Peregrine was specifically designed to help eliminate these dangers in the most cost-effective manner possible. ==Physical Characteristics== Somewhat similar in design and size to the [[Paranid]] [[Hades]], the Peregrine nevertheless demonstrates its haphazard [[Teladi]] origins, looking like it was put together from the scraps of other cannibalized ships. Yet, for a [[Teladi]] ship it is surprisingly sleek and the cockpit view is free of obstructions. == Combat == Peregrine pilots have a choice not unlike those of the [[Gannet]]: Stock up entirely on missiles for awesome longevity on the battlefield, making it vulnerable to attack, or utilizing the [[M8|bomber]] as a one off strike craft, which launches a few salvoes then retreats via jumpdrive. == Equipment == The Peregrine utilizes the [[Tomahawk Heavy Missile]]. == Availability == {| style="text-align:center;" |- style="{{Colour/Teladi}}" ! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]] |- ! style="text-align:left;" | Peregrine || x || || || || || |} It may also be [[bail|captured]] from [[Teladi]] patrols or [[Pirates|pirate]] forces typically spawned by [[Defend_Station|station defense]] missions. == Suggested Roles== As a [[M8|bomber]], the Peregrine is best used from relatively long range, where it can launch its load of missiles at enemy [[:Category:Capital Ships|capital ships]] and stations before retreating. == See Also== {{M8}} {{Teladi Navbox}}
+==Background==
+Confronted with an ever-rising threat of enemy [[:Category:Capital Ships|capital ships]], the Peregrine was specifically designed to help eliminate these dangers in the most cost-effective manner possible.
+
+==Physical Characteristics==
+Somewhat similar in design and size to the [[Paranid]] [[Hades]], the Peregrine nevertheless demonstrates its haphazard [[Teladi]] origins, looking like it was put together from the scraps of other cannibalized ships. Yet, for a [[Teladi]] ship it is surprisingly sleek and the cockpit view is free of obstructions.
+
+== Combat ==
+Peregrine pilots have a choice not unlike those of the [[Gannet]]: Stock up entirely on missiles for awesome longevity on the battlefield, making it vulnerable to attack, or utilizing the [[M8|bomber]] as a one off strike craft, which launches a few salvoes then retreats via jumpdrive.
+
+== Equipment ==
+The Peregrine utilizes the [[Tomahawk Heavy Missile]].
+
+== Availability ==
+{| style="text-align:center;" 
+|- style="{{Colour/Teladi}}"
+! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]]
+|-
+! style="text-align:left;" | Peregrine || x ||  ||  ||  ||  || 
+|}
+
+It may also be [[bail|captured]] from [[Teladi]] patrols or [[Pirates|pirate]] forces typically spawned by [[Defend_Station|station defense]] missions.
+
+== Suggested Roles==
+As a [[M8|bomber]], the Peregrine is best used from relatively long range, where it can launch its load of missiles at enemy [[:Category:Capital Ships|capital ships]] and stations before retreating.
+ 
+== See Also==
+
+{{M8}}
+
+
+{{Teladi Navbox}}

@@ -1,3 +1,48 @@
-<!-- source file: index__qcf6bf7074b2d.html -->
+''See Also: [{{linky}}forum.egosoft.com/viewtopic.php?p=3755082#3755082 Official Fleets Post on the Egosoft Forums]''
+{{Stub}}
 
-''See Also: [{{linky}}forum.egosoft.com/viewtopic.php?p=3755082#3755082 Official Fleets Post on the Egosoft Forums]'' {{Stub}} Fleets are a looser grouping of ships than a [[Wing]], and are used to give orders to groups of ships that may not always be together; whereas Wings are for ships ''always'' together (e.g. fighters launched from a carrier). Fleet management is introduced in '''Albion Prelude'''. == Setup == To create a fleet, you must first assign a '''Fleet Commander''' from within the [[Command Console]]. Following that, simply assign other ships to the fleet. It is usual for players to assign a [[Carrier]] to be fleet leader, but in theory any ship can perform the task. During setup, no changes will be made to orders as already issued. In effect, the ships now in the fleet may as well not be in a fleet until you issue your first fleet order. == Commands == ''Taken from the Egosoft Forums.'' Fleet commands and actions are all accessed via the Command Console for the ships involved. From there you can create and disband, manage Fleet leadership and membership, and tell individual ships to join up with their Fleet. Only ships which have joined up with their Fleet will be affected by subsequent Fleet orders. From the Command Console of the ship assigned as Fleet Commander you can also issue Fleet commands to instruct the ships assigned to that fleet: *Call To Arms: equivalent to ordering all ships in a Fleet individually to join up with their Fleet. *Attack: attack the specified target. *Attack All Enemies: Attack all enemies found in a sector. *Invade Sector: Attack a whole sector, destroying both ships and stations. *Defend Station: Protect a given station. *Defend Sector: Protect a whole sector. *Patrol Sectors: Patrol a series of sectors, attacking any enemies found. In all cases the Fleet Commander will attempt to use the most appropriate ship(s) for the task, from those assigned to the fleet and currently active within it. For example, M5s will be used as scouts when defending a sector, M4s and M5s will be used as interceptors to destroy enemy bombers, bombers and missile frigates will be used to attack larger targets, and so on. If the Fleet Commander is a carrier (M1) then Fleet ships will only be launched as and when they are needed. == Supply == If a {{TSclass}} or {{TPclass}} is assigned to the fleet, it will allow you to automatically resupply ships. Using the "Defend Sector" or "Invade Sector" orders will cause it to happen automatically. '''Note:''' The Fleet Commander needs sufficient cargo capacity to house at least some of the items required for the resupply, and must be equipped with a [[Transporter device]]. Also note that any {{TLclass}}s also require Transporter devices. == See Also == *[[Wings]] *[[Ammunition]] *[[Ships]]: **[[:Category:Carrier|Carriers]] **[[:Category:Fighters|Fighters]] **[[:Category:Capital Ships|Capital Ships]] **[[:Category:Escort|Escorts]] **[[:Category:Transport|Transports]] *[[Autopilot]]
+Fleets are a looser grouping of ships than a [[Wing]], and are used to give orders to groups of ships that may not always be together; whereas Wings are for ships ''always'' together (e.g. fighters launched from a carrier). Fleet management is introduced in '''Albion Prelude'''.
+
+== Setup ==
+To create a fleet, you must first assign a '''Fleet Commander''' from within the [[Command Console]]. Following that, simply assign other ships to the fleet.
+
+It is usual for players to assign a [[Carrier]] to be fleet leader, but in theory any ship can perform the task.
+
+During setup, no changes will be made to orders as already issued. In effect, the ships now in the fleet may as well not be in a fleet until you issue your first fleet order.
+
+== Commands ==
+''Taken from the Egosoft Forums.''
+
+Fleet commands and actions are all accessed via the Command Console for the ships involved. From there you can create and disband, manage Fleet leadership and membership, and tell individual ships to join up with their Fleet. Only ships which have joined up with their Fleet will be affected by subsequent Fleet orders.
+
+From the Command Console of the ship assigned as Fleet Commander you can also issue Fleet commands to instruct the ships assigned to that fleet:
+
+*Call To Arms: equivalent to ordering all ships in a Fleet individually to join up with their Fleet.
+*Attack: attack the specified target.
+*Attack All Enemies: Attack all enemies found in a sector.
+*Invade Sector: Attack a whole sector, destroying both ships and stations.
+*Defend Station: Protect a given station.
+*Defend Sector: Protect a whole sector.
+*Patrol Sectors: Patrol a series of sectors, attacking any enemies found.
+
+
+In all cases the Fleet Commander will attempt to use the most appropriate ship(s) for the task, from those assigned to the fleet and currently active within it. For example, M5s will be used as scouts when defending a sector, M4s and M5s will be used as interceptors to destroy enemy bombers, bombers and missile frigates will be used to attack larger targets, and so on. If the Fleet Commander is a carrier (M1) then Fleet ships will only be launched as and when they are needed.
+
+== Supply ==
+If a {{TSclass}} or {{TPclass}} is assigned to the fleet, it will allow you to automatically resupply ships. Using the "Defend Sector" or "Invade Sector" orders will cause it to happen automatically.
+
+'''Note:''' The Fleet Commander needs sufficient cargo capacity to house at least some of the items required for the resupply, and must be equipped with a [[Transporter device]].
+
+Also note that any {{TLclass}}s also require Transporter devices.
+
+
+== See Also ==
+*[[Wings]]
+*[[Ammunition]]
+*[[Ships]]:
+**[[:Category:Carrier|Carriers]]
+**[[:Category:Fighters|Fighters]]
+**[[:Category:Capital Ships|Capital Ships]]
+**[[:Category:Escort|Escorts]]
+**[[:Category:Transport|Transports]]
+*[[Autopilot]]

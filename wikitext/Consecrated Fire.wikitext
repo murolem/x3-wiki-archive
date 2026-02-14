@@ -1,3 +1,21 @@
-<!-- source file: index__qbffd3a5317e0.html -->
+{{Infobox Sector
+|Race=Paranid
+|SecLevel=Border
+|Population=86,002,225
+|Planets=5
+|SunLevel=150
+|GateDist=115
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|	0|	50387|[[Friar's Retreat]]}}
+{{Gateblock2|West|-57512|	0|	0|[[Unholy Descent]]}}
+{{Gateblock/End}}
+}}
+==Description==
+The fire pits of the planet of XaarXen were deemed to be holy by the priests of the Paranid Xaarist religion, after the original expedition vessel was consumed by a firestorm that formed from one of these pits.
 
-{{Infobox Sector |Race=Paranid |SecLevel=Border |Population=86,002,225 |Planets=5 |SunLevel=150 |GateDist=115 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0| 0| 50387|[[Friar's Retreat]]}} {{Gateblock2|West|-57512| 0| 0|[[Unholy Descent]]}} {{Gateblock/End}} }} ==Description== The fire pits of the planet of XaarXen were deemed to be holy by the priests of the Paranid Xaarist religion, after the original expedition vessel was consumed by a firestorm that formed from one of these pits. ==Default [[Stations]]== ==[[Asteroids]]== == See Also == {{Paranid Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+== See Also ==
+{{Paranid Navbox}}

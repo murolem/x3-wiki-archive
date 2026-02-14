@@ -1,3 +1,25 @@
-<!-- source file: index__qd06c9d525927.html -->
+A [[Missions#Other Mission|Mission]] usually offered at [[stations]] but may be offered by a spaceborne ship.
 
-A [[Missions#Other Mission|Mission]] usually offered at [[stations]] but may be offered by a spaceborne ship. ==Objective== Scan the required number of asteroids as pointed out in the mission briefing within a set time limit. ==General Difficulty:== Usually very easy; some tighter scheduled missions may class as 'normal'. ==What you will need: == * Any ship with [[Mineral Scanner]] installed - [[M5]] is best due to its speed. ==What you will find: == * Multiple asteroids in multiple Sectors, depending on time limit. ==Commentary and Strategy== Go to each required sector and scan as many asteroids as needed. You will get paid quite a high sum for doing all of them. Keep an eye out for another pilot selling asteroid info, as you may get an instant win. * Mission has been pointed out to have a possible bug after scanning the last asteroid that the mission fails. {{Missions}}
+
+
+==Objective==
+Scan the required number of asteroids as pointed out in the mission briefing within a set time limit.
+
+==General Difficulty:==
+Usually very easy; some tighter scheduled missions may class as 'normal'.
+
+==What you will need: ==
+
+* Any ship with [[Mineral Scanner]] installed - [[M5]] is best due to its speed.
+
+==What you will find: ==
+
+* Multiple asteroids in multiple Sectors, depending on time limit.
+
+==Commentary and Strategy==
+Go to each required sector and scan as many asteroids as needed. You will get paid quite a high sum for doing all of them. Keep an eye out for another pilot selling asteroid info, as you may get an instant win.
+
+* Mission has been pointed out to have a possible bug after scanning the last asteroid that the mission fails.
+
+
+{{Missions}}

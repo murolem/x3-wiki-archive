@@ -1,3 +1,46 @@
-<!-- source file: index__q5b748198ff64.html -->
+{{Infobox Sector
+|Race=Pirate
+|SecLevel=Border
+|Population=4,142,839
+|Planets=3
+|SunLevel=150
+|GateDist=70
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|0|	0|	35280|[[Thuruk's Beard]]}}
+{{Gateblock2|East|35280|	0|	0|[[Aladna Hill]]}}
+{{Gateblock2|South|0|	0|	-35000|[[Clarity's End]]}}
+{{Gateblock2|West|-35280|	0|	0|[[Nopileos' Memorial]]}}
+</table>
+}}
+==Description==
+After the [[Xenon Conflict]], this system was abandoned. When retreating [[Xenon]] completely destroyed a neighboring system by forcing its twin suns to go nova, the colonies and factories of this system were eradicated. It is the home to many refugees of the last Xenon war and the other minor wars that came before it. The people here begin to build new lives and homes while they mourn their past and hope for their future.
+==Commentary==
+Hatikvah's Faith is a very busy sector for traders and, despite its pirate allegiance, is actually very safe. Due to the large numbers of escorted freighters and a military patrol typically stationed near one or more gates, aggressive pirates don't last very long in this sector. Even better, those military patrols happen to turn a blind eye to aggressive players, giving you an excellent opportunity to personally fill in the piracy gap. Better yet, there are at least three ''friendly'' [[Shipyards]] and [[Equipment Dock|Equipment Docks]] (four, if you consider the Xenon friendly) within three jumps, giving you plenty of variety for where to fence your newly acquired [[capping|ships]] and cargo. There are even a pair of [[ownerless ships|freebies]] nearby, in case you needed some help setting up shop.
 
-{{Infobox Sector |Race=Pirate |SecLevel=Border |Population=4,142,839 |Planets=3 |SunLevel=150 |GateDist=70 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|0| 0| 35280|[[Thuruk's Beard]]}} {{Gateblock2|East|35280| 0| 0|[[Aladna Hill]]}} {{Gateblock2|South|0| 0| -35000|[[Clarity's End]]}} {{Gateblock2|West|-35280| 0| 0|[[Nopileos' Memorial]]}} &lt;/table> }} ==Description== After the [[Xenon Conflict]], this system was abandoned. When retreating [[Xenon]] completely destroyed a neighboring system by forcing its twin suns to go nova, the colonies and factories of this system were eradicated. It is the home to many refugees of the last Xenon war and the other minor wars that came before it. The people here begin to build new lives and homes while they mourn their past and hope for their future. ==Commentary== Hatikvah's Faith is a very busy sector for traders and, despite its pirate allegiance, is actually very safe. Due to the large numbers of escorted freighters and a military patrol typically stationed near one or more gates, aggressive pirates don't last very long in this sector. Even better, those military patrols happen to turn a blind eye to aggressive players, giving you an excellent opportunity to personally fill in the piracy gap. Better yet, there are at least three ''friendly'' [[Shipyards]] and [[Equipment Dock|Equipment Docks]] (four, if you consider the Xenon friendly) within three jumps, giving you plenty of variety for where to fence your newly acquired [[capping|ships]] and cargo. There are even a pair of [[ownerless ships|freebies]] nearby, in case you needed some help setting up shop. Though, be aware. There is a Xenon sector nearby. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|44|8376|1308|4304}} {{Asteroid/Item|Ore|32|-13118|1270|-7502}} {{Asteroid/Item|Ore|25|-13435|-5897|19065}} {{Asteroid/Item|Ore|21|-15659|-1873|5042}} {{Asteroid/Item|Ore|20|5631|-870|21497}} {{Asteroid/Item|Ore|20|5631|-870|21497}} {{Asteroid/Item|Ore|20|295|-3214|4275}} {{Asteroid/Item|Ore|20|295|-3214|4275}} {{Asteroid/Item|Ore|18|-17149|7135|11809}} {{Asteroid/Item|Ore|13|-5688|-3028|0}} {{Asteroid/Item|Ore|11|-16993|6950|-2460}} {{Asteroid/Item|Ore|7|-8455|-2722|8364}} {{Asteroid/Item|Silicon|26|-2112|6614|-16511}} {{Asteroid/Item|Silicon|26|-411|-2733|-19559}} {{Asteroid/Item|Silicon|13|7743|6453|-13532}} {{Asteroid/Item|Silicon|13|6479|1784|-19559}} {{Asteroid/Item|Silicon|6|6479|-3286|-9716}} {{Asteroid/Item|Silicon|6|8088|-5997|-17127}} {{Asteroid/End}} {{Pirates Navbox}}
+Though, be aware. There is a Xenon sector nearby.
+==Default [[Stations]]==
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|44|8376|1308|4304}}
+{{Asteroid/Item|Ore|32|-13118|1270|-7502}}
+{{Asteroid/Item|Ore|25|-13435|-5897|19065}}
+{{Asteroid/Item|Ore|21|-15659|-1873|5042}}
+{{Asteroid/Item|Ore|20|5631|-870|21497}}
+{{Asteroid/Item|Ore|20|5631|-870|21497}}
+{{Asteroid/Item|Ore|20|295|-3214|4275}}
+{{Asteroid/Item|Ore|20|295|-3214|4275}}
+{{Asteroid/Item|Ore|18|-17149|7135|11809}}
+{{Asteroid/Item|Ore|13|-5688|-3028|0}}
+{{Asteroid/Item|Ore|11|-16993|6950|-2460}}
+{{Asteroid/Item|Ore|7|-8455|-2722|8364}}
+{{Asteroid/Item|Silicon|26|-2112|6614|-16511}}
+{{Asteroid/Item|Silicon|26|-411|-2733|-19559}}
+{{Asteroid/Item|Silicon|13|7743|6453|-13532}}
+{{Asteroid/Item|Silicon|13|6479|1784|-19559}}
+{{Asteroid/Item|Silicon|6|6479|-3286|-9716}}
+{{Asteroid/Item|Silicon|6|8088|-5997|-17127}}
+{{Asteroid/End}}
+
+{{Pirates Navbox}}

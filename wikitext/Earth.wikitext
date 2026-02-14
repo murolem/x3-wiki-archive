@@ -1,3 +1,23 @@
-<!-- source file: index__q462c94ab95cf.html -->
+{{Infobox Sector
+|Race= Terran
+|SecLevel= Border
+|Population= 2,103,883,426
+|Planets= 2
+|SunLevel= 150
+|GateDist=180
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+{{Gateblock|North|11,2|-4,50|-2,50}}
+</table>
+}}
+==Description==
+The jewel of Sol system and home to mankind, Earth. While many see similarities to the Argon homeworld, Earth holds grace and beauty that few could deny as being anything other than unique. For this and painful historic reasons, the AGI Task Force zealously guards the planet and the imposing orbital ring, the Torus.
 
-{{Infobox Sector |Race= Terran |SecLevel= Border |Population= 2,103,883,426 |Planets= 2 |SunLevel= 150 |GateDist=180 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> {{Gateblock|North|11,2|-4,50|-2,50}} &lt;/table> }} ==Description== The jewel of Sol system and home to mankind, Earth. While many see similarities to the Argon homeworld, Earth holds grace and beauty that few could deny as being anything other than unique. For this and painful historic reasons, the AGI Task Force zealously guards the planet and the imposing orbital ring, the Torus. ==Default [[Stations]]== #[[Earth Torus]] ==[[Asteroids]]== No asteroid present in Earth sector {{Terran Navbox}}
+==Default [[Stations]]==
+#[[Earth Torus]]
+
+
+==[[Asteroids]]==
+No asteroid present in Earth sector
+
+
+{{Terran Navbox}}

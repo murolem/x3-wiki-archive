@@ -1,3 +1,48 @@
-<!-- source file: index__q4def3f1f8673.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Starburst
+|Faction=Argon
+|Class={{M5class}}
+|Priceblock=
+|Minspeed=285
+|Maxspeed=1140
+|Minaccel=110
+|Maxaccel=440
+|Minsteer=150
+|Maxsteer=300
+|Hull=2000
+|Maxshield=1 MJ
+|Shieldslots=2
+|Maxshieldstrength=2
+|Shieldreactor= 50
+|Cargoclass=S
+|Mincargo=10
+|Maxcargo=35
+|Lasercap=10000
+|Laserrecharge=500
+|Gunbay=
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+Introduced at the same time as the [[Arrow]], the Starburst is another racer which is almost too fast for its own good.
+==Background==
+==Physical Characteristics==
+The Starburst uses the [[Discoverer]] model.
 
-{{Infobox open}} {{Infobox variant |Variant=Starburst |Faction=Argon |Class={{M5class}} |Priceblock= |Minspeed=285 |Maxspeed=1140 |Minaccel=110 |Maxaccel=440 |Minsteer=150 |Maxsteer=300 |Hull=2000 |Maxshield=1 MJ |Shieldslots=2 |Maxshieldstrength=2 |Shieldreactor= 50 |Cargoclass=S |Mincargo=10 |Maxcargo=35 |Lasercap=10000 |Laserrecharge=500 |Gunbay= |Dockbay= }} {{Infobox close}} ==Overview== Introduced at the same time as the [[Arrow]], the Starburst is another racer which is almost too fast for its own good. ==Background== ==Physical Characteristics== The Starburst uses the [[Discoverer]] model. == Combat == The starburst has no weapons therefore has no combat capability. While it is impossible to obtain in vanilla TC, it would have considerable usefulness as a scouting ship. == Equipment == == Availability == You can get one as a reward for the plot [[Shady Business]]. == Suggested Roles== The Starburst is best applied to fast-mapping, asteroid scanning and scouting roles. == See Also== * [[Arrow]] {{M5}} {{Argon Navbox}}
+== Combat ==
+The starburst has no weapons therefore has no combat capability. While it is impossible to obtain in vanilla TC, it would have considerable usefulness as a scouting ship.
+
+== Equipment ==
+== Availability ==
+You can get one as a reward for the plot [[Shady Business]].
+
+== Suggested Roles==
+The Starburst is best applied to fast-mapping, asteroid scanning and scouting roles.
+
+== See Also==
+
+* [[Arrow]]
+
+{{M5}}
+{{Argon Navbox}}

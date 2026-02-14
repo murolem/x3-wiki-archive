@@ -1,3 +1,91 @@
-<!-- source file: index__qb18c778e8e9e.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Ion Pulse Generator
+|hulldam=544
+|shielddam=13000
+|range=3.88
+|rof= 62
+|shotspeed= 347
+|maxweapenergy=5000 
+|shotcost=475
+}}
+{{Infobox ware
+|ware=Ion Pulse Generator
+|cargoclass=M
+|volume=28
+|minprice=444390
+|aveprice=483032
+|maxprice=521674
+}}
+{{Infobox close}}
+==Overview==
+The Ion Pulse Generator, or IPG, is a [[Boron]] weapon compatible with [[M6|corvette]]s and heavier ships.
 
-{{Infobox open}} {{Infobox weapon |weapon=Ion Pulse Generator |hulldam=544 |shielddam=13000 |range=3.88 |rof= 62 |shotspeed= 347 |maxweapenergy=5000 |shotcost=475 }} {{Infobox ware |ware=Ion Pulse Generator |cargoclass=M |volume=28 |minprice=444390 |aveprice=483032 |maxprice=521674 }} {{Infobox close}} ==Overview== The Ion Pulse Generator, or IPG, is a [[Boron]] weapon compatible with [[M6|corvette]]s and heavier ships. ==Encyclopedia Entry== A weapon usually found on corvettes or frigate-sized ships. In addition to being effective against shields, the Ion Pulse Generator's projectiles give a violent ion burst on reach maximum range. This can have an effect on ships engines, often causing a reduction in speed. ==Commentary== An interesting weapon due to its effect, which makes it less useless than the other corvette level weapons: It can briefly reduce the speed of a target ship upon impact, allowing a potentially slower craft to keep up. Add to this the fact that it deals minimal hull damage, and it becomes a useful weapon for capturing fighters and somewhat restricting more mobile opponents. It is, however, made less useful by its high energy drain and low refire rate, meaning every shot counts. A good weapon for OOS patrols (often combined with CIGs to compensate for lower hull DPS), can also be an effective frigate weapon for ships capable of mounting/powering them. The weapon's high energy drain makes it restrictive to use on ships that have poor weapon recharge rates, and the fighter-grade [[Ion Disruptor]] makes a better candidate to be installed in numbers. ==Known Compatible Ships== {| cellpadding="5" |- valign="top" | *[[Astraeus Hauler]] (M7, Argon/OTAS) *[[Boreas]] (M2, Argon/OTAS) *[[Centaur]] (M6, Argon) *[[Cerberus]] (M7, Argon) *[[Colossus]] (M1, Argon) *[[Griffon Sentinel]] (M7C, Argon) *[[Heavy Centaur]] (M6+, Argon) *[[Heavy Centaur Prototype]] (M6+, Argon) *[[Mammoth]] (TL, Argon) *[[Pirate Centaur]] (M6, Argon) *[[Skiron]] (M6, Argon/OTAS) *[[Titan]] (M2, Argon) | *[[Guppy]] (M7C, Boron) *[[Heavy Hydra]] (M6+, Boron) *[[Hydra]] (M6, Boron) *[[Megalodon]] (M2+, Boron) *[[Orca]] (TL, Boron) *[[Ray]] (M2, Boron) *[[Shark]] (M1, Boron) *[[Thresher]] (M7, Boron) | *[[Brigantine]] (M2, Pirate) *[[Carrack]] (M7, Pirate) *[[Galleon]] (M1, Pirate) | *[[Albatross]] (TL, Teladi) *[[Condor]] (M1, Teladi) *[[Gannet]] (M7M, Teladi) *[[Heavy Osprey]] (M6+, Teladi) *[[Osprey]] (M6, Teladi) *[[Phoenix]] (M2, Teladi) *[[Pirate Osprey]] (M6, Teladi) *[[Shrike]] (M7, Teladi) | *[[I]] (M2+, Xenon) *[[K]] (M2, Xenon) *[[Q]] (M7, Xenon) | *[[Akuma]] (M2, Yaki) *[[Akurei]] (M7, Yaki) *[[Hoshi]] (M1, Yaki) *[[Ryu]] (TL, Yaki) *[[Shuri]] (M1, Yaki) |} ==Available at Known Docks== '''Sector''' '''Station''' Kingdom End Boron Equipment Dock Rolk's Fate Boron Equipment Dock Ion Pulse Generator Forge Alpha
+==Encyclopedia Entry==
+A weapon usually found on corvettes or frigate-sized ships.
+
+In addition to being effective against shields, the Ion Pulse Generator's projectiles give a violent ion burst on reach maximum range. This can have an effect on ships engines, often causing a reduction in speed.
+==Commentary==
+An interesting weapon due to its effect, which makes it less useless than the other corvette level weapons: It can briefly reduce the speed of a target ship upon impact, allowing a potentially slower craft to keep up. Add to this the fact that it deals minimal hull damage, and it becomes a useful weapon for capturing fighters and somewhat restricting more mobile opponents. It is, however, made less useful by its high energy drain and low refire rate, meaning every shot counts. A good weapon for OOS patrols (often combined with CIGs to compensate for lower hull DPS), can also be an effective frigate weapon for ships capable of mounting/powering them.
+
+The weapon's high energy drain makes it restrictive to use on ships that have poor weapon recharge rates, and the fighter-grade [[Ion Disruptor]] makes a better candidate to be installed in numbers.
+
+==Known Compatible Ships==
+{| cellpadding="5"
+|- valign="top"
+|
+*[[Astraeus Hauler]] (M7, Argon/OTAS)
+*[[Boreas]] (M2, Argon/OTAS)
+*[[Centaur]] (M6, Argon)
+*[[Cerberus]] (M7, Argon)
+*[[Colossus]] (M1, Argon)
+*[[Griffon Sentinel]] (M7C, Argon)
+*[[Heavy Centaur]] (M6+, Argon)
+*[[Heavy Centaur Prototype]] (M6+, Argon)
+*[[Mammoth]] (TL, Argon)
+*[[Pirate Centaur]] (M6, Argon)
+*[[Skiron]] (M6, Argon/OTAS)
+*[[Titan]] (M2, Argon)
+|
+*[[Guppy]] (M7C, Boron)
+*[[Heavy Hydra]] (M6+, Boron)
+*[[Hydra]] (M6, Boron)
+*[[Megalodon]] (M2+, Boron)
+*[[Orca]] (TL, Boron)
+*[[Ray]] (M2, Boron)
+*[[Shark]] (M1, Boron)
+*[[Thresher]] (M7, Boron)
+|
+*[[Brigantine]] (M2, Pirate)
+*[[Carrack]] (M7, Pirate)
+*[[Galleon]] (M1, Pirate)
+|
+*[[Albatross]] (TL, Teladi)
+*[[Condor]] (M1, Teladi)
+*[[Gannet]] (M7M, Teladi)
+*[[Heavy Osprey]] (M6+, Teladi)
+*[[Osprey]] (M6, Teladi)
+*[[Phoenix]] (M2, Teladi)
+*[[Pirate Osprey]] (M6, Teladi)
+*[[Shrike]] (M7, Teladi)
+|
+*[[I]] (M2+, Xenon)
+*[[K]] (M2, Xenon)
+*[[Q]] (M7, Xenon)
+|
+*[[Akuma]] (M2, Yaki)
+*[[Akurei]] (M7, Yaki)
+*[[Hoshi]] (M1, Yaki)
+*[[Ryu]] (TL, Yaki)
+*[[Shuri]] (M1, Yaki)
+|}
+
+==Available at Known Docks==
+
+       '''Sector'''                                 '''Station'''
+
+        Kingdom End                               Boron Equipment Dock
+                    
+
+        Rolk's Fate                               Boron Equipment Dock
+                                                  Ion Pulse Generator Forge Alpha

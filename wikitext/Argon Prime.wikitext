@@ -1,3 +1,86 @@
-<!-- source file: index__qd32bbb10e5b5.html -->
+{{Infobox Sector
+|Race=Argon
+|SecLevel=Core
+|Population= 189,451,753
+|Planets=3
+|SunLevel=150
+|GateDist=90
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North| -937| 0| 22,373|[[Herron's Nebula]]}}
+{{Gateblock2|East| 25,498 | 0| -2,500|[[The Wall]]}}
+{{Gateblock2|South|-1,250| 0|-25,186|[[Home of Light]]}}
+{{Gateblock2|West|-24,561|0|0|[[Ringo Moon]]}}
+</table>
+}}
+==Description==
+Bathed in the sacred light of the sun 'Sonra', The Argon home system is dominated by the planet 'Argon Prime'. This rich and beautiful world is densely populated and is usually protected by a large Argon Military force, a [[Titan (ship)|Titan Destroyer]] and more recently the Argon's latest flagship carrier, the Argon One, a [[Colossus|Colossus class Carrier]]. Most of the needs of the Argon space fleet are catered for here in orbiting shipyards that also outfit for private fighters and transport ships with Argon technology.
 
-{{Infobox Sector |Race=Argon |SecLevel=Core |Population= 189,451,753 |Planets=3 |SunLevel=150 |GateDist=90 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North| -937| 0| 22,373|[[Herron's Nebula]]}} {{Gateblock2|East| 25,498 | 0| -2,500|[[The Wall]]}} {{Gateblock2|South|-1,250| 0|-25,186|[[Home of Light]]}} {{Gateblock2|West|-24,561|0|0|[[Ringo Moon]]}} &lt;/table> }} ==Description== Bathed in the sacred light of the sun 'Sonra', The Argon home system is dominated by the planet 'Argon Prime'. This rich and beautiful world is densely populated and is usually protected by a large Argon Military force, a [[Titan (ship)|Titan Destroyer]] and more recently the Argon's latest flagship carrier, the Argon One, a [[Colossus|Colossus class Carrier]]. Most of the needs of the Argon space fleet are catered for here in orbiting shipyards that also outfit for private fighters and transport ships with Argon technology. ==Shipyard Availability== The Shipyard in the Argon home sector of Argon Prime is often the first Shipyard a player will do business with. {{Shipyard/Begin|Station|ST Size|Cost}} {{Shipyard/Station|Free Argon Trading Station||15000|29,929,912}} {{Shipyard/Station|Equipment Dock||10500|51,160,024}} {{Shipyard/Station|Weapon Component Factory||12000|720,656}} {{Shipyard/Station|Crystal Fab|M|15000|3,129,332}} {{Shipyard/Station|Chip Plant||16000|5,599,036}} {{Shipyard/Station|Mosquito Missile Factory||10000|603,792}} {{Shipyard/Station|Particle Accelerator Cannon Forge||16500|416,680}} {{Shipyard/Station|High Energy Plasma Thrower Forge||18000|6,850,768}} {{Shipyard/Station|Ammunition Factory||12000|2,830,680}} {{Shipyard/Station|Phased Repeater Gun Forge||16500|4,856,308}} {{Shipyard/Station|Shield Prod. Facility 1 MJ||11500|1,630,888}} {{Shipyard/Station|Wheat Farm|M|10000|367,016}} {{Shipyard/Station|Cattle Ranch|M|11500|275,016}} {{Shipyard/Station|Rimes Fact|M|13000|799,992}} {{Shipyard/Station|Cahoona Bakery|M|11500|874,980}} {{Shipyard/Station|Cahoona Bakery|L|17250|2,187,480}} {{Shipyard/Station|Space Fuel Distillery|L|12000|5,500,028}} {{Shipyard/Station|Solar Power Plant|M|10500|4,895,260}} {{Shipyard/Station|Ore Mine|M|8000|449,988}} {{Shipyard/Station|Silicon Mine|L|14250|1,139,416}} {{Shipyard/Station|Complex Construction Kit||4250|259,696}} {{Shipyard/Station|Firefly Missile Factory||11500|714,164}} {{Shipyard/Station|Low-yield sidearms Fab||15000|2,246,368}} {{Shipyard/Station|Advanced Drone Factory||14500|2,898,204}} {{Shipyard/Station|Crystal Fab|L|20500|6,792,388}} {{Shipyard/End}} {{Shipyard/Begin|Ship|Class|Cost}} {{Shipyard/Ship1|Mammoth|TL|28,506,608}} {{Shipyard/Ship|Mercury (ship)|Mercury|TS|199,439}} {{Shipyard/Ship|Mercury (ship)|Mercury Tanker XL|TS|529,023}} {{Shipyard/Ship1|Express|TP|413,864}} {{Shipyard/Ship1|Magnetar|TM|438,338}} {{Shipyard/Ship1|Colossus|M1|67,823,098}} {{Shipyard/Ship|Titan (ship)|Titan|M2|69,283,911}} {{Shipyard/Ship1|Nova|M3|1,607,266}} {{Shipyard/Ship2|Nova|Vanguard|M3|2,007,804}} {{Shipyard/Ship1|Eclipse|M3+|5,483,418}} {{Shipyard/Ship1|Buster|M4|411,056}} {{Shipyard/Ship1|Elite|M4+|854,539}} {{Shipyard/Ship1|Discoverer|M5|58,953}} {{Shipyard/Ship2|Discoverer|Hauler|M5|64,359}} {{Shipyard/Ship1|Centaur|M6|9,842,368}} {{Shipyard/Ship1|Cerberus|M7|36,098,766}} {{Shipyard/Ship2|Griffon Sentinel| (AP)|M7C|36,166,766}} {{Shipyard/End}} *[[Griffon Sentinel]] available in Albion Prelude ==Default [[Stations]]== #[[Argon Federal Shipyard]] #[[Argon Equipment Dock]] #[[Free Argon Trading Station]] #[[Advanced Satellite Factory]] alpha #[[Ammunition Factory]] alpha #[[Image Recognition Production Complex]] #[[Light Weapons Complex]] alpha #[[Quantum Tube Fab]] alpha #[[Weapon Component Factory]] alpha #[[Argon Stock Exchange]] ==[[Asteroids]]== There are no asteroids to exploit in Argon Prime ==See Also== {{Argon Navbox}}
+
+==Shipyard Availability==
+The Shipyard in the Argon home sector of Argon Prime is often the first Shipyard a player will do business with.
+{{Shipyard/Begin|Station|ST Size|Cost}}
+{{Shipyard/Station|Free Argon Trading Station||15000|29,929,912}}
+{{Shipyard/Station|Equipment Dock||10500|51,160,024}}
+{{Shipyard/Station|Weapon Component Factory||12000|720,656}}
+{{Shipyard/Station|Crystal Fab|M|15000|3,129,332}}
+{{Shipyard/Station|Chip Plant||16000|5,599,036}}
+{{Shipyard/Station|Mosquito Missile Factory||10000|603,792}}
+{{Shipyard/Station|Particle Accelerator Cannon Forge||16500|416,680}}
+{{Shipyard/Station|High Energy Plasma Thrower Forge||18000|6,850,768}}
+{{Shipyard/Station|Ammunition Factory||12000|2,830,680}}
+{{Shipyard/Station|Phased Repeater Gun Forge||16500|4,856,308}}
+{{Shipyard/Station|Shield Prod. Facility 1 MJ||11500|1,630,888}}
+{{Shipyard/Station|Wheat Farm|M|10000|367,016}}
+{{Shipyard/Station|Cattle Ranch|M|11500|275,016}}
+{{Shipyard/Station|Rimes Fact|M|13000|799,992}}
+{{Shipyard/Station|Cahoona Bakery|M|11500|874,980}}
+{{Shipyard/Station|Cahoona Bakery|L|17250|2,187,480}}
+{{Shipyard/Station|Space Fuel Distillery|L|12000|5,500,028}}
+{{Shipyard/Station|Solar Power Plant|M|10500|4,895,260}}
+{{Shipyard/Station|Ore Mine|M|8000|449,988}}
+{{Shipyard/Station|Silicon Mine|L|14250|1,139,416}}
+{{Shipyard/Station|Complex Construction Kit||4250|259,696}}
+{{Shipyard/Station|Firefly Missile Factory||11500|714,164}}
+{{Shipyard/Station|Low-yield sidearms Fab||15000|2,246,368}}
+{{Shipyard/Station|Advanced Drone Factory||14500|2,898,204}}
+{{Shipyard/Station|Crystal Fab|L|20500|6,792,388}}
+{{Shipyard/End}}
+{{Shipyard/Begin|Ship|Class|Cost}}
+{{Shipyard/Ship1|Mammoth|TL|28,506,608}}
+{{Shipyard/Ship|Mercury (ship)|Mercury|TS|199,439}}
+{{Shipyard/Ship|Mercury (ship)|Mercury Tanker XL|TS|529,023}}
+{{Shipyard/Ship1|Express|TP|413,864}}
+{{Shipyard/Ship1|Magnetar|TM|438,338}}
+{{Shipyard/Ship1|Colossus|M1|67,823,098}}
+{{Shipyard/Ship|Titan (ship)|Titan|M2|69,283,911}}
+{{Shipyard/Ship1|Nova|M3|1,607,266}}
+{{Shipyard/Ship2|Nova|Vanguard|M3|2,007,804}}
+{{Shipyard/Ship1|Eclipse|M3+|5,483,418}}
+{{Shipyard/Ship1|Buster|M4|411,056}}
+{{Shipyard/Ship1|Elite|M4+|854,539}}
+{{Shipyard/Ship1|Discoverer|M5|58,953}}
+{{Shipyard/Ship2|Discoverer|Hauler|M5|64,359}}
+{{Shipyard/Ship1|Centaur|M6|9,842,368}}
+{{Shipyard/Ship1|Cerberus|M7|36,098,766}}
+{{Shipyard/Ship2|Griffon Sentinel| (AP)|M7C|36,166,766}}
+{{Shipyard/End}}
+*[[Griffon Sentinel]] available in Albion Prelude
+
+==Default [[Stations]]==
+#[[Argon Federal Shipyard]]
+#[[Argon Equipment Dock]]
+#[[Free Argon Trading Station]]
+#[[Advanced Satellite Factory]] alpha
+#[[Ammunition Factory]] alpha
+#[[Image Recognition Production Complex]]
+#[[Light Weapons Complex]] alpha
+#[[Quantum Tube Fab]] alpha
+#[[Weapon Component Factory]] alpha
+#[[Argon Stock Exchange]]
+
+==[[Asteroids]]==
+There are no asteroids to exploit in Argon Prime
+
+==See Also==
+{{Argon Navbox}}

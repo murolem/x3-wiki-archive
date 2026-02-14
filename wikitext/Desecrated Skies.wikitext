@@ -1,3 +1,57 @@
-<!-- source file: index__qf37130fad411.html -->
+{{Infobox Sector
+|Race=Pirates
+|SecLevel=Border
+|Population=18,881,847
+|Planets=1
+|SunLevel=150
+|GateDist=80
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|0|	0|	61000|[[Perdition's End]]}}
+{{Gateblock2|East|34000|	0|	0|[[Moo-Kye's Revenge]]}}
+{{Gateblock2|South|0|	0|	-34000|[[Priest Refuge]]}}
+{{Gateblock/End}}
+}}
+==Description==
+===Encyclopedia Entry===
+Savaged by conflict and greed, this sector remains turmoils. Internal power-struggles between pirate factions leave any entry to this sector one of great risk. Paranid attempts to cleanse this sector are frequent and forcefull.
 
-{{Infobox Sector |Race=Pirates |SecLevel=Border |Population=18,881,847 |Planets=1 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|North|0| 0| 61000|[[Perdition's End]]}} {{Gateblock2|East|34000| 0| 0|[[Moo-Kye's Revenge]]}} {{Gateblock2|South|0| 0| -34000|[[Priest Refuge]]}} {{Gateblock/End}} }} ==Description== ===Encyclopedia Entry=== Savaged by conflict and greed, this sector remains turmoils. Internal power-struggles between pirate factions leave any entry to this sector one of great risk. Paranid attempts to cleanse this sector are frequent and forcefull. ==Default [[Stations]]== No station known in this sector. ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|30|-13373|-21807|1126}} {{Asteroid/Item|Ore|20|-38579|-6893|21242}} {{Asteroid/Item|Ore|13|9144|22350|-20267}} {{Asteroid/Item|Ore|12|24440|-9288|-32111}} {{Asteroid/Item|Ore|11|-214|-6609|11437}} {{Asteroid/Item|Ore|11|-9371|-19452|7344}} {{Asteroid/Item|Ore|10|3305|5189|26324}} {{Asteroid/Item|Ore|10|-19216|8885|-22148}} {{Asteroid/Item|Ore|9|-8420|18997|-19257}} {{Asteroid/Item|Ore|8|-6449|-14187|16767}} {{Asteroid/Item|Ore|8|-17985|28756|-12987}} {{Asteroid/Item|Ore|7|-36275|726|-6931}} {{Asteroid/Item|Ore|6|-32380|10811|4307}} {{Asteroid/Item|Ore|6|14614|573|-18251}} {{Asteroid/Item|Ore|5|-44336|12656|7255}} {{Asteroid/Item|Ore|5|-30632|-6771|-6449}} {{Asteroid/Item|Ore|5|8421|-20355|-26935}} {{Asteroid/Item|Ore|4|-20865|-4379|-8004}} {{Asteroid/Item|Ore|3|-3090|3330|30936}} {{Asteroid/Item|Ore|1|7918|799|21796}} {{Asteroid/Item|Ore|1|-34765|19912|-1814}} {{Asteroid/Item|Ore|1|5025|-28159|-32441}} {{Asteroid/Item|Silicon|30|-3313|-25251|-19932}} {{Asteroid/Item|Silicon|11|31268|5362|-34802}} {{Asteroid/Item|Silicon|10|27961|-21537|-34494}} {{Asteroid/Item|Silicon|7|11285|-4433|-34018}} {{Asteroid/Item|Silicon|6|-43165|6603|14737}} {{Asteroid/Item|Silicon|5|4836|2982|-22893}} {{Asteroid/Item|Silicon|4|-33645|17180|-14387}} {{Asteroid/Item|Silicon|1|-9371|-9371|6216}} {{Asteroid/Item|Silicon|1|-16903|-6220|-29239}} {{Asteroid/End}} {{Pirates Navbox}}
+==Default [[Stations]]==
+No station known in this sector.
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|30|-13373|-21807|1126}}
+{{Asteroid/Item|Ore|20|-38579|-6893|21242}}
+{{Asteroid/Item|Ore|13|9144|22350|-20267}}
+{{Asteroid/Item|Ore|12|24440|-9288|-32111}}
+{{Asteroid/Item|Ore|11|-214|-6609|11437}}
+{{Asteroid/Item|Ore|11|-9371|-19452|7344}}
+{{Asteroid/Item|Ore|10|3305|5189|26324}}
+{{Asteroid/Item|Ore|10|-19216|8885|-22148}}
+{{Asteroid/Item|Ore|9|-8420|18997|-19257}}
+{{Asteroid/Item|Ore|8|-6449|-14187|16767}}
+{{Asteroid/Item|Ore|8|-17985|28756|-12987}}
+{{Asteroid/Item|Ore|7|-36275|726|-6931}}
+{{Asteroid/Item|Ore|6|-32380|10811|4307}}
+{{Asteroid/Item|Ore|6|14614|573|-18251}}
+{{Asteroid/Item|Ore|5|-44336|12656|7255}}
+{{Asteroid/Item|Ore|5|-30632|-6771|-6449}}
+{{Asteroid/Item|Ore|5|8421|-20355|-26935}}
+{{Asteroid/Item|Ore|4|-20865|-4379|-8004}}
+{{Asteroid/Item|Ore|3|-3090|3330|30936}}
+{{Asteroid/Item|Ore|1|7918|799|21796}}
+{{Asteroid/Item|Ore|1|-34765|19912|-1814}}
+{{Asteroid/Item|Ore|1|5025|-28159|-32441}}
+{{Asteroid/Item|Silicon|30|-3313|-25251|-19932}}
+{{Asteroid/Item|Silicon|11|31268|5362|-34802}}
+{{Asteroid/Item|Silicon|10|27961|-21537|-34494}}
+{{Asteroid/Item|Silicon|7|11285|-4433|-34018}}
+{{Asteroid/Item|Silicon|6|-43165|6603|14737}}
+{{Asteroid/Item|Silicon|5|4836|2982|-22893}}
+{{Asteroid/Item|Silicon|4|-33645|17180|-14387}}
+{{Asteroid/Item|Silicon|1|-9371|-9371|6216}}
+{{Asteroid/Item|Silicon|1|-16903|-6220|-29239}}
+{{Asteroid/End}}
+
+{{Pirates Navbox}}

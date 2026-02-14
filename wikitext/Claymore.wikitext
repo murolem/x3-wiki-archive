@@ -1,3 +1,84 @@
-<!-- source file: index__q513bb8c49b65.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Claymore
+|Faction=Terran
+|Class={{M8class}}
+|Priceblock={{Priceblock|Servant of Terra| 5279520}}
+|Minspeed=69
+|Maxspeed=138
+|Minaccel=12
+|Maxaccel=24
+|Minsteer=12.4
+|Maxsteer=24.8
+|Hull=85,000
+|Maxshield=25 MJ
+|Shieldslots=7
+|Maxshieldstrength=175
+|Shieldreactor= 1560
+|Cargoclass=L
+|Mincargo=750
+|Maxcargo=850
+|Lasercap=1500
+|Laserrecharge=50
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Missileturret|Slot=Front|Lcount=2}}
+{{Gunslot
+|Slot=Top
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The [[Terran]] '''Claymore''' is larger and more powerful than any [[Commonwealth]] [[M8|bomber]], but its use is handicapped by the fact that it can only utilize the very rare [[Phantom Missile]]. If a decent stockpile of them can be gathered, however, the Claymore is probably the best bomber in the game, as it does not suffer the ordinance/jump energy dilemma plaguing commonwealth bombers, since it has a very spacious cargo bay and smaller missiles with relation to volume.  Their yield is actually considerably higher than that of the [[Tomahawk Heavy Missile]].
 
-{{Infobox open}} {{Infobox variant |Variant=Claymore |Faction=Terran |Class={{M8class}} |Priceblock={{Priceblock|Servant of Terra| 5279520}} |Minspeed=69 |Maxspeed=138 |Minaccel=12 |Maxaccel=24 |Minsteer=12.4 |Maxsteer=24.8 |Hull=85,000 |Maxshield=25 MJ |Shieldslots=7 |Maxshieldstrength=175 |Shieldreactor= 1560 |Cargoclass=L |Mincargo=750 |Maxcargo=850 |Lasercap=1500 |Laserrecharge=50 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Missileturret|Slot=Front|Lcount=2}} {{Gunslot |Slot=Top |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The [[Terran]] '''Claymore''' is larger and more powerful than any [[Commonwealth]] [[M8|bomber]], but its use is handicapped by the fact that it can only utilize the very rare [[Phantom Missile]]. If a decent stockpile of them can be gathered, however, the Claymore is probably the best bomber in the game, as it does not suffer the ordinance/jump energy dilemma plaguing commonwealth bombers, since it has a very spacious cargo bay and smaller missiles with relation to volume. Their yield is actually considerably higher than that of the [[Tomahawk Heavy Missile]]. ==Background== The Claymore [[M8|bomber]] provides the [[Terran|United Space Command]] with an easily deployable and flexible strike capability. ==Physical Characteristics== The Claymore resembles two [[Baldric]]s mated by their ventral surfaces, a big box with a wedge-shaped bow. It is white with red trim. == Combat == As with any [[M8|bomber]], the Claymore is devastating to anything [[M6]] and up while it carries ammunition. It has very poor fighter defense so it should be kept well away from enemy [[M3]] and [[M4]] class ships. == Equipment == The Claymore is unique in its use of the potent [[Phantom Missile]]. == Availability == {| |+'''Availability''' |-style="{{Colour/Terran}}" ! Variant || [[The Moon]] || [[Mars]] || [[Saturn]] |- !Claymore || x || x || x || |} A Claymore is also a reward for completing the [[Terran plot]]. {| |+'''In Albion Prelude''' |-style="{{Colour/Terran}}" ! Variant || [[Saturn]] || [[Mars]] || [[Megnir]] || [[The Moon]] |- !Claymore || x || x || x || x || |} == Suggested Roles== The Claymore utilizes its Phantom missiles at relatively long range to destroy [[:Category:Capital Ships|capital ships]] and [[stations]]. It must not go toe-to-toe against any fighter as the Claymore lacks adequate defenses against them. It requires a fighter wing to escort it when performing bombing runs. == See Also== {{M8}} {{Terran Navbox}}
+==Background==
+The Claymore [[M8|bomber]] provides the [[Terran|United Space Command]] with an easily deployable and flexible strike capability.
+
+==Physical Characteristics==
+The Claymore resembles two [[Baldric]]s mated by their ventral surfaces, a big box with a wedge-shaped bow.  It is white with red trim.
+
+== Combat ==
+As with any [[M8|bomber]], the Claymore is devastating to anything [[M6]] and up while it carries ammunition. It has very poor fighter defense so it should be kept well away from enemy [[M3]] and [[M4]] class ships.
+
+== Equipment ==
+The Claymore is unique in its use of the potent [[Phantom Missile]].
+
+== Availability ==
+{|
+|+'''Availability'''
+|-style="{{Colour/Terran}}"
+! Variant || [[The Moon]] || [[Mars]] || [[Saturn]]
+|-
+!Claymore || x || x || x ||
+|}
+
+A Claymore is also a reward for completing the [[Terran plot]].
+
+{|
+|+'''In Albion Prelude'''
+|-style="{{Colour/Terran}}"
+! Variant || [[Saturn]] || [[Mars]] || [[Megnir]] || [[The Moon]]
+|-
+!Claymore || x || x || x || x ||
+|}
+
+== Suggested Roles==
+The Claymore utilizes its Phantom missiles at relatively long range to destroy [[:Category:Capital Ships|capital ships]] and [[stations]]. It must not go toe-to-toe against any fighter as the Claymore lacks adequate defenses against them. It requires a fighter wing to escort it when performing bombing runs.
+
+== See Also==
+{{M8}}
+
+{{Terran Navbox}}

@@ -1,3 +1,34 @@
-<!-- source file: index__q030f3685e204.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Split
+|station=Tornado Missile Factory
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:10:00
+|productnum=[[Tornado Missile]] (2)
+|stationprice={{Priceblock|Distinguished Associate|5810688}}
+|reqresources=[[Energy Cells]] (150)<br>[[Ore]] (25)<br>[[Rastar Oil]] (15)
+|optresources=}}
+{{Infobox close}}
+==Overview==
+NPC factories also purchase Cloth Rimes and Warheads as secondary resources
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Split |station=Tornado Missile Factory |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:10:00 |productnum=[[Tornado Missile]] (2) |stationprice={{Priceblock|Distinguished Associate|5810688}} |reqresources=[[Energy Cells]] (150)&lt;br>[[Ore]] (25)&lt;br>[[Rastar Oil]] (15) |optresources=}} {{Infobox close}} ==Overview== NPC factories also purchase Cloth Rimes and Warheads as secondary resources ===Encyclopedia Entry=== This factory produces the Tornado Missile, a dumbfire swarm missile. ==Availability== This factory is unique to the Split. {| style="text-align:left;" |- valign="top" | '''[[Split#Shipyards|Split]]''' *{{sa|Patriarch's Conclusion}} *{{sa|Rhonkar's Trial}} *{{sa|Zyarth's Dominion}} *{{sa|Zyarth's Stand}} |} {{Stationcategory}} [[Category:Factories]]
+===Encyclopedia Entry===
+This factory produces the Tornado Missile, a dumbfire swarm missile.
+
+==Availability==
+This factory is unique to the Split.
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Split#Shipyards|Split]]'''
+*{{sa|Patriarch's Conclusion}}
+*{{sa|Rhonkar's Trial}}
+*{{sa|Zyarth's Dominion}}
+*{{sa|Zyarth's Stand}}
+|}
+
+{{Stationcategory}}
+[[Category:Factories]]

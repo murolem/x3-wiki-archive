@@ -1,3 +1,47 @@
-<!-- source file: index__qec453d4b0940.html -->
+NPCs, in qualified ships, under fire from the player may bail; that is, the pilot will abandon his ship and fly in his space-suit to the nearest station.
 
-NPCs, in qualified ships, under fire from the player may bail; that is, the pilot will abandon his ship and fly in his space-suit to the nearest station. Most pilots ship transmit some sort of surrender message, although it is often received too late to avoid destroying the vessel. The damaged ship will be left floating in space may then be [[claim]]ed by the player. The ship will sometimes still have some functioning weapons, equipment and upgrades left aboard, but often only the upgrades will be left behind. Ships that bail: {| |-valign="top" | '''Combat Ships''' *[[M3+]] *[[M3]] *[[M4+]] *[[M4]] *[[M5]] *[[M8]] | &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; | '''Transports''' *[[TS]] *[[TP]] |} [[:Category:Capital Ships|Capital ships]] must be [[boarding|boarded]] by [[marines]] to be [[claim]]ed, as must [[M6]] and [[TM]] class ships, except [[Return Ship]] mission ships which may be claimed normally. ==Mechanics== Certain conditions must be met before a pilot will bail: *Shields down *Hull damage *Failed morale check Consequently, [[Mass Driver]]s while they damage the hull, do not affect the shields and should not cause the pilot to bail.&lt;br> Some factions are known never to bail, and presumably never fail their morale checks. You can force a bail check repeatedly on single vessel. Morale is an invisible metric and is difficult to determine beforehand without the use of modifying scripts. It is often advantageous to use a low hull damage high shield damage weapon like the [[Pulsed Beam Emitter]], since that will preserve the hull through several [[capping]] attempts. However, many players believe that heavily damaging the hull most negatively affects morale and in any event permits players to most rapidly process a large number of candidate ships with the least attention. Both strategies attempt to increase the number of bail checks for a given amount of time. PBEs are best suited to capturing specific ships. Heavier weapon loads, like the [[Particle Accelerator Cannon]], are best suited to working through swarms. == See Also == {{Piracy}}
+Most pilots ship transmit some sort of surrender message, although it is often received too late to avoid destroying the vessel.
+
+The damaged ship will be left floating in space may then be [[claim]]ed by the player. The ship will sometimes still have some functioning weapons, equipment and upgrades left aboard, but often only the upgrades will be left behind.
+
+Ships that bail:
+{|
+|-valign="top"
+|
+'''Combat Ships'''
+*[[M3+]]
+*[[M3]]
+*[[M4+]]
+*[[M4]]
+*[[M5]]
+*[[M8]]
+| &nbsp; &nbsp; &nbsp; &nbsp; 
+|
+'''Transports'''
+*[[TS]]
+*[[TP]]
+|}
+
+[[:Category:Capital Ships|Capital ships]] must be [[boarding|boarded]] by [[marines]] to be [[claim]]ed, as must [[M6]] and [[TM]] class ships, except [[Return Ship]] mission ships which may be claimed normally.
+
+==Mechanics==
+Certain conditions must be met before a pilot will bail:
+*Shields down
+*Hull damage
+*Failed morale check
+Consequently, [[Mass Driver]]s while they damage the hull, do not affect the shields and should not cause the pilot to bail.<br>
+Some factions are known never to bail, and presumably never fail their morale checks.
+
+You can force a bail check repeatedly on single vessel.
+
+Morale is an invisible metric and is difficult to determine beforehand without the use of modifying scripts.
+
+It is often advantageous to use a low hull damage high shield damage weapon like the [[Pulsed Beam Emitter]], since that will preserve the hull through several [[capping]] attempts. However, many players believe that heavily damaging the hull most negatively affects morale and in any event permits players to most rapidly process a large number of candidate ships with the least attention. Both strategies attempt to increase the number of bail checks for a given amount of time.
+
+PBEs are best suited to capturing specific ships.
+
+Heavier weapon loads, like the [[Particle Accelerator Cannon]], are best suited to working through swarms.
+
+== See Also ==
+
+{{Piracy}}

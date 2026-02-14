@@ -1,3 +1,181 @@
-<!-- source file: index__q81a050fb31d7.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Raptor
+|Faction=Split
+|Class={{M1class}}
+|Priceblock={{Priceblock|Inner Circle of Rhonkar| 80276604}}
+|Minspeed= 60.7 
+|Maxspeed= 109.3
+|Minaccel=7.0
+|Maxaccel=13.0
+|Minsteer= 0.3
+|Maxsteer= 0.6
+|Hull= 320000
+|Maxshield=2 GJ
+|Shieldslots=2
+|Maxshieldstrength=4000
+|Shieldreactor= 9000 
+|Cargoclass=ST
+|Mincargo=8800
+|Maxcargo=8800
+|Lasercap= 71800 
+|Laserrecharge= 1076
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=4
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=4
+|ire=0|pac=0|hept=1|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=1|tbc=0|ebc=0|
+faa=1|gc=1|pbe=1|
+isr=1|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=4
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=1|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=4
+|ire=0|pac=0|hept=1|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=1|tbc=0|ebc=0|
+faa=1|gc=1|pbe=1|
+isr=1|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Top
+|Guncount=2
+|ire=0|pac=1|hept=1
+|cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Bottom
+|Guncount=2
+|ire=0|pac=1|hept=1|
+|cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay={{Dockbay|65 [[M3+]]-[[M5]]}}
+}}
+{{Infobox close}}
+==Overview==
+The '''Raptor''' is a large, fast carrier (bested barely by only the Yaki Hoshi), and is a favorite in its class. Though lacking shielding, its speed allows for the battlefield mobility to evade combat with most ships which can trouble it. Its 65-[[:Category:Fighters|fighter]] hangar is unmatched by any ship in the game.
 
-{{Infobox open}} {{Infobox variant |Variant=Raptor |Faction=Split |Class={{M1class}} |Priceblock={{Priceblock|Inner Circle of Rhonkar| 80276604}} |Minspeed= 60.7 |Maxspeed= 109.3 |Minaccel=7.0 |Maxaccel=13.0 |Minsteer= 0.3 |Maxsteer= 0.6 |Hull= 320000 |Maxshield=2 GJ |Shieldslots=2 |Maxshieldstrength=4000 |Shieldreactor= 9000 |Cargoclass=ST |Mincargo=8800 |Maxcargo=8800 |Lasercap= 71800 |Laserrecharge= 1076 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=4 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Right |Guncount=4 |ire=0|pac=0|hept=1| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=1|tbc=0|ebc=0| faa=1|gc=1|pbe=1| isr=1|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Rear |Guncount=4 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=1|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Left |Guncount=4 |ire=0|pac=0|hept=1| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=1|tbc=0|ebc=0| faa=1|gc=1|pbe=1| isr=1|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Top |Guncount=2 |ire=0|pac=1|hept=1 |cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Bottom |Guncount=2 |ire=0|pac=1|hept=1| |cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay={{Dockbay|65 [[M3+]]-[[M5]]}} }} {{Infobox close}} ==Overview== The '''Raptor''' is a large, fast carrier (bested barely by only the Yaki Hoshi), and is a favorite in its class. Though lacking shielding, its speed allows for the battlefield mobility to evade combat with most ships which can trouble it. Its 65-[[:Category:Fighters|fighter]] hangar is unmatched by any ship in the game. ==Background== The Raptor is the [[Split]] carrier ship. It first made an appearance in the war against the [[Boron]] when it proved to be effective but vulnerable to attack from beneath. It is believed that, over the intervening years, the Split have redesigned the ship to eliminate this problem. Normally these ships are commanded by high-ranking Split officers related by kin to the ruling family clan. Generally they are even more abrasive and arrogant than other members of their race. ==Physical Characteristics== The Raptor looks virtually identical to the [[TL]] [[Elephant]] and the [[M2]] [[Python]]: a long rusty-red metal slab, taller than it is wide, with an underslung "keel". == Combat == The Raptor has the largest hangar bays of any {{M1class}}, but suffers the usual [[Split]] ship handicap of low shield strength. Thankfully its high speed allows it to escape a tricky situation more readily than other M1s. == Equipment == {| |+ '''Missiles''' |- | *[[Aurora Missile]] *[[Banshee Missile]] *[[Beluga Missile]] *[[Cyclone Missile]] *[[Disruptor Missile]] *[[Dragonfly Missile]] *[[Firestorm Torpedo]] *[[Firefly Missile]] | *[[Firelance Missile]] *[[Hammerhead Missile]] *[[Hornet Missile]] *[[Hurricane Missile]] *[[Mosquito Missile]] *[[Rapier Missile]] *[[Remote Guided Warhead]] *[[Silkworm Missile]] | style="vertical-align:top;" | *[[Tempest Missile]] *[[Thunderbolt Missile]] *[[Tornado Missile]] *[[Typhoon Missile]] *[[Wasp Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] |} == Availability == The Raptor is available at every [[Split Shipyard]]. {| style="text-align:center;" cellpadding="3" |+ '''Availability''' |- style="{{Colour/Split}}" ! Variant !! [[Cho's Defeat]] !! [[Family Njy]] !! [[Family Pride]] !! [[Family Rhy]] !! [[Family Tkr]] !! [[Patriarch's Conclusion]] !! [[Rhonkar's Might]] !! [[Rhonkar's Trial]] !! [[Zyarth's Dominion]] |- ! Raptor || X || X || X || X || X || X || X || X || X |} == Suggested Roles== The Raptor is popular as a player flagship for its fighter capacity and speed, but its weak shielding handicaps it as an AI vessel. == See Also== {{M1}} [[Category: Carrier]] {{Split Navbox}}
+==Background==
+The Raptor is the [[Split]] carrier ship. It first made an appearance in the war against the [[Boron]] when it proved to be effective but vulnerable to attack from beneath. It is believed that, over the intervening years, the Split have redesigned the ship to eliminate this problem. Normally these ships are commanded by high-ranking Split officers related by kin to the ruling family clan. Generally they are even more abrasive and arrogant than other members of their race.
+
+==Physical Characteristics==
+The Raptor looks virtually identical to the [[TL]] [[Elephant]] and the [[M2]] [[Python]]:  a long rusty-red metal slab, taller than it is wide, with an underslung "keel".
+
+== Combat ==
+The Raptor has the largest hangar bays of any {{M1class}}, but suffers the usual [[Split]] ship handicap of low shield strength. Thankfully its high speed allows it to escape a tricky situation more readily than other M1s.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|-
+|
+*[[Aurora Missile]]
+*[[Banshee Missile]]
+*[[Beluga Missile]]
+*[[Cyclone Missile]]
+*[[Disruptor Missile]]
+*[[Dragonfly Missile]]
+*[[Firestorm Torpedo]]
+*[[Firefly Missile]]
+|
+*[[Firelance Missile]]
+*[[Hammerhead Missile]]
+*[[Hornet Missile]]
+*[[Hurricane Missile]]
+*[[Mosquito Missile]]
+*[[Rapier Missile]]
+*[[Remote Guided Warhead]]
+*[[Silkworm Missile]]
+| style="vertical-align:top;" |
+*[[Tempest Missile]]
+*[[Thunderbolt Missile]]
+*[[Tornado Missile]]
+*[[Typhoon Missile]]
+*[[Wasp Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+|}
+
+== Availability ==
+The Raptor is available at every [[Split Shipyard]].
+{| style="text-align:center;" cellpadding="3"
+|+ '''Availability'''
+|- style="{{Colour/Split}}"
+! Variant !! [[Cho's Defeat]] !! [[Family Njy]] !! [[Family Pride]] !! [[Family Rhy]] !! [[Family Tkr]] !! [[Patriarch's Conclusion]] !! [[Rhonkar's Might]] !! [[Rhonkar's Trial]] !! [[Zyarth's Dominion]]
+|-
+! Raptor || X || X || X || X || X || X || X || X || X
+|}
+
+== Suggested Roles==
+The Raptor is popular as a player flagship for its fighter capacity and speed, but its weak shielding handicaps it as an AI vessel.
+
+== See Also==
+
+{{M1}}
+[[Category: Carrier]]
+
+
+{{Split Navbox}}

@@ -1,3 +1,1 @@
-<!-- source file: index__q62ce6bae85d6.html -->
-
-TL class ship that can be found in Terran space. Can be captured to obtain Ice Mining L Facility if it happens to be carrying one.
+TL class ship that can be found in Terran space.  Can be captured to obtain Ice Mining L Facility if it happens to be carrying one.

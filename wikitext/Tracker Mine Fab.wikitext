@@ -1,3 +1,32 @@
-<!-- source file: index__qdb712969908c.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Split
+|station=Tracker Mine Fab
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:00:00
+|productnum=[[Tracker Mine]] ()
+|stationprice={{Priceblock|Distinguished Associate|2246368}}
+|reqresources=Energy Cells()<br>Ore()<br>[[Rastar Oil]] ()
+}}
+{{Infobox close}}
+==Overview==
+NPC factories also purchase Microchips and Warheads as secondary resources
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Split |station=Tracker Mine Fab |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:00:00 |productnum=[[Tracker Mine]] () |stationprice={{Priceblock|Distinguished Associate|2246368}} |reqresources=Energy Cells()&lt;br>Ore()&lt;br>[[Rastar Oil]] () }} {{Infobox close}} ==Overview== NPC factories also purchase Microchips and Warheads as secondary resources ===Encyclopedia Entry=== Tracker mines are developed and constructed at these fabs. ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Split#Shipyards|Split]]''' *{{sa|Patriarch's Conclusion}} *{{sa|Rhonkar's Trial}} *{{sa|Zyarth's Dominion}} |} {{Stationcategory}} {{stub|resources}}
+===Encyclopedia Entry===
+Tracker mines are developed and constructed at these fabs.
+
+==Availability==
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Split#Shipyards|Split]]'''
+*{{sa|Patriarch's Conclusion}}
+*{{sa|Rhonkar's Trial}}
+*{{sa|Zyarth's Dominion}}
+|}
+
+{{Stationcategory}}
+{{stub|resources}}

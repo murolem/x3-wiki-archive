@@ -1,3 +1,37 @@
-<!-- source file: index__qc1b1b7b1e652.html -->
+The '''Solar System''' (also known as the '''Sol System''' or simply '''Sol'''), located in the far northeast of the [[jumpgate]] network, is the seat of power for the [[Terran]]s and the ancestral home of the [[Argon]] and [[Goner]]s.
 
-The '''Solar System''' (also known as the '''Sol System''' or simply '''Sol'''), located in the far northeast of the [[jumpgate]] network, is the seat of power for the [[Terran]]s and the ancestral home of the [[Argon]] and [[Goner]]s. The Solar System consists of eight planets and millions of smaller objects orbiting a class G2V main sequence star known as Sol. == [[Sectors]] == The Solar System is comprised of twenty-five separate mapped sectors. In order of distance from Sol, they are: #[[Mercury (sector)|Mercury]] #[[Venus]] #[[Earth]]: The seat of the Terran government is located here. #[[The Moon]] #[[Mars]] #[[Asteroid Belt]]: The gate to the Commonwealth is located here. #[[Jupiter]] #[[Jupiter 2]] #[[Jupiter 3]] #[[Saturn]] #[[Saturn 2]] #[[Saturn 3]] #[[Titan (sector)|Titan]] #[[Uranus]] #[[Uranus 2]] #[[Uranus 3]] #[[Neptune]] #[[Pluto]] #[[Kuiper Belt]] #[[Oort Cloud]] #[[Unknown Sector (Beyond Oort Cloud 1st)]] #[[Unknown Sector (Beyond Oort Cloud 2nd)]] #[[Unknown Sector (Beyond Oort Cloud 3rd)]] #[[Unknown Sector (Beyond Oort Cloud 4th)]] Unlike in the [[Commonwealth]], transit between sectors of the Solar System is accomplished by means of [[Trans-Orbital Accelerator]]s, which cannot be jumped between. == External Link == *[[Wikipedia:Solar System|The Solar System on Wikipedia]] [[Category:Terran]]
+The Solar System consists of eight planets and millions of smaller objects orbiting a class G2V main sequence star known as Sol.
+
+== [[Sectors]] ==
+The Solar System is comprised of twenty-five separate mapped sectors.  In order of distance from Sol, they are:
+#[[Mercury (sector)|Mercury]]
+#[[Venus]]
+#[[Earth]]:  The seat of the Terran government is located here.
+#[[The Moon]]
+#[[Mars]]
+#[[Asteroid Belt]]:  The gate to the Commonwealth is located here.
+#[[Jupiter]]
+#[[Jupiter 2]]
+#[[Jupiter 3]]
+#[[Saturn]]
+#[[Saturn 2]]
+#[[Saturn 3]]
+#[[Titan (sector)|Titan]]
+#[[Uranus]]
+#[[Uranus 2]]
+#[[Uranus 3]]
+#[[Neptune]]
+#[[Pluto]]
+#[[Kuiper Belt]]
+#[[Oort Cloud]]
+#[[Unknown Sector (Beyond Oort Cloud 1st)]]
+#[[Unknown Sector (Beyond Oort Cloud 2nd)]]
+#[[Unknown Sector (Beyond Oort Cloud 3rd)]]
+#[[Unknown Sector (Beyond Oort Cloud 4th)]]
+
+Unlike in the [[Commonwealth]], transit between sectors of the Solar System is accomplished by means of [[Trans-Orbital Accelerator]]s, which cannot be jumped between.
+
+== External Link ==
+*[[Wikipedia:Solar System|The Solar System on Wikipedia]]
+
+[[Category:Terran]]

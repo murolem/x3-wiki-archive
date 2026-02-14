@@ -1,3 +1,46 @@
-<!-- source file: index__qa368dc625130.html -->
+oddly enough it appears the weapon component factory is essentially the same across all races. [[User:Madned|Madned]] 14:05, 28 September 2010 (CDT)
 
-oddly enough it appears the weapon component factory is essentially the same across all races. [[User:Madned|Madned]] 14:05, 28 September 2010 (CDT) Moving former page layout here for keeps; &lt;pre> {{Infobox open}} {{Infobox factory |colour=LightBlue |faction= |station=Weapon Component Factory |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:01:12 |productnum=8 [[Warheads]] |stationprice= |reqresources=[[Energy Cells]] (18)&lt;br> [[Cloth Rimes]] (3)&lt;br> [[Ore]] (3) |optresources= }} {{Infobox close}} ==Overview== Produces [[Warheads]], a critical component of missiles and high yield weapons. {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |+'''Racial Differences''' |-style="background-color:LightBlue;text-align:center;" !Race!!Station Cost |- | [[Argon]] || {{Priceblock|Trusted Ally|720656}} |- | [[Boron]] ||{{Priceblock|Queen's Guard|655732}} |- | [[Paranid]] ||{{Priceblock|Friend of Priest King|623628}} |- | [[Split]] ||{{Priceblock|Distinguished Associate|688192}} |- | [[Teladi]] || {{Priceblock|Majority Shareholder|655732}} |} {{Stationcategory}} &lt;/pre>
+Moving former page layout here for keeps;
+
+<pre>
+{{Infobox open}}
+{{Infobox factory
+|colour=LightBlue
+|faction=
+|station=Weapon Component Factory
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:01:12
+|productnum=8 [[Warheads]]
+|stationprice=
+|reqresources=[[Energy Cells]] (18)<br>
+[[Cloth Rimes]] (3)<br>
+[[Ore]] (3)
+|optresources=
+}}
+{{Infobox close}}
+==Overview==
+Produces [[Warheads]], a critical component of missiles and high yield weapons.
+
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|+'''Racial Differences'''
+|-style="background-color:LightBlue;text-align:center;"
+!Race!!Station Cost
+|-
+| [[Argon]]  || {{Priceblock|Trusted Ally|720656}}
+|-
+| [[Boron]]  ||{{Priceblock|Queen's Guard|655732}}
+|-
+| [[Paranid]]  ||{{Priceblock|Friend of Priest King|623628}}
+|-
+| [[Split]]  ||{{Priceblock|Distinguished Associate|688192}}
+|-
+| [[Teladi]]  || {{Priceblock|Majority Shareholder|655732}}
+|}
+
+{{Stationcategory}}
+
+
+</pre>

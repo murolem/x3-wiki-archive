@@ -1,3 +1,24 @@
-<!-- source file: index__q94ae65e41c85.html -->
+To facilitate writing out blurb for each variant of a ship, as until now they've been left blank, I've created some templates containing standard blurb. To add the blurb, then the following wikitext is used;
 
-To facilitate writing out blurb for each variant of a ship, as until now they've been left blank, I've created some templates containing standard blurb. To add the blurb, then the following wikitext is used; &lt;pre> ==Variants== ===Regular=== {{regular}} ===Advanced=== {{advanced}} ... etc &lt;/pre> Feel free to add some specific blurb in place of (or in additon to) the standard. Templates that exist are;&lt;br/> [[Template: advanced|&lt;nowiki>{{advanced}}&lt;/nowiki>]]&lt;br/> [[Template: enhanced|&lt;nowiki>{{enhanced}}&lt;/nowiki>]]&lt;br/> [[Template: hauler|&lt;nowiki>{{hauler}}&lt;/nowiki>]]&lt;br/> [[Template: pirate|&lt;nowiki>{{pirate}}&lt;/nowiki>]]&lt;br/> [[Template: prototype|&lt;nowiki>{{prototype}}&lt;/nowiki>]]&lt;br/> [[Template: raider|&lt;nowiki>{{raider}}&lt;/nowiki>]]&lt;br/> [[Template: regular|&lt;nowiki>{{regular}}&lt;/nowiki>]]&lt;br/> [[Template: sentinel|&lt;nowiki>{{sentinel}}&lt;/nowiki>]]&lt;br/> [[Template: vanguard|&lt;nowiki>{{vanguard}}&lt;/nowiki>]]&lt;br/>
+<pre>
+==Variants==
+===Regular===
+{{regular}}
+===Advanced===
+{{advanced}}
+...
+etc
+</pre>
+
+Feel free to add some specific blurb in place of (or in additon to) the standard.
+
+Templates that exist are;<br/>
+[[Template: advanced|<nowiki>{{advanced}}</nowiki>]]<br/>
+[[Template: enhanced|<nowiki>{{enhanced}}</nowiki>]]<br/>
+[[Template: hauler|<nowiki>{{hauler}}</nowiki>]]<br/>
+[[Template: pirate|<nowiki>{{pirate}}</nowiki>]]<br/>
+[[Template: prototype|<nowiki>{{prototype}}</nowiki>]]<br/>
+[[Template: raider|<nowiki>{{raider}}</nowiki>]]<br/>
+[[Template: regular|<nowiki>{{regular}}</nowiki>]]<br/>
+[[Template: sentinel|<nowiki>{{sentinel}}</nowiki>]]<br/>
+[[Template: vanguard|<nowiki>{{vanguard}}</nowiki>]]<br/>

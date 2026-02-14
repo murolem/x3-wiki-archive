@@ -1,3 +1,24 @@
-<!-- source file: index__q172a16e8cd84.html -->
+A [[Missions#Other Mission|Mission]] offered at [[stations]].
 
-A [[Missions#Other Mission|Mission]] offered at [[stations]]. ==Objective== Same as [[Transport Passenger|taxi]] mission but with greater numbers of passengers. ==General Difficulty:== Easy/Medium, depending on circumstance. ==What you will need: == * A fast ship with size M cargo or bigger, the requisite cargo capacity (6 per passenger), and [[Cargo Lifesupport System]]. * Docking Computer, to save time. ==What you will find: == * Anything up to 20 passengers to be transported across a couple of Sectors. ==Commentary and Strategy== The passengers board automatically when you dock. Time is usually tight, so having and using a [[Docking Computer]] is a big, big help. A [[Jumpdrive]] will make this mission a cakewalk, but if you don't have one, you'll have to tear across space as fast as you can (something which the autopilot cannot do). A [[TP]]-class ship is not a necessity, you simply need the requisite cargo space and the ability to get to the target in time. {{Missions}}
+==Objective==
+Same as [[Transport Passenger|taxi]] mission but with greater numbers of passengers.
+
+==General Difficulty:==
+Easy/Medium, depending on circumstance.
+
+==What you will need: ==
+
+* A fast ship with size M cargo or bigger, the requisite cargo capacity (6 per passenger), and [[Cargo Lifesupport System]].
+* Docking Computer, to save time.
+
+==What you will find: ==
+
+* Anything up to 20 passengers to be transported across a couple of Sectors.
+
+==Commentary and Strategy==
+The passengers board automatically when you dock. Time is usually tight, so having and using a [[Docking Computer]] is a big, big help. A [[Jumpdrive]] will make this mission a cakewalk, but if you don't have one, you'll have to tear across space as fast as you can (something which the autopilot cannot do).
+
+A [[TP]]-class ship is not a necessity, you simply need the requisite cargo space and the ability to get to the target in time.
+
+
+{{Missions}}

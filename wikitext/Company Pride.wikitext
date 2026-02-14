@@ -1,3 +1,29 @@
-<!-- source file: index__qc0230ef73e8a.html -->
+{{Infobox Sector
+|Race=Teladi
+|SecLevel=Border
+|Population=4,842,085
+|Planets=4
+|SunLevel=150
+|GateDist=55
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|-14000|	5950|	24360|[[Ceo's Sprite]]}}
+{{Gateblock2|East|27860|	0|	0|[[Thuruk's Beard]]}}
+</table>
+}}
+==Description==
+Although this system is a hive of Agricultural and Industrial activity, many respectable traders and merchants avoid it. Adventure seekers and rogues of all species frequent this system. The [[Pirate Base]] is a real den of iniquity and squalor. This system is a major link in the [[Split]]-[[Teladi]] trade route and its safety is jealously protected by the Profit Guild.
+==Default [[Stations]]==
+*[[Teladi Space Equipment Dock]]
+==[[Asteroids]]==
 
-{{Infobox Sector |Race=Teladi |SecLevel=Border |Population=4,842,085 |Planets=4 |SunLevel=150 |GateDist=55 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|-14000| 5950| 24360|[[Ceo's Sprite]]}} {{Gateblock2|East|27860| 0| 0|[[Thuruk's Beard]]}} &lt;/table> }} ==Description== Although this system is a hive of Agricultural and Industrial activity, many respectable traders and merchants avoid it. Adventure seekers and rogues of all species frequent this system. The [[Pirate Base]] is a real den of iniquity and squalor. This system is a major link in the [[Split]]-[[Teladi]] trade route and its safety is jealously protected by the Profit Guild. ==Default [[Stations]]== *[[Teladi Space Equipment Dock]] ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|12|-12238|588|-3008}} {{Asteroid/Item|Ore|12|-17842|-4079|-4623}} {{Asteroid/Item|Ore|5|-19461|-2588|-819}} {{Asteroid/Item|Ore|5|-13877|288|-9565}} {{Asteroid/Item|Ore|5|-17112|-2241|-9794}} {{Asteroid/End}} == See Also == {{Teladi Navbox}}
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|12|-12238|588|-3008}}
+{{Asteroid/Item|Ore|12|-17842|-4079|-4623}}
+{{Asteroid/Item|Ore|5|-19461|-2588|-819}}
+{{Asteroid/Item|Ore|5|-13877|288|-9565}}
+{{Asteroid/Item|Ore|5|-17112|-2241|-9794}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Teladi Navbox}}

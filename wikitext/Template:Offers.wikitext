@@ -1,3 +1,5 @@
-<!-- source file: index__q6d51b71e54aa.html -->
-
-{| class="wikitable collapsed" cellspacing="3" style="text-align:center;" width="100%" | style="background-color:grey;" | '''Offers''' |- | [[Station Hack]] | [[Buy Asteroid Information]] | [[Buy Sector Information]] | [[Buy Used Ship]] | [[Buy Blueprints]] |}
+{| class="wikitable collapsed" cellspacing="3" style="text-align:center;" width="100%"
+| style="background-color:grey;" |  '''Offers'''
+|-
+|  [[Station Hack]]  |  [[Buy Asteroid Information]]  |  [[Buy Sector Information]]  |  [[Buy Used Ship]]  |  [[Buy Blueprints]]
+|}

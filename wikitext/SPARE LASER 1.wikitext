@@ -1,3 +1,30 @@
-<!-- source file: index__q15246cec35b0.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Spare Laser 1
+|hulldam=1800
+|shielddam=12000
+|range=100
+|rof= 61
+|shotspeed= 25000
+|maxweapenergy= 5000
+|shotcost=66
+}}
+{{Infobox ware
+|ware=Spare Laser 1
+|cargoclass=L
+|volume=33
+|minprice=587744
+|aveprice=638852
+|maxprice=689960
+}}
+{{Infobox close}}
+==Overview==
+A curious weapon only compatible with Terran Torus Lasertowers. It has the longest range and highest bullet speed of any weapon in the game, outranging all missiles (100km range) and outspeeding beams(25km/s, or 25000m/s). Damage is around that of flak, and the weapon's appearance is also similar to flak.
 
-{{Infobox open}} {{Infobox weapon |weapon=Spare Laser 1 |hulldam=1800 |shielddam=12000 |range=100 |rof= 61 |shotspeed= 25000 |maxweapenergy= 5000 |shotcost=66 }} {{Infobox ware |ware=Spare Laser 1 |cargoclass=L |volume=33 |minprice=587744 |aveprice=638852 |maxprice=689960 }} {{Infobox close}} ==Overview== A curious weapon only compatible with Terran Torus Lasertowers. It has the longest range and highest bullet speed of any weapon in the game, outranging all missiles (100km range) and outspeeding beams(25km/s, or 25000m/s). Damage is around that of flak, and the weapon's appearance is also similar to flak. ==Encyclopedia Entry== ==Commentary== Found in one sector only, and that is Earth, onboard the Terran lasertowers. This weapon is the most curious, partly due to its name, and partly due to its stats. With the number of lasertowers on the Torus and the weapon's 100km range, if you are attacked there you will die unless you field one of the few invincible ships you can acquire. ==Known Compatible Ships== ==Available at Known Docks== Not available for sale at any dock.
+==Encyclopedia Entry==
+==Commentary==
+Found in one sector only, and that is Earth, onboard the Terran lasertowers. This weapon is the most curious, partly due to its name, and partly due to its stats. With the number of lasertowers on the Torus and the weapon's 100km range, if you are attacked there you will die unless you field one of the few invincible ships you can acquire.
+
+==Known Compatible Ships==
+==Available at Known Docks==
+Not available for sale at any dock.

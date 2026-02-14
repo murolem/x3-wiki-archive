@@ -1,3 +1,29 @@
-<!-- source file: index__q6470dbae8585.html -->
+{{Infobox Sector
+|Race=Teladi
+|SecLevel=Core
+|Population=56,383,737
+|Planets=3
+|SunLevel=150
+|GateDist=55
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|0|	0|	28224|[[Seizewell]]}}
+{{Gateblock2|South|0|	0|	-28224|[[Blue Profit]]}}
+{{Gateblock2|West|-28224|	0|	0|[[Spaceweed Drift]]}}
+</table>
+}}
+==Description==
+A relatively safe system, ideal for short trading runs and a debut in factory ownership. The Sun Oil Refineries in this system and more in the surrounding systems are reliant on imported [[Sunrise Flowers]] - making this an ideal location for a [[Solar Power Plant]] and [[Dream Farm]].
 
-{{Infobox Sector |Race=Teladi |SecLevel=Core |Population=56,383,737 |Planets=3 |SunLevel=150 |GateDist=55 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|0| 0| 28224|[[Seizewell]]}} {{Gateblock2|South|0| 0| -28224|[[Blue Profit]]}} {{Gateblock2|West|-28224| 0| 0|[[Spaceweed Drift]]}} &lt;/table> }} ==Description== A relatively safe system, ideal for short trading runs and a debut in factory ownership. The Sun Oil Refineries in this system and more in the surrounding systems are reliant on imported [[Sunrise Flowers]] - making this an ideal location for a [[Solar Power Plant]] and [[Dream Farm]]. The sector description's mention of debut factory ownership is a nod to [[X: Beyond the Frontier]]. In X:BTF, a [[Solar Power Plant]] was the least expensive factory available to the player, and therefore usually the first a player would buy. Greater Profit was the most popular place to place these Plants, thanks to the sector's [[Crystal Fab]] (and the lack of one in [[Seizewell]]). ==Default [[Stations]]== *[[Teladi Trading Station]] *[[Crystal Fab]] M Alpha ==[[Asteroids]]== == See Also == {{Teladi Navbox}}
+The sector description's mention of debut factory ownership is a nod to [[X: Beyond the Frontier]].  In X:BTF, a [[Solar Power Plant]] was the least expensive factory available to the player, and therefore usually the first a player would buy. Greater Profit was the most popular place to place these Plants, thanks to the sector's [[Crystal Fab]] (and the lack of one in [[Seizewell]]).
+
+==Default [[Stations]]==
+*[[Teladi Trading Station]]
+*[[Crystal Fab]] M Alpha
+
+
+==[[Asteroids]]==
+
+
+== See Also ==
+{{Teladi Navbox}}

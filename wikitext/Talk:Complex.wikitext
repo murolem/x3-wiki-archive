@@ -1,3 +1,47 @@
-<!-- source file: index__q456e4b92fdee.html -->
+thanks for the help, it looks so much cleaner. I think we need simplify some of it since its intent was for newer players since some of the graphics could be confusing and the content degree of difficulty wavers a bit. 
 
-thanks for the help, it looks so much cleaner. I think we need simplify some of it since its intent was for newer players since some of the graphics could be confusing and the content degree of difficulty wavers a bit. I need someone with more wiki experience then myself to make it look beautiful I tried as best as I could and thats what I got lol. I want to add some small pictures off to the side too how do I do that? : be mindful of leading spaces it makes those quoted sections [[User:Madned|Madned]] 18:28, 13 March 2012 (CDT) This is a bit of a rabbit hole topic. It runs pretty much from the start of a game to past where the game scripting ends. It does need a clearer organization. For beginners it'd be better to start small, but you're jumping in right at building stations and complexes. If you've got the money to do that then you're not a beginning player, unless you gave yourself enough via out of game programming. This could be a satellite article of a hub article which lays out basic play styles. [[User:Madned|Madned]] 16:07, 23 March 2012 (CDT) BTW you have heard of the [[Complex Construction Kit]] right? this guide seems to be written with x2 more in mind, that was a time when you had to use shipping to network stations. also the credit section is a bit nonsensical on a wiki unless you're laying direct claim to the page. wiki's keep history logs so ppl can look up prior edits/editors. I think the image upload function has been disabled for the most part. judging by other wikis it'd be something like &lt;nowiki>[[File:Carl Gustaf.jpg|border|150px|center|link=King Carl Gustaf]]&lt;/nowiki> [[User:Madned|Madned]] 19:00, 13 March 2012 (CDT) ==Damn spam filter== pls remove f-o-r-d from the filter, it messes up words like a-f-f-o-r-d, thanks! [[User:Madned|Madned]] 17:16, 19 March 2012 (CDT) ==To Do List:== How to put a complex together Using advanced satellites ‘3d mode’ Complex hub handles aligning '''DONE'''-Energy buying vs. energy collecting. Intermediate buying vs producing. Buying and selling intermediate products Competition Supply and demand '''DONE'''-Yellow exclamation point Local equipment docks selling &amp; Force selling military goods. M5 sellers XL freighter seller vs 4000cb freighters Small complex’s vs mega complexes *Market saturation '''DONE'''-How to hire a station hauler, command him &amp; how to build a structure. ==Credits== This guide created by --[[User:SaniK|SaniK]] 23:52, 9 March 2012 (CST) aka Smart_Bomb, Please contact me in Egosoft X3: TC/AB forum for any additional questions or comments! Edited by: (add your tag here if you added or edited more than a sentence or graph) == OOS Trading vs. IS Trading == It's too late for me to be editing the main page, but it should probably be noted that if you stay IS with your complex, then it's more likely other ships will crash into it etc. Effectively, if you're going to SETA for long periods and have freighters coming and going at all times, do it in another system (that is also relatively safe, and well away from the ecliptic), that way your freighters don't crash into jump gates or stray [[TL]]s. [[User:Korlus|Korlus]] ([[User talk:Korlus|talk]]) 23:13, 19 March 2013 (CDT)
+I need someone with more wiki experience then myself to make it look beautiful I tried as best as I could and thats what I got lol. I want to add some small pictures off to the side too how do I do that?
+
+: be mindful of leading spaces it makes those quoted sections [[User:Madned|Madned]] 18:28, 13 March 2012 (CDT)
+
+This is a bit of a rabbit hole topic. It runs pretty much from the start of a game to past where the game scripting ends. It does need a clearer organization.  For beginners it'd be better to start small, but you're jumping in right at building stations and complexes. If you've got the money to do that then you're not a beginning player, unless you gave yourself enough via out of game programming. This could be a satellite article of a hub article which lays out basic play styles. [[User:Madned|Madned]] 16:07, 23 March 2012 (CDT)
+
+BTW you have heard of the [[Complex Construction Kit]] right? this guide seems to be written with x2 more in mind, that was a time when you had to use shipping to network stations.  also the credit section is a bit nonsensical on a wiki unless you're laying direct claim to the page. wiki's keep history logs so ppl can look up prior edits/editors. I think the image upload function has been disabled for the most part. judging by other wikis it'd be something like <nowiki>[[File:Carl Gustaf.jpg|border|150px|center|link=King Carl Gustaf]]</nowiki> [[User:Madned|Madned]] 19:00, 13 March 2012 (CDT)
+==Damn spam filter==
+pls remove f-o-r-d from the filter, it messes up words like a-f-f-o-r-d, thanks! [[User:Madned|Madned]] 17:16, 19 March 2012 (CDT)
+
+==To Do List:==
+How to put a complex together
+
+Using advanced satellites ‘3d mode’
+
+Complex hub handles aligning
+
+'''DONE'''-Energy buying vs. energy collecting. Intermediate buying vs producing.
+
+Buying and selling intermediate products
+
+Competition
+
+Supply and demand
+
+'''DONE'''-Yellow exclamation point
+
+Local equipment docks selling & Force selling military goods.
+
+M5 sellers
+
+XL freighter seller vs 4000cb freighters
+
+Small complex’s vs mega complexes 
+*Market saturation
+
+'''DONE'''-How to hire a station hauler, command him & how to build a structure.
+
+==Credits==
+This guide created by --[[User:SaniK|SaniK]] 23:52, 9 March 2012 (CST) aka Smart_Bomb, Please contact me in Egosoft X3: TC/AB forum for any additional questions or comments!
+
+Edited by: (add your tag here if you added or edited more than a sentence or graph)
+
+== OOS Trading vs. IS Trading ==
+It's too late for me to be editing the main page, but it should probably be noted that if you stay IS with your complex, then it's more likely other ships will crash into it etc. Effectively, if you're going to SETA for long periods and have freighters coming and going at all times, do it in another system (that is also relatively safe, and well away from the ecliptic), that way your freighters don't crash into jump gates or stray [[TL]]s. [[User:Korlus|Korlus]] ([[User talk:Korlus|talk]]) 23:13, 19 March 2013 (CDT)

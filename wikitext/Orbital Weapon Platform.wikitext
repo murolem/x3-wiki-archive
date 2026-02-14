@@ -1,3 +1,334 @@
-<!-- source file: index__q43999c8178ec.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Orbital Weapon Platform L
+|Faction=Standard
+|SuppressAutoCat=yes
+|Class={{M1class}}
+|Priceblock=
+|Minspeed=0
+|Maxspeed=0
+|Minaccel=0
+|Maxaccel=0
+|Minsteer=0.5
+|Maxsteer=0.5
+|Hull=
+|Maxshield=2 GJ
+|Shieldslots=3
+|Maxshieldstrength=6000
+|Shieldreactor= 10500
+|Cargoclass=XL
+|Mincargo=
+|Maxcargo=9000
+|Lasercap=165000
+|Laserrecharge=3598
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=4
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Back
+|Guncount=4
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=10
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=10
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=10
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=10
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay={{Dockbay|3 {{Fighterdock}}}}
+}}
+{{Infobox variant
+|Variant=Orbital Weapon Platform M
+|Faction=Standard
+|SuppressAutoCat=yes
+|Class={{M1class}}
+|Priceblock=
+|Minspeed=0
+|Maxspeed=0
+|Minaccel=0
+|Maxaccel=0
+|Minsteer=0.5
+|Maxsteer=0.5
+|Hull=
+|Maxshield=1 GJ
+|Shieldslots=3
+|Maxshieldstrength=3000
+|Shieldreactor= 7000
+|Cargoclass=XL
+|Mincargo=
+|Maxcargo=6000
+|Lasercap=140000
+|Laserrecharge=3999
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=8
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Back
+|Guncount=8
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=8
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=8
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Orbital Weapon Platform S
+|Faction=Standard
+|SuppressAutoCat=yes
+|Class={{M1class}}
+|Priceblock=
+|Minspeed=0
+|Maxspeed=0
+|Minaccel=0
+|Maxaccel=0
+|Minsteer=0.6
+|Maxsteer=0.6
+|Hull=
+|Maxshield=1 GJ
+|Shieldslots=1
+|Maxshieldstrength=1000
+|Shieldreactor= 6000
+|Cargoclass=XL
+|Mincargo=
+|Maxcargo=5000
+|Lasercap=120000
+|Laserrecharge=3437
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=4
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=4
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=4
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Back
+|Guncount=4
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+Listed as {{M1class}}s, Orbital Weapons Platforms most resemble stations instead of ships. Of the three, the L variant even permits limited docking.
 
-{{Infobox open}} {{Infobox variant |Variant=Orbital Weapon Platform L |Faction=Standard |SuppressAutoCat=yes |Class={{M1class}} |Priceblock= |Minspeed=0 |Maxspeed=0 |Minaccel=0 |Maxaccel=0 |Minsteer=0.5 |Maxsteer=0.5 |Hull= |Maxshield=2 GJ |Shieldslots=3 |Maxshieldstrength=6000 |Shieldreactor= 10500 |Cargoclass=XL |Mincargo= |Maxcargo=9000 |Lasercap=165000 |Laserrecharge=3598 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=4 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Back |Guncount=4 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount=10 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount=10 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Right |Guncount=10 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Right |Guncount=10 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay={{Dockbay|3 {{Fighterdock}}}} }} {{Infobox variant |Variant=Orbital Weapon Platform M |Faction=Standard |SuppressAutoCat=yes |Class={{M1class}} |Priceblock= |Minspeed=0 |Maxspeed=0 |Minaccel=0 |Maxaccel=0 |Minsteer=0.5 |Maxsteer=0.5 |Hull= |Maxshield=1 GJ |Shieldslots=3 |Maxshieldstrength=3000 |Shieldreactor= 7000 |Cargoclass=XL |Mincargo= |Maxcargo=6000 |Lasercap=140000 |Laserrecharge=3999 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=8 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Back |Guncount=8 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount=8 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Right |Guncount=8 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Orbital Weapon Platform S |Faction=Standard |SuppressAutoCat=yes |Class={{M1class}} |Priceblock= |Minspeed=0 |Maxspeed=0 |Minaccel=0 |Maxaccel=0 |Minsteer=0.6 |Maxsteer=0.6 |Hull= |Maxshield=1 GJ |Shieldslots=1 |Maxshieldstrength=1000 |Shieldreactor= 6000 |Cargoclass=XL |Mincargo= |Maxcargo=5000 |Lasercap=120000 |Laserrecharge=3437 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=4 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Right |Guncount=4 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount=4 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Back |Guncount=4 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== Listed as {{M1class}}s, Orbital Weapons Platforms most resemble stations instead of ships. Of the three, the L variant even permits limited docking. In the in-game encyclopaedia, they are categorized as "Special Ships", alongside the likes of the [[Space Suit]]. ==Background== The three encyclopedia entries are as follows: ===Large=== This Large Orbital Weapons Platform boasts a large number of weapons and heavy shielding, making it the most powerful option available for orbital security of stations and sectors. ===Medium=== The medium-sized Orbital Weapons Platform provides moderate levels of protection to nearby space. These weapons platforms are ideal for deploying along trade routes to cover maximum space for minimum cost. ===Small=== The Argon Small Orbital Weapons Platform provides total orbital defense capabilities over and above that provided by a single weapon Lasertower. It is mostly effective against smaller ships, especially fighters. ==Physical Characteristics== Each looks very much like a space station, with angular overhangs for the weapons. == Combat == Though equipped with many weapon mounts, orbital Weapons Platforms cannot generally defeat capital class opponents. They are, however, extremely potent against fighters and corvettes. Though they have [[IBL]] compatibility, none are ever seen using them, being limited to the inferior [[CIG]]. == Equipment == *Built-In Equipment **Fight Command Software Mk1 **Triplex Scanner **Fight Command Software Mk2 == Availability == While normally unavailable to the player, when first introduced by the [[X3: Reunion#XTM Mod|X-Tended Mod]] for [[X3: Reunion]], they were purchasable by the player in the different faction's [[Shipyards#Super Shipyards|Super Shipyards]]. == Suggested Roles== Though unavailable to the player, the OWP could be used in the role of a homebase for a patrol wing or as an early warning device to attract enemy attention away from valuable and vulnerable stations. == See Also== * [[Recon Drone]] * [[Freight Drone]] * [[Fighter Drone]] * [[Fighter Drone MKII]] * [[Navigation Relay Satellite]] {{Specialshipscategory}}
+In the in-game encyclopaedia, they are categorized as "Special Ships", alongside the likes of the [[Space Suit]].
+
+==Background==
+The three encyclopedia entries are as follows:
+
+===Large===
+This Large Orbital Weapons Platform boasts a large number of weapons and heavy shielding, making it the most powerful option available for orbital security of stations and sectors.
+
+===Medium===
+The medium-sized Orbital Weapons Platform provides moderate levels of protection to nearby space. These weapons platforms are ideal for deploying along trade routes to cover maximum space for minimum cost.
+
+===Small===
+The Argon Small Orbital Weapons Platform provides total orbital defense capabilities over and above that provided by a single weapon Lasertower. It is mostly effective against smaller ships, especially fighters.
+
+==Physical Characteristics==
+Each looks very much like a space station, with angular overhangs for the weapons.
+
+== Combat ==
+Though equipped with many weapon mounts, orbital Weapons Platforms cannot generally defeat capital class opponents. They are, however, extremely potent against fighters and corvettes.
+Though they have [[IBL]] compatibility, none are ever seen using them, being limited to the inferior [[CIG]].
+
+== Equipment ==
+*Built-In Equipment
+**Fight Command Software Mk1
+**Triplex Scanner
+**Fight Command Software Mk2
+
+== Availability ==
+While normally unavailable to the player, when first introduced by the [[X3: Reunion#XTM Mod|X-Tended Mod]] for [[X3: Reunion]], they were purchasable by the player in the different faction's [[Shipyards#Super Shipyards|Super Shipyards]].
+
+== Suggested Roles==
+Though unavailable to the player, the OWP could be used in the role of a homebase for a patrol wing or as an early warning device to attract enemy attention away from valuable and vulnerable stations.
+
+== See Also==
+* [[Recon Drone]]
+* [[Freight Drone]]
+* [[Fighter Drone]]
+* [[Fighter Drone MKII]]
+* [[Navigation Relay Satellite]]
+
+{{Specialshipscategory}}

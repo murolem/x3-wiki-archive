@@ -1,3 +1,18 @@
-<!-- source file: index__q61cb089af795.html -->
+#REDIRECT [[Unknown Sector (8,4)]]
 
-#REDIRECT [[Unknown Sector (8,4)]] {{Infobox Sector |Race=Terran |SecLevel=Border |Population= |Planets= |SunLevel=150 |GateDist= |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;/tr> {{Gateblock|South|1500| 0| -45750}} {{Gateblock|West|-29000| 0| -750}} &lt;/table> }} ==Description== ==Default [[Stations]]== ==[[Asteroids]]==
+{{Infobox Sector
+|Race=Terran
+|SecLevel=Border
+|Population=
+|Planets=
+|SunLevel=150
+|GateDist=
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th></tr>
+{{Gateblock|South|1500|	0|	-45750}}
+{{Gateblock|West|-29000|	0|	-750}}
+</table>
+}}
+==Description==
+==Default [[Stations]]==
+==[[Asteroids]]==

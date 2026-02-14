@@ -1,3 +1,132 @@
-<!-- source file: index__qbe98b936c8a5.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Phased Repeater Gun
+|hulldam=765
+|shielddam=7200
+|range=2.32
+|rof= 638
+|shotspeed= 1560
+|maxweapenergy= 900
+|shotcost=138
+}}
+{{Infobox ware
+|ware=Phased Repeater Gun
+|cargoclass=S
+|volume=4
+|minprice=133130
+|aveprice=149584
+|maxprice=166038
+}}
+{{Infobox close}}
+==Overview==
+The Phased Repeater Gun or PRG is a powerful heavy fighter weapon used on [[Argon]] ships amongst others. Not to be confused with the [[Plasma Burst Generator|PBG]] or [[Phased Shockwave Generator|PSG]].
 
-{{Infobox open}} {{Infobox weapon |weapon=Phased Repeater Gun |hulldam=765 |shielddam=7200 |range=2.32 |rof= 638 |shotspeed= 1560 |maxweapenergy= 900 |shotcost=138 }} {{Infobox ware |ware=Phased Repeater Gun |cargoclass=S |volume=4 |minprice=133130 |aveprice=149584 |maxprice=166038 }} {{Infobox close}} ==Overview== The Phased Repeater Gun or PRG is a powerful heavy fighter weapon used on [[Argon]] ships amongst others. Not to be confused with the [[Plasma Burst Generator|PBG]] or [[Phased Shockwave Generator|PSG]]. ==Encyclopedia Entry== A weapon found in some medium and large fighters. Designed for M3 fighters to be lighter and faster than HEPTs, and also serving as a heavier weapon for M4s. The Phased Repeater Gun fires in quick bursts of 3 rounds and is ideal for taking out fast and hard-to-hit enemy fighters. ==Commentary== The PRG is a light and fast weapon. The high shell velocity makes it a very accurate weapon and it deals a decent amount of damage, making its destructive potential against fighters very high. A good weapon for an M3 that has to deal with smaller adversaries that are too difficult to hit with the [[High Energy Plasma Thrower|HEPT]]. An excellent choice for back/front turrets on Commonwealth fighters capable of mounting and powering it; its accuracy makes it effective in a Missile Defence turret. ==Known Compatible Ships== {| cellpadding="5" |- valign="top" | *[[Aamon]] *[[Akuma]] *[[Angel]] *[[Aquilo]] *[[Auster Hauler]] *[[Barracuda]] *[[Blastclaw]] *[[Boreas]] *[[Brigantine]] *[[Buster]] *[[Buzzard]] *[[Caravel]] *[[Carrack]] *[[Centaur]] | *[[Cerberus]] *[[Cobra]] *[[Colossus]] *[[Condor]] *[[Eclipse]] *[[Elite]] *[[Eurus]] *[[Express]] *[[Falcon]] *[[Galleon]] *[[Gannet]] *[[Gladiator]] *[[Griffon]] | *[[Heavy Centaur]] *[[Heavy Hydra]] *[[Heavy Osprey]] *[[Hoshi]] *[[Hydra]] *[[Kea]] *[[Kestrel]] *[[Kite]] *[[Magnetar]] *[[Mammoth]] *[[Mercury(ship)]] *[[Mistral]] *[[Mobile Pirate Base Hauler]] | *[[Notus Hauler]] *[[Nova]] *[[Orbital Weapon Platform L]] *[[Orbital Weapon Platform M]] *[[Orbital Weapon Platform S]] *[[Orca]] *[[Osprey]] *[[Panther]] *[[Pelican]] *[[Peregrine]] *[[Perseus]] *[[Phantom]] *[[Phoenix]] *[[Pleco]] *[[Ray]] | *[[Ryu]] *[[Shark]] *[[Shrike]] *[[Shuri]] *[[Sirokos]] *[[Skate]] *[[Skiron]] *[[Solano]] *[[Tenjin]] *[[Thresher]] *[[Tiger]] *[[Titan (ship)]] *[[Toucan]] | *[[Truelight Seeker]] *[[Venti]] *[[Vulture]] *[[X-perimental Shuttle]] *[[Xenon J]] *[[Xenon K]] *[[Xenon L]] *[[Xenon P]] *[[Xenon PX]] *[[Zephyrus]] *[[Zeus]] |} ==Available at Known Docks== ==Sold as Products at Known Stations== * [[Aladna Hill]] * [[Argon Prime]] * [[Argon Sector M148]] * [[Cloudbase North West]] * [[Cloudbase South East]] * [[Olmancketslat's Treaty]] * [[Omicron Lyrae]] * [[Wastelands]]
+==Encyclopedia Entry==
+A weapon found in some medium and large fighters.
+
+Designed for M3 fighters to be lighter and faster than HEPTs, and also serving as a heavier weapon for M4s. The Phased Repeater Gun fires in quick bursts of 3 rounds and is ideal for taking out fast and hard-to-hit enemy fighters.
+==Commentary==
+The PRG is a light and fast weapon. The high shell velocity makes it a very accurate weapon and it deals a decent amount of damage, making its destructive potential against fighters very high. A good weapon for an M3 that has to deal with smaller adversaries that are too difficult to hit with the [[High Energy Plasma Thrower|HEPT]]. An excellent choice for back/front turrets on Commonwealth fighters capable of mounting and powering it; its accuracy makes it effective in a Missile Defence turret.
+
+==Known Compatible Ships==
+{| cellpadding="5"
+|- valign="top"
+|
+*[[Aamon]]
+*[[Akuma]]
+*[[Angel]]
+*[[Aquilo]]
+*[[Auster Hauler]]
+*[[Barracuda]]
+*[[Blastclaw]]
+*[[Boreas]]
+*[[Brigantine]]
+*[[Buster]]
+*[[Buzzard]]
+*[[Caravel]]
+*[[Carrack]]
+*[[Centaur]]
+|
+*[[Cerberus]]
+*[[Cobra]]
+*[[Colossus]]
+*[[Condor]]
+*[[Eclipse]]
+*[[Elite]]
+*[[Eurus]]
+*[[Express]]
+*[[Falcon]]
+*[[Galleon]]
+*[[Gannet]]
+*[[Gladiator]]
+*[[Griffon]]
+|
+*[[Heavy Centaur]]
+*[[Heavy Hydra]]
+*[[Heavy Osprey]]
+*[[Hoshi]]
+*[[Hydra]]
+*[[Kea]]
+*[[Kestrel]]
+*[[Kite]]
+*[[Magnetar]]
+*[[Mammoth]]
+*[[Mercury(ship)]]
+*[[Mistral]]
+*[[Mobile Pirate Base Hauler]]
+|
+*[[Notus Hauler]]
+*[[Nova]]
+*[[Orbital Weapon Platform L]]
+*[[Orbital Weapon Platform M]]
+*[[Orbital Weapon Platform S]]
+*[[Orca]]
+*[[Osprey]]
+*[[Panther]]
+*[[Pelican]]
+*[[Peregrine]]
+*[[Perseus]]
+*[[Phantom]]
+*[[Phoenix]]
+*[[Pleco]]
+*[[Ray]]
+|
+*[[Ryu]]
+*[[Shark]]
+*[[Shrike]]
+*[[Shuri]]
+*[[Sirokos]]
+*[[Skate]]
+*[[Skiron]]
+*[[Solano]]
+*[[Tenjin]]
+*[[Thresher]]
+*[[Tiger]]
+*[[Titan (ship)]]
+*[[Toucan]]
+|
+*[[Truelight Seeker]]
+*[[Venti]]
+*[[Vulture]]
+*[[X-perimental Shuttle]]
+*[[Xenon J]]
+*[[Xenon K]]
+*[[Xenon L]]
+*[[Xenon P]]
+*[[Xenon PX]]
+*[[Zephyrus]]
+*[[Zeus]]
+|}
+
+==Available at Known Docks==
+
+==Sold as Products at Known Stations==
+
+* [[Aladna Hill]]
+* [[Argon Prime]]
+* [[Argon Sector M148]]
+* [[Cloudbase North West]]
+* [[Cloudbase South East]]
+* [[Olmancketslat's Treaty]]
+* [[Omicron Lyrae]]
+* [[Wastelands]]

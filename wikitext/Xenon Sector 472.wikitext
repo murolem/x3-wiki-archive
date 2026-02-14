@@ -1,3 +1,19 @@
-<!-- source file: index__q35147e221401.html -->
+{{Infobox Sector
+|Race=Xenon 
+|SecLevel=Border
+|Population=
+|Planets=
+|SunLevel=150
+|GateDist=
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|East|17410|	0|	6000|[[Thyn's Abyss]]}}
+{{Gateblock2|South|-8000|	0|	-16660|[[Black Hole Sun]]}}
+</table>
+}}
+==Description==
+==Default [[Stations]]==
+*Xenon Shipyard
+*Xenon Station
 
-{{Infobox Sector |Race=Xenon |SecLevel=Border |Population= |Planets= |SunLevel=150 |GateDist= |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|East|17410| 0| 6000|[[Thyn's Abyss]]}} {{Gateblock2|South|-8000| 0| -16660|[[Black Hole Sun]]}} &lt;/table> }} ==Description== ==Default [[Stations]]== *Xenon Shipyard *Xenon Station ==[[Asteroids]]==
+==[[Asteroids]]==

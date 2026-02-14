@@ -1,3 +1,35 @@
-<!-- source file: index__qd0cca3d61a6d.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Recon Drone
+|cargoclass=S
+|volume=2
+|minprice=20496
+|aveprice=28076
+|maxprice=35656
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+Recon Drones, equipped with specialised wide-spectrum cameras and sensing equipment, are able to infiltrate and monitor enemy areas and installations, sending telemetry back in near-real time.
 
-{{Infobox open}} {{Infobox ware |ware= Recon Drone |cargoclass=S |volume=2 |minprice=20496 |aveprice=28076 |maxprice=35656 }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== Recon Drones, equipped with specialised wide-spectrum cameras and sensing equipment, are able to infiltrate and monitor enemy areas and installations, sending telemetry back in near-real time. ==Commentary== In Terran Conflict, Recon Drones are wares and do not have any function when being ejected, as such they just appear as floating crates in space after ejection. In Albion Prelude, Recon Drones can be commanded to explore and fly through gates. The drones have Explorer Command Software and 1MJ shields, with 300 hull. The drones have a maximum speed of 652m/s. ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Recon Drone Construction Facility]] in [[Queen's Retribution]] | *List of Race Factories where this ware is a primary resource | *List of Race Factories where this ware is a secondary resource | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}} {{Waretable}}
+==Commentary==
+In Terran Conflict, Recon Drones are wares and do not have any function when being ejected, as such they just appear as floating crates in space after ejection.
+
+In Albion Prelude, Recon Drones can be commanded to explore and fly through gates.  The drones have Explorer Command Software and 1MJ shields, with 300 hull.  The drones have a maximum speed of 652m/s.
+
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Recon Drone Construction Facility]] in [[Queen's Retribution]]
+|
+*List of Race Factories where this ware is a primary resource
+|
+*List of Race Factories where this ware is a secondary resource
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}
+
+{{Warecategory}}
+{{Waretable}}

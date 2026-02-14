@@ -1,3 +1,72 @@
-<!-- source file: index__qef77cc280294.html -->
+Here is a list of all default ownerless ships in X3: Terran Conflict. In X3: Albion Prelude, ownerless ships exist as well, but their locations are randomly chosen in each game.
 
-Here is a list of all default ownerless ships in X3: Terran Conflict. In X3: Albion Prelude, ownerless ships exist as well, but their locations are randomly chosen in each game. Abandoned ships may be [[claim]]ed by space walking and accessing the ship information screen or use of [[System Override Software]]. The ships listed below usually spawn at the listed location at the start of each game. Many players use these ships as a seed for expanded operations either adding them to their fleets or selling them for [[credits]]. The coordinates are given in meters relative to (0, 0, 0) of the sector. An easy way to find them is to use the "Move to Position" command from the [[autopilot]]. {| class="prettytable wikitable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:right;" !Ship!!Class !! Sector !! X Coordinate !! Y Coordinate !! Z Coordinate |- | [[Perseus|Advanced Perseus]]|| [[M3]] ||[[ Duke's Citadel]]|| 42250 || 250 || 31000 |- | [[Barracuda|Advanced Barracuda]]|| [[M3]] ||[[Hila's Joy]]|| -33000 || 1500 || 36000 |- | [[Eclipse|Advanced Eclipse]]|| [[M3+]] ||[[Ocracoke's Storm]]|| 30100 || -1500 || -8000 |- | [[Skate|Skate Prototype]]|| [[M3+]] ||[[Menelaus' Oasis]]|| 38500 || 1000 || 32500 |- | [[Blastclaw|Blastclaw Prototype]]|| [[M3]] ||[[Veil of Delusion]]|| 47600 || 3500 || -41500 |- | [[Mamba]]|| [[M3]] ||[[LooManckStrat's Legacy]]|| -12060 || 1160 || -19320 |- | [[Falcon|Falcon Sentinel]]|| [[M3]] ||[[Unknown Sector (16,0)]]|| -20000 || 3000 || 2000 |- | [[Eclipse#Pirate_Eclipse|Pirate Eclipse]]|| [[M3+]] ||[[Vestibule of Creation]]|| -7000 || -13500 || 37500 |- | [[Buster|Buster Sentinel]]|| [[M4]] ||[[Treasure Chest]]|| -32680 || -5400 || -33520 |- | [[Scorpion|Scorpion Raider]]|| [[M4]] ||[[Xenon Sector 101]]|| 20125 || 0 || 61625 |- | [[Buzzard|Buzzard Hauler]]|| [[M4]] ||[[Tkr's Deprivation]]|| -4204 || -58 || 62714 |- | [[Elite#Pirate_Elite|Pirate Elite]]|| [[M4+]] ||[[Gaian Star]]|| 66000 || 0 || -10000 |- | [[Pericles|Enhanced Pericles]]|| [[M4]] ||[[Savage Spur]]|| 44750 || 9125 || -28062 |- | [[Buster|Buster Sentinel]]|| [[M4]] ||[[Akeela's Beacon]]|| 100125 || -10000 || 77242 |- | [[Mako|Mako Raider]]|| [[M4]] ||[[Depths Of Silence]]|| 2349 || 729 || 40383 |- | [[Pericles|Pericles Vanguard]]|| [[M4]] ||[[Unknown Sector (7,15)]]|| 13754 || 17303 || -27013 |- | [[Harrier|Harrier Sentinel]]|| [[M5]] ||[[The Vault]]|| -18000 || -375 || -51625 |- | [[Harrier|Harrier Sentinel]] vers 3.2|| [[M5]] ||[[The Vault]]|| -25000 || -10000 || -14000 |- | [[Toucan|Toucan Hauler]]|| [[TP]] ||[[ Menelaus' Frontier]]|| 43000 || -7000 || 35000 |- | [[Iguana|Iguana Vanguard]]|| [[TP]] ||[[Family Whi]]|| 38000||0||35500 |} some info pulled from eng.x3tc.ru/x3_tc_free/ships.php.
+Abandoned ships may be [[claim]]ed by space walking and accessing the ship information screen or use of [[System Override Software]]. The ships listed below usually spawn at the listed location at the start of each game. Many players use these ships as a seed for expanded operations either adding them to their fleets or selling them for [[credits]].
+
+The coordinates are given in meters relative to (0, 0, 0) of the sector.  An easy way to find them is to use the "Move to Position" command from the [[autopilot]].
+
+{| class="prettytable wikitable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:right;"
+
+!Ship!!Class !! Sector !! X Coordinate !! Y Coordinate !! Z Coordinate
+
+|-
+| [[Perseus|Advanced Perseus]]|| [[M3]] ||[[ Duke's Citadel]]|| 42250 || 250 || 31000
+
+|-
+| [[Barracuda|Advanced Barracuda]]|| [[M3]] ||[[Hila's Joy]]|| -33000 || 1500 || 36000
+
+|-
+| [[Eclipse|Advanced Eclipse]]|| [[M3+]] ||[[Ocracoke's Storm]]|| 30100 || -1500 || -8000
+
+|-
+| [[Skate|Skate Prototype]]|| [[M3+]] ||[[Menelaus' Oasis]]|| 38500 || 1000 || 32500
+
+|-
+| [[Blastclaw|Blastclaw Prototype]]|| [[M3]] ||[[Veil of Delusion]]|| 47600 || 3500 || -41500
+
+|-
+| [[Mamba]]|| [[M3]] ||[[LooManckStrat's Legacy]]|| -12060 || 1160 || -19320
+
+|-
+| [[Falcon|Falcon Sentinel]]|| [[M3]] ||[[Unknown Sector (16,0)]]|| -20000 || 3000 || 2000
+
+|-
+| [[Eclipse#Pirate_Eclipse|Pirate Eclipse]]|| [[M3+]] ||[[Vestibule of Creation]]|| -7000 || -13500 || 37500
+
+|-
+| [[Buster|Buster Sentinel]]|| [[M4]] ||[[Treasure Chest]]|| -32680 || -5400 || -33520
+
+|-
+| [[Scorpion|Scorpion Raider]]|| [[M4]] ||[[Xenon Sector 101]]|| 20125 || 0 || 61625
+
+|-
+| [[Buzzard|Buzzard Hauler]]|| [[M4]] ||[[Tkr's Deprivation]]|| -4204 || -58 || 62714
+
+|-
+| [[Elite#Pirate_Elite|Pirate Elite]]|| [[M4+]] ||[[Gaian Star]]|| 66000 || 0 || -10000
+
+|-
+| [[Pericles|Enhanced Pericles]]|| [[M4]] ||[[Savage Spur]]|| 44750 || 9125 || -28062
+
+|-
+| [[Buster|Buster Sentinel]]|| [[M4]] ||[[Akeela's Beacon]]|| 100125 || -10000 || 77242
+
+|-
+| [[Mako|Mako Raider]]|| [[M4]] ||[[Depths Of Silence]]|| 2349 || 729 || 40383
+
+|-
+| [[Pericles|Pericles Vanguard]]|| [[M4]] ||[[Unknown Sector (7,15)]]|| 13754 || 17303 || -27013
+
+|-
+| [[Harrier|Harrier Sentinel]]|| [[M5]] ||[[The Vault]]|| -18000 || -375 || -51625
+|-
+| [[Harrier|Harrier Sentinel]] vers 3.2|| [[M5]] ||[[The Vault]]|| -25000 || -10000 || -14000
+
+|-
+| [[Toucan|Toucan Hauler]]|| [[TP]] ||[[ Menelaus' Frontier]]|| 43000 || -7000 || 35000
+
+|-
+| [[Iguana|Iguana Vanguard]]|| [[TP]] ||[[Family Whi]]|| 38000||0||35500
+
+|}
+
+some info pulled from eng.x3tc.ru/x3_tc_free/ships.php.

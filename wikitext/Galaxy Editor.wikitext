@@ -1,3 +1,63 @@
-<!-- source file: index__q1e5f071e7d9e.html -->
+{{See also|Scripts}}
 
-{{See also|Scripts}} The Galaxy Editor is an Easter Egg, much like the [[Script Editor]], (mostly used by [[Egosoft]] staff) and enables players to modify the pre-existing galaxy, or to create a new galaxy. ===Activation=== To activate the GE, rename your pilot to ''"Makeanapplepiefromscratch"''. You will find a new "Game Start" when you create a new game called "Galaxy Editor". It is found below "[[Starts|Custom Game]]". You will be prompted with two options: "Revelation", which is the Game galaxy in X3:AP and "&lt;New Map>". If you modify "Revelation", you will change the map in which you are currently playing with your saves. (be careful) The Galaxy Editor enables you to do pretty much anything when it comes to creation. You can make new [[sectors]], [[stations]], Suns, Nebulas, [[Jumpgate|Gates]], [[Ships]] and even [[Asteroids]]. ===New set of Controls=== The Galaxy Editor adds the "Development" Section in the Controls menu. Some of these controls are intuitive and some are not. ===Usage=== To use the Galaxy Editor, press &lt;Shift> + &lt;Keypad Enter> (Can be changed in controls) to open up the Creation and modification window. In the Sector Map window, you are given a list of options. These include the ability to set the properties of objects. When you dock in a station, it enables you to add wares and properties. To Play your new map, just use the &lt;Custom Game> option when you start a new game and select your Galaxy. ===Information=== Here is some information that can be used for creation of objects. '''Asteroid subtype''' (model) {| class="wikitable" ! ID ! Value |- | 6 | Large (Can place station on if Ore or Silicon) |- | 7 | Medium |- | 8 | Small |- | 9 | Collectible |- |} '''Asteroid Resource types''' {| class="wikitable" ! ID ! Value |- | 0 | [[Ore]] |- | 1 | [[Silicon]] |- | 2 | [[Nividium]] |- | 3 | [[Ice]] |- |}
+The Galaxy Editor is an Easter Egg, much like the [[Script Editor]], (mostly used by [[Egosoft]] staff) and enables players to modify the pre-existing galaxy, or to create a new galaxy.
+
+===Activation===
+To activate the GE, rename your pilot to ''"Makeanapplepiefromscratch"''. You will find a new "Game Start" when you create a new game called "Galaxy Editor". It is found below "[[Starts|Custom Game]]". You will be prompted with two options: "Revelation", which is the Game galaxy in X3:AP and "<New Map>". If you modify "Revelation", you will change the map in which you are currently playing with your saves. (be careful)
+
+The Galaxy Editor enables you to do pretty much anything when it comes to creation. You can make new [[sectors]], [[stations]], Suns, Nebulas, [[Jumpgate|Gates]], [[Ships]] and even [[Asteroids]].
+
+===New set of Controls===
+The Galaxy Editor adds the "Development" Section in the Controls menu.
+
+Some of these controls are intuitive and some are not.
+
+===Usage===
+To use the Galaxy Editor, press <Shift> + <Keypad Enter> (Can be changed in controls) to open up the Creation and modification window.
+
+In the Sector Map window, you are given a list of options. These include the ability to set the properties of objects.
+
+When you dock in a station, it enables you to add wares and properties.
+
+To Play your new map, just use the <Custom Game> option when you start a new game and select your Galaxy.
+
+===Information===
+Here is some information that can be used for creation of objects.
+
+'''Asteroid subtype''' (model)
+{| class="wikitable"
+! ID
+! Value
+|-
+| 6
+| Large (Can place station on if Ore or Silicon)
+|-
+| 7
+| Medium
+|-
+| 8
+| Small
+|-
+| 9
+| Collectible
+|-
+|}
+
+'''Asteroid Resource types'''
+{| class="wikitable"
+! ID
+! Value
+|-
+| 0
+| [[Ore]]
+|-
+| 1
+| [[Silicon]]
+|-
+| 2
+| [[Nividium]]
+|-
+| 3
+| [[Ice]]
+|-
+|}

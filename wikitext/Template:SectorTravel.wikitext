@@ -1,3 +1,23 @@
-<!-- source file: index__q002c6c72ce9e.html -->
-
-{| &lt;table cellspacing="0" width="360px" style="background-color:white;border-width:1px;border-style:solid solid none solid;border-color:#CCCCCC;padding-top:3px;padding-left:3px;padding-right:3px;"> &lt;tr> &lt;th style="background-color:#CCCCFF">[[Sectors|Sector]] travel&lt;/th> &lt;/tr> &lt;table cellspacing="3" width="360px" style="background-color:white;border-width:1px;border-style:none solid solid solid;border-color:#CCCCCC;"> &lt;tr> &lt;td style="background-color:#DDDDFF;text-align:right" width="6%">Gates&amp;nbsp;&amp;nbsp;&lt;/td>&lt;td>[[Jumpgate]] • [[Trans-Orbital Accelerator]]&lt;/td> &lt;/tr> &lt;tr> &lt;td style="background-color:#DDDDFF;text-align:right" width="6%">Devices&amp;nbsp;&amp;nbsp;&lt;/td>&lt;td style="background-color:#F7F7F7">[[Jump Beacon]] • [[Jumpdrive]] • [[Unfocused Jumpdrive]]&lt;/td> &lt;/tr> &lt;tr> &lt;td style="background-color:#DDDDFF;text-align:right" width="6%">Fuel&amp;nbsp;&amp;nbsp;&lt;/td>&lt;td style="background-color:#F7F7F7">[[Energy Cells]] • [[Spaceflies]]&lt;/td> &lt;/tr> &lt;tr> &lt;td style="background-color:#DDDDFF;text-align:right" width="6%">Other&amp;nbsp;&amp;nbsp;&lt;/td>&lt;td>[[Universe map]] • [[Unknown_Sector_(The_Hub)|The Hub]]&lt;/td> &lt;/tr> &lt;/table> &lt;/table> |}
+{|
+<table cellspacing="0" width="360px"
+style="background-color:white;border-width:1px;border-style:solid solid none solid;border-color:#CCCCCC;padding-top:3px;padding-left:3px;padding-right:3px;">
+<tr>
+<th style="background-color:#CCCCFF">[[Sectors|Sector]] travel</th>
+</tr>
+<table cellspacing="3" width="360px"
+style="background-color:white;border-width:1px;border-style:none solid solid solid;border-color:#CCCCCC;">
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%">Gates&nbsp;&nbsp;</td><td>[[Jumpgate]] • [[Trans-Orbital Accelerator]]</td>
+</tr>
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%">Devices&nbsp;&nbsp;</td><td style="background-color:#F7F7F7">[[Jump Beacon]] • [[Jumpdrive]] • [[Unfocused Jumpdrive]]</td>
+</tr>
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%">Fuel&nbsp;&nbsp;</td><td style="background-color:#F7F7F7">[[Energy Cells]] • [[Spaceflies]]</td>
+</tr>
+<tr>
+<td style="background-color:#DDDDFF;text-align:right" width="6%">Other&nbsp;&nbsp;</td><td>[[Universe map]] • [[Unknown_Sector_(The_Hub)|The Hub]]</td>
+</tr>
+</table>
+</table>
+|}

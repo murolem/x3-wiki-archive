@@ -1,3 +1,35 @@
-<!-- source file: index__q53f727509a47.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Boron
+|station=Ion Disruptor Forge
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=01:26:00
+|productnum=[[Ion Disruptor]] (1)
+|stationprice={{Priceblock|Boron Queen's Guard|10461836}}
+|reqresources=[[Energy Cells]] (1290) <br>[[BoFu]] (215) <br>[[Ore]] (215) 
+|optresources=[[Crystals]]
+}}
+{{Infobox close}}
+==Overview==
+Ion Disruptor Forges are Boron factories that produce the [[Ion Disruptor]] from [[Energy Cells]], [[BoFu]] and 
+[[Ore]]. 
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Boron |station=Ion Disruptor Forge |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=01:26:00 |productnum=[[Ion Disruptor]] (1) |stationprice={{Priceblock|Boron Queen's Guard|10461836}} |reqresources=[[Energy Cells]] (1290) &lt;br>[[BoFu]] (215) &lt;br>[[Ore]] (215) |optresources=[[Crystals]] }} {{Infobox close}} ==Overview== Ion Disruptor Forges are Boron factories that produce the [[Ion Disruptor]] from [[Energy Cells]], [[BoFu]] and [[Ore]]. NPC stations will buy [[Crystals]] as a secondary resource. ===Encyclopedia Entry=== This forge manufactures the weapon known as the Ion Disruptor. This new weapon is considered more useful than powerful. Manufacturing the weapon is a different matter, it is a complicated process, which involves creating a device able to create a stream of ionised particles. This itself is dangerous. ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Boron#Shipyards|Boron]]''' *{{sa|Great Reef}} *{{sa|Queen's Retribution}} |} {{Stationcategory}}
+NPC stations will buy [[Crystals]] as a secondary resource.
+
+===Encyclopedia Entry===
+This forge manufactures the weapon known as the Ion Disruptor. This new weapon is considered more useful than powerful. 
+
+Manufacturing the weapon is a different matter, it is a complicated process, which involves creating a device able to create a stream of ionised particles. This itself is dangerous.
+
+==Availability==
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Boron#Shipyards|Boron]]'''
+*{{sa|Great Reef}}
+*{{sa|Queen's Retribution}}
+|}
+{{Stationcategory}}

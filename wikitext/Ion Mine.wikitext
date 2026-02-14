@@ -1,3 +1,32 @@
-<!-- source file: index__q119cd1fe91fa.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Ion Mine
+|cargoclass=L
+|volume=6
+|minprice=14758
+|aveprice=20216
+|maxprice=25674
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+Based on ion disruptor technology, Ion Mines, when triggered, release a massive burst of concentrated ion energy which will cause significant depletion of shield energy.
+==Commentary==
+==Trading information==
+{|
+! Sold by; !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*Race Factory where this ware is sold
 
-{{Infobox open}} {{Infobox ware |ware= Ion Mine |cargoclass=L |volume=6 |minprice=14758 |aveprice=20216 |maxprice=25674 }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== Based on ion disruptor technology, Ion Mines, when triggered, release a massive burst of concentrated ion energy which will cause significant depletion of shield energy. ==Commentary== ==Trading information== {| ! Sold by; !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *Race Factory where this ware is sold | *List of Race Factories where this ware is a primary resource | *List of Race Factories where this ware is a secondary resource | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}}
+|
+*List of Race Factories where this ware is a primary resource
+|
+*List of Race Factories where this ware is a secondary resource
+
+|
+*List of Trading Stations where this ware is traded (sector only)
+
+|}
+
+{{Warecategory}}

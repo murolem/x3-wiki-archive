@@ -1,3 +1,426 @@
-<!-- source file: index__qf85114c8b278.html -->
+The following was copied from [{{linky}}egosoft.com/support/faq/faq_answer_en.php?answer=941&version=9&sid=9c01769d4a2929012ae70596789c5fdd The Egosoft FAQ]
 
-The following was copied from [{{linky}}egosoft.com/support/faq/faq_answer_en.php?answer=941&amp;version=9&amp;sid=9c01769d4a2929012ae70596789c5fdd The Egosoft FAQ] A '''TLA''' is a '''T'''hree '''L'''etter '''A'''cronym. Not all the acronyms used have three letters, of course! == Ships == ===Ship Classes=== Ships are divided into classes according to their purpose. Most races have at least one type of ship in each class. {| border="1" cellspacing="0" cellpadding="2" |- |M0 ||Planet-killer (not used in Terran Conflict) |- |M1 ||Carrier |- |M2 ||Destroyer |- |M3(+) ||Heavy fighter (Improved) |- |M4(+) ||Medium fighter (Improved) |- |M5 ||Scout |- |M6 ||Corvette |- |M7 ||Frigate |- |M7M ||Missile Frigate |- |M8 ||Bomber |- |TS ||Transport Small |- |TL ||Transport Large (can transport station kits) |- |TP ||Transport Personnel/Passenger |- |TM ||Transport Military (a small carrier ship) |- |OWP ||Orbital Weapons Platform |- |LT ||Laser Tower |- |NavSat ||Navigation Relay Satellite |- |AdvSat ||Advanced Satellite |} ===Ship Variants=== For smaller ships, most races have some variants of the basic ship types. Not all races have all variants available to buy at ship yards, and some don't even exist in a normal game. {| cellspacing="0" cellpadding="10" |- valign="top" | Fighters can have up to four variants, typically having the following characteristics&lt;br> (though there is some variation so these rules do not always hold). {| border="1" cellspacing="0" cellpadding="2" |- |Raider ||Faster, less shielding and less cargo |- |Vanguard ||Faster, sometimes less shielding, sometimes better weapons |- |Hauler ||Slower, more cargo space |- |Sentinel ||Slower, more shielding, sometimes less cargo space |} | Small freighters may also have variants, again depending on race and again with not all variants being available for all ships. {| border="1" cellspacing="0" cellpadding="2" |- |Hauler ||Slower, more shielding, more cargo space |- |Miner ||Slower, more shielding, more cargo space |- |Tanker ||Slower, more shielding, more cargo space |- |Tanker (larger version) |Even slower, more shielding, more cargo space |- |Super-freighter ||Even slower, more shielding, more cargo space |- |Super-freighter (larger version) |Even slower again, even more shielding, even more cargo space |} |- | colspan="2"| Certain ships also come in 'heavy, 'prototype', 'advanced' or 'enhanced' variants - this usually indicates an upgraded version of the basic ship. |- valign="top" | ===Ship Equipment Levels=== When buying smaller ships at a shipyard, different levels of equipment are available.&lt;br> Not to be confused with cargo classes (or the size of the ship!). {| border="1" cellspacing="0" cellpadding="2" |- |S ||No weapons, minimum shielding |- |M ||Basic weapons, medium shielding |- |L ||More weapons, maximum shields |} | ===Ship Nicknames=== A few ships have standard nicknames. Examples include: {| border="1" cellspacing="0" cellpadding="2" |- |Elly&lt;br> Ellie |Split Elephant |- |Oddy ||Paranid Odysseus |- |HCP ||Argon Heavy Centaur Prototype |- |TLS ||Goner Truelight Seeker |- |Aggie&lt;br> Aggy |Paranid Agamemnon |- |Hyp ||Paranid Hyperion Vanguard |- |Disco ||Argon Discoverer |- |Iggy&lt;br> IV |Split Iguana / Iguana Vanguard |} |- | colspan="2"| ===Transport Classes=== {{:Cargo Class}} |- | colspan="2"| == Ship Equipment == ===Weapons=== {| border="1" cellspacing="0" cellpadding="2" |- |CFA ||Cluster Flak Array |- |CIG ||Concussion Impulse Generator |- |EBC ||Energy Bolt Chaingun |- |(E)EMPC ||(Experimental) Electro-magnetic Pulse Cannon |- |FAA&lt;bR> FLAK |Flak Artillery Array |- |FBC ||Fusion Beam Cannon (experimental weapon) |- |FBL ||Fragmentation Bomb Launcher |- |FD ||Fighter Drone |- |GC ||Gauss Cannon |- |HEPT ||High-Energy Plasma Thrower |- |IBL ||Incendiary Bomb Launcher |- |IC ||Ion Cannon |- |ID&lt;br> IonD |Ion Disruptor |- |IPG ||Ion Pulse Generator |- |ISR ||Ion Shard Railgun |- |IRE ||Impulse Ray Emitter |- |KYON&lt;bR> AKYON&lt;bR> BKYON&lt;br> GKYON |Kyon Emitter (Kha'ak ships only) |- |(P)M/AM&lt;Br> (P)M/AL |(Prototype) Matter/Anti-matter Launcher |- |MD ||Mass Driver |- |MDS ||Mobile Drilling System |- |PAC ||Particle Accelerator Cannon |- |PALC ||Phased Array Laser Cannon (experimental weapon) |- |PBC ||Plasma Beam Cannon (lasertower weapon) |- |PBE ||Pulsed Beam Emitter |- |PBG ||Plasma Burst Generator (flamethrower) |- |PPC ||Photon Pulse Cannon |- |PRG ||Phased Repeater Gun |- |PSG ||Phased Shockwave Generator |- |PSP ||Point Singularity Projector |- |(P)SSC ||(Prototype) Starburst Shockwave Cannon |- |TB ||Tractor Beam |- |TBC&lt;bR> TBLC |Tri-Beam Laser Cannon (experimental weapon) |} |- valign="top" | ===Shields=== The type of a shield is indicated by a number showing its maximum strength. {| border="1" cellspacing="0" cellpadding="2" |- |1MJ ||1,000KJ |- |5MJ ||5,000KJ |- |25MJ ||25,000KJ |- |200MJ ||200,000KJ |- |1GJ ||1,000,000KJ |- |2GJ ||2,000,000KJ |} | ===Equipment=== These are a few of the many kinds of equipment that can be installed on a ship. {| border="1" cellspacing="0" cellpadding="2" |- |CLS || [[Commodity Logistics Software]] |- |CLS CLSS || [[Cargo Life Support System]] |- |JD || [[Jumpdrive]] |- |UFJD || [[Unfocussed Jumpdrive]] |- |SETA || [[Singularity Engine Time Accelerator]] |- |SOS || [[System Override Software]] |- |SSS || [[Software Signature Scrambler]] |- |VEG&lt;bR> VEGs | [[Video Enhancement Goggles]] |} |- valign="top" | ==Stations== There are many different types of space stations in the game,&lt;bR> but only a few types have commonly-used abbreviations. {| border="1" cellspacing="0" cellpadding="2" |- |CF ||Crystal Fab |- |EQ&lt;br> EqD&lt;br> ED |Equipment Dock |- |GT ||Goner Temple |- |OM&lt;bR> SM |Ore/Silicon Mine |- |PAP ||Pirate Anarchy Port |- |PB ||Pirate Base |- |PHQ ||Player Headquarters |- |SPP ||Solar Power Plant |- |SY ||Shipyard |- |TCHQ ||TerraCorp Headquarters |- |TD&lt;bR> TS |Trading Dock/Station |} | ==Sectors== A few of the sectors in the game also have common abbreviations. {| border="1" cellspacing="0" cellpadding="2" |- |AB ||Akeela's Beacon |- |AP ||Argon Prime |- |BHS ||Black Hole Sun |- |CBNW&lt;br> CBSW&lt;br> CBSE |Cloudbase North West/South West/South East |- |EoL ||Elysium of Light |- |GF ||Getsu Fune |- |HoL ||Home of Light |- |IZ ||Ianamus Zura |- |KE ||Kingdom End |- |Knnn ||Kha'ak Sector nnn (e.g. K931) |- |NH ||Nyana's Hideout |- |OB ||Ore Belt |- |OL ||Omicron Lyrae |- |PE ||President's End |- |PP ||Paranid Prime |- |TUS ||Terran Unknown Sector |- |US ||Unknown Sector |- |Uxx.yy ||Unknown Sector at map co-ordinates xx,yy |- |Xnnn ||Xenon Sector nnn (e.g. X101) |} |- | colspan="2"| ==General== And finally a few miscellaneous items. {| border="1" cellspacing="0" cellpadding="2" |- |AI ||Artificial Intelligence (usually refers to the computer's ships) |- |AL ||Artificial Life |- |Cap ||Slang term for [[capping|capturing]] other ships |- |CTD ||Crash To Desktop |- |DPS ||Damage per Second |- |ETA ||Estimated Time of Arrival (used in ship menus) |- |FAQ ||Frequently Asked Questions |- |GOD ||Global Decision Engine |- |HUD ||Heads Up Display |- |IS ||In Sector (i.e. the sector you are personally in) |- |[L] ||Indicates that you have a Police Licence with the race the letter appears next to |- |MORT ||Manually Operated Remote Trader |- |MTR ||Manual Trade Run |- |NPC ||Non Player Character (usually refers to the computer's ships) |- |OOS ||[[Simulation Modelling#Out-of-Sector|Out of Sector]] (i.e. a sector you are not personally in) |- |OOSD ||Out of Sector Defence (defence of the above) |- |SE ||[[Script Editor]] |- |TC ||Terran Conflict&lt;bR> Transport Class |- |UO ||Unknown Object |- |UFO ||Unidentified Flying Object |- |XI&lt;br> XIM |Xenon Invasion (a [[Missions|mission]] type) |- |LT&lt;br> ST&lt;br> UT |Local/Sector/Universe Trader ([[Trade Command Software Mk3]] commands) |- |CAG || [[Commercial Agent]] (Used in [[stations]] and [[complex]]es). |} |}
+A '''TLA''' is a '''T'''hree '''L'''etter '''A'''cronym. Not all the acronyms used have three letters, of course!
+
+
+== Ships ==
+===Ship Classes===
+
+Ships are divided into classes according to their purpose. Most races have at least one type of ship in each class.
+{| border="1" cellspacing="0" cellpadding="2"
+|-
+|M0	||Planet-killer (not used in Terran Conflict)
+|-
+|M1	||Carrier
+|-
+|M2	||Destroyer
+|-
+|M3(+)	||Heavy fighter (Improved)
+|-
+|M4(+)	||Medium fighter (Improved)
+|-
+|M5	||Scout
+|-
+|M6	||Corvette
+|-
+|M7	||Frigate
+|-
+|M7M	||Missile Frigate
+|-
+|M8	||Bomber
+|-
+|TS	||Transport Small
+|-
+|TL	||Transport Large (can transport station kits)
+|-
+|TP	||Transport Personnel/Passenger
+|-
+|TM	||Transport Military (a small carrier ship)
+|-
+|OWP	||Orbital Weapons Platform
+|-
+|LT	||Laser Tower
+|-
+|NavSat	||Navigation Relay Satellite
+|-
+|AdvSat	||Advanced Satellite
+|}
+
+
+===Ship Variants===
+
+For smaller ships, most races have some variants of the basic ship types. Not all races have all variants available to buy at ship yards, and some don't even exist in a normal game.
+{| cellspacing="0" cellpadding="10"
+|- valign="top"
+|
+Fighters can have up to four variants, typically having the following characteristics<br>
+(though there is some variation so these rules do not always hold).
+
+{| border="1" cellspacing="0" cellpadding="2"
+|-
+|Raider	||Faster, less shielding and less cargo
+|-
+|Vanguard	||Faster, sometimes less shielding, sometimes better weapons
+|-
+|Hauler	||Slower, more cargo space
+|-
+|Sentinel	||Slower, more shielding, sometimes less cargo space
+|}
+
+|
+Small freighters may also have variants, again depending on race and again with not all variants being available for all ships.
+
+{| border="1" cellspacing="0" cellpadding="2"
+|-
+|Hauler	||Slower, more shielding, more cargo space
+|-
+|Miner	||Slower, more shielding, more cargo space
+|-
+|Tanker	||Slower, more shielding, more cargo space
+|-
+|Tanker
+(larger version)	
+|Even slower, more shielding, more cargo space
+|-
+|Super-freighter	||Even slower, more shielding, more cargo space
+|-
+|Super-freighter
+(larger version)	
+|Even slower again, even more shielding, even more cargo space
+|}
+|-
+| colspan="2"|
+Certain ships also come in 'heavy, 'prototype', 'advanced' or 'enhanced' variants - this usually indicates an upgraded version of the basic ship.
+
+
+|- valign="top"
+|
+===Ship Equipment Levels===
+
+When buying smaller ships at a shipyard, different levels of equipment are available.<br>
+Not to be confused with cargo classes (or the size of the ship!).
+
+{| border="1" cellspacing="0" cellpadding="2"
+|-
+|S	||No weapons, minimum shielding
+|-
+|M	||Basic weapons, medium shielding
+|-
+|L	||More weapons, maximum shields
+|}
+
+|
+===Ship Nicknames===
+
+A few ships have standard nicknames. Examples include:
+
+{| border="1" cellspacing="0" cellpadding="2"
+|-
+|Elly<br>
+Ellie	
+|Split Elephant
+|-
+|Oddy	||Paranid Odysseus
+|-
+|HCP	||Argon Heavy Centaur Prototype
+|-
+|TLS	||Goner Truelight Seeker
+|-
+|Aggie<br>
+Aggy
+|Paranid Agamemnon
+|-
+|Hyp	||Paranid Hyperion Vanguard
+|-
+|Disco	||Argon Discoverer
+|-
+|Iggy<br>
+IV
+|Split Iguana / Iguana Vanguard
+|}
+|-
+| colspan="2"|
+
+===Transport Classes===
+{{:Cargo Class}}
+|-
+| colspan="2"|
+== Ship Equipment ==
+===Weapons===
+{| border="1" cellspacing="0" cellpadding="2"
+|-
+|CFA	||Cluster Flak Array
+|-
+|CIG	||Concussion Impulse Generator
+|-
+|EBC	||Energy Bolt Chaingun
+|-
+|(E)EMPC	||(Experimental) Electro-magnetic Pulse Cannon
+|-
+|FAA<bR>
+FLAK	
+|Flak Artillery Array
+|-
+|FBC	||Fusion Beam Cannon (experimental weapon)
+|-
+|FBL	||Fragmentation Bomb Launcher
+|-
+|FD	||Fighter Drone
+|-
+|GC	||Gauss Cannon
+|-
+|HEPT	||High-Energy Plasma Thrower
+|-
+|IBL	||Incendiary Bomb Launcher
+|-
+|IC	||Ion Cannon
+|-
+|ID<br>
+IonD	
+|Ion Disruptor
+|-
+|IPG	||Ion Pulse Generator
+|-
+|ISR	||Ion Shard Railgun
+|-
+|IRE	||Impulse Ray Emitter
+|-
+|KYON<bR>
+AKYON<bR>
+BKYON<br>
+GKYON	
+|Kyon Emitter (Kha'ak ships only)
+|-
+|(P)M/AM<Br>
+(P)M/AL	
+|(Prototype) Matter/Anti-matter Launcher
+|-
+|MD	||Mass Driver
+|-
+|MDS	||Mobile Drilling System
+|-
+|PAC	||Particle Accelerator Cannon
+|-
+|PALC	||Phased Array Laser Cannon (experimental weapon)
+|-
+|PBC	||Plasma Beam Cannon (lasertower weapon)
+|-
+|PBE	||Pulsed Beam Emitter
+|-
+|PBG	||Plasma Burst Generator (flamethrower)
+|-
+|PPC	||Photon Pulse Cannon
+|-
+|PRG	||Phased Repeater Gun
+|-
+|PSG	||Phased Shockwave Generator
+|-
+|PSP	||Point Singularity Projector
+|-
+|(P)SSC	||(Prototype) Starburst Shockwave Cannon
+|-
+|TB	||Tractor Beam
+|-
+|TBC<bR>
+TBLC	
+|Tri-Beam Laser Cannon (experimental weapon)
+|}
+
+|- valign="top"
+|
+===Shields===
+
+The type of a shield is indicated by a number showing its maximum strength.
+
+{| border="1" cellspacing="0" cellpadding="2"
+|-
+|1MJ	||1,000KJ
+|-
+|5MJ	||5,000KJ
+|-
+|25MJ	||25,000KJ
+|-
+|200MJ	||200,000KJ
+|-
+|1GJ	||1,000,000KJ
+|-
+|2GJ	||2,000,000KJ
+|}
+
+|
+===Equipment===
+
+These are a few of the many kinds of equipment that can be installed on a ship.
+
+{| border="1" cellspacing="0" cellpadding="2"
+|-
+|CLS    || [[Commodity Logistics Software]]
+|-
+|CLS
+CLSS
+        || [[Cargo Life Support System]]
+|-
+|JD	|| [[Jumpdrive]]
+|-
+|UFJD	|| [[Unfocussed Jumpdrive]]
+|-
+|SETA	|| [[Singularity Engine Time Accelerator]]
+|-
+|SOS	|| [[System Override Software]]
+|-
+|SSS	|| [[Software Signature Scrambler]]
+|-
+|VEG<bR>
+VEGs	
+| [[Video Enhancement Goggles]]
+|}
+|- valign="top"
+|
+
+==Stations==
+
+There are many different types of space stations in the game,<bR>
+but only a few types have commonly-used abbreviations.
+
+{| border="1" cellspacing="0" cellpadding="2"
+|-
+|CF	||Crystal Fab
+|-
+|EQ<br>
+EqD<br>
+ED	
+|Equipment Dock
+|-
+|GT	||Goner Temple
+|-
+|OM<bR>
+SM	
+|Ore/Silicon Mine
+|-
+|PAP	||Pirate Anarchy Port
+|-
+|PB	||Pirate Base
+|-
+|PHQ	||Player Headquarters
+|-
+|SPP	||Solar Power Plant
+|-
+|SY	||Shipyard
+|-
+|TCHQ	||TerraCorp Headquarters
+|-
+|TD<bR>
+TS	
+|Trading Dock/Station
+|}
+
+|
+==Sectors==
+
+A few of the sectors in the game also have common abbreviations.
+
+{| border="1" cellspacing="0" cellpadding="2"
+|-
+|AB	||Akeela's Beacon
+|-
+|AP	||Argon Prime
+|-
+|BHS	||Black Hole Sun
+|-
+|CBNW<br>
+CBSW<br>
+CBSE	
+|Cloudbase North West/South West/South East
+|-
+|EoL	||Elysium of Light
+|-
+|GF	||Getsu Fune
+|-
+|HoL	||Home of Light
+|-
+|IZ	||Ianamus Zura
+|-
+|KE	||Kingdom End
+|-
+|Knnn	||Kha'ak Sector nnn (e.g. K931)
+|-
+|NH	||Nyana's Hideout
+|-
+|OB	||Ore Belt
+|-
+|OL	||Omicron Lyrae
+|-
+|PE	||President's End
+|-
+|PP	||Paranid Prime
+|-
+|TUS	||Terran Unknown Sector
+|-
+|US	||Unknown Sector
+|-
+|Uxx.yy	||Unknown Sector at map co-ordinates xx,yy
+|-
+|Xnnn	||Xenon Sector nnn (e.g. X101)
+|}
+
+|-
+| colspan="2"|
+==General==
+
+And finally a few miscellaneous items.
+
+{| border="1" cellspacing="0" cellpadding="2"
+|-
+|AI	||Artificial Intelligence (usually refers to the computer's ships)
+|-
+|AL	||Artificial Life
+|-
+|Cap	||Slang term for [[capping|capturing]] other ships
+|-
+|CTD	||Crash To Desktop
+|-
+|DPS    ||Damage per Second
+|-
+|ETA	||Estimated Time of Arrival (used in ship menus)
+|-
+|FAQ	||Frequently Asked Questions
+|-
+|GOD	||Global Decision Engine
+|-
+|HUD	||Heads Up Display
+|-
+|IS	||In Sector (i.e. the sector you are personally in)
+|-
+|[L]	||Indicates that you have a Police Licence with the race the letter appears next to
+|-
+|MORT	||Manually Operated Remote Trader
+|-
+|MTR	||Manual Trade Run
+|-
+|NPC	||Non Player Character (usually refers to the computer's ships)
+|-
+|OOS	||[[Simulation Modelling#Out-of-Sector|Out of Sector]] (i.e. a sector you are not personally in)
+|-
+|OOSD	||Out of Sector Defence (defence of the above)
+|-
+|SE	||[[Script Editor]]
+|-
+|TC	||Terran Conflict<bR>
+Transport Class
+|-
+|UO	||Unknown Object
+|-
+|UFO	||Unidentified Flying Object
+|-
+|XI<br>
+XIM	
+|Xenon Invasion (a [[Missions|mission]] type)
+|-
+|LT<br>
+ST<br>
+UT	
+|Local/Sector/Universe Trader ([[Trade Command Software Mk3]] commands)
+|-
+|CAG    || [[Commercial Agent]] (Used in [[stations]] and [[complex]]es).
+|}
+|}

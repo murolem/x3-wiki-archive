@@ -1,3 +1,32 @@
-<!-- source file: index__q97e39c5ba9fe.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Argon
+|station=Special Weapons Production Complex
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=10
+|cycle=Varies
+|productnum=[[Mass Driver]] <br>[[Mass Driver Ammunition]] <br>[[Phased Repeater Gun]] 
+|stationprice=
+|reqresources=[[Energy Cells]] <br>[[Ore]] <br>[[Meatsteak Cahoonas]] 
+|optresources=[[Crystals]] <br>[[Teladianium]]
+}}
+{{Infobox close}}
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Argon |station=Special Weapons Production Complex |hull=1000000 |shield=9 |generator=2000 |hangar=10 |cycle=Varies |productnum=[[Mass Driver]] &lt;br>[[Mass Driver Ammunition]] &lt;br>[[Phased Repeater Gun]] |stationprice= |reqresources=[[Energy Cells]] &lt;br>[[Ore]] &lt;br>[[Meatsteak Cahoonas]] |optresources=[[Crystals]] &lt;br>[[Teladianium]] }} {{Infobox close}} ==Overview== Special Weapons Production Complex are Argon factories that produce various wepons from [[Energy Cells]], [[Meatsteak Cahoonas]] and [[Ore]]. They will also buy [[Crystals]] and [[Teladianium]] as secondary resources. ===Encyclopedia Entry=== This production complex manufactures special weapons. ==Availability== Special Weapons Complexes are default stations in Argon sectors. They are not sold at Shipyards. {{Stationcategory}}
+==Overview==
+
+Special Weapons Production Complex are Argon factories that produce various wepons from [[Energy Cells]], [[Meatsteak Cahoonas]] and [[Ore]]. 
+
+They will also buy [[Crystals]] and [[Teladianium]] as secondary resources.
+
+===Encyclopedia Entry===
+
+This production complex manufactures special weapons.
+
+==Availability==
+
+Special Weapons Complexes are default stations in Argon sectors. They are not sold at Shipyards. 
+
+{{Stationcategory}}

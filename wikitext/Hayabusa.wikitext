@@ -1,3 +1,96 @@
-<!-- source file: index__q6fb448ca0c3b.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= Hayabusa
+|Faction=Terran
+|Class={{TS+class}}
+|Priceblock={{Priceblock|Terran Warrior of Io| 2,502,899 }}
+|Minspeed= 48.3
+|Maxspeed= 87.0
+|Minaccel= 3
+|Maxaccel= 6
+|Minsteer= 2.0
+|Maxsteer= 4.1
+|Hull= 63000
+|Maxshield= 200 MJ
+|Shieldslots= 2
+|Maxshieldstrength= 400
+|Shieldreactor= 1300
+|Cargoclass=XL
+|Mincargo= 6000
+|Maxcargo= 14300
+|Lasercap= 2250
+|Laserrecharge= 20
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Up
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Down
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The Hayabusa is the Terrans' new TS+ heavy transporter, new to Albion Prelude. It is tied with the new Teladi Tern as the most heavily shielded TS in the game, with 400MJ of shielding.
 
-{{Infobox open}} {{Infobox variant |Variant= Hayabusa |Faction=Terran |Class={{TS+class}} |Priceblock={{Priceblock|Terran Warrior of Io| 2,502,899 }} |Minspeed= 48.3 |Maxspeed= 87.0 |Minaccel= 3 |Maxaccel= 6 |Minsteer= 2.0 |Maxsteer= 4.1 |Hull= 63000 |Maxshield= 200 MJ |Shieldslots= 2 |Maxshieldstrength= 400 |Shieldreactor= 1300 |Cargoclass=XL |Mincargo= 6000 |Maxcargo= 14300 |Lasercap= 2250 |Laserrecharge= 20 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Up |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Down |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Rear |Guncount=1 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The Hayabusa is the Terrans' new TS+ heavy transporter, new to Albion Prelude. It is tied with the new Teladi Tern as the most heavily shielded TS in the game, with 400MJ of shielding. ==Background== Seeing the need for better protection of military grade equipment transports, the United Space Command submitted a requisition to ship design teams for a heavily armored transporter with capacity for high-volume freight. Following trials of multiple submissions, the Mars-designed Hayabusa was the model deemed most suitable to the USC's needs. Multiple layers of armor plating on top of a triple-hull, paired with military-grade power systems and finely tuned engines enable this ship to ferry highly sensitive equipment through anything the universe can throw at it. The designers boast that it could easily run through an AGI blockade while fully laden with minimal damage ==Physical Characteristics== == Combat == == Equipment == == Availability == The Hayabusa is available at the shipyard in The Moon. There are no stations selling Jumpdrives near The Moon without passing through War sectors, so it is recommended to either escort your new freighters to Saturn, or bring jumpdrives to The Moon with a carrier ship (a TM with four fighters is a cheap solution). == Suggested Roles== Heavy freight transport or CAG roles. Being the second-fastest TS+, it makes an acceptable Universe Trader. It has more cargo volume than and twice the shielding of the [[Drake]] which usually allows it to escape unscathed from Pirate attacks. It is slower than the Drake, however, and it can be difficult to source enough [[Electro-Magnetic Plasma Cannon|EMPCs]] to equip a fleet of Hayabusa UTs for maximum defence capability. == See Also== {{TS+}} {{Terran Navbox}}
+==Background==
+Seeing the need for better protection of military grade equipment transports, the United Space Command submitted a requisition to ship design teams for a heavily armored transporter with capacity for high-volume freight. Following trials of multiple submissions, the Mars-designed Hayabusa was the model deemed most suitable to the USC's needs. Multiple layers of armor plating on top of a triple-hull, paired with military-grade power systems and finely tuned engines enable this ship to ferry highly sensitive equipment through anything the universe can throw at it. The designers boast that it could easily run through an AGI blockade while fully laden with minimal damage
+
+==Physical Characteristics==
+
+== Combat ==
+
+== Equipment ==
+
+== Availability ==
+The Hayabusa is available at the shipyard in The Moon.
+
+There are no stations selling Jumpdrives near The Moon without passing through War sectors, so it is recommended to either escort your new freighters to Saturn, or bring jumpdrives to The Moon with a carrier ship (a TM with four fighters is a cheap solution).
+
+== Suggested Roles==
+Heavy freight transport or CAG roles. Being the second-fastest TS+, it makes an acceptable Universe Trader. It has more cargo volume than and twice the shielding of the [[Drake]] which usually allows it to escape unscathed from Pirate attacks. It is slower than the Drake, however, and it can be difficult to source enough [[Electro-Magnetic Plasma Cannon|EMPCs]] to equip a fleet of Hayabusa UTs for maximum defence capability.
+
+== See Also==
+{{TS+}}
+
+{{Terran Navbox}}

@@ -1,3 +1,52 @@
-<!-- source file: index__qc4d5c832d57f.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Crystals
+|cargoclass=M
+|volume=4
+|minprice=1432
+|aveprice=1684
+|maxprice=1936
+}}
+{{Infobox close}}
+==Overview==
+Crystals are important for the production of various weapons. They are produced in [[Crystal Fab]] facilities throughout the universe using silicon wafers. 
 
-{{Infobox open}} {{Infobox ware |ware= Crystals |cargoclass=M |volume=4 |minprice=1432 |aveprice=1684 |maxprice=1936 }} {{Infobox close}} ==Overview== Crystals are important for the production of various weapons. They are produced in [[Crystal Fab]] facilities throughout the universe using silicon wafers. ==Commentary== This is a fairly high demand ware in the X-universe. All [[Solar Power Plant|Solar Power Plants]] use crystals to create energy cells. Almost every trading port will buy them. While NPC solar power plants list crystals as a feed stock, they do not consume them normally, and actually produce power regardless of their crystal levels. ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Crystal Fab]] | *[[Solar Power Plant]] | *[[Cluster Flak Array Forge]] *[[Concussion Impulse Generator Forge]] *[[Heavy Weapons Complex]] *[[High Energy Plasma Thrower Forge]] *[[Impulse Ray Emitter Forge]] *[[Incendiary Bomb Launcher Forge]] *[[Ion Cannon Forge]] *[[Ion Disruptor Forge]] *[[Ion Pulse Generator Forge]] *[[Ion Shard Railgun Forge]] *[[Light Weapons Complex]] *[[Medium Weapons Complex]] *[[Mobile Drilling System Factory]] *[[Particle Accelerator Cannon Forge]] *[[Phased Repeater Gun Forge]] *[[Phased Shockwave Generator Forge]] *[[Photon Pulse Cannon Forge]] *[[Plasma Burst Generator Forge]] *[[Quantum Tube Fab]] | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}} {{Waretable}}
+==Commentary==
+This is a fairly high demand ware in the X-universe. All [[Solar Power Plant|Solar Power Plants]] use crystals to create energy cells. Almost every trading port will buy them. 
+
+While NPC solar power plants list crystals as a feed stock, they do not consume them normally, and actually produce power regardless of their crystal levels. 
+
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Crystal Fab]]
+|
+*[[Solar Power Plant]]
+|
+*[[Cluster Flak Array Forge]]
+*[[Concussion Impulse Generator Forge]]
+*[[Heavy Weapons Complex]]
+*[[High Energy Plasma Thrower Forge]]
+*[[Impulse Ray Emitter Forge]]
+*[[Incendiary Bomb Launcher Forge]]
+*[[Ion Cannon Forge]]
+*[[Ion Disruptor Forge]]
+*[[Ion Pulse Generator Forge]]
+*[[Ion Shard Railgun Forge]]
+*[[Light Weapons Complex]]
+*[[Medium Weapons Complex]]
+*[[Mobile Drilling System Factory]]
+*[[Particle Accelerator Cannon Forge]]
+*[[Phased Repeater Gun Forge]]
+*[[Phased Shockwave Generator Forge]]
+*[[Photon Pulse Cannon Forge]]
+*[[Plasma Burst Generator Forge]]
+*[[Quantum Tube Fab]]
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}
+
+{{Warecategory}}
+{{Waretable}}

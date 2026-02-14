@@ -1,3 +1,21 @@
-<!-- source file: index__qd7635e1a6af5.html -->
+{{See also|Bonus Pack}}
+{{stub}}
 
-{{See also|Bonus Pack}} {{stub}} This page lists popular or large modifications particularly notable for different versions of X3. In line with general wiki policy, this page does not concern itself with [[X3: Reunion]]'s extensive list of modifications. If you are interested in them, please check the [[#See Also|See Also]] Section of the page. == Game Versions == Please note that mods for different versions are not compatible with each other. As such, you have to be careful that any modifications you do install are made for the correct version of the game you are running. This usually means Terran Conflict or Albion Prelude, typically not which patch number you have installed. === X3: Terran Conflict === TBD === X3: Albion Prelude === Xrm adds 200 ships a lot of new sectors and changes everything == See Also == *[{{linky}}forum.egosoft.com/viewtopic.php?t=96340 X3: Reunion - Mods and Scripts (Egosoft Forum)] *[{{linky}}forum.egosoft.com/viewforum.php?f=94 X3: Terran Conflict and Albion Prelude - Mods and Scripts (Egosoft Forum)] *[[Bonus Pack]] *[[Scripts &amp; Mods]]
+This page lists popular or large modifications particularly notable for different versions of X3.
+
+In line with general wiki policy, this page does not concern itself with [[X3: Reunion]]'s extensive list of modifications. If you are interested in them, please check the [[#See Also|See Also]] Section of the page.
+
+== Game Versions ==
+Please note that mods for different versions are not compatible with each other. As such, you have to be careful that any modifications you do install are made for the correct version of the game you are running. This usually means Terran Conflict or Albion Prelude, typically not which patch number you have installed.
+
+=== X3: Terran Conflict ===
+TBD
+
+=== X3: Albion Prelude ===
+Xrm adds 200 ships a lot of new sectors and changes everything
+
+== See Also ==
+*[{{linky}}forum.egosoft.com/viewtopic.php?t=96340 X3: Reunion - Mods and Scripts (Egosoft Forum)]
+*[{{linky}}forum.egosoft.com/viewforum.php?f=94 X3: Terran Conflict and Albion Prelude - Mods and Scripts (Egosoft Forum)]
+*[[Bonus Pack]]
+*[[Scripts & Mods]]

@@ -1,3 +1,60 @@
-<!-- source file: index__q72263850fd68.html -->
+Goner Plot Walkthrough on the Egosoft forums (the wiki currently prevents posting of URLs): forum.egosoft.com/viewtopic.php?p=3471532#3471532
 
-Goner Plot Walkthrough on the Egosoft forums (the wiki currently prevents posting of URLs): forum.egosoft.com/viewtopic.php?p=3471532#3471532 The Goner Plot can be started in Elysium of Light from the start of the game. ===Mission 1=== Deliver the following resources: * 2,000 x [[Ore]] * 200 x [[Silicon]] ===Mission 2=== Deliver the following resources: * 2,000 x [[Ore]] * 1,200 x [[Teladianium]] ===Mission 3=== Pick up the following resources and deliver them. Note that this is a transport mission only. * 625 x [[Teladianium Paneling]] ===Mission 4=== Deliver the following ships. There is an Argon Shipyard in nearby [[Omicron Lyrae]], you can buy the cheapest (S) Mercury or Mercury Tanker and send it towards [[Elysium of Light]]. Due to the high possibility of a collision, it is best to send them one by one. * 3 x [[Argon]] [[TS]] ships ===Mission 5=== Build the following station. You can build either a M or L, and a M is available at the nearby Teladi Shipyard in [[PTNI Headquarters]]. * [[Teladianium Foundry]] ===Mission 6=== * Save goner ship 1 from pirates. ** The pirates are likely destroyed before you even get there. * Save goner ship 2 from pirates. ** Again, the pirates are likely destroyed before you even get there. * Recover (board) goner ship, with pirate escorts. ** For this you will need 5 marines with 5 star mechanic skill and at least one star in the rest of the skills. You can also kill the escorts and wait for the ship to stop moving, at which point you can simply Claim it. ===Mission 7=== * Follow Pirate Blastclaw from [[Merchant Haven]] to a Pirate Base in [[Gaian Star]]. ** When you reach a gate a group of enemies will spawn, often containing a M1, M2 or M7, even if your Combat Rating is low. The mission can easily be completed by finding the Blastclaw, following it to [[Maelstrom]] and then ignoring warnings about losing the target. Simply wait for [[Gaian Star]] to become orange on your Universe Map, indicating the Blastclaw is there. Then, get into a reasonably tough and fast ship, preferably a [[Springblossom]] wait for the cutscene. * Pick up Hall who escaped from Pirate base in [[Gaian Star]] to the Ozias in [[Elysium of Light]]. ** This can be tricky, which is why you need a fast and tough ship. Let the autopilot pick up Hall when you are about 2 km from him. ===Mission 8=== * Destroy Pirate Base in Gaian Star by delivering the following goods. Note that there will likely be hostile pirates in the area and the mines are cargo class L. ** 35 x [[Space Weed]] ** 60 x [[SQUASH Mine]]
+The Goner Plot can be started in Elysium of Light from the start of the game. 
+
+===Mission 1===
+
+Deliver the following resources:
+
+* 2,000 x [[Ore]] 
+* 200 x [[Silicon]]
+
+===Mission 2===
+
+Deliver the following resources:
+
+* 2,000 x [[Ore]] 
+* 1,200 x [[Teladianium]] 
+
+===Mission 3===
+
+Pick up the following resources and deliver them. Note that this is a transport mission only.
+
+* 625 x [[Teladianium Paneling]]
+
+===Mission 4===
+
+Deliver the following ships. There is an Argon Shipyard in nearby [[Omicron Lyrae]], you can buy the cheapest (S) Mercury or Mercury Tanker and send it towards [[Elysium of Light]]. Due to the high possibility of a collision, it is best to send them one by one.
+
+* 3 x [[Argon]] [[TS]] ships
+
+===Mission 5===
+
+Build the following station. You can build either a M or L, and a M is available at the nearby Teladi Shipyard in [[PTNI Headquarters]].
+
+* [[Teladianium Foundry]]
+
+===Mission 6===
+
+* Save goner ship 1 from pirates.
+** The pirates are likely destroyed before you even get there.
+
+* Save goner ship 2 from pirates.
+** Again, the pirates are likely destroyed before you even get there.
+
+* Recover (board) goner ship, with pirate escorts. 
+** For this you will need 5 marines with 5 star mechanic skill and at least one star in the rest of the skills. You can also kill the escorts and wait for the ship to stop moving, at which point you can simply Claim it.
+
+===Mission 7===
+
+* Follow Pirate Blastclaw from [[Merchant Haven]] to a Pirate Base in [[Gaian Star]].
+** When you reach a gate a group of enemies will spawn, often containing a M1, M2 or M7, even if your Combat Rating is low. The mission can easily be completed by finding the Blastclaw, following it to [[Maelstrom]] and then ignoring warnings about losing the target. Simply wait for [[Gaian Star]] to become orange on your Universe Map, indicating the Blastclaw is there. Then, get into a reasonably tough and fast ship, preferably a [[Springblossom]] wait for the cutscene.
+
+* Pick up Hall who escaped from Pirate base in [[Gaian Star]] to the Ozias in [[Elysium of Light]].
+** This can be tricky, which is why you need a fast and tough ship. Let the autopilot pick up Hall when you are about 2 km from him.
+
+===Mission 8===
+
+* Destroy Pirate Base in Gaian Star by delivering the following goods. Note that there will likely be hostile pirates in the area and the mines are cargo class L.
+** 35 x [[Space Weed]] 
+** 60 x [[SQUASH Mine]]

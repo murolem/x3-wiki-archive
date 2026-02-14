@@ -1,3 +1,45 @@
-<!-- source file: index__q0e967943c16a.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Supply Command Software
+|cargoclass= -
+|volume=1
+|minprice=2919
+|aveprice=2948
+|maxprice=2977
+}}
+{{Infobox close}}
+==Overview==
+Supply Command Software provides options to automate resupply of flotillas and is shown under the Special options.
 
-{{Infobox open}} {{Infobox ware |ware= Supply Command Software |cargoclass= - |volume=1 |minprice=2919 |aveprice=2948 |maxprice=2977 }} {{Infobox close}} ==Overview== Supply Command Software provides options to automate resupply of flotillas and is shown under the Special options. ===Encyclopedia Entry=== Supply Software is the culmination of the work by several Argon corporations. The suite of commands it provides is ideal for maintaining both military and civilian fleets alike. ===Available Commands=== &lt;onlyinclude> ====Supply Command Software==== *Equip Ships Like... *Rearm Ships *Refuel Ships *Resupply Ships &lt;/onlyinclude> ==Commentary== ==Trading information== {| ! Sold by; !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *Race Factory where this ware is sold | *List of Race Factories where this ware is a primary resource | *List of Race Factories where this ware is a secondary resource | *List of Trading Stations where this ware is traded (sector only) |} ==See Also== *[[Autopilot]] {{Warecategory}} [[Category:Command Software]]
+===Encyclopedia Entry===
+Supply Software is the culmination of the work by several Argon corporations. The suite of commands it provides is ideal for maintaining both military and civilian fleets alike.
+
+===Available Commands===
+<onlyinclude>
+====Supply Command Software====
+*Equip Ships Like...
+*Rearm Ships
+*Refuel Ships
+*Resupply Ships
+</onlyinclude>
+
+==Commentary==
+==Trading information==
+{|
+! Sold by; !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*Race Factory where this ware is sold
+|
+*List of Race Factories where this ware is a primary resource
+|
+*List of Race Factories where this ware is a secondary resource
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}
+
+==See Also==
+*[[Autopilot]]
+
+{{Warecategory}}
+[[Category:Command Software]]

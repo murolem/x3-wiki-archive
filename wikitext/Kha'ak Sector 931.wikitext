@@ -1,3 +1,62 @@
-<!-- source file: index__q8dba9a927272.html -->
+{{Infobox Sector
+|Race=Kha'ak
+|SecLevel=Border
+|Population=
+|Planets=
+|SunLevel=150
+|GateDist=
+|Gates=
+}}
+==Description==
+This sector has been recently identified as a Kha'ak sector. Although several patrols have successfully navigated this sector, entering this sector is not recommended without heavy backup.
 
-{{Infobox Sector |Race=Kha'ak |SecLevel=Border |Population= |Planets= |SunLevel=150 |GateDist= |Gates= }} ==Description== This sector has been recently identified as a Kha'ak sector. Although several patrols have successfully navigated this sector, entering this sector is not recommended without heavy backup. This sector does not contain any [[jumpgate|jumpgates]], but it is [[jumpdrive]] accessible once you have acquired its location. This sector, possibly like other ungated sectors, has the curious property of always being 12 jumps away. If you're feeling risky and have a huge jump planned, you might be able to save on energy costs by jumping directly to and from this sector. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Nividium|13|-21873|-179|-6685}} {{Asteroid/Item|Nividium|12|9324|0|-3108}} {{Asteroid/Item|Nividium|8|-61610|6156|4212}} {{Asteroid/Item|Nividium|8|-8349|5030|-27017}} {{Asteroid/Item|Nividium|7|16500|-6923|-872}} {{Asteroid/Item|Nividium|5|-59766|-6106|44593}} {{Asteroid/Item|Nividium|4|-43934|3501|51832}} {{Asteroid/Item|Nividium|4|-43701|-44|15823}} {{Asteroid/Item|Ore|51|92|-5900|-30864}} {{Asteroid/Item|Ore|35|1897|1872|-32744}} {{Asteroid/Item|Ore|27|-35884|-2210|20425}} {{Asteroid/Item|Ore|25|13038|364|65320}} {{Asteroid/Item|Ore|25|-25470|-7217|46315}} {{Asteroid/Item|Ore|25|-28924|3089|27426}} {{Asteroid/Item|Ore|24|-42488|6841|11957}} {{Asteroid/Item|Ore|21|7270|-5747|58553}} {{Asteroid/Item|Ore|20|35083|-6044|59928}} {{Asteroid/Item|Ore|20|28289|-861|53979}} {{Asteroid/Item|Ore|18|9011|1317|45637}} {{Asteroid/Item|Ore|18|16999|-1749|-20836}} {{Asteroid/Item|Ore|18|8543|-4227|-21932}} {{Asteroid/Item|Ore|17|45485|3166|21742}} {{Asteroid/Item|Ore|17|24351|502|-13921}} {{Asteroid/Item|Ore|15|-52721|-6876|36933}} {{Asteroid/Item|Ore|15|-41369|2478|-20525}} {{Asteroid/Item|Ore|14|-22682|646|38249}} {{Asteroid/Item|Ore|13|19317|-4177|19995}} {{Asteroid/Item|Ore|13|47898|6685|7320}} {{Asteroid/Item|Ore|13|-13515|4871|889}} {{Asteroid/Item|Ore|12|-18004|-3283|-31597}} {{Asteroid/Item|Ore|10|6588|2093|-13617}} {{Asteroid/Item|Ore|8|-37151|6221|-67581}} {{Asteroid/Item|Ore|6|-3004|-2372|66787}} {{Asteroid/Item|Ore|5|7350|-6376|24725}} {{Asteroid/Item|Silicon|72|20318|7270|22439}} {{Asteroid/Item|Silicon|64|-38539|1111|-11585}} {{Asteroid/Item|Silicon|40|-32179|-2954|38724}} {{Asteroid/Item|Silicon|26|1896|3927|20788}} {{Asteroid/Item|Silicon|26|-7350|-2022|14030}} {{Asteroid/Item|Silicon|18|-50195|-1237|56626}} {{Asteroid/Item|Silicon|13|-33559|-726|6149}} {{Asteroid/Item|Silicon|13|0|0|-10101}} {{Asteroid/End}}
+This sector does not contain any [[jumpgate|jumpgates]], but it is [[jumpdrive]] accessible once you have acquired its location.
+This sector, possibly like other ungated sectors, has the curious property of always being 12 jumps away. If you're feeling risky and have a huge jump planned, you might be able to save on energy costs by jumping directly to and from this sector.
+
+==Default [[Stations]]==
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Nividium|13|-21873|-179|-6685}}
+{{Asteroid/Item|Nividium|12|9324|0|-3108}}
+{{Asteroid/Item|Nividium|8|-61610|6156|4212}}
+{{Asteroid/Item|Nividium|8|-8349|5030|-27017}}
+{{Asteroid/Item|Nividium|7|16500|-6923|-872}}
+{{Asteroid/Item|Nividium|5|-59766|-6106|44593}}
+{{Asteroid/Item|Nividium|4|-43934|3501|51832}}
+{{Asteroid/Item|Nividium|4|-43701|-44|15823}}
+{{Asteroid/Item|Ore|51|92|-5900|-30864}}
+{{Asteroid/Item|Ore|35|1897|1872|-32744}}
+{{Asteroid/Item|Ore|27|-35884|-2210|20425}}
+{{Asteroid/Item|Ore|25|13038|364|65320}}
+{{Asteroid/Item|Ore|25|-25470|-7217|46315}}
+{{Asteroid/Item|Ore|25|-28924|3089|27426}}
+{{Asteroid/Item|Ore|24|-42488|6841|11957}}
+{{Asteroid/Item|Ore|21|7270|-5747|58553}}
+{{Asteroid/Item|Ore|20|35083|-6044|59928}}
+{{Asteroid/Item|Ore|20|28289|-861|53979}}
+{{Asteroid/Item|Ore|18|9011|1317|45637}}
+{{Asteroid/Item|Ore|18|16999|-1749|-20836}}
+{{Asteroid/Item|Ore|18|8543|-4227|-21932}}
+{{Asteroid/Item|Ore|17|45485|3166|21742}}
+{{Asteroid/Item|Ore|17|24351|502|-13921}}
+{{Asteroid/Item|Ore|15|-52721|-6876|36933}}
+{{Asteroid/Item|Ore|15|-41369|2478|-20525}}
+{{Asteroid/Item|Ore|14|-22682|646|38249}}
+{{Asteroid/Item|Ore|13|19317|-4177|19995}}
+{{Asteroid/Item|Ore|13|47898|6685|7320}}
+{{Asteroid/Item|Ore|13|-13515|4871|889}}
+{{Asteroid/Item|Ore|12|-18004|-3283|-31597}}
+{{Asteroid/Item|Ore|10|6588|2093|-13617}}
+{{Asteroid/Item|Ore|8|-37151|6221|-67581}}
+{{Asteroid/Item|Ore|6|-3004|-2372|66787}}
+{{Asteroid/Item|Ore|5|7350|-6376|24725}}
+{{Asteroid/Item|Silicon|72|20318|7270|22439}}
+{{Asteroid/Item|Silicon|64|-38539|1111|-11585}}
+{{Asteroid/Item|Silicon|40|-32179|-2954|38724}}
+{{Asteroid/Item|Silicon|26|1896|3927|20788}}
+{{Asteroid/Item|Silicon|26|-7350|-2022|14030}}
+{{Asteroid/Item|Silicon|18|-50195|-1237|56626}}
+{{Asteroid/Item|Silicon|13|-33559|-726|6149}}
+{{Asteroid/Item|Silicon|13|0|0|-10101}}
+{{Asteroid/End}}

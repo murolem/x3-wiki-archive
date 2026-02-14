@@ -1,3 +1,68 @@
-<!-- source file: index__q90efa6df7fbb.html -->
+{{Infobox open}}
+{{Infobox factory
+|colour=LightBlue
+|faction=Argon
+|station=Ammunition Factory
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:02:48
+|productnum= [[Mass Driver Ammunition]] (8)
+|stationprice={{Priceblock|Argon Trusted Ally|2830680}}
+|reqresources=[[Energy Cells]] (42)<br>[[Meatsteak Cahoonas]] (28)<br>[[Ore]] (7)
+|optresources=[[Teladianium]]
+}}
 
-{{Infobox open}} {{Infobox factory |colour=LightBlue |faction=Argon |station=Ammunition Factory |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:02:48 |productnum= [[Mass Driver Ammunition]] (8) |stationprice={{Priceblock|Argon Trusted Ally|2830680}} |reqresources=[[Energy Cells]] (42)&lt;br>[[Meatsteak Cahoonas]] (28)&lt;br>[[Ore]] (7) |optresources=[[Teladianium]] }} {{Infobox factory |colour=Tan |faction=Split |station=Ammunition Factory |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=00:14:00 |productnum= [[Mass Driver Ammunition]] (40) |stationprice={{Priceblock|Split Distinguished Associate|2830680}} |reqresources=[[Energy Cells]] (210)&lt;br>[[Rastar Oil]] (21)&lt;br>[[Ore]] (35) |optresources=[[Teladianium]] }} {{Infobox close}} ==Overview== Ammunition Factories are produce [[Mass Driver Ammunition]] from [[Energy Cells]], [[Ore]] and [[Food]]. NPC stations will buy [[Teladianium]] as a secondary resource. This factory complements a Mass Driver Forge by creating and distributing ammunition for the [[Mass Driver]] weapon. It sells the ammunition in cases of 200 rounds each. ===Encyclopedia Entry=== This factory is devoted to the creation and distribution of Ammunition for the Mass Driver weapon. Projectiles are created for hardened steel, which is produced on the station. Each projectile is then put into feed crates that are sold and are placed directly into the Mass Driver weapon system. ==Availability== This factory is exclusive to the Argon and Split. {| style="text-align:left;" |- valign="top" | '''[[Argon#Shipyards|Argon]]''' *{{sa|Argon Prime}} *{{sa|Argon Sector M148}} *{{sa|Cloudbase Southeast}} *{{sa|Legend's Home}} *{{sa|Light of Heart}} | '''[[Split#Shipyards|Split]]''' *{{sa|Family Pride}} *{{sa|Family Rhy}} *{{sa|Patriarch's Conclusion}} *{{sa|Rhonkar's Might}} *{{sa|Zyarth's Dominion}} |} {{Stationcategory}}
+{{Infobox factory
+|colour=Tan
+|faction=Split
+|station=Ammunition Factory
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=00:14:00
+|productnum= [[Mass Driver Ammunition]] (40)
+|stationprice={{Priceblock|Split Distinguished Associate|2830680}}
+|reqresources=[[Energy Cells]] (210)<br>[[Rastar Oil]] (21)<br>[[Ore]] (35)
+|optresources=[[Teladianium]]
+}}
+{{Infobox close}}
+
+==Overview==
+
+Ammunition Factories are produce [[Mass Driver Ammunition]] from [[Energy Cells]], [[Ore]] and [[Food]]. 
+
+NPC stations will buy [[Teladianium]] as a secondary resource.
+
+This factory complements a Mass Driver Forge by creating and distributing ammunition for the [[Mass Driver]] weapon. It sells the ammunition in cases of 200 rounds each. 
+
+===Encyclopedia Entry===
+
+This factory is devoted to the creation and distribution of Ammunition for the Mass Driver weapon.
+
+Projectiles are created for hardened steel, which is produced on the station. Each projectile is then put into feed crates that are sold and are placed directly into the Mass Driver weapon system. 
+
+==Availability==
+
+This factory is exclusive to the Argon and Split.
+
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Argon#Shipyards|Argon]]'''
+*{{sa|Argon Prime}}
+*{{sa|Argon Sector M148}}
+*{{sa|Cloudbase Southeast}}
+*{{sa|Legend's Home}}
+*{{sa|Light of Heart}}
+| '''[[Split#Shipyards|Split]]'''
+*{{sa|Family Pride}}
+*{{sa|Family Rhy}}
+*{{sa|Patriarch's Conclusion}}
+*{{sa|Rhonkar's Might}}
+*{{sa|Zyarth's Dominion}}
+|}
+
+
+{{Stationcategory}}

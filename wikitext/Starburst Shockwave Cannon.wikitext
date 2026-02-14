@@ -1,3 +1,43 @@
-<!-- source file: index__qc425d7852d4d.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Starburst Shockwave Cannon
+|hulldam=2100
+|shielddam=13100
+|range=2
+|rof= 37
+|shotspeed= 2000
+|maxweapenergy= 4000
+|shotcost=759
+}}
+{{Infobox ware
+|ware=Starburst Shockwave Cannon
+|cargoclass=L
+|volume=28
+|minprice=604570
+|aveprice=623268
+|maxprice=641966
+}}
+{{Infobox close}}
+==Overview==
+The [[Terran]] option for anti-fighter armament, and for more powerful, energy-based M7 arming (compared to the corvette-level M/AML).
 
-{{Infobox open}} {{Infobox weapon |weapon=Starburst Shockwave Cannon |hulldam=2100 |shielddam=13100 |range=2 |rof= 37 |shotspeed= 2000 |maxweapenergy= 4000 |shotcost=759 }} {{Infobox ware |ware=Starburst Shockwave Cannon |cargoclass=L |volume=28 |minprice=604570 |aveprice=623268 |maxprice=641966 }} {{Infobox close}} ==Overview== The [[Terran]] option for anti-fighter armament, and for more powerful, energy-based M7 arming (compared to the corvette-level M/AML). ==Encyclopedia Entry== A deadly weapon found on frigates, destroyers and carriers. Commonly used by United Space Command capital ships, the Starburst Shockwave Cannon is an advanced, energy-based version of the rather basic flak weapons used by other races. A projectile is fired outwards and once it reaches its maximum range, it activates and sends powerful energy waves outwards, damaging any nearby ships. ==Commentary== The Terran analogue to the [[Flak Artillery Array]] this powerful weapon is slightly superior in damage output when compared to its (Teladian) Commonwealth counterpart. Its shot speed is slower and on par with the [[CFA]], though accuracy is not compromised. It has a massive drain on ship energy, so be sparing with your shots. While it's great as an anti-fighter weapon when mounted to turrets, the incredible energy drain can cause problems. ==Known Compatible Ships== *[[Odin|ATF Odin]] *[[Tyr|ATF Tyr]] *[[Aegir|ATF Aegir]] *[[Skirnir|ATF Skirnir]] *[[Truelight Seeker]] *[[Osaka]] *[[Tokyo]] *[[Yokohama]] *[[Xenon K]] ==Available at Known Docks==
+==Encyclopedia Entry==
+A deadly weapon found on frigates, destroyers and carriers.
+
+Commonly used by United Space Command capital ships, the Starburst Shockwave Cannon is an advanced, energy-based version of the rather basic flak weapons used by other races. A projectile is fired outwards and once it reaches its maximum range, it activates and sends powerful energy waves outwards, damaging any nearby ships.
+
+==Commentary==
+The Terran analogue to the [[Flak Artillery Array]] this powerful weapon is slightly superior in damage output when compared to its (Teladian) Commonwealth counterpart. Its shot speed is slower and on par with the [[CFA]], though accuracy is not compromised. It has a massive drain on ship energy, so be sparing with your shots. While it's great as an anti-fighter weapon when mounted to turrets, the incredible energy drain can cause problems.
+
+==Known Compatible Ships==
+*[[Odin|ATF Odin]]
+*[[Tyr|ATF Tyr]]
+*[[Aegir|ATF Aegir]]
+*[[Skirnir|ATF Skirnir]]
+*[[Truelight Seeker]]
+*[[Osaka]]
+*[[Tokyo]]
+*[[Yokohama]]
+*[[Xenon K]]
+
+==Available at Known Docks==

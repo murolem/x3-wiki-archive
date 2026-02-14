@@ -1,3 +1,116 @@
-<!-- source file: index__qca7189c556a8.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= Drake
+|Faction= Split
+|Class={{TS+class}}
+|Priceblock={{Priceblock|Family Protector| 1647625 }}
+|Minspeed= 58.1
+|Maxspeed= 92.9
+|Minaccel= 2
+|Maxaccel= 3
+|Minsteer= 3
+|Maxsteer= 6
+|Hull= 58800
+|Maxshield= 200 MJ
+|Shieldslots= 1
+|Maxshieldstrength= 200
+|Shieldreactor= 1050
+|Cargoclass= XL
+|Mincargo= 6000
+|Maxcargo= 12850
+|Lasercap= 2350
+|Laserrecharge= 25
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Right
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Back
+|Guncount=1
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The Drake is the Split's TS+ heavy transporter introduced in Albion Prelude. It offers the fastest speed among the TS+ ships, at 92.9 m/s.
+==Background==
+This heavily armed freight transporter was recently called into service to provide a more secure way of ferrying top-grade Split military equipment. Armed with multiple turrets and exceptional defences, the Drake is quite possibly the most aggressive transporter in the universe. Though the ship appears slow and bulky, the engines were specifically upgraded to provide acceleration and speed unmatched by any other vessel of its class. Split military forces have employed a garrison of these ships and retrofitted them for high-yield explosive compatibility. These ships are then stripped of their equipment and used as lures for pirate raiders. While this method is expensive, Split generals say that the cost is nothing compared to the sight of the explosion it provides.
+==Physical Characteristics==
+The Drake's hull is the typical rust red of all Split ships. It is long and cylindrical; almost a tube with engines. It features two illuminated turbines, one on each side of the ship, which rotate as the ship moves.
+== Combat ==
 
-{{Infobox open}} {{Infobox variant |Variant= Drake |Faction= Split |Class={{TS+class}} |Priceblock={{Priceblock|Family Protector| 1647625 }} |Minspeed= 58.1 |Maxspeed= 92.9 |Minaccel= 2 |Maxaccel= 3 |Minsteer= 3 |Maxsteer= 6 |Hull= 58800 |Maxshield= 200 MJ |Shieldslots= 1 |Maxshieldstrength= 200 |Shieldreactor= 1050 |Cargoclass= XL |Mincargo= 6000 |Maxcargo= 12850 |Lasercap= 2350 |Laserrecharge= 25 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Right |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Back |Guncount=1 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The Drake is the Split's TS+ heavy transporter introduced in Albion Prelude. It offers the fastest speed among the TS+ ships, at 92.9 m/s. ==Background== This heavily armed freight transporter was recently called into service to provide a more secure way of ferrying top-grade Split military equipment. Armed with multiple turrets and exceptional defences, the Drake is quite possibly the most aggressive transporter in the universe. Though the ship appears slow and bulky, the engines were specifically upgraded to provide acceleration and speed unmatched by any other vessel of its class. Split military forces have employed a garrison of these ships and retrofitted them for high-yield explosive compatibility. These ships are then stripped of their equipment and used as lures for pirate raiders. While this method is expensive, Split generals say that the cost is nothing compared to the sight of the explosion it provides. ==Physical Characteristics== The Drake's hull is the typical rust red of all Split ships. It is long and cylindrical; almost a tube with engines. It features two illuminated turbines, one on each side of the ship, which rotate as the ship moves. == Combat == Armed with Energy Bolt Chainguns, the Drake is the most well defended TS in the X3 Universe. It has excellent turret coverage and the EBCs give it the ability to sustain fire for longer than other TS class ships equipped with energy weapons. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Silkworm Missile]] *[[Disruptor Missile]] | *[[Hurricane Missile]] *[[Remote Guided Warhead]] *[[Wildfire Missile]] |} == Availability == {| style="text-align:center;" |+'''Availability''' |- style="{{Colour/Split}}" ! Variant !! [[Family Rhy]] !! [[Patriarch's Conclusion]] !! [[Rhonkar's Might]] !! [[Rhonkar's Trial]] !! [[Zyarth's Stand]] |- ! Drake || X || X || X || X || X || |} As the ship only carries one 200MJ shield and does not come with weapons, there is no difference in the S, M or L variants at shipyards. This is a blessing in disguise; unlike with ships like the Mistral Super Freighter, you never have to source shields for this transporter. == Suggested Roles== The Drake is an ideal Universe Trader, combining the fastest speed among TS+ ships with an enormous cargo bay. == See Also== {{TS+}} {{TS+category}} [[Category:Split ships]] {{Split Navbox}}
+Armed with Energy Bolt Chainguns, the Drake is the most well defended TS in the X3 Universe. It has excellent turret coverage and the EBCs give it the ability to sustain fire for longer than other TS class ships equipped with energy weapons.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Silkworm Missile]]
+*[[Disruptor Missile]]
+|
+*[[Hurricane Missile]]
+*[[Remote Guided Warhead]]
+*[[Wildfire Missile]]
+|}
+== Availability ==
+{| style="text-align:center;"
+|+'''Availability'''
+|- style="{{Colour/Split}}"
+! Variant !! [[Family Rhy]] !! [[Patriarch's Conclusion]] !! [[Rhonkar's Might]] !! [[Rhonkar's Trial]] !! [[Zyarth's Stand]]
+|-
+! Drake || X || X || X || X || X ||
+|}
+
+As the ship only carries one 200MJ shield and does not come with weapons, there is no difference in the S, M or L variants at shipyards.  This is a blessing in disguise; unlike with ships like the Mistral Super Freighter, you never have to source shields for this transporter.
+
+== Suggested Roles==
+The Drake is an ideal Universe Trader, combining the fastest speed among TS+ ships with an enormous cargo bay.
+== See Also==
+{{TS+}}
+{{TS+category}}
+[[Category:Split ships]]
+
+
+{{Split Navbox}}

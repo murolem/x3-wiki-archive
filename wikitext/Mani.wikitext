@@ -1,3 +1,119 @@
-<!-- source file: index__qfde84e5bd4a7.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Mani
+|Faction=Terran
+|Class={{TPclass}}
+|Priceblock={{Priceblock||1,260,308}}
+|Minspeed=96.0
+|Maxspeed=192.0
+|Minaccel=5
+|Maxaccel=11
+|Minsteer=2.2
+|Maxsteer=6.3
+|Hull= 69,000
+|Maxshield=25 MJ
+|Shieldslots=5
+|Maxshieldstrength=125
+|Shieldreactor= 600
+|Cargoclass=L
+|Mincargo=650
+|Maxcargo=1050
+|Lasercap=1350
+|Laserrecharge=15
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Up
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Back
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Down
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+A new Terran TP introduced in Albion Prelude.  It is faster and more heavily armed than the older [[Scabbard]].
+==Background==
+With the number of Terran billionaires and space-based entrepreneurs growing, the market for a strictly Terran-designed luxury cruiser was recognized. The Mani is the result. Made to fill the gap in the civil markets, it is reasonably heavily armed and adequately shielded, though the actual luxury aspect has taken a secondary role. Built to impress rather than please, the Mani is the posing vessel of the year: as impractical as it is fashionable.
+==Physical Characteristics==
+The Mani looks a little like a scaled-down [[Osaka]], with the same forward prongs. It is mostly the same white color as other Terran ships, but features prominent red highlights.
+== Combat ==
+The Mani does not have the laser generator to power its [[Electro-Magnetic Plasma Cannon]]s for long, but it is well-shielded and is covered by three turrets, and when combined with the [[Poltergeist Missile]], can defend itself from the light [[M4]]s and [[M5]]s it cannot outrun.
+== Equipment ==
+'''Built-In Equipment'''
+*[[Cargo Life Support System]]
 
-{{Infobox open}} {{Infobox variant |Variant=Mani |Faction=Terran |Class={{TPclass}} |Priceblock={{Priceblock||1,260,308}} |Minspeed=96.0 |Maxspeed=192.0 |Minaccel=5 |Maxaccel=11 |Minsteer=2.2 |Maxsteer=6.3 |Hull= 69,000 |Maxshield=25 MJ |Shieldslots=5 |Maxshieldstrength=125 |Shieldreactor= 600 |Cargoclass=L |Mincargo=650 |Maxcargo=1050 |Lasercap=1350 |Laserrecharge=15 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Up |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Back |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Down |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== A new Terran TP introduced in Albion Prelude. It is faster and more heavily armed than the older [[Scabbard]]. ==Background== With the number of Terran billionaires and space-based entrepreneurs growing, the market for a strictly Terran-designed luxury cruiser was recognized. The Mani is the result. Made to fill the gap in the civil markets, it is reasonably heavily armed and adequately shielded, though the actual luxury aspect has taken a secondary role. Built to impress rather than please, the Mani is the posing vessel of the year: as impractical as it is fashionable. ==Physical Characteristics== The Mani looks a little like a scaled-down [[Osaka]], with the same forward prongs. It is mostly the same white color as other Terran ships, but features prominent red highlights. == Combat == The Mani does not have the laser generator to power its [[Electro-Magnetic Plasma Cannon]]s for long, but it is well-shielded and is covered by three turrets, and when combined with the [[Poltergeist Missile]], can defend itself from the light [[M4]]s and [[M5]]s it cannot outrun. == Equipment == '''Built-In Equipment''' *[[Cargo Life Support System]] '''Missiles''' {|- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Poltergeist Missile]] |} == Availability == {| style="text-align:center;" |+'''Availability''' |- style="{{Colour/Terran}}" ! Variant !! [[The Moon]] |- ! Mani || x |} == Suggested Roles== The Mani is a solid, fast, and capable TP ship, making it an excellent choice for a player seeking to make money with Luxury Transport missions. As with other [[TP]]s, it is also excellent for transporting [[Marines]]. It is, however, difficult to acquire easily, as it must be escorted out from [[The Moon]], through the War sectors before it can be used. == See Also== {{TP}} {{TPcategory}} [[Category:Terran ships]]
+'''Missiles'''
+{|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Poltergeist Missile]]
+|}
+== Availability ==
+{| style="text-align:center;"
+|+'''Availability'''
+|- style="{{Colour/Terran}}"
+! Variant !! [[The Moon]]
+|-
+! Mani || x
+|}
+== Suggested Roles==
+The Mani is a solid, fast, and capable TP ship, making it an excellent choice for a player seeking to make money with Luxury Transport missions. As with other [[TP]]s, it is also excellent for transporting [[Marines]].  It is, however, difficult to acquire easily, as it must be escorted out from [[The Moon]], through the War sectors before it can be used.
+== See Also==
+{{TP}}
+{{TPcategory}}
+[[Category:Terran ships]]

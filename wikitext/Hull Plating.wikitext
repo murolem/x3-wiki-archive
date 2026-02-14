@@ -1,3 +1,44 @@
-<!-- source file: index__qf000c099f7fa.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Hull Plating
+|cargoclass= L
+|volume=10
+|minprice=180
+|aveprice=224
+|maxprice=268
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+The production of this advanced hull plating, made from a mixture of traditional metals and advanced polymers, has been ramped up significantly in recent years due to the increased shipbuilding activity by the USC and AGI Task Force for the defence of the Solar System.
 
-{{Infobox open}} {{Infobox ware |ware= Hull Plating |cargoclass= L |volume=10 |minprice=180 |aveprice=224 |maxprice=268 }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== The production of this advanced hull plating, made from a mixture of traditional metals and advanced polymers, has been ramped up significantly in recent years due to the increased shipbuilding activity by the USC and AGI Task Force for the defence of the Solar System. ==Commentary== Used as ammunition for the [[Terran Repair Laser]] ==Trading information== {| ! Produced by; !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Hull Plating Production Facility]] | *List of Race Factories where this ware is a primary resource | *[[Electro-Magnetic Plasma Cannon Forge]] *[[EMP Rifle Assembly Facility]] *[[Matter/Anti-matter Launcher Forge]] *[[Matter/Anti-Matter Mine Fab]] *[[Matter/Anti-Matter Warhead Production Fab]] *[[Point Singularity Projector Forge]] *[[Starburst Shockwave Cannon Forge]] | *[[Earth Torus]] *[[Military Base]] (Terran) *[[Orbital Defence Station]] *[[Saturn Research Station]] |} {{Warecategory}} {{Waretable}} {{Terran Navbox}}
+==Commentary==
+Used as ammunition for the [[Terran Repair Laser]]
+
+==Trading information==
+{|
+! Produced by; !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Hull Plating Production Facility]]
+|
+*List of Race Factories where this ware is a primary resource
+|
+*[[Electro-Magnetic Plasma Cannon Forge]]
+*[[EMP Rifle Assembly Facility]]
+*[[Matter/Anti-matter Launcher Forge]]
+*[[Matter/Anti-Matter Mine Fab]]
+*[[Matter/Anti-Matter Warhead Production Fab]]
+*[[Point Singularity Projector Forge]]
+*[[Starburst Shockwave Cannon Forge]]
+|
+*[[Earth Torus]]
+*[[Military Base]] (Terran)
+*[[Orbital Defence Station]]
+*[[Saturn Research Station]]
+|}
+
+{{Warecategory}}
+{{Waretable}}
+
+{{Terran Navbox}}

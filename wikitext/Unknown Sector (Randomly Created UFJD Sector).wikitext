@@ -1,3 +1,20 @@
-<!-- source file: index__qac077bca1d47.html -->
+{{Infobox Sector
+|Race=Unknown
+|SecLevel=Border
+|Population=0
+|Planets=0
+|SunLevel=--
+|GateDist= -- 
+|Gates=No Gates.
+}}
+==Overview==
+These types of sectors are randomly generated. There are apparently different probabilities as to what will be contained in them.
 
-{{Infobox Sector |Race=Unknown |SecLevel=Border |Population=0 |Planets=0 |SunLevel=-- |GateDist= -- |Gates=No Gates. }} ==Overview== These types of sectors are randomly generated. There are apparently different probabilities as to what will be contained in them. Known or apparent probabilites: Sector containing enemies - 1 in 4 chance. By jumping into these sectors, the player may come accross the extremely rare [[Aran]]. ==Description== ==Default [[Stations]]== ==[[Asteroids]]==
+Known or apparent probabilites:
+Sector containing enemies - 1 in 4 chance.
+
+By jumping into these sectors, the player may come accross the extremely rare [[Aran]].
+
+==Description==
+==Default [[Stations]]==
+==[[Asteroids]]==

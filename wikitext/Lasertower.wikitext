@@ -1,3 +1,43 @@
-<!-- source file: index__q048d7ad432ac.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Lasertower
+|cargoclass=XL
+|volume=100
+|minprice=125835
+|aveprice=151608
+|maxprice=177381
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+A defence installation typically found around stations or factories to help them against invaders.
 
-{{Infobox open}} {{Infobox ware |ware= Lasertower |cargoclass=XL |volume=100 |minprice=125835 |aveprice=151608 |maxprice=177381 }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== A defence installation typically found around stations or factories to help them against invaders. ==Commentary== Lasertowers are deployed by ejecting them from a ship's cargohold while in space. Once deployed, they must survive a ten-minute "power-up" period before they begin to target and attack ships. The towers reorient slowly which limits their ability to acquire and engage targets. They are best suited to long range engagements against slower targets. Lasertowers are lethal when deployed in large arrays, even against faster targets if given sufficient stand-off. Lasertower targeting is a trifle aggressive and may cause friendly-fire if not managed carefully. Generally, lasertowers are vulnerable to capital ship attack if not deployed in very large numbers. Given the expense and rarity of lasertowers, players typically construct their own production lines of [[Lasertower_Factory|Lasertower Factories]] if they intend to deploy very many of them. Lasertowers are often a choice defence for guarding space stations and also have some use when deployed near gates, though this has a higher probability of causing friendly fire incidents. In large batteries they can be lethal to anything within range, but in small groups they can be a fairly effective defense for keeping things like pirate raiding wings away from your space stations. Since they are armed with [[Plasma Beam Cannon]]s, they are very good at hitting anything that they're lined up with. They are equipped with 1GJ of shielding, giving them good resistance to fighter attacks. Their shielding recharges slowly, similar to space stations. It's important to deploy them in very large amounts for use against anything [[M6]] sized or larger so that they can kill their targets quickly, as they will not last long under fire from capital ships or corvettes. Lasertowers contain the rare [[Plasma_Beam_Cannon|PBC]] which can be extracted by using the "Transfer Freight via Drone" command during the power-up period. ==Trading information== {| ! Sold by; !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *Race Factory where this ware is sold | *List of Race Factories where this ware is a primary resource | *List of Race Factories where this ware is a secondary resource | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}}
+==Commentary==
+Lasertowers are deployed by ejecting them from a ship's cargohold while in space.  Once deployed, they must survive a ten-minute "power-up" period before they begin to target and attack ships.
+
+The towers reorient slowly which limits their ability to acquire and engage targets. They are best suited to long range engagements against slower targets. Lasertowers are lethal when deployed in large arrays, even against faster targets if given sufficient stand-off. Lasertower targeting is a trifle aggressive and may cause friendly-fire if not managed carefully. Generally, lasertowers are vulnerable to capital ship attack if not deployed in very large numbers.
+
+Given the expense and rarity of lasertowers, players typically construct their own production lines of [[Lasertower_Factory|Lasertower Factories]] if they intend to deploy very many of them.
+
+Lasertowers are often a choice defence for guarding space stations and also have some use when deployed near gates, though this has a higher probability of causing friendly fire incidents. In large batteries they can be lethal to anything within range, but in small groups they can be a fairly effective defense for keeping things like pirate raiding wings away from your space stations. Since they are armed with [[Plasma Beam Cannon]]s, they are very good at hitting anything that they're lined up with. They are equipped with 1GJ of shielding, giving them good resistance to fighter attacks. Their shielding recharges slowly, similar to space stations. It's important to deploy them in very large amounts for use against anything [[M6]] sized or larger so that they can kill their targets quickly, as they will not last long under fire from capital ships or corvettes.
+
+Lasertowers contain the rare [[Plasma_Beam_Cannon|PBC]] which can be extracted by using the "Transfer Freight via Drone" command during the power-up period.
+
+==Trading information==
+{|
+! Sold by; !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*Race Factory where this ware is sold
+
+|
+*List of Race Factories where this ware is a primary resource
+|
+*List of Race Factories where this ware is a secondary resource
+
+|
+*List of Trading Stations where this ware is traded (sector only)
+
+|}
+
+{{Warecategory}}

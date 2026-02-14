@@ -1,3 +1,23 @@
-<!-- source file: index__q4b706b38b5dd.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware=Ore Collector
+|cargoclass=XL
+|volume=50
+|minprice=29,958
+|aveprice=30,884
+|maxprice=31,810
+}}
+{{Infobox close}}
+An extension which permits ships to collect [[Asteroids|pebbles]] from space.
 
-{{Infobox open}} {{Infobox ware |ware=Ore Collector |cargoclass=XL |volume=50 |minprice=29,958 |aveprice=30,884 |maxprice=31,810 }} {{Infobox close}} An extension which permits ships to collect [[Asteroids|pebbles]] from space. This device is crucial to [[Mobile Mining]] operations. It must be fitted to ships with XL class cargo capacity as all ores fall in this cargo class. Some vessels come with this device built-in. To collect a pebble, just collide with it. Large rocks must be broken down into pebbles and asteroids that appear on the sector map must be shattered with a large explosive or [[Mobile Drilling System]] before they can be broken down. Attempting to collect an oversized rock will result in a collision rather than collection, causing shield damage and occasionally hull and equipment damage even if your shields hold.
+This device is crucial to [[Mobile Mining]] operations.
+
+It must be fitted to ships with XL class cargo capacity as all ores fall in this cargo class.
+
+Some vessels come with this device built-in.
+
+To collect a pebble, just collide with it.
+
+Large rocks must be broken down into pebbles and asteroids that appear on the sector map must be shattered with a large explosive or [[Mobile Drilling System]] before they can be broken down.
+
+Attempting to collect an oversized rock will result in a collision rather than collection, causing shield damage and occasionally hull and equipment damage even if your shields hold.

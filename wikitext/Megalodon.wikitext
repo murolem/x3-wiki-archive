@@ -1,3 +1,166 @@
-<!-- source file: index__qcac0c818790b.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= Megalodon
+|Faction=Boron
+|Class={{M2+class}}
+|Priceblock={{Priceblock|King's Knight| 128475928}}
+|Minspeed=32.5
+|Maxspeed=52.0
+|Minaccel=4
+|Maxaccel=6
+|Minsteer=.5
+|Maxsteer=.8
+|Hull=6200000
+|Maxshield=2 GJ
+|Shieldslots=6
+|Maxshieldstrength=12000
+|Shieldreactor= 14200
+|Cargoclass=XL
+|Mincargo= 11000
+|Maxcargo= 13000
+|Lasercap= 288000
+|Laserrecharge=7497
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount= 10
+|ire=0|pac=0|hept=0|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=1|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=1|gc=1|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot= Right
+|Guncount= 9
+|ire=0|pac=0|hept=1|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=1|
+ipg=1|ic=1|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=1|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot= Left
+|Guncount= 9
+|ire=0|pac=0|hept=1|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=1|
+ipg=1|ic=1|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=1|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Back
+|Guncount= 8
+|ire=0|pac=0|hept=0|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=1|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=1|gc=1|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot= Up
+|Guncount= 8
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=1|
+cfaa=1|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot= Down
+|Guncount= 8
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=1|
+cfaa=1|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay={{Dockbay|5 [[M3+]]-[[M5]]}}
+}}
+{{Infobox close}}
 
-{{Infobox open}} {{Infobox variant |Variant= Megalodon |Faction=Boron |Class={{M2+class}} |Priceblock={{Priceblock|King's Knight| 128475928}} |Minspeed=32.5 |Maxspeed=52.0 |Minaccel=4 |Maxaccel=6 |Minsteer=.5 |Maxsteer=.8 |Hull=6200000 |Maxshield=2 GJ |Shieldslots=6 |Maxshieldstrength=12000 |Shieldreactor= 14200 |Cargoclass=XL |Mincargo= 11000 |Maxcargo= 13000 |Lasercap= 288000 |Laserrecharge=7497 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount= 10 |ire=0|pac=0|hept=0| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=1|ic=1|fbl=0| psg=0|tbc=0|ebc=0| faa=1|gc=1|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot= Right |Guncount= 9 |ire=0|pac=0|hept=1| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=1| ipg=1|ic=1|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=1|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot= Left |Guncount= 9 |ire=0|pac=0|hept=1| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=1| ipg=1|ic=1|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=1|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Back |Guncount= 8 |ire=0|pac=0|hept=0| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=1|ic=1|fbl=0| psg=0|tbc=0|ebc=0| faa=1|gc=1|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot= Up |Guncount= 8 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=1| cfaa=1|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot= Down |Guncount= 8 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=1| cfaa=1|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay={{Dockbay|5 [[M3+]]-[[M5]]}} }} {{Infobox close}} == Overview == The Megalodon, new to Albion Prelude, is the heaviest destroyer in the entire Commonwealth, on the same scale as the enormous [[Valhalla|ATF Valhalla]] and the [[I|Xenon I]]. ==Background== To counter the potential threat of the Split heavy destroyer, Queen Menelaus demanded that a new flagship, symbolising the military strength of the Kingdom of Boron must be built. The Megalodon is the result; effectively a more powerful version of the Boron Ray, it is equipped with superior armament, shielding and energy to that of its older sister. The greatest improvement, however, is a new form of life support system. Normally, Boron ships are filled with a regular ammonium solution, the Megalodon instead uses a specially formulated mixture of water, helium, ammonium and artificial adrenaline. This makes the crew much more responsive to external stimuli, allowing for greatly increased combat and command performance. As a downside, Argon communications officers state that it is intolerable to listen to long speeches of a Megalodon's crewmember over the communication link due to the extremely high pitch. ==Physical Characteristics== The Megalodon is a very large ship, having nearly the cross-sectional diameter of a jump gate, so care must be taken when navigating in close quarters. In Albion Prelude the ship may collide with the Player Headquarters when undocking from some of that station's capital ship docking ports. It is recommended that you avoid the ports aligned with the lower docking clamps. Care should also be taken when using this ship in friendly NPC sectors as its enormous size can easily block the firing line of friendly rapid response bombers resulting in quite a bit of friendly fire damage received. == Combat == Since patch 2.0 the Megalodon has been improved. It can now mount almost all Commonwealth weapons and all its turret weapon slots have been increased to bring it into line with the other M2 super heavy destroyers. Due to the length of the ship it is best to keep enemies at range so the front turrets can be effective. If an enemy does get past the front turrets the player can pull up or go down and ram the enemy ship. One drawback of this ship is that the player will normally have anti-fighter/missile weapons mounted on the up and down weapon mounts. These mounts are too far forward and the back of the ship is very large.. Weapons such as the flak and cluster artillery arrays cannot defend this blind spot well. Enemy fighters can hang back and shoot at the player without being damaged by the player's anti-fighter weapons. This weakness proves to be deadly with an M8 bomber as it is virtually impossible to stop the missiles. To compensate for this weakness the player can turn the ship and allow the anti-fighter/missiles weapons to get a shot. Unique among M2-class ships the Megalodon can fire flail barrage missiles, though not in salvo or at the same rate as an M7M. This is probably the best option for dealing with fighters in solo combat. Alternatively, the ship has a small hangar for up to 5x fighters, allowing it to carry a small escort. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Hornet Missile]] *[[Typhoon Missile]] *[[Firestorm Torpedo]] *[[Flail Barrage Missile]] |} == Availability == Not in vanilla Terran Conflict, but present in XTC and X3: Albion Prelude. {| style="text-align:center;" cellpadding="3" |- style="background-color:lightblue;" ! Albion Prelude !! [[Kingdom End]] !! [[Ocean of Fantasy]] !! [[Queen's Retribution]] |- ! Megalodon || x || x || x || |} == Suggested Roles== == See Also== {{M2+}} {{Boron Navbox}}
+== Overview ==
+The Megalodon, new to Albion Prelude, is the heaviest destroyer in the entire Commonwealth, on the same scale as the enormous [[Valhalla|ATF Valhalla]] and the [[I|Xenon I]].
+
+==Background==
+To counter the potential threat of the Split heavy destroyer, Queen Menelaus demanded that a new flagship, symbolising the military strength of the Kingdom of Boron must be built. The Megalodon is the result; effectively a more powerful version of the Boron Ray, it is equipped with superior armament, shielding and energy to that of its older sister. The greatest improvement, however, is a new form of life support system. Normally, Boron ships are filled with a regular ammonium solution, the Megalodon instead uses a specially formulated mixture of water, helium, ammonium and artificial adrenaline. This makes the crew much more responsive to external stimuli, allowing for greatly increased combat and command performance. As a downside, Argon communications officers state that it is intolerable to listen to long speeches of a Megalodon's crewmember over the communication link due to the extremely high pitch.
+
+==Physical Characteristics==
+
+The Megalodon is a very large ship, having nearly the cross-sectional diameter of a jump gate, so care must be taken when navigating in close quarters. In Albion Prelude the ship may collide with the Player Headquarters when undocking from some of that station's capital ship docking ports. It is recommended that you avoid the ports aligned with the lower docking clamps.
+
+Care should also be taken when using this ship in friendly NPC sectors as its enormous size can easily block the firing line of friendly rapid response bombers resulting in quite a bit of friendly fire damage received.
+
+== Combat ==
+Since patch 2.0 the Megalodon has been improved. It can now mount almost all Commonwealth weapons and all its turret weapon slots have been increased to bring it into line with the other M2 super heavy destroyers. Due to the length of the ship it is best to keep enemies at range so the front turrets can be effective. If an enemy does get past the front turrets the player can pull up or go down and ram the enemy ship. 
+
+One drawback of this ship is that the player will normally have anti-fighter/missile weapons mounted on the up and down weapon mounts. These mounts are too far forward and the back of the ship is very large.. Weapons such as the flak and cluster artillery arrays cannot defend this blind spot well. Enemy fighters can hang back and shoot at the player without being damaged by the player's anti-fighter weapons. This weakness proves to be deadly with an M8 bomber as it is virtually impossible to stop the missiles. To compensate for this weakness the player can turn the ship and allow the anti-fighter/missiles weapons to get a shot.
+
+Unique among M2-class ships the Megalodon can fire flail barrage missiles, though not in salvo or at the same rate as an M7M. This is probably the best option for dealing with fighters in solo combat. Alternatively, the ship has a small hangar for up to 5x fighters, allowing it to carry a small escort.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;" 
+|
+*[[Mosquito Missile]]
+*[[Hornet Missile]]
+*[[Typhoon Missile]]
+*[[Firestorm Torpedo]]
+*[[Flail Barrage Missile]]
+|}
+
+== Availability ==
+Not in vanilla Terran Conflict, but present in XTC and X3: Albion Prelude.
+
+{| style="text-align:center;" cellpadding="3"
+|- style="background-color:lightblue;"
+! Albion Prelude !! [[Kingdom End]] !! [[Ocean of Fantasy]] !! [[Queen's Retribution]]
+|-
+! Megalodon || x || x || x ||
+|}
+
+
+
+== Suggested Roles==
+== See Also==
+
+{{M2+}}
+{{Boron Navbox}}

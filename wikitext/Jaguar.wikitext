@@ -1,3 +1,269 @@
-<!-- source file: index__qe4a0b704f6a9.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Jaguar
+|Faction=Split
+|Class={{M5class}}
+|Priceblock={{Priceblock|| 133095}}
+|Minspeed=134.1
+|Maxspeed=469.6
+|Minaccel=86
+|Maxaccel=302
+|Minsteer=15.6
+|Maxsteer=54.7
+|Hull=800 / 1600 (AP)
+|Maxshield=1 MJ
+|Shieldslots=2
+|Maxshieldstrength=2
+|Shieldreactor= 85
+|Cargoclass=S
+|Mincargo=10
+|Maxcargo=30
+|Lasercap=1200
+|Laserrecharge=30
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=4
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Enhanced Jaguar
+|Faction=Split
+|Class={{M5class}}
+|Priceblock=
+|Minspeed=172
+|Maxspeed=602
+|Minaccel=110
+|Maxaccel=385
+|Minsteer=18.3
+|Maxsteer=64
+|Hull=900 / 1800 (AP)
+|Maxshield=1 MJ
+|Shieldslots=2
+|Maxshieldstrength=2
+|Shieldreactor= 100
+|Cargoclass=S
+|Mincargo=9
+|Maxcargo=40
+|Lasercap=1440
+|Laserrecharge=36
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=4
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Jaguar Hauler
+|Faction=Split
+|Class={{M5class}}
+|Priceblock={{Priceblock|| 210336}}
+|Minspeed=140.8
+|Maxspeed=493.1
+|Minaccel=90
+|Maxaccel=317
+|Minsteer=15.6
+|Maxsteer=54.7
+|Hull=848 / 1696 (AP)
+|Maxshield=1 MJ
+|Shieldslots=1
+|Maxshieldstrength=1
+|Shieldreactor= 85
+|Cargoclass=S
+|Mincargo=13
+|Maxcargo=40
+|Lasercap=1200
+|Laserrecharge=30
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=4
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Jaguar Raider
+|Faction=Split
+|Class={{M5class}}
+|Priceblock={{Priceblock|| 166094}}
+|Minspeed=170.4
+|Maxspeed=596.4
+|Minaccel=109
+|Maxaccel=384
+|Minsteer=18.3
+|Maxsteer=64
+|Hull=760 / 1520 (AP)
+|Maxshield=1 MJ
+|Shieldslots=1
+|Maxshieldstrength=1
+|Shieldreactor= 93
+|Cargoclass=S
+|Mincargo=9
+|Maxcargo=27
+|Lasercap=1200
+|Laserrecharge=30
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=4
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Jaguar Vanguard
+|Faction=Split
+|Class={{M5class}}
+|Priceblock={{Priceblock|| 144315}}
+|Minspeed=147.5
+|Maxspeed=516.5
+|Minaccel=95
+|Maxaccel=332
+|Minsteer=16.4
+|Maxsteer=57.4
+|Hull= 760 / 1520 (AP)
+|Maxshield=1 MJ
+|Shieldslots=2
+|Maxshieldstrength=2
+|Shieldreactor= 93
+|Cargoclass=S
+|Mincargo=9
+|Maxcargo=28
+|Lasercap=1440
+|Laserrecharge=36
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=4
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The '''Jaguar's''' speed makes it a good scout and courier ship, but it fares badly in fights due to its paper-thin [[shields]] and armor.
 
-{{Infobox open}} {{Infobox variant |Variant=Jaguar |Faction=Split |Class={{M5class}} |Priceblock={{Priceblock|| 133095}} |Minspeed=134.1 |Maxspeed=469.6 |Minaccel=86 |Maxaccel=302 |Minsteer=15.6 |Maxsteer=54.7 |Hull=800 / 1600 (AP) |Maxshield=1 MJ |Shieldslots=2 |Maxshieldstrength=2 |Shieldreactor= 85 |Cargoclass=S |Mincargo=10 |Maxcargo=30 |Lasercap=1200 |Laserrecharge=30 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=4 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Enhanced Jaguar |Faction=Split |Class={{M5class}} |Priceblock= |Minspeed=172 |Maxspeed=602 |Minaccel=110 |Maxaccel=385 |Minsteer=18.3 |Maxsteer=64 |Hull=900 / 1800 (AP) |Maxshield=1 MJ |Shieldslots=2 |Maxshieldstrength=2 |Shieldreactor= 100 |Cargoclass=S |Mincargo=9 |Maxcargo=40 |Lasercap=1440 |Laserrecharge=36 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=4 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Jaguar Hauler |Faction=Split |Class={{M5class}} |Priceblock={{Priceblock|| 210336}} |Minspeed=140.8 |Maxspeed=493.1 |Minaccel=90 |Maxaccel=317 |Minsteer=15.6 |Maxsteer=54.7 |Hull=848 / 1696 (AP) |Maxshield=1 MJ |Shieldslots=1 |Maxshieldstrength=1 |Shieldreactor= 85 |Cargoclass=S |Mincargo=13 |Maxcargo=40 |Lasercap=1200 |Laserrecharge=30 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=4 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Jaguar Raider |Faction=Split |Class={{M5class}} |Priceblock={{Priceblock|| 166094}} |Minspeed=170.4 |Maxspeed=596.4 |Minaccel=109 |Maxaccel=384 |Minsteer=18.3 |Maxsteer=64 |Hull=760 / 1520 (AP) |Maxshield=1 MJ |Shieldslots=1 |Maxshieldstrength=1 |Shieldreactor= 93 |Cargoclass=S |Mincargo=9 |Maxcargo=27 |Lasercap=1200 |Laserrecharge=30 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=4 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Jaguar Vanguard |Faction=Split |Class={{M5class}} |Priceblock={{Priceblock|| 144315}} |Minspeed=147.5 |Maxspeed=516.5 |Minaccel=95 |Maxaccel=332 |Minsteer=16.4 |Maxsteer=57.4 |Hull= 760 / 1520 (AP) |Maxshield=1 MJ |Shieldslots=2 |Maxshieldstrength=2 |Shieldreactor= 93 |Cargoclass=S |Mincargo=9 |Maxcargo=28 |Lasercap=1440 |Laserrecharge=36 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=4 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The '''Jaguar's''' speed makes it a good scout and courier ship, but it fares badly in fights due to its paper-thin [[shields]] and armor. ==Background== This ship is the successful replacement to the aging Wolf that was in service since the Split first started to construct ships. The Jaguar is capable of increased speed and increased firepower at the expense of cargo space. This ship is primarily used as a scout craft, due to its speed, mainly as it is unable to do more. ==Variants== ===Jaguar=== {{regular}} ===Enhanced Jaguar=== {{enhanced}} ===Jaguar Hauler=== {{hauler}} ===Jaguar Raider=== {{raider}} ===Jaguar Vanguard=== {{vanguard}} ==Physical Characteristics== == Combat == The Jaguar is a scout, not a fighter. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Dragonfly Missile]] | *[[Firefly Missile]] *[[Aurora Missile]] | *[[Rapier Missile]] *[[Firelance Missile]] |} == Availability == At least one Jaguar variant is available at every [[Split Shipyard]]. {| style="text-align:center;" cellpadding="3" |+ '''Availability''' |- style="{{Colour/Split}}" ! Variant !! [[Cho's Defeat]] !! [[Family Njy]] !! [[Family Pride]] !! [[Family Rhy]] !! [[Family Tkr]] !! [[Patriarch's Conclusion]] !! [[Rhonkar's Might]] !! [[Rhonkar's Trial]] !! [[Zyarth's Dominion]] |- ! Jaguar || || || || X || X || X || X || X || X |- ! Jaguar Hauler || || X || || || || X || || X || X |- ! Jaguar Raider || X || || || || || X || || X || X |- ! Jaguar Vanguard || || || X || X || || X || X || X || X |} The Enhanced Jaguar cannot be bought. It is available as a plot reward during the [[Terran plot]], and as a corporate reward from the [[Strong Arms]] upon reaching [[Reputation#Strong Arms|level 4]]. == Suggested Roles== As one of the relative few M5 ships capable of using the [[Particle Accelerator Cannon]], the Jaguar is extremely effective as a light interceptor. Its exceptional speed also makes it a good explorer. == See Also== {{M5}} {{M5category}} [[Category:Split ships]] {{Split Navbox}}
+==Background==
+This ship is the successful replacement to the aging Wolf that was in service since the Split first started to construct ships. The Jaguar is capable of increased speed and increased firepower at the expense of cargo space. This ship is primarily used as a scout craft, due to its speed, mainly as it is unable to do more. 
+
+==Variants==
+===Jaguar===
+{{regular}}
+===Enhanced Jaguar===
+{{enhanced}}
+===Jaguar Hauler===
+{{hauler}}
+===Jaguar Raider===
+{{raider}}
+===Jaguar Vanguard===
+{{vanguard}}
+
+==Physical Characteristics==
+
+== Combat ==
+The Jaguar is a scout, not a fighter.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Dragonfly Missile]]
+|
+*[[Firefly Missile]]
+*[[Aurora Missile]]
+|
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+|}
+== Availability ==
+At least one Jaguar variant is available at every [[Split Shipyard]].
+
+{| style="text-align:center;" cellpadding="3"
+|+ '''Availability'''
+|- style="{{Colour/Split}}"
+! Variant !! [[Cho's Defeat]] !! [[Family Njy]] !! [[Family Pride]] !! [[Family Rhy]] !! [[Family Tkr]] !! [[Patriarch's Conclusion]] !! [[Rhonkar's Might]] !! [[Rhonkar's Trial]] !! [[Zyarth's Dominion]]
+|-
+! Jaguar          ||   ||   ||   || X || X || X || X || X || X
+|-
+! Jaguar Hauler   ||   || X ||   ||   ||   || X ||   || X || X
+|-
+! Jaguar Raider   || X ||   ||   ||   ||   || X ||   || X || X
+|-
+! Jaguar Vanguard ||   ||   || X || X ||   || X || X || X || X
+|}
+
+The Enhanced Jaguar cannot be bought.  It is available as a plot reward during the [[Terran plot]], and as a corporate reward from the [[Strong Arms]] upon reaching [[Reputation#Strong Arms|level 4]].
+
+== Suggested Roles==
+As one of the relative few M5 ships capable of using the [[Particle Accelerator Cannon]], the Jaguar is extremely effective as a light interceptor. Its exceptional speed also makes it a good explorer.
+
+== See Also==
+{{M5}}
+
+{{M5category}}
+[[Category:Split ships]]
+
+
+{{Split Navbox}}

@@ -1,3 +1,19 @@
-<!-- source file: index__q96ac4aace80f.html -->
+{{Infobox Sector
+|Race=Terran
+|SecLevel=Core
+|Population=
+|Planets=
+|SunLevel=150
+|GateDist=
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th></tr>
+{{Gateblock|South|0|	0|	-40500}}
+</table>
+}}
+==Description==
+==Default [[Stations]]==
+*Military Base
+==[[Asteroids]]==
 
-{{Infobox Sector |Race=Terran |SecLevel=Core |Population= |Planets= |SunLevel=150 |GateDist= |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;/tr> {{Gateblock|South|0| 0| -40500}} &lt;/table> }} ==Description== ==Default [[Stations]]== *Military Base ==[[Asteroids]]== {{Terran Navbox}}
+
+{{Terran Navbox}}

@@ -1,3 +1,27 @@
-<!-- source file: index__qfecbb566e6f2.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Terran
+|station=Keris Drone Factory
+|hull=2000000
+|shield=15
+|generator=2000
+|hangar=10
+|cycle=00:04:48
+|productnum=[[Keris]] (2)
+|stationprice={{Priceblock|Terran Warrior of Io|3129332}}
+|reqresources=[[Energy Cells]] (144) <br>[[Terran MRE]] (24) <br>[[Silicon Wafers]] (6) 
+|optresources=[[Water]]
+}}
+{{Infobox close}}
+==Overview==
+Keris Drone Factories are Terran factories that produce the [[Keris]] from [[Energy Cells]], [[Terran MRE]] and [[Silicon Wafers]]. 
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Terran |station=Keris Drone Factory |hull=2000000 |shield=15 |generator=2000 |hangar=10 |cycle=00:04:48 |productnum=[[Keris]] (2) |stationprice={{Priceblock|Terran Warrior of Io|3129332}} |reqresources=[[Energy Cells]] (144) &lt;br>[[Terran MRE]] (24) &lt;br>[[Silicon Wafers]] (6) |optresources=[[Water]] }} {{Infobox close}} ==Overview== Keris Drone Factories are Terran factories that produce the [[Keris]] from [[Energy Cells]], [[Terran MRE]] and [[Silicon Wafers]]. NPC stations will buy [[Water]] as a secondary resource. ===Encyclopedia Entry=== The USC fighter drone was named after a small, curled dagger; very apt, with its ability to confound even the most agile ship. ==Availability== This factory is sold exclusively at {{sa|Terran Unknown Sector 1}}. {{Stationcategory}}
+NPC stations will buy [[Water]] as a secondary resource.
+===Encyclopedia Entry===
+The USC fighter drone was named after a small, curled dagger; very apt, with its ability to confound even the most agile ship.
+
+==Availability==
+This factory is sold exclusively at {{sa|Terran Unknown Sector 1}}.
+
+{{Stationcategory}}

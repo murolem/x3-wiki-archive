@@ -1,3 +1,146 @@
-<!-- source file: index__q8753a156dda9.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= Mammoth
+|Faction=Argon
+|Class={{TLclass}}
+|Priceblock={{Priceblock|Trusted Ally| 28506608 }}
+|Minspeed=58.3
+|Maxspeed=87.5 
+|Minaccel=2
+|Maxaccel=4
+|Minsteer=1.5
+|Maxsteer=2.3
+|Hull=150000
+|Maxshield=200 MJ
+|Shieldslots=5
+|Maxshieldstrength=1000
+|Shieldreactor= 3300 
+|Cargoclass=ST
+|Mincargo= 60000
+|Maxcargo= 60000
+|Lasercap= 17100 
+|Laserrecharge=171
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=1|
+cfaa=1|pbc=1|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=1|
+cfaa=1|pbc=1|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay={{Dockbay|5 [[M3+]]-[[M5]]}}
+}}
+{{Infobox close}}
+==Overview==
+One of the better [[TL]]s in the game, the Mammoth is tied with the [[Mobile Mining Base Ship]] for the largest cargobay of any buyable ship, at 60,000 units. This means it is useful as both a mobile storage unit and a station deployer. It is somewhat slower than most other TLs, though its large freight space makes up for this. Like all of its class, the Mammoth is terribly undershielded for its size, with protection befitting an [[M6]] and poor weaponry. Though it can mount some battleship weaponry such as the [[Flak Artillery Array]] and [[Incendiary Bomb Launcher]], it lacks the generator to run full slots of either for extended periods of time.
 
-{{Infobox open}} {{Infobox variant |Variant= Mammoth |Faction=Argon |Class={{TLclass}} |Priceblock={{Priceblock|Trusted Ally| 28506608 }} |Minspeed=58.3 |Maxspeed=87.5 |Minaccel=2 |Maxaccel=4 |Minsteer=1.5 |Maxsteer=2.3 |Hull=150000 |Maxshield=200 MJ |Shieldslots=5 |Maxshieldstrength=1000 |Shieldreactor= 3300 |Cargoclass=ST |Mincargo= 60000 |Maxcargo= 60000 |Lasercap= 17100 |Laserrecharge=171 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Left |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=1| cfaa=1|pbc=1|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Rear |Guncount=2 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Right |Guncount=2 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=1| cfaa=1|pbc=1|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay={{Dockbay|5 [[M3+]]-[[M5]]}} }} {{Infobox close}} ==Overview== One of the better [[TL]]s in the game, the Mammoth is tied with the [[Mobile Mining Base Ship]] for the largest cargobay of any buyable ship, at 60,000 units. This means it is useful as both a mobile storage unit and a station deployer. It is somewhat slower than most other TLs, though its large freight space makes up for this. Like all of its class, the Mammoth is terribly undershielded for its size, with protection befitting an [[M6]] and poor weaponry. Though it can mount some battleship weaponry such as the [[Flak Artillery Array]] and [[Incendiary Bomb Launcher]], it lacks the generator to run full slots of either for extended periods of time. ==Background== The Argon Mammoth is a Heavy Transporter ship, usually found in Argon Federation territory. It is so large that it cannot dock at any space station, instead it is loaded and unloaded by docking some distance from the station, having its freight ferried back and forwards by fleets of smaller transporters. These ships are owned by successful private entrepreneur pilots who have made a great investment in order to purchase them - therefore they are more than keen to hire out their services. ==Physical Characteristics== Similar looking to both the Colossus and Titan. == Combat == The Mammoth is not a warship, although it is quite capable of defending itself from small squads of fighters. Its large size more than its low shielding are what penalises it in survivability; it won't last long against any warmongering [[:Category:Capital Ships|capital ship]], and because it is slow and clumsy, it can be threatened and destroyed by [[M6]] class ships as well. == Equipment == {| |+'''Missiles''' |- valign="top" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] | *[[Tempest Missile]] *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] *[[Aurora Missile]] *[[Remote Guided Warhead]] *[[Beluga Missile]] | *[[Hammerhead Missile]] *[[Rapier Missile]] *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == *[[Argon Prime]] *[[Argon Sector M148]] *[[Cloudbase South East]] *[[Legend's Home]] *[[Light of Heart]] *[[Omicron Lyrae]] == Suggested Roles== *Station deployment *Storage *Fleet resupply *Mobile mining ship/fleet buffer == See Also== {{TL}} [[Category: Carrier]] {{Argon Navbox}}
+==Background==
+The Argon Mammoth is a Heavy Transporter ship, usually found in Argon Federation territory. It is so large that it cannot dock at any space station, instead it is loaded and unloaded by docking some distance from the station, having its freight ferried back and forwards by fleets of smaller transporters. These ships are owned by successful private entrepreneur pilots who have made a great investment in order to purchase them - therefore they are more than keen to hire out their services.
+
+==Physical Characteristics==
+Similar looking to both the Colossus and Titan.
+
+== Combat ==
+The Mammoth is not a warship, although it is quite capable of defending itself from small squads of fighters. Its large size more than its low shielding are what penalises it in survivability; it won't last long against any warmongering [[:Category:Capital Ships|capital ship]], and because it is slow and clumsy, it can be threatened and destroyed by [[M6]] class ships as well.
+
+== Equipment ==
+{| 
+|+'''Missiles'''
+|- valign="top"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+|
+*[[Tempest Missile]]
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Aurora Missile]]
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+|
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+
+== Availability ==
+*[[Argon Prime]]
+*[[Argon Sector M148]]
+*[[Cloudbase South East]]
+*[[Legend's Home]]
+*[[Light of Heart]]
+*[[Omicron Lyrae]]
+
+== Suggested Roles==
+*Station deployment
+*Storage
+*Fleet resupply
+*Mobile mining ship/fleet buffer
+
+== See Also==
+{{TL}}
+[[Category: Carrier]]
+{{Argon Navbox}}

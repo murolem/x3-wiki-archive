@@ -1,3 +1,312 @@
-<!-- source file: index__qc4481d9e7eb2.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Mamba
+|Faction=Split
+|Class={{M3class}}
+|Priceblock={{Priceblock|Family Friend| 2334418}}
+|Minspeed=84
+|Maxspeed=210
+|Minaccel=21
+|Maxaccel=53
+|Minsteer=18.7
+|Maxsteer=46.6
+|Hull=7600 / 15200 (AP)
+|Maxshield=25 MJ
+|Shieldslots=2
+|Maxshieldstrength=50
+|Shieldreactor= 650
+|Cargoclass=L
+|Mincargo=84
+|Maxcargo= 224
+|Lasercap=5000
+|Laserrecharge=125
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Advanced Mamba
+|Faction=Split
+|Class={{M3class}}
+|Priceblock=
+|Minspeed=106
+|Maxspeed=265
+|Minaccel=26.52
+|Maxaccel=66.3
+|Minsteer=21.8
+|Maxsteer=54.5
+|Hull=8500 / 17000 (AP)
+|Maxshield=25 MJ
+|Shieldslots=3
+|Maxshieldstrength=75
+|Shieldreactor= 715
+|Cargoclass=L
+|Mincargo=75
+|Maxcargo= 224
+|Lasercap=6000
+|Laserrecharge=150
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Mamba Raider
+|Faction=Split
+|Class={{M3class}}
+|Priceblock={{Priceblock|Family Friend| 3049715}}
+|Minspeed=106.6
+|Maxspeed=266.7
+|Minaccel=27
+|Maxaccel=68
+|Minsteer=21.8
+|Maxsteer=54.6
+|Hull=7600 / 15200 (AP)
+|Maxshield=25 MJ
+|Shieldslots=1
+|Maxshieldstrength=25
+|Shieldreactor= 715
+|Cargoclass=L
+|Mincargo=75
+|Maxcargo= 201
+|Lasercap=5000
+|Laserrecharge=125
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Mamba Sentinel
+|Faction=Split
+|Class={{M3class}}
+|Priceblock=
+|Minspeed=68.8
+|Maxspeed=172.2
+|Minaccel=17
+|Maxaccel=44
+|Minsteer=15.3
+|Maxsteer=38.2
+|Hull=8000 / 16000 (AP)
+|Maxshield=25 MJ
+|Shieldslots=3
+|Maxshieldstrength=75
+|Shieldreactor= 715
+|Cargoclass=L
+|Mincargo=75
+|Maxcargo= 201
+|Lasercap=5000
+|Laserrecharge=125
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Mamba Vanguard
+|Faction=Split
+|Class={{M3class}}
+|Priceblock={{Priceblock|Family Friend| 2734956}}
+|Minspeed=92.4
+|Maxspeed=231
+|Minaccel=23
+|Maxaccel=59
+|Minsteer=19.6
+|Maxsteer=49
+|Hull=7600 / 15200 (AP)
+|Maxshield=25 MJ
+|Shieldslots=2
+|Maxshieldstrength=50
+|Shieldreactor= 715
+|Cargoclass=L
+|Mincargo=79
+|Maxcargo= 212
+|Lasercap=6000
+|Laserrecharge=150
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=1|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The '''Mamba''' is a very fast [[M3]], but is also very lightly shielded, meaning that it will not last long in a fight with another ship of its class.  However, it is not to be taken lightly due to its agility. It is very capable when used as a heavy interceptor for chasing down smaller fighters.
 
-{{Infobox open}} {{Infobox variant |Variant=Mamba |Faction=Split |Class={{M3class}} |Priceblock={{Priceblock|Family Friend| 2334418}} |Minspeed=84 |Maxspeed=210 |Minaccel=21 |Maxaccel=53 |Minsteer=18.7 |Maxsteer=46.6 |Hull=7600 / 15200 (AP) |Maxshield=25 MJ |Shieldslots=2 |Maxshieldstrength=50 |Shieldreactor= 650 |Cargoclass=L |Mincargo=84 |Maxcargo= 224 |Lasercap=5000 |Laserrecharge=125 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Advanced Mamba |Faction=Split |Class={{M3class}} |Priceblock= |Minspeed=106 |Maxspeed=265 |Minaccel=26.52 |Maxaccel=66.3 |Minsteer=21.8 |Maxsteer=54.5 |Hull=8500 / 17000 (AP) |Maxshield=25 MJ |Shieldslots=3 |Maxshieldstrength=75 |Shieldreactor= 715 |Cargoclass=L |Mincargo=75 |Maxcargo= 224 |Lasercap=6000 |Laserrecharge=150 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Mamba Raider |Faction=Split |Class={{M3class}} |Priceblock={{Priceblock|Family Friend| 3049715}} |Minspeed=106.6 |Maxspeed=266.7 |Minaccel=27 |Maxaccel=68 |Minsteer=21.8 |Maxsteer=54.6 |Hull=7600 / 15200 (AP) |Maxshield=25 MJ |Shieldslots=1 |Maxshieldstrength=25 |Shieldreactor= 715 |Cargoclass=L |Mincargo=75 |Maxcargo= 201 |Lasercap=5000 |Laserrecharge=125 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Rear |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Mamba Sentinel |Faction=Split |Class={{M3class}} |Priceblock= |Minspeed=68.8 |Maxspeed=172.2 |Minaccel=17 |Maxaccel=44 |Minsteer=15.3 |Maxsteer=38.2 |Hull=8000 / 16000 (AP) |Maxshield=25 MJ |Shieldslots=3 |Maxshieldstrength=75 |Shieldreactor= 715 |Cargoclass=L |Mincargo=75 |Maxcargo= 201 |Lasercap=5000 |Laserrecharge=125 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Mamba Vanguard |Faction=Split |Class={{M3class}} |Priceblock={{Priceblock|Family Friend| 2734956}} |Minspeed=92.4 |Maxspeed=231 |Minaccel=23 |Maxaccel=59 |Minsteer=19.6 |Maxsteer=49 |Hull=7600 / 15200 (AP) |Maxshield=25 MJ |Shieldslots=2 |Maxshieldstrength=50 |Shieldreactor= 715 |Cargoclass=L |Mincargo=79 |Maxcargo= 212 |Lasercap=6000 |Laserrecharge=150 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=1|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The '''Mamba''' is a very fast [[M3]], but is also very lightly shielded, meaning that it will not last long in a fight with another ship of its class. However, it is not to be taken lightly due to its agility. It is very capable when used as a heavy interceptor for chasing down smaller fighters. ==Background== A long-serving and deadly fighter developed by the [[Split]] Military. It has been only in recent years that this ship has been made available to the public. The current Split Patriarch has a small fleet of these ships that act as escort ships that accompany the primary destroyer of the fleet. In the hands of an experience pilot, this ship can survive the darkest of battles, due to the ship's high speed it can avoid most of laser beams and missiles. ==Physical Characteristics== The Mamba shares its triangular, dagger-shaped fuselage and short, pointed wings with the other Split fighters. Like all Split vessels, it is painted a rusty red color. In many ways the development of the Mamba heralded the design of the [[M4+]]. However, as an M3, the Mamba features a more powerful weapons generator, wider weapons compatibility and a larger weapons capacity. ==Variants== ===Mamba=== {{regular}} ===Advanced Mamba=== The Advanced Mamba takes the best features of every Mamba variant and rolls them into one. It adds the shielding power of the sentinel, the speed of the raider, the firepower of the vanguard, and the cargo space of the standard model in one package. This turns it into an [[M3]] with average shielding, above average firepower, and devastating speed. It is absolutely lethal against anything smaller than it is and can hold its own against other [[M3]]s. ===Mamba Raider=== The Mamba Raider is often regarded as the deadliest common version of the Mamba. It's much faster than the standard Mamba, and can easily chase down [[M4]]s. However, it completely gives up any hint of extra protection an [[M3]] would have over an [[M4]] with only 25MJ maximum shields. ===Mamba Sentinel=== The Sentinel variant downgrades the speed of the base model by a whopping 37.8m/s, making it slow for an [[M3]], along with a moderate decrease in cargo space. In turn, it can mount an additional shield and has improved shield regeneration. This is one of the worst variants, as it takes away the best feature of the Mamba and turns it into a bland and mediocre fighter. ===Mamba Vanguard=== The vanguard is a good improvement over the regular version. It has bigger energy reserves and recharge rates, giving it better sustainability in battle, along with improved speed. This is at the small expense of 12 units of maximum potential cargo space. == Combat == Fighting in the Mamba requires careful attention given to evasion, as the ship will not survive long if caught in a volley of fire. Strafing tactics are often employed by Mamba pilots; shoot until the target shoots back, break off and evade until you get out of range, turn around and repeat. Absence of a rear turret makes several Mamba variants vulnerable to missiles. Relatively light shielding puts it at risk against weapons fire it can't evade effectively, like flak bursts or kyon weaponry. == Equipment == {| |+'''Missiles''' |- valign="top" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] | *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] | *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] *[[Aurora Missile]] | *[[Remote Guided Warhead]] *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] | *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == At least one Mamba Variant is available at every [[Split Shipyard]]. {| style="text-align:center;" |- style="{{Colour/Split}}" ! width="120px" | Variant !! [[Cho's Defeat]] !! [[Family Njy]] !! [[Family Pride]] !! [[Family Rhy]] !! [[Family Tkr]] !! [[Patriarch's Conclusion]] !! [[Rhonkar's Might]] !! [[Rhonkar's Trial]] !! [[Zyarth's Dominion]] |- ! style="text-align:left;" | Mamba || x || x || - || - || - || x || - || x || - |- ! style="text-align:left;" | Mamba Raider || - || - || x || x || - || x || x || x || x |- ! style="text-align:left;" | Mamba Vanguard || - || - || - || x || - || x || x || x || x |} A standard Mamba is also available as an [[Ownerless ships|ownerless vessel]]. The Advanced Mamba is granted as a corporate reward by the [[Strong Arms]] upon reaching [[Reputation#Strong Arms|level 7]]. The Mamba Sentinel is not in production and must be [[Bail|captured]]. == Suggested Roles== A very powerful M3, the Mamba's usefulness comes into its own as a player ship, particularly the Advanced Mamba. With high speed and a large weapon generator, the Mamba is extremely good at not getting hit. This speed makes it an ideal mercenary's ship. It also has a surprisingly large cargobay, so can carry a reasonable amount of missiles or jump fuel. While it can be a good fighter to use on carriers, its lack of shielding compared to most other M3s means they may need replacing relatively often. ==See Also== *[[Chimera|Split Chimera]] {{M3}} {{Split Navbox}}
+==Background==
+A long-serving and deadly fighter developed by the [[Split]] Military. It has been only in recent years that this ship has been made available to the public. The current Split Patriarch has a small fleet of these ships that act as escort ships that accompany the primary destroyer of the fleet. In the hands of an experience pilot, this ship can survive the darkest of battles, due to the ship's high speed it can avoid most of laser beams and missiles.
+
+==Physical Characteristics==
+The Mamba shares its triangular, dagger-shaped fuselage and short, pointed wings with the other Split fighters.  Like all Split vessels, it is painted a rusty red color.
+
+In many ways the development of the Mamba heralded the design of the [[M4+]]. However, as an M3, the Mamba features a more powerful weapons generator, wider weapons compatibility and a larger weapons capacity.
+
+==Variants==
+===Mamba===
+{{regular}}
+
+===Advanced Mamba===
+The Advanced Mamba takes the best features of every Mamba variant and rolls them into one. It adds the shielding power of the sentinel, the speed of the raider, the firepower of the vanguard, and the cargo space of the standard model in one package. This turns it into an [[M3]] with average shielding, above average firepower, and devastating speed. It is absolutely lethal against anything smaller than it is and can hold its own against other [[M3]]s.
+
+===Mamba Raider===
+The Mamba Raider is often regarded as the deadliest common version of the Mamba. It's much faster than the standard Mamba, and can easily chase down [[M4]]s. However, it completely gives up any hint of extra protection an [[M3]] would have over an [[M4]] with only 25MJ maximum shields.
+
+===Mamba Sentinel===
+The Sentinel variant downgrades the speed of the base model by a whopping 37.8m/s, making it slow for an [[M3]], along with a moderate decrease in cargo space. In turn, it can mount an additional shield and has improved shield regeneration. This is one of the worst variants, as it takes away the best feature of the Mamba and turns it into a bland and mediocre fighter.
+
+===Mamba Vanguard===
+The vanguard is a good improvement over the regular version. It has bigger energy reserves and recharge rates, giving it better sustainability in battle, along with improved speed. This is at the small expense of 12 units of maximum potential cargo space.
+
+== Combat ==
+Fighting in the Mamba requires careful attention given to evasion, as the ship will not survive long if caught in a volley of fire. Strafing tactics are often employed by Mamba pilots; shoot until the target shoots back, break off and evade until you get out of range, turn around and repeat.
+
+Absence of a rear turret makes several Mamba variants vulnerable to missiles. Relatively light shielding puts it at risk against weapons fire it can't evade effectively, like flak bursts or kyon weaponry. 
+
+== Equipment ==
+{|
+|+'''Missiles'''
+|- valign="top"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+|
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+|
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Aurora Missile]]
+|
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+|
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+
+== Availability ==
+At least one Mamba Variant is available at every [[Split Shipyard]].
+
+{| style="text-align:center;"
+|- style="{{Colour/Split}}"
+! width="120px" | Variant !! [[Cho's Defeat]] !! [[Family Njy]] !! [[Family Pride]] !! [[Family Rhy]] !! [[Family Tkr]] !! [[Patriarch's Conclusion]] !! [[Rhonkar's Might]] !! [[Rhonkar's Trial]] !! [[Zyarth's Dominion]]
+|-
+! style="text-align:left;" | Mamba || x || x || - || - || - || x || - || x || -
+|-
+! style="text-align:left;" | Mamba Raider || - || - || x || x || - || x || x || x || x
+|-
+! style="text-align:left;" | Mamba Vanguard || - || - || - || x || - || x || x || x || x
+|}
+
+A standard Mamba is also available as an [[Ownerless ships|ownerless vessel]].
+
+The Advanced Mamba is granted as a corporate reward by the [[Strong Arms]] upon reaching [[Reputation#Strong Arms|level 7]].
+
+The Mamba Sentinel is not in production and must be [[Bail|captured]].
+
+== Suggested Roles==
+A very powerful M3, the Mamba's usefulness comes into its own as a player ship, particularly the Advanced Mamba. With high speed and a large weapon generator, the Mamba is extremely good at not getting hit. This speed makes it an ideal mercenary's ship. It also has a surprisingly large cargobay, so can carry a reasonable amount of missiles or jump fuel.
+
+While it can be a good fighter to use on carriers, its lack of shielding compared to most other M3s means they may need replacing relatively often.
+
+==See Also==
+*[[Chimera|Split Chimera]]
+
+{{M3}}
+
+
+{{Split Navbox}}

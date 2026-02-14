@@ -1,3 +1,19 @@
-<!-- source file: index__q6286d95aac90.html -->
-
-{| width="auto" style="text-align:center; border-width:1px; border-style:solid; border-color:lightgrey;" ! colspan="3" style="background-color: #AAAAEE;" | [[Missiles]] |- ! width="10em" style="background-color: #DDDDDD;" | Key | style="background-color: #DDDDDD;" | {{CoMissile|Commonwealth|damage in }} | {{TeMissile|Terran|damage in }} | {{KhaMissile|Kha'ak|damage in }} | {{NaMissile|Not Purchasable|damage in }} |- ! width="10em" style="background-color: #CCCCFF;" | [[Missiles#Overview|Standard]] Missiles | {{CoMissile|Dragonfly Missile|5}} | {{CoMissile|Wasp Missile|8x1}} | {{TeMissile|Poltergeist Missile|8x1.5}} | {{CoMissile|Silkworm Missile|19}} | {{CoMissile|Cyclone Missile|23}} | {{CoMissile|Tempest Missile|60}} | {{CoMissile|Thunderbolt Missile|75}} | {{CoMissile|Hornet Missile|200}} | {{CoMissile|Typhoon Missile|8x30}} | {{TeMissile|Spectre Missile|260}} | {{CoMissile|Firestorm Torpedo|1,000}} | {{TeMissile|Wraith Missile|8x125}} |- ! width="10em" style="background-color: #CCCCFF;" | [[M7M]] &amp; [[M8]] Missiles | style="background-color: #EEEEEE;" | {{CoMissile|Flail Barrage Missile|8x5}} | {{TeMissile|Ghoul Missile|8x6.5}} | {{CoMissile|Hammer Heavy Torpedo|300}} | {{TeMissile|Shadow Missile|755k [[Terran Conflict|TC]] / [[Albion Prelude|AP]]: 560}} | {{CoMissile|Tomahawk Heavy Missile|625}} | {{TeMissile|Phantom Missile|650}} | |- ! width="10em" style="background-color: #CCCCFF;" | [[Not Purchasable|Non-Purchasable]] Missiles | {{NaMissile|Rapier Missile|1}} | {{KhaMissile|Sting|4}} | {{NaMissile|Firelance Missile|4.5}} | {{NaMissile|Disruptor Missile|6}} | {{KhaMissile|Needle|7.45}} | {{KhaMissile|Thorn|15}} | {{NaMissile|Wildfire Missile|15}} | {{NaMissile|Windstalker Missile|30}} | {{NaMissile|Banshee Missile|74}} | {{NaMissile|Remote Guided Warhead|100}} | {{NaMissile|Beluga Missile|100}} | {{NaMissile|Hammerhead Missile|1,200}} |- ! width="10em" style="background-color: #CCCCFF;" | Other Missiles | style="background-color: #EEEEEE;" | [[Boarding Pods|Boarding pods]] (0.005k) | {{CoMissile|Mosquito Missile|0.2}} | {{CoMissile|Firefly Missile|1.5}} | {{CoMissile|Hurricane Missile|6}} |} [[Category:Missiles]]
+{| width="auto" style="text-align:center; border-width:1px; border-style:solid; border-color:lightgrey;"
+! colspan="3" style="background-color: #AAAAEE;" | [[Missiles]]
+|-
+! width="10em" style="background-color: #DDDDDD;" | Key
+| style="background-color: #DDDDDD;" | {{CoMissile|Commonwealth|damage in }} | {{TeMissile|Terran|damage in }} | {{KhaMissile|Kha'ak|damage in }} | {{NaMissile|Not Purchasable|damage in }}
+|-
+! width="10em" style="background-color: #CCCCFF;" | [[Missiles#Overview|Standard]] Missiles 
+| {{CoMissile|Dragonfly Missile|5}} | {{CoMissile|Wasp Missile|8x1}} | {{TeMissile|Poltergeist Missile|8x1.5}} | {{CoMissile|Silkworm Missile|19}} | {{CoMissile|Cyclone Missile|23}} | {{CoMissile|Tempest Missile|60}} | {{CoMissile|Thunderbolt Missile|75}} | {{CoMissile|Hornet Missile|200}} | {{CoMissile|Typhoon Missile|8x30}} | {{TeMissile|Spectre Missile|260}} | {{CoMissile|Firestorm Torpedo|1,000}} | {{TeMissile|Wraith Missile|8x125}}
+|-
+! width="10em" style="background-color: #CCCCFF;" | [[M7M]] & [[M8]] Missiles
+| style="background-color: #EEEEEE;" | {{CoMissile|Flail Barrage Missile|8x5}} | {{TeMissile|Ghoul Missile|8x6.5}} | {{CoMissile|Hammer Heavy Torpedo|300}} | {{TeMissile|Shadow Missile|755k [[Terran Conflict|TC]] / [[Albion Prelude|AP]]: 560}} | {{CoMissile|Tomahawk Heavy Missile|625}} | {{TeMissile|Phantom Missile|650}} | 
+|-
+! width="10em" style="background-color: #CCCCFF;" | [[Not Purchasable|Non-Purchasable]] Missiles
+| {{NaMissile|Rapier Missile|1}} | {{KhaMissile|Sting|4}} | {{NaMissile|Firelance Missile|4.5}} | {{NaMissile|Disruptor Missile|6}} | {{KhaMissile|Needle|7.45}} | {{KhaMissile|Thorn|15}} | {{NaMissile|Wildfire Missile|15}} | {{NaMissile|Windstalker Missile|30}} | {{NaMissile|Banshee Missile|74}} | {{NaMissile|Remote Guided Warhead|100}} | {{NaMissile|Beluga Missile|100}} | {{NaMissile|Hammerhead Missile|1,200}}
+|-
+! width="10em" style="background-color: #CCCCFF;" | Other Missiles
+| style="background-color: #EEEEEE;" | [[Boarding Pods|Boarding pods]] (0.005k) | {{CoMissile|Mosquito Missile|0.2}} |  {{CoMissile|Firefly Missile|1.5}} | {{CoMissile|Hurricane Missile|6}}
+|}
+[[Category:Missiles]]

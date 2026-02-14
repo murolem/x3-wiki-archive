@@ -1,3 +1,61 @@
-<!-- source file: index__q989a15c8368e.html -->
+{{Infobox Sector
+|Race=Terran
+|SecLevel=Border
+|Population=
+|Planets=
+|SunLevel=150
+|GateDist=
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|South|1500|	0|	-45750|[[Unknown Sector (8,5)]]}}
+{{Gateblock2|West|-29000|	0|	-750|[[Unknown Sector (7,4)]]}}
+</table>
+}}
+==Description==
+==Default [[Stations]]==
+*Orbital Defense Station
+==[[Asteroids]]==
 
-{{Infobox Sector |Race=Terran |SecLevel=Border |Population= |Planets= |SunLevel=150 |GateDist= |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|South|1500| 0| -45750|[[Unknown Sector (8,5)]]}} {{Gateblock2|West|-29000| 0| -750|[[Unknown Sector (7,4)]]}} &lt;/table> }} ==Description== ==Default [[Stations]]== *Orbital Defense Station ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|56|10355|-6015|26994}} {{Asteroid/Item|Ore|51|-23042|-6088|-38012}} {{Asteroid/Item|Ore|26|32130|2794|979}} {{Asteroid/Item|Ore|26|33875|11616|-2431}} {{Asteroid/Item|Ore|25|-15012|-14519|26115}} {{Asteroid/Item|Ore|25|16249|1104|-42897}} {{Asteroid/Item|Ore|21|-34480|-5312|-14868}} {{Asteroid/Item|Ore|21|-31404|-5181|-30292}} {{Asteroid/Item|Ore|21|9223|-5072|-51945}} {{Asteroid/Item|Ore|18|22675|430|34756}} {{Asteroid/Item|Ore|18|14473|1128|29367}} {{Asteroid/Item|Ore|18|32216|-4127|18667}} {{Asteroid/Item|Ore|18|-30540|-9593|6009}} {{Asteroid/Item|Ore|18|29997|3105|-38849}} {{Asteroid/Item|Ore|13|8457|4195|34471}} {{Asteroid/Item|Ore|13|-30466|-2537|18727}} {{Asteroid/Item|Ore|13|33450|-4770|-13310}} {{Asteroid/Item|Ore|13|-35248|596|-21480}} {{Asteroid/Item|Ore|13|-16489|4125|-51780}} {{Asteroid/Item|Ore|8|-38637|-9899|10185}} {{Asteroid/Item|Ore|8|-43913|-4486|7813}} {{Asteroid/Item|Ore|8|-44492|11783|1903}} {{Asteroid/Item|Ore|8|36986|6026|-21649}} {{Asteroid/Item|Ore|8|32961|8332|-32336}} {{Asteroid/Item|Ore|8|23917|4311|-40575}} {{Asteroid/Item|Ore|8|-9900|-2504|-50550}} {{Asteroid/Item|Ore|6|28007|-3756|18806}} {{Asteroid/Item|Ore|6|30087|-4536|-18500}} {{Asteroid/Item|Ore|6|-19107|2875|-45860}} {{Asteroid/Item|Ore|5|28800|-5465|27193}} {{Asteroid/Item|Ore|5|-39441|-4982|-4223}} {{Asteroid/Item|Ore|5|30570|1144|-6994}} {{Asteroid/Item|Ore|5|-30019|-1958|-37542}} {{Asteroid/Item|Silicon|64|25691|2930|-13687}} {{Asteroid/Item|Silicon|26|-25040|4918|26166}} {{Asteroid/Item|Silicon|26|29777|-10855|6802}} {{Asteroid/Item|Silicon|25|-24818|-10104|-46855}} {{Asteroid/Item|Silicon|8|37697|-6095|5981}} {{Asteroid/End}} {{Terran Navbox}}
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|56|10355|-6015|26994}}
+{{Asteroid/Item|Ore|51|-23042|-6088|-38012}}
+{{Asteroid/Item|Ore|26|32130|2794|979}}
+{{Asteroid/Item|Ore|26|33875|11616|-2431}}
+{{Asteroid/Item|Ore|25|-15012|-14519|26115}}
+{{Asteroid/Item|Ore|25|16249|1104|-42897}}
+{{Asteroid/Item|Ore|21|-34480|-5312|-14868}}
+{{Asteroid/Item|Ore|21|-31404|-5181|-30292}}
+{{Asteroid/Item|Ore|21|9223|-5072|-51945}}
+{{Asteroid/Item|Ore|18|22675|430|34756}}
+{{Asteroid/Item|Ore|18|14473|1128|29367}}
+{{Asteroid/Item|Ore|18|32216|-4127|18667}}
+{{Asteroid/Item|Ore|18|-30540|-9593|6009}}
+{{Asteroid/Item|Ore|18|29997|3105|-38849}}
+{{Asteroid/Item|Ore|13|8457|4195|34471}}
+{{Asteroid/Item|Ore|13|-30466|-2537|18727}}
+{{Asteroid/Item|Ore|13|33450|-4770|-13310}}
+{{Asteroid/Item|Ore|13|-35248|596|-21480}}
+{{Asteroid/Item|Ore|13|-16489|4125|-51780}}
+{{Asteroid/Item|Ore|8|-38637|-9899|10185}}
+{{Asteroid/Item|Ore|8|-43913|-4486|7813}}
+{{Asteroid/Item|Ore|8|-44492|11783|1903}}
+{{Asteroid/Item|Ore|8|36986|6026|-21649}}
+{{Asteroid/Item|Ore|8|32961|8332|-32336}}
+{{Asteroid/Item|Ore|8|23917|4311|-40575}}
+{{Asteroid/Item|Ore|8|-9900|-2504|-50550}}
+{{Asteroid/Item|Ore|6|28007|-3756|18806}}
+{{Asteroid/Item|Ore|6|30087|-4536|-18500}}
+{{Asteroid/Item|Ore|6|-19107|2875|-45860}}
+{{Asteroid/Item|Ore|5|28800|-5465|27193}}
+{{Asteroid/Item|Ore|5|-39441|-4982|-4223}}
+{{Asteroid/Item|Ore|5|30570|1144|-6994}}
+{{Asteroid/Item|Ore|5|-30019|-1958|-37542}}
+{{Asteroid/Item|Silicon|64|25691|2930|-13687}}
+{{Asteroid/Item|Silicon|26|-25040|4918|26166}}
+{{Asteroid/Item|Silicon|26|29777|-10855|6802}}
+{{Asteroid/Item|Silicon|25|-24818|-10104|-46855}}
+{{Asteroid/Item|Silicon|8|37697|-6095|5981}}
+{{Asteroid/End}}
+
+
+{{Terran Navbox}}

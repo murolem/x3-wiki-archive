@@ -1,3 +1,17 @@
-<!-- source file: index__q3ceef1834839.html -->
+<noinclude>
+== Usage ==
+Use as:
+<pre>
+{{KhaMissile|Missile Name|Damage number in 1000's}}
+</pre>
 
-&lt;noinclude> == Usage == Use as: &lt;pre> {{KhaMissile|Missile Name|Damage number in 1000's}} &lt;/pre> ===Example=== &lt;Pre> {{KhaMissile|Sting|4}} &lt;/Pre> Will give: {{KhaMissile|Sting|4}} [[Category:Missile Templates]] &lt;/noinclude>&lt;includeonly>[[{{{1}}}|&lt;font color="#CC11CC">{{{1}}}&lt;/font color>]] ({{{2}}}k)&lt;/includeonly>
+===Example===
+<Pre>
+{{KhaMissile|Sting|4}}
+</Pre>
+Will give:
+
+{{KhaMissile|Sting|4}}
+
+[[Category:Missile Templates]]
+</noinclude><includeonly>[[{{{1}}}|<font color="#CC11CC">{{{1}}}</font color>]] ({{{2}}}k)</includeonly>

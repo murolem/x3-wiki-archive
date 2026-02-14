@@ -1,3 +1,35 @@
-<!-- source file: index__q61c440f10fff.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Space Fuel
+|cargoclass=S
+|volume=2
+|minprice=204
+|aveprice=728
+|maxprice=1252
+}}
+{{Infobox close}}
+==Overview==
+Space Fuel, also known as Argon Whiskey is never traded openly by the members of the argon race. It is smuggled in containers known as fuel tanks, hence the name Space fuel. Only a few stations in the universe have concessions to trade this commodity. 
 
-{{Infobox open}} {{Infobox ware |ware= Space Fuel |cargoclass=S |volume=2 |minprice=204 |aveprice=728 |maxprice=1252 }} {{Infobox close}} ==Overview== Space Fuel, also known as Argon Whiskey is never traded openly by the members of the argon race. It is smuggled in containers known as fuel tanks, hence the name Space fuel. Only a few stations in the universe have concessions to trade this commodity. ==Commentary== Space Fuel is produced primarily in Space Fuel Distilleries. These can almost always be found in sectors Herron's Nebula and Nyana's Hideout. Space fuel can often be sold to any pirate base, as well as the Free Argon trading station in Herron's Nebula. Be warned however, this ware is illegal in most sectors and the local police will order you to drop your freight if you are found carrying this commodity. ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Space Fuel Distillery]] | *[[Incendiary Bomb Launcher Forge]] *[[Plasma Burst Generator Forge]] | *[[Marine Training Barracks]] *[[Rehabilitation Facility]] | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}} {{Waretable}} {{Argon Navbox}}
+==Commentary==
+Space Fuel is produced primarily in Space Fuel Distilleries. These can almost always be found in sectors Herron's Nebula and Nyana's Hideout. Space fuel can often be sold to any pirate base, as well as the Free Argon trading station in Herron's Nebula. 
+
+Be warned however, this ware is illegal in most sectors and the local police will order you to drop your freight if you are found carrying this commodity.  
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Space Fuel Distillery]]
+|
+*[[Incendiary Bomb Launcher Forge]]
+*[[Plasma Burst Generator Forge]]
+|
+*[[Marine Training Barracks]]
+*[[Rehabilitation Facility]]
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}
+{{Warecategory}}
+{{Waretable}}
+{{Argon Navbox}}

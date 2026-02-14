@@ -1,3 +1,34 @@
-<!-- source file: index__q125e2a4cfbbf.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Boron
+|station=Ion Pulse Generator Forge
+|hull=1000000
+|shield=9
+|generator=2000
+|hangar=5
+|cycle=02:26:00
+|productnum=[[Ion Pulse Generator]] (1)
+|stationprice={{Priceblock|Boron Queen's Guard|10434568}}
+|reqresources=[[Energy Cells]] (2190) <br>[[BoFu]] (365) <br>[[Ore]] (365) 
+|optresources=[[Crystals]]
+}}
+{{Infobox close}}
+==Overview==
+Ion Pulse Generator Forges are Boron factories that produce the [[Ion Pulse Generator]] from [[Energy Cells]], [[BoFu]] and [[Ore]]. 
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Boron |station=Ion Pulse Generator Forge |hull=1000000 |shield=9 |generator=2000 |hangar=5 |cycle=02:26:00 |productnum=[[Ion Pulse Generator]] (1) |stationprice={{Priceblock|Boron Queen's Guard|10434568}} |reqresources=[[Energy Cells]] (2190) &lt;br>[[BoFu]] (365) &lt;br>[[Ore]] (365) |optresources=[[Crystals]] }} {{Infobox close}} ==Overview== Ion Pulse Generator Forges are Boron factories that produce the [[Ion Pulse Generator]] from [[Energy Cells]], [[BoFu]] and [[Ore]]. NPC stations will buy [[Crystals]] as a secondary resource. ===Encyclopedia Entry=== This production facility manufactures the Ion Pulse Generator. ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Boron#Shipyards|Boron]]''' *{{sa|Depths of Silence}} *{{sa|Queen's Retribution}} |} {{Stationcategory}}
+NPC stations will buy [[Crystals]] as a secondary resource.
+
+===Encyclopedia Entry===
+This production facility manufactures the Ion Pulse Generator.
+
+==Availability==
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Boron#Shipyards|Boron]]'''
+*{{sa|Depths of Silence}}
+*{{sa|Queen's Retribution}}
+|}
+
+
+{{Stationcategory}}

@@ -1,3 +1,36 @@
-<!-- source file: index__qc8a80b4aea0f.html -->
+{{Infobox Sector
+|Race=Boron
+|SecLevel=Border
+|Population=93,949,494
+|Planets=1
+|SunLevel=150
+|GateDist=80
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|West|-34000|	0|	0|[[Queen's Retribution]]}}
+{{Gateblock/End}}
+}}
+==Description==
+The Boron have established this sector to take advantage of the resources needed to growth of military and technological industry and nearby sectors. Agricultural and mineral output is both secure and of considerable volume.
 
-{{Infobox Sector |Race=Boron |SecLevel=Border |Population=93,949,494 |Planets=1 |SunLevel=150 |GateDist=80 |Gates={{Gateblock/Begin}} {{Gateblock2|West|-34000| 0| 0|[[Queen's Retribution]]}} {{Gateblock/End}} }} ==Description== The Boron have established this sector to take advantage of the resources needed to growth of military and technological industry and nearby sectors. Agricultural and mineral output is both secure and of considerable volume. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|37|-17230|9047|12185}} {{Asteroid/Item|Ore|31|721|13103|58671}} {{Asteroid/Item|Ore|14|7701|-14999|28079}} {{Asteroid/Item|Ore|9|22493|-12938|7248}} {{Asteroid/Item|Ore|8|9427|12020|-15519}} {{Asteroid/Item|Silicon|60|-47241|17760|-50527}} {{Asteroid/Item|Silicon|32|12139|-3062|18155}} {{Asteroid/Item|Silicon|25|-1419|2651|-11455}} {{Asteroid/Item|Silicon|23|-17258|-3573|-14761}} {{Asteroid/Item|Silicon|16|17551|-4741|13449}} {{Asteroid/Item|Silicon|11|-26320|-7962|-10365}} {{Asteroid/Item|Silicon|10|-4560|-4187|14877}} {{Asteroid/Item|Silicon|4|14733|3400|31152}} {{Asteroid/End}} == See Also == {{Boron Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|37|-17230|9047|12185}}
+{{Asteroid/Item|Ore|31|721|13103|58671}}
+{{Asteroid/Item|Ore|14|7701|-14999|28079}}
+{{Asteroid/Item|Ore|9|22493|-12938|7248}}
+{{Asteroid/Item|Ore|8|9427|12020|-15519}}
+{{Asteroid/Item|Silicon|60|-47241|17760|-50527}}
+{{Asteroid/Item|Silicon|32|12139|-3062|18155}}
+{{Asteroid/Item|Silicon|25|-1419|2651|-11455}}
+{{Asteroid/Item|Silicon|23|-17258|-3573|-14761}}
+{{Asteroid/Item|Silicon|16|17551|-4741|13449}}
+{{Asteroid/Item|Silicon|11|-26320|-7962|-10365}}
+{{Asteroid/Item|Silicon|10|-4560|-4187|14877}}
+{{Asteroid/Item|Silicon|4|14733|3400|31152}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Boron Navbox}}

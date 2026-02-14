@@ -1,3 +1,27 @@
-<!-- source file: index__qc9a574947fcb.html -->
+{{Infobox Sector
+|Race=Paranid
+|SecLevel=Border
+|Population=28,360,448
+|Planets=3
+|SunLevel=150
+|GateDist=60
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|3000|	7500|	26490|[[Priest's Pity]]}}
+{{Gateblock2|South|6750|	-9000|	-30240|[[Pontifex' Realm]]}}
+{{Gateblock2|West|-28740|	-3750|	0|[[Duke's Domain]]}}
+</table>
+}}
+==Description==
+===Encyclopedia Entry===
+This system contains the main [[Paranid Equipment Dock|Equipment Dock]] used to refit medium [[Paranid]] Fighters. These weapons are of the highest quality and Paranid technology is extremely reliable. This system was hit heavily in the last [[X: Beyond the Frontier|Xenon conflict]] and security is still tight. This system represents the far border of the 'Old Paranid Empire,' the 'New Empire' consisting of territories claimed since the conflict.
+===Information===
+True to the encyclopedia entry, this sector was the farthest south one could get in [[X: Beyond the Frontier]].
+==Default [[Stations]]==
+*[[Paranid Equipment Dock]]
 
-{{Infobox Sector |Race=Paranid |SecLevel=Border |Population=28,360,448 |Planets=3 |SunLevel=150 |GateDist=60 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|3000| 7500| 26490|[[Priest's Pity]]}} {{Gateblock2|South|6750| -9000| -30240|[[Pontifex' Realm]]}} {{Gateblock2|West|-28740| -3750| 0|[[Duke's Domain]]}} &lt;/table> }} ==Description== ===Encyclopedia Entry=== This system contains the main [[Paranid Equipment Dock|Equipment Dock]] used to refit medium [[Paranid]] Fighters. These weapons are of the highest quality and Paranid technology is extremely reliable. This system was hit heavily in the last [[X: Beyond the Frontier|Xenon conflict]] and security is still tight. This system represents the far border of the 'Old Paranid Empire,' the 'New Empire' consisting of territories claimed since the conflict. ===Information=== True to the encyclopedia entry, this sector was the farthest south one could get in [[X: Beyond the Frontier]]. ==Default [[Stations]]== *[[Paranid Equipment Dock]] ==[[Asteroids]]== == See Also == {{Paranid Navbox}}
+
+==[[Asteroids]]==
+
+== See Also ==
+{{Paranid Navbox}}

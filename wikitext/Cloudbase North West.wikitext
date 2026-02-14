@@ -1,3 +1,23 @@
-<!-- source file: index__qa9dc4ed1e148.html -->
+{{Infobox Sector
+|Race=Argon
+|SecLevel=Border
+|Population=71,568,475
+|Planets=3
+|SunLevel=150
+|GateDist=65
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|-562|	2475|	26514|[[Three Worlds]]}}
+{{Gateblock2|East|24277|	1237|	-3325|[[Herron's Nebula]]}}
+{{Gateblock2|South|0|	-2887|	-25577|[[Ringo Moon]]}}
+</table>
+}}
+==Description==
+===Encyclopedia Entry===
+This system is sparsely populated, dedicated purely to the production of raw materials and food for installations in the surrounding systems. The presence of weapons production facilities requires heavy protection by Federation ships against sabotage attacks from Pirates seeking to weaken Argon defenses.
 
-{{Infobox Sector |Race=Argon |SecLevel=Border |Population=71,568,475 |Planets=3 |SunLevel=150 |GateDist=65 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|-562| 2475| 26514|[[Three Worlds]]}} {{Gateblock2|East|24277| 1237| -3325|[[Herron's Nebula]]}} {{Gateblock2|South|0| -2887| -25577|[[Ringo Moon]]}} &lt;/table> }} ==Description== ===Encyclopedia Entry=== This system is sparsely populated, dedicated purely to the production of raw materials and food for installations in the surrounding systems. The presence of weapons production facilities requires heavy protection by Federation ships against sabotage attacks from Pirates seeking to weaken Argon defenses. ==Default [[Stations]]== ==[[Asteroids]]== {{Argoncategory}} {{Argon Navbox}}
+==Default [[Stations]]==
+==[[Asteroids]]==
+
+{{Argoncategory}}
+{{Argon Navbox}}

@@ -1,3 +1,37 @@
-<!-- source file: index__q4410364580a0.html -->
+==Overview==
+X3: Terran Conflict is a 2008 stand-alone expansion for [[X3: Reunion]]. It is widely held to be the best game of the series. Terran Conflict uses the same engine as Reunion, but with an improved menu system, a yet bigger universe, and some new ship classes. It is highly moddable, though according to uploaded game statistics a smaller proportion of players mod it in comparison to its predecessor.
 
-==Overview== X3: Terran Conflict is a 2008 stand-alone expansion for [[X3: Reunion]]. It is widely held to be the best game of the series. Terran Conflict uses the same engine as Reunion, but with an improved menu system, a yet bigger universe, and some new ship classes. It is highly moddable, though according to uploaded game statistics a smaller proportion of players mod it in comparison to its predecessor. This Wiki is based on the gameplay of this Egosoft release at version v3.0. ==Gameplay== The game is set in the aftermath of the reconnection of the Solar System with the jumpgate network, and its plotlines deal with the friction between Terrans and [[Commonwealth]], the final defeat of the Kha'ak, the expansion of the Terrans back into some of their former colonies and other miscellaneous plots that provide the player with some interesting rewards. ===Map=== There are more than 225 sectors in the TC X-Universe. Many are unlocked as progression through the various plotlines is achieved. Many maps exist, and can be found on the [http://forum.egosoft.com/viewtopic.php?t=162408 guides sticky] in the Egosoft forums. ===Ships=== TC expands the repertoire of ships again with several new classes. Many are lifted from the XTM Mod. The [[M7|M7 Frigate]], [[M7M|M7M Missile Frigate]], [[M8|M8 Bomber]] and [[TM|TM Military Transport]] are all new to this game. The M7 is a successful attempt to bridge the gap between the Corvette and Destroyer classes, providing a smaller and cheaper Capital-class ship. The M7M is widely regarded as somewhat unbalanced, as it is a long range artillery unit with no real weaknesses and enormous offensive power. The M8 represents a cheap way of taking down Capital ships and stations, which previously required an M2 and otherwise requires an M7 which, whilst still cheaper than an M2, is not cheap enough for early game players. The TM is a freighter equipped to dock 4 (or 3) fighters for defense in addition to hauling a reasonably sized load across the X-Universe. ===Economy=== Not only is the X-Universe expanded in this game, but the number of NPC traders is expanded over Reunion. This makes the economy much faster. However, there are sections of the X-Universe where the economy at game start is dreadfully unbalanced and quickly gets taken apart by [[GoD]], resulting in the potentially permanent loss of some equipment. ===Weapons=== Weapon variants have been axed completely in this game. Many new weapons have been added; all Terran weapons and munitions, the Teladi ammo-based weapons, the range of available flak weapons is expanded, the range of Boron ion weaponry is expanded, and the availble missiles are expanded. ==Version History== Early versions of TC have some serious balance issues. There are in particular several exploits and unbalanced missions available in early versions which enable players to obtain funds unusually easily. Like Reunion, there is also a [[Bonus Pack]] of signed [[scripts]] that enables enhanced options and gameplay, particularly regarding freighter management. ==XTC Mod== Like the XTM mod for Reunion, much of which found its way into Terran Conflict as signed scripts and functions, another modpack of code updated for Terran Conflict exists. XTC does for Terran Conflict what XTM does for Reunion.
+This Wiki is based on the gameplay of this Egosoft release at version v3.0.
+
+==Gameplay==
+The game is set in the aftermath of the reconnection of the Solar System with the jumpgate network, and its plotlines deal with the friction between Terrans and [[Commonwealth]], the final defeat of the Kha'ak, the expansion of the Terrans back into some of their former colonies and other miscellaneous plots that provide the player with some interesting rewards.
+
+===Map===
+There are more than 225 sectors in the TC X-Universe. Many are unlocked as progression through the various plotlines is achieved. Many maps exist, and can be found on the [http://forum.egosoft.com/viewtopic.php?t=162408 guides sticky] in the Egosoft forums.
+
+===Ships===
+TC expands the repertoire of ships again with several new classes. Many are lifted from the XTM Mod.
+
+The [[M7|M7 Frigate]], [[M7M|M7M Missile Frigate]], [[M8|M8 Bomber]] and [[TM|TM Military Transport]] are all new to this game.
+
+The M7 is a successful attempt to bridge the gap between the Corvette and Destroyer classes, providing a smaller and cheaper Capital-class ship.
+
+The M7M is widely regarded as somewhat unbalanced, as it is a long range artillery unit with no real weaknesses and enormous offensive power.
+
+The M8 represents a cheap way of taking down Capital ships and stations, which previously required an M2 and otherwise requires an M7 which, whilst still cheaper than an M2, is not cheap enough for early game players.
+
+The TM is a freighter equipped to dock 4 (or 3) fighters for defense in addition to hauling a reasonably sized load across the X-Universe.
+
+===Economy===
+Not only is the X-Universe expanded in this game, but the number of NPC traders is expanded over Reunion. This makes the economy much faster. However, there are sections of the X-Universe where the economy at game start is dreadfully unbalanced and quickly gets taken apart by [[GoD]], resulting in the potentially permanent loss of some equipment.
+
+===Weapons===
+Weapon variants have been axed completely in this game. Many new weapons have been added; all Terran weapons and munitions, the Teladi ammo-based weapons, the range of available flak weapons is expanded, the range of Boron ion weaponry is expanded, and the availble missiles are expanded.
+
+==Version History==
+Early versions of TC have some serious balance issues. There are in particular several exploits and unbalanced missions available in early versions which enable players to obtain funds unusually easily.
+
+Like Reunion, there is also a [[Bonus Pack]] of signed [[scripts]] that enables enhanced options and gameplay, particularly regarding freighter management.
+
+==XTC Mod==
+Like the XTM mod for Reunion, much of which found its way into Terran Conflict as signed scripts and functions, another modpack of code updated for Terran Conflict exists. XTC does for Terran Conflict what XTM does for Reunion.

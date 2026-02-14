@@ -1,3 +1,32 @@
-<!-- source file: index__q63e83ffcfa55.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware=Massom Powder
+|cargoclass=S
+|volume=1
+|minprice=17
+|aveprice=36
+|maxprice=55
+}}
+{{Infobox close}}
+==Overview==
+Massom is a powdered form of Scruffin. It is a basic Yellow powder produced by the [[Split]] from the Scruffin, a sweet Potato like food grown by the Split. This powder is traded by other races that use it to mix and enhance their own foodstuff. It is manufactured in [[Massom Mill]]s found everywhere in Split territory and sold in large, one tonne bulk containers.
+==Commentary==
+The only stations that purchase this ware are Split Trading Ports.
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Massom Mill]]
+|
+*[[Drone Factory]]
+*[[Drone Production Facility]]
+|
+*List of Race Factories where this ware is a secondary resource
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}
+{{Warecategory}}
+{{Waretable}}
 
-{{Infobox open}} {{Infobox ware |ware=Massom Powder |cargoclass=S |volume=1 |minprice=17 |aveprice=36 |maxprice=55 }} {{Infobox close}} ==Overview== Massom is a powdered form of Scruffin. It is a basic Yellow powder produced by the [[Split]] from the Scruffin, a sweet Potato like food grown by the Split. This powder is traded by other races that use it to mix and enhance their own foodstuff. It is manufactured in [[Massom Mill]]s found everywhere in Split territory and sold in large, one tonne bulk containers. ==Commentary== The only stations that purchase this ware are Split Trading Ports. ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Massom Mill]] | *[[Drone Factory]] *[[Drone Production Facility]] | *List of Race Factories where this ware is a secondary resource | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}} {{Waretable}} {{Split Navbox}}
+{{Split Navbox}}

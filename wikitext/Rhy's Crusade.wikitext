@@ -1,3 +1,26 @@
-<!-- source file: index__qa8f171709336.html -->
+{{Infobox Sector
+|Race=Split
+|SecLevel=Core
+|Population=15,716,828
+|Planets=2
+|SunLevel=150
+|GateDist=60
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|East|28144|	0|	3487|[[Rhy's Desire]]}}
+{{Gateblock/End}}
+}}
+==Description==
+The leader of the Split family Rhy discovered and occupied this sector shortly after the [[Kha'ak]] invasions began. The sector was supposedly taken from the Kha'ak by the Rhy Family in an unconfirmed story.
 
-{{Infobox Sector |Race=Split |SecLevel=Core |Population=15,716,828 |Planets=2 |SunLevel=150 |GateDist=60 |Gates={{Gateblock/Begin}} {{Gateblock2|East|28144| 0| 3487|[[Rhy's Desire]]}} {{Gateblock/End}} }} ==Description== The leader of the Split family Rhy discovered and occupied this sector shortly after the [[Kha'ak]] invasions began. The sector was supposedly taken from the Kha'ak by the Rhy Family in an unconfirmed story. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|12|26563|0|-1886}} {{Asteroid/Item|Silicon|43|23945|0|-7396}} {{Asteroid/Item|Silicon|13|25540|-206|-12849}} {{Asteroid/End}} == See Also == {{Split Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|12|26563|0|-1886}}
+{{Asteroid/Item|Silicon|43|23945|0|-7396}}
+{{Asteroid/Item|Silicon|13|25540|-206|-12849}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Split Navbox}}

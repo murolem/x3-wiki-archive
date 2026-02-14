@@ -1,3 +1,64 @@
-<!-- source file: index__qaac7c62e5e42.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Photon Pulse Cannon
+|hulldam=8200
+|shielddam=46500
+|range=6.62
+|rof= 43
+|shotspeed= 333
+|maxweapenergy=4000 
+|shotcost=420
+}}
+{{Infobox ware
+|ware=Photon Pulse Cannon
+|cargoclass=XL
+|volume=100
+|minprice=878810
+|aveprice=934904
+|maxprice=990998
+}}
+{{Infobox close}}
+==Overview==
+The Photon Pulse Cannon or PPC is the premier [[Commonwealth]] [[:Category:Capital Ships|capital ship]] weapon.
 
-{{Infobox open}} {{Infobox weapon |weapon=Photon Pulse Cannon |hulldam=8200 |shielddam=46500 |range=6.62 |rof= 43 |shotspeed= 333 |maxweapenergy=4000 |shotcost=420 }} {{Infobox ware |ware=Photon Pulse Cannon |cargoclass=XL |volume=100 |minprice=878810 |aveprice=934904 |maxprice=990998 }} {{Infobox close}} ==Overview== The Photon Pulse Cannon or PPC is the premier [[Commonwealth]] [[:Category:Capital Ships|capital ship]] weapon. ==Encyclopedia Entry== A deadly weapon found on [[M7|frigates]], [[M2|destroyers]] and [[M1|carriers]]. First developed by Professor Jo Bydnah of the Argon, the Photon Pulse Cannon became a favorite of the Argon Military, who then sold the original design to other races. This type of weapon is extremely powerful, and can only be fitted on the larger Capital craft. It works by sending highly charged photon radiation through a series of coils, that multiplies the charge, creating a very deadly pulse of radiation. ==Commentary== The PPC does the job that the [[High Energy Plasma Thrower|HEPT]] once did; a weapon that capital ships use to slug it out with other capital ships. It is the most all-round of the capital weapons that include the [[Point Singularity Projector|PSP]], [[Ion Cannon]], [[Gauss Cannon]] and [[Incendiary Bomb Launcher|IBL]]. Whilst it can be charged for extra damage, the PPC deals enough that it isn't necessary. [[M2|Destroyers]] are usually equipped with full arrays of them; but they set the owner back a pretty penny, as together a full loadout of PPCs is almost as costly as some of the destroyer hulls that mount them. ==Known Compatible Ships== Almost all M1 and M2 class ships can use this weapon.&lt;br> The [[Thresher|Boron Thresher]] and the [[Q|Xenon Q]] are the only M7 class ships which can mount the PPC.&lt;br> Similarly, the Goner [[Truelight Seeker]] is the only known M6 which can mount the PPC. ==Available at Known Docks== Produced in the [[Photon Pulse Cannon Forge]] available in some [[Federal Argon Shipyard|Argon Shipyard]] and [[Paranid Shipyard]].&lt;br> Sell by existing Argon and Paranid [[Heavy Weapons Complex]] or [[Photon Pulse Cannon Forge]] located in sector: {| style="text-align:left;" |- valign="top" | '''[[Argon]]''' *[[Aladna Hill]] *[[Argon Sector M148]] *[[Cloudbase South East]] *[[Nathan's Voyage]] *[[Red Light]] | '''[[Boron]]''' *[[Lucky Planets]] *[[Rolk's Legacy]] | '''[[Paranid]]''' *[[Cardinal's Domain]] *[[Empire's Edge]] *[[Paranid Prime]] *[[Pontifex' Seclusion]] *[[Third Redemption]] | '''[[Split]]''' *[[Patriarch's Keep]] *[[Rhonkar's Fire]] *[[Wretched Skies]] | '''[[Teladi]]''' *[[Ceo's Sprite]] *[[Ianamus Zura]] |}
+==Encyclopedia Entry==
+A deadly weapon found on [[M7|frigates]], [[M2|destroyers]] and [[M1|carriers]].
+
+First developed by Professor Jo Bydnah of the Argon, the Photon Pulse Cannon became a favorite of the Argon Military, who then sold the original design to other races. This type of weapon is extremely powerful, and can only be fitted on the larger Capital craft. It works by sending highly charged photon radiation through a series of coils, that multiplies the charge, creating a very deadly pulse of radiation.
+==Commentary==
+The PPC does the job that the [[High Energy Plasma Thrower|HEPT]] once did; a weapon that capital ships use to slug it out with other capital ships. It is the most all-round of the capital weapons that include the [[Point Singularity Projector|PSP]], [[Ion Cannon]], [[Gauss Cannon]] and [[Incendiary Bomb Launcher|IBL]]. Whilst it can be charged for extra damage, the PPC deals enough that it isn't necessary. [[M2|Destroyers]] are usually equipped with full arrays of them; but they set the owner back a pretty penny, as together a full loadout of PPCs is almost as costly as some of the destroyer hulls that mount them.
+
+==Known Compatible Ships==
+Almost all M1 and M2 class ships can use this weapon.<br>
+The [[Thresher|Boron Thresher]] and the [[Q|Xenon Q]] are the only M7 class ships which can mount the PPC.<br>
+Similarly, the Goner [[Truelight Seeker]] is the only known M6 which can mount the PPC.
+
+==Available at Known Docks==
+
+Produced in the [[Photon Pulse Cannon Forge]] available in some [[Federal Argon Shipyard|Argon Shipyard]] and [[Paranid Shipyard]].<br>
+Sell by existing Argon and Paranid [[Heavy Weapons Complex]] or [[Photon Pulse Cannon Forge]] located in sector:
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Argon]]'''
+*[[Aladna Hill]]
+*[[Argon Sector M148]]
+*[[Cloudbase South East]]
+*[[Nathan's Voyage]]
+*[[Red Light]]
+| '''[[Boron]]'''
+*[[Lucky Planets]]
+*[[Rolk's Legacy]]
+| '''[[Paranid]]'''
+*[[Cardinal's Domain]]
+*[[Empire's Edge]]
+*[[Paranid Prime]]
+*[[Pontifex' Seclusion]]
+*[[Third Redemption]]
+| '''[[Split]]'''
+*[[Patriarch's Keep]]
+*[[Rhonkar's Fire]]
+*[[Wretched Skies]]
+| '''[[Teladi]]'''
+*[[Ceo's Sprite]]
+*[[Ianamus Zura]]
+|}

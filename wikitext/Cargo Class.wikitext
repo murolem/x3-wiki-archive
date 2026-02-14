@@ -1,3 +1,40 @@
-<!-- source file: index__qdc154521ef24.html -->
+Cargo class denotes the types of [[wares]] that a ship may, or may not, be able to carry. Not to be confused with ship equipment levels.
+<!-- Careful here - this section of the page is transcluded into Abbreviations -->
+<onlyinclude>{| cellpadding="20"
+||
+==== Cargo Class ====
+{| style="text-align:center;"
+! Cargo Class Code !! Meaning
+|-
+| style="width:10em;"|S || Small
+|-
+|M || Medium
+|-
+|L || Large
+|-
+|XL || Extra Large
+|-
+|ST || Station
+|}
+||
+||
+==== Transport Sizes ====
+{| style="text-align:center;"
+! Ship Class Code !! Meaning !! Maximum Cargo Capacity 
+|-
+|[[TP]] || Personnel Transport || M - XL
+|-
+|[[TM]] || Military Transport || XL
+|-
+| style="width:10em;"|[[TS]] || Small Transport || XL
+|-
+|[[TS+]] || Heavy Super Freighter || XL
+|-
+|[[TL]] || Large Transport || ST
+|}
+|}</onlyinclude>
+Each ware has a transport class (or cargo class) and takes up a specific amount of ship cargo-hold, for example one unit of Rastar Oil takes up 6 units of space in M class containers, a unit of Argnu Beef takes up 4 units in S class containers, and an Ore Mine takes 8000 units in ST class containers. Note that this also applies to weapons and shields (even when installed).<br>
+All together these wares would take up 8010 units of space on a TL class transport. TL to handle the ST cargo 8010 for the combined space.
 
-Cargo class denotes the types of [[wares]] that a ship may, or may not, be able to carry. Not to be confused with ship equipment levels. &lt;!-- Careful here - this section of the page is transcluded into Abbreviations --> &lt;onlyinclude>{| cellpadding="20" || ==== Cargo Class ==== {| style="text-align:center;" ! Cargo Class Code !! Meaning |- | style="width:10em;"|S || Small |- |M || Medium |- |L || Large |- |XL || Extra Large |- |ST || Station |} || || ==== Transport Sizes ==== {| style="text-align:center;" ! Ship Class Code !! Meaning !! Maximum Cargo Capacity |- |[[TP]] || Personnel Transport || M - XL |- |[[TM]] || Military Transport || XL |- | style="width:10em;"|[[TS]] || Small Transport || XL |- |[[TS+]] || Heavy Super Freighter || XL |- |[[TL]] || Large Transport || ST |} |}&lt;/onlyinclude> Each ware has a transport class (or cargo class) and takes up a specific amount of ship cargo-hold, for example one unit of Rastar Oil takes up 6 units of space in M class containers, a unit of Argnu Beef takes up 4 units in S class containers, and an Ore Mine takes 8000 units in ST class containers. Note that this also applies to weapons and shields (even when installed).&lt;br> All together these wares would take up 8010 units of space on a TL class transport. TL to handle the ST cargo 8010 for the combined space. Some types of equipment (e.g. jumpdrives) also have a minimum cargo class, and can only be installed on ships capable of transporting that class (although they don't actually take up any space).
+
+Some types of equipment (e.g. jumpdrives) also have a minimum cargo class, and can only be installed on ships capable of transporting that class (although they don't actually take up any space).

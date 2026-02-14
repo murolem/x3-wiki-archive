@@ -1,3 +1,67 @@
-<!-- source file: index__q23cebb3c8ce6.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Paranid
+|station=Space Jewellery L
+|hull=2,000,000
+|shield=15
+|generator=1500
+|hangar=5
+|cycle=00:01:00
+|productnum=[[Majaglit]](100)
+|stationprice={{Priceblock|Paranid Friend of Priest Duke|2,658,632}}
+|reqresources=[[Maja Snails]](10)<br>[[Energy Cells]](75)
+|optresources=[[Rastar Oil]]
+}}
+{{Infobox factory
+|faction=Paranid
+|station=Space Jewellery M
+|hull=800,000
+|shield=10
+|generator=1,500
+|hangar=5
+|cycle=00:01:00
+|productnum=[[Majaglit]](40)
+|stationprice={{Priceblock|Paranid Friend of Priest Duke|1,181,616}}
+|reqresources=[[Maja Snails]](4)<br>[[Energy Cells]](30)
+|optresources=[[Rastar Oil]]
+}}
+{{Infobox close}}
+==Overview==
+The Space Jewellery manufactures [[Majaglit]] jewellery from the shells of [[Maja Snails]]. As usual, a constant supply of [[Energy Cells]] is also required.
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Paranid |station=Space Jewellery L |hull=2,000,000 |shield=15 |generator=1500 |hangar=5 |cycle=00:01:00 |productnum=[[Majaglit]](100) |stationprice={{Priceblock|Paranid Friend of Priest Duke|2,658,632}} |reqresources=[[Maja Snails]](10)&lt;br>[[Energy Cells]](75) |optresources=[[Rastar Oil]] }} {{Infobox factory |faction=Paranid |station=Space Jewellery M |hull=800,000 |shield=10 |generator=1,500 |hangar=5 |cycle=00:01:00 |productnum=[[Majaglit]](40) |stationprice={{Priceblock|Paranid Friend of Priest Duke|1,181,616}} |reqresources=[[Maja Snails]](4)&lt;br>[[Energy Cells]](30) |optresources=[[Rastar Oil]] }} {{Infobox close}} ==Overview== The Space Jewellery manufactures [[Majaglit]] jewellery from the shells of [[Maja Snails]]. As usual, a constant supply of [[Energy Cells]] is also required. NPC stations will buy [[Rastar Oil]] as a secondary resource. ===Encyclopedia Entry=== These factories produce the precious material known as Majaglit that is greatly in demand throughout the universe for use as ornamentation, jewellery and in the production of microchips. These factories import the raw shells of the Maja Snail which they crush and process using a combination of BoGas and Rastar to produce the Majaglit. ==Availability== This factory is unique to the Paranid. {| |- valign="top" | style="padding-right:5em;"| ===L-type=== {| style="text-align:left;" |- valign="top" | '''[[Paranid#Shipyards|Paranid]]''' *{{sa|Heaven's Assertion}} *{{sa|Third Redemption}} *{{sa|Trinity Sanctum}} |} | ===M-type=== {| style="text-align:left;" |- valign="top" | '''[[Paranid#Shipyards|Paranid]]''' *{{sa|Cardinal's Domain}} *{{sa|Duke's Citadel}} *{{sa|Heaven's Assertion}} *{{sa|Paranid Prime}} *{{sa|Third Redemption}} |} |} {{Stationcategory}}
+NPC stations will buy [[Rastar Oil]] as a secondary resource.
+
+===Encyclopedia Entry===
+These factories produce the precious material known as Majaglit that is greatly in demand throughout the universe for use as ornamentation, jewellery and in the production of microchips.
+
+These factories import the raw shells of the Maja Snail which they crush and process using a combination of BoGas and Rastar to produce the Majaglit. 
+
+==Availability==
+This factory is unique to the Paranid.
+{|
+|- valign="top"
+| style="padding-right:5em;"|
+===L-type===
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Paranid#Shipyards|Paranid]]'''
+*{{sa|Heaven's Assertion}}
+*{{sa|Third Redemption}}
+*{{sa|Trinity Sanctum}}
+|}
+
+|
+===M-type===
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Paranid#Shipyards|Paranid]]'''
+*{{sa|Cardinal's Domain}}
+*{{sa|Duke's Citadel}}
+*{{sa|Heaven's Assertion}}
+*{{sa|Paranid Prime}}
+*{{sa|Third Redemption}}
+|}
+|}
+
+{{Stationcategory}}

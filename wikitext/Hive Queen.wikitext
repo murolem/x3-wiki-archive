@@ -1,3 +1,138 @@
-<!-- source file: index__q3c415d1421bf.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Hive Queen
+|Faction=Kha'ak
+|Class={{M1class}}
+|Priceblock=
+|Minspeed=
+|Maxspeed=96.9
+|Minaccel=
+|Maxaccel=
+|Minsteer=
+|Maxsteer=
+|Hull=
+|Maxshield=2 GJ
+|Shieldslots=9
+|Maxshieldstrength=18000
+|Shieldreactor= 9400
+|Cargoclass=ST
+|Mincargo=
+|Maxcargo=8000
+|Lasercap=28500
+|Laserrecharge=
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay={{Dockbay|25 [[M3+]]-[[M5]]}}
+}}
+{{Infobox close}}
+==Overview==
+The most heavily shielded ship in the game, the Hive Queen boasts a colossal 18GJ of shielding, more than many stations. Otherwise, it is identical to a standard [[Kha'ak Carrier]], right down to the bugged docking bay. This small model provides even better survivability, making the Queen a tough nut to crack, though it poses little offensive threat to opposing battleships due to its poor weaponry. It only appears in one plot related sector and is unique.
 
-{{Infobox open}} {{Infobox variant |Variant=Hive Queen |Faction=Kha'ak |Class={{M1class}} |Priceblock= |Minspeed= |Maxspeed=96.9 |Minaccel= |Maxaccel= |Minsteer= |Maxsteer= |Hull= |Maxshield=2 GJ |Shieldslots=9 |Maxshieldstrength=18000 |Shieldreactor= 9400 |Cargoclass=ST |Mincargo= |Maxcargo=8000 |Lasercap=28500 |Laserrecharge= |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot= |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot= |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot= |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot= |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot= |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot= |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay={{Dockbay|25 [[M3+]]-[[M5]]}} }} {{Infobox close}} ==Overview== The most heavily shielded ship in the game, the Hive Queen boasts a colossal 18GJ of shielding, more than many stations. Otherwise, it is identical to a standard [[Kha'ak Carrier]], right down to the bugged docking bay. This small model provides even better survivability, making the Queen a tough nut to crack, though it poses little offensive threat to opposing battleships due to its poor weaponry. It only appears in one plot related sector and is unique. ==Background== ==Physical Characteristics== Identical to the [[Kha'ak Carrier]]. == Combat == Hard to kill, particularly since it's most likely being defended by several other battleships and many fighters. It is highly vulnerable alone, however, as its weaponry is far from impressive. Most carriers, destroyers or even frigates should have little trouble defeating it, particularly if they use the [[PPC]] or other weapons which outrange the [[Gamma Kyon Emitter]]. Even the [[Skirnir]] missile frigate can still annihilate it with a single barrage of its most powerful weapon, the [[Shadow Missile]]. == Equipment == == Availability == Absolutely impossible to obtain without cheats, as all Kha'ak battleships are unboardable and are not sold anywhere. == Suggested Roles== If you ''do'' cheat one in, it would make a perfect command ship in combat due to its survivability and inherently good fighter defence. == See Also== {{M1category}} [[Category: Carrier]]
+==Background==
+==Physical Characteristics==
+Identical to the [[Kha'ak Carrier]].
+
+== Combat ==
+Hard to kill, particularly since it's most likely being defended by several other battleships and many fighters. It is highly vulnerable alone, however, as its weaponry is far from impressive. Most carriers, destroyers or even frigates should have little trouble defeating it, particularly if they use the [[PPC]] or other weapons which outrange the [[Gamma Kyon Emitter]]. Even the [[Skirnir]] missile frigate can still annihilate it with a single barrage of its most powerful weapon, the [[Shadow Missile]].
+
+== Equipment ==
+== Availability ==
+Absolutely impossible to obtain without cheats, as all Kha'ak battleships are unboardable and are not sold anywhere.
+
+== Suggested Roles==
+If you ''do'' cheat one in, it would make a perfect command ship in combat due to its survivability and inherently good fighter defence.
+
+== See Also==
+
+{{M1category}}
+[[Category: Carrier]]

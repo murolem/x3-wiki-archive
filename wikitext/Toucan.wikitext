@@ -1,3 +1,180 @@
-<!-- source file: index__qe5c501e7da56.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Toucan
+|Faction=Teladi
+|Class={{TPclass}}
+|Priceblock={{Priceblock|| 700565}}
+|Minspeed=50
+|Maxspeed=125
+|Minaccel=3
+|Maxaccel=7
+|Minsteer=1.8
+|Maxsteer=4.5
+|Hull=72,000
+|Maxshield=25 MJ
+|Shieldslots=3
+|Maxshieldstrength=75
+|Shieldreactor= 450
+|Cargoclass=L
+|Mincargo=900
+|Maxcargo=900
+|Lasercap=450
+|Laserrecharge=4
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Back
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Toucan Hauler
+|Faction=Teladi
+|Class={{TPclass}}
+|Priceblock=
+|Minspeed=55
+|Maxspeed=137.5
+|Minaccel=3
+|Maxaccel=8
+|Minsteer=1.9
+|Maxsteer=4.8
+|Hull=
+|Maxshield=25 MJ
+|Shieldslots=3
+|Maxshieldstrength=75
+|Shieldreactor= 450
+|Cargoclass=L
+|Mincargo=1035
+|Maxcargo=1035
+|Lasercap=450
+|Laserrecharge=4
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Back
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Toucan Prototype
+|Faction=Teladi
+|Class={{TPclass}}
+|Priceblock=
+|Minspeed=58
+|Maxspeed=145
+|Minaccel=3
+|Maxaccel=7
+|Minsteer=2
+|Maxsteer=5
+|Hull=
+|Maxshield=25 MJ
+|Shieldslots=4
+|Maxshieldstrength=100
+|Shieldreactor= 660
+|Cargoclass=L
+|Mincargo=
+|Maxcargo=1000
+|Lasercap=450
+|Laserrecharge=
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Back
+|Guncount=1
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The Toucan is all-round average, with no strengths or weaknesses, filling a benchmark space usually occupied by the class' [[Argon]] offering.
 
-{{Infobox open}} {{Infobox variant |Variant=Toucan |Faction=Teladi |Class={{TPclass}} |Priceblock={{Priceblock|| 700565}} |Minspeed=50 |Maxspeed=125 |Minaccel=3 |Maxaccel=7 |Minsteer=1.8 |Maxsteer=4.5 |Hull=72,000 |Maxshield=25 MJ |Shieldslots=3 |Maxshieldstrength=75 |Shieldreactor= 450 |Cargoclass=L |Mincargo=900 |Maxcargo=900 |Lasercap=450 |Laserrecharge=4 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Back |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Toucan Hauler |Faction=Teladi |Class={{TPclass}} |Priceblock= |Minspeed=55 |Maxspeed=137.5 |Minaccel=3 |Maxaccel=8 |Minsteer=1.9 |Maxsteer=4.8 |Hull= |Maxshield=25 MJ |Shieldslots=3 |Maxshieldstrength=75 |Shieldreactor= 450 |Cargoclass=L |Mincargo=1035 |Maxcargo=1035 |Lasercap=450 |Laserrecharge=4 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Back |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Toucan Prototype |Faction=Teladi |Class={{TPclass}} |Priceblock= |Minspeed=58 |Maxspeed=145 |Minaccel=3 |Maxaccel=7 |Minsteer=2 |Maxsteer=5 |Hull= |Maxshield=25 MJ |Shieldslots=4 |Maxshieldstrength=100 |Shieldreactor= 660 |Cargoclass=L |Mincargo= |Maxcargo=1000 |Lasercap=450 |Laserrecharge= |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Back |Guncount=1 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The Toucan is all-round average, with no strengths or weaknesses, filling a benchmark space usually occupied by the class' [[Argon]] offering. ==Background== The Toucan is a mid-range luxury passenger transport craft. Equipped with the necessary entertainment facilities to keep its passengers comfortable in its journey, from computerised gambling to up to the date visual entertainment, all in the confines of a luxury seat. The ship itself can be armed, but lacks speed; it is known that this ship is the slowest of its class. ==Variants== ===Toucan=== The standard Toucan. ===Toucan Hauler=== The Hauler variant of the Toucan is faster and has a more generous cargo bay. ===Toucan Prototype=== The Prototype is faster than the Hauler and is more heavily shielded. ==Physical Characteristics== The Toucan is surprisingly sleek for Teladi ships, but the ramshackle appearance of its bow belies its Teladi origin. == Combat == The Toucan has a turret for self-defense, but it has very limited fighting ability and should not be deliberately allowed into a fight. == Equipment == '''Built-In Equipment''' *[[Cargo Life Support System]] '''Missiles''' *[[Mosquito Missile]] *[[Dragonfly Missile]] *[[Firefly Missile]] *[[Aurora Missile]] *[[Rapier Missile]] *[[Firelance Missile]] == Availability == {| style="text-align:center;" |+'''Availability''' |- style="{{Colour/Teladi}}" ! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]] |- ! style="text-align:left;" | Toucan || x || x || x || x || x || x || |- ! style="text-align:left;" | Toucan Hauler || || || || || || |- ! style="text-align:left;" | Toucan Prototype || || || || || || |} A Toucan Hauler is available as one of many [[Ownerless ships]] in Terran Conflict, making it an excellent opportunity for making money for an early-game player, as they will have a free ship with which to perform Passenger Transport missions. The Toucan Prototype cannot be purchased, and must be [[Bail|captured]]. It may be disguised as a Teladi Weapons Transporter. == Suggested Roles== Passenger transport missions or [[Marine]] storage. == See Also== {{TP}} {{TPcategory}} [[Category:Teladi ships]] {{Teladi Navbox}}
+==Background==
+The Toucan is a mid-range luxury passenger transport craft. Equipped with the necessary entertainment facilities to keep its passengers comfortable in its journey, from computerised gambling to up to the date visual entertainment, all in the confines of a luxury seat. The ship itself can be armed, but lacks speed; it is known that this ship is the slowest of its class.
+
+==Variants==
+===Toucan===
+The standard Toucan.
+===Toucan Hauler===
+The Hauler variant of the Toucan is faster and has a more generous cargo bay.
+===Toucan Prototype===
+The Prototype is faster than the Hauler and is more heavily shielded.
+==Physical Characteristics==
+The Toucan is surprisingly sleek for Teladi ships, but the ramshackle appearance of its bow belies its Teladi origin.
+== Combat ==
+The Toucan has a turret for self-defense, but it has very limited fighting ability and should not be deliberately allowed into a fight.
+
+== Equipment ==
+'''Built-In Equipment'''
+*[[Cargo Life Support System]]
+
+'''Missiles'''
+*[[Mosquito Missile]]
+*[[Dragonfly Missile]]
+*[[Firefly Missile]]
+*[[Aurora Missile]]
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+
+== Availability ==
+{| style="text-align:center;"
+|+'''Availability'''
+|- style="{{Colour/Teladi}}"
+! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]]
+|-
+! style="text-align:left;" | Toucan || x || x || x || x || x || x ||
+|-
+! style="text-align:left;" | Toucan Hauler ||  ||  ||  ||  ||  ||
+|-
+! style="text-align:left;" | Toucan Prototype ||  ||  ||  ||  ||  ||
+|}
+
+A Toucan Hauler is available as one of many [[Ownerless ships]] in Terran Conflict, making it an excellent opportunity for making money for an early-game player, as they will have a free ship with which to perform Passenger Transport missions. 
+
+The Toucan Prototype cannot be purchased, and must be [[Bail|captured]]. It may be disguised as a Teladi Weapons Transporter.
+
+== Suggested Roles==
+Passenger transport missions or [[Marine]] storage.
+
+== See Also==
+
+{{TP}}
+{{TPcategory}}
+[[Category:Teladi ships]]
+
+
+{{Teladi Navbox}}

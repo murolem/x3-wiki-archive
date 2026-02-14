@@ -1,3 +1,79 @@
-<!-- source file: index__qd7302877fa17.html -->
+This is a list of all ships that cannot be acquired in a vanilla X3 game.  Unless otherwise noted, the ship exists in the game files, but does not appear.
 
-This is a list of all ships that cannot be acquired in a vanilla X3 game. Unless otherwise noted, the ship exists in the game files, but does not appear. =={{M1class}}== ;[[Colossus#Colossus_Hauler|Argon Colossus Hauler]]: [[Argon]] [[Colossus]] variant. ;[[Woden|ATF Woden]]: [[ATF]] heavy carrier. ;[[Kha'ak Carrier]]: Present in vanilla, but cannot be boarded. ;[[Kha'ak Guardian]]: [[Kha'ak]] analog to the [[Orbital Weapon Platform L]]. ;[[Hive Queen|Kha'ak Hive Queen]]: An upgraded version of the Carrier. ;[[Mobile Repair Ship|Goner Mobile Repair Ship]]: Variation on the [[Goner]] [[Aran]]. =={{M2class}}== ;[[Valhalla|ATF Valhalla]]: Super-destroyer capable of carrying 60 fighters. ;[[Kha'ak Destroyer]]: Present in vanilla, but cannot be boarded. =={{M3class}}== ;[[Kha'ak Cluster]]: Present in vanilla, but cannot be made to bail, as it breaks into its constituent M3 and M5s when a target approaches. ;[[Unknown Object|Xenon Unknown Object]]: Leftover from the ''[[X3: Reunion]]'' game files. =={{M4class}}== ;[[Eurus|OTAS Eurus]]: Present in vanilla as part of the mercenaries of [[Operation: Final Fury]], but cannot be made to bail. =={{M5class}}== ;[[Arrow|Argon Arrow]]: One of the two 'racing ships'; The fastest in the X-Universe. Declared to be an [[Argon]] M5, but uses a [[Boron]] [[Octopus]] model. ;[[Camera Drone|Argon Camera Drone]]: Argon M5. ;[[Starburst|Argon Starburst]]: Blazingly fast Argon M5, and counterpart to the above Arrow. Not as fast, but with much better steering. ;[[Message Drone|Argon Message Drone]]: Drone, classed as M5. ;[[Keris|Terran Drone]]: Drone, classed as M5. =={{M6class}}== ;[[Military Transport|Argon Military Transport]]: Argon M6. (Not to be confused with the TM ship class.) ;[[Kha'ak Corvette]]: Present in vanilla, but cannot be boarded. ;[[Marauder Hauler|Pirate Marauder Hauler]]: [[Pirates|Pirate]] M6 that uses a Pirate [[Centaur]] model. ;[[Washi Hauler|Yaki Washi Hauler]]: [[Yaki]] M6 that uses an Argon [[Heavy Centaur]] model. =={{M7class}}== ;[[Astraeus Hauler|OTAS Astraeus Hauler]]: [[OTAS]] M7 that uses an Argon [[Cerberus]] model. ;[[Tern Sentinel|Teladi Tern Sentinel]]: [[Teladi]] M7 that uses a Teladi [[Shrike]] model. ;[[Akurei Hauler|Yaki Akurei Hauler]]: Yaki M7 that uses an Argon Cerberus model. ;[[Kariudo Hauler|Yaki Kariudo Hauler]]: Yaki M7 that uses a [[Paranid]] [[Deimos]] model. =={{M7Mclass}}== ;[[Senshi Hauler|Yaki Senshi Hauler]]: Yaki M7M that uses an Argon [[Minotaur]] model. =={{M8class}}== ;[[Marlin Hauler|Boron Marlin Hauler]]: Boron M8 that uses an Argon [[Gladiator]] model. Occasionally appeared in early game versions, but was patched out. ;[[Auster Hauler|OTAS Auster Hauler]]: OTAS M8 that uses an Argon Gladiator model. =={{TLclass}}== ;[[Civilian Vessel Hauler|Argon Civilian Vessel Hauler]]: Argon TL that uses an Argon [[Mammoth]] model. ;[[Starliner Hauler|Argon Starliner Hauler]]: Argon TL that uses an Argon Mammoth model. ;[[Troop Training Ship Hauler|Argon Troop Training Ship Hauler]]: Argon TL that uses an Argon Mammoth model. ;[[Ozias|Goner Ozias]]: Present in vanilla, but cannot be boarded. ;[[Mobile Pirate Station]]: Uses the [[Pirate Base]] model. ;[[Mobile Pirate Base Hauler]]: Pirate TL that uses an Argon Mammoth model. =={{TMclass}}== ;[[Chokaro#Advanced_Chokaro|Yaki Advanced Chokaro]]: Unavailable Yaki [[Chokaro]] variant. =={{TSclass}}== ;[[Pirate Ship]]: Buggy Pirate TS removed by the 2.7 patch. {| class="prettytable wikitable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:right;" |+ '''All Ships''' ! Name !! Race !! class !! Max shields !! Num shields !! [[Shields|Shield type]] !! Turrets !! Weapon generator !! Shield generator !! Max speed !! Max cargo !! [[Cargo Class]] !! Hangar !! Price |- |[[Woden]] || [[ATF]] || [[M1]] || || 6 || 2GJ || 6 || 107.000 || 9.000 || 90,00 || 12.000 || XL || 30 || Not for sale |- |[[Arrow]] || [[Argon]] || [[M5]] || || 2 || 1MJ || || 10.000 || 1.000 || 1320,00 || 35 || S || || Not for sale |- |[[Starburst]] || [[Argon]] || [[M5]] || || 2 || 1MJ || || 10.000 || 50 || 1140,00 || 35 || S || || Not for sale |- |[[Griffon]] || [[Argon]] || [[M7]] || || 3 || 1GJ || 4 || 63.000 || 5.500 || 101,70 || 3.500 || XL || 25 || Not for sale |- |[[Mobile Repair Ship]] || [[Goner]] || [[M1]] || || 6 || 2GJ || 3 || 38.500 || 34.200 || 12,10 || 120.000 || XL || 30 || Not for sale |- |[[Kha'ak Guardian]] || [[Kha'ak]] || [[M1]] || || 2 || 1GJ || 3 || 100.000 || 10.500 || 0,00 || 6.000 || XL || || Not for sale |}
+=={{M1class}}==
+;[[Colossus#Colossus_Hauler|Argon Colossus Hauler]]:  [[Argon]] [[Colossus]] variant.
+;[[Woden|ATF Woden]]:  [[ATF]] heavy carrier.
+;[[Kha'ak Carrier]]:  Present in vanilla, but cannot be boarded.
+;[[Kha'ak Guardian]]:  [[Kha'ak]] analog to the [[Orbital Weapon Platform L]].
+;[[Hive Queen|Kha'ak Hive Queen]]:  An upgraded version of the Carrier.
+;[[Mobile Repair Ship|Goner Mobile Repair Ship]]:  Variation on the [[Goner]] [[Aran]].
+
+=={{M2class}}==
+;[[Valhalla|ATF Valhalla]]:  Super-destroyer capable of carrying 60 fighters.
+;[[Kha'ak Destroyer]]:  Present in vanilla, but cannot be boarded.
+
+=={{M3class}}==
+;[[Kha'ak Cluster]]:  Present in vanilla, but cannot be made to bail, as it breaks into its constituent M3 and M5s when a target approaches.
+;[[Unknown Object|Xenon Unknown Object]]:  Leftover from the ''[[X3: Reunion]]'' game files.
+
+=={{M4class}}==
+;[[Eurus|OTAS Eurus]]:  Present in vanilla as part of the mercenaries of [[Operation: Final Fury]], but cannot be made to bail.
+
+=={{M5class}}==
+;[[Arrow|Argon Arrow]]:  One of the two 'racing ships'; The fastest in the X-Universe.  Declared to be an [[Argon]] M5, but uses a [[Boron]] [[Octopus]] model.
+;[[Camera Drone|Argon Camera Drone]]:  Argon M5.
+;[[Starburst|Argon Starburst]]:  Blazingly fast Argon M5, and counterpart to the above Arrow.  Not as fast, but with much better steering.
+;[[Message Drone|Argon Message Drone]]:  Drone, classed as M5.
+;[[Keris|Terran Drone]]:  Drone, classed as M5.
+
+=={{M6class}}==
+;[[Military Transport|Argon Military Transport]]:  Argon M6.  (Not to be confused with the TM ship class.)
+;[[Kha'ak Corvette]]:  Present in vanilla, but cannot be boarded.
+;[[Marauder Hauler|Pirate Marauder Hauler]]:  [[Pirates|Pirate]] M6 that uses a Pirate [[Centaur]] model.
+;[[Washi Hauler|Yaki Washi Hauler]]:  [[Yaki]] M6 that uses an Argon [[Heavy Centaur]] model.
+
+=={{M7class}}==
+;[[Astraeus Hauler|OTAS Astraeus Hauler]]:  [[OTAS]] M7 that uses an Argon [[Cerberus]] model.
+;[[Tern Sentinel|Teladi Tern Sentinel]]:  [[Teladi]] M7 that uses a Teladi [[Shrike]] model.
+;[[Akurei Hauler|Yaki Akurei Hauler]]:  Yaki M7 that uses an Argon Cerberus model.
+;[[Kariudo Hauler|Yaki Kariudo Hauler]]:  Yaki M7 that uses a [[Paranid]] [[Deimos]] model.
+
+=={{M7Mclass}}==
+;[[Senshi Hauler|Yaki Senshi Hauler]]:  Yaki M7M that uses an Argon [[Minotaur]] model.
+
+=={{M8class}}==
+;[[Marlin Hauler|Boron Marlin Hauler]]:  Boron M8 that uses an Argon [[Gladiator]] model.  Occasionally appeared in early game versions, but was patched out.
+;[[Auster Hauler|OTAS Auster Hauler]]:  OTAS M8 that uses an Argon Gladiator model.
+
+=={{TLclass}}==
+;[[Civilian Vessel Hauler|Argon Civilian Vessel Hauler]]:  Argon TL that uses an Argon [[Mammoth]] model.
+;[[Starliner Hauler|Argon Starliner Hauler]]:  Argon TL that uses an Argon Mammoth model.
+;[[Troop Training Ship Hauler|Argon Troop Training Ship Hauler]]:  Argon TL that uses an Argon Mammoth model.
+;[[Ozias|Goner Ozias]]:  Present in vanilla, but cannot be boarded.
+;[[Mobile Pirate Station]]:  Uses the [[Pirate Base]] model.
+;[[Mobile Pirate Base Hauler]]:  Pirate TL that uses an Argon Mammoth model.
+
+=={{TMclass}}==
+;[[Chokaro#Advanced_Chokaro|Yaki Advanced Chokaro]]:  Unavailable Yaki [[Chokaro]] variant.
+
+=={{TSclass}}==
+;[[Pirate Ship]]:  Buggy Pirate TS removed by the 2.7 patch.
+
+{| class="prettytable wikitable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:right;"
+|+ '''All Ships'''
+ ! Name !! Race !! class !! Max shields !! Num shields !! [[Shields|Shield type]] !! Turrets !! Weapon generator !! Shield generator !! Max speed !! Max cargo !! [[Cargo Class]] !! Hangar !! Price   
+
+|-
+|[[Woden]] || [[ATF]] || [[M1]] ||  || 6 || 2GJ || 6 || 107.000 || 9.000 || 90,00 || 12.000 || XL || 30 || Not for sale
+|-
+|[[Arrow]] || [[Argon]] || [[M5]] ||  || 2 || 1MJ ||  || 10.000 || 1.000 || 1320,00 || 35 || S ||  || Not for sale
+|-
+|[[Starburst]] || [[Argon]] || [[M5]] ||  || 2 || 1MJ ||  || 10.000 || 50 || 1140,00 || 35 || S ||  || Not for sale
+|-
+|[[Griffon]] || [[Argon]] || [[M7]] ||  || 3 || 1GJ || 4 || 63.000 || 5.500 || 101,70 || 3.500 || XL || 25 || Not for sale
+|-
+|[[Mobile Repair Ship]] || [[Goner]] || [[M1]] ||  || 6 || 2GJ || 3 || 38.500 || 34.200 || 12,10 || 120.000 || XL || 30 || Not for sale
+|-
+|[[Kha'ak Guardian]] || [[Kha'ak]] || [[M1]] ||  || 2 || 1GJ || 3 || 100.000 || 10.500 || 0,00 || 6.000 || XL ||  || Not for sale
+
+|}

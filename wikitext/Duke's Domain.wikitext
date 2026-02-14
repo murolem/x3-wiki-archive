@@ -1,3 +1,22 @@
-<!-- source file: index__q4e7f908fa92d.html -->
+{{Infobox Sector
+|Race=Paranid
+|SecLevel=Core
+|Population=44,797,943
+|Planets=1
+|SunLevel=150
+|GateDist=40
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|North|0|	3500|	20200|[[Priest Rings]]}}
+{{Gateblock2|East|20200|	-3000|	0|[[Emperor's Ridge]]}}
+{{Gateblock2|West|-20200|	-1000|	0|[[Empire's Edge]]}}
+</table>
+}}
+==Description==
+===Encyclopedia Entry===
+This highly agricultural system provides much of the [[Soja Beans]] that form the basis of the [[Paranid]] diet. The highly ionized water of the system's planet contains rare organic minerals that greatly improve the flavor of Beans nurtured in it. This system suffered particularly heavy losses in the last Xenon conflict.
+==Default [[Stations]]==
+==[[Asteroids]]==
 
-{{Infobox Sector |Race=Paranid |SecLevel=Core |Population=44,797,943 |Planets=1 |SunLevel=150 |GateDist=40 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|North|0| 3500| 20200|[[Priest Rings]]}} {{Gateblock2|East|20200| -3000| 0|[[Emperor's Ridge]]}} {{Gateblock2|West|-20200| -1000| 0|[[Empire's Edge]]}} &lt;/table> }} ==Description== ===Encyclopedia Entry=== This highly agricultural system provides much of the [[Soja Beans]] that form the basis of the [[Paranid]] diet. The highly ionized water of the system's planet contains rare organic minerals that greatly improve the flavor of Beans nurtured in it. This system suffered particularly heavy losses in the last Xenon conflict. ==Default [[Stations]]== ==[[Asteroids]]== == See Also == {{Paranid Navbox}}
+== See Also ==
+{{Paranid Navbox}}

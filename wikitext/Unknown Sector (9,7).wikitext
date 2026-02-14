@@ -1,3 +1,47 @@
-<!-- source file: index__q7ca5e4c38257.html -->
+{{Infobox Sector
+|Race= Unknown
+|SecLevel= Border
+|Population= Unknown
+|Planets= 3
+|SunLevel= 150
+|GateDist=110
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+<tr style="text-align:center;"><th>Gate</th><th>x</th><th>y</th><th>z</th><th>Destination</th></tr>
+{{Gateblock2|West| -49,100| 0 | 7,010|[[Legend's Home]]}}
+</table>
+}}
+==Description==
+This sector is new to Albion Prelude. It is sometimes used by players as a place to build complexes to equip new ships bought from [[OTAS]] in [[Legend's Home]].
+===Encyclopedia Entry===
+Sector is not recognized in the Datase
+==Default [[Stations]]==
+There are no stations in this sector by default.
+==[[Asteroids]]==
 
-{{Infobox Sector |Race= Unknown |SecLevel= Border |Population= Unknown |Planets= 3 |SunLevel= 150 |GateDist=110 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> &lt;tr style="text-align:center;">&lt;th>Gate&lt;/th>&lt;th>x&lt;/th>&lt;th>y&lt;/th>&lt;th>z&lt;/th>&lt;th>Destination&lt;/th>&lt;/tr> {{Gateblock2|West| -49,100| 0 | 7,010|[[Legend's Home]]}} &lt;/table> }} ==Description== This sector is new to Albion Prelude. It is sometimes used by players as a place to build complexes to equip new ships bought from [[OTAS]] in [[Legend's Home]]. ===Encyclopedia Entry=== Sector is not recognized in the Datase ==Default [[Stations]]== There are no stations in this sector by default. ==[[Asteroids]]== {| class="prettytable" border="0" cellpadding="5" cellspacing="5" style="text-align:right;" ! !! Yield !! x !! y !! z |- style="background:white; color:black" | '''[[Ore]]''' || 13 || 19,800 || 8,800 || 23,400 |- | '''Ore''' || 5 || -26,500 || 17,000 || -12,900 |- | '''[[Silicon Wafers|Silicon]]''' || 7 || 27,600 || -3,950 || 24,300 |- | '''Ore''' || 17 || 25,900 || 1,800 || 10,200 |- | '''Ore''' || 25 || 8,970 || 833 || 25,200 |- | '''Ore''' || 8 || -11,900 || 13,500 || -26,100 |- | '''Silicon''' || 26 || -15,000 || 1,860 || 2,650 |- | '''Ore''' || 30 || 23,600 || 3,710 || 15,800 |- | '''Silicon''' || 26 || -6,360 || 997 || 13,900 |- | '''Ore''' || 5 || 17,600 || -2,360 || -17,100 |- | '''Ore''' || 1 || -18,800 || 12,100 || 13,400 |- | '''Silicon''' || 15 || 2,270 || -1,700 || -3,030 |}
+{| class="prettytable" border="0" cellpadding="5" cellspacing="5" style="text-align:right;"
+! !! Yield !! x !! y !! z
+|- style="background:white; color:black" 
+| '''[[Ore]]''' || 13 || 19,800 || 8,800 || 23,400
+|-
+| '''Ore''' || 5 || -26,500 || 17,000 || -12,900
+|-
+| '''[[Silicon Wafers|Silicon]]''' || 7 || 27,600 || -3,950 || 24,300
+|-
+| '''Ore''' || 17 || 25,900 || 1,800 || 10,200
+|-
+| '''Ore''' || 25 || 8,970 || 833 || 25,200
+|-
+| '''Ore''' || 8 || -11,900 || 13,500 || -26,100
+|-
+| '''Silicon''' || 26 || -15,000 || 1,860 || 2,650
+|-
+| '''Ore''' || 30 || 23,600 || 3,710 || 15,800
+|-
+| '''Silicon''' || 26 || -6,360 || 997 || 13,900
+|-
+| '''Ore''' || 5 || 17,600 || -2,360 || -17,100
+|-
+| '''Ore''' || 1 || -18,800 || 12,100 || 13,400
+|-
+| '''Silicon''' || 15 || 2,270 || -1,700 || -3,030
+|}

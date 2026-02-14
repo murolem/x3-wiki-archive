@@ -1,3 +1,215 @@
-<!-- source file: index__q6f882155d714.html -->
+Note: work in progress
 
-Note: work in progress ==Ammunition== {| class="prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:center;" !Race!![[Ammunition Factory]]!![[Energy Bolt Chaingun Ammunition Forge]]!!Matter/Anti-matter Warhead Forge |- |Argon||2,830,680||x||x |- |Boron||x||x||x |- |Paranid||x||x||x |- |Split||2,830,680||x||x |- |Teladi||x||3,538,352||x |- |Terran||x||x||3,129,332 |} ==Mines (Ore and Silicon)== {| class="prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:center;" !Race!![[Ore Mine L]]!![[Silicon Mine L]] |- |Argon||905,688||1,139,416 |- |Boron||1,139,416||1,402,356 |- |Paranid||993,336||1,227,060 |- |Split||818,040||1,022,552 |- |Teladi||849,984||905,688 |- |Terran||x||x |} ==Missiles (Fighters)== {| class="prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:center;" !Race!![[Silkworm Missile Factory]]!![[Tempest Missile Factory]]!!|[[Wasp Missile Factory]] |- |Argon||2,876,128||x||1,525,712 |- |Boron||x||7,706,464||x |- |Paranid||x||x||1,447,804 |- |Split||3,012,468||x||1,675,036 |- |Teladi||2,739,788||x||x |- |Terran||x||x||x |} ==Shields== ==Satellites and Drones== {| class="prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:center;" !Race!![[Satellite Factory]]!!|[[Advanced Satellite Factory]]!![[Drone Factory]]!![[Advanced Drone Factory]] |- |Argon||746,624||3,233,208||2,898,204||2,898,204 |- |Boron||876,472||x||x||x |- |Paranid||||2,616,432||x||x |- |Split||967,364||3,389,028||3,035,320||3,035,320 |- |Teladi||831,024||x||2,617,732||x |- |Terran||x||x||x|| |} ==Weapons (Deployable Mines and Lasertowers)== ==Weapons== {| class="prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:center;" !Race!![[Cluster Flak Array Forge]]!![[Flak Artillery Array Forge]] |- |Argon||2,830,680||x |- |Boron||x||x |- |Paranid||x||x |- |Split||2,830,680||x |- |Teladi||x||11,390,248 |- |Terran||x||x |} {| class="prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:right;" |+ '''Factories by Race''' ! Name !! Argon !! Boron !! Paranid !! Split !! Teladi !! Terran !! Cheapest || Exclusive |- | || 12,039,488 || x || x || x || x || x || Argon || Yes |- |[[Concussion Impulse Generator Forge]] || 9,572,120 || x || 9,380,204 || x || 8,997,476 || x || Teladi || No |- |[[Dumbfire Missile Production Complex]] || || || || || || || || |- |[[Electro-Magnetic Plasma Cannon Forge]] || || || || || || || || |- |[[Energy Bolt Chaingun Forge]] || || || || || || || || |- |[[Firefly Missile Factory]] || || || || || || || || |- |[[Firestorm Torpedo Factory]] || || || || || || || || |- |[[Flail Missile Production Facility]] || || || || || || || || |- |[[Fragmentation Bomb Launcher Forge]] || || || || || || || || |- |[[Gauss Cannon Ammunition Forge]] || || || || || || || || |- |[[Gauss Cannon Forge]] || || || || || || || || |- |[[Hammer Torpedo Fabrication Facility]] || || || || || || || || |- |[[Heavy Shield Production Complex]] || || || || || || || || |- |[[Heavy Weapons Complex]] || || || || || || || || |- |[[High Energy Plasma Thrower Forge]] || || || || || || || || |- |[[High Yield Production Complex]] || || || || || || || || |- |[[Image Recognition Production Complex]] || || || || || || || || |- |[[Impulse Ray Emitter Forge]] || || || || || || || || |- |[[Incendiary Bomb Launcher Forge]] || || || || || || || || |- |[[Ion Cannon Forge]] || || || || || || || || |- |[[Ion Disruptor Forge]] || || || || || || || || |- |[[Ion Mine Fab]] || || || || || || || || |- |[[Ion Pulse Generator Forge]] || || || || || || || || |- |[[Ion Shard Railgun Forge]] || || || || || || || || |- |[[Lasertower Factory]] || || || || || || || || |- |[[Light Shield Production Complex]] || || || || || || || || |- |[[Light Weapons Complex]] || || || || || || || || |- |[[Marine Training Barracks]] || || || || || || || || |- |[[Mass Driver Forge]] || || || || || || || || |- |[[Matter/Anti-matter Launcher Forge]] || || || || || || || || |- |[[Medium Shield Production Complex]] || || || || || || || || |- |[[Medium Weapons Complex]] || || || || || || || || |- |[[Mosquito Missile Factory]] || || || || || || || || |- |[[Particle Accelerator Cannon Forge]] || || || || || || || || |- |[[Phased Repeater Gun Forge]] || || || || || || || || |- |[[Phased Shockwave Generator Forge]] || || || || || || || || |- |[[Photon Pulse Cannon Forge]] || || || || || || || || |- |[[Plasma Burst Generator Forge]] || || || || || || || || |- |[[Point Singularity Projector Forge]] || || || || || || || || |- |[[Pulsed Beam Emitter Forge]] || || || || || || || || |- |[[Seeker Missile Production Complex]] || || || || || || || || |- |[[Shield Prod. Facility 1MJ]] || || || || || || || || |- |[[Shield Prod. Facility 5MJ]] || || || || || || || || |- |[[Shield Prod. Facility 25MJ]] || || || || || || || || |- |[[Shield Prod. Facility 200MJ]] || || || || || || || || |- |[[Shield Prod. Facility 1GJ]] || || || || || || || || |- |[[Shield Prod. Facility 2GJ]] || || || || || || || || |- |[[Special Weapons Production Complex]] || || || || || || || || |- |[[SQUASH Mine Factory]] || || || || || || || || |- |[[Starburst Shockwave Cannon Forge]] || || || || || || || || |- |[[Swarm Missile Production Complex]] || || || || || || || || |- |[[Tomahawk Missile Manufacturing Plant]] || || || || || || || || |- |[[Tracker Mine Factory]] || || || || || || || || |- |} [[Category:Factories]]
+==Ammunition==
+
+{| class="prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:center;"
+!Race!![[Ammunition Factory]]!![[Energy Bolt Chaingun Ammunition Forge]]!!Matter/Anti-matter Warhead Forge
+|-
+|Argon||2,830,680||x||x
+|-
+|Boron||x||x||x
+|-
+|Paranid||x||x||x
+|-
+|Split||2,830,680||x||x
+|-
+|Teladi||x||3,538,352||x
+|-
+|Terran||x||x||3,129,332
+|}
+
+
+==Mines (Ore and Silicon)==
+
+{| class="prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:center;"
+!Race!![[Ore Mine L]]!![[Silicon Mine L]]
+|-
+|Argon||905,688||1,139,416
+|-
+|Boron||1,139,416||1,402,356
+|-
+|Paranid||993,336||1,227,060
+|-
+|Split||818,040||1,022,552
+|-
+|Teladi||849,984||905,688
+|-
+|Terran||x||x
+|}
+
+
+==Missiles (Fighters)==
+
+{| class="prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:center;"
+!Race!![[Silkworm Missile Factory]]!![[Tempest Missile Factory]]!!|[[Wasp Missile Factory]]
+|-
+|Argon||2,876,128||x||1,525,712
+|-
+|Boron||x||7,706,464||x
+|-
+|Paranid||x||x||1,447,804
+|-
+|Split||3,012,468||x||1,675,036
+|-
+|Teladi||2,739,788||x||x
+|-
+|Terran||x||x||x
+|}
+
+
+==Shields==
+
+==Satellites and Drones==
+
+{| class="prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:center;"
+!Race!![[Satellite Factory]]!!|[[Advanced Satellite Factory]]!![[Drone Factory]]!![[Advanced Drone Factory]]
+|-
+|Argon||746,624||3,233,208||2,898,204||2,898,204
+|-
+|Boron||876,472||x||x||x
+|-
+|Paranid||||2,616,432||x||x
+|-
+|Split||967,364||3,389,028||3,035,320||3,035,320
+|-
+|Teladi||831,024||x||2,617,732||x
+|-
+|Terran||x||x||x||
+|}
+
+==Weapons (Deployable Mines and Lasertowers)==
+
+
+==Weapons==
+
+{| class="prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:center;"
+!Race!![[Cluster Flak Array Forge]]!![[Flak Artillery Array Forge]]
+|-
+|Argon||2,830,680||x
+|-
+|Boron||x||x
+|-
+|Paranid||x||x
+|-
+|Split||2,830,680||x
+|-
+|Teladi||x||11,390,248
+|-
+|Terran||x||x
+|}
+
+
+
+{| class="prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:right;"
+|+ '''Factories by Race'''
+ ! Name !! Argon !! Boron !! Paranid !! Split !! Teladi !! Terran !! Cheapest || Exclusive
+|-
+| || 12,039,488 || x || x || x || x || x || Argon || Yes
+|-
+|[[Concussion Impulse Generator Forge]] || 9,572,120 || x || 9,380,204 || x || 8,997,476 || x || Teladi || No
+|-
+|[[Dumbfire Missile Production Complex]] || || || || || || || ||
+|-
+|[[Electro-Magnetic Plasma Cannon Forge]] || || || || || || || ||
+|-
+|[[Energy Bolt Chaingun Forge]] || || || || || || || ||
+|-
+|[[Firefly Missile Factory]] || || || || || || || ||
+|-
+|[[Firestorm Torpedo Factory]] || || || || || || || ||
+|-
+|[[Flail Missile Production Facility]] || || || || || || || ||
+|-
+|[[Fragmentation Bomb Launcher Forge]] || || || || || || || ||
+|-
+|[[Gauss Cannon Ammunition Forge]] || || || || || || || ||
+|-
+|[[Gauss Cannon Forge]] || || || || || || || ||
+|-
+|[[Hammer Torpedo Fabrication Facility]] || || || || || || || ||
+|-
+|[[Heavy Shield Production Complex]] || || || || || || || ||
+|-
+|[[Heavy Weapons Complex]] || || || || || || || ||
+|-
+|[[High Energy Plasma Thrower Forge]] || || || || || || || ||
+|-
+|[[High Yield Production Complex]] || || || || || || || ||
+|-
+|[[Image Recognition Production Complex]] || || || || || || || ||
+|-
+|[[Impulse Ray Emitter Forge]] || || || || || || || ||
+|-
+|[[Incendiary Bomb Launcher Forge]] || || || || || || || ||
+|-
+|[[Ion Cannon Forge]] || || || || || || || ||
+|-
+|[[Ion Disruptor Forge]] || || || || || || || ||
+|-
+|[[Ion Mine Fab]] || || || || || || || ||
+|-
+|[[Ion Pulse Generator Forge]] || || || || || || || ||
+|-
+|[[Ion Shard Railgun Forge]] || || || || || || || ||
+|-
+|[[Lasertower Factory]] || || || || || || || ||
+|-
+|[[Light Shield Production Complex]] || || || || || || || ||
+|-
+|[[Light Weapons Complex]] || || || || || || || ||
+|-
+|[[Marine Training Barracks]] || || || || || || || ||
+|-
+|[[Mass Driver Forge]] || || || || || || || ||
+|-
+|[[Matter/Anti-matter Launcher Forge]] || || || || || || || ||
+|-
+|[[Medium Shield Production Complex]] || || || || || || || ||
+|-
+|[[Medium Weapons Complex]] || || || || || || || ||
+|-
+|[[Mosquito Missile Factory]] || || || || || || || ||
+|-
+|[[Particle Accelerator Cannon Forge]] || || || || || || || ||
+|-
+|[[Phased Repeater Gun Forge]] || || || || || || || ||
+|-
+|[[Phased Shockwave Generator Forge]] || || || || || || || ||
+|-
+|[[Photon Pulse Cannon Forge]] || || || || || || || ||
+|-
+|[[Plasma Burst Generator Forge]] || || || || || || || ||
+|-
+|[[Point Singularity Projector Forge]] || || || || || || || ||
+|-
+|[[Pulsed Beam Emitter Forge]] || || || || || || || ||
+|-
+|[[Seeker Missile Production Complex]] || || || || || || || ||
+|-
+|[[Shield Prod. Facility 1MJ]] || || || || || || || ||
+|-
+|[[Shield Prod. Facility 5MJ]] || || || || || || || ||
+|-
+|[[Shield Prod. Facility 25MJ]] || || || || || || || ||
+|-
+|[[Shield Prod. Facility 200MJ]] || || || || || || || ||
+|-
+|[[Shield Prod. Facility 1GJ]] || || || || || || || ||
+|-
+|[[Shield Prod. Facility 2GJ]] || || || || || || || ||
+|-
+|[[Special Weapons Production Complex]] || || || || || || || ||
+|-
+|[[SQUASH Mine Factory]] || || || || || || || ||
+|-
+|[[Starburst Shockwave Cannon Forge]] || || || || || || || ||
+|-
+|[[Swarm Missile Production Complex]] || || || || || || || ||
+|-
+|[[Tomahawk Missile Manufacturing Plant]] || || || || || || || ||
+|-
+|[[Tracker Mine Factory]] || || || || || || || ||
+|-
+|}
+
+[[Category:Factories]]

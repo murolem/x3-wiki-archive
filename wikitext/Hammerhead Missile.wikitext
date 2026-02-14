@@ -1,3 +1,22 @@
-<!-- source file: index__qc04b543f27af.html -->
+{{Infobox open}}
+{{Infobox missile|Missile=Hammerhead Missile|Yield= 1200000 |Speed= 172 |Range= 86 |Cooldown= 3000 |Seeker= Targetted |Submunitions= 1 |Fusing= Impact |Torpedoclass=|Guidance= Image-recognition|AoE=}}
+{{Infobox ware|ware=Hammerhead Missile|cargoclass=M|volume=6|minprice=75197|aveprice=80856|maxprice=86515}}
+{{Infobox close}}
+==Overview==
+The Hammerhead missile is a rare, unbuyable, and extraordinarily dangerous weapon, which can vaporize anything smaller than a [[M7|Frigate]].
 
-{{Infobox open}} {{Infobox missile|Missile=Hammerhead Missile|Yield= 1200000 |Speed= 172 |Range= 86 |Cooldown= 3000 |Seeker= Targetted |Submunitions= 1 |Fusing= Impact |Torpedoclass=|Guidance= Image-recognition|AoE=}} {{Infobox ware|ware=Hammerhead Missile|cargoclass=M|volume=6|minprice=75197|aveprice=80856|maxprice=86515}} {{Infobox close}} ==Overview== The Hammerhead missile is a rare, unbuyable, and extraordinarily dangerous weapon, which can vaporize anything smaller than a [[M7|Frigate]]. ===Encyclopedia Entry=== The Hammerhead is the Terran heavy assault missile commonly used on Earth Fleet capital ships. ==Commentary== Big badda BOOM! The Hammerhead is an unbuyable missile similar to the Firestorm, though slightly more powerful and faster. It is commonly found on race military [[M3|M3s]], despite the [[Firestorm Torpedo]] being compatible only with the [[M6]] and higher classes. It is another source of annoyance to fighter pilots, as, like the Firestorm, it has a large blast radius and is powerful enough to one hit kill small ships - even any corvette except the ATF Vali. Its damage is 1.2 gigajoules, so it is extremely dangerous even for battleships. Players often collect them after combat with the Xenon, who also love to put them in the Q. As with the use of all nuclear based warheads, extreme caution is strongly advised. Premature detonation can be caused by any sort of impact in space and may lead to immediate user atomization if you have insufficient shielding installed. Can be used to break up large asteroids. Ironically, while it is a [[Terran]]-designed missile, it is curiously compatible with [[Commonwealth]] ships. {{Missile Navbox}} [[Category:Not Purchasable]]
+===Encyclopedia Entry===
+The Hammerhead is the Terran heavy assault missile commonly used on Earth Fleet capital ships.
+
+==Commentary==
+Big badda BOOM!
+
+The Hammerhead is an unbuyable missile similar to the Firestorm, though slightly more powerful and faster. It is commonly found on race military [[M3|M3s]], despite the [[Firestorm Torpedo]] being compatible only with the [[M6]] and higher classes. It is another source of annoyance to fighter pilots, as, like the Firestorm, it has a large blast radius and is powerful enough to one hit kill small ships - even any corvette except the ATF Vali. Its damage is 1.2 gigajoules, so it is extremely dangerous even for battleships. Players often collect them after combat with the Xenon, who also love to put them in the Q.
+
+As with the use of all nuclear based warheads, extreme caution is strongly advised. Premature detonation can be caused by any sort of impact in space and may lead to immediate user atomization if you have insufficient shielding installed.
+
+Can be used to break up large asteroids.
+
+Ironically, while it is a [[Terran]]-designed missile, it is curiously compatible with [[Commonwealth]] ships.
+{{Missile Navbox}}
+[[Category:Not Purchasable]]

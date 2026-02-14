@@ -1,3 +1,41 @@
-<!-- source file: index__q202a921473ea.html -->
+{{Infobox Sector
+|Race=Split
+|SecLevel=Border
+|Population=16,616,837
+|Planets=2
+|SunLevel=150
+|GateDist=70
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|15300|	0|	28188|[[Family Njy]]}}
+{{Gateblock2|West|-36288|	0|	0|[[Xenon Sector 472]]}}
+{{Gateblock/End}}
+}}
+==Description==
+===Encyclopedy Entry===
+This deep space system is about as close as the Split get to a civilian operation. It produces food and other organic products and mines the asteroids that are spread throughout the system. Although there is little military presence all Split are required to complete combat training and civilian Split pilots are no easy target.
 
-{{Infobox Sector |Race=Split |SecLevel=Border |Population=16,616,837 |Planets=2 |SunLevel=150 |GateDist=70 |Gates={{Gateblock/Begin}} {{Gateblock2|North|15300| 0| 28188|[[Family Njy]]}} {{Gateblock2|West|-36288| 0| 0|[[Xenon Sector 472]]}} {{Gateblock/End}} }} ==Description== ===Encyclopedy Entry=== This deep space system is about as close as the Split get to a civilian operation. It produces food and other organic products and mines the asteroids that are spread throughout the system. Although there is little military presence all Split are required to complete combat training and civilian Split pilots are no easy target. ===Information=== Located East of Xenon Sector 472, Thyn's Abyss is subject to occasional Xenon incursions, much like [[Black Hole Sun]]. ==Default [[Stations]]== *[[Split Trading Station]] ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|26|-4796|-6692|14170}} {{Asteroid/Item|Ore|25|5772|-1140|6453}} {{Asteroid/Item|Ore|21|-13332|-4714|-15056}} {{Asteroid/Item|Ore|14|-895|-1599|-7590}} {{Asteroid/Item|Ore|14|-13819|6785|-19991}} {{Asteroid/Item|Ore|13|2763|2479|-3544}} {{Asteroid/Item|Ore|13|-8615|3858|-21004}} {{Asteroid/Item|Ore|9|-3900|-6096|759}} {{Asteroid/Item|Silicon|31|3250|5028|15310}} {{Asteroid/Item|Silicon|25|7154|123|-3417}} {{Asteroid/Item|Silicon|11|6504|-8440|11388}} {{Asteroid/Item|Silicon|11|13991|-5727|-13271}} {{Asteroid/End}} == See Also == {{Split Navbox}}
+===Information===
+Located East of Xenon Sector 472, Thyn's Abyss is subject to occasional Xenon incursions, much like [[Black Hole Sun]].
+
+==Default [[Stations]]==
+*[[Split Trading Station]]
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|26|-4796|-6692|14170}}
+{{Asteroid/Item|Ore|25|5772|-1140|6453}}
+{{Asteroid/Item|Ore|21|-13332|-4714|-15056}}
+{{Asteroid/Item|Ore|14|-895|-1599|-7590}}
+{{Asteroid/Item|Ore|14|-13819|6785|-19991}}
+{{Asteroid/Item|Ore|13|2763|2479|-3544}}
+{{Asteroid/Item|Ore|13|-8615|3858|-21004}}
+{{Asteroid/Item|Ore|9|-3900|-6096|759}}
+{{Asteroid/Item|Silicon|31|3250|5028|15310}}
+{{Asteroid/Item|Silicon|25|7154|123|-3417}}
+{{Asteroid/Item|Silicon|11|6504|-8440|11388}}
+{{Asteroid/Item|Silicon|11|13991|-5727|-13271}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Split Navbox}}

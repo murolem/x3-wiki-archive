@@ -1,3 +1,68 @@
-<!-- source file: index__qdd288bd517d5.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Paranid
+|station=Snail Ranch L
+|hull=2,250,000
+|shield=15
+|generator=1,500
+|hangar=5
+|cycle=00:01:00
+|productnum=[[Maja Snails]] (10)
+|stationprice={{Priceblock|Paranid Friend of Priest King|750000}}
+|reqresources=[[Energy Cells]] (75)<br>
+|optresources=[[Teladianium]]
+}}
+{{Infobox factory
+|faction=Paranid
+|station=Snail Ranch M
+|hull=900,000
+|shield=10
+|generator=1,500
+|hangar=5
+|cycle=00:01:00
+|productnum=[[Maja Snails]] (4)
+|stationprice={{Priceblock|Paranid Friend of Priest King|300012}}
+|reqresources=[[Energy Cells]] (30)<br>
+|optresources=[[Teladianium]]
+}}
+{{Infobox close}}
+==Overview==
+Paranid Snail Ranches produce [[Maja Snails]], used to make [[Majaglit]]. [[Energy Cells]] are necessary for the functioning of these stations.
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Paranid |station=Snail Ranch L |hull=2,250,000 |shield=15 |generator=1,500 |hangar=5 |cycle=00:01:00 |productnum=[[Maja Snails]] (10) |stationprice={{Priceblock|Paranid Friend of Priest King|750000}} |reqresources=[[Energy Cells]] (75)&lt;br> |optresources=[[Teladianium]] }} {{Infobox factory |faction=Paranid |station=Snail Ranch M |hull=900,000 |shield=10 |generator=1,500 |hangar=5 |cycle=00:01:00 |productnum=[[Maja Snails]] (4) |stationprice={{Priceblock|Paranid Friend of Priest King|300012}} |reqresources=[[Energy Cells]] (30)&lt;br> |optresources=[[Teladianium]] }} {{Infobox close}} ==Overview== Paranid Snail Ranches produce [[Maja Snails]], used to make [[Majaglit]]. [[Energy Cells]] are necessary for the functioning of these stations. NPC factories accept [[Teladianium]] as a secondary resource. ===Encyclopedia Entry=== In order to meet the increasing demand for Majaglit the Paranid have created a number of specialised snail farms dedicated to the breeding and farming of the Maja Snail. Inside these farms great artificial pools and rivers have been constructed to create an artificial environment where Maja Snails breed easily. ==Availability== This factory is unique to the Paranid. {| |- valign="top" | style="padding-right:5em;"| ===L-type=== {| style="text-align:left;" |- valign="top" | '''[[Paranid#Shipyards|Paranid]]''' *{{sa|Cardinal's Domain}} *{{sa|Heaven's Assertion}} *{{sa|Third Redemption}} *{{sa|Trinity Sanctum}} |} | ===M-type=== {| style="text-align:left;" |- valign="top" | '''[[Paranid#Shipyards|Paranid]]''' *{{sa|Duke's Citadel}} *{{sa|Heaven's Assertion}} *{{sa|Paranid Prime}} *{{sa|Third Redemption}} *{{sa|Trinity Sanctum}} |} |} {{Stationcategory}}
+NPC factories accept [[Teladianium]] as a secondary resource.
+
+===Encyclopedia Entry===
+In order to meet the increasing demand for Majaglit the Paranid have created a number of specialised snail farms dedicated to the breeding and farming of the Maja Snail. 
+
+Inside these farms great artificial pools and rivers have been constructed to create an artificial environment where Maja Snails breed easily.
+
+==Availability==
+This factory is unique to the Paranid.
+{|
+|- valign="top"
+| style="padding-right:5em;"|
+===L-type===
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Paranid#Shipyards|Paranid]]'''
+*{{sa|Cardinal's Domain}}
+*{{sa|Heaven's Assertion}}
+*{{sa|Third Redemption}}
+*{{sa|Trinity Sanctum}}
+|}
+
+|
+===M-type===
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Paranid#Shipyards|Paranid]]'''
+*{{sa|Duke's Citadel}}
+*{{sa|Heaven's Assertion}}
+*{{sa|Paranid Prime}}
+*{{sa|Third Redemption}}
+*{{sa|Trinity Sanctum}}
+|}
+|}
+
+{{Stationcategory}}

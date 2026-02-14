@@ -1,3 +1,33 @@
-<!-- source file: index__qf0e575482c61.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=Paranid
+|station=Hurricane Missile Factory
+|hull=
+|shield=
+|generator=
+|hangar=
+|cycle=00:00:00
+|productnum=[[Hurricane Missile]] ()
+|stationprice={{Priceblock|Friend of Priest King|2447632}}
+|reqresources=[[Energy Cells]] ()<br>[[Ore]] ()<br>[[Soja Husk]] ()
+}}
+{{Infobox close}}
+==Overview==
+Makes Hurricane missiles.
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction=Paranid |station=Hurricane Missile Factory |hull= |shield= |generator= |hangar= |cycle=00:00:00 |productnum=[[Hurricane Missile]] () |stationprice={{Priceblock|Friend of Priest King|2447632}} |reqresources=[[Energy Cells]] ()&lt;br>[[Ore]] ()&lt;br>[[Soja Husk]] () }} {{Infobox close}} ==Overview== Makes Hurricane missiles. NPC stations accept the following as secondary resources: * ===Encyclopedia Entry=== This factory produces the [[Hurricane Missile]]. A Proximity Charge device that will explode when near your target, causing area-wide damage. ==Availability== {| style="text-align:left;" |- valign="top" | '''[[Paranid#Shipyards|Paranid]]''' *{{sa|Heaven's Assertion}} *{{sa|Third Redemption}} |} {{Stationcategory}}
+NPC stations accept the following as secondary resources:
+*
+
+===Encyclopedia Entry===
+This factory produces the [[Hurricane Missile]]. A Proximity Charge device that will explode when near your target, causing area-wide damage.
+
+==Availability==
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Paranid#Shipyards|Paranid]]'''
+*{{sa|Heaven's Assertion}}
+*{{sa|Third Redemption}}
+|}
+
+{{Stationcategory}}

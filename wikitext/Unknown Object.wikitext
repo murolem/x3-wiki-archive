@@ -1,3 +1,57 @@
-<!-- source file: index__q257d9fc32753.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Unknown Object
+|Faction=Xenon
+|Class={{M3class}}
+|Priceblock=
+|Minspeed=
+|Maxspeed=113.3
+|Minaccel=
+|Maxaccel=
+|Minsteer=
+|Maxsteer=
+|Hull=
+|Maxshield=200 MJ
+|Shieldslots=4
+|Maxshieldstrength=800
+|Shieldreactor= 825
+|Cargoclass=L
+|Mincargo=
+|Maxcargo=150
+|Lasercap=10000
+|Laserrecharge=
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=
+|Guncount=
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
 
-{{Infobox open}} {{Infobox variant |Variant=Unknown Object |Faction=Xenon |Class={{M3class}} |Priceblock= |Minspeed= |Maxspeed=113.3 |Minaccel= |Maxaccel= |Minsteer= |Maxsteer= |Hull= |Maxshield=200 MJ |Shieldslots=4 |Maxshieldstrength=800 |Shieldreactor= 825 |Cargoclass=L |Mincargo= |Maxcargo=150 |Lasercap=10000 |Laserrecharge= |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot= |Guncount= |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== This particular variant of the 'unknown object' is a holdover from the plot of X3: Reunion, and is called a 'Xenon' Unknown object, despite being actually the model of the ship of the Sohnen Sargon, who played a large part in Reunion. In TC, it is not used in vanilla and lacks some facilities which would be expected of normal ships. (Cannot be sold) It also has a hull strength comparable to battleships. ==Background== ==Physical Characteristics== == Combat == == Equipment == == Availability == == Suggested Roles== == See Also== {{M3category}}
+This particular variant of the 'unknown object' is a holdover from the plot of X3: Reunion, and is called a 'Xenon' Unknown object, despite being actually the model of the ship of the Sohnen Sargon, who played a large part in Reunion. 
+
+In TC, it is not used in vanilla and lacks some facilities which would be expected of normal ships. (Cannot be sold) It also has a hull strength comparable to battleships.
+
+==Background==
+==Physical Characteristics==
+== Combat ==
+== Equipment ==
+== Availability ==
+== Suggested Roles==
+== See Also==
+
+{{M3category}}

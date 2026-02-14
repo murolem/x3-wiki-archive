@@ -1,3 +1,18 @@
-<!-- source file: index__q09773ccc5c6e.html -->
+Questline: [[x3ap_quests | X3:AP Quests]]
 
-Questline: [[x3ap_quests | X3:AP Quests]] You must protect the Supply mammoth from the Terrans to help remove the Terran Threat. # Fly to [[Interworlds]] # Protect Supply [[Mammoth]] from Terran [[Claymore]] [[M8 | M8 Bombers]] # Patrol the sector # Defend against Terran [[M2 | M2 Destroyer]] [[Kyoto]] (Stay in back while Argons take care of it) ===Completion Rewards=== none(?) {{MoveBox|X3ap:2_Jonferco_Eavesdrop|X3ap:4_Jonferco_Under_Attack!}}
+
+You must protect the Supply mammoth from the Terrans to help remove the Terran Threat.
+
+# Fly to [[Interworlds]]
+# Protect Supply [[Mammoth]] from Terran [[Claymore]] [[M8 | M8 Bombers]]
+# Patrol the sector
+# Defend against Terran [[M2 | M2 Destroyer]] [[Kyoto]] (Stay in back while Argons take care of it)
+
+
+===Completion Rewards===
+
+none(?)
+
+
+
+{{MoveBox|X3ap:2_Jonferco_Eavesdrop|X3ap:4_Jonferco_Under_Attack!}}

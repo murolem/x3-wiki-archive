@@ -1,3 +1,132 @@
-<!-- source file: index__q7a0752044c4d.html -->
+{{Infobox Faction
+|Faction=Paranid
+|Speciestype= Insectoid
+|Homeworld=[[Paranid Prime]]
+|Systems= 27
+|Population=
+|Government= Theocracy
+|Ranks= {{Rank List|Honour Guard of Xaar
+|Seeker of the Holy Light
+|Emperor's Protectorate
+|Friend of Emperor
+|Priest Protectorate
+|Friend of Priest King
+|Friend of Priest Duke
+|Priest Confidante
+|Friend of Priest
+|Friend
+|Nomad
+|Unholy Nomad
+|Tainted Wanderer
+|Desecrator of Holy Light
+|Enemy of Priest Duke
+|Enemy of Priest Xaar}}
+}}
+=General=
+The Paranid are allied with the Split even though there have been many disagreements between them. They are also allied with the Teladi because both races are members of the Profit Guild. For this reason the Paranid allow all other races to trade freely thoughout their territory. However, because of strained relations between the Paranid and the Argon, trade is the only contact these two races have with each other. They adhere strictly to their ancient and strange rites and religious beliefs which are a mystery to other races. It is virtually impossible to befriend or even understand them. Their religion also forbids non Paranid to settle or live in a Paranid colony. This law is really of little consequence because very few outsiders are interested in settling in Paranid colonies. This is due to the fact that the Paranid prefer to settle on planets that are much too hot and humid for other races.
 
-{{Infobox Faction |Faction=Paranid |Speciestype= Insectoid |Homeworld=[[Paranid Prime]] |Systems= 27 |Population= |Government= Theocracy |Ranks= {{Rank List|Honour Guard of Xaar |Seeker of the Holy Light |Emperor's Protectorate |Friend of Emperor |Priest Protectorate |Friend of Priest King |Friend of Priest Duke |Priest Confidante |Friend of Priest |Friend |Nomad |Unholy Nomad |Tainted Wanderer |Desecrator of Holy Light |Enemy of Priest Duke |Enemy of Priest Xaar}} }} =General= The Paranid are allied with the Split even though there have been many disagreements between them. They are also allied with the Teladi because both races are members of the Profit Guild. For this reason the Paranid allow all other races to trade freely thoughout their territory. However, because of strained relations between the Paranid and the Argon, trade is the only contact these two races have with each other. They adhere strictly to their ancient and strange rites and religious beliefs which are a mystery to other races. It is virtually impossible to befriend or even understand them. Their religion also forbids non Paranid to settle or live in a Paranid colony. This law is really of little consequence because very few outsiders are interested in settling in Paranid colonies. This is due to the fact that the Paranid prefer to settle on planets that are much too hot and humid for other races. ==Government and politics== The Paranid are a vulture-like race and are strongly religious. ===Foreign relations and military=== The Paranid maintain cold diplomatic relations with the [[Argon]] and a loose alliance with the [[Split]]. They are neutral to the [[Teladi]] and are members of the Teladi-founded Profit Guild. ==History== ==Culture== Religion is a central part of Paranid society and at least one sector (and a planet, provided it is present) has a ruling Priest Duke to oversee operations. The Priest Emperor Xaar resides in the capital planet of Paranid Prime and all Paranid must show utmost respect to their emperor lest they be branded as unholy outcasts. The Paranid have a deep affinity for mathematics and their extensive knowledge is reflected on their technology, which is greatly admired by the other races; although this is treated with begrudging respect by Argon people thanks to having soured relations after the First Xenon Conflict and the later Boron Campaign. Their deeply religious attitude makes Paranids condescending and supercilious towards other races, which turns off potential diplomatic relations with them. ==Geography and Climate== The Paranid tend to live in planets that have hot, humid climates and usually volcanic or desert-laden topography in levels that make it unsustainable for other races to settle in. =Science and Technology= ===Ships=== The Paranid have always understood how to construct good combat ships. They have the best fighting capabilities of all the fleets in the X-Universe. Unfortunately, their designers have little imagination and only required functionality is added to their ships. Comfort is discarded for more practical amenities. But, if you are looking for a ship that will still be intact after a heavy skirmish, a Paranid ship would make an excellent choice. In reality, Paranid ships can often be outclassed by [[Terran]] ships, some [[OTAS]] ships, and a few of the best designs some races have to offer. However, they often have versatile armament options combined with good overall combat qualities. Paranid ships are almost always reliably some of the best combatants in their class. A downside is that they tend to have small storage space, leaving less room for missiles and other random goodies. It was Paranid engineers who developed the Phased Shockwave Generator and the Fragmentation Bomb Launcher. Both of these weapons were designed to have a wider area of fire than your standard issue laser. The Paranid were forced to sell the designs of the Particle Accelerator Cannon to other races during their recent recession which some have said, with much sneering, was caused because of the small cargo bays in their ships. The sale of plans for any future weapons was prohibited by the Paranid secret service. Paranid ships are powerful and, like their Argon counterparts, reasonably balanced, but with the addition some of their own powerful weaponry such as the [[Phased Shockwave Generator]]. Their most successful ship design is the much praised [[Hyperion]] class M6 corvette which balances firepower, speed, cargo space and a hanger bay to make it a very powerful ship. They also possess the [[Deimos]], which has excellent speed, its own small hangar bay, and the max shields of many [[M1]] class ships, despite being an [[M7]]. Their [[Agamemnon]] is another powerful M7, a unique ship that is very similar to the Deimos but with better capabilities for mounting capital weapons. *[[Zeus|M1 Paranid Zeus]] *[[Odysseus|M2 Paranid Odysseus]] *[[Perseus|M3 Paranid Perseus]] *[[Medusa|M3+ Paranid Medusa]] *[[Pericles|M4 Paranid Pericles]] *[[Theseus|M4+ Paranid Theseus]] *[[Pegasus|M5 Paranid Pegasus]] *[[Nemesis|M6 Paranid Nemesis]] *[[Heavy_Nemesis|M6+ Paranid Heavy Nemesis]] *[[Hyperion|M6+ Paranid Hyperion]] *[[Deimos|M7 Paranid Deimos]] *[[Agamemnon|M7 Paranid Agamemnon]] *[[Ares|M7M Paranid Ares]] *[[Hades|M8 Paranid Hades]] *[[Hercules|TL Paranid Hercules]] *[[Demeter|TS Paranid Demeter]] *[[Hermes|TP Paranid Hermes]] *[[Helios|TM Paranid Helios]] Albion Prelude Ships *[[Ariadne|M7C Paranid Ariadne]] *[[Snotra|TS+ Paranid Snotra]] ===Stations=== ====Shipyards==== Paranid Shipyards are known as [[Paranid Shipyard]]s and are known to exist in the following sectors: *[[Paranid Prime]] *[[Trinity Sanctum]] *[[Third Redemption]] (super) *[[Cardinal's Domain]] *[[Heaven's Assertion]] (super) *[[Duke's Citadel]] =Territories= {| cellpadding="10" |- valign="top" | ==Core Worlds== #[[Cardinal's Domain]] #[[Duke's Citadel]] #[[Duke's Domain]] #[[Empire's Edge]] #[[Paranid Prime]] #[[Priest Rings]] #[[Trinity Sanctum]] | ==Border Worlds== #[[Clarity's End]] #[[Consecrated Fire]] #[[Duke's Vision]] #[[Emperor Mines]] #[[Emperor's Ridge]] #[[Emperor's Wisdom]] #[[Friar's Retreat]] #[[Heaven's Assertion]] #[[Perdition's End]] #[[Perpetual Sin]] #[[Pontifex' Realm]] #[[Pontifex's Seclusion]] #[[Preacher's Refuge]] #[[Preacher's Void]] #[[Priest Refuge]] #[[Priest's Pity]] #[[Sacred Relic]] #[[Spring Of Belief]] #[[Third Redemption]] #[[Unholy Descent]] |} =Food= [[Soja Husk]] {{Races}} {{Paranid Navbox}}
+==Government and politics==
+The Paranid are a vulture-like race and are strongly religious.
+===Foreign relations and military===
+The Paranid maintain cold diplomatic relations with the [[Argon]] and a loose alliance with the [[Split]]. They are neutral to the [[Teladi]] and are members of the Teladi-founded Profit Guild.
+
+==History==
+
+
+==Culture==
+
+Religion is a central part of Paranid society and at least one sector (and a planet, provided it is present) has a ruling Priest Duke to oversee operations. The Priest Emperor Xaar resides in the capital planet of Paranid Prime and all Paranid must show utmost respect to their emperor lest they be branded as unholy outcasts. The Paranid have a deep affinity for mathematics and their extensive knowledge is reflected on their technology, which is greatly admired by the other races; although this is treated with begrudging respect by Argon people thanks to having soured relations after the First Xenon Conflict and the later Boron Campaign. Their deeply religious attitude makes Paranids condescending and supercilious towards other races, which turns off potential diplomatic relations with them.
+
+==Geography and Climate==
+
+The Paranid tend to live in planets that have hot, humid climates and usually volcanic or desert-laden topography in levels that make it unsustainable for other races to settle in.
+
+=Science and Technology=
+===Ships===
+The Paranid have always understood how to construct good combat ships. They have the best fighting capabilities of all the fleets in the X-Universe. Unfortunately, their designers have little imagination and only required functionality is added to their ships. Comfort is discarded for more practical amenities. But, if you are looking for a ship that will still be intact after a heavy skirmish, a Paranid ship would make an excellent choice.
+
+In reality, Paranid ships can often be outclassed by [[Terran]] ships, some [[OTAS]] ships, and a few of the best designs some races have to offer. However, they often have versatile armament options combined with good overall combat qualities. Paranid ships are almost always reliably some of the best combatants in their class. A downside is that they tend to have small storage space, leaving less room for missiles and other random goodies.
+
+It was Paranid engineers who developed the Phased Shockwave Generator and the Fragmentation Bomb Launcher. Both of these weapons were designed to have a wider area of fire than your standard issue laser.
+
+The Paranid were forced to sell the designs of the Particle Accelerator Cannon to other races during their recent recession which some have said, with much sneering, was caused because of the small cargo bays in their ships. The sale of plans for any future weapons was prohibited by the Paranid secret service.
+
+Paranid ships are powerful and, like their Argon counterparts, reasonably balanced, but with the addition some of their own powerful weaponry such as the [[Phased Shockwave Generator]].
+
+Their most successful ship design is the much praised [[Hyperion]] class M6 corvette which balances firepower, speed, cargo space and a hanger bay to make it a very powerful ship. They also possess the [[Deimos]], which has excellent speed, its own small hangar bay, and the max shields of many [[M1]] class ships, despite being an [[M7]]. Their [[Agamemnon]] is another powerful M7, a unique ship that is very similar to the Deimos but with better capabilities for mounting capital weapons.
+
+*[[Zeus|M1 Paranid Zeus]]
+*[[Odysseus|M2 Paranid Odysseus]]
+*[[Perseus|M3 Paranid Perseus]]
+*[[Medusa|M3+ Paranid Medusa]]
+*[[Pericles|M4 Paranid Pericles]]
+*[[Theseus|M4+ Paranid Theseus]]
+*[[Pegasus|M5 Paranid Pegasus]]
+*[[Nemesis|M6 Paranid Nemesis]]
+*[[Heavy_Nemesis|M6+ Paranid Heavy Nemesis]]
+*[[Hyperion|M6+ Paranid Hyperion]]
+*[[Deimos|M7 Paranid Deimos]]
+*[[Agamemnon|M7 Paranid Agamemnon]]
+*[[Ares|M7M Paranid Ares]]
+*[[Hades|M8 Paranid Hades]]
+*[[Hercules|TL Paranid Hercules]]
+*[[Demeter|TS Paranid Demeter]]
+*[[Hermes|TP Paranid Hermes]]
+*[[Helios|TM Paranid Helios]]
+Albion Prelude Ships
+*[[Ariadne|M7C Paranid Ariadne]]
+*[[Snotra|TS+ Paranid Snotra]]
+
+===Stations===
+====Shipyards====
+Paranid Shipyards are known as [[Paranid Shipyard]]s and are known to exist in the following sectors:
+*[[Paranid Prime]]
+*[[Trinity Sanctum]]
+*[[Third Redemption]] (super)
+*[[Cardinal's Domain]]
+*[[Heaven's Assertion]] (super)
+*[[Duke's Citadel]]
+
+=Territories=
+{| cellpadding="10"
+|- valign="top"
+|
+==Core Worlds==
+#[[Cardinal's Domain]]
+#[[Duke's Citadel]]
+#[[Duke's Domain]]
+#[[Empire's Edge]]
+#[[Paranid Prime]]
+#[[Priest Rings]]
+#[[Trinity Sanctum]]
+
+|
+==Border Worlds==
+#[[Clarity's End]]
+#[[Consecrated Fire]]
+#[[Duke's Vision]]
+#[[Emperor Mines]]
+#[[Emperor's Ridge]]
+#[[Emperor's Wisdom]]
+#[[Friar's Retreat]]
+#[[Heaven's Assertion]]
+#[[Perdition's End]]
+#[[Perpetual Sin]]
+#[[Pontifex' Realm]]
+#[[Pontifex's Seclusion]]
+#[[Preacher's Refuge]]
+#[[Preacher's Void]]
+#[[Priest Refuge]]
+#[[Priest's Pity]]
+#[[Sacred Relic]]
+#[[Spring Of Belief]]
+#[[Third Redemption]]
+#[[Unholy Descent]]
+|}
+
+=Food=
+[[Soja Husk]]
+
+{{Races}}
+
+{{Paranid Navbox}}

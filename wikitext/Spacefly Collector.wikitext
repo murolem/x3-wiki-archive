@@ -1,3 +1,13 @@
-<!-- source file: index__qbb0eed34c5fb.html -->
-
-{{Infobox open}} {{Infobox ware |ware=Spacefly Collector |cargoclass=S |volume=5 |minprice=27,234 |aveprice=28,076 |maxprice=28,918 }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== Although [[Spaceflies|Spacefly]] collecting is illegal, the flies have become the most costly commodity in the universe. These small creatures are lured by the high-resonance wave of the device, into the ship's hold. These spaceflies are then sold to anyone who will take them, automatically making a profit. This activity is illegal but within pirate communities it has become a way of life.
+{{Infobox open}}
+{{Infobox ware
+|ware=Spacefly Collector
+|cargoclass=S
+|volume=5
+|minprice=27,234
+|aveprice=28,076
+|maxprice=28,918
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+Although [[Spaceflies|Spacefly]] collecting is illegal, the flies have become the most costly commodity in the universe. These small creatures are lured by the high-resonance wave of the device, into the ship's hold. These spaceflies are then sold to anyone who will take them, automatically making a profit. This activity is illegal but within pirate communities it has become a way of life.

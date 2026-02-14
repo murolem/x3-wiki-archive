@@ -1,3 +1,130 @@
-<!-- source file: index__q35de8fec5762.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Geochen
+|Faction=Teladi
+|Class={{TPclass}}
+|Priceblock={{Priceblock|Company Manager|1460659}}
+|Minspeed=74
+|Maxspeed=148
+|Minaccel=4
+|Maxaccel=8
+|Minsteer=2.0
+|Maxsteer=5.7
+|Hull= 67,500
+|Maxshield=200 MJ
+|Shieldslots=1
+|Maxshieldstrength=200
+|Shieldreactor= 450
+|Cargoclass=L
+|Mincargo=750
+|Maxcargo=1100
+|Lasercap=1050
+|Laserrecharge=10
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=4
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Up
+|Guncount=2
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Down
+|Guncount=2
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Back
+|Guncount=2
+|ire=1|pac=1|hept=1|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=1|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The Geochen is a Teladi TP ship introduced in Albion Prelude.
 
-{{Infobox open}} {{Infobox variant |Variant=Geochen |Faction=Teladi |Class={{TPclass}} |Priceblock={{Priceblock|Company Manager|1460659}} |Minspeed=74 |Maxspeed=148 |Minaccel=4 |Maxaccel=8 |Minsteer=2.0 |Maxsteer=5.7 |Hull= 67,500 |Maxshield=200 MJ |Shieldslots=1 |Maxshieldstrength=200 |Shieldreactor= 450 |Cargoclass=L |Mincargo=750 |Maxcargo=1100 |Lasercap=1050 |Laserrecharge=10 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=4 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Up |Guncount=2 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Down |Guncount=2 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Back |Guncount=2 |ire=1|pac=1|hept=1| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=1| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The Geochen is a Teladi TP ship introduced in Albion Prelude. ==Background== The Geochen is an unusual ship; a luxury liner designed by a race with very little sense for aesthetics or luxury in general. The design and controls were modified for non-Teladi pilots, as even the manufacturers of the Geochen realized that the ship would have little marketability among the Teladi themselves. Even so, the ship is still built on the tried and tested basic Teladi principles of high shielding and relatively low speed. The huge cargo bay is another bonus, allowing it to hold months' worth of provisions for solitary exile voyages. ==Physical Characteristics== The Geochen looks like a scaled-down Albatross. Like other Teladi ships, it looks like it was cobbled together from spare parts. == Combat == The Geochen is surprisingly dangerous for a TP. Though its laser generator is weak, it is capable of mounting the energy-efficient [[Energy Bolt Chaingun]] in three of its slots, and can use the deadly [[Plasma Burst Generator]] in its main cannon. == Equipment == '''Built-In Equipment''' *[[Cargo Life Support System]] '''Missiles''' {|- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Silkworm Missile]] *[[Disruptor Missile]] | *[[Hurricane Missile]] *[[Remote Guided Warhead]] *[[Wildfire Missile]] |} == Availability == {| style="text-align:center;" |- style="{{Colour/Teladi}}" ! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]] |- ! style="text-align:left;" |Geochen || x || || || || || |} == Suggested Roles== [[Marine]] storage or Passenger Transport missions. == See Also== {{TP}} {{TPcategory}} [[Category:Teladi ships]] {{Teladi Navbox}}
+==Background==
+The Geochen is an unusual ship; a luxury liner designed by a race with very little sense for aesthetics or luxury in general. The design and controls were modified for non-Teladi pilots, as even the manufacturers of the Geochen realized that the ship would have little marketability among the Teladi themselves. Even so, the ship is still built on the tried and tested basic Teladi principles of high shielding and relatively low speed. The huge cargo bay is another bonus, allowing it to hold months' worth of provisions for solitary exile voyages.
+
+==Physical Characteristics==
+The Geochen looks like a scaled-down Albatross. Like other Teladi ships, it looks like it was cobbled together from spare parts.
+== Combat ==
+The Geochen is surprisingly dangerous for a TP.  Though its laser generator is weak, it is capable of mounting the energy-efficient [[Energy Bolt Chaingun]] in three of its slots, and can use the deadly [[Plasma Burst Generator]] in its main cannon.
+== Equipment ==
+'''Built-In Equipment'''
+*[[Cargo Life Support System]]
+
+'''Missiles'''
+{|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Silkworm Missile]]
+*[[Disruptor Missile]]
+|
+*[[Hurricane Missile]]
+*[[Remote Guided Warhead]]
+*[[Wildfire Missile]]
+|}
+== Availability ==
+{| style="text-align:center;"
+|- style="{{Colour/Teladi}}"
+! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]]
+|-
+! style="text-align:left;" |Geochen || x || || || || ||
+|}
+
+== Suggested Roles==
+[[Marine]] storage or Passenger Transport missions.
+== See Also==
+{{TP}}
+{{TPcategory}}
+[[Category:Teladi ships]]
+
+
+{{Teladi Navbox}}

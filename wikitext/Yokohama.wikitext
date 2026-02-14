@@ -1,3 +1,147 @@
-<!-- source file: index__qb94aabdcd44f.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Yokohama
+|Faction=Terran
+|Class={{M7class}}
+|Priceblock={{Priceblock|| 34950881}}
+|Minspeed=56
+|Maxspeed=112
+|Minaccel=7
+|Maxaccel=14
+|Minsteer=1.6
+|Maxsteer=3.2
+|Hull=510,000
+|Maxshield=1 GJ
+|Shieldslots=5
+|Maxshieldstrength=5000
+|Shieldreactor=7150
+|Cargoclass=XL
+|Mincargo=2000
+|Maxcargo=2800
+|Lasercap=71900
+|Laserrecharge=1,617
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=1|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Down
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=1|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Up
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=1|ssc=1|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+Small and compact, the '''Yokohama''' is almost [[M6|corvette]]-sized. Coupled with its strong shields, this makes it very difficult to destroy. However, it is incapable of mounting any form of anti-capital weapon, making it the frigate with the least offensive potential against larger ships. It is best used in an anti-fighter role or to beat down [[M6|corvettes]] and other [[M7|frigates]].
 
-{{Infobox open}} {{Infobox variant |Variant=Yokohama |Faction=Terran |Class={{M7class}} |Priceblock={{Priceblock|| 34950881}} |Minspeed=56 |Maxspeed=112 |Minaccel=7 |Maxaccel=14 |Minsteer=1.6 |Maxsteer=3.2 |Hull=510,000 |Maxshield=1 GJ |Shieldslots=5 |Maxshieldstrength=5000 |Shieldreactor=7150 |Cargoclass=XL |Mincargo=2000 |Maxcargo=2800 |Lasercap=71900 |Laserrecharge=1,617 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=1|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Right |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Left |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Down |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=1|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Up |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=1|ssc=1|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== Small and compact, the '''Yokohama''' is almost [[M6|corvette]]-sized. Coupled with its strong shields, this makes it very difficult to destroy. However, it is incapable of mounting any form of anti-capital weapon, making it the frigate with the least offensive potential against larger ships. It is best used in an anti-fighter role or to beat down [[M6|corvettes]] and other [[M7|frigates]]. ==Background== The Yokohama [[M7|frigate]] excels at providing stand-off support and protection to a carrier task force. ==Physical Characteristics== White colored and compact, the Yokohama appears to be an extension of the [[Terran]] [[Katana]] design, with a nearly identical frame and sloping bow. The exposed main gun mounts of the [[Katana]] are moved to directly below the Yokohama's bridge and small wings extend from each side in their place. The Yokohama's bridge, like the Katana's, offers a completely unobstructed view of space. == Combat == In a straight fight versus other capital ships, the Yokohama's advantage in defence is nullified by its weakness in attack. The [[M6|corvette]]-level [[Matter/Anti-Matter Launcher]] lacks the punch of the [[Commonwealth]] frigates' [[Incendiary Bomb Launcher]], but it does give the Yokohama a unique advantage in its lack of weapon energy drain. As such, the Yokohama has greater endurance than most of its [[Commonwealth]] counterparts and will keep firing for longer than others in large battles against multiple capital opponents. Alternatively, the Yokohama can equip up to twelve [[Starburst Shockwave Cannon]]s, which, combined with its above average shielding, make it extremely effective in an anti-fighter role. With this load-out and a sufficient number of the extraordinarily potent [[Wraith Missile]], the Yokohama can destroy any opponent. Unfortunately the paltry cargo capacity ensures difficulty in crafting a truly versatile load out, especially when considering M/AML ammo. Yokohamas have issues with their turret coverage; sticking close to the lower right or left hand corners of the ship expose you/enemies to only one turret. If you manage to park a ship directly under it towards the rear and fire, it is a complete blind-spot, leaving the Yokohama helpless as long as you maintain a similar speed to it. == Equipment == '''Hardpoints:''' *[[Electro-Magnetic Plasma Cannon]] *[[Matter/Anti-Matter Launcher]] *[[Starburst Shockwave Cannon]] '''Missiles:''' *[[Wraith Missile]] *[[Poltergeist Missile]] *[[Spectre Missile]] == Availability == The Yokohama is available for purchase from [[Terran Shipyard]]s in the following sectors: *[[Mars]] *[[The Moon]] *[[Saturn]] == Suggested Roles== The Yokohama is an effective patrol leader in sectors frequented by pirates. Specializing in an anti-fighter role, it can also serve as an effective escort for larger ships. Equipped with twelve SSCs and four EMPCs, the Yokohama also proves quite effective as an [[OOS]] fast response vessel, capable of taking out a [[Xenon Q]] with fighter escort in approximately 30 seconds. This is provided the player watches the fight, which tends to prevent the Q from "one-shotting" the Yokohama. == See Also== * [[Maccana|Terran Maccana]] {{M7}} {{Terran Navbox}}
+==Background==
+The Yokohama [[M7|frigate]] excels at providing stand-off support and protection to a carrier task force.
+
+==Physical Characteristics==
+White colored and compact, the Yokohama appears to be an extension of the [[Terran]] [[Katana]] design, with a nearly identical frame and sloping bow. The exposed main gun mounts of the [[Katana]] are moved to directly below the Yokohama's bridge and small wings extend from each side in their place. The Yokohama's bridge, like the Katana's, offers a completely unobstructed view of space.
+
+== Combat ==
+In a straight fight versus other capital ships, the Yokohama's advantage in defence is nullified by its weakness in attack. The [[M6|corvette]]-level [[Matter/Anti-Matter Launcher]] lacks the punch of the [[Commonwealth]] frigates' [[Incendiary Bomb Launcher]], but it does give the Yokohama a unique advantage in its lack of weapon energy drain. As such, the Yokohama has greater endurance than most of its [[Commonwealth]] counterparts and will keep firing for longer than others in large battles against multiple capital opponents.
+
+Alternatively, the Yokohama can equip up to twelve [[Starburst Shockwave Cannon]]s, which, combined with its above average shielding, make it extremely effective in an anti-fighter role. With this load-out and a sufficient number of the extraordinarily potent [[Wraith Missile]], the Yokohama can destroy any opponent. Unfortunately the paltry cargo capacity ensures difficulty in crafting a truly versatile load out, especially when considering M/AML ammo.
+
+Yokohamas have issues with their turret coverage; sticking close to the lower right or left hand corners of the ship expose you/enemies to only one turret. If you manage to park a ship directly under it towards the rear and fire, it is a complete blind-spot, leaving the Yokohama helpless as long as you maintain a similar speed to it.
+
+== Equipment ==
+'''Hardpoints:'''
+*[[Electro-Magnetic Plasma Cannon]]
+*[[Matter/Anti-Matter Launcher]]
+*[[Starburst Shockwave Cannon]]
+
+'''Missiles:'''
+*[[Wraith Missile]]
+*[[Poltergeist Missile]]
+*[[Spectre Missile]]
+
+== Availability ==
+The Yokohama is available for purchase from [[Terran Shipyard]]s in the following sectors:
+*[[Mars]]
+*[[The Moon]]
+*[[Saturn]]
+
+== Suggested Roles==
+The Yokohama is an effective patrol leader in sectors frequented by pirates. Specializing in an anti-fighter role, it can also serve as an effective escort for larger ships.
+
+Equipped with twelve SSCs and four EMPCs, the Yokohama also proves quite effective as an [[OOS]] fast response vessel, capable of taking out a [[Xenon Q]] with fighter escort in approximately 30 seconds. This is provided the player watches the fight, which tends to prevent the Q from "one-shotting" the Yokohama.
+
+== See Also==
+
+* [[Maccana|Terran Maccana]]
+
+{{M7}}
+
+{{Terran Navbox}}

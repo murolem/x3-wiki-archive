@@ -1,3 +1,16 @@
-<!-- source file: index__q3ccfaf1c9d0c.html -->
+{{Infobox open}}
+{{Infobox missile|Missile=Firelance Missile|Yield=4500|Speed=500|Range=50|Cooldown=|Seeker=Autonomous|Submunitions=1|Fusing=Proximity|Torpedoclass=|Guidance=Dumbfire|AoE=}}
+{{Infobox ware|ware=Firelance Missile|cargoclass=S|volume=1|minprice=|aveprice= 2696  |maxprice=}}
+{{Infobox close}}
+==Overview==
+The Firelance missile is an uncommon light [[Missiles#Overview|dumbfire]] missile. It is only marginally useful, due to its lack of guidance and relatively light damage. If used, it is probably best for very close range runs against slower enemy fighters or launched in barrages against moderately sized ships such as [[M6]]s just to get rid of them.
 
-{{Infobox open}} {{Infobox missile|Missile=Firelance Missile|Yield=4500|Speed=500|Range=50|Cooldown=|Seeker=Autonomous|Submunitions=1|Fusing=Proximity|Torpedoclass=|Guidance=Dumbfire|AoE=}} {{Infobox ware|ware=Firelance Missile|cargoclass=S|volume=1|minprice=|aveprice= 2696 |maxprice=}} {{Infobox close}} ==Overview== The Firelance missile is an uncommon light [[Missiles#Overview|dumbfire]] missile. It is only marginally useful, due to its lack of guidance and relatively light damage. If used, it is probably best for very close range runs against slower enemy fighters or launched in barrages against moderately sized ships such as [[M6]]s just to get rid of them. ===Encyclopedia Entry=== The Firelance Missile was developed by the Paranid Military, however this missile was phased out of service. Some stockpiles were not accounted for after decommisioning, and have yet to be found. ==Commentary== This missile is not available to buy and can only be acquired by scouring the remaining detritus from a destroyed ship's cargo bay. It's hardly a useful munition in combat, only becoming important during the Corporation-sponsored Delivery Missions. All in all, just another dumbfire munition that clearly pales in comparison to the much more useful [[Tornado Missile|Tornado]]. [[Category:Proximity-fuse missiles]] {{Missile Navbox}} [[Category:Not Purchasable]]
+===Encyclopedia Entry===
+The Firelance Missile was developed by the Paranid Military, however this missile was phased out of service. Some stockpiles were not accounted for after decommisioning, and have yet to be found.
+
+==Commentary==
+This missile is not available to buy and can only be acquired by scouring the remaining detritus from a destroyed ship's cargo bay. It's hardly a useful munition in combat, only becoming important during the Corporation-sponsored Delivery Missions. All in all, just another dumbfire munition that clearly pales in comparison to the much more useful [[Tornado Missile|Tornado]].
+
+[[Category:Proximity-fuse missiles]]
+{{Missile Navbox}}
+[[Category:Not Purchasable]]

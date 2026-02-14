@@ -1,3 +1,83 @@
-<!-- source file: index__q3b5c4af4108e.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= Rapier
+|Faction=Terran
+|Class={{M5class}}
+|Priceblock={{Priceblock|Regional Representative| 61802 }}
+|Minspeed=131
+|Maxspeed=458.5 
+|Minaccel=64
+|Maxaccel=225
+|Minsteer=16.4
+|Maxsteer=57.6
+|Hull=1300
+|Maxshield=1 MJ
+|Shieldslots=5
+|Maxshieldstrength=5
+|Shieldreactor= 130 
+|Cargoclass=S
+|Mincargo=20
+|Maxcargo=100
+|Lasercap=5000 
+|Laserrecharge=25
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=2
+|ire=0|pac=0|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=1|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The '''Rapier''' is fast and is amongst the most well-defended and powerful [[M5]]s. However, the inability to mount a [[Triplex Scanner]] means that it is not the first choice for a scout ship.
 
-{{Infobox open}} {{Infobox variant |Variant= Rapier |Faction=Terran |Class={{M5class}} |Priceblock={{Priceblock|Regional Representative| 61802 }} |Minspeed=131 |Maxspeed=458.5 |Minaccel=64 |Maxaccel=225 |Minsteer=16.4 |Maxsteer=57.6 |Hull=1300 |Maxshield=1 MJ |Shieldslots=5 |Maxshieldstrength=5 |Shieldreactor= 130 |Cargoclass=S |Mincargo=20 |Maxcargo=100 |Lasercap=5000 |Laserrecharge=25 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=2 |ire=0|pac=0|hept=0| cig=0|ppc=0| md=0|us=0|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=1|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The '''Rapier''' is fast and is amongst the most well-defended and powerful [[M5]]s. However, the inability to mount a [[Triplex Scanner]] means that it is not the first choice for a scout ship. ==Background== The USC's ability to patrol remote areas of the Solar System and to reconnoiter hostile territory is due in no small part to the Rapier's agility and speed. ==Physical Characteristics== The Rapier has a streamlined, rocket-shaped fuselage with three thrusters. Like all [[Terran]] ships, it is white with red trim. == Combat == The Rapier can be used as a very light fighter. However, its weapons are very expensive, and since M5s do not have a high survival rate in fights, it is best employed away from anything that will shoot at it. As a personal ship the [[EMPC]] battery and [[Poltergeist Missile]]s make it one of the strongest M5s, capable of bringing down [[M3]]s with relative ease. Unfortunately, the small weapons power generator makes it ill-suited to intense combat. == Equipment == *[[Poltergeist Missile]] == Availability == The Rapier is available at all Terran shipyards. {| style="text-align:center;" |+'''Availability''' |- style="{{Colour/Terran}}" ! Variant !![[Mars]] !! [[The Moon]] !! [[Saturn]] !! [[Terran Unknown Sector 1]] |- ! Rapier || x || x || x || x |} == Suggested Roles== The Rapier is a bit of an oddball and not suited to most M5 roles. It can't mount a Triplex Scanner, limiting its utility as a sensor platform. Its weapons are too expensive for the high attrition the M5 frame suffers to make it a good screening element. It isn't the fastest M5 making it unsuitable for a courier. Perhaps its best use is to chase down and kill another M5. == See Also== {{M5}} {{M5category}} [[Category:Terran ships]] {{Terran Navbox}}
+==Background==
+The USC's ability to patrol remote areas of the Solar System and to reconnoiter hostile territory is due in no small part to the Rapier's agility and speed.
+
+==Physical Characteristics==
+The Rapier has a streamlined, rocket-shaped fuselage with three thrusters.  Like all [[Terran]] ships, it is white with red trim.
+
+== Combat ==
+The Rapier can be used as a very light fighter.  However, its weapons are very expensive, and since M5s do not have a high survival rate in fights, it is best employed away from anything that will shoot at it.
+
+As a personal ship the [[EMPC]] battery and [[Poltergeist Missile]]s make it one of the strongest M5s, capable of bringing down [[M3]]s with relative ease. Unfortunately, the small weapons power generator makes it ill-suited to intense combat.
+
+== Equipment ==
+*[[Poltergeist Missile]]
+
+== Availability ==
+The Rapier is available at all Terran shipyards.
+{| style="text-align:center;"
+|+'''Availability'''
+|- style="{{Colour/Terran}}"
+! Variant !![[Mars]] !! [[The Moon]] !! [[Saturn]] !! [[Terran Unknown Sector 1]]
+|-
+! Rapier || x || x || x || x
+|}
+
+== Suggested Roles==
+The Rapier is a bit of an oddball and not suited to most M5 roles. 
+
+It can't mount a Triplex Scanner, limiting its utility as a sensor platform.  Its weapons are too expensive for the high attrition the M5 frame suffers to make it a good screening element. It isn't the fastest M5 making it unsuitable for a courier.
+
+Perhaps its best use is to chase down and kill another M5.
+
+== See Also==
+{{M5}}
+
+{{M5category}}
+[[Category:Terran ships]]
+
+{{Terran Navbox}}

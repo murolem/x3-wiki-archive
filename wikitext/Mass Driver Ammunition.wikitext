@@ -1,3 +1,29 @@
-<!-- source file: index__q137cd5c179e4.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Mass Driver Ammunition
+|cargoclass=S
+|volume=1
+|minprice=538
+|aveprice=672
+|maxprice=806
+}}
+{{Infobox close}}
 
-{{Infobox open}} {{Infobox ware |ware= Mass Driver Ammunition |cargoclass=S |volume=1 |minprice=538 |aveprice=672 |maxprice=806 }} {{Infobox close}} ==Overview== The [[Ammunition Factory]] is devoted to the creation and distribution of Ammunition for the [[Mass Driver]] weapon . Projectiles are created form hardend steel, which is produced on the station. Each projectile is then put into crates that are sold and are placed directly into the Mass Driver weapon system . Each crate contains 200 rounds of ammunition. ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Ammunition Factory]] | *List of Race Factories where this ware is a primary resource | *List of Race Factories where this ware is a secondary resource | *List of Trading Stations where this ware is traded (sector only) |}
+==Overview==
+The [[Ammunition Factory]] is devoted to the creation and distribution of Ammunition for the [[Mass Driver]] weapon .
+
+Projectiles are created form hardend steel, which is produced on the station. Each projectile is then put into crates that are sold and are placed directly into the Mass Driver weapon system . Each crate contains 200 rounds of ammunition.
+
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Ammunition Factory]]
+|
+*List of Race Factories where this ware is a primary resource
+|
+*List of Race Factories where this ware is a secondary resource
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}

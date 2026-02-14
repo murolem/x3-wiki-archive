@@ -1,3 +1,3 @@
-<!-- source file: index__qc23496c11a98.html -->
+Are either of the fight command software required for a missile frigate to launch boarding pods? - unsigned 67.193.118.218
 
-Are either of the fight command software required for a missile frigate to launch boarding pods? - unsigned 67.193.118.218 : Judging by the commands, yeah looks like mk2 is needed for the automated board command. but to launch boarding pods, I think you can just select the boarding pods as a missile type and fire normally. Not sure if it'll load marines for you though. [[User:Madned|Madned]] 14:52, 23 April 2012 (CDT)
+: Judging by the commands, yeah looks like mk2 is needed for the automated board command. but to launch boarding pods, I think you can just select the boarding pods as a missile type and fire normally. Not sure if it'll load marines for you though. [[User:Madned|Madned]] 14:52, 23 April 2012 (CDT)

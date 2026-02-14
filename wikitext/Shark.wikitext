@@ -1,3 +1,175 @@
-<!-- source file: index__q2ff7aca68d52.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Shark
+|Faction=Boron
+|Class={{M1class}}
+|Priceblock={{Priceblock|King's Knight| 61790791}}
+|Minspeed=54.7
+|Maxspeed=93
+|Minaccel=5.47
+|Maxaccel=9.3
+|Minsteer=0.37
+|Maxsteer=0.67
+|Hull= 360000
+|Maxshield=2 GJ
+|Shieldslots=3
+|Maxshieldstrength=6000
+|Shieldreactor= 9400 
+|Cargoclass=ST
+|Mincargo=10000
+|Maxcargo=10000
+|Lasercap= 47800 
+|Laserrecharge= 717 
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Front
+|Guncount=4
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Right
+|Guncount=4
+|ire=0|pac=0|hept=1|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=1|pbc=0|id=1|
+ipg=1|ic=1|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Rear
+|Guncount=4
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=1|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=0|ic=0|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Left
+|Guncount=4
+|ire=0|pac=0|hept=1|
+cig=1|ppc=1|
+md=0|us=0|prg=0|
+cfaa=1|pbc=0|id=1|
+ipg=1|ic=1|fbl=0|
+psg=0|tbc=0|ebc=0|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=1|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Top
+|Guncount=2
+|ire=0|pac=1|hept=1
+|cig=1|ppc=0
+|md=0|us=0|prg=1
+|cfaa=0|pbc=0|id=1
+|ipg=1|ic=0|fbl=0
+|psg=0|tbc=0|ebc=1
+|faa=1|gc=0|pbe=0
+|isr=0|palc=0|pbg=0|ibl=0
+|empc=0|maml=0|ssc=0|psp=0|
+|fbc=0|ake=0|bke=0|gke=0|
+|eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+{{Gunslot
+|Slot=Bottom
+|Guncount=2
+|ire=0|pac=1|hept=1|
+cig=1|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=1|
+ipg=1|ic=0|fbl=0|
+psg=0|tbc=0|ebc=1|
+faa=1|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0|eempc=0
+}}
+</table>
+|Dockbay={{Dockbay|45 [[M3+]]-[[M5]]}}
+}}
+{{Infobox close}}
+==Overview==
+The [[Boron]] [[M1]] is quite fast, with average shielding and firepower for its class. It is outclassed in most ways by the Argon [[Colossus]], which has a hangar of 60 ships with only a slight speed penalty.
+==Background==
+The Shark was developed to complement the [[Colossus|Argon Colossus]]. Both ships use similar technology, despite their aesthetic differences.
 
-{{Infobox open}} {{Infobox variant |Variant=Shark |Faction=Boron |Class={{M1class}} |Priceblock={{Priceblock|King's Knight| 61790791}} |Minspeed=54.7 |Maxspeed=93 |Minaccel=5.47 |Maxaccel=9.3 |Minsteer=0.37 |Maxsteer=0.67 |Hull= 360000 |Maxshield=2 GJ |Shieldslots=3 |Maxshieldstrength=6000 |Shieldreactor= 9400 |Cargoclass=ST |Mincargo=10000 |Maxcargo=10000 |Lasercap= 47800 |Laserrecharge= 717 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Front |Guncount=4 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Right |Guncount=4 |ire=0|pac=0|hept=1| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=1|pbc=0|id=1| ipg=1|ic=1|fbl=0| psg=0|tbc=0|ebc=0| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Rear |Guncount=4 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=0|us=1|prg=1| cfaa=0|pbc=0|id=1| ipg=0|ic=0|fbl=0| psg=0|tbc=0|ebc=0| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Left |Guncount=4 |ire=0|pac=0|hept=1| cig=1|ppc=1| md=0|us=0|prg=0| cfaa=1|pbc=0|id=1| ipg=1|ic=1|fbl=0| psg=0|tbc=0|ebc=0| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=1| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Top |Guncount=2 |ire=0|pac=1|hept=1 |cig=1|ppc=0 |md=0|us=0|prg=1 |cfaa=0|pbc=0|id=1 |ipg=1|ic=0|fbl=0 |psg=0|tbc=0|ebc=1 |faa=1|gc=0|pbe=0 |isr=0|palc=0|pbg=0|ibl=0 |empc=0|maml=0|ssc=0|psp=0| |fbc=0|ake=0|bke=0|gke=0| |eempc=0|pmaml=0|pssc=0|eempc=0 }} {{Gunslot |Slot=Bottom |Guncount=2 |ire=0|pac=1|hept=1| cig=1|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=1| ipg=1|ic=0|fbl=0| psg=0|tbc=0|ebc=1| faa=1|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0|eempc=0 }} &lt;/table> |Dockbay={{Dockbay|45 [[M3+]]-[[M5]]}} }} {{Infobox close}} ==Overview== The [[Boron]] [[M1]] is quite fast, with average shielding and firepower for its class. It is outclassed in most ways by the Argon [[Colossus]], which has a hangar of 60 ships with only a slight speed penalty. ==Background== The Shark was developed to complement the [[Colossus|Argon Colossus]]. Both ships use similar technology, despite their aesthetic differences. ==Physical Characteristics== Its hull design is extremely similar to the [[Ray]], but is slightly shorter. Its hangar is respectable but not outstanding, at around 45 ships. Like most [[Boron]] ships, the Shark has rather pleasing aesthetics compared to the capitals of other races which tend to be blocky, with the exception of the [[Paranid]] battleships, however each player has their own visual preferences. == Combat == Its good all-round capabilities make it a capable battleship in its own right, though it cannot combat destroyers without a fighter wing. An [[Ion Cannon]] compatibility makes it able to rip through capital ship shielding like a hot knife through butter, though it still requires the [[Photon Pulse Cannon]] for finishing off the hull of the enemy ship. == Equipment == '''Missiles''' {|- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] | *[[Hornet Missile]] *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] | *[[Tempest Missile]] *[[Hurricane Missile]] *[[Cyclone Missile]] *[[Tornado Missile]] | *[[Typhoon Missile]] *[[Firestorm Torpedo]] *[[Aurora Missile]] *[[Remote Guided Warhead]] | *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] *[[Firelance Missile]] | *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == Just about any Boron shipyard will sell the Shark. == Suggested Roles== Sharks are not usually considered the best in their class, and are not frequently used. == See Also== {{M1}} [[Category: Carrier]] {{Boron Navbox}}
+==Physical Characteristics==
+Its hull design is extremely similar to the [[Ray]], but is slightly shorter. Its hangar is respectable but not outstanding, at around 45 ships. Like most [[Boron]] ships, the Shark has rather pleasing aesthetics compared to the capitals of other races which tend to be blocky, with the exception of the [[Paranid]] battleships, however each player has their own visual preferences.
+
+== Combat ==
+Its good all-round capabilities make it a capable battleship in its own right, though it cannot combat destroyers without a fighter wing. An [[Ion Cannon]] compatibility makes it able to rip through capital ship shielding like a hot knife through butter, though it still requires the [[Photon Pulse Cannon]] for finishing off the hull of the enemy ship.
+
+== Equipment ==
+
+'''Missiles'''
+{|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+|
+*[[Hornet Missile]]
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+|
+*[[Tempest Missile]]
+*[[Hurricane Missile]]
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+|
+*[[Typhoon Missile]]
+*[[Firestorm Torpedo]]
+*[[Aurora Missile]]
+*[[Remote Guided Warhead]]
+|
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+|
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+
+== Availability ==
+
+Just about any Boron shipyard will sell the Shark.
+
+== Suggested Roles==
+Sharks are not usually considered the best in their class, and are not frequently used.
+
+== See Also==
+
+{{M1}}
+[[Category: Carrier]]
+{{Boron Navbox}}

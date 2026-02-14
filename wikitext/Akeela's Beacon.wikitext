@@ -1,3 +1,38 @@
-<!-- source file: index__q405c90ebe794.html -->
+{{Infobox Sector
+|Race= Argon
+|SecLevel= Border
+|Population= 97,893,484
+|Planets= 3
+|SunLevel= 400
+|GateDist=170
+|Gates=<table style="background-color:whiteSmoke;text-align:right;">
+{{Gateblock2|West|-63,720|0|0|[[Aladna Hill]]}}
+{{Gateblock2|South|0|1,062|-77,596|[[Legend's Home]]}}
+</table>
+}}
+==Description==
+Akeela's Beacon is a large sector, and it features the highest Sun rating of any sector in the game, at 400%.
 
-{{Infobox Sector |Race= Argon |SecLevel= Border |Population= 97,893,484 |Planets= 3 |SunLevel= 400 |GateDist=170 |Gates=&lt;table style="background-color:whiteSmoke;text-align:right;"> {{Gateblock2|West|-63,720|0|0|[[Aladna Hill]]}} {{Gateblock2|South|0|1,062|-77,596|[[Legend's Home]]}} &lt;/table> }} ==Description== Akeela's Beacon is a large sector, and it features the highest Sun rating of any sector in the game, at 400%. In Terran Conflict, there is an [[Ownerless ships|ownerless ship]] in the sector. ===Encyclopedia Entry=== The ageing but brilliant scientist, Akeela Hartnell, had one dream, to create a string of artificial suns that would light her way, and provide solar power for the ever expanding colonisation of sectors and plantes by all races. The vessel that would allow Akeela to see her dream set off on its journey, but as it cleared the Omicron Lyrae system the ship was hit by an asteroid travelling so fast that it was virtually impossible to avoid, greatly damaging the ship. The crew, except for Akeela, disembarked and made their escape from the ship at best speed. Akeela succeeded in getting the ship away from inhabited sectors, but the resulting explosion changed the sectors gate that locked onto the Aladna Hill sector. For a project that nearly ended in disaster, Akeela's Beacon is her gift to the people of the galaxy. A request by Akeela's last will and testament asked that the Argon govern the new system, but it should be a free place and a safe home to all traders. The four glowing stars that once graced this sector, - the result of Akeela's dream, are all but faded and gone. Yet her dream remains in the heart of many, and so the sector is named after her. ==Default [[Stations]]== #[[Free Argon Trading Station]] #[[Teladi Trading Station]] #[[Cluster Flak Array Forge]] Alpha #[[Cluster Flak Array Forge]] Beta #[[Dumbfire Missile Production Complex]] #[[Flail Missile Production Facility]] #[[Hammer Torpedo Fabrication Facility]] #[[Mass Driver Forge]] #[[Solar Power Plant L]] Alpha #[[Solar Power Plant M]] Beta #[[Solar Power Plant M]] Gamma #[[Solar Power Plant XL]] Delta ==[[Asteroids]]== There are no asteroids in Akeela's Beacon. {{Argon Navbox}}
+In Terran Conflict, there is an [[Ownerless ships|ownerless ship]] in the sector.
+===Encyclopedia Entry===
+The ageing but brilliant scientist, Akeela Hartnell, had one dream, to create a string of artificial suns that would light her way, and provide solar power for the ever expanding colonisation of sectors and plantes by all races. The vessel that would allow Akeela to see her dream set off on its journey, but as it cleared the Omicron Lyrae system the ship was hit by an asteroid travelling so fast that it was virtually impossible to avoid, greatly damaging the ship. The crew, except for Akeela, disembarked and made their escape from the ship at best speed. Akeela succeeded in getting the ship away from inhabited sectors, but the resulting explosion changed the sectors gate that locked onto the Aladna Hill sector. For a project that nearly ended in disaster, Akeela's Beacon is her gift to the people of the galaxy. A request by Akeela's last will and testament asked that the Argon govern the new system, but it should be a free place and a safe home to all traders. The four glowing stars that once graced this sector, - the result of Akeela's dream, are all but faded and gone. Yet her dream remains in the heart of many, and so the sector is named after her.
+
+==Default [[Stations]]==
+#[[Free Argon Trading Station]]
+#[[Teladi Trading Station]]
+#[[Cluster Flak Array Forge]] Alpha
+#[[Cluster Flak Array Forge]] Beta
+#[[Dumbfire Missile Production Complex]]
+#[[Flail Missile Production Facility]]
+#[[Hammer Torpedo Fabrication Facility]]
+#[[Mass Driver Forge]]
+#[[Solar Power Plant L]] Alpha
+#[[Solar Power Plant M]] Beta
+#[[Solar Power Plant M]] Gamma
+#[[Solar Power Plant XL]] Delta
+
+==[[Asteroids]]==
+There are no asteroids in Akeela's Beacon.
+
+
+{{Argon Navbox}}

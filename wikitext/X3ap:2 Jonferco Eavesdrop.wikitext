@@ -1,3 +1,18 @@
-<!-- source file: index__q463a6f8cae6a.html -->
+Questline: [[x3ap_quests | X3:AP Quests]]
 
-Questline: [[x3ap_quests | X3:AP Quests]] You must eavesdrop on the Jonferco Corporation to see what they are up to using your Telecommunications unit. # Fly to [[Albion Gamma]] # Hold at 12 Km from the [[Jonferco]] Command Ship # Hold at 6-8 Km from the [[Jonferco]] Command Ship ===Completion Rewards=== 1 x [[Centaur]] (M6) with 8 x [[Concussion Impulse Generator]]s {{MoveBox|X3ap:1_Aiding_the_war_efforts|X3ap:3_Highway_Patrol}}
+
+You must eavesdrop on the Jonferco Corporation to see what they are up to using your Telecommunications unit.
+
+
+# Fly to [[Albion Gamma]]
+# Hold at 12 Km from the [[Jonferco]] Command Ship
+# Hold at 6-8 Km from the [[Jonferco]] Command Ship
+
+
+===Completion Rewards===
+
+1 x [[Centaur]] (M6) with 8 x [[Concussion Impulse Generator]]s
+
+
+
+{{MoveBox|X3ap:1_Aiding_the_war_efforts|X3ap:3_Highway_Patrol}}

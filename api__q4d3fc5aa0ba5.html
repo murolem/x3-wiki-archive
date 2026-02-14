@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
-<head><script src="/script.js" type="module"></script><link href="/styles.css" rel="stylesheet">
-	<title>MediaWiki API | Archive</title>
+<head>
+	<title>MediaWiki API</title>
 </head>
 <body>
 <br>
@@ -9,7 +9,7 @@
 You are looking at the HTML representation of the XML format.<br>
 HTML is good for debugging, but probably is not suitable for your application.<br>
 See <a href="https://www.mediawiki.org/wiki/API">complete documentation</a>, or
-<a class="new" href="/api.php">API help</a> for more information.
+<a href="/api.php">API help</a> for more information.
 </small>
 <pre>
 <span style="color:blue;">&lt;?xml version="1.0"?&gt;</span>
@@ -55,9 +55,9 @@ Parameters:
   cmendsortkeyprefix  - Sortkey prefix to end listing BEFORE (not at, if this value occurs it will not be included!). Can only be used with cmsort=sortkey. Overrides cmendsortkey
 Examples:
   Get first 10 pages in [[Category:Physics]]:
-    <a class="new" href="api.php?action=query&list=categorymembers&cmtitle=Category:Physics">api.php?action=query&amp;list=categorymembers&amp;cmtitle=Category:Physics</a>
+    <a href="api.php?action=query&list=categorymembers&cmtitle=Category:Physics">api.php?action=query&amp;list=categorymembers&amp;cmtitle=Category:Physics</a>
   Get page info about first 10 pages in [[Category:Physics]]:
-    <a class="new" href="api.php?action=query&generator=categorymembers&gcmtitle=Category:Physics&prop=info">api.php?action=query&amp;generator=categorymembers&amp;gcmtitle=Category:Physics&amp;prop=info</a>
+    <a href="api.php?action=query&generator=categorymembers&gcmtitle=Category:Physics&prop=info">api.php?action=query&amp;generator=categorymembers&amp;gcmtitle=Category:Physics&amp;prop=info</a>
 Help page:
   <a href="https://www.mediawiki.org/wiki/API:Categorymembers">https://www.mediawiki.org/wiki/API:Categorymembers</a>
 <span style="color:blue;">&lt;/module&gt;</span>

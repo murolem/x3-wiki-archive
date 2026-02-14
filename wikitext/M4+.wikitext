@@ -1,3 +1,33 @@
-<!-- source file: index__q089710508327.html -->
+M4+ ships are light fighters, slower, with heavier armaments and defences than the regular M4s, but they usually don't fit the interceptor role. One-on-one they are often woefully inadequate for taking on [[M3]] ships in combat, having worse firepower and and much worse durability, while often not being any faster. However, they are much cheaper to procure, costing a good deal less than typical [[M3]]s and a third or a quarter the price of [[M3]]+ ships. This makes them good alternatives to [[M3]]s for fighter fleets at the cost of some potency. They constitute lethal symbiotes for [[M1|carrier]] craft.
 
-M4+ ships are light fighters, slower, with heavier armaments and defences than the regular M4s, but they usually don't fit the interceptor role. One-on-one they are often woefully inadequate for taking on [[M3]] ships in combat, having worse firepower and and much worse durability, while often not being any faster. However, they are much cheaper to procure, costing a good deal less than typical [[M3]]s and a third or a quarter the price of [[M3]]+ ships. This makes them good alternatives to [[M3]]s for fighter fleets at the cost of some potency. They constitute lethal symbiotes for [[M1|carrier]] craft. Note that an M4+ designation does not exist in the game. These ships are referred to as [[M4]] class ships in-game, however they are slower, more potent and better defended than their counterparts so they are given an alternate designation in the community. ==Sortable List== {| class="wikitable prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:right;" |+ '''M4+ Heavy Interceptors''' ! Name !! Race !! Class !! data-sort-type="number" | Speed !! data-sort-type="number" | Accel !! data-sort-type="number" | Steering !! data-sort-type="number" | Hull !! Shields !! data-sort-type="number" | Shield Reactor !! data-sort-type="number" | Turrets !! data-sort-type="number" | Laser Cap !! data-sort-type="number" | Laser Rchg. !! data-sort-type="number" | Cargo !! [[Cargo Class]] !! data-sort-type="number" | Hangar !! data-sort-type="number" | Price |- |[[Elite]] || [[Argon]] || [[M4+]] || 160 || 49 || 59.36 || 13,000 ||data-sort-value=50|2 x 25MJ || 550 || 0 || 4,500 || 76 || 120 || L || 0 || 1,619,083 |- |[[Pike]] || [[Boron]] || [[M4+]] || 195 || 65 || 57.2 || ? ||data-sort-value=25|1 x 25MJ || 399 || 0 || 4,350 || 65 || 208 || L || 0 || 797,068 |- |[[Solano]] || [[OTAS]] || [[M4+]] || 210 || 65.52 || 53.2 || 5,200 ||data-sort-value=75|3 x 25MJ || 605 || 0 || 5,000 || 85 || 102 || L || 0 || 1,261,300 |- |[[Theseus]] || [[Paranid]] || [[M4+]] || 177.6 || 48 || 55.8 || 6,500 ||data-sort-value=50|2 x 25MJ || 525 || 0 || 4,750 || 82 || 110 || M || 0 || 1,399,885 |- |[[Asp]] || [[Split]] || [[M4+]] || 225 || 108 || 53.8 || 10,400 ||data-sort-value=25|1 x 25MJ || 220 || 0 || 2,450 || 61 || 108 || M || 0 || 1,337,617 |- |[[Kite]] || [[Teladi]] || [[M4+]] || 135.8 || 37 || 38.7 || 4,200 ||data-sort-value=20|4 x 5MJ || 265 || 0 || 2,050 || 51 || 140 || M || 0 || 1,809,548 |- |[[Tonbo]] || [[Yaki]] || [[M4+]] || 224 || 87 || 44.5 || 4,550 ||data-sort-value=25|1 x 25MJ || 525 || 0 || 4,750 || 82 || 126 || M || 0 || 2,014,751 |- |} == See Also == {{M4+}} [[Category:M4+]] [[Category:Fighters|Class Page]]
+Note that an M4+ designation does not exist in the game. These ships are referred to as [[M4]] class ships in-game, however they are slower, more potent and better defended than their counterparts so they are given an alternate designation in the community.
+
+==Sortable List==
+
+{| class="wikitable prettytable sortable" border="1" cellpadding="5" cellspacing="0" style="text-align:right;"
+|+ '''M4+ Heavy Interceptors'''
+! Name !! Race !! Class !! data-sort-type="number" | Speed !! data-sort-type="number" | Accel !! data-sort-type="number" | Steering !! data-sort-type="number" | Hull !! Shields !! data-sort-type="number" | Shield Reactor !! data-sort-type="number" | Turrets !! data-sort-type="number" | Laser Cap !! data-sort-type="number" | Laser Rchg. !! data-sort-type="number" | Cargo !! [[Cargo Class]] !! data-sort-type="number" | Hangar !! data-sort-type="number" | Price
+|-
+|[[Elite]] || [[Argon]] || [[M4+]] || 160 || 49 || 59.36 || 13,000 ||data-sort-value=50|2 x 25MJ || 550 || 0 || 4,500 || 76 || 120 || L || 0 ||  1,619,083
+|-
+|[[Pike]] || [[Boron]] || [[M4+]] || 195 || 65 || 57.2 || ? ||data-sort-value=25|1 x 25MJ || 399 || 0 || 4,350 || 65 || 208 || L || 0 || 797,068
+|-
+|[[Solano]] || [[OTAS]] || [[M4+]] || 210 || 65.52 || 53.2 || 5,200 ||data-sort-value=75|3 x 25MJ || 605 || 0 || 5,000 || 85 || 102 || L || 0 || 1,261,300 
+|-
+|[[Theseus]] || [[Paranid]] || [[M4+]] || 177.6 || 48 || 55.8 || 6,500 ||data-sort-value=50|2 x 25MJ || 525 || 0 || 4,750 || 82 || 110 || M || 0 || 1,399,885
+|-
+|[[Asp]] || [[Split]] || [[M4+]] || 225 || 108 || 53.8 || 10,400 ||data-sort-value=25|1 x 25MJ || 220 || 0 || 2,450 || 61 || 108 || M || 0 || 1,337,617
+|-
+|[[Kite]] || [[Teladi]] || [[M4+]] || 135.8 || 37 || 38.7 || 4,200 ||data-sort-value=20|4 x 5MJ || 265 || 0 || 2,050 || 51 || 140 || M || 0 || 1,809,548 
+|-
+|[[Tonbo]] || [[Yaki]] || [[M4+]] || 224 || 87 || 44.5 || 4,550 ||data-sort-value=25|1 x 25MJ || 525 || 0 || 4,750 || 82 || 126 || M || 0 || 2,014,751
+|-
+
+|}
+
+== See Also ==
+
+{{M4+}}
+
+[[Category:M4+]]
+[[Category:Fighters|Class Page]]

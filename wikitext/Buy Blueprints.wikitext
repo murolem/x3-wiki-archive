@@ -1,3 +1,8 @@
-<!-- source file: index__qedd029bb621d.html -->
+A free standing [[Missions#Offers|Offer]] in space.
 
-A free standing [[Missions#Offers|Offer]] in space. Buy Blueprints for your HQ to save time reverse engineering them. Keep an eye out for rare ships that have their blueprints for sale. HQ required. The ships being offered depend on the race owning the sector. You can be offered M3-M5 and M6 blueprints. I have never seen M1, M2 or M6+ blueprints. Go to Yaki sectors to buy Yaki blueprints and to pirate sectors to buy pirate blueprints (up to pirate osprey and pirate centaur). Note that this way you can get access to ships that can not be bought, for example you can get a Yaki Rajin Raider blueprint, while the Yaki shipyard only sells regular Rajin. {{Missions}}
+Buy Blueprints for your HQ to save time reverse engineering them. Keep an eye out for rare ships that have their blueprints for sale. HQ required.
+
+The ships being offered depend on the race owning the sector.  You can be offered M3-M5 and M6 blueprints.  I have never seen M1, M2 or M6+ blueprints.  Go to Yaki sectors to buy Yaki blueprints and to pirate sectors to buy pirate blueprints (up to pirate osprey and pirate centaur).  Note that this way you can get access to ships that can not be bought, for example you can get a Yaki Rajin Raider blueprint, while the Yaki shipyard only sells regular Rajin.
+
+
+{{Missions}}

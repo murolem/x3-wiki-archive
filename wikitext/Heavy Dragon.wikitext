@@ -1,3 +1,119 @@
-<!-- source file: index__q22af15d5de9e.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant=Heavy Dragon
+|Faction=Split
+|Class={{M6+class}}
+|Priceblock={{Priceblock|Family Protector| 15772536}}
+|Minspeed=84.7
+|Maxspeed=160.9
+|Minaccel=6
+|Maxaccel=12
+|Minsteer=1.3
+|Maxsteer=2.6
+|Hull=55600 / 222400 (AP)
+|Maxshield=200 MJ
+|Shieldslots=3
+|Maxshieldstrength=600
+|Shieldreactor= 2150
+|Cargoclass=XL
+|Mincargo=400
+|Maxcargo=675
+|Lasercap=17525
+|Laserrecharge=491 / 1970 (AP)
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=1|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+{{Gunslot
+|Slot=Top
+|Guncount=4
+|ire=1|pac=1|hept=1|
+cig=1|ppc=0|
+md=1|us=1|prg=0|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=1|
+faa=0|gc=0|pbe=1|
+isr=1|palc=0|pbg=1|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The Heavy Dragon is not much of an improvement on the original [[Dragon]] in terms of raw stats, however with an expanded number of hardpoints in its single turret, an expanded choice of weapon options and a 50% improvement in shielding, it has a respectable advantage in combat.
 
-{{Infobox open}} {{Infobox variant |Variant=Heavy Dragon |Faction=Split |Class={{M6+class}} |Priceblock={{Priceblock|Family Protector| 15772536}} |Minspeed=84.7 |Maxspeed=160.9 |Minaccel=6 |Maxaccel=12 |Minsteer=1.3 |Maxsteer=2.6 |Hull=55600 / 222400 (AP) |Maxshield=200 MJ |Shieldslots=3 |Maxshieldstrength=600 |Shieldreactor= 2150 |Cargoclass=XL |Mincargo=400 |Maxcargo=675 |Lasercap=17525 |Laserrecharge=491 / 1970 (AP) |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=1|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} {{Gunslot |Slot=Top |Guncount=4 |ire=1|pac=1|hept=1| cig=1|ppc=0| md=1|us=1|prg=0| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=1| faa=0|gc=0|pbe=1| isr=1|palc=0|pbg=1|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The Heavy Dragon is not much of an improvement on the original [[Dragon]] in terms of raw stats, however with an expanded number of hardpoints in its single turret, an expanded choice of weapon options and a 50% improvement in shielding, it has a respectable advantage in combat. ==Background== Acknowledging the need to maximise the potential of the Dragon design, Split military designers have reworked it from bow to stern and the result is an even more formidable warship. ==Physical Characteristics== == Combat == Combat in the Heavy Dragon is much the same as that in the Dragon, however more reliance can be placed on the Heavy Dragon's top turret, which has enough hardpoints to give it a real offensive capability, as well as the ability to cover nearly the entire upper semi-sphere of the ship. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] *[[Silkworm Missile]] *[[Hornet Missile]] | *[[Disruptor Missile]] *[[Firefly Missile]] *[[Thunderbolt Missile]] *[[Tempest Missile]] *[[Hurricane Missile]] | *[[Cyclone Missile]] *[[Tornado Missile]] *[[Typhoon Missile]] *[[Firestorm Torpedo]] *[[Aurora Missile]] | *[[Remote Guided Warhead]] *[[Beluga Missile]] *[[Hammerhead Missile]] *[[Rapier Missile]] | *[[Firelance Missile]] *[[Wildfire Missile]] *[[Windstalker Missile]] *[[Banshee Missile]] |} == Availability == {| style="text-align:center;" |- style="{{Colour/Split}}" ! width="120px" | Variant !! [[Cho's Defeat]] !! [[Family Njy]] !! [[Family Pride]] !! [[Family Rhy]] !! [[Family Tkr]] !! [[Patriarch's Conclusion]] !! [[Rhonkar's Might]] !! [[Rhonkar's Trial]] !! [[Zyarth's Dominion]] |- ! style="text-align:left;" | Heavy Dragon || - || - || - || - || - || x || - || x || x |} == Suggested Roles== The Heavy Dragon is a decent choice for sector patrol in groups; its higher speed than other M6+ designs combined with its superior firepower give it a huge advantage at running down groups of lighter craft. Although it only has 3x200mj shields, unlike the more common 4 or higher mounted by other M6+ designs, it still has satisfactory protection. == See Also== *[[Dragon|Split Dragon]] {{M6+}} {{Split Navbox}}
+==Background==
+Acknowledging the need to maximise the potential of the Dragon design, Split military designers have reworked it from bow to stern and the result is an even more formidable warship.
+
+==Physical Characteristics==
+
+== Combat ==
+Combat in the Heavy Dragon is much the same as that in the Dragon, however more reliance can be placed on the Heavy Dragon's top turret, which has enough hardpoints to give it a real offensive capability, as well as the ability to cover nearly the entire upper semi-sphere of the ship.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+*[[Silkworm Missile]]
+*[[Hornet Missile]]
+|
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+*[[Thunderbolt Missile]]
+*[[Tempest Missile]]
+*[[Hurricane Missile]]
+|
+*[[Cyclone Missile]]
+*[[Tornado Missile]]
+*[[Typhoon Missile]]
+*[[Firestorm Torpedo]]
+*[[Aurora Missile]]
+|
+*[[Remote Guided Warhead]]
+*[[Beluga Missile]]
+*[[Hammerhead Missile]]
+*[[Rapier Missile]]
+|
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+*[[Windstalker Missile]]
+*[[Banshee Missile]]
+|}
+== Availability ==
+{| style="text-align:center;"
+|- style="{{Colour/Split}}"
+! width="120px" | Variant !! [[Cho's Defeat]] !! [[Family Njy]] !! [[Family Pride]] !! [[Family Rhy]] !! [[Family Tkr]] !! [[Patriarch's Conclusion]] !! [[Rhonkar's Might]] !! [[Rhonkar's Trial]] !! [[Zyarth's Dominion]]
+|-
+! style="text-align:left;" | Heavy Dragon || - || - || - || - || - || x || - || x || x
+|}
+
+== Suggested Roles==
+The Heavy Dragon is a decent choice for sector patrol in groups; its higher speed than other M6+ designs combined with its superior firepower give it a huge advantage at running down groups of lighter craft. Although it only has 3x200mj shields, unlike the more common 4 or higher mounted by other M6+ designs, it still has satisfactory protection.
+
+== See Also==
+*[[Dragon|Split Dragon]]
+
+{{M6+}}
+
+
+{{Split Navbox}}

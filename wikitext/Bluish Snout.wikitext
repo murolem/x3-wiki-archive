@@ -1,3 +1,33 @@
-<!-- source file: index__q8dabff452da4.html -->
+{{Infobox Sector
+|Race=Boron
+|SecLevel=Border
+|Population=15,912,061
+|Planets=3
+|SunLevel=100
+|GateDist=65
+|Gates={{Gateblock/Begin}}
+{{Gateblock2|North|8000|	0|	28256|[[Menelaus' Paradise]]}}
+{{Gateblock2|South|-14800|	-6000|	-27856|[[Ocean of Fantasy]]}}
+{{Gateblock/End}}
+}}
+==Description==
+This small Boron outpost produces mineral products as well as the highly regarded [[Stott Spices|Stotts Spices]]. It has attracted little hostile attention so far. The Boron tolerate the [[Split]] using this system as a convenient route to unexplored space in return for safe passage of Boron craft through certain Split sytems.
 
-{{Infobox Sector |Race=Boron |SecLevel=Border |Population=15,912,061 |Planets=3 |SunLevel=100 |GateDist=65 |Gates={{Gateblock/Begin}} {{Gateblock2|North|8000| 0| 28256|[[Menelaus' Paradise]]}} {{Gateblock2|South|-14800| -6000| -27856|[[Ocean of Fantasy]]}} {{Gateblock/End}} }} ==Description== This small Boron outpost produces mineral products as well as the highly regarded [[Stott Spices|Stotts Spices]]. It has attracted little hostile attention so far. The Boron tolerate the [[Split]] using this system as a convenient route to unexplored space in return for safe passage of Boron craft through certain Split sytems. ==Default [[Stations]]== ==[[Asteroids]]== {{Asteroid/Begin}} {{Asteroid/Item|Ore|14|14829|-1059|-10899}} {{Asteroid/Item|Ore|10|10829|-1362|4048}} {{Asteroid/Item|Ore|4|8959|4902|1077}} {{Asteroid/Item|Ore|4|9249|209|-6072}} {{Asteroid/Item|Silicon|42|-18785|-1096|-7086}} {{Asteroid/Item|Silicon|31|-14523|4843|4835}} {{Asteroid/Item|Silicon|20|-11572|-2706|7224}} {{Asteroid/Item|Silicon|20|-10332|-4083|-6311}} {{Asteroid/Item|Silicon|8|-17125|-6488|-3150}} {{Asteroid/End}} == See Also == {{Boron Navbox}}
+==Default [[Stations]]==
+
+==[[Asteroids]]==
+
+{{Asteroid/Begin}}
+{{Asteroid/Item|Ore|14|14829|-1059|-10899}}
+{{Asteroid/Item|Ore|10|10829|-1362|4048}}
+{{Asteroid/Item|Ore|4|8959|4902|1077}}
+{{Asteroid/Item|Ore|4|9249|209|-6072}}
+{{Asteroid/Item|Silicon|42|-18785|-1096|-7086}}
+{{Asteroid/Item|Silicon|31|-14523|4843|4835}}
+{{Asteroid/Item|Silicon|20|-11572|-2706|7224}}
+{{Asteroid/Item|Silicon|20|-10332|-4083|-6311}}
+{{Asteroid/Item|Silicon|8|-17125|-6488|-3150}}
+{{Asteroid/End}}
+
+== See Also ==
+{{Boron Navbox}}

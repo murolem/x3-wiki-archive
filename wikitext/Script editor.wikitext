@@ -1,3 +1,14 @@
-<!-- source file: index__q2a65f34366f4.html -->
+{{See also|Scripts}}
 
-{{See also|Scripts}} The Script Editor, or Manual Ship Computer Interface, is TC's integrated script editor. Using a custom programming language of the same name (MSCI), it's possible to do more or less anything, ranging from cheating the player 2Bn [[credits]] to causing every race to kill eachother on sight, invade territories, target stations, and cause general mayhem. If you want a free [[M2]], you can script it. If you want minimum relation status with the [[Paranid]], you can script it. If you want a system to swap in turret weaponry to suit the right enemies and cause general epic win destruction, you can script it... or just download it. It's called MARS. The Script Editor has been used by many people over the course of the [[X Series]] to add and change various parts of the game to suit how they believe the game should (re)act. Historically, it has led to numerous high-quality modifications ("Scripts") being distributed throughout the community. [[List of Popular Mods|Many such modifications]] exist for both [[Terran Conflict]] and [[Albion Prelude]] ==See Also== *[[Scripts]] *[{{linky}}forum.egosoft.com/viewforum.php?f=105 MSCI Reference Forum] - Egosoft Forums
+The Script Editor, or Manual Ship Computer Interface, is TC's integrated script editor.
+
+Using a custom programming language of the same name (MSCI), it's possible to do more or less anything, ranging from cheating the player 2Bn [[credits]] to causing every race to kill eachother on sight, invade territories, target stations, and cause general mayhem.
+
+If you want a free [[M2]], you can script it. If you want minimum relation status with the [[Paranid]], you can script it. If you want a system to swap in turret weaponry to suit the right enemies and cause general epic win destruction, you can script it... or just download it. It's called MARS.
+
+
+The Script Editor has been used by many people over the course of the [[X Series]] to add and change various parts of the game to suit how they believe the game should (re)act. Historically, it has led to numerous high-quality modifications ("Scripts") being distributed throughout the community. [[List of Popular Mods|Many such modifications]] exist for both [[Terran Conflict]] and [[Albion Prelude]]
+
+==See Also==
+*[[Scripts]]
+*[{{linky}}forum.egosoft.com/viewforum.php?f=105 MSCI Reference Forum] - Egosoft Forums

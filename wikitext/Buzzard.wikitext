@@ -1,3 +1,314 @@
-<!-- source file: index__qbd119c145394.html -->
+{{Infobox open}}
+{{Infobox variant
+|Variant= Buzzard
+|Faction=Teladi
+|Class={{M4class}}
+|Priceblock={{Priceblock|| 1322474}}
+|Minspeed=52.2
+|Maxspeed=135.8
+|Minaccel=14
+|Maxaccel=37
+|Minsteer=14.9
+|Maxsteer=38.7
+|Hull= 4200 / 8400 (AP)
+|Maxshield=5 MJ
+|Shieldslots=4
+|Maxshieldstrength=20
+|Shieldreactor= 265
+|Cargoclass=M
+|Mincargo=35
+|Maxcargo=140
+|Lasercap=2050
+|Laserrecharge=51
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Buzzard Hauler
+|Faction=Teladi
+|Class={{M4class}}
+|Priceblock=
+|Minspeed=55.9
+|Maxspeed=145.3
+|Minaccel=15
+|Maxaccel=39
+|Minsteer=15.2
+|Maxsteer=39.4
+|Hull=8904 (AP)
+|Maxshield=5 MJ
+|Shieldslots=3
+|Maxshieldstrength=15
+|Shieldreactor= 265
+|Cargoclass=M
+|Mincargo=47
+|Maxcargo=189
+|Lasercap=1640
+|Laserrecharge=41
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Buzzard Sentinel
+|Faction=Teladi
+|Class={{M4class}}
+|Priceblock={{Priceblock|| 1387371}}
+|Minspeed=42.8
+|Maxspeed=111.4
+|Minaccel=11
+|Maxaccel=30
+|Minsteer=12.2
+|Maxsteer=31.7
+|Hull= 4200 / 8400 (AP)
+|Maxshield=5 MJ
+|Shieldslots=5
+|Maxshieldstrength=25
+|Shieldreactor= 291
+|Cargoclass=M
+|Mincargo=31
+|Maxcargo=126
+|Lasercap=2050
+|Laserrecharge=51
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=5
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant= Buzzard Vanguard
+|Faction=Teladi
+|Class={{M4class}}
+|Priceblock={{Priceblock|| 1429753}}
+|Minspeed=57.4
+|Maxspeed=149.4
+|Minaccel=15
+|Maxaccel=41
+|Minsteer=15.6
+|Maxsteer=40.6
+|Hull= 3990 / 7980 (AP)
+|Maxshield=5 MJ
+|Shieldslots=4
+|Maxshieldstrength=20
+|Shieldreactor= 291
+|Cargoclass=M
+|Mincargo=33
+|Maxcargo=133
+|Lasercap=2460
+|Laserrecharge=61
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Buzzard
+|Faction=Pirate
+|Class={{M4class}}
+|Priceblock=
+|Minspeed=87.2
+|Maxspeed=261.8
+|Minaccel=40
+|Maxaccel=122
+|Minsteer=17.7
+|Maxsteer=53.2
+|Hull=5320
+|Maxshield=5 MJ
+|Shieldslots=3
+|Maxshieldstrength=15
+|Shieldreactor= 115
+|Cargoclass=M
+|Mincargo=36
+|Maxcargo=102
+|Lasercap=2050
+|Laserrecharge=51
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=6
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=1|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox variant
+|Variant=Buzzard Vanguard
+|Faction=Pirate
+|Class={{M4class}}
+|Priceblock=
+|Minspeed=87.6
+|Maxspeed=245.5
+|Minaccel=21
+|Maxaccel=61
+|Minsteer=20.3
+|Maxsteer=56.8
+|Hull=3325 / 6650 (AP)
+|Maxshield=5 MJ
+|Shieldslots=3
+|Maxshieldstrength=15
+|Shieldreactor= 275
+|Cargoclass=S
+|Mincargo=28
+|Maxcargo=104
+|Lasercap=2700
+|Laserrecharge=67
+|Gunbay=<table cellspacing="0" cellpadding="0">
+{{Gunslot
+|Slot=Main
+|Guncount=8
+|ire=1|pac=1|hept=0|
+cig=0|ppc=0|
+md=0|us=0|prg=1|
+cfaa=0|pbc=0|id=0|
+ipg=0|ic=0|fbl=1|
+psg=0|tbc=0|ebc=0|
+faa=0|gc=0|pbe=0|
+isr=0|palc=0|pbg=0|ibl=0|
+empc=0|maml=0|ssc=0|psp=0|
+fbc=0|ake=0|bke=0|gke=0|
+eempc=0|pmaml=0|pssc=0
+}}
+</table>
+|Dockbay=
+}}
+{{Infobox close}}
+==Overview==
+The Buzzard is heavily fortified, but suffers from extreme lethargy.
 
-{{Infobox open}} {{Infobox variant |Variant= Buzzard |Faction=Teladi |Class={{M4class}} |Priceblock={{Priceblock|| 1322474}} |Minspeed=52.2 |Maxspeed=135.8 |Minaccel=14 |Maxaccel=37 |Minsteer=14.9 |Maxsteer=38.7 |Hull= 4200 / 8400 (AP) |Maxshield=5 MJ |Shieldslots=4 |Maxshieldstrength=20 |Shieldreactor= 265 |Cargoclass=M |Mincargo=35 |Maxcargo=140 |Lasercap=2050 |Laserrecharge=51 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant= Buzzard Hauler |Faction=Teladi |Class={{M4class}} |Priceblock= |Minspeed=55.9 |Maxspeed=145.3 |Minaccel=15 |Maxaccel=39 |Minsteer=15.2 |Maxsteer=39.4 |Hull=8904 (AP) |Maxshield=5 MJ |Shieldslots=3 |Maxshieldstrength=15 |Shieldreactor= 265 |Cargoclass=M |Mincargo=47 |Maxcargo=189 |Lasercap=1640 |Laserrecharge=41 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant= Buzzard Sentinel |Faction=Teladi |Class={{M4class}} |Priceblock={{Priceblock|| 1387371}} |Minspeed=42.8 |Maxspeed=111.4 |Minaccel=11 |Maxaccel=30 |Minsteer=12.2 |Maxsteer=31.7 |Hull= 4200 / 8400 (AP) |Maxshield=5 MJ |Shieldslots=5 |Maxshieldstrength=25 |Shieldreactor= 291 |Cargoclass=M |Mincargo=31 |Maxcargo=126 |Lasercap=2050 |Laserrecharge=51 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=5 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant= Buzzard Vanguard |Faction=Teladi |Class={{M4class}} |Priceblock={{Priceblock|| 1429753}} |Minspeed=57.4 |Maxspeed=149.4 |Minaccel=15 |Maxaccel=41 |Minsteer=15.6 |Maxsteer=40.6 |Hull= 3990 / 7980 (AP) |Maxshield=5 MJ |Shieldslots=4 |Maxshieldstrength=20 |Shieldreactor= 291 |Cargoclass=M |Mincargo=33 |Maxcargo=133 |Lasercap=2460 |Laserrecharge=61 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Buzzard |Faction=Pirate |Class={{M4class}} |Priceblock= |Minspeed=87.2 |Maxspeed=261.8 |Minaccel=40 |Maxaccel=122 |Minsteer=17.7 |Maxsteer=53.2 |Hull=5320 |Maxshield=5 MJ |Shieldslots=3 |Maxshieldstrength=15 |Shieldreactor= 115 |Cargoclass=M |Mincargo=36 |Maxcargo=102 |Lasercap=2050 |Laserrecharge=51 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=6 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=1|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox variant |Variant=Buzzard Vanguard |Faction=Pirate |Class={{M4class}} |Priceblock= |Minspeed=87.6 |Maxspeed=245.5 |Minaccel=21 |Maxaccel=61 |Minsteer=20.3 |Maxsteer=56.8 |Hull=3325 / 6650 (AP) |Maxshield=5 MJ |Shieldslots=3 |Maxshieldstrength=15 |Shieldreactor= 275 |Cargoclass=S |Mincargo=28 |Maxcargo=104 |Lasercap=2700 |Laserrecharge=67 |Gunbay=&lt;table cellspacing="0" cellpadding="0"> {{Gunslot |Slot=Main |Guncount=8 |ire=1|pac=1|hept=0| cig=0|ppc=0| md=0|us=0|prg=1| cfaa=0|pbc=0|id=0| ipg=0|ic=0|fbl=1| psg=0|tbc=0|ebc=0| faa=0|gc=0|pbe=0| isr=0|palc=0|pbg=0|ibl=0| empc=0|maml=0|ssc=0|psp=0| fbc=0|ake=0|bke=0|gke=0| eempc=0|pmaml=0|pssc=0 }} &lt;/table> |Dockbay= }} {{Infobox close}} ==Overview== The Buzzard is heavily fortified, but suffers from extreme lethargy. ==Background== The Buzzard replaced the hugely successful Teladi Hawk. Initially it lived up to its predecessor's reputation, however it has not been updated quite fast enough to remain an effective contender in combat. ==Variants== ===Buzzard=== {{regular}} ===Buzzard Hauler=== {{hauler}} ===Buzzard Sentinel=== {{sentinel}} ===Buzzard Vanguard=== {{vanguard}} ===Pirate Buzzard=== {{pirate}} ===Pirate Buzzard Vanguard=== {{pirate}} ==Physical Characteristics== == Combat == The Buzzard is less than ideal as a combat craft, because there are many ships in the [[M3]] class which it can neither outfight nor outrun, making it something of a sitting duck. This ship is only really suited to bullying smaller prey. == Equipment == {| |+ '''Missiles''' |- style="vertical-align:top;" | *[[Mosquito Missile]] *[[Wasp Missile]] *[[Dragonfly Missile]] | *[[Silkworm Missile]] *[[Disruptor Missile]] *[[Firefly Missile]] | *[[Hurricane Missile]] *[[Aurora Missile]] *[[Remote Guided Warhead]] | *[[Rapier Missile]] *[[Firelance Missile]] *[[Wildfire Missile]] |} == Availability == {| style="text-align:center;" |- style="{{Colour/Teladi}}" ! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]] |- ! style="text-align:left;" | Buzzard || || || || || || |- ! style="text-align:left;" | Buzzard Hauler || || || || || || |- ! style="text-align:left;" | Buzzard Sentinel || || || || || || |- ! style="text-align:left;" | Buzzard Vanguard || || || || || || |} Available as one of many [[Ownerless ships]] == Suggested Roles== While the Teladi variants of the Buzzard are poor in most situations, the Pirate variants are much improved, with very good speed, weapon power and shielding. If they can be captured and reverse engineered they make an effective carrier fighter. == See Also== *[[M4+]] class; **[[Kite|Teladi Kite]] {{M4}} {{Teladi Navbox}}
+==Background==
+The Buzzard replaced the hugely successful Teladi Hawk. Initially it lived up to its predecessor's reputation, however it has not been updated quite fast enough to remain an effective contender in combat.
+
+==Variants==
+===Buzzard===
+{{regular}}
+===Buzzard Hauler===
+{{hauler}}
+===Buzzard Sentinel===
+{{sentinel}}
+===Buzzard Vanguard===
+{{vanguard}}
+===Pirate Buzzard===
+{{pirate}}
+===Pirate Buzzard Vanguard===
+{{pirate}}
+
+==Physical Characteristics==
+== Combat ==
+The Buzzard is less than ideal as a combat craft, because there are many ships in the [[M3]] class which it can neither outfight nor outrun, making it something of a sitting duck. This ship is only really suited to bullying smaller prey.
+
+== Equipment ==
+{|
+|+ '''Missiles'''
+|- style="vertical-align:top;"
+|
+*[[Mosquito Missile]]
+*[[Wasp Missile]]
+*[[Dragonfly Missile]]
+|
+*[[Silkworm Missile]]
+*[[Disruptor Missile]]
+*[[Firefly Missile]]
+|
+*[[Hurricane Missile]]
+*[[Aurora Missile]]
+*[[Remote Guided Warhead]]
+|
+*[[Rapier Missile]]
+*[[Firelance Missile]]
+*[[Wildfire Missile]]
+|}
+== Availability ==
+{| style="text-align:center;"
+|- style="{{Colour/Teladi}}"
+! width="120px" | Variant !! [[Ceo's Sprite]] !! [[Grand Exchange]] !! [[Ianamus Zura]] !! [[Ministry of Finance]] !! [[PTNI Headquarters]] !! [[Seizewell]]
+|-
+! style="text-align:left;" | Buzzard ||  ||  ||  ||  ||  || 
+|-
+! style="text-align:left;" | Buzzard Hauler ||  ||  ||  ||  ||  || 
+|-
+! style="text-align:left;" | Buzzard Sentinel ||  ||  ||  ||  ||  || 
+|-
+! style="text-align:left;" | Buzzard Vanguard ||  ||  ||  ||  ||  || 
+|}
+
+Available as one of many [[Ownerless ships]]
+
+== Suggested Roles==
+While the Teladi variants of the Buzzard are poor in most situations, the Pirate variants are much improved, with very good speed, weapon power and shielding. If they can be captured and reverse engineered they make an effective carrier fighter.
+
+== See Also==
+*[[M4+]] class;
+**[[Kite|Teladi Kite]]
+
+{{M4}}
+
+
+{{Teladi Navbox}}

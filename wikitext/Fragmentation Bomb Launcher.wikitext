@@ -1,3 +1,36 @@
-<!-- source file: index__q98ce2e5eec1a.html -->
+{{Infobox open}}
+{{Infobox weapon
+|weapon=Fragmentation Bomb Launcher
+|hulldam=1400
+|shielddam=8800
+|range=1.97
+|rof= 189
+|shotspeed= 359
+|maxweapenergy=900 
+|shotcost=192
+}}
+{{Infobox ware
+|ware=Fragmentation Bomb Launcher
+|cargoclass=S
+|volume=5
+|minprice=180282
+|aveprice=202564
+|maxprice=224846
+}}
+{{Infobox close}}
+==Overview==
+The Fragmentation Bomb Launcher or FBL is a [[Paranid]] flak weapon.
 
-{{Infobox open}} {{Infobox weapon |weapon=Fragmentation Bomb Launcher |hulldam=1400 |shielddam=8800 |range=1.97 |rof= 189 |shotspeed= 359 |maxweapenergy=900 |shotcost=192 }} {{Infobox ware |ware=Fragmentation Bomb Launcher |cargoclass=S |volume=5 |minprice=180282 |aveprice=202564 |maxprice=224846 }} {{Infobox close}} ==Overview== The Fragmentation Bomb Launcher or FBL is a [[Paranid]] flak weapon. ==Encyclopedia Entry== A weapon mostly found on some medium to larger-sized fighter craft. The Fragmentation Bomb Launcher was created by the Paranid as an anti-fighter weapon that causes more damage with fewer shots. It releases an unstable projectile that, after reaching a certain range from the firing ship, explodes into multiple fragments which impact any nearby ships. ==Commentary== This weapon has an extremely poor rating from players who condemn its poor [[Rate of Fire|ROF]], poor bullet speed and level of damage. The fragmentation explosions seems to lean toward more colourful firework theatrics than actual combat use, since due to a programmer's oversight, they lack AoE damage. Many AI piloted ships have this equipped in their rear turrets but due to its poor performance, players can easily avoid the incoming fire. The only reason this weapon may be in use is as a target leader for the dangerous dumbfire [[Tornado Missile]], as the projectiles have very similar speeds, meaning the Tornado's accuracy can be improved against distant or moving targets. The FBL is more suited to hitting capital ships than fighters because capital ships have a much larger profile which makes them harder to miss for any particular weaponry, and the FBL is no exception. Nonetheless, it requires multitudes of this gun to take down even a [[Carrack|Pirate Carrack]] frigate in order for it to be effective, and the energy drain is only merely tolerable. ==Known Compatible Ships== ==Available at Known Docks==
+==Encyclopedia Entry==
+A weapon mostly found on some medium to larger-sized fighter craft.
+
+The Fragmentation Bomb Launcher was created by the Paranid as an anti-fighter weapon that causes more damage with fewer shots. It releases an unstable projectile that, after reaching a certain range from the firing ship, explodes into multiple fragments which impact any nearby ships.
+
+==Commentary==
+This weapon has an extremely poor rating from players who condemn its poor [[Rate of Fire|ROF]], poor bullet speed and level of damage. The fragmentation explosions seems to lean toward more colourful firework theatrics than actual combat use, since due to a programmer's oversight, they lack AoE damage. Many AI piloted ships have this equipped in their rear turrets but due to its poor performance, players can easily avoid the incoming fire.   
+
+The only reason this weapon may be in use is as a target leader for the dangerous dumbfire [[Tornado Missile]], as the projectiles have very similar speeds, meaning the Tornado's accuracy can be improved against distant or moving targets. The FBL is more suited to hitting capital ships than fighters because capital ships have a much larger profile which makes them harder to miss for any particular weaponry, and the FBL is no exception. Nonetheless, it requires multitudes of this gun to take down even a [[Carrack|Pirate Carrack]] frigate in order for it to be effective, and the energy drain is only merely tolerable.
+
+==Known Compatible Ships==
+
+==Available at Known Docks==

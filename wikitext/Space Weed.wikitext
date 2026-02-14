@@ -1,3 +1,40 @@
-<!-- source file: index__qd5eef59cff02.html -->
+{{Infobox open}}
+{{Infobox ware
+|ware= Space Weed
+|cargoclass=S
+|volume=6
+|minprice=903
+|aveprice=2912
+|maxprice=4921
+}}
+{{Infobox close}}
+==Overview==
+===Encyclopedia Entry===
+Space weed can be smoked or ingested through the mouth. Because of its intoxicating effect, and the fact it is supposedly habit forming, the governments of all races, with the exception of the Teladi, have outlawed this plant. It is suspected that the Teladi produce space weed in a factory they called the Bliss Place.
 
-{{Infobox open}} {{Infobox ware |ware= Space Weed |cargoclass=S |volume=6 |minprice=903 |aveprice=2912 |maxprice=4921 }} {{Infobox close}} ==Overview== ===Encyclopedia Entry=== Space weed can be smoked or ingested through the mouth. Because of its intoxicating effect, and the fact it is supposedly habit forming, the governments of all races, with the exception of the Teladi, have outlawed this plant. It is suspected that the Teladi produce space weed in a factory they called the Bliss Place. ==Commentary== Space Weed is a very valuable, though risky to transport, commodity. It is only bought by some Teladi and Pirate stations. Space Weed has been known to materialize in police-infested Core sectors like [[Omicron Lyrae]] often as a result of an innocuous flight of pirates making their way through a field of [[Plasma Burst Generator|Plasma Burst Generators]]. Newer pilots are encouraged to restrain themselves from trying to deliver these derelict parcels of Space Weed to their original destination; the risk generally isn't worth it, and you won't find many opportunities to unload your stash unless you happen to be near Teladi space. All that said, new players might find that the life of a grower easily beats out the life of a mover, and that six million credits of startup capital will net you the most popular [[Bliss Place]] on this side of Teladi space. ==Trading information== {| ! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at |- valign="top" | *[[Bliss Place]] | *List of Race Factories where this ware is a primary resource | *[[Incendiary Bomb Launcher Forge]] *[[Plasma Burst Generator Forge]] | *List of Trading Stations where this ware is traded (sector only) |} {{Warecategory}} {{Waretable}} {{Teladi Navbox}}
+==Commentary==
+Space Weed is a very valuable, though risky to transport, commodity. It is only bought by some Teladi and Pirate stations.
+
+Space Weed has been known to materialize in police-infested Core sectors like [[Omicron Lyrae]] often as a result of an innocuous flight of pirates making their way through a field of [[Plasma Burst Generator|Plasma Burst Generators]]. Newer pilots are encouraged to restrain themselves from trying to deliver these derelict parcels of Space Weed to their original destination; the risk generally isn't worth it, and you won't find many opportunities to unload your stash unless you happen to be near Teladi space.
+
+All that said, new players might find that the life of a grower easily beats out the life of a mover, and that six million credits of startup capital will net you the most popular [[Bliss Place]] on this side of Teladi space.
+
+==Trading information==
+{|
+! Produced by !! Primary Resource at !! Secondary Resource at !! Traded at
+|- valign="top"
+|
+*[[Bliss Place]]
+|
+*List of Race Factories where this ware is a primary resource
+|
+*[[Incendiary Bomb Launcher Forge]]
+*[[Plasma Burst Generator Forge]]
+|
+*List of Trading Stations where this ware is traded (sector only)
+|}
+
+{{Warecategory}}
+{{Waretable}}
+
+{{Teladi Navbox}}

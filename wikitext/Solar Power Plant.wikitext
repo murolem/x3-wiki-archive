@@ -1,3 +1,200 @@
-<!-- source file: index__q994f3b9dae1e.html -->
+__NOTOC__
+{{Infobox open}}
+{{Infobox factory
+|faction=
+|station=Solar Power Plant XL
+|hull=20000000
+|shield=11
+|generator=1000
+|hangar=25
+|cycle=00:02:25 (Sun 400%) 
+00:03:35 (Sun 150%)
+00:03:59 (Sun 100%)
+|productnum=[[Energy Cells]] (5530)
+|stationprice=
+|reqresources=[[Crystals]](40)
+|optresources=None
+}}
+{{Infobox factory
+|faction=
+|station=Solar Power Plant L
+|hull=1000000
+|shield=9
+|generator=1000
+|hangar=15
+|cycle=00:03:35
+|productnum=[[Energy Cells]] (2765)
+|stationprice=
+|reqresources=[[Crystals]](20)
+|optresources=None
+}}
+{{Infobox factory
+|faction=
+|station=Solar Power Plant M
+|hull=400,000
+|shield=8
+|generator=1000
+|hangar=5
+|cycle=00:03:35
+|productnum=[[Energy Cells]] (1106)
+|stationprice=
+|reqresources=[[Crystals]](8)
+|optresources=None
+}}
+{{Infobox close}}
+==Overview==
+Solar Power Plants produce [[Energy Cells]], the basis of the X universe economy. They require [[Crystals]] to accomplish their task.
 
-__NOTOC__ {{Infobox open}} {{Infobox factory |faction= |station=Solar Power Plant XL |hull=20000000 |shield=11 |generator=1000 |hangar=25 |cycle=00:02:25 (Sun 400%) 00:03:35 (Sun 150%) 00:03:59 (Sun 100%) |productnum=[[Energy Cells]] (5530) |stationprice= |reqresources=[[Crystals]](40) |optresources=None }} {{Infobox factory |faction= |station=Solar Power Plant L |hull=1000000 |shield=9 |generator=1000 |hangar=15 |cycle=00:03:35 |productnum=[[Energy Cells]] (2765) |stationprice= |reqresources=[[Crystals]](20) |optresources=None }} {{Infobox factory |faction= |station=Solar Power Plant M |hull=400,000 |shield=8 |generator=1000 |hangar=5 |cycle=00:03:35 |productnum=[[Energy Cells]] (1106) |stationprice= |reqresources=[[Crystals]](8) |optresources=None }} {{Infobox close}} ==Overview== Solar Power Plants produce [[Energy Cells]], the basis of the X universe economy. They require [[Crystals]] to accomplish their task. NPC plants buy Crystals as a secondary resource only, and do not require them to produce energy. This provides an uninterruptable stream of Energy Cells, ensuring that the X-Universe economy is unable to run down and collapse. A sector's Sun rating only affects the temporal interval of Energy Cell production. Higher Sun ratings do not make a Solar Power Plant more efficient in terms of Crystals used or Energy Cells produced, only that more Energy Cells are created and more Crystals are consumed in the same amount of time. ===Encyclopedia Entry=== Solar Power plants produce Energy. They are found everywhere in the known universe and are operated and controlled by all races. ==Race-specific attributes== {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |+'''Solar Power Plant XL''' |-style="background-color:LightGray;text-align:center;" !Race!!Station Cost |- style="{{Colour/Argon}}" | [[Argon]] || {{Priceblock|Trusted Ally|19581044}} |- style="{{Colour/Boron}}" | [[Boron]] || {{Priceblock|Queen's Guard|17607360}} |- style="{{Colour/Paranid}}" | [[Paranid]] || {{Priceblock|Friend of Priest King|20567888}} |- style="{{Colour/Split}}" | [[Split]] || {{Priceblock|Distinguished Associate|21554732}} |- style="{{Colour/Teladi}}" | [[Teladi]] || {{Priceblock|Majority Shareholder|18594200}} |- style="{{Colour/Terran}}" | [[Terran]] || {{Priceblock|Warrior of Io|17607360}} |} {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |+'''Solar Power Plant L''' |-style="background-color:LightGray;text-align:center;" !Race!!Station Cost |- style="{{Colour/Argon}}" | [[Argon]] || {{Priceblock|Trusted Ally|11014336}} |- style="{{Colour/Boron}}" | [[Boron]] || {{Priceblock|Queen's Guard|9904140}} |- style="{{Colour/Paranid}}" | [[Paranid]] || {{Priceblock|Friend of Priest King|11569436}} |- style="{{Colour/Split}}" | [[Split]] || {{Priceblock|Distinguished Associate|12124536}} |- style="{{Colour/Teladi}}" | [[Teladi]] || {{Priceblock|Majority Shareholder|10459240}} |- style="{{Colour/Terran}}" | [[Terran]] || {{Priceblock|Warrior of Io|9904140}} |} {| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5" |+'''Solar Power Plant M''' |-style="background-color:LightGray;text-align:center;" !Race!!Station Cost |- style="{{Colour/Argon}}" | [[Argon]] || {{Priceblock|Trusted Ally|4895260}} |- style="{{Colour/Boron}}" | [[Boron]] || {{Priceblock|Queen's Guard|4401804}} |- style="{{Colour/Paranid}}" | [[Paranid]] || {{Priceblock|Friend of Priest King|5141972}} |- style="{{Colour/Split}}" | [[Split]] || {{Priceblock|Distinguished Associate|5338684}} |- style="{{Colour/Teladi}}" | [[Teladi]] || {{Priceblock|Majority Shareholder|4648552}} |- style="{{Colour/Terran}}" | [[Terran]] || {{Priceblock|Warrior of Io|6998796}} |} ==Availability== ===XL-type=== {| style="text-align:left;" |- valign="top" | '''[[Argon#Shipyards|Argon]]''' *{{sa|Legend's Home}} *{{sa|Light of Heart}} | '''[[Boron#Shipyards|Boron]]''' *{{sa|Ocean of Fantasy}} *{{sa|Queen's Retribution}} | '''[[Paranid#Shipyards|Paranid]]''' *{{sa|Cardinal's Domain}} *{{sa|Heaven's Assertion}} *{{sa|Third Redemption}} | '''[[Split#Shipyards|Split]]''' *{{sa|Patriarch's Conclusion}} *{{sa|Rhonkar's Might}} *{{sa|Rhonkar's Trial}} *{{sa|Zyarth's Dominion}} | '''[[Teladi#Shipyards|Teladi]]''' *{{sa|Ceo's Sprite}} *{{sa|Ianamus Zura}} | '''[[Terran#Shipyards|Terran]]''' *{{sa|Saturn}} *{{sa|The Moon}} *{{sa|Terran Unknown Sector 1}} |} ===L-type=== {| style="text-align:left;" |- valign="top" | '''[[Argon#Shipyards|Argon]]''' *{{sa|Omicron Lyrae}} | '''[[Boron#Shipyards|Boron]]''' *{{sa|Depths of Silence}} *{{sa|Great Reef}} *{{sa|Queen's Retribution}} | '''[[Paranid#Shipyards|Paranid]]''' *{{sa|Heaven's Assertion}} *{{sa|Third Redemption}} *{{sa|Trinity Sanctum}} | '''[[Split#Shipyards|Split]]''' *{{sa|Cho's Defeat}} *{{sa|Family Pride}} *{{sa|Family Rhy}} *{{sa|Patriarch's Conclusion}} *{{sa|Rhonkar's Might}} *{{sa|Rhonkar's Trial}} *{{sa|Zyarth's Dominion}} | '''[[Teladi#Shipyards|Teladi]]''' *{{sa|Ceo's Sprite}} *{{sa|PTNI Headquarters}} | '''[[Terran#Shipyards|Terran]]''' *{{sa|The Moon}} *{{sa|Terran Unknown Sector 1}} |} ===M-type=== {| style="text-align:left;" |- valign="top" | '''[[Argon#Shipyards|Argon]]''' *{{sa|Argon Prime}} *{{sa|Cloudbase Southeast}} *{{sa|Legend's Home}} | '''[[Boron#Shipyards|Boron]]''' *{{sa|Lucky Planets}} *{{sa|Queen's Retribution}} | '''[[Paranid#Shipyards|Paranid]]''' *{{sa|Duke's Citadel}} *{{sa|Heaven's Assertion}} *{{sa|Paranid Prime}} *{{sa|Third Redemption}} | '''[[Split#Shipyards|Split]]''' *{{sa|Family Njy}} *{{sa|Family Rhy}} *{{sa|Family Tkr}} *{{sa|Patriarch's Conclusion}} *{{sa|Rhonkar's Might}} *{{sa|Rhonkar's Trial}} *{{sa|Zyarth's Dominion}} | '''[[Teladi#Shipyards|Teladi]]''' *{{sa|Ceo's Sprite}} *{{sa|Grand Exchange}} *{{sa|Ministry of Finance}} *{{sa|Seizewell}} | '''[[Terran#Shipyards|Terran]]''' *{{sa|Mars}} *{{sa|The Moon}} *{{sa|Terran Unknown Sector 1}} |} {{Stationcategory}}
+NPC plants buy Crystals as a secondary resource only, and do not require them to produce energy. This provides an uninterruptable stream of Energy Cells, ensuring that the X-Universe economy is unable to run down and collapse.
+
+A sector's Sun rating only affects the temporal interval of Energy Cell production. Higher Sun ratings do not make a Solar Power Plant more efficient in terms of Crystals used or Energy Cells produced, only that more Energy Cells are created and more Crystals are consumed in the same amount of time.
+
+===Encyclopedia Entry===
+Solar Power plants produce Energy. They are found everywhere in the known universe and are operated and controlled by all races.
+
+==Race-specific attributes==
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|+'''Solar Power Plant XL'''
+|-style="background-color:LightGray;text-align:center;"
+!Race!!Station Cost
+|- style="{{Colour/Argon}}"
+| [[Argon]] || {{Priceblock|Trusted Ally|19581044}}
+|- style="{{Colour/Boron}}"
+| [[Boron]] || {{Priceblock|Queen's Guard|17607360}}
+|- style="{{Colour/Paranid}}"
+| [[Paranid]] || {{Priceblock|Friend of Priest King|20567888}}
+|- style="{{Colour/Split}}"
+| [[Split]] || {{Priceblock|Distinguished Associate|21554732}}
+|- style="{{Colour/Teladi}}"
+| [[Teladi]] ||  {{Priceblock|Majority Shareholder|18594200}}
+|- style="{{Colour/Terran}}"
+| [[Terran]] ||  {{Priceblock|Warrior of Io|17607360}}
+|}
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|+'''Solar Power Plant L'''
+|-style="background-color:LightGray;text-align:center;"
+!Race!!Station Cost
+|- style="{{Colour/Argon}}"
+| [[Argon]] || {{Priceblock|Trusted Ally|11014336}}
+|- style="{{Colour/Boron}}"
+| [[Boron]] || {{Priceblock|Queen's Guard|9904140}}
+|- style="{{Colour/Paranid}}"
+| [[Paranid]] || {{Priceblock|Friend of Priest King|11569436}}
+|- style="{{Colour/Split}}"
+| [[Split]] || {{Priceblock|Distinguished Associate|12124536}}
+|- style="{{Colour/Teladi}}"
+| [[Teladi]] ||  {{Priceblock|Majority Shareholder|10459240}}
+|- style="{{Colour/Terran}}"
+| [[Terran]] ||  {{Priceblock|Warrior of Io|9904140}}
+|}
+{| style="text-align:right;background-color: WhiteSmoke;" cellspacing="0" cellpadding="5"
+|+'''Solar Power Plant M'''
+|-style="background-color:LightGray;text-align:center;"
+!Race!!Station Cost
+|- style="{{Colour/Argon}}"
+| [[Argon]] || {{Priceblock|Trusted Ally|4895260}}
+|- style="{{Colour/Boron}}"
+| [[Boron]] || {{Priceblock|Queen's Guard|4401804}}
+|- style="{{Colour/Paranid}}"
+| [[Paranid]] || {{Priceblock|Friend of Priest King|5141972}}
+|- style="{{Colour/Split}}"
+| [[Split]] || {{Priceblock|Distinguished Associate|5338684}}
+|- style="{{Colour/Teladi}}"
+| [[Teladi]] ||  {{Priceblock|Majority Shareholder|4648552}}
+|- style="{{Colour/Terran}}"
+| [[Terran]] ||  {{Priceblock|Warrior of Io|6998796}}
+|}
+
+==Availability==
+===XL-type===
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Argon#Shipyards|Argon]]'''
+*{{sa|Legend's Home}}
+*{{sa|Light of Heart}}
+| '''[[Boron#Shipyards|Boron]]'''
+*{{sa|Ocean of Fantasy}}
+*{{sa|Queen's Retribution}}
+| '''[[Paranid#Shipyards|Paranid]]'''
+*{{sa|Cardinal's Domain}}
+*{{sa|Heaven's Assertion}}
+*{{sa|Third Redemption}}
+| '''[[Split#Shipyards|Split]]'''
+*{{sa|Patriarch's Conclusion}}
+*{{sa|Rhonkar's Might}}
+*{{sa|Rhonkar's Trial}}
+*{{sa|Zyarth's Dominion}}
+| '''[[Teladi#Shipyards|Teladi]]'''
+*{{sa|Ceo's Sprite}}
+*{{sa|Ianamus Zura}}
+| '''[[Terran#Shipyards|Terran]]'''
+*{{sa|Saturn}}
+*{{sa|The Moon}}
+*{{sa|Terran Unknown Sector 1}}
+|}
+
+===L-type===
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Argon#Shipyards|Argon]]'''
+*{{sa|Omicron Lyrae}}
+| '''[[Boron#Shipyards|Boron]]'''
+*{{sa|Depths of Silence}}
+*{{sa|Great Reef}}
+*{{sa|Queen's Retribution}}
+| '''[[Paranid#Shipyards|Paranid]]'''
+*{{sa|Heaven's Assertion}}
+*{{sa|Third Redemption}}
+*{{sa|Trinity Sanctum}}
+| '''[[Split#Shipyards|Split]]'''
+*{{sa|Cho's Defeat}}
+*{{sa|Family Pride}}
+*{{sa|Family Rhy}}
+*{{sa|Patriarch's Conclusion}}
+*{{sa|Rhonkar's Might}}
+*{{sa|Rhonkar's Trial}}
+*{{sa|Zyarth's Dominion}}
+| '''[[Teladi#Shipyards|Teladi]]'''
+*{{sa|Ceo's Sprite}}
+*{{sa|PTNI Headquarters}}
+| '''[[Terran#Shipyards|Terran]]'''
+*{{sa|The Moon}}
+*{{sa|Terran Unknown Sector 1}}
+|}
+
+===M-type===
+{| style="text-align:left;"
+|- valign="top"
+| '''[[Argon#Shipyards|Argon]]'''
+*{{sa|Argon Prime}}
+*{{sa|Cloudbase Southeast}}
+*{{sa|Legend's Home}}
+| '''[[Boron#Shipyards|Boron]]'''
+*{{sa|Lucky Planets}}
+*{{sa|Queen's Retribution}}
+| '''[[Paranid#Shipyards|Paranid]]'''
+*{{sa|Duke's Citadel}}
+*{{sa|Heaven's Assertion}}
+*{{sa|Paranid Prime}}
+*{{sa|Third Redemption}}
+| '''[[Split#Shipyards|Split]]'''
+*{{sa|Family Njy}}
+*{{sa|Family Rhy}}
+*{{sa|Family Tkr}}
+*{{sa|Patriarch's Conclusion}}
+*{{sa|Rhonkar's Might}}
+*{{sa|Rhonkar's Trial}}
+*{{sa|Zyarth's Dominion}}
+| '''[[Teladi#Shipyards|Teladi]]'''
+*{{sa|Ceo's Sprite}}
+*{{sa|Grand Exchange}}
+*{{sa|Ministry of Finance}}
+*{{sa|Seizewell}}
+| '''[[Terran#Shipyards|Terran]]'''
+*{{sa|Mars}} 
+*{{sa|The Moon}} 
+*{{sa|Terran Unknown Sector 1}}
+|}
+
+
+{{Stationcategory}}
