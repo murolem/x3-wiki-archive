@@ -24,6 +24,7 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "@types/jsdom": "^27.0.0"
+    "@types/he": "^1.2.3",
+    "he": "^1.2.0"
   }
 }

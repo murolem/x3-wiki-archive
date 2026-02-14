@@ -15,6 +15,7 @@ import { formatForLogAsList } from './utils/formatForLogAsList.ts';
 import { logLevel, archiveDirname as archiveDirnamePreset, archiveName as archiveNamePreset, onlyRunStepsSubstr, originalManifestName, processedManifestName, loadProcessedManifestFromDisk, browseManifestName, browseManifestDelimiter, onlyRunTaskSubstr, deployHostname } from './preset.ts';
 import { SitemapStream, streamToPromise } from 'sitemap'
 import { Readable } from 'stream'
+import { htmlDecode } from './utils/htmlDecode.ts';
 const logger = new Logger();
 const { logDebug, logInfo, logWarn, logFatalAndThrow } = logger;
 
@@ -235,8 +236,6 @@ await runStep("removing ad-related and other trash pages", async () => {
         e.remove();
     }
     logInfo(chalk.bold(`bad pages removed: ${badEntries.length}`));
-
-    fs.writeFileSync('manifest.json', JSON.stringify(manifest, null, 4));
 });
 
 
@@ -588,8 +587,6 @@ domTask('paint non-existent links red', (doc, accum, opts) => {
             if(titleLooselyDecoded === null)
                 continue;
             const wouldBeLink = `/index.php/${titleLooselyDecoded}`;
-            if(wouldBeLink.includes('M2'))
-                debugger;
             if (knownUrls.has(wouldBeLink)) {
                 el.classList.remove('new')
                 el.parentElement?.classList.remove('new');
@@ -604,8 +601,6 @@ domTask('paint non-existent links red', (doc, accum, opts) => {
 
         if (!knownUrls.has(pathnameLooselyDecoded + hrefParsed.search)) {
             el.classList.add('new');
-            if(el === null || el?.parentElement === null)
-                debugger;
             if (el.parentElement?.tagName === 'LI')
                 el.parentElement.classList.add('new');
 
@@ -731,7 +726,7 @@ domTask('extracting wikitext', (doc, accum, opts) => {
     }
     logDebug("wikitext element found")
 
-    let wikitext = wikitextEl.innerText
+    let wikitext = htmlDecode(wikitextEl.innerHTML)
         .trim();
 
     if (wikitext === '') {
@@ -739,7 +734,7 @@ domTask('extracting wikitext', (doc, accum, opts) => {
         return accum;
     }
 
-    wikitext = `<!-- source file: ${opts.relFp} -->\n\n` + wikitext;
+    // wikitext = `<!-- source file: ${opts.relFp} \n\n-->` + wikitext;
     logDebug('wikitext valid; extracted');
 
     const alreadyExtractedEntry = accum.extractedPages.find(e => e.name === pageName);
@@ -837,7 +832,7 @@ await runStep("running tasks on DOM (w/ loading & parsing)", async () => {
         logger.addMessagePadding('    ');
         const relFp = manifestEntry.diskPath;
 
-        logProcessingProgress("running tasks on pages", fpIdx, manifestEntries.length, 100);
+        logProcessingProgress("running tasks on pages", fpIdx, manifestEntries.length, 250);
         const fp = path.join(archivePath, relFp);
         const contents = await fsPromises.readFile(fp, 'utf-8');
         const doc = parseHTML(contents)?.document;

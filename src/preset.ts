@@ -30,20 +30,20 @@ export const loadProcessedManifestFromDisk = true;
 
 // run only the steps containing a specific substring in their names.
 // set to empty array to disable.
-export const onlyRunStepsSubstr: string[] = []
-// export const onlyRunStepsSubstr: string[] = [
-//     "mapping manifest",
-//     "removing ad-related",
-//     "renaming php",
-//     "running tasks"
-// ];
+// export const onlyRunStepsSubstr: string[] = []
+export const onlyRunStepsSubstr: string[] = [
+    "mapping manifest",
+    "removing ad-related",
+    "renaming php",
+    "running tasks"
+];
 
 // run only the tasks in tasks step containing a specific substring in their names.
 // set to empty array to disable.
-export const onlyRunTaskSubstr: string[] = [];
-// export const onlyRunTaskSubstr: string[] = [
-//     "extract"
-// ];
+// export const onlyRunTaskSubstr: string[] = [];
+export const onlyRunTaskSubstr: string[] = [
+    "extracting wikitext"
+];
 
 // controls how detailed are the logs
 export const logLevel: LogLevel = 'INFO';
