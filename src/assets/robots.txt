@@ -1,6 +1,3 @@
 User-agent: *
+Allow: /
 Sitemap: https://x3wiki.aliser.space/sitemap.xml
-Allow: /index.php/
-Allow: /index.html
-Allow: /sitemap.xml
-Disallow: /
