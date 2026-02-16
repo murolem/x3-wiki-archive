@@ -83,7 +83,7 @@ let stepRunCounter = 1;
 const runStep = async (name: string, fn: () => void | Promise<void>) => {
     if(onlyRunStepsSubstr.length > 0) {
         const nameLc = name.toLocaleLowerCase();
-        if(!onlyRunStepsSubstr.some(substr => nameLc.includes(substr))) {
+        if(!onlyRunStepsSubstr.some(substr => nameLc.includes(substr.toLocaleLowerCase()))) {
             return;
         }
     }
@@ -438,71 +438,6 @@ await runStep("replace some endpoints with redirects", () => {
     }
 });
 
-
-await runStep("generate sitemap", async () => {
-    // Create a stream to write to
-    const stream = new SitemapStream( { hostname: deployHostname } );
-
-    const tsIso = new Date().toISOString();
-    const links = manifest
-    .filter(e => e.urlPath.startsWith('index.php'))
-    .map(e => ({ 
-        url: '/' + e.urlPath,
-        lastmod: tsIso,
-        changefreq: 'weekly',
-    }));
-    
-    // Return a promise that resolves with your XML string
-    const sitemap = await streamToPromise(Readable.from(links).pipe(stream))
-        .then((data) => data.toString());
-
-    await fsPromises.writeFile(path.join(archivePath, 'sitemap.xml'), sitemap);
-});
-
-await runStep("generate browse manifest", () => {
-    // we only want to include the pages under index.php and only those with one level deep with /index.html in them, since those are mainline pages.
-    const mainlinePagesRegex = /index\.php\/[^\/]+\/index\.html/;
-
-    // some stuff you dont wanna see in search
-    const substringBlacklist = [
-        "Recent Changes",
-        "Special:",
-        // "User:",
-        // "User talk:",
-        // "Template:",
-        // "Talk:",
-        "MediaWiki:"
-    ];
-
-    const matchingEntries = manifest
-        .filter(e => {
-            return mainlinePagesRegex.test(e.diskPath)
-                && !manifestCtrl.matchesCustomBlacklist(e.diskPath, substringBlacklist);
-        });
-
-    /** Formats name pretty for display/search. */
-    const formatPageNameForDisplay = (name: string) => name.replaceAll('_', ' ');
-
-    // contains 2 things per item:
-    // 1. display page name used in searching./
-    // 2. link to the page
-    const browseManifest: [string, string][] = matchingEntries
-        .map(e => ([
-            formatPageNameForDisplay(e.urlPath.split('/').at(-1)!),
-            '/' + e.urlPath
-        ]));
-
-    const saveFilepath = path.join(archivePath, browseManifestName)
-    fs.writeFileSync(
-        saveFilepath,
-        browseManifest
-            .map(e => e.join(browseManifestDelimiter))
-            .join("\n"),
-    )
-
-    logInfo(chalk.bold("browse entries generated: " + browseManifest.length));
-});
-
 // ========================
 
 const domTasks: DomTask[] = []
@@ -846,7 +781,7 @@ await runStep("running tasks on DOM (w/ loading & parsing)", async () => {
 
             if(onlyRunTaskSubstr.length > 0) {
                 const nameLc = task.name.toLocaleLowerCase();
-                if(!onlyRunTaskSubstr.some(substr => nameLc.includes(substr))) {
+                if(!onlyRunTaskSubstr.some(substr => nameLc.includes(substr.toLocaleLowerCase()))) {
                     continue;
                 }
             }
@@ -884,3 +819,94 @@ await runStep("running tasks on DOM (w/ loading & parsing)", async () => {
         }
     }
 })
+
+// =====================================
+
+await runStep("removing unused HTML files", async () => {
+    const whitelist = ["index.html"];
+
+    const assetsDirpath = path.join("src", "assets");
+    assertPathExists(assetsDirpath, "assets dir not found");
+    const htmlAssetFilepaths = fs.readdirSync(assetsDirpath)
+        .filter(e => e.endsWith('.html'));
+    whitelist.push(...htmlAssetFilepaths);
+
+    const entries = manifest
+        .filter(e => {
+            return path.parse(e.diskPath).dir === "" /* only paths in root */ 
+                && e.diskPath.endsWith('.html')
+                && !whitelist.includes(e.diskPath);
+        });
+
+    for(const e of entries) {
+        const filepath = path.join(archivePath, e.diskPath);
+        await fsPromises.rm(filepath);
+        e.remove();
+    }
+
+    logInfo(`unused HTML files removed: ${entries.length}`);
+});
+
+await runStep("generate sitemap", async () => {
+    // Create a stream to write to
+    const stream = new SitemapStream( { hostname: deployHostname } );
+
+    const tsIso = new Date().toISOString();
+    const links = manifest
+    .filter(e => e.urlPath.startsWith('index.php'))
+    .map(e => ({ 
+        url: '/' + e.urlPath,
+        lastmod: tsIso,
+        changefreq: 'weekly',
+    }));
+    
+    // Return a promise that resolves with your XML string
+    const sitemap = await streamToPromise(Readable.from(links).pipe(stream))
+        .then((data) => data.toString());
+
+    await fsPromises.writeFile(path.join(archivePath, 'sitemap.xml'), sitemap);
+});
+
+await runStep("generate browse manifest", () => {
+    // we only want to include the pages under index.php and only those with one level deep with /index.html in them, since those are mainline pages.
+    const mainlinePagesRegex = /index\.php\/[^\/]+\/index\.html/;
+
+    // some stuff you dont wanna see in search
+    const substringBlacklist = [
+        "Recent Changes",
+        "Special:",
+        // "User:",
+        // "User talk:",
+        // "Template:",
+        // "Talk:",
+        "MediaWiki:"
+    ];
+
+    const matchingEntries = manifest
+        .filter(e => {
+            return mainlinePagesRegex.test(e.diskPath)
+                && !manifestCtrl.matchesCustomBlacklist(e.diskPath, substringBlacklist);
+        });
+
+    /** Formats name pretty for display/search. */
+    const formatPageNameForDisplay = (name: string) => name.replaceAll('_', ' ');
+
+    // contains 2 things per item:
+    // 1. display page name used in searching./
+    // 2. link to the page
+    const browseManifest: [string, string][] = matchingEntries
+        .map(e => ([
+            formatPageNameForDisplay(e.urlPath.split('/').at(-1)!),
+            '/' + e.urlPath
+        ]));
+
+    const saveFilepath = path.join(archivePath, browseManifestName)
+    fs.writeFileSync(
+        saveFilepath,
+        browseManifest
+            .map(e => e.join(browseManifestDelimiter))
+            .join("\n"),
+    )
+
+    logInfo(chalk.bold("browse entries generated: " + browseManifest.length));
+});
